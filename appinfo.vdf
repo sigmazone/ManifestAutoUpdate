@@ -1,0 +1,370 @@
+"appid" "1934080"
+"common"
+{
+	"name" "浮生箓2：九九行歌"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "dfa5eb594dd17b5125c1e2645f9e11da0c57ccd9"
+	"clienttga" "00de57b740be7e20dd97f1414ff2215a614c1775"
+	"clienticon" "fae978d4238ed0943f5c420789002f7023f0e315"
+	"clienticns" "49e8596bdfb08739012b880b6546837193d4e460"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"english" "Floating Life2"
+		"koreana" "Floating Life2"
+		"japanese" "Floating Life2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1698710400"
+		"tested_build_id" "12471370"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "44.30064117786749"
+		}
+	}
+	"store_asset_mtime" "1689933430"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "心流工作室（Heart Stream Studio）"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "心流工作室（Heart Stream Studio）"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698377902"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1934080"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "21"
+		"2" "122"
+		"3" "3834"
+		"4" "1664"
+		"5" "4486"
+		"6" "1695"
+		"7" "1742"
+		"8" "3959"
+		"9" "6915"
+		"10" "3810"
+		"11" "17305"
+		"12" "4747"
+		"13" "3871"
+		"14" "492"
+		"15" "6971"
+		"16" "4252"
+		"17" "1684"
+		"18" "5984"
+		"19" "16094"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "心流工作室（Heart Stream Studio）"
+	"publisher" "心流工作室（Heart Stream Studio）"
+}
+"config"
+{
+	"installdir" "Floating Life2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Floating Life2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"1934081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1898657632156314256"
+				"size" "11580159931"
+				"download" "2354835504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "169EC96F4EEE4D5D6ADEBE91BCD6B117"
+				"size" "FD42459EC4EFE3E547436E0B295FF67F"
+				"download" "652499FE7B4A0E04D04337BE819F7148"
+			}
+		}
+	}
+	"1934082"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "980933323903342789"
+				"size" "11386186109"
+				"download" "2321631680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "F2A42C9C631A88334B13805312CC23C1"
+				"size" "2D8424E2A47D5EC824317141CE45DD24"
+				"download" "DD82B4BFFA187A025AB02D2B85529BC5"
+			}
+		}
+	}
+	"1934084"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6800676759834743847"
+				"size" "11581792767"
+				"download" "2350970592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "6C16033E837E2E3306A66E6CE26DC6F0"
+				"size" "A17277CEE529721ADBEB0695B597929C"
+				"download" "605778C2DD6B5949412385D287E4F189"
+			}
+		}
+	}
+	"1934085"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1115013962888378836"
+				"size" "11597679031"
+				"download" "2355942048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "0FDB2BDC85D6888685A827BC19EF4B7E"
+				"size" "29BC315FD22E3AB7503292A4A5E46ECB"
+				"download" "98D0D6DE4A95903D9C58FDE62C22AA64"
+			}
+		}
+	}
+	"1934086"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2651959459638316100"
+				"size" "11651412231"
+				"download" "2376941200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "78037350C6E6A063E3563878B60FC289"
+				"size" "EE792B23B576C37C707DC1D502E80CE3"
+				"download" "5727E2BB11A5BE92BDCADB064A4DDAD1"
+			}
+		}
+	}
+	"workshopdepot" "1934080"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14844822"
+			"timeupdated" "1719544768"
+		}
+		"test"
+		{
+			"buildid" "14844822"
+			"pwdrequired" "1"
+			"timeupdated" "1719405541"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HeartStream/Floating Life2"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24156034"
+"_sha" "feba851925e83b8e16ec648bf87b01f32896e3a7"
+"_size" "6605"
