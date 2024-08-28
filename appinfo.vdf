@@ -1,0 +1,677 @@
+"appid" "1368130"
+"common"
+{
+	"name" "Park Beyond"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "a416e671fcab0fb65955afba1dba838b394a75cd"
+	"clienticon" "1856c9fee64eb65a6b048a9cee9b6fd7d4a19a74"
+	"icon" "fa7bbfac1983457d5bccaa48bbc3e920359ae55a"
+	"logo" "f9fd322c1da582148b92710476196734358e0b4f"
+	"logo_small" "f9fd322c1da582148b92710476196734358e0b4f_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1368130_eula_0"
+			"name" "Park Beyond EULA"
+			"url" "https://store.steampowered.com//eula/1368130_eula_0"
+			"version" "19"
+		}
+	}
+	"name_localized"
+	{
+		"koreana" "파크 비욘드"
+		"tchinese" "狂想樂園"
+		"schinese" "狂想乐园"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1687392000"
+		"tested_build_id" "11476623"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"store_asset_mtime" "1721936851"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Limbic Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Europe S.A.S."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1686866368"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1368130"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "12472"
+		"2" "1643"
+		"3" "8945"
+		"4" "3810"
+		"5" "4562"
+		"6" "4305"
+		"7" "597"
+		"8" "3839"
+		"9" "4195"
+		"10" "4182"
+		"11" "4136"
+		"12" "9"
+		"13" "1654"
+		"14" "3934"
+		"15" "4328"
+		"16" "4191"
+		"17" "4695"
+		"18" "5350"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "Limbic Entertainment"
+	"publisher" "Bandai Namco Europe S.A.S."
+	"homepage" "http://Impossify.com"
+	"listofdlc" "2138730,2138731,2138732,2138733,2138734,2138735,2138736,2138737,2138738,2138739,2138754,2144730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ParkBeyond"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ParkBeyond.exe"
+			"description_loc"
+			{
+				"english" "Game"
+			}
+			"description" "Game"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1368131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6788976109167749415"
+				"size" "35424952557"
+				"download" "17292170064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bneu_debug2"
+			{
+				"gid" "57AB40BC3D887A647159971407C93BE3"
+				"size" "C9133856AC5ED30D6DB60E65D686F429"
+				"download" "D0FA891028B7B2E1A9BA152698962FC5"
+			}
+			"bneu_release"
+			{
+				"gid" "52E9795C257B9E20A4E1D169D0B318EF"
+				"size" "A9FB8BF91D748A9BDD6CEC72A241DBCF"
+				"download" "346779EEB784D06A097CF0C1F4ED4E5F"
+			}
+			"lim-special3"
+			{
+				"gid" "D6CCA840B337566B20B0D88DA12B65C0"
+				"size" "E1F2770F5131C521B48C6DCA67348A2B"
+				"download" "9DB4D783A78D8D124C201FDDCB0D8468"
+			}
+			"lim-stable"
+			{
+				"gid" "55F0F5CE98D36705C2954396580F31F1"
+				"size" "F7F3962465E44E2B8CCA7B443A6798EC"
+				"download" "076B6A5DC8071426C9AB5B3A97FCDC88"
+			}
+			"marketing"
+			{
+				"gid" "03AE40978B40A40B3BA4DBFD5FAC8724"
+				"size" "4CAB7C62E5DA6DC390DB07BBC32CAF82"
+				"download" "6330DBB4F91E9ED3E45E92C6E94066FB"
+			}
+			"milestone"
+			{
+				"gid" "683AA5370BA199E0FDE429B5488B97F5"
+				"size" "F7F2BF7807B6C54883AA284831385252"
+				"download" "E2633FDDB1CEDA5BAE7C233115A92F34"
+			}
+			"playtest"
+			{
+				"gid" "BD188F07E54078C99832117AB655D21C"
+				"size" "FA0C507260787E746536AB276A5A8F0A"
+				"download" "6B506859F5D008715A2D35AB8B9D61B7"
+			}
+			"virtualmachine"
+			{
+				"gid" "4AAD9F450DDB68E3513A93E358C7AD18"
+				"size" "962DBAB1A1ED961E55E9530367CB00F9"
+				"download" "D64515938E6AB99C882B15596CA3EE03"
+			}
+			"bneu_debug"
+			{
+				"gid" "3FCA3DA49F29B00E38B08DAD551B94AC"
+				"size" "D7AF50E0922FE35BDDA1ED0F33CEF97C"
+				"download" "ADC7E0FF739BB568E469EA6DF55E841F"
+			}
+			"development"
+			{
+				"gid" "FB1327F70895C59FB29AE9E26E04965A"
+				"size" "F955D4E9F4BED801CB408B761415C777"
+				"download" "07E9141626D9B5D44A568E4B7DBC9ABE"
+			}
+			"farm"
+			{
+				"gid" "B1C14C72D892B1FA4F6C7576932F6314"
+				"size" "FABBF9A4602100D83A47A5CEB86F20D9"
+				"download" "28A32DD54B44B2CD57AA32C2E22D5159"
+			}
+			"lim-review"
+			{
+				"gid" "8D7465F6629B0DFFCE0077453762DC46"
+				"size" "80D6F29A609B1977839922138FAC51AC"
+				"download" "55CD3006A135F9D2E92663D1A6C5E7BA"
+			}
+			"lim-special1"
+			{
+				"gid" "E54FDBF94BD3825966DE736DB0CC7B46"
+				"size" "4569FEE9E5176187B4E44EAD826D1B2A"
+				"download" "FB78A8667CA55797F914AABCFD696CC0"
+			}
+			"lim-special2"
+			{
+				"gid" "4C2BB48E77FCA9145EAEB1261712B838"
+				"size" "00C6A515BA6806CD941F74B7ECF4C3B2"
+				"download" "43AA3D39AC10903C2A5563A7C3E8A2B0"
+			}
+			"lim-special4"
+			{
+				"gid" "3933C6C15B9595C05C9D2E6C303992A7"
+				"size" "3C418FE306D28A05C7AF7616F8694097"
+				"download" "D187578F215080EF4CFF4BDBE2EA297C"
+			}
+			"qa-debug"
+			{
+				"gid" "E127360F1DDF13CD8C0D511BA8E5149D"
+				"size" "07027173B102BE23EF4A13EA4F7F421E"
+				"download" "C5179450256A8AF0A2367D56C7FAD2B9"
+			}
+			"qa-release"
+			{
+				"gid" "6686761E235661446095CB7734F22072"
+				"size" "A1FB786CBD49E5FE36296DA940ADDE98"
+				"download" "B140595B2C36F104EFCD160B9AB6AF6C"
+			}
+		}
+	}
+	"1368132"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3003799399006482622"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bneu_debug2"
+			{
+				"gid" "A37118183900ECCA3D87881B9AA25884"
+				"size" "B63C0BC331DF828E9AC2CDF85E8EB208"
+				"download" "B63C0BC331DF828E9AC2CDF85E8EB208"
+			}
+			"bneu_release"
+			{
+				"gid" "E61B8D7DD77EBB2F90624C98432B4F0C"
+				"size" "E6624BA1E1F5B9F33E7F11D8499BA97C"
+				"download" "E6624BA1E1F5B9F33E7F11D8499BA97C"
+			}
+			"lim-special3"
+			{
+				"gid" "648100F43C4D5CF4C43517B1B84EDE73"
+				"size" "88A1E2F55AFDD11BFFD405AB790C1A82"
+				"download" "49EF4399114539F29E37CC8A6AFE06EF"
+			}
+			"lim-stable"
+			{
+				"gid" "136C77CA349F210448361EF4E9D5D69B"
+				"size" "ADCADD8AAD1947B852766E8014FEC503"
+				"download" "F5D68A11F4092AB597218956EDA00993"
+			}
+			"marketing"
+			{
+				"gid" "851A57A4F2BBBBAB09B67D6537FF10B0"
+				"size" "2BFB93F8B4DF0E0E9CD473727BF722CB"
+				"download" "CB55BBF273086B5D3B3C79AE9CC48B47"
+			}
+			"milestone"
+			{
+				"gid" "EF3383898F8392543345FA75769169B6"
+				"size" "3E246B7CEA8679D1120897496D0DC932"
+				"download" "3E246B7CEA8679D1120897496D0DC932"
+			}
+			"playtest"
+			{
+				"gid" "158BBC158B8C1523F2AC86D9D648D5F8"
+				"size" "C9BCF3056B4A1DF22F2AAFB331EC2D1F"
+				"download" "EEE7215FA7D6851CB2A74460E4EC91EB"
+			}
+			"virtualmachine"
+			{
+				"gid" "E1D13C3A656E51ACED8D2685859F82B6"
+				"size" "6D281F731F34F58BC801CE1D47E262AD"
+				"download" "39B18D73879D5AA79FA72D5B88594B52"
+			}
+			"bneu_debug"
+			{
+				"gid" "3CFCC4E5F8468BEA4A9CEEC90A58794A"
+				"size" "CFF11771C3A6EBEE3774C5B17E90FEB0"
+				"download" "FEF285980B959A32C66CBBB0D8A941F9"
+			}
+			"development"
+			{
+				"gid" "AF2A51CFF6A7188B84AE1557DEE08B97"
+				"size" "9F885297787135A4DEDE671D8C00853A"
+				"download" "6ACBF50FA179CE563F591B0DA701D30F"
+			}
+			"farm"
+			{
+				"gid" "19A731469BA64649C2029C99E01A80C5"
+				"size" "2F2256D84979E0BE4A2AA4719C63083F"
+				"download" "E13E72B351F845D17C4626D7776E7407"
+			}
+			"lim-review"
+			{
+				"gid" "AA436BBB6DFADA8E19127CAC0C7A9D8D"
+				"size" "F006CA63901C3930862D6015FBA28AF4"
+				"download" "F006CA63901C3930862D6015FBA28AF4"
+			}
+			"lim-special1"
+			{
+				"gid" "EECA4C67220B2D50D3221F90500A6A56"
+				"size" "061D0CE71D332BFFFFC12BCF2A353183"
+				"download" "A96A181A77513AF88197CF913858FFBA"
+			}
+			"lim-special2"
+			{
+				"gid" "92DCCCD153D7F2FC41E1E69EBC7C6083"
+				"size" "BAF40FD4B106D622F921D1617D537155"
+				"download" "7B9620FEC00E8844E5DD62FB491D6F38"
+			}
+			"lim-special4"
+			{
+				"gid" "E7F60D54C187DDAB2EDA9F45514C2902"
+				"size" "4243121B95BF5D2722EA7604E4D99165"
+				"download" "D9802D9EAFB7DE32B0A42A11A3C2F55F"
+			}
+			"qa-debug"
+			{
+				"gid" "EE3B3911E18690049E53F7E1EB61F561"
+				"size" "D5AF3C29971FACB253E5E8845459A6B4"
+				"download" "CF92192BAE02191DE5AB4280E17AD6CF"
+			}
+			"qa-release"
+			{
+				"gid" "C658A36D5C86FCBE604558468250F822"
+				"size" "DD4BA10EEA6B4486C2D85619D7FF7ABF"
+				"download" "DD4BA10EEA6B4486C2D85619D7FF7ABF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15284391"
+			"timeupdated" "1724853566"
+		}
+		"bneu_debug2"
+		{
+			"buildid" "11776082"
+			"pwdrequired" "1"
+			"timeupdated" "1690231492"
+		}
+		"bneu_release"
+		{
+			"buildid" "13576858"
+			"pwdrequired" "1"
+			"timeupdated" "1709045351"
+		}
+		"lim-special3"
+		{
+			"buildid" "13994654"
+			"pwdrequired" "1"
+			"timeupdated" "1712649085"
+		}
+		"lim-stable"
+		{
+			"buildid" "12692974"
+			"pwdrequired" "1"
+			"timeupdated" "1699908792"
+		}
+		"marketing"
+		{
+			"buildid" "13635304"
+			"pwdrequired" "1"
+			"timeupdated" "1709654733"
+		}
+		"milestone"
+		{
+			"buildid" "12693934"
+			"pwdrequired" "1"
+			"timeupdated" "1699917494"
+		}
+		"playtest"
+		{
+			"buildid" "12472444"
+			"pwdrequired" "1"
+			"timeupdated" "1697698968"
+		}
+		"virtualmachine"
+		{
+			"buildid" "11475731"
+			"pwdrequired" "1"
+			"timeupdated" "1686817913"
+		}
+		"bneu_debug"
+		{
+			"buildid" "14304123"
+			"pwdrequired" "1"
+			"timeupdated" "1715182464"
+		}
+		"development"
+		{
+			"buildid" "15209205"
+			"pwdrequired" "1"
+			"timeupdated" "1722410639"
+		}
+		"farm"
+		{
+			"buildid" "15280327"
+			"pwdrequired" "1"
+			"timeupdated" "1722968278"
+		}
+		"lim-review"
+		{
+			"buildid" "15284391"
+			"pwdrequired" "1"
+			"timeupdated" "1722996065"
+		}
+		"lim-special1"
+		{
+			"buildid" "15136528"
+			"pwdrequired" "1"
+			"timeupdated" "1721821158"
+		}
+		"lim-special2"
+		{
+			"buildid" "15435726"
+			"pwdrequired" "1"
+			"timeupdated" "1724164614"
+		}
+		"lim-special4"
+		{
+			"buildid" "15446587"
+			"pwdrequired" "1"
+			"timeupdated" "1724237695"
+		}
+		"qa-debug"
+		{
+			"buildid" "15280327"
+			"pwdrequired" "1"
+			"timeupdated" "1723039730"
+		}
+		"qa-release"
+		{
+			"buildid" "15284391"
+			"pwdrequired" "1"
+			"timeupdated" "1723039783"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ParkBeyond/Saved/SaveGames/Steam_{64BitSteamID}/"
+			"pattern" "*.parkBeyondProfile"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ParkBeyond/Saved/SaveGames/Steam_{64BitSteamID}/"
+			"pattern" "*.parkBeyond"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24976637"
+"_sha" "1ab10c09c83b691d9296f0d93216116f4c6b815c"
+"_size" "14485"
