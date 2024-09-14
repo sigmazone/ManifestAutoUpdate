@@ -1,0 +1,420 @@
+"appid" "1601740"
+"common"
+{
+	"name" "Corpse Keeper"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "死亡教堂"
+		"tchinese" "死亡教堂"
+	}
+	"logo" "eda00868a26e416d7f81f5d485d7d5c3d7abb3de"
+	"logo_small" "eda00868a26e416d7f81f5d485d7d5c3d7abb3de_thumb"
+	"icon" "21353575fa0ee9af5f5521274945f6772687d8d0"
+	"clienticon" "dc301abc882a892d118a0fadb813ac13f0073704"
+	"clienttga" "ab4a63cc5852d4fb7a66422686e9944f3faeafbb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1708992000"
+		"tested_build_id" "13515731"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "af58f0a8d1a1b4778a9c670499f4f8aaddbe7981/capsule_231x87.jpg"
+		"schinese" "bfdce41e5a5c81542a80695018d39027838250bb/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "zh-cn,zh-tw,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "69.57592336079233"
+			"height_pct" "73.61302082345514"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "69.57592336079233"
+				"height_pct" "73.61302082345514"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723107643"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Melancholia Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Thermite Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Thermite Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "热脉游戏"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716879620"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1601740"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "4342"
+		"2" "1684"
+		"3" "4182"
+		"4" "4191"
+		"5" "1646"
+		"6" "1720"
+		"7" "4711"
+		"8" "9"
+		"9" "4026"
+		"10" "29482"
+		"11" "42804"
+		"12" "1716"
+		"13" "3952"
+		"14" "4166"
+		"15" "4172"
+		"16" "3959"
+		"17" "4604"
+		"18" "1759"
+		"19" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Melancholia Studio"
+	"publisher" "Thermite Games"
+	"homepage" "https://www.thermitegames.com/"
+}
+"config"
+{
+	"installdir" "Corpse Keeper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CorpseKeeper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1601741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3610662849882405904"
+				"size" "7836941130"
+				"download" "2424730768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"trailer"
+			{
+				"gid" "66D2A8FEA4913CB5254BBD9CB3AC3207"
+				"size" "8D240888811EBCB92807FE88DF3D1F06"
+				"download" "053471B074E3DBA371D9F35DCFBFE674"
+			}
+			"epic"
+			{
+				"gid" "D81CFB21C2A3E60FE086EF093DB2C43B"
+				"size" "10E8B79BFBBD11023E8C3295B1C1BB77"
+				"download" "34301A0ACDD30755AD02D79BA7339C11"
+			}
+			"korean"
+			{
+				"gid" "399040ED817D15440290904152435BA3"
+				"size" "ED3D100EEE58BF7061594F878EF85E40"
+				"download" "8E68850E16FAE6C208A6066D30422C25"
+			}
+			"nosteamsdk"
+			{
+				"gid" "5FCF56F27213A4F2F30E7242645256C4"
+				"size" "171D4A983A558FE2FDE2D6CED61DD998"
+				"download" "AC6BDA3EF58B885CB9F05A6118CFEC03"
+			}
+			"test"
+			{
+				"gid" "43AC408E681F8C76939966F7CC1818F9"
+				"size" "D1F08C16DF61C17905BE61D829681B04"
+				"download" "BEF25300E70B7CC87DF65CB2638275DE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15289131"
+			"timeupdated" "1723027818"
+		}
+		"trailer"
+		{
+			"buildid" "9384009"
+			"pwdrequired" "1"
+			"timeupdated" "1661406697"
+		}
+		"epic"
+		{
+			"buildid" "14609513"
+			"pwdrequired" "1"
+			"timeupdated" "1717576909"
+		}
+		"korean"
+		{
+			"buildid" "15458344"
+			"pwdrequired" "1"
+			"timeupdated" "1724320624"
+		}
+		"nosteamsdk"
+		{
+			"buildid" "14499749"
+			"pwdrequired" "1"
+			"timeupdated" "1716773930"
+		}
+		"test"
+		{
+			"buildid" "14608668"
+			"pwdrequired" "1"
+			"timeupdated" "1717572749"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "102400"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Melancholia Studio/CorpseKeeper"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
