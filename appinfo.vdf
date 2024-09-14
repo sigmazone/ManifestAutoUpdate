@@ -1,0 +1,521 @@
+"appid" "1629520"
+"common"
+{
+	"name" "A Little to the Left"
+	"type" "Game"
+	"logo" "9a87b087a16a76ead71d6cd97a97ee06067f4c0a"
+	"logo_small" "9a87b087a16a76ead71d6cd97a97ee06067f4c0a_thumb"
+	"icon" "e783c2eadbfd7887a3c75a9f5e8ae60ef7296b90"
+	"clienticon" "81190525923bb01c083d3c6c5c5727ec41b91bc7"
+	"clienttga" "5b52d8b624fe2e3dd228fe9da8eac6a484333bf6"
+	"clienticns" "d55e9699aecb6c219b4808aee656c0f19ee9faa3"
+	"linuxclienticon" "a1b4859654b784b8fdf454ff5852ffcda0e26305"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1629520_eula_0"
+			"name" "A Little to the Left EULA"
+			"url" "https://store.steampowered.com//eula/1629520_eula_0"
+			"version" "2"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1668211200"
+		"tested_build_id" "9807063"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "A Little To The Left"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "85.3317811408615"
+			"height_pct" "80.24316201053315"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "85.3317811408615"
+				"height_pct" "80.24316201053315"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1717513664"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Max Inferno"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Secret Mode"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Secret Mode"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1667919750"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/a-little-to-the-left\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1629520"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "1654"
+		"2" "552282"
+		"3" "597"
+		"4" "4726"
+		"5" "3871"
+		"6" "17894"
+		"7" "4305"
+		"8" "6129"
+		"9" "97376"
+		"10" "4136"
+		"11" "4182"
+		"12" "492"
+		"13" "6815"
+		"14" "1738"
+		"15" "7250"
+		"16" "5350"
+		"17" "3964"
+		"18" "1698"
+		"19" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Max Inferno"
+	"publisher" "Secret Mode"
+	"homepage" "https://maxinferno.com/"
+	"listofdlc" "2343790,2828160"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "A Little To The Left"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "A Little To The Left.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "A Little To The Left.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,turkish"
+	"hasdepotsindlc" "1"
+	"1629522"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1338218270032564417"
+				"size" "1306520249"
+				"download" "755471120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qa_testing1"
+			{
+				"gid" "3FF80612F5840DE568B7A86270F3935D"
+				"size" "ADE2A7BA18A9BAF5F09381E171AA6669"
+				"download" "8A4D8D69B39AB694D2AA00B6F6F78938"
+			}
+			"qa_testing1-dev"
+			{
+				"gid" "3E92E47C50B94427A61E183926951E8D"
+				"size" "67C49B2CD0CFA0BB452E78698CF8DF6F"
+				"download" "B1C0279DA68D8EFC8029A3E533BC459C"
+			}
+			"qa_testing2"
+			{
+				"gid" "F5D60B62C3DF57E11EDDF1485AD0B3B8"
+				"size" "2095F0873032AF6376B0D86D51435C87"
+				"download" "3A63546D8168344651EE2E178287D0B3"
+			}
+			"qa_testing2-dev"
+			{
+				"gid" "606B58D0D02D7CDEC662884B2959E0E8"
+				"size" "555B4490222476E586C90AAA03A0E022"
+				"download" "07DC66A25BB10ABD5A4448BE781AED4B"
+			}
+			"qa_testing3"
+			{
+				"gid" "A86BA325BF51F1CD8174E8295744ECDA"
+				"size" "DCA492AEBE8F6BA347EF6F5C1790F5BA"
+				"download" "062206822C43D48E36052385329D5527"
+			}
+			"qa_testing3-dev"
+			{
+				"gid" "85E2AC85F53034FEECDD18A3BC5E97BE"
+				"size" "8BE5C8E4B57B0C858BEA50840E5730D4"
+				"download" "F8C54AE20D0481294D59F46957C4F871"
+			}
+			"review"
+			{
+				"gid" "44DF63BB10C0C34E232A6B70F97FF76D"
+				"size" "C460406A5554BBF2F1CC1CD4A5A7468B"
+				"download" "5F5E81E27581553864EB9DF14A312420"
+			}
+		}
+	}
+	"1629523"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8563271539038846987"
+				"size" "1410044996"
+				"download" "784688224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qa_testing1"
+			{
+				"gid" "5D01212230E11154A75DAFB35A0D98A9"
+				"size" "6602C2A26E408E3BF18458F73A02D9C2"
+				"download" "BFD197A4626C73EA64AF5FE0603298FF"
+			}
+			"qa_testing1-dev"
+			{
+				"gid" "4ECAF936A4B8ECD65D66E56481FEB267"
+				"size" "3E69BDF32E190D45E2048E0B76686430"
+				"download" "A949E02C07A66C663E192FA47FDDDEE1"
+			}
+			"qa_testing2"
+			{
+				"gid" "0C8022906DCCE7F05622371E286C6DA2"
+				"size" "14606FF030DE43CA0A4B2C50600A2166"
+				"download" "02A840AEE76677CCD5B7BB0870BABB5C"
+			}
+			"qa_testing2-dev"
+			{
+				"gid" "A62ABDFDBD7F3D4EF382C71863C54443"
+				"size" "3E5AFD57B4E5B7A7EABE4A5A8A59BA8A"
+				"download" "E6A84FF13D3E6049917436B5C6FD184A"
+			}
+			"qa_testing3"
+			{
+				"gid" "6CD3BA0805EED9BE08A97A242A2D18A3"
+				"size" "240AFA30E6DD8A2E5D2562478B36DA31"
+				"download" "1197DE045C599201CC545C0400DEAE5B"
+			}
+			"qa_testing3-dev"
+			{
+				"gid" "46DD8234F6220870813965E8331AA2CC"
+				"size" "01AD11C39A469BFA0CA094BBD1CC20B2"
+				"download" "8C150C30C17FF5446EFD43970EDD6306"
+			}
+			"review"
+			{
+				"gid" "3B8F109980F5643333B70647E0CED144"
+				"size" "70202FC58742771DB407FCB23399138C"
+				"download" "C08D47AFC0DEA73B33C9ACA0303795A7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15296282"
+			"timeupdated" "1723467884"
+		}
+		"qa_testing1"
+		{
+			"buildid" "15104586"
+			"pwdrequired" "1"
+			"timeupdated" "1721572282"
+		}
+		"qa_testing1-dev"
+		{
+			"buildid" "15104599"
+			"pwdrequired" "1"
+			"timeupdated" "1721572371"
+		}
+		"qa_testing2"
+		{
+			"buildid" "15205864"
+			"pwdrequired" "1"
+			"timeupdated" "1722383272"
+		}
+		"qa_testing2-dev"
+		{
+			"buildid" "15205901"
+			"pwdrequired" "1"
+			"timeupdated" "1722383295"
+		}
+		"qa_testing3"
+		{
+			"buildid" "15296282"
+			"pwdrequired" "1"
+			"timeupdated" "1723068508"
+		}
+		"qa_testing3-dev"
+		{
+			"buildid" "15296312"
+			"pwdrequired" "1"
+			"timeupdated" "1723068590"
+		}
+		"review"
+		{
+			"buildid" "14590954"
+			"pwdrequired" "1"
+			"timeupdated" "1718807321"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "4"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SavesDir"
+					"replace" "maxinferno/A Little To The Left"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SavesDir"
+					"replace" "maxinferno/A Little To The Left"
+				}
+			}
+		}
+	}
+}
