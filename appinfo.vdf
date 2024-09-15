@@ -1,0 +1,339 @@
+"appid" "403190"
+"common"
+{
+	"name" "Planetbase"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+	}
+	"oslist" "windows,macos"
+	"clienttga" "502e08ceee4819fbc26f801fdc84fd3551465249"
+	"clienticon" "38caf04895de2607a15607152a9544d021738c32"
+	"icon" "27b6fa6d15815d342618080fb2d9905ecb0fdb00"
+	"logo" "cb231c57aed787fcad541881483715d8686e1027"
+	"logo_small" "cb231c57aed787fcad541881483715d8686e1027_thumb"
+	"releasestate" "released"
+	"clienticns" "6342be1655eca525ceaf46954bcc118c3c2b2577"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1668211200"
+		"tested_build_id" "6317568"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "cef262bd08e09089e1986dbfcc42de35b404955f/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.90913392476912"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70.90913392476912"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1726045481"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Madruga Works"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Madruga Works"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1444953581"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "403190"
+	"store_tags"
+	{
+		"0" "220585"
+		"1" "4328"
+		"2" "7332"
+		"3" "1755"
+		"4" "9"
+		"5" "1662"
+		"6" "599"
+		"7" "3942"
+		"8" "8945"
+		"9" "4182"
+		"10" "1643"
+		"11" "12472"
+		"12" "492"
+		"13" "3810"
+		"14" "1695"
+		"15" "16598"
+		"16" "1702"
+		"17" "1676"
+		"18" "21"
+		"19" "4166"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Madruga Works"
+	"publisher" "Madruga Works"
+	"homepage" "http://planetbase.madrugaworks.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Planetbase"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Planetbase.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Planetbase.app/Contents/MacOS/Planetbase"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish"
+	"workshopdepot" "403190"
+	"403191"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3792388824359637500"
+				"size" "700198263"
+				"download" "333862304"
+			}
+			"experimental"
+			{
+				"gid" "3792388824359637500"
+				"size" "700198263"
+				"download" "333862304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "EECDFA20345945A7F2F6AF60C9141B6F"
+				"size" "CFEB58F25515E941A3DCF1704D243E6D"
+				"download" "CC3FCFF484D9B701D44DE748B13B6EF7"
+			}
+		}
+	}
+	"403192"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1391192768431119641"
+				"size" "704155682"
+				"download" "335817888"
+			}
+			"experimental"
+			{
+				"gid" "1391192768431119641"
+				"size" "704155682"
+				"download" "335817888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "D5C4C324EB71234FDE250F97084A2801"
+				"size" "AC047918C4628532FB8BA68B5FBC8A3B"
+				"download" "E787E81671FE8E8BB81BF87F8FD93402"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14829412"
+			"timeupdated" "1725973025"
+		}
+		"experimental"
+		{
+			"buildid" "14829412"
+			"description" "Experimental versions"
+			"timeupdated" "1719307881"
+		}
+		"internal"
+		{
+			"buildid" "14829412"
+			"pwdrequired" "1"
+			"timeupdated" "1719307894"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
