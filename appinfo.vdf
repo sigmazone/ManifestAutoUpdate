@@ -1,0 +1,599 @@
+"appid" "1426450"
+"common"
+{
+	"name" "Age of Darkness: Final Stand"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "de091f0dadf343ee2016c38c49a700b26da48afe"
+	"clienttga" "1f7a14fe3e4b1ba3bb73f1441178df311590a36c"
+	"logo" "435de3c4ea581a605bd49c7774eafb29b1c4f67a"
+	"logo_small" "435de3c4ea581a605bd49c7774eafb29b1c4f67a_thumb"
+	"clienticon" "c1335d5ac31765ceeede25f9d8eb38cda66950d1"
+	"name_localized"
+	{
+		"schinese" "黑暗时代：背水一战 "
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1426450_eula_0"
+			"name" "Age of Darkness: Final Stand EULA"
+			"url" "https://store.steampowered.com//eula/1426450_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1670889600"
+		"tested_build_id" "9451983"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.64475729385383"
+			"height_pct" "98.48017098076467"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.64475729385383"
+				"height_pct" "98.48017098076467"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1714970153"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PlaySide"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlaySide"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlaySide"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1633622312"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1426450"
+	"store_tags"
+	{
+		"0" "1676"
+		"1" "7332"
+		"2" "1645"
+		"3" "1662"
+		"4" "9"
+		"5" "1643"
+		"6" "4604"
+		"7" "1723"
+		"8" "8945"
+		"9" "4182"
+		"10" "1684"
+		"11" "4172"
+		"12" "4252"
+		"13" "4166"
+		"14" "6730"
+		"15" "493"
+		"16" "4191"
+		"17" "3993"
+		"18" "4342"
+		"19" "1708"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "PlaySide"
+	"publisher" "PlaySide"
+	"homepage" "https://www.ageofdarkness.com/"
+}
+"config"
+{
+	"installdir" "Age of Darkness - Final Stand"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Achilles.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1426451"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5672681806892218267"
+				"size" "16733347480"
+				"download" "7087709344"
+			}
+			"v0.10.2_opt_in"
+			{
+				"gid" "9001102481828310836"
+				"size" "14239988361"
+				"download" "5998925520"
+			}
+			"v0.8.4_opt_in"
+			{
+				"gid" "4639701355830967645"
+				"size" "8941191178"
+				"download" "3360984816"
+			}
+			"v0.9.1_opt_in"
+			{
+				"gid" "4497002019003448503"
+				"size" "13079216737"
+				"download" "5553084400"
+			}
+			"v0.11.4_opt_in"
+			{
+				"gid" "8116374247451616819"
+				"size" "16619663450"
+				"download" "7049380816"
+			}
+			"v0.12.0_opt_in"
+			{
+				"gid" "5365963987610535243"
+				"size" "16736521949"
+				"download" "7089680544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal_production_shipping"
+			{
+				"gid" "F4680C203CF7B69E4A78D0BEEC96E6BB"
+				"size" "9C4C1A6710FE83C520E3537A0F279E0C"
+				"download" "41E55F75F3EC7CA887187300269065F4"
+			}
+			"internal_production_testtools"
+			{
+				"gid" "51EE160E55BC552CD2234D7DE5B61A8E"
+				"size" "AF57E88FE33A6F5E4D7D088534F18824"
+				"download" "E2FDF29D56CA45B51655DF52D90B0CC8"
+			}
+			"feature_one_shipping"
+			{
+				"gid" "E032DDA8410D707BA2E601D8567A1A92"
+				"size" "7E4050DE80FFEAA6F3C0E8C025442A24"
+				"download" "AC47A3286F30E006F0A90143FA667327"
+			}
+			"feature_one_testtools"
+			{
+				"gid" "C1705631A3CD1806A9E1BE640B2EBFE8"
+				"size" "B27B0B3AD8803E5E903BC30AD62C3206"
+				"download" "7E02BF521D6C427D1DFBC6653251BD1C"
+			}
+			"feature_three_shipping"
+			{
+				"gid" "CF0350B376242698C13B5939595825A9"
+				"size" "674B13F8DDC91027E1CE6B591ECA1AD4"
+				"download" "20AA9F29BFD2EFC27DC3A42E2D5BC6E3"
+			}
+			"feature_three_testtools"
+			{
+				"gid" "CE76682030658D39C4C1388C1DF55BD1"
+				"size" "EA51410AABBC1BB4B404825C17741FBD"
+				"download" "4EB4A266B7D787B48132E95587240C11"
+			}
+			"feature_two_shipping"
+			{
+				"gid" "0BAB62403A47E72C4C76CA6D1E7AE26A"
+				"size" "BF42F2F5B570B1CDF9B5CA3C1D7DFB4F"
+				"download" "9C9A7FF40E5B36EEC23E8D1799F05537"
+			}
+			"feature_two_testtools"
+			{
+				"gid" "2012FF73E87CEA1D7749E1B27885EAC2"
+				"size" "5480D672C176D340A0A86CC1978D5BF5"
+				"download" "69B6C985441C3931E99B78A61B84B7A5"
+			}
+			"multiplayer_development"
+			{
+				"gid" "2DA2A0BE135FDEA9BEEF8DB3FE8932A8"
+				"size" "93877581B7D8AED187E6588173811B2E"
+				"download" "D004EAD4C266D16651CD5C4C1D4C0BB7"
+			}
+			"multiplayer_nightly"
+			{
+				"gid" "59D48B8AD913F896AD7C2467FD2CE6E7"
+				"size" "C64066442CBA9CA4154E75E2FB32C784"
+				"download" "B7AC4E28BCDFB7A4321BCE7040187321"
+			}
+			"nightly_major_testtools"
+			{
+				"gid" "47059CC149D8F6FC807D14010DE28C7A"
+				"size" "5CD8B6870D1A9829003D32CA3F0EBDDC"
+				"download" "BDAB39165FE372CAFEE02F9DDA2D01C4"
+			}
+			"nightly_minor_testtools"
+			{
+				"gid" "5D92D0274AF55887ECDF2C46C3405C47"
+				"size" "6A568AAAA3203F32B11143B02524DBB7"
+				"download" "F716D84C57EE49E54CEB0FF2B44254CC"
+			}
+			"nightly_patch_testtools"
+			{
+				"gid" "067303AB56222AA34CB8CCDC41099C67"
+				"size" "E3B29F828BECD3B1423D75B134218DE3"
+				"download" "3E92EDEE91652B02563DEDAB141D53E2"
+			}
+			"ps_feature_one_shipping"
+			{
+				"gid" "30073B55046CB7E303E4AA80A733F97C"
+				"size" "E61CC9A0B6B43346A990CA2CEB3CF3FC"
+				"download" "AFD04DE44288183E112BE8D42B306EF0"
+			}
+			"trunk_debug"
+			{
+				"gid" "A8A81559E1C816872645030DC7FD9C1B"
+				"size" "960F97A51B9158674B235B7A6ADA4588"
+				"download" "DA9E53014A5258938FE4314E3AB76C85"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15285855"
+			"timeupdated" "1724283069"
+		}
+		"internal_production_shipping"
+		{
+			"buildid" "13855104"
+			"pwdrequired" "1"
+			"timeupdated" "1711447169"
+		}
+		"internal_production_testtools"
+		{
+			"buildid" "13855659"
+			"pwdrequired" "1"
+			"timeupdated" "1711450443"
+		}
+		"v0.10.2_opt_in"
+		{
+			"buildid" "12166681"
+			"description" "V0.10.2 Content Update"
+			"timeupdated" "1705551479"
+		}
+		"v0.8.4_opt_in"
+		{
+			"buildid" "10181334"
+			"description" "V0.8.4 Content Update"
+			"timeupdated" "1681910049"
+		}
+		"v0.9.1_opt_in"
+		{
+			"buildid" "11101728"
+			"description" "V0.9.1 Content Update"
+			"timeupdated" "1693918386"
+		}
+		"feature_one_shipping"
+		{
+			"buildid" "15527467"
+			"pwdrequired" "1"
+			"timeupdated" "1724910770"
+		}
+		"feature_one_testtools"
+		{
+			"buildid" "15643655"
+			"pwdrequired" "1"
+			"timeupdated" "1725919495"
+		}
+		"feature_three_shipping"
+		{
+			"buildid" "15612092"
+			"pwdrequired" "1"
+			"timeupdated" "1725602135"
+		}
+		"feature_three_testtools"
+		{
+			"buildid" "15667980"
+			"pwdrequired" "1"
+			"timeupdated" "1726080972"
+		}
+		"feature_two_shipping"
+		{
+			"buildid" "15528237"
+			"pwdrequired" "1"
+			"timeupdated" "1724916932"
+		}
+		"feature_two_testtools"
+		{
+			"buildid" "15668129"
+			"pwdrequired" "1"
+			"timeupdated" "1726081929"
+		}
+		"multiplayer_development"
+		{
+			"buildid" "15696268"
+			"pwdrequired" "1"
+			"timeupdated" "1726262473"
+		}
+		"multiplayer_nightly"
+		{
+			"buildid" "15702287"
+			"pwdrequired" "1"
+			"timeupdated" "1726328737"
+		}
+		"nightly_major_testtools"
+		{
+			"buildid" "15534276"
+			"pwdrequired" "1"
+			"timeupdated" "1724949930"
+		}
+		"nightly_minor_testtools"
+		{
+			"buildid" "14698313"
+			"pwdrequired" "1"
+			"timeupdated" "1718233622"
+		}
+		"nightly_patch_testtools"
+		{
+			"buildid" "15463447"
+			"pwdrequired" "1"
+			"timeupdated" "1724352171"
+		}
+		"ps_feature_one_shipping"
+		{
+			"buildid" "15672553"
+			"pwdrequired" "1"
+			"timeupdated" "1726116008"
+		}
+		"trunk_debug"
+		{
+			"buildid" "14439315"
+			"pwdrequired" "1"
+			"timeupdated" "1716281544"
+		}
+		"v0.11.4_opt_in"
+		{
+			"buildid" "13332988"
+			"description" "V0.11.4 Content Update"
+			"timeupdated" "1715041474"
+		}
+		"v0.12.0_opt_in"
+		{
+			"buildid" "14205216"
+			"description" "V0.12.0 Content Update"
+			"timeupdated" "1720482864"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/AgeOfDarkness/Saves"
+			"pattern" "*.*sav*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
