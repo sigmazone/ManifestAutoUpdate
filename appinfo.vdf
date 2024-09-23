@@ -1,0 +1,599 @@
+"appid" "1118240"
+"common"
+{
+	"name" "Lake"
+	"type" "Game"
+	"clienticon" "2a1fe44cffcb6b79ee77592f9579f8b12f15de34"
+	"clienttga" "82c0ea8b43671f6280c3ef825054b0bfe3982d51"
+	"icon" "3c88ac0d9f17cef82a24811c967fa95ccddc7721"
+	"logo" "adee8a3435dbccaca7535d11cb53298267e29d47"
+	"logo_small" "adee8a3435dbccaca7535d11cb53298267e29d47_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1655251200"
+		"tested_build_id" "8326234"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"metacritic_name" "Lake"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "61.92079030765092"
+			"height_pct" "70.74329137971979"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "61.92079030765092"
+				"height_pct" "70.74329137971979"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1699356408"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gamious"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Whitethorn Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamious"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1630510505"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/lake\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1118240"
+	"store_tags"
+	{
+		"0" "1654"
+		"1" "1742"
+		"2" "5900"
+		"3" "7208"
+		"4" "4486"
+		"5" "97376"
+		"6" "7743"
+		"7" "6971"
+		"8" "1695"
+		"9" "6426"
+		"10" "4166"
+		"11" "1644"
+		"12" "21"
+		"13" "5611"
+		"14" "552282"
+		"15" "44868"
+		"16" "1719"
+		"17" "1697"
+		"18" "4947"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Gamious"
+	"publisher" "Whitethorn Games"
+	"listofdlc" "2450860"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Lake"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Lake.exe"
+			"type" "none"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2775101086"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,development"
+			"use_action_block" "false"
+		}
+		"2775473225"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,development"
+			"use_action_block" "false"
+		}
+		"2775479340"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,development"
+			"use_action_block" "false"
+		}
+		"2775485142"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,development"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"1118241"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7196236973423991268"
+				"size" "1195228766"
+				"download" "934522832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_preview"
+			{
+				"gid" "521C745296FFE7A76860A9E4DED1D020"
+				"size" "9032DDD0DB688A0CA1AFB4C033EFDE58"
+				"download" "D058372F1382CB2AA2EE50C3F3FFA9DE"
+			}
+			"edge"
+			{
+				"gid" "12DA14C1F6A30E3DB38E839D8907647C"
+				"size" "BC260C8662F97457221B9E7A7A7F3DD5"
+				"download" "57A90354F0371422D854EEDF831AAB31"
+			}
+			"playtest"
+			{
+				"gid" "88873C6FFCCC7D91FF8DA88722485E11"
+				"size" "B0C63056FD92CDB873EBAC4A84287C98"
+				"download" "D3893D4DEEEEABF8E425197207624BA8"
+			}
+			"playtest3"
+			{
+				"gid" "4BFB888DACC2FB977AE346AE252D9766"
+				"size" "8BEC6362F98A4AC85C68C910BFAA07D2"
+				"download" "1B4F6C0FB2E6912D8DA0EA2EEFED3464"
+			}
+			"tribeca"
+			{
+				"gid" "C5AAAB38732D9BAA0097ABE51FB8A6B9"
+				"size" "B338AA5AB3CB476D1B7F56A70A7537D3"
+				"download" "FBFBE812C1A76682D921272A9AF150C7"
+			}
+			"development"
+			{
+				"gid" "C1BE7B19151BD79C2E1C5C630011DDAA"
+				"size" "DDBBD5A7A65E706A3C858260E2F5F889"
+				"download" "76AC3743A89818C3F8FE22ADA99BFA9D"
+			}
+			"internal_testing"
+			{
+				"gid" "3AD4DE36D6BE959E7FDD64E1D57BED8F"
+				"size" "16E267F00BF033EE178C3365C93F5D1B"
+				"download" "55B25BA375F3041F3D5676F18662106E"
+			}
+			"preview"
+			{
+				"gid" "B52DE8665CCD5B43479A722C6704D8ED"
+				"size" "E03BF18B7E98D5F21EACD7268B7070A1"
+				"download" "B0AC004DFA652A998713909F99B79DAF"
+			}
+		}
+	}
+	"2450860"
+	{
+		"dlcappid" "2450860"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8097750778263050352"
+				"size" "411994745"
+				"download" "357078144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_preview"
+			{
+				"gid" "BF8B10DF147B3D795B72F3D5CF4E1038"
+				"size" "E54E1A1776625D280C90DBE3E21F46E4"
+				"download" "579D134EFE85E34697547D931B9FAC68"
+			}
+			"development"
+			{
+				"gid" "43EE63A115584843CF8D664B3FBFA3E0"
+				"size" "364B5A6E6B6ABD54ADDAC2761474E89C"
+				"download" "355A13A2E23DC4E91CDB3D3054EE91B5"
+			}
+			"internal_testing"
+			{
+				"gid" "B6DA1C64B7B5CE6A17258057E4316F67"
+				"size" "22550B739570A96B757BFA4D552C675A"
+				"download" "3CF0BBA4E8F63C104389083F5AA11592"
+			}
+			"preview"
+			{
+				"gid" "53B95A9BB6739D88BD3C3D3754473FAB"
+				"size" "7EA06E76D2A7352F22B55A7AA0ED19B1"
+				"download" "F6762B66D044F5083558E71B2526C07D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15315629"
+			"timeupdated" "1723192616"
+		}
+		"dlc_preview"
+		{
+			"buildid" "12840299"
+			"pwdrequired" "1"
+			"timeupdated" "1701357233"
+		}
+		"edge"
+		{
+			"buildid" "5761472"
+			"pwdrequired" "1"
+			"timeupdated" "1604065689"
+		}
+		"playtest"
+		{
+			"buildid" "6372461"
+			"pwdrequired" "1"
+			"timeupdated" "1615562484"
+		}
+		"playtest3"
+		{
+			"buildid" "7035109"
+			"pwdrequired" "1"
+			"timeupdated" "1626363428"
+		}
+		"tribeca"
+		{
+			"buildid" "6253516"
+			"pwdrequired" "1"
+			"timeupdated" "1613578274"
+		}
+		"development"
+		{
+			"buildid" "15315749"
+			"pwdrequired" "1"
+			"timeupdated" "1723192279"
+		}
+		"internal_testing"
+		{
+			"buildid" "15315629"
+			"pwdrequired" "1"
+			"timeupdated" "1723191794"
+		}
+		"preview"
+		{
+			"buildid" "15315629"
+			"pwdrequired" "1"
+			"timeupdated" "1723191804"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gamious/Lake/lake/saves"
+			"pattern" "*.lake"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gamious/Lake/lake/saves"
+			"pattern" "*.png"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gamious/Lake/lake/saves"
+			"pattern" "*.txt"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gamious/Lake/lake/photos"
+			"pattern" "*.png"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gamious/Lake/lake"
+			"pattern" "*global.lake"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gamious/Lake/lake/saves"
+					"replace" ".config/unity3d/Gamious/Lake/lake/saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gamious/Lake/lake/saves"
+					"replace" ".config/unity3d/Gamious/Lake/lake/saves"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gamious/Lake/lake/saves"
+					"replace" ".config/unity3d/Gamious/Lake/lake/saves"
+				}
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gamious/Lake/lake/saves"
+					"replace" ".config/unity3d/Gamious/Lake/lake/photos"
+				}
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gamious/Lake/lake/saves"
+					"replace" ".config/unity3d/Gamious/Lake/lake"
+				}
+			}
+		}
+	}
+}
