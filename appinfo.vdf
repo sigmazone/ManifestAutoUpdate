@@ -1,0 +1,881 @@
+"appid" "1202130"
+"common"
+{
+	"name" "Starship Troopers: Terran Command"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "b2a9abd0c58b5334a56e0763026ace71b8bc5f97"
+	"clienttga" "de49ddf9643389cb6d3411135307b04f01ab97f7"
+	"icon" "fc6f4f10d302a4e316bdb7f015492e63d2fff9c1"
+	"logo" "14116ebae7116ab8f1ccfdfaf62fe38bf376a177"
+	"logo_small" "14116ebae7116ab8f1ccfdfaf62fe38bf376a177_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1202130_eula_0"
+			"name" "Starship Troopers - Terran Command EULA"
+			"url" "https://store.steampowered.com//eula/1202130_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667865600"
+		"tested_build_id" "9244807"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "80.50139358642096"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "80.50139358642096"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726064302"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Artistocrats"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Starship Troopers: Terran Command"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1655398795"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1202130"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1676"
+		"2" "4182"
+		"3" "4168"
+		"4" "1708"
+		"5" "1678"
+		"6" "3942"
+		"7" "8945"
+		"8" "4161"
+		"9" "4684"
+		"10" "1673"
+		"11" "4711"
+		"12" "1756"
+		"13" "7926"
+		"14" "1645"
+		"15" "4345"
+		"16" "11333"
+		"17" "599"
+		"18" "19"
+		"19" "3813"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "The Artistocrats"
+	"publisher" "Slitherine Ltd."
+	"gamemanualurl" "https://store.steampowered.com/manual/1202130/"
+	"listofdlc" "2139990,2139991"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Starship Troopers - Terran Command"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+		}
+		"2"
+		{
+			"executable" "Starship Troopers.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "artistocratstest sony dynamicmusic artistocratsintermediate publicdemotest pressdemotest beta"
+			}
+			"description_loc"
+			{
+				"english" "Starship Troopers (w/o launcher)"
+			}
+			"description" "Starship Troopers (w/o launcher)"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1202130"
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1202131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8255112250723465482"
+				"size" "9098984978"
+				"download" "5077364624"
+			}
+			"beta"
+			{
+				"gid" "8099099018107027704"
+				"size" "9101850521"
+				"download" "5077411536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta_staging"
+			{
+				"gid" "CB32364D54896A6359842D0C21F7EB7E"
+				"size" "E0F91072A00D54BAD5080AD8DF634116"
+				"download" "0D73A7795A03B5A0D1EFCC1C3E472818"
+			}
+			"default_staging"
+			{
+				"gid" "AA35C0649EC48CE4F48DAF4186C38C41"
+				"size" "C46CAC9015EFF8CE2C9E7BB5E5CD6F03"
+				"download" "69BBF61DE0EBC086EF4E53B8E8822DD3"
+			}
+			"egx-2024"
+			{
+				"gid" "9F38E8ABDF6E7416C0A31F0DD35CAE98"
+				"size" "62A5A999C36BFE05FF4B670B8CC0C62F"
+				"download" "B24BAC58C28B11DAB8D967FD89548457"
+			}
+			"release-v3.2.7"
+			{
+				"gid" "93E5612FDFADE1AB07C9D19CF54F6484"
+				"size" "B16962F7B3AC0DE25C5B93EFFFD4FAA3"
+				"download" "D263F180E5E6043138E9B2F9D966B346"
+			}
+			"beta_staging"
+			{
+				"gid" "E36526FCECC21A34CDED94191D0BA197"
+				"size" "5CEF4BC2D516F45C0C6FCC9B479BC345"
+				"download" "6E6D8767404BFFC22F1F111A9229F1B2"
+			}
+			"closedalpha"
+			{
+				"gid" "269BB68CE2E5E46BFBE8506B922871A4"
+				"size" "1D0FE6D36CD3C68CC2FD5FC7F09A5433"
+				"download" "EAF77C4CAF70F689605A604F443092E7"
+			}
+			"closedalpha_staging"
+			{
+				"gid" "7CE18AEC0AB3A7E5495D8DAFCC575858"
+				"size" "EB3E8935C6CA0BCDAEDFCA9796BF5683"
+				"download" "CB3AC60B72E258541E88221F4D1393F4"
+			}
+			"press"
+			{
+				"gid" "0EED72498B191134AF05E8A3B7B72BD4"
+				"size" "4F31A92C643ECB2283EE1064C55A5DBD"
+				"download" "BCEE9B2AE9945E1583D23DE3053F0BE0"
+			}
+			"press_staging"
+			{
+				"gid" "C39FE18B2597FF7A015F55155069EF29"
+				"size" "2AFC3B73613755CB83E78042121AB112"
+				"download" "F366728566608D7A2FD813E6FE878676"
+			}
+			"artistocratstest"
+			{
+				"gid" "9EEDF204E868DD230C100FCDCF540439"
+				"size" "27919374F0ACCD6E4251AD2B5A8E7D4E"
+				"download" "95AEACE23061C1CD8119D1D53D352577"
+			}
+			"devtest"
+			{
+				"gid" "857F1DD958ACE088B14632F52EC1F937"
+				"size" "6DBB15F674AEEF209EB6858FA86495D4"
+				"download" "54C944F7EACFBEA4250701A57DB6FED9"
+			}
+			"master"
+			{
+				"gid" "57B63D6E6972A6F68BF56252C523298E"
+				"size" "D8633CF2E28E016ABA90EF8AA8653198"
+				"download" "F91CABA010921FA743743C1EF087764C"
+			}
+			"release-v2.5.6"
+			{
+				"gid" "5378930D96E0ECAE1007CDA9C7244FDE"
+				"size" "47DDD170FA9470D2790A96CC2150631C"
+				"download" "9E1ADFE59218260DD212B6AF3CF8EE33"
+			}
+			"release-v2.8.0"
+			{
+				"gid" "3346DDC87BB1ABE67F312B9A072C29C5"
+				"size" "212E3911F9836BE584AC92A5418E38D6"
+				"download" "D8F1CFFB7E58014EAA6EED96E0AAF92D"
+			}
+			"sony"
+			{
+				"gid" "9F8C752773748079FA8BD6F07953DC20"
+				"size" "A468C8BCEB929A1D63F2BC92520F3F3D"
+				"download" "92F6476A8E6EC33D1B1A3E4C1BE2BC55"
+			}
+			"stable"
+			{
+				"gid" "1DBE1A799E025BC22FBD3F77B7FF6485"
+				"size" "CC35A9FACB72575159CA735A4EFD3D39"
+				"download" "1B4F45C57E20D8FBE33FF6AD7EE87C25"
+			}
+		}
+	}
+	"1202132"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "132371135838060783"
+				"size" "23633041"
+				"download" "19623152"
+			}
+			"beta"
+			{
+				"gid" "1463184071040901048"
+				"size" "16177808"
+				"download" "12591568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta_staging"
+			{
+				"gid" "F4F336D488355DA524F02A786657D01A"
+				"size" "FF6CF8909FF0B8FF4C60C75E9CB06014"
+				"download" "A2A043A942E2F161B552FAAEB2693E8E"
+			}
+			"default_staging"
+			{
+				"gid" "5A41A22525E2BE6D2DE3A97639FCEFBB"
+				"size" "3A0A9FA271E6343B0019B38A62751B64"
+				"download" "78B4D7D3F3C487B7D61B8092F1D02598"
+			}
+			"egx-2024"
+			{
+				"gid" "BF6F4A5566C93DFEF60CE01500DEAB43"
+				"size" "693310E32322492F13EEBCF5C5F6724D"
+				"download" "8EB6EBDF226A96AC7A5AADDE0FA69E9C"
+			}
+			"release-v3.2.7"
+			{
+				"gid" "0D9E3A7E61C236F2D752E5CF755238D6"
+				"size" "56D2E30274CFE4C998D63D882AAA501E"
+				"download" "A465E93543F5EE8510ACEEEE9B850DD3"
+			}
+			"beta_staging"
+			{
+				"gid" "90CF695A412E6B76E5DFD3EEFBA53E0C"
+				"size" "94122999B600372E73C2DD509B933186"
+				"download" "9254C43D72A6D342BD6C14647E845F5C"
+			}
+			"closedalpha"
+			{
+				"gid" "6E11CB733B4C29A693E98275FD460950"
+				"size" "8F7156DF85CA545E241EB0D29E7866C7"
+				"download" "5FDBE6475AAB91D9A0A4A26CBD7C9AB8"
+			}
+			"closedalpha_staging"
+			{
+				"gid" "C48C2CE27546D72626AE3A1718228CA6"
+				"size" "824654035F2A45D184D9322614214A27"
+				"download" "E0EF4FD80D963805391506806A21479C"
+			}
+			"press"
+			{
+				"gid" "F3AAAA61219FF202B79EA0DCD17F43D9"
+				"size" "02DE4C47490D966A111B5EB1AC2C92C5"
+				"download" "D86053C8838992ABA138F516F85DD966"
+			}
+			"press_staging"
+			{
+				"gid" "3CAC5DFB728CFD84EB9E0606835D0FA6"
+				"size" "6168A9FE8D9D2C30A97D54587014AC60"
+				"download" "1ED10DC2DF24565C1E1DB59ED31F21E4"
+			}
+			"artistocratstest"
+			{
+				"gid" "938AEEEE4502A9C8BC54C3FBD2D2B702"
+				"size" "AF096F27957940236543D28471F108A5"
+				"download" "9C9276EBE84C57C52D1EDF02D7356DFD"
+			}
+			"devtest"
+			{
+				"gid" "91BF454D884745D1E352EA3B9560C7FB"
+				"size" "3BF7F3FE0CBFAD4AA882899BFB04037E"
+				"download" "4C3AC49124104F69EA64205EBA18C5C1"
+			}
+			"master"
+			{
+				"gid" "6289887F0217BABCCB7068DA0C4F9828"
+				"size" "3A9C8D79F3FDE8769BA408D4DCCA559A"
+				"download" "C4A868FBA9B6EFEE005504E6EEF4D0A0"
+			}
+			"release-v2.5.6"
+			{
+				"gid" "21FA0590DD6B5DB6543C61C25287C541"
+				"size" "7EF268F00729F55534BDB60CD10062E3"
+				"download" "052ACA616669B1975F847008BD532744"
+			}
+			"release-v2.8.0"
+			{
+				"gid" "DC6B857A19738CCD5CC70EF389DE481A"
+				"size" "3C824686184FC47FED108F854E963BB9"
+				"download" "961607A7AAB7BF6E58A5CE100273BDF7"
+			}
+			"sony"
+			{
+				"gid" "B1D259A96AE4758F16B19659A6EE071A"
+				"size" "6B4FCAC3FD3BB13ADB81163B261119CB"
+				"download" "7471E7F628E7BB5830BB87FD224BFABD"
+			}
+			"stable"
+			{
+				"gid" "6D55D95008DC04660BA16B252F42A027"
+				"size" "068614554E467311E296D24B2310408D"
+				"download" "C9FF52CD5CAB19C46A8E29FC947A6750"
+			}
+		}
+	}
+	"2139990"
+	{
+		"dlcappid" "2139990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4464821010379409615"
+				"size" "2348107286"
+				"download" "1549619232"
+			}
+			"beta"
+			{
+				"gid" "7824748319602366930"
+				"size" "2348107283"
+				"download" "1549619264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta_staging"
+			{
+				"gid" "B8229C3B38202E76476D39F8F7D377C7"
+				"size" "4A43906B2B5C30D605662834778B0325"
+				"download" "97A18093C6441EF0F31699F68D8065F5"
+			}
+			"default_staging"
+			{
+				"gid" "099BD2FA7C3F901B0963A4AB0A20E81F"
+				"size" "482E8B78F47F80D48B9074CF64FF41B8"
+				"download" "F7FD025031FEDCE0234FE79859550429"
+			}
+			"egx-2024"
+			{
+				"gid" "B363CDCD99D4F854C82D0EA89F05B627"
+				"size" "B9C82B74C6299B71E67BB5C5583409C8"
+				"download" "499F0A0A46D397667391D1EA065A4094"
+			}
+			"release-v3.2.7"
+			{
+				"gid" "6412DBA1099E2640AFD5E99F14F0E841"
+				"size" "57494B53C0AC725E8B43F44431490A31"
+				"download" "53FE466A650F0F9266D5D46DE3DB1976"
+			}
+			"beta_staging"
+			{
+				"gid" "AB5E7BCDB47F3D651B5BE634F8E7BB19"
+				"size" "32781862A4F9E5CBF39F60D590072179"
+				"download" "57397617153B82B021C2625FCC7EC5A8"
+			}
+			"closedalpha"
+			{
+				"gid" "83963623DF7EEF03EC4F7B4035C896BC"
+				"size" "40D888C783A40074593F73A32F918260"
+				"download" "DA7418B906AE8D09D94D80B1EDFC76E4"
+			}
+			"closedalpha_staging"
+			{
+				"gid" "43C5FE16888E391364489C5CB023DAD7"
+				"size" "80A45CBC020E89336D1E7626259166BE"
+				"download" "727A88284E58EDC512C7EFDCD31F4720"
+			}
+			"press"
+			{
+				"gid" "61E7B61F3E686A9C505FECE87413E6AB"
+				"size" "999D22FA101E73B793989AA002F47B51"
+				"download" "BFB79EB55056F37E8F182271F1A69184"
+			}
+			"press_staging"
+			{
+				"gid" "D278403DDC8C490F4D63BB1B6B2EA3BC"
+				"size" "914B2C18E77BEA6A838566038BC66B5E"
+				"download" "17E0B1E1C13688A9349C27914A6AA0B1"
+			}
+			"artistocratstest"
+			{
+				"gid" "921B2F9592EDE8C2CCC1E9ACEF70C3A3"
+				"size" "577164530A347CAA64D310DC4775CC5C"
+				"download" "10CC2AEF923BB4957898BA993B9D1AEE"
+			}
+			"devtest"
+			{
+				"gid" "A163242E396BE49E5659C7981FD9879F"
+				"size" "7A4A1FED9DC87C16B40BB600C1775F82"
+				"download" "CC99BAB47499C4CDA23A01B9CFFE24AF"
+			}
+			"master"
+			{
+				"gid" "7BA309A3A86A8F4C5F348699F9B1B2F1"
+				"size" "2A78701E6B1C5C74379557B8D82BF8B2"
+				"download" "C7AE6EFE4FB42F08DB9A050D87C2F0B4"
+			}
+			"release-v2.8.0"
+			{
+				"gid" "C33A80F7588F528C5EB6614683B78CE9"
+				"size" "4893228004CA0F430C41EB29E1A7287B"
+				"download" "933D84DDB1D03EE7DAE1764A9AC306A8"
+			}
+			"sony"
+			{
+				"gid" "16F2F86B9E71B8AF26CB3F5DD84B8E87"
+				"size" "422A29435722C276C439516AABBFE8EB"
+				"download" "E635B3665A2D26D22393117D48CB1F9F"
+			}
+			"stable"
+			{
+				"gid" "ACDA5A20F68737EB95C0C82A60BBDF03"
+				"size" "A3D59D6ECA50D9EB442ABC4F25F95B85"
+				"download" "93B04479BE8C58A725B74A91DB6BEEAD"
+			}
+		}
+	}
+	"2139991"
+	{
+		"dlcappid" "2139991"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6990598532766292276"
+				"size" "2883585710"
+				"download" "1571120160"
+			}
+			"beta"
+			{
+				"gid" "4169779900087596591"
+				"size" "2883585707"
+				"download" "1571120144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta_staging"
+			{
+				"gid" "114A1E81B0E095CB19D19EE34B905ED4"
+				"size" "F0DF7CB0521EB36D319E851BA440DCDC"
+				"download" "B5C68ABD3FB2257E7B57C879E7C94C9D"
+			}
+			"default_staging"
+			{
+				"gid" "93C24C68626B27B8477E0236DB788E69"
+				"size" "EAFA648346150BE39F6A0CFBCCB1168A"
+				"download" "30C747BC35E08EB67B6FB7018BD2B209"
+			}
+			"egx-2024"
+			{
+				"gid" "09690EEFD4DA1E75B49E6095B8F120E6"
+				"size" "CB5D12CA98BA34F0BAD75C26C6603CE3"
+				"download" "E2213E2246E2223855C3DD900AB10CF4"
+			}
+			"release-v3.2.7"
+			{
+				"gid" "FD49EECA5980388CB587F088AC8805D0"
+				"size" "8250148669854FD602FC1981C6E83B1F"
+				"download" "D55EF6D45CB0213EC6CB937F7E2847D0"
+			}
+			"beta_staging"
+			{
+				"gid" "48CA53F9AE59238CFAB58641B11976E3"
+				"size" "EA971F9E24F2A73166CDB89142430DFE"
+				"download" "246FEA13837FB3189FDFEBC8B73E0643"
+			}
+			"closedalpha"
+			{
+				"gid" "2D34AFC01DCC9F0C3DBE1DD0F6848574"
+				"size" "5E161BCC7F2D5FB36CF32F0006F475A9"
+				"download" "80889E4EBA234276C27EC1B979512140"
+			}
+			"closedalpha_staging"
+			{
+				"gid" "05D084DD6B9E4B9AC9D35DA2BEC91B7B"
+				"size" "7C52A948AD31001B51E2C8FE418D4BC8"
+				"download" "002B71711AE952AE361D803419C3FF4C"
+			}
+			"press"
+			{
+				"gid" "C6BB796364B55F960BFB250E0E3CE006"
+				"size" "569BEB3600B329DC7C6A52A48091584A"
+				"download" "474EB4DA2966F685ED44460ADFE9294C"
+			}
+			"press_staging"
+			{
+				"gid" "00F6EDC98D837F01904B1926900874B2"
+				"size" "F808A30FFBE75D0C5F0C1F746E0E02E5"
+				"download" "D4122ABB74BF2A7B2E220174ECB2791D"
+			}
+			"devtest"
+			{
+				"gid" "B488E6A47EFF0AB9D78F6FA448730028"
+				"size" "E7AE717F3AE77B0457CFFC681A621D75"
+				"download" "351023254EF7305A42A0881F439F8C79"
+			}
+			"master"
+			{
+				"gid" "C8473451E09E1095C800FAD2CA0B7980"
+				"size" "196A992066E7A2B9C0B3639C960561D9"
+				"download" "077FC52ED1952C1783A0457E9F4F37B1"
+			}
+			"sony"
+			{
+				"gid" "390A960D28C1E66C38B323B193A9375A"
+				"size" "B170568162753A622B1C8F3DCF6AEC92"
+				"download" "BD8FB52CA4550E60B69F958C525FC441"
+			}
+			"stable"
+			{
+				"gid" "B6007F9E58748BB345FC1906F7A8FCD5"
+				"size" "F6D23917AE429B9BCC2C93141AB8BED9"
+				"download" "A9C0727DBB516E20756B8E6E488FDB66"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15741283"
+			"timeupdated" "1726739875"
+		}
+		"closedbeta_staging"
+		{
+			"buildid" "14692827"
+			"pwdrequired" "1"
+			"timeupdated" "1718201813"
+		}
+		"default_staging"
+		{
+			"buildid" "15715818"
+			"pwdrequired" "1"
+			"timeupdated" "1726495650"
+		}
+		"egx-2024"
+		{
+			"buildid" "15755041"
+			"pwdrequired" "1"
+			"timeupdated" "1726741130"
+		}
+		"release-v3.2.7"
+		{
+			"buildid" "15638691"
+			"pwdrequired" "1"
+			"timeupdated" "1726737136"
+		}
+		"beta"
+		{
+			"buildid" "15715288"
+			"description" "Open Beta"
+			"timeupdated" "1726494880"
+		}
+		"beta_staging"
+		{
+			"buildid" "15715288"
+			"pwdrequired" "1"
+			"timeupdated" "1726492438"
+		}
+		"closedalpha"
+		{
+			"buildid" "14626102"
+			"pwdrequired" "1"
+			"timeupdated" "1717679213"
+		}
+		"closedalpha_staging"
+		{
+			"buildid" "14919011"
+			"pwdrequired" "1"
+			"timeupdated" "1720010172"
+		}
+		"press"
+		{
+			"buildid" "15601965"
+			"pwdrequired" "1"
+			"timeupdated" "1725545955"
+		}
+		"press_staging"
+		{
+			"buildid" "15576465"
+			"pwdrequired" "1"
+			"timeupdated" "1725359645"
+		}
+		"artistocratstest"
+		{
+			"buildid" "12670969"
+			"pwdrequired" "1"
+			"timeupdated" "1699961110"
+		}
+		"devtest"
+		{
+			"buildid" "15741283"
+			"pwdrequired" "1"
+			"timeupdated" "1726656763"
+		}
+		"master"
+		{
+			"buildid" "15793259"
+			"pwdrequired" "1"
+			"timeupdated" "1727086309"
+		}
+		"release-v2.5.6"
+		{
+			"buildid" "11414539"
+			"pwdrequired" "1"
+			"timeupdated" "1699611711"
+		}
+		"release-v2.8.0"
+		{
+			"buildid" "14064407"
+			"pwdrequired" "1"
+			"timeupdated" "1713282818"
+		}
+		"sony"
+		{
+			"buildid" "15343527"
+			"pwdrequired" "1"
+			"timeupdated" "1723475457"
+		}
+		"stable"
+		{
+			"buildid" "14693066"
+			"pwdrequired" "1"
+			"timeupdated" "1718202808"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Starship Troopers/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Starship Troopers/PlayerData"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
