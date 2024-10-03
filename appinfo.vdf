@@ -1,0 +1,808 @@
+"appid" "1940340"
+"common"
+{
+	"name" "Darkest Dungeon® II"
+	"type" "Game"
+	"icon" "ec502cc4a786955cf7032b70351cf36c4b06114c"
+	"clienttga" "7889f9241a51417954cbde488313e491165a7a07"
+	"clienticon" "8a4d50636158defdd18ba4d4ee32594617510a39"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1940340_eula_0"
+			"name" "Darkest Dungeon® II EULA"
+			"url" "https://store.steampowered.com//eula/1940340_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692057600"
+		"tested_build_id" "11895650"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Darkest Dungeon II"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "f83163509c0a0fb20cb88ff313451465072fec50/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "23.21550309176307"
+			"height_pct" "64.5849132274555"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "23.21550309176307"
+				"height_pct" "64.5849132274555"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723660246"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Hook Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Red Hook Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Darkest Dungeon"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1683560824"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/darkest-dungeon-ii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1940340"
+	"store_tags"
+	{
+		"0" "14139"
+		"1" "1720"
+		"2" "3959"
+		"3" "4604"
+		"4" "7432"
+		"5" "4182"
+		"6" "1759"
+		"7" "1716"
+		"8" "4474"
+		"9" "1677"
+		"10" "1742"
+		"11" "10695"
+		"12" "6815"
+		"13" "3871"
+		"14" "3952"
+		"15" "4325"
+		"16" "5125"
+		"17" "122"
+		"18" "1741"
+		"19" "4252"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Red Hook Studios"
+	"publisher" "Red Hook Studios"
+	"homepage" "https://www.darkestdungeon.com/"
+	"listofdlc" "2598510"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Darkest Dungeon® II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"arguments" "-allowEditorPrefs"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "Allow Editor Prefs"
+			}
+			"description" "Allow Editor Prefs"
+		}
+		"4"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"arguments" "-allowEditorPrefs"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "private_test"
+			}
+			"description_loc"
+			{
+				"english" "Allow Editor Prefs"
+			}
+			"description" "Allow Editor Prefs"
+		}
+		"5"
+		{
+			"executable" "Darkest Dungeon II.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3013149368"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,coming_in_hot,daily,private_test,staging"
+			"use_action_block" "false"
+		}
+		"3013429671"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,coming_in_hot,daily,private_test,staging"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"workshopdepot" "1940340"
+	"1940341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8032008169740748521"
+				"size" "4873868229"
+				"download" "4041032720"
+			}
+			"coming_in_hot"
+			{
+				"gid" "8032008169740748521"
+				"size" "4873868229"
+				"download" "4041032720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catacombs"
+			{
+				"gid" "3DA74934D930976DD2F0AEC10C4AB67A"
+				"size" "679F428E3222C27AB02C63CBB527DFF2"
+				"download" "4FAEEBF9E0B82A5290B261D9BC97EFA2"
+			}
+			"kingdoms"
+			{
+				"gid" "628478D05EACB561BF2C8F5DC1BDBB87"
+				"size" "5EC422D3D638C7F7C3FD4579DE2A61F2"
+				"download" "B4C2D53C71626B7D22F46FF5F3CF2C7A"
+			}
+			"private_test"
+			{
+				"gid" "8A0FACA4DA6CD6DA6788986548C20A1F"
+				"size" "BB2842E6C070D3BBA4C581A4B4E8B321"
+				"download" "DF6E7CB8665B73787CCF66802C9C13BF"
+			}
+			"daily"
+			{
+				"gid" "B2D188EE9809149610E01524824379FE"
+				"size" "2341B2C62D3F1F3C41C14602E20E91CA"
+				"download" "254CA7FB6D12A50DF8B9277BA98FB6A4"
+			}
+			"staging"
+			{
+				"gid" "53D239BE902019849055364A716B05BF"
+				"size" "280E54C03EC813FC28D537DA6F5260F3"
+				"download" "DE773773614509EB339ECE9E205E9577"
+			}
+		}
+	}
+	"2598510"
+	{
+		"dlcappid" "2598510"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1092552852267869506"
+				"size" "304637493"
+				"download" "207058240"
+			}
+			"coming_in_hot"
+			{
+				"gid" "1092552852267869506"
+				"size" "304637493"
+				"download" "207058240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catacombs"
+			{
+				"gid" "3DDD94ED2FF96B1FD2E65BC2F28587E8"
+				"size" "882B20DD15C81F42EF7C7DA498AB8D91"
+				"download" "D0D347CACAC1545D977BC7FA07C5188F"
+			}
+			"kingdoms"
+			{
+				"gid" "1593B9BE95CBE9381C2142AEDB030614"
+				"size" "D55177860748F701828E70EE1FB28F18"
+				"download" "13CBE8CE591BE5F92B271148E5017A91"
+			}
+			"private_test"
+			{
+				"gid" "DC1BAB329A0FDE0A4DB2CE3D7092CB02"
+				"size" "54D1E38FCC375AAFAEF70779CB3837B1"
+				"download" "06F110411742F6B008530B008E5033B1"
+			}
+			"daily"
+			{
+				"gid" "928B5800DCB269284A1F4CD33853D711"
+				"size" "26A1B93BADBD10B182B03F3B61D7E06D"
+				"download" "900BC72B92A22A490C00CB8349ADE140"
+			}
+			"staging"
+			{
+				"gid" "8469C0E9D6899B19350CBF02586CEDB8"
+				"size" "26472FB972C5FB63DEC4717E658EFE68"
+				"download" "99256B73915FC384FBE731C9D75C6817"
+			}
+		}
+	}
+	"1940342"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8899459229473586282"
+				"size" "5344173171"
+				"download" "4346876416"
+			}
+			"coming_in_hot"
+			{
+				"gid" "8899459229473586282"
+				"size" "5344173171"
+				"download" "4346876416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catacombs"
+			{
+				"gid" "8E4DC3C078B23084CDB50297C791AA09"
+				"size" "883E11B6348E478031A6975751DE5055"
+				"download" "C46A35FE1A5ADB29A4687AC134C529F3"
+			}
+			"kingdoms"
+			{
+				"gid" "BE8BFC3393AF817E8F6AE39B3A071809"
+				"size" "E1C71F71C6B08BC769EF694B87D904E9"
+				"download" "3FC5F7457F3269404F48969D277C5B62"
+			}
+			"private_test"
+			{
+				"gid" "9AAC436A304CED1FA4F9D3649929B5F4"
+				"size" "D5E9077A63F5EEFCD188144FFA9F3ADC"
+				"download" "7FBFAA8F1712A064140C76718041A5CF"
+			}
+			"daily"
+			{
+				"gid" "4F8230DEF0067E6177632784C9FFFC9A"
+				"size" "1601940C8343BF91E502F2C7CD95B0F0"
+				"download" "EBF6261A177AAABC8230B80BB3DB8828"
+			}
+			"staging"
+			{
+				"gid" "42A7CD7AE98E8913B78EA7C804F00A04"
+				"size" "B46CC04E6F58C32FE8DDF3E47C03F641"
+				"download" "6E692187747336D288983565CF32EB6F"
+			}
+		}
+	}
+	"2598511"
+	{
+		"dlcappid" "2598510"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "925847789026206668"
+				"size" "305022395"
+				"download" "207389888"
+			}
+			"coming_in_hot"
+			{
+				"gid" "925847789026206668"
+				"size" "305022395"
+				"download" "207389888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catacombs"
+			{
+				"gid" "D0D793D5C8941E58B03D27A1BC135C5A"
+				"size" "BCAE3B585EDAEEB7552DC7291D081D4A"
+				"download" "7050F365041DCFCBBAFCEC10541AFDDD"
+			}
+			"kingdoms"
+			{
+				"gid" "B23D76672982F7F9E3B2F751C455668E"
+				"size" "9613FEE93EEE55948FC045406A62CA5E"
+				"download" "688C534DD162B2976002FF55F6D71B99"
+			}
+			"private_test"
+			{
+				"gid" "9FEC8722B2E0C8C8E2A6DFBBE8E980BF"
+				"size" "CDC0A803FA4BB85DFE3AFAFA498B042F"
+				"download" "BA0226B73125F0E942DF35B2DDD57ADB"
+			}
+			"daily"
+			{
+				"gid" "6CF8D74C5110DC26A30D3F3DF8BE2A4F"
+				"size" "7E0BB06B7205269232AC58255A9D468B"
+				"download" "14C0D6C6B1F16C8F52EF446D6E829862"
+			}
+			"staging"
+			{
+				"gid" "3E15BF8E963AC9F75E0A425529FC5A49"
+				"size" "F0AD0F67B77C25D7F94560AB70BFC701"
+				"download" "A0CD0F62F60C90E7C906602EF3086EA4"
+			}
+		}
+	}
+	"3205310"
+	{
+		"dlcappid" "3205310"
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1512888818112870067"
+				"size" "0"
+				"download" "0"
+			}
+			"coming_in_hot"
+			{
+				"gid" "1512888818112870067"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catacombs"
+			{
+				"gid" "8A725D6ED5CE86B0FAA78AC7E0EE7510"
+				"size" "BD08ECFF87CDE66821BE017064F3A305"
+				"download" "6BDDF142B92ED5A6EAC602B8E473D0EE"
+			}
+			"kingdoms"
+			{
+				"gid" "440439BC4985768397065ECCA397DA6C"
+				"size" "584A71F4512D8EE6ADE73FD4A8CAAFC2"
+				"download" "197AFB39A541B19C2D37B5518CE8684B"
+			}
+			"private_test"
+			{
+				"gid" "11BF7ADD80CCC397B6E0B6B70960D316"
+				"size" "7AC6CE52F19A64BCD8F09A25E75B57FA"
+				"download" "7AC6CE52F19A64BCD8F09A25E75B57FA"
+			}
+			"daily"
+			{
+				"gid" "E2CC0A17715D65A3EA06B70E598AF9EA"
+				"size" "B1ED737397B5FA24991AC4099F7D8A0E"
+				"download" "E8A923F1542EFB50B8B4450BAAD79EBC"
+			}
+			"staging"
+			{
+				"gid" "5A1ED2486DEEF6862F702C13DE11B8A6"
+				"size" "2A41281B5C7B68609CAF30CF4C034CAC"
+				"download" "1027CB5AAA4998E5EDBBA2A3EB59A469"
+			}
+		}
+	}
+	"3205311"
+	{
+		"dlcappid" "3205310"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3797276228332553731"
+				"size" "0"
+				"download" "0"
+			}
+			"coming_in_hot"
+			{
+				"gid" "3797276228332553731"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catacombs"
+			{
+				"gid" "2071A82C2CD7050ACAEA66FC79B1DBBB"
+				"size" "B0CCC94D18263E19B31B14B65EB9D588"
+				"download" "B0CCC94D18263E19B31B14B65EB9D588"
+			}
+			"kingdoms"
+			{
+				"gid" "1E334D6545299B67FD4B432559F8B407"
+				"size" "35753EA67B6F2156035CAC69B08CF10C"
+				"download" "6763019DDE900D0DE46378E3DEB53FDF"
+			}
+			"private_test"
+			{
+				"gid" "7E35E87903E10AF296EE8BC41D178025"
+				"size" "7AC6CE52F19A64BCD8F09A25E75B57FA"
+				"download" "7AC6CE52F19A64BCD8F09A25E75B57FA"
+			}
+			"daily"
+			{
+				"gid" "7526343219B511C5CEA2288EF8619657"
+				"size" "692FFA249B16D4848055B2D4BED3C6E4"
+				"download" "1921243912B4D3B82F6CCBC97E25C734"
+			}
+			"staging"
+			{
+				"gid" "1F3177B765B101FCA84A34661CEC16F2"
+				"size" "F36CF1BF7E7CFE32418868D30F9736D1"
+				"download" "F36CF1BF7E7CFE32418868D30F9736D1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15906184"
+			"timeupdated" "1727892447"
+		}
+		"catacombs"
+		{
+			"buildid" "15908528"
+			"pwdrequired" "1"
+			"timeupdated" "1727906831"
+		}
+		"coming_in_hot"
+		{
+			"buildid" "15856535"
+			"description" "Experimental builds"
+			"timeupdated" "1727476891"
+		}
+		"kingdoms"
+		{
+			"buildid" "15908076"
+			"pwdrequired" "1"
+			"timeupdated" "1727904068"
+		}
+		"private_test"
+		{
+			"buildid" "15906167"
+			"pwdrequired" "1"
+			"timeupdated" "1727892319"
+		}
+		"daily"
+		{
+			"buildid" "15908069"
+			"pwdrequired" "1"
+			"timeupdated" "1727904051"
+		}
+		"staging"
+		{
+			"buildid" "15908495"
+			"pwdrequired" "1"
+			"timeupdated" "1727906674"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedHook/Darkest Dungeon II/SaveFiles/{64BitSteamID}/"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25504380"
+"_sha" "9da4faa514185716ce905f241001ed3b21033701"
+"_size" "15876"
