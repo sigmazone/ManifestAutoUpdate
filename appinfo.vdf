@@ -1,0 +1,820 @@
+"appid" "1020790"
+"common"
+{
+	"name" "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"name_localized"
+	{
+		"schinese" "NARUTO X BORUTO 火影忍者 终极风暴羁绊"
+		"tchinese" "NARUTO X BORUTO 火影忍者 終極風暴羈絆"
+		"koreana" "나루토 X 보루토 나루티밋 스톰 커넥션즈"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+		"indonesian" "1"
+	}
+	"clienticon" "27d0d48654f6d784be03cffa14d7309789a49d62"
+	"clienttga" "1d856bf5a92edc15237bd5fc29363a8589aec0a7"
+	"icon" "a99d5b865c4f9f864a2b9b7735a94dcdef6b8d82"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1020790_eula_0"
+			"name" "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS EULA"
+			"url" "https://store.steampowered.com//eula/1020790_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1701475200"
+		"tested_build_id" "12302815"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,ko,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,ko,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1721643983"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CyberConnect2 Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "BANDAI NAMCO Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1700175530"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1020790"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4085"
+		"2" "21"
+		"3" "6506"
+		"4" "3859"
+		"5" "1688"
+		"6" "4182"
+		"7" "4106"
+		"8" "1743"
+		"9" "1775"
+		"10" "4747"
+		"11" "1695"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"developer" "CyberConnect2 Co., Ltd."
+	"publisher" "Bandai Namco Entertainment"
+	"listofdlc" "2171320,2171321,2171324,2171325,2171326,2171327,2171328,2171329,2171332,2542820,2594760,2674900"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NSUNSC.exe"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "15"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,polish,arabic,brazilian,latam,indonesian"
+	"workshopdepot" "1020790"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1020791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8315951979814239389"
+				"size" "31902060539"
+				"download" "27772325984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-debug-v110"
+			{
+				"gid" "8724F7212C53BA8A462C01C40EEBF390"
+				"size" "B156E69EA563FF35CBAEACC6DF5812E8"
+				"download" "AFED72241EAC27B9EBC2DD44B28D17BA"
+			}
+			"dev-debug-v120"
+			{
+				"gid" "906E06A2FD11F9A095A5DFC6C16995EA"
+				"size" "46D0180999407E5DFE302253EEF98103"
+				"download" "3769D43750482D1FE1BB8BAA11656350"
+			}
+			"dev-debug-v130"
+			{
+				"gid" "98B7930B0030A88750EE521BB344CA56"
+				"size" "10A14E47A7C313BE2FF41C9218B5CB2D"
+				"download" "E8F91B0F0136011A775A523C71630922"
+			}
+			"dev-release-v110"
+			{
+				"gid" "E08E3DEDF65307F86FFE8AE99BFF69FD"
+				"size" "996753A6222E1A15DF5D1522C5ABEC39"
+				"download" "8879D55F8B8336500788AADBADDFBB67"
+			}
+			"dev-release-v120"
+			{
+				"gid" "71552B39FF0BB184F0B95FBB2C20917F"
+				"size" "BC2BEBF89D55ED25CDE131482C50EBF8"
+				"download" "CB14ADAC51D1E81A9A19121E805C3FB6"
+			}
+			"dev-release-v130"
+			{
+				"gid" "863CD8B9347F1F6B6945C6FF2BBCC664"
+				"size" "1E1C327923F9C654897B53A9416FCD29"
+				"download" "3FCCAE5322A79751ED306700F3DD6A8F"
+			}
+			"qa-debug-v110"
+			{
+				"gid" "2AD8099FA0C06C27F88E08ECA37962E3"
+				"size" "EA65C89FDB6AB31D0EAEDA043BBA660B"
+				"download" "1DC130D353FBFE9C009CBD6B647FD90F"
+			}
+			"qa-debug-v120"
+			{
+				"gid" "5D51DAFE6302AD2D41592AA6970AB868"
+				"size" "54CD1527B306A8F47B7F239D6089786C"
+				"download" "36033A0AA8F30493DF9A8EBB455FA182"
+			}
+			"qa-debug-v130"
+			{
+				"gid" "2FC5FB48F5189AF9DC524272E3232D01"
+				"size" "6F14AFDA460B7A4EF350CD14BA49BD8F"
+				"download" "170D81404A5F92EEFF980FE2134EA2FA"
+			}
+			"qa-release-v110"
+			{
+				"gid" "4FA3AB8C3A2877DC34F0C00F61FE427A"
+				"size" "9765FC74A5E1E4EB7B63FF014915CBD0"
+				"download" "506149825A8AAB4D241311EF2132DCDC"
+			}
+			"qa-release-v120"
+			{
+				"gid" "019EC83A5F4950F58483460EF03C09B9"
+				"size" "CBF1FFCF929A813ADDECB89CB9861574"
+				"download" "382DFCB7D13CEF0231A9D6C26B475962"
+			}
+			"qa-release-v130"
+			{
+				"gid" "11EB65D4EDC36E3DC147C80C77CCE27A"
+				"size" "E75DF6237F1BA8852A16722D3C2B4C14"
+				"download" "7F4EBFBC74BC41D6F46E361677CD019E"
+			}
+			"submission"
+			{
+				"gid" "DDF70ECCF0EADED5122B2C84919A3F4B"
+				"size" "D370FE0104F6BEFB12AE6BCB2A708D01"
+				"download" "0CFBCB0822A071542620DBFA3FB39FB4"
+			}
+			"dev-debug"
+			{
+				"gid" "3378EC713AAB4C1228AAA0A694F0A875"
+				"size" "1AF8058F3B6F61FFC413B1BCA7F16BB9"
+				"download" "730B07F32AD2969801E750161BD05785"
+			}
+			"dev-debug-v140"
+			{
+				"gid" "31D693CF07EA3EB30F010B3DAB37573D"
+				"size" "49C333BA9A4E668A117324A79EEEC9EA"
+				"download" "EE95F2E71820C117698B1606246CE071"
+			}
+			"dev-debug-v150"
+			{
+				"gid" "4959370C84A367A06F7383380150D520"
+				"size" "87DD224AE27A511797B8B50A10AAC132"
+				"download" "BBF9F67B06055C1B7863CE17EC0A89A1"
+			}
+			"dev-release-v140"
+			{
+				"gid" "EEA533F66D3A3961E2228960CF313F29"
+				"size" "97CBDA6C0B8900058C8F36F99572844A"
+				"download" "E62BCF3EBB3662C6E3F2DBADAFAE99FB"
+			}
+			"dev-release-v150"
+			{
+				"gid" "DC12356606B8BB7F3F10B9F7158ABA98"
+				"size" "507748E985887A96E92E290E7C5CD4F9"
+				"download" "8A0BB3648DB4FCC55D579FF2CEF83717"
+			}
+			"qa-debug-v140"
+			{
+				"gid" "7D5727F5391FC52BF4F8677D9FB89CED"
+				"size" "A2BF885CC532F0D5427B296587E36E7C"
+				"download" "98DFFB135BD6448A6F35F998EF7B3292"
+			}
+			"qa-debug-v150"
+			{
+				"gid" "DF0E2138398FE4C2E2D184F54F38D269"
+				"size" "78EBCA46A61145BAC78963E3B1CBBABE"
+				"download" "26D13607366880A1EDBA4D2604EF900D"
+			}
+			"qa-release-v140"
+			{
+				"gid" "0A4360F593BE8CD5984C4E450FD6BE6A"
+				"size" "6A6580794BC60A64179DDBAC96A4017D"
+				"download" "336CF95F1325022D3147C093C2D97F33"
+			}
+			"qa-release-v150"
+			{
+				"gid" "3D2A3B1E7D5F87E812AA3D3FE63A1739"
+				"size" "13C6BA0837E9DF58683F4F607BB0F6C2"
+				"download" "16A48E0C4BE97068FFDCE3C2A969ABF6"
+			}
+		}
+	}
+	"1084140"
+	{
+		"dlcappid" "1084140"
+		"config"
+		{
+			"optionaldlc" "1084140"
+		}
+	}
+	"2542820"
+	{
+		"dlcappid" "2542820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "926354891471601089"
+				"size" "14081140"
+				"download" "14123920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-debug-v110"
+			{
+				"gid" "75E4915A4D4F8199B43C8CD97DD2894D"
+				"size" "86FF5F3778C3D7436676F88436132B5B"
+				"download" "6760E0A1C0F2ACD263368B207475E18D"
+			}
+			"dev-debug-v120"
+			{
+				"gid" "EB70709B26FD5F224F00DDF52495CE04"
+				"size" "DCC222AC1BCE22EB06B980039FD3D565"
+				"download" "7792B181771D6C6B6772CAC25E7B0D6E"
+			}
+			"dev-debug-v130"
+			{
+				"gid" "779F5D18E6FBC507CC8B06BBEE5A7454"
+				"size" "E21D230E9466CFBD99D6F17055980ED0"
+				"download" "612CD2F6D6D65BB04869E06243643F85"
+			}
+			"dev-release-v110"
+			{
+				"gid" "7138D3A355AF0F393EC9F45423209D48"
+				"size" "8E43E1E738442D46FA3AE4A1F1362394"
+				"download" "0CFD65E1B9C2B84671088805B0AC2815"
+			}
+			"dev-release-v120"
+			{
+				"gid" "A5FB6D7969EE7B75982EED70406E7BD6"
+				"size" "A5753F03CB343140DA0247F2A64DD89F"
+				"download" "AEB905D335D1A497AC2F406EF36CB49F"
+			}
+			"dev-release-v130"
+			{
+				"gid" "3716D07417AF182C0A662D69C7BD4E7C"
+				"size" "41260BAF315B56003EB5C37323461952"
+				"download" "9DDB5E16421087E8A92DD4AE03CB75C9"
+			}
+			"qa-debug-v110"
+			{
+				"gid" "D90CDC5F7EEE1D04741FCAA518539014"
+				"size" "426E5FECB84D1BEE5CE6F0C07F43239A"
+				"download" "CC6C0016FF532783BCAD1D7434B8A22A"
+			}
+			"qa-debug-v120"
+			{
+				"gid" "5C91239BE2ACD16B42EE769DB687AD4E"
+				"size" "6AB94146A236A038301CCF8D8E96958A"
+				"download" "662633F894F709CE449D74A6DD92149F"
+			}
+			"qa-debug-v130"
+			{
+				"gid" "CDF49525DE43C0A8C81D94F3549F3AF6"
+				"size" "E096FEBC469F3A918D4C543C206334F7"
+				"download" "6D4F9715C2D0733F0ED5863F8DD0CF85"
+			}
+			"qa-release-v110"
+			{
+				"gid" "8DEF196EB2A9C80E7B52512B3B04ED44"
+				"size" "1B9AF8B78877878163930094EF2FF48D"
+				"download" "A0F5FA28A733F81541DFEFE6250C546C"
+			}
+			"qa-release-v120"
+			{
+				"gid" "F357132A7E2301160F954456FA296D49"
+				"size" "7CB6A67817431A5ED59D63BFBA162A80"
+				"download" "503F74239B65B8924E540E9F9EF22028"
+			}
+			"qa-release-v130"
+			{
+				"gid" "EAC9392F788773EAB73C31E6307E29DB"
+				"size" "844FF59FE36E665E631DE8AD79DB0531"
+				"download" "52647FBA2F10E2EA8271E9AF184FFE20"
+			}
+			"submission"
+			{
+				"gid" "F1C04197E413D535C9E5A9EEC0480014"
+				"size" "2C6CF12CF96493424A3C9E1E5C728EFC"
+				"download" "78AE3FAF70690477690EC20D205C4770"
+			}
+			"dev-debug"
+			{
+				"gid" "3542F3871F9734BDC13D2A7F144CE0F3"
+				"size" "6C24F0F07C55341AB2FA8AEEBB1BF09B"
+				"download" "58AD69F62B9733FF6C85BD7D5B426EA4"
+			}
+			"dev-debug-v140"
+			{
+				"gid" "D439C1AE7B6325F721F29F7FF81226E7"
+				"size" "640FB7E853FF9CF3036F626F93E97187"
+				"download" "B8D2577C85CB8CEDE0925325C55343B1"
+			}
+			"dev-debug-v150"
+			{
+				"gid" "857F1E6C3DE471A82FCAE66444382A03"
+				"size" "001E8B91120E3A71207070999FC0D295"
+				"download" "516A09A96C67668BB06306571EC6E6FE"
+			}
+			"dev-release-v140"
+			{
+				"gid" "671960783753B3BAC1EB5CE68C416E3B"
+				"size" "03F902170A0E79459C4125D3FA18EE7B"
+				"download" "41E181D84FF74E4FEB50E740BBF37FD4"
+			}
+			"dev-release-v150"
+			{
+				"gid" "B7D9C98933C3CDEC788BD30A638F2774"
+				"size" "D8B6AD0E2021492B8E70E58A70E8D084"
+				"download" "5D4871FCD8E3E4953501C8BD31F95983"
+			}
+			"qa-debug-v140"
+			{
+				"gid" "EFB3CB3F865D3DAF40AE59BADB44EDCA"
+				"size" "4B89E57B46142F1E95A63B43B0321CCD"
+				"download" "DC452B6B9BC19DB88F20C3680D0B46DF"
+			}
+			"qa-debug-v150"
+			{
+				"gid" "B0128DD50156159678AC74044DAE0160"
+				"size" "94594E86916BB2DE318DD90BCDC8E7FD"
+				"download" "AD2A365FC8DACC4DB450A4672D572E26"
+			}
+			"qa-release-v140"
+			{
+				"gid" "CD3D3D84B1A9B3261E564C63BF643DF1"
+				"size" "267ABF941E716CD11CCC1F176E95BD01"
+				"download" "01A452C7F0A59C327B9B38C77C021C4C"
+			}
+			"qa-release-v150"
+			{
+				"gid" "ABF9A3DD34608E9906E2CF8BAA87E77D"
+				"size" "F20E50A837A8B57EFDA52AEE7D0E8BA1"
+				"download" "CE67F4B683D64C112E6219096D7AAF8F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15106305"
+			"timeupdated" "1727226109"
+		}
+		"dev-debug-v110"
+		{
+			"buildid" "13139803"
+			"pwdrequired" "1"
+			"timeupdated" "1704916757"
+		}
+		"dev-debug-v120"
+		{
+			"buildid" "13802512"
+			"pwdrequired" "1"
+			"timeupdated" "1710964968"
+		}
+		"dev-debug-v130"
+		{
+			"buildid" "14051868"
+			"pwdrequired" "1"
+			"timeupdated" "1713142536"
+		}
+		"dev-release-v110"
+		{
+			"buildid" "13140107"
+			"pwdrequired" "1"
+			"timeupdated" "1704919188"
+		}
+		"dev-release-v120"
+		{
+			"buildid" "13598358"
+			"pwdrequired" "1"
+			"timeupdated" "1711020942"
+		}
+		"dev-release-v130"
+		{
+			"buildid" "14051904"
+			"pwdrequired" "1"
+			"timeupdated" "1713143121"
+		}
+		"qa-debug-v110"
+		{
+			"buildid" "13041761"
+			"pwdrequired" "1"
+			"timeupdated" "1703493544"
+		}
+		"qa-debug-v120"
+		{
+			"buildid" "13733377"
+			"pwdrequired" "1"
+			"timeupdated" "1710402728"
+		}
+		"qa-debug-v130"
+		{
+			"buildid" "14051868"
+			"pwdrequired" "1"
+			"timeupdated" "1713256635"
+		}
+		"qa-release-v110"
+		{
+			"buildid" "13041868"
+			"pwdrequired" "1"
+			"timeupdated" "1703493556"
+		}
+		"qa-release-v120"
+		{
+			"buildid" "13733780"
+			"pwdrequired" "1"
+			"timeupdated" "1710402710"
+		}
+		"qa-release-v130"
+		{
+			"buildid" "14051904"
+			"pwdrequired" "1"
+			"timeupdated" "1713256613"
+		}
+		"submission"
+		{
+			"buildid" "12302815"
+			"pwdrequired" "1"
+			"timeupdated" "1696493531"
+		}
+		"dev-debug"
+		{
+			"buildid" "14307517"
+			"pwdrequired" "1"
+			"timeupdated" "1715321886"
+		}
+		"dev-debug-v140"
+		{
+			"buildid" "14578339"
+			"pwdrequired" "1"
+			"timeupdated" "1717358264"
+		}
+		"dev-debug-v150"
+		{
+			"buildid" "15106108"
+			"pwdrequired" "1"
+			"timeupdated" "1721595399"
+		}
+		"dev-release-v140"
+		{
+			"buildid" "14578393"
+			"pwdrequired" "1"
+			"timeupdated" "1717358975"
+		}
+		"dev-release-v150"
+		{
+			"buildid" "15106305"
+			"pwdrequired" "1"
+			"timeupdated" "1721597793"
+		}
+		"qa-debug-v140"
+		{
+			"buildid" "14578339"
+			"pwdrequired" "1"
+			"timeupdated" "1717400844"
+		}
+		"qa-debug-v150"
+		{
+			"buildid" "15106108"
+			"pwdrequired" "1"
+			"timeupdated" "1721635799"
+		}
+		"qa-release-v140"
+		{
+			"buildid" "14578393"
+			"pwdrequired" "1"
+			"timeupdated" "1717400825"
+		}
+		"qa-release-v150"
+		{
+			"buildid" "15106305"
+			"pwdrequired" "1"
+			"timeupdated" "1721635780"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "3000000"
+	"maxnumfiles" "5"
+}
