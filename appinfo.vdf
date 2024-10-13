@@ -1,0 +1,312 @@
+"appid" "2299510"
+"common"
+{
+	"name" "Pixel Composer"
+	"type" "Application"
+	"icon" "08ee6cdc419d9082b90140e4cda779466c630933"
+	"clienttga" "0f68ee2af2d79d7a47dd82d85a443fa46fe366a8"
+	"clienticon" "160c216f1737734231dde7f2938b139bd162c1ed"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "49995dd329a4ebf2713552914d1d176798c9acbf/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "38.74430709173714"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "85a245197c4e963336bba37ffc97f0440798a13d/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "85a245197c4e963336bba37ffc97f0440798a13d/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "dfff6d1650289daeaf11547b6b3394ac9ceeba8e/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "dfff6d1650289daeaf11547b6b3394ac9ceeba8e/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "cc417bfbbacbf611703aa798686f08ad7f110349/logo.png"
+			}
+			"image2x"
+			{
+				"english" "cc417bfbbacbf611703aa798686f08ad7f110349/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "38.74430709173714"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "d74598230aeeadae035621073c78d38a9130ebdb/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "d74598230aeeadae035621073c78d38a9130ebdb/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727428278"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MakhamDev"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MakhamDev"
+		}
+	}
+	"primary_genre" "53"
+	"genres"
+	{
+		"0" "51"
+		"1" "53"
+		"2" "55"
+	}
+	"category"
+	{
+		"category_30" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1677151097"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2299510"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "809"
+		"1" "872"
+		"2" "84"
+		"3" "3964"
+		"4" "8013"
+		"5" "255534"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "MakhamDev"
+	"publisher" "MakhamDev"
+	"homepage" "https://pixel-composer.com"
+}
+"config"
+{
+	"installdir" "Pixel Composer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PixelComposer.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2299510"
+	"2299511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6613727479360426973"
+				"size" "298637751"
+				"download" "90591536"
+			}
+			"1.14"
+			{
+				"gid" "4316908475659697778"
+				"size" "118352258"
+				"download" "47811840"
+			}
+			"1.15"
+			{
+				"gid" "8408753853253345633"
+				"size" "124046607"
+				"download" "45757744"
+			}
+			"1.16"
+			{
+				"gid" "8107542534971766825"
+				"size" "247806263"
+				"download" "78391456"
+			}
+			"1.17"
+			{
+				"gid" "2626205283500214962"
+				"size" "276651956"
+				"download" "85357232"
+			}
+			"beta"
+			{
+				"gid" "3014279521703870745"
+				"size" "299866935"
+				"download" "90818448"
+			}
+			"beta-nosteam"
+			{
+				"gid" "982448822183517552"
+				"size" "299085218"
+				"download" "90525952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nightly"
+			{
+				"gid" "70207266CEBF54026F30952FA1CA28FA"
+				"size" "1AE9926A680AE4CCBC293D6C0936DCFA"
+				"download" "0B03366FDDD111CFC4C54047E85542E6"
+			}
+		}
+	}
+	"2299512"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2526359806784507848"
+				"size" "429795262"
+				"download" "117574208"
+			}
+			"1.17"
+			{
+				"gid" "2526359806784507848"
+				"size" "429795262"
+				"download" "117574208"
+			}
+			"beta"
+			{
+				"gid" "2526359806784507848"
+				"size" "429795262"
+				"download" "117574208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nightly"
+			{
+				"gid" "44CCCF192C43E1D26566A24CDA36C352"
+				"size" "A32062BCA55F6CE8A50D507234FC4076"
+				"download" "87C88320B884349BAF689296B5704E86"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16017065"
+			"timeupdated" "1728696443"
+		}
+		"1.14"
+		{
+			"buildid" "11010214"
+			"description" "1.14 stable"
+			"timeupdated" "1702082255"
+		}
+		"1.15"
+		{
+			"buildid" "11947879"
+			"description" "1.15 stable"
+			"timeupdated" "1702082205"
+		}
+		"1.16"
+		{
+			"buildid" "13038644"
+			"description" "1.16 stable"
+			"timeupdated" "1714740046"
+		}
+		"1.17"
+		{
+			"buildid" "15847598"
+			"description" "1.17 stable"
+			"timeupdated" "1727425366"
+		}
+		"beta"
+		{
+			"buildid" "15962576"
+			"description" "more frequent, less stable build"
+			"timeupdated" "1728364361"
+		}
+		"beta-nosteam"
+		{
+			"buildid" "15962580"
+			"description" "beta build without steam workshop, use for debugging"
+			"timeupdated" "1728696382"
+		}
+		"nightly"
+		{
+			"buildid" "16019738"
+			"pwdrequired" "1"
+			"timeupdated" "1728726810"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "5000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
