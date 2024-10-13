@@ -1,0 +1,391 @@
+"appid" "350070"
+"common"
+{
+	"name" "Environmental Station Alpha"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "e723421b76ad998944a6e009bc86db276167ac04"
+	"logo_small" "e723421b76ad998944a6e009bc86db276167ac04_thumb"
+	"icon" "2c9dce656d2da904e1fd3e0b9257c347609c9901"
+	"clienttga" "da43e887ceee0bd1862e530f2562764d63fcc1fa"
+	"clienticon" "255861210a9db027ac810d493ddf333482bb72fc"
+	"clienticns" "54734502a3092f1b17bc13d0191fa7b925595716"
+	"releasestate" "released"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1656460800"
+		"tested_build_id" "4567843"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Environmental Station Alpha"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.10268378063012"
+			"height_pct" "94.07504155782475"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "66.10268378063012"
+				"height_pct" "94.07504155782475"
+			}
+		}
+	}
+	"store_asset_mtime" "1579612181"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arvi Teikari"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Roope Mäkinen"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Hempuli Oy"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1429743660"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "350070"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "3964"
+		"2" "21"
+		"3" "492"
+		"4" "1625"
+		"5" "19"
+		"6" "1756"
+		"7" "4026"
+		"8" "3871"
+		"9" "4004"
+		"10" "4166"
+		"11" "3834"
+		"12" "3942"
+		"13" "4182"
+		"14" "1755"
+		"15" "1664"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Arvi Teikari"
+	"publisher" "Hempuli Oy"
+	"homepage" "http://www.hempuli.com/esa/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Environmental Station Alpha"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Environmental Station Alpha.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Environmental Station Alpha.app\\Contents\\MacOS\\Chowdren"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "run.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"350071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "94169546639153247"
+				"size" "90041687"
+				"download" "42723504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"esabeta"
+			{
+				"gid" "1701C0D177FF07B2D687FFFBECBD2AC1"
+				"size" "EB9618E7E25359CEE3E9CFAC16FFD110"
+				"download" "5E53CDFDA3F0582510DA96F6779A634E"
+			}
+			"chowdren"
+			{
+				"gid" "B6750CBFAD0B9A910037456C7A769D62"
+				"size" "0D2A265D9FCD821C1163CDC63D11C2F1"
+				"download" "0700F45586BB009AE25886BE130B5355"
+			}
+		}
+	}
+	"350072"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6861593558202500304"
+				"size" "89148712"
+				"download" "41700672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"esabeta"
+			{
+				"gid" "910331F729D605DFCD8A5023B26808FD"
+				"size" "BA2D74C4ACB62EA8F1A78B6A8F74270B"
+				"download" "BF17CB88DBF6B17189C7EA1EB0AC6630"
+			}
+			"chowdren"
+			{
+				"gid" "D75683875928B86D60FF6C7BEC7D215B"
+				"size" "70F8E143F0964AF987CF37722B5073D0"
+				"download" "8FA565815E37A6C54E25CF0D57372A4F"
+			}
+		}
+	}
+	"350073"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5672131987055997298"
+				"size" "88455799"
+				"download" "41636688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chowdren"
+			{
+				"gid" "F1F4D8C663A457F82436DE9EFB19BD0C"
+				"size" "632D0FAE5056A074CBF3C137E0B0D7FF"
+				"download" "FFD248D05960C88E16D993476427FC7E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16016005"
+			"timeupdated" "1728688166"
+		}
+		"esabeta"
+		{
+			"buildid" "4567843"
+			"pwdrequired" "1"
+			"timeupdated" "1578981792"
+		}
+		"chowdren"
+		{
+			"buildid" "16016005"
+			"pwdrequired" "1"
+			"timeupdated" "1728687997"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "30000"
+	"maxnumfiles" "9"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "ESA_Save.lar"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "Map1.arr"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "Map2.arr"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "Map3.arr"
+		}
+		"4"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "LMap1.arr"
+		}
+		"5"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "LMap2.arr"
+		}
+		"6"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MMFApplications"
+			"pattern" "LMap3.arr"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
