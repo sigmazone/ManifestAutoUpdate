@@ -1,0 +1,416 @@
+"appid" "250520"
+"common"
+{
+	"name" "Underrail"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"icon" "b87d5d6184f9de157be1675bbf50f412fdced5ff"
+	"clienttga" "d7ae08a07ddbcb7f8b246a5f88280d8ce5bea00e"
+	"clienticon" "1df253262bb55b5998b8718e426bd39259f5b772"
+	"logo" "00bbeebe5c7bd7b6b713deed34e28b3bbe1858c6"
+	"logo_small" "00bbeebe5c7bd7b6b713deed34e28b3bbe1858c6_thumb"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7310758"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Underrail"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "52.87368292725404"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "52.87368292725404"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1682500100"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stygian Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stygian Software"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1450447260"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/underrail\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "250520"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "3835"
+		"2" "5851"
+		"3" "1677"
+		"4" "4474"
+		"5" "4325"
+		"6" "492"
+		"7" "4182"
+		"8" "3942"
+		"9" "1695"
+		"10" "1702"
+		"11" "4166"
+		"12" "3916"
+		"13" "4115"
+		"14" "4026"
+		"15" "3964"
+		"16" "21"
+		"17" "3834"
+		"18" "3871"
+		"19" "3810"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Stygian Software"
+	"publisher" "Stygian Software"
+	"homepage" "http://www.underrail.com"
+	"listofdlc" "694330,2604510"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Underrail"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "underrail.exe"
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"250521"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1193648826658921775"
+				"size" "3660640583"
+				"download" "3503730048"
+			}
+			"legacy"
+			{
+				"gid" "5272216766491414835"
+				"size" "3307896640"
+				"download" "3200178560"
+			}
+			"experimental"
+			{
+				"gid" "1193648826658921775"
+				"size" "3660640583"
+				"download" "3503730048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedalpha"
+			{
+				"gid" "9894D595D121FB4B8350242B16A6B307"
+				"size" "B4BE11AF18E165124FB1D1F4C9DFDEED"
+				"download" "2193A9F00596E0AE52D8B636E56C3D28"
+			}
+			"test"
+			{
+				"gid" "CA5B4460456ED2F0468712D9D1836EC4"
+				"size" "55927D7BB4280F14612F24718FC841DB"
+				"download" "45355C711E7BE60FE51CAC8D06B3C895"
+			}
+		}
+	}
+	"694330"
+	{
+		"dlcappid" "694330"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8621065110700645194"
+				"size" "6311800343"
+				"download" "6221061536"
+			}
+			"legacy"
+			{
+				"gid" "4107983322122129566"
+				"size" "5882349574"
+				"download" "5826218256"
+			}
+			"experimental"
+			{
+				"gid" "8621065110700645194"
+				"size" "6311800343"
+				"download" "6221061536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedalpha"
+			{
+				"gid" "71A633B09285A99EDFE74FE9C2E662FF"
+				"size" "401330D445F71B962E86950F36148326"
+				"download" "ED18AEC0D7E0F7FF2ED8BFEF4BA3513B"
+			}
+			"test"
+			{
+				"gid" "2F014AC0F0A9C90BFD8042ADECE296FA"
+				"size" "7BCCFB3601B6A852D9FFE8DCC083FA10"
+				"download" "FCF69C75D7387215730E59F2B2CF3039"
+			}
+		}
+	}
+	"2604510"
+	{
+		"dlcappid" "2604510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4385157116851295236"
+				"size" "1735347113"
+				"download" "1737749840"
+			}
+			"experimental"
+			{
+				"gid" "4385157116851295236"
+				"size" "1735347113"
+				"download" "1737749840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedalpha"
+			{
+				"gid" "388DE5B5C33D13558713ED585F199D1A"
+				"size" "F817355F32838871BD0BE0B88222696D"
+				"download" "75ADF3EC1C95CA94F9007C92D3F317EB"
+			}
+			"test"
+			{
+				"gid" "5795CC99A37A67D73C49D0F16520F675"
+				"size" "5E7A7BBFF8D35234C0D717097C1BD70A"
+				"download" "6CEBAB6B523F28E6722097F6B0999906"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16050239"
+			"timeupdated" "1728993024"
+		}
+		"legacy"
+		{
+			"buildid" "4619198"
+			"description" "Version 1.1.1.6"
+			"timeupdated" "1598912605"
+		}
+		"closedalpha"
+		{
+			"buildid" "16050239"
+			"pwdrequired" "1"
+			"timeupdated" "1728992970"
+		}
+		"experimental"
+		{
+			"buildid" "16050239"
+			"description" "Here we upload upcoming version that still require some testing. Proceed accordingly."
+			"timeupdated" "1728992978"
+		}
+		"test"
+		{
+			"buildid" "16050239"
+			"pwdrequired" "1"
+			"timeupdated" "1728990520"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games\\Underrail\\Saves"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25727346"
+"_sha" "6738302eb705861e0bcf4aff8b19ab473dd11f4e"
+"_size" "7800"
