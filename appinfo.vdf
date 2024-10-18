@@ -1,0 +1,346 @@
+"appid" "1383570"
+"common"
+{
+	"name" "Ballex²: The Hanging Gardens"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "e6015fd43e3e163b2d45f4824b5b6b3afd597e98"
+	"clienticon" "e7df8a45aa20ea5a0aaefb4a3f0965b6f5a91f12"
+	"icon" "c9b1894a4033f8cac3388f907a56935f92044c15"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1383570_eula_0"
+			"name" "Ballex²: The Hanging Gardens EULA"
+			"url" "https://store.steampowered.com//eula/1383570_eula_0"
+			"version" "4"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "3cb3d0d905043c110b546f3ff89c19babf5f6c02/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "86.32153882688195"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "f4b2ca50ab0ca46e7ada5233870e21c5301d8e09/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "f4b2ca50ab0ca46e7ada5233870e21c5301d8e09/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "86.32153882688195"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "baa99d08307e4cedd61b7a4b2857dea382d53fcf/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728917649"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mushreb Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mushreb Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Ballex"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "9"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1657922425"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1383570"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "8122"
+		"2" "699"
+		"3" "5537"
+		"4" "597"
+		"5" "6129"
+		"6" "30358"
+		"7" "3834"
+		"8" "29363"
+		"9" "1697"
+		"10" "9803"
+		"11" "4166"
+		"12" "4182"
+		"13" "1664"
+		"14" "4191"
+		"15" "4172"
+		"16" "3968"
+		"17" "492"
+		"18" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Mushreb Games"
+	"publisher" "Mushreb Games"
+	"listofdlc" "1809190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ballex²"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "B2HDRP.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Ballex²"
+				"schinese" "Ballex²"
+			}
+			"description" "Ballex²"
+		}
+		"1"
+		{
+			"executable" "BME Pro/BME Pro HDRP.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1809190"
+			}
+			"description_loc"
+			{
+				"english" "Level Editor"
+				"schinese" "关卡编辑器"
+			}
+			"description" "Level Editor"
+		}
+		"2"
+		{
+			"executable" "Legacy/Ballex².exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Ballex² (Legacy)"
+				"schinese" "Ballex² (旧版)"
+			}
+			"description" "Ballex² (Legacy)"
+		}
+		"3"
+		{
+			"executable" "Legacy/BME Pro/BME Pro.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1809190"
+			}
+			"description_loc"
+			{
+				"english" "Level Editor (Legacy)"
+				"schinese" "关卡编辑器 (旧版)"
+			}
+			"description" "Level Editor (Legacy)"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"workshopdepot" "1383570"
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,spanish,schinese,tchinese,japanese"
+	"1383571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1126408670817519971"
+				"size" "6310563405"
+				"download" "4051482448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"insider"
+			{
+				"gid" "1E881BF9D7895E3E22061142ABF9EFDA"
+				"size" "DA8A3A61FA84413909ADC094BF6C1DE8"
+				"download" "BBF9716DD3B72A36D1DD687E37BC2B7B"
+			}
+		}
+	}
+	"1809190"
+	{
+		"dlcappid" "1809190"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4530472135751020038"
+				"size" "3409579503"
+				"download" "2657387056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"insider"
+			{
+				"gid" "399529D27E0616B4D39E621BA4FD1682"
+				"size" "FB8025C860203C79443BA0CA6F33E012"
+				"download" "41BB03363F5FB6354253C63FE8238332"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16035069"
+			"timeupdated" "1728903052"
+		}
+		"insider"
+		{
+			"buildid" "16035069"
+			"pwdrequired" "1"
+			"timeupdated" "1728903017"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Mushreb/Ballex²/UserData"
+			"pattern" "*.userdata"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25710241"
+"_sha" "ae8360f88edcfc25449b4329d5be0eafc5559875"
+"_size" "5826"
