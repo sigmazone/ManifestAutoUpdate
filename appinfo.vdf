@@ -31,6 +31,50 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726876800"
+		"tested_build_id" "15542131"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -219,14 +263,14 @@
 		"19" "13190"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "77"
 }
 "extended"
 {
 	"developer" "Monster and Monster"
 	"publisher" "Raw Fury"
 	"homepage" "http://star-trucker.com"
-	"listofdlc" "2873570"
+	"listofdlc" "2873570,3218640"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -252,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "6337967465112641301"
+				"gid" "9106349524867107697"
 				"size" "5621496736"
-				"download" "4640946000"
+				"download" "4640944128"
 			}
 		}
 		"encryptedmanifests"
@@ -303,15 +347,15 @@
 			}
 			"internal-master-testing"
 			{
-				"gid" "B51AE54669CF13C739C55C99E784BC89"
+				"gid" "DABB8268E6459994D4BCA688C21EA23B"
 				"size" "2132D66D834E5A2F99DE8AE1CEA78030"
-				"download" "19ADEA6797226F3AE0E5434DD06B835F"
+				"download" "B792867778796C5E3197E8959228E134"
 			}
 			"internal-testing"
 			{
-				"gid" "72D88E11EB9B496C5C9515AC9F423C56"
-				"size" "976BFD4CD5026E9CFBF690987AE226BD"
-				"download" "8B406EBBA2E4DABF3120CA6F6E22F23F"
+				"gid" "738009B969A0392AAA20720AD974117D"
+				"size" "ABA2EED20C1329D99999EEB6D5BDCFEB"
+				"download" "39C830DA4A13E1C267D26BC4B3B071F3"
 			}
 			"partner_loc"
 			{
@@ -345,8 +389,8 @@
 	{
 		"public"
 		{
-			"buildid" "15725641"
-			"timeupdated" "1727182753"
+			"buildid" "16032842"
+			"timeupdated" "1729687520"
 		}
 		"event"
 		{
@@ -392,15 +436,15 @@
 		}
 		"internal-master-testing"
 		{
-			"buildid" "15725641"
+			"buildid" "16032842"
 			"pwdrequired" "1"
-			"timeupdated" "1726558522"
+			"timeupdated" "1728890942"
 		}
 		"internal-testing"
 		{
-			"buildid" "15725530"
+			"buildid" "16119756"
 			"pwdrequired" "1"
-			"timeupdated" "1726557888"
+			"timeupdated" "1729500980"
 		}
 		"partner_loc"
 		{
@@ -442,3 +486,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25857701"
+"_sha" "c0119ac7bc8c481c20361587f1459653ab1bfbac"
+"_size" "9290"
