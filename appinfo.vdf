@@ -1,0 +1,382 @@
+"appid" "1911610"
+"common"
+{
+	"name" "Windblown"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "cd297be670a9fb510af69fb31cab14a60712bd67"
+	"clienttga" "72828a9a806a30c6bb7e2656b3d7a8acad15ddef"
+	"clienticon" "ba304981e65a47ad7f41b03ae4d2c368cbcb41f6"
+	"name_localized"
+	{
+		"schinese" "风中行者"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1911610_eula_0"
+			"name" "Windblown EULA"
+			"url" "https://store.steampowered.com//eula/1911610_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1727827200"
+		"tested_build_id" "15891550"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "62.78450315962219"
+			"height_pct" "71.91151030821612"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "62.78450315962219"
+				"height_pct" "71.91151030821612"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.png"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729787759"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Motion Twin"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Motion Twin"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Kepler Ghost"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Motion Twin"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729785544"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1911610"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "42804"
+		"2" "492"
+		"3" "29482"
+		"4" "1646"
+		"5" "1716"
+		"6" "5851"
+		"7" "1734"
+		"8" "922563"
+		"9" "4026"
+		"10" "4711"
+		"11" "3959"
+		"12" "1759"
+		"13" "4791"
+		"14" "1720"
+		"15" "4747"
+		"16" "5711"
+		"17" "3834"
+		"18" "4191"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Motion Twin"
+	"publisher" "Motion Twin"
+	"homepage" "https://windblown.game"
+}
+"config"
+{
+	"installdir" "Windblown"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windblown.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1911611"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4210076837492615212"
+				"size" "2636836740"
+				"download" "2045685280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "BEFFDE41F5EAD2D8199924BE887D2E78"
+				"size" "A242F55C95B6D153B633A2184D5A3957"
+				"download" "0474CDB814E438104E408B148581EADE"
+			}
+			"internal-dev"
+			{
+				"gid" "CB28935222D164257788C4598318D8D2"
+				"size" "09BA3646C5C76196B2695336FE742A83"
+				"download" "6F839BEA8F86D87F15F322F0AB2D2E6F"
+			}
+			"prelaunch"
+			{
+				"gid" "F222EA82DC888062272A0A8514735CB9"
+				"size" "62669D6A80C6EDF40259B51F8F5ECE72"
+				"download" "081320E2C9836E5113D290C0757CB5EB"
+			}
+			"streamers-multi"
+			{
+				"gid" "48F00FD72A2CC7F1F21FE0440B412807"
+				"size" "10AA2C95F15BE13E9BA76D9001FAAB14"
+				"download" "4110C58CE5914143DA7BA2E2C235D9E7"
+			}
+		}
+	}
+	"baselanguages" "english,french,koreana,spanish,schinese,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16162898"
+			"timeupdated" "1729783913"
+		}
+		"alpha"
+		{
+			"buildid" "16162898"
+			"pwdrequired" "1"
+			"timeupdated" "1729785157"
+		}
+		"internal-dev"
+		{
+			"buildid" "16164067"
+			"pwdrequired" "1"
+			"timeupdated" "1729766522"
+		}
+		"prelaunch"
+		{
+			"buildid" "16162898"
+			"pwdrequired" "1"
+			"timeupdated" "1729761266"
+		}
+		"streamers-multi"
+		{
+			"buildid" "16162898"
+			"pwdrequired" "1"
+			"timeupdated" "1729785339"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25897923"
+"_sha" "90136d986e816649bb456c02e2f98c3cceee7e2f"
+"_size" "7019"
