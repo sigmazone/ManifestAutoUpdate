@@ -197,6 +197,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1715270177"
 	"community_visible_stats" "1"
@@ -253,24 +258,18 @@
 		{
 			"public"
 			{
-				"gid" "7323821217176932081"
-				"size" "394449908"
-				"download" "318282800"
-			}
-			"modding-beta"
-			{
-				"gid" "7323821217176932081"
-				"size" "394449908"
-				"download" "318282800"
+				"gid" "5387196968022470633"
+				"size" "394449921"
+				"download" "318275072"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta-test-dev"
 			{
-				"gid" "6A087208BED01216488C53EEE5B89110"
-				"size" "D04AACA0A3FEA789EDF630592D1CD67F"
-				"download" "30D3692911C8FDD29D6EAA4AACED43EA"
+				"gid" "1A59D8B6BFA3BAF2C20EE31F2CB8D52A"
+				"size" "0965F05E94D5BFA134ED2ABF8C7DB1C8"
+				"download" "86D53A99BB93FF580BD8E6C8442EE426"
 			}
 			"developer-test"
 			{
@@ -284,6 +283,12 @@
 				"size" "A7E9BB47A1B3335BC1792C1A32439363"
 				"download" "B9CDE993CAA4C9EB37B8D9313CD3FDAC"
 			}
+			"vm-test"
+			{
+				"gid" "DB12601233D6AA858C21205D00E07B3B"
+				"size" "B343CCC83657E0218D8153F7E96D1195"
+				"download" "C9329303D024B6964A26C358F79B8965"
+			}
 		}
 	}
 	"baselanguages" "english,schinese,japanese"
@@ -292,14 +297,14 @@
 	{
 		"public"
 		{
-			"buildid" "16142058"
-			"timeupdated" "1729634010"
+			"buildid" "16163666"
+			"timeupdated" "1729764769"
 		}
 		"beta-test-dev"
 		{
-			"buildid" "16142058"
+			"buildid" "16163666"
 			"pwdrequired" "1"
-			"timeupdated" "1729632308"
+			"timeupdated" "1729764345"
 		}
 		"developer-test"
 		{
@@ -307,17 +312,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1722119881"
 		}
-		"modding-beta"
-		{
-			"buildid" "16142058"
-			"description" "For modding"
-			"timeupdated" "1729633852"
-		}
 		"showfloor"
 		{
 			"buildid" "14866196"
 			"pwdrequired" "1"
 			"timeupdated" "1719540212"
+		}
+		"vm-test"
+		{
+			"buildid" "15174661"
+			"pwdrequired" "1"
+			"timeupdated" "1729767007"
 		}
 	}
 }
@@ -337,6 +342,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25846959"
-"_sha" "5934d085021e67894ddea2bc1f5cfa8de6dc05f5"
-"_size" "6097"
+"_change_number" "25875960"
+"_sha" "1311c2a3cf5a699ebb6ff6be88e5563a74a1bbf2"
+"_size" "6206"
