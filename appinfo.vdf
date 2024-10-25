@@ -6,6 +6,7 @@
 	"languages"
 	{
 		"english" "1"
+		"koreana" "1"
 		"schinese" "1"
 		"tchinese" "1"
 		"japanese" "1"
@@ -130,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1700628628"
+	"store_asset_mtime" "1729672295"
 	"associations"
 	{
 		"0"
@@ -189,6 +190,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1682956822"
 	"community_visible_stats" "1"
@@ -204,7 +210,7 @@
 		"5" "599"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -239,9 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "6163969675714953679"
-				"size" "845744194"
-				"download" "352655168"
+				"gid" "1708774198129006955"
+				"size" "907840912"
+				"download" "367946096"
 			}
 		}
 		"encryptedmanifests"
@@ -252,21 +258,33 @@
 				"size" "237EB826A4CAA8AA40BED3C267368AD9"
 				"download" "51467A8F5D0C5EB05E853E4D8374EEBB"
 			}
+			"dev_share"
+			{
+				"gid" "5999F2F820E26B8A92C8C4977F016908"
+				"size" "F72B652BEAF62789F9FAE65A888820A9"
+				"download" "5C74C35F79B43480229A36E09E297C7C"
+			}
 			"develop"
 			{
-				"gid" "EF19344AF6B23C9DA97F0DFA81ADFA85"
-				"size" "4EA585B1F0856E2212AB312E24769350"
-				"download" "4FABBBA61FA78A0D79B03ECEA16E1176"
+				"gid" "C9E6939C54275BCEF3E1525A7C1741ED"
+				"size" "9D35609AD23BA017D3B7477E71731EFF"
+				"download" "53D25A5C1478EE5D13FD962717E78871"
+			}
+			"for_release"
+			{
+				"gid" "3233845D44005D24BCC18792C78F5B96"
+				"size" "297EDA12392C7C7CC5FD3A635A46D016"
+				"download" "4B264876E655087119ABCECCBE3F1337"
 			}
 		}
 	}
-	"baselanguages" "english,schinese,tchinese,japanese"
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14749698"
-			"timeupdated" "1718795894"
+			"buildid" "16144445"
+			"timeupdated" "1729695615"
 		}
 		"test"
 		{
@@ -274,11 +292,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1709018882"
 		}
+		"dev_share"
+		{
+			"buildid" "16131357"
+			"pwdrequired" "1"
+			"timeupdated" "1729572791"
+		}
 		"develop"
 		{
-			"buildid" "15414591"
+			"buildid" "16131357"
 			"pwdrequired" "1"
-			"timeupdated" "1724033289"
+			"timeupdated" "1729572031"
+		}
+		"for_release"
+		{
+			"buildid" "16144445"
+			"pwdrequired" "1"
+			"timeupdated" "1729648049"
 		}
 	}
 }
@@ -296,3 +326,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25868083"
+"_sha" "82ce0c01d096b39e631c018852562d4049953a5c"
+"_size" "6070"
