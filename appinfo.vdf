@@ -4,8 +4,8 @@
 	"name" "Bendy and the Ink Machine"
 	"type" "Game"
 	"releasestate" "released"
-	"oslist" "windows,macos,linux"
-	"osarch" ""
+	"oslist" "windows"
+	"osarch" "64"
 	"logo" "091350a3b78b7837e428d9c49c83679f520e8e3c"
 	"logo_small" "091350a3b78b7837e428d9c49c83679f520e8e3c_thumb"
 	"icon" "c45528d39891ea9f2059340929cb62c90d40e666"
@@ -13,6 +13,7 @@
 	"clienticon" "87c749fb9a00a5d641609639574c76f76850662c"
 	"clienticns" "87c749fb9a00a5d641609639574c76f76850662c"
 	"linuxclienticon" "71f85668ea7673c1dd9e274c5dfedbe323d8653e"
+	"osextended" ""
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -56,10 +57,11 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "439263ed64ad1b390b62a86f05be9157807b3ce7/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -70,14 +72,68 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "48.24970828471414"
-			"height_pct" "61.018760389456205"
+			"pinned_position" "CenterCenter"
+			"width_pct" "53.61726954492418"
+			"height_pct" "76.21705058180959"
 		}
 	}
-	"store_asset_mtime" "1593194836"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "620a85ba986a24501f22e730b0041f638cdf1867/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "620a85ba986a24501f22e730b0041f638cdf1867/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "c84a23218dfb968c5a8a126d05a49867b9b23296/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "c84a23218dfb968c5a8a126d05a49867b9b23296/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "02c2c13a2025b446595ea04e3d49201b20349e07/logo.png"
+			}
+			"image2x"
+			{
+				"english" "02c2c13a2025b446595ea04e3d49201b20349e07/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "53.61726954492418"
+				"height_pct" "76.21705058180959"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0d4b226abbbc4b16f8d5ea4c09ce403c8913a4af/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0d4b226abbbc4b16f8d5ea4c09ce403c8913a4af/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729561745"
 	"associations"
 	{
 		"0"
@@ -123,34 +179,42 @@
 		"french"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"italian"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"german"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"spanish"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"japanese"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"brazilian"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"russian"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"schinese"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 	}
 	"original_release_date" "1486713600"
@@ -251,6 +315,12 @@
 		{
 			"public"
 			{
+				"gid" "3839364653133507972"
+				"size" "3348017800"
+				"download" "1049426688"
+			}
+			"release-1.5"
+			{
 				"gid" "3657537186137230940"
 				"size" "3355712505"
 				"download" "1006336656"
@@ -260,9 +330,9 @@
 		{
 			"dev-build"
 			{
-				"gid" "F0321BA997F1E37DD11F59B76E8DD154"
-				"size" "4753A2ACC8BE27634F69030EC3C34ED4"
-				"download" "8155D131163ABDB66E111C6C81C8B106"
+				"gid" "5F9E678C17027E256B83E67E505FB8F9"
+				"size" "E16186E765DC2D177E505E01DCA15483"
+				"download" "032D6E49B6CBBEE8CCE56BA56757D9D7"
 			}
 		}
 	}
@@ -276,6 +346,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1235752666285185366"
+				"size" "3349822457"
+				"download" "1004302656"
+			}
+			"release-1.5"
 			{
 				"gid" "1235752666285185366"
 				"size" "3349822457"
@@ -306,6 +382,12 @@
 				"size" "3555658312"
 				"download" "1098471104"
 			}
+			"release-1.5"
+			{
+				"gid" "8875080210494677398"
+				"size" "3555658312"
+				"download" "1098471104"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -331,6 +413,12 @@
 				"size" "3431045521"
 				"download" "1041651248"
 			}
+			"release-1.5"
+			{
+				"gid" "779084498159863616"
+				"size" "3431045521"
+				"download" "1041651248"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -346,18 +434,24 @@
 	{
 		"public"
 		{
-			"buildid" "3248927"
-			"timeupdated" "1540569712"
+			"buildid" "16175655"
+			"timeupdated" "1729833542"
 		}
 		"dev-build"
 		{
-			"buildid" "3248927"
+			"buildid" "16175655"
 			"pwdrequired" "1"
-			"timeupdated" "1540526577"
+			"timeupdated" "1729833186"
+		}
+		"release-1.5"
+		{
+			"buildid" "3248927"
+			"description" "Original Release of 1.5 PC Mac Linux"
+			"timeupdated" "1722198635"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23022051"
-"_sha" "d34147f04d304d6a094fd1fc79ed4b645d609c28"
-"_size" "6330"
+"_change_number" "25889931"
+"_sha" "404a7360958f237d406f00642b42a9fa40669b99"
+"_size" "8362"
