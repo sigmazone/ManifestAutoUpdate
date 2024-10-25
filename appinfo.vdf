@@ -305,7 +305,7 @@
 		"22"
 		{
 			"executable" "DeceiveInc.exe"
-			"arguments" "-nosplash -MatchmakingSuffix playtest"
+			"arguments" "-nosplash -MatchmakingSuffix playtest -LogCmds=\"LogDIWebServices VeryVerbose, LogDIParty VeryVerbose\" "
 			"type" "option1"
 			"config"
 			{
@@ -409,9 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "723219227937710943"
-				"size" "15115969901"
-				"download" "13705565584"
+				"gid" "490228987158171867"
+				"size" "15120297317"
+				"download" "13706195040"
 			}
 		}
 		"encryptedmanifests"
@@ -458,47 +458,47 @@
 				"size" "7FDD1C0B2853D2AA9C5F72D6CC9BE37E"
 				"download" "008185B73D909334124CEB61E1AA6959"
 			}
-			"env_amstest"
-			{
-				"gid" "F4E4E9A52E2A8F0FB0693986C484450E"
-				"size" "81C4DA8EA4BA9CC1FA7D41D22989F77B"
-				"download" "B96120DB8967A048EF0C2CB7225D5B0D"
-			}
 			"env_dev"
 			{
-				"gid" "21CA00829F99E6069EC7C38D78FF3C46"
-				"size" "B7985A352304BD5D8609D4E624C2F987"
-				"download" "E03DD408414C641FAA4DC0B93437DA28"
+				"gid" "3012D69AD15875F6EF6D40C1154AAE78"
+				"size" "622EBF0CF237EC4FFCDA20B6D354DDEF"
+				"download" "1083D894BB779E659924BA7B96C985A7"
 			}
 			"env_production"
 			{
-				"gid" "98F031B20E295E7E648304AC00614ADB"
-				"size" "7A969608039D84FEF593686F718231B2"
-				"download" "52F7521798ADF087934F1B09725C1A2D"
+				"gid" "5DD03347D09590302CA49EAEAF2EF2DE"
+				"size" "21C8F28FBA90B1F88BA592074BC8717B"
+				"download" "20808D6D3454B0A46FC7086F536CA9CF"
 			}
 			"env_staging"
 			{
-				"gid" "8CDFEB33DE5A7A5A3F14FFC30AD92E92"
-				"size" "0BB894B8E18F9AF9D0E650080DB3B1BC"
-				"download" "A743CC619334588CE210B2851243FAEA"
+				"gid" "61B3C85C1F47C56D61CBEFF6DFF6C0B5"
+				"size" "43EB14173BD3EAA0D40A0DF2D8A6A892"
+				"download" "6308D8E20F0F32C8215FC48EEF58772D"
 			}
 			"env_test"
 			{
-				"gid" "B6E014259609D1825F1B5E0B631FBA8E"
-				"size" "2F060A15D01E7AEE4BD9EBE6409539D8"
-				"download" "C6FA8F46D2C11BA0422092A84E6B3D5D"
+				"gid" "F7750042BBAC19DB0E2AFF1A01101867"
+				"size" "99A94C33466B3D5FCD4A98BA4BCD6BEE"
+				"download" "218EB882989602CC1A24E158EBCF44EB"
 			}
 			"env_tett"
 			{
-				"gid" "AC71ECFD5D7B03A7BED392F2EAA5FBBF"
-				"size" "43A2D3CA75EC029090C00873A22D4EFC"
-				"download" "DB7219C82995F1E1B8225B82D56C9B82"
+				"gid" "853298CF21C33EE904DA0002B865DA97"
+				"size" "22FB12B760888943BD9A33330E1296FD"
+				"download" "D127B07DDCFB7A3162F1153AB0A7301C"
+			}
+			"playtest_october_2024"
+			{
+				"gid" "F5F4296AEED75EEAB07036521C482B89"
+				"size" "FD55DAA96C6707EED5D2D17C0BDBA191"
+				"download" "2C51ACE18AD40B5785E818926FDD72F3"
 			}
 			"previous_default"
 			{
-				"gid" "87BE9708F6070848E0AE79C32CD6C789"
-				"size" "B06454616890C0DC58309CA4E41907BD"
-				"download" "914A0E225BF23DE34391E2250A1A8570"
+				"gid" "7F00D2A327E18B098661E99722A9F842"
+				"size" "FF1C8708A29CD3D7A7ACA0DE62DB3F13"
+				"download" "7369B6CF6C5D17BBEF260D0E25FD3259"
 			}
 		}
 	}
@@ -506,8 +506,8 @@
 	{
 		"public"
 		{
-			"buildid" "15609984"
-			"timeupdated" "1725980838"
+			"buildid" "16117256"
+			"timeupdated" "1729782882"
 		}
 		"env_production_special"
 		{
@@ -551,47 +551,51 @@
 			"pwdrequired" "1"
 			"timeupdated" "1687886804"
 		}
-		"env_amstest"
-		{
-			"buildid" "15474856"
-			"pwdrequired" "1"
-			"timeupdated" "1724432649"
-		}
 		"env_dev"
 		{
-			"buildid" "15719228"
+			"buildid" "16179408"
 			"pwdrequired" "1"
-			"timeupdated" "1726516179"
+			"timeupdated" "1729853969"
 		}
 		"env_production"
 		{
-			"buildid" "15682974"
+			"buildid" "16117256"
 			"pwdrequired" "1"
-			"timeupdated" "1726177584"
+			"timeupdated" "1729479718"
 		}
 		"env_staging"
 		{
-			"buildid" "15610158"
+			"buildid" "16174631"
 			"pwdrequired" "1"
-			"timeupdated" "1725585203"
+			"timeupdated" "1729825858"
 		}
 		"env_test"
 		{
-			"buildid" "15730322"
+			"buildid" "16180572"
 			"pwdrequired" "1"
-			"timeupdated" "1726583861"
+			"timeupdated" "1729860270"
 		}
 		"env_tett"
 		{
-			"buildid" "15696329"
+			"buildid" "16142107"
 			"pwdrequired" "1"
-			"timeupdated" "1726262822"
+			"timeupdated" "1729631533"
+		}
+		"playtest_october_2024"
+		{
+			"buildid" "16013635"
+			"pwdrequired" "1"
+			"timeupdated" "1728672424"
 		}
 		"previous_default"
 		{
-			"buildid" "14105170"
+			"buildid" "15609984"
 			"pwdrequired" "1"
-			"timeupdated" "1716915749"
+			"timeupdated" "1729695707"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25896344"
+"_sha" "0c1481a9eb67e57a8ac8a2b8613cb929c59af9f7"
+"_size" "12028"
