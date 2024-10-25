@@ -104,7 +104,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728565825"
+	"store_asset_mtime" "1729786763"
 	"associations"
 	{
 		"0"
@@ -139,6 +139,8 @@
 		"category_58" "1"
 		"category_59" "1"
 		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -247,7 +249,24 @@
 		"0"
 		{
 			"executable" "Murky Divers.exe"
+			"arguments" "-d3d11"
 			"type" "default"
+			"description_loc"
+			{
+				"english" "Play Murky Divers (Default)"
+			}
+			"description" "Play Murky Divers (Default)"
+		}
+		"1"
+		{
+			"executable" "Murky Divers.exe"
+			"arguments" "-d3d12"
+			"type" "option2"
+			"description_loc"
+			{
+				"english" "Murky Divers DX12 (Better performance but can be unstable)"
+			}
+			"description" "Murky Divers DX12 (Better performance but can be unstable)"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -299,15 +318,15 @@
 		{
 			"public"
 			{
-				"gid" "4927853602160958361"
-				"size" "1833416870"
-				"download" "1174415344"
+				"gid" "272211597004296718"
+				"size" "1899410639"
+				"download" "1237868992"
 			}
 			"preview"
 			{
-				"gid" "4927853602160958361"
-				"size" "1833416870"
-				"download" "1174415344"
+				"gid" "8019282369204286512"
+				"size" "1919869375"
+				"download" "1258383344"
 			}
 		}
 		"encryptedmanifests"
@@ -326,15 +345,15 @@
 			}
 			"private-development"
 			{
-				"gid" "06827445C2D934FFCE092181244EACAD"
-				"size" "4658372FA9970474841B667F14E08862"
-				"download" "FE52670EDA6E4E9EFBC62987812B26E5"
+				"gid" "25A499A9B03BD33FECDC0A45A3AFE17F"
+				"size" "FBB8C8B4F3B1685442EEC6FA00DFA4E9"
+				"download" "44FB873850B0181D984C8C5B081EDA1B"
 			}
 			"private-preview"
 			{
-				"gid" "2E21A43E08DD16F33DDC1CF74D5CD666"
-				"size" "717B93980CB12F2AC4A97E2DB2D0FE34"
-				"download" "BBDDCB373C34C463542ADD0C97239A34"
+				"gid" "8476D7C0161FC9C54ED75A60DBED72B8"
+				"size" "B06D5002DA1D53FC8723787C8DEBBB9A"
+				"download" "32CD304C4780C270241B8BE4509054AD"
 			}
 			"private-voice-gen"
 			{
@@ -354,8 +373,8 @@
 	{
 		"public"
 		{
-			"buildid" "15995148"
-			"timeupdated" "1728571738"
+			"buildid" "16168939"
+			"timeupdated" "1729790646"
 		}
 		"development"
 		{
@@ -371,21 +390,21 @@
 		}
 		"preview"
 		{
-			"buildid" "15995148"
+			"buildid" "16153808"
 			"description" "A beta branch to access the latest features before they\'re pushed to the official default one."
-			"timeupdated" "1728662985"
+			"timeupdated" "1729700669"
 		}
 		"private-development"
 		{
-			"buildid" "15837876"
+			"buildid" "16167414"
 			"pwdrequired" "1"
-			"timeupdated" "1727360126"
+			"timeupdated" "1729782944"
 		}
 		"private-preview"
 		{
-			"buildid" "15995148"
+			"buildid" "16153936"
 			"pwdrequired" "1"
-			"timeupdated" "1728570390"
+			"timeupdated" "1729701311"
 		}
 		"private-voice-gen"
 		{
@@ -406,3 +425,7 @@
 	"quota" "10000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "25893587"
+"_sha" "998eeb9d73c46d8f6977d2c7db490d36f3fb98ec"
+"_size" "8066"
