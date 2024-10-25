@@ -93,7 +93,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "718bb8cadac02fbdfb27a68109255fdfbc920730/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -104,6 +104,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -117,18 +118,18 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "35d7256c49f22d958ace8b2e05f25333c0fb5097/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "35d7256c49f22d958ace8b2e05f25333c0fb5097/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "2e1a27a8d4c0744df68a5b78daae38c24e5a5ded/library_hero.jpg"
 			}
 			"image2x"
 			{
@@ -139,11 +140,11 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "6058ce51ce37185a611cdbff7759bced73674444/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "6058ce51ce37185a611cdbff7759bced73674444/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -152,8 +153,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4ac1b1ca7e5b2c2987e7ab34b3787b6a66d22c62/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4ac1b1ca7e5b2c2987e7ab34b3787b6a66d22c62/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1702568753"
+	"store_asset_mtime" "1729093912"
 	"associations"
 	{
 		"0"
@@ -337,54 +349,36 @@
 		{
 			"public"
 			{
-				"gid" "4783618791375233445"
-				"size" "2119793509"
-				"download" "2005097920"
+				"gid" "8527837061890911671"
+				"size" "2197611276"
+				"download" "2082838864"
 			}
 			"pre-release"
 			{
-				"gid" "4783618791375233445"
-				"size" "2119793509"
-				"download" "2005097920"
+				"gid" "8527837061890911671"
+				"size" "2197611276"
+				"download" "2082838864"
 			}
 			"previous-release"
 			{
-				"gid" "8306148038776916245"
-				"size" "2077688935"
-				"download" "1963265072"
+				"gid" "4783618791375233445"
+				"size" "2119793509"
+				"download" "2005097920"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"alpha"
-			{
-				"gid" "9D6EE75B2E9A86A101982D4DB756CD03"
-				"size" "36C036DF166F90D304A8213CFF3480BB"
-				"download" "A2B2967F8BA9102411A29292D1B7511D"
-			}
-			"alpha-pc"
-			{
-				"gid" "43A69B1CA3D8ADA25A1BDC4BBA52A4A2"
-				"size" "FEBA790B7D61E4AC80E2B5E16E84FACA"
-				"download" "63BAA79DEB23054118CB1C28E25ADCD9"
-			}
 			"cioutput"
 			{
-				"gid" "E47D09526FB1CA512C5D50D39344EF35"
-				"size" "F8F83FE6E5E80E3A75B40A79D94A8360"
-				"download" "EBAFF86E15582C6E041AD746AAD41268"
+				"gid" "A214E567DD16CE063579EF148DDCDA97"
+				"size" "1CC462C64B4E8CE4917092D61334BE8E"
+				"download" "0C1E8D684BC9690C8D742240E993B0E6"
 			}
 			"develop"
 			{
-				"gid" "8902C2EBC8940413C5E5056BAF968383"
-				"size" "AD43E7CE5B8F1930D6C821861380A830"
-				"download" "8BC0DFAE843507DED45787BF12093EFC"
-			}
-			"flatversion"
-			{
-				"gid" "0F1D52332917B6D813EF77B92747D0F6"
-				"size" "AA1555868235FB40B285A045306CFB0D"
-				"download" "C9079F49E69595732AC0E79E2103A872"
+				"gid" "F46639AE81AD9C7ECF24F75FD81AC24A"
+				"size" "AF9916D5A88DB609499564593DD70155"
+				"download" "D693D9487C5EAF22F9D908931BF12A4F"
 			}
 		}
 	}
@@ -392,50 +386,36 @@
 	{
 		"public"
 		{
-			"buildid" "14036809"
-			"timeupdated" "1712936880"
-		}
-		"alpha"
-		{
-			"buildid" "6259891"
-			"pwdrequired" "1"
-			"timeupdated" "1613749804"
-		}
-		"alpha-pc"
-		{
-			"buildid" "14036809"
-			"pwdrequired" "1"
-			"timeupdated" "1712936925"
+			"buildid" "16149252"
+			"timeupdated" "1729778578"
 		}
 		"cioutput"
 		{
-			"buildid" "14036809"
+			"buildid" "16149252"
 			"pwdrequired" "1"
-			"timeupdated" "1712936552"
+			"timeupdated" "1729677987"
 		}
 		"develop"
 		{
-			"buildid" "11233311"
+			"buildid" "16149252"
 			"pwdrequired" "1"
-			"timeupdated" "1684913347"
-		}
-		"flatversion"
-		{
-			"buildid" "11253689"
-			"pwdrequired" "1"
-			"timeupdated" "1684328082"
+			"timeupdated" "1729773924"
 		}
 		"pre-release"
 		{
-			"buildid" "14036809"
+			"buildid" "16149252"
 			"description" "Beta branch for Ragnarock. Please note depending on the version, this branch might not be multiplayer-compatible with people playing on the regular version."
-			"timeupdated" "1712936937"
+			"timeupdated" "1729773965"
 		}
 		"previous-release"
 		{
-			"buildid" "12425135"
+			"buildid" "14036809"
 			"description" "Previous stable version, allowing you to compare and keep playing if you experience any regressions. Please notify us on discord if that is the case so we may fix it as soon as possible. Please note depending on the version, this branch might not be multiplayer-compatible with people playing on the regular version."
-			"timeupdated" "1702566052"
+			"timeupdated" "1729774106"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25877860"
+"_sha" "c88ffc86ad0c06d34778ddfecb80898ca5d3738a"
+"_size" "8592"
