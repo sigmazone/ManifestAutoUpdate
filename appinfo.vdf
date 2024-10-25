@@ -72,6 +72,55 @@
 			"height_pct" "45.13888888888889"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.01939237233355"
+				"height_pct" "45.13888888888889"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1713201573"
 	"associations"
 	{
@@ -735,8 +784,8 @@
 	"gameid" "2663530"
 	"store_tags"
 	{
-		"0" "5900"
-		"1" "1721"
+		"0" "1721"
+		"1" "5900"
 		"2" "4166"
 		"3" "4175"
 		"4" "3834"
@@ -752,8 +801,8 @@
 		"14" "492"
 		"15" "9157"
 		"16" "769306"
-		"17" "5716"
-		"18" "4342"
+		"17" "4342"
+		"18" "5716"
 		"19" "8369"
 	}
 	"review_score" "8"
@@ -810,18 +859,24 @@
 		{
 			"public"
 			{
-				"gid" "3410095994343535477"
-				"size" "2016619545"
-				"download" "907984000"
+				"gid" "3612147640412000492"
+				"size" "4058428005"
+				"download" "1888307712"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "C28A551B8D9E5B2AA7B4D495F186070A"
-				"size" "F2AF97C0422C01551A75C6A4B2E8CA2B"
-				"download" "956551070E93869E2B3A5470BF9A0260"
+				"gid" "780B5D3622D62910BC77E68A8FBDA833"
+				"size" "12DA0799FA8E0DFE329B676FEF4D4556"
+				"download" "5C4DB795DCB5B886D9AF5AA004B11271"
+			}
+			"vr-beta-public"
+			{
+				"gid" "F60A9C03ADA77EFD8F2DCAC5AAB7C5C3"
+				"size" "341BCD7E6D2763FAA782712B7A947792"
+				"download" "96C08A09EB86BF4FC06DB3B3FBF99E19"
 			}
 		}
 	}
@@ -835,18 +890,24 @@
 		{
 			"public"
 			{
-				"gid" "6552084072648259899"
-				"size" "2015850379"
-				"download" "896730240"
+				"gid" "4312092240051217460"
+				"size" "4038656582"
+				"download" "1846456544"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "A3EC9D06A9F9E52CD6B71BC296E515BB"
-				"size" "A223C865EF1B932B65189B058D893CF4"
-				"download" "B450EF5C70964E6E44882D9B1D0E262E"
+				"gid" "BF0D6DF0BBF4359143E441247ACC814E"
+				"size" "8A7179DD9195BF50B2B828E2422B0295"
+				"download" "A7BB30FCA339B8C9D88250DD3A9528C6"
+			}
+			"vr-beta-public"
+			{
+				"gid" "453FABFAF65F192F5FC8899FCB96BD41"
+				"size" "C82ABB1024842A3668220DEC04E153BA"
+				"download" "0AA3AD57AB411AF7C80278B2575F48B3"
 			}
 		}
 	}
@@ -860,18 +921,24 @@
 		{
 			"public"
 			{
-				"gid" "3590174018601143663"
-				"size" "2167247950"
-				"download" "914348336"
+				"gid" "772095125203406013"
+				"size" "4166541093"
+				"download" "1864040704"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "6B008D9E0DECDFEA2493DE9D6311847D"
-				"size" "251CF074394D2AC824C7593E04AD4321"
-				"download" "18F22FF6378A06354DDC34C96F9360D9"
+				"gid" "AF18FBC4BAA2A1568087BC9C81E3DCB4"
+				"size" "9100AF599DB29FA15454FDBEB916256B"
+				"download" "7B44EB328915D8658849C0FB14792848"
+			}
+			"vr-beta-public"
+			{
+				"gid" "E38690B74E3F1E4C8FFBB8B29F50F7EF"
+				"size" "A1B58B34AEF994E2C882EDFDBDA818F2"
+				"download" "D07A2642F19885303E8892313C7D2C27"
 			}
 		}
 	}
@@ -879,14 +946,20 @@
 	{
 		"public"
 		{
-			"buildid" "14736392"
-			"timeupdated" "1718573713"
+			"buildid" "16177521"
+			"timeupdated" "1729845121"
 		}
 		"internal"
 		{
-			"buildid" "14722423"
+			"buildid" "16177521"
 			"pwdrequired" "1"
-			"timeupdated" "1718389392"
+			"timeupdated" "1729844951"
+		}
+		"vr-beta-public"
+		{
+			"buildid" "16179206"
+			"pwdrequired" "1"
+			"timeupdated" "1729852919"
 		}
 	}
 }
@@ -931,6 +1004,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24059091"
-"_sha" "4a7e12950989da7c72ba2cd6f039e2758f9d7bd8"
-"_size" "15495"
+"_change_number" "25894478"
+"_sha" "6818a2461925d65d16b9a02ad746ff7b9faf84e5"
+"_size" "16863"
