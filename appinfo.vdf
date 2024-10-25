@@ -1,0 +1,482 @@
+"appid" "2383990"
+"common"
+{
+	"name" "Ghostbusters: Spirits Unleashed Ecto Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "a8f122e0795e6c18e1dda8b2681ab3a42dadb478"
+	"clienttga" "741752ae3cff4b00d5d963dde1be745dab782423"
+	"icon" "7e05fb5d6a3c3a56b31c0da7980a25a4618da16a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2383990_eula_0"
+			"name" "Ghostbusters: Spirits Unleashed Ecto Edition EULA"
+			"url" "https://store.steampowered.com//eula/2383990_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1696291200"
+		"tested_build_id" "12291406"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "80.85299455535389"
+			"height_pct" "69.44444444444443"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "80.85299455535389"
+				"height_pct" "69.44444444444443"
+			}
+		}
+	}
+	"store_asset_mtime" "1698941447"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IllFonic"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IllFonic Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697727744"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2383990"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "4106"
+		"3" "1663"
+		"4" "3839"
+		"5" "7743"
+		"6" "3859"
+		"7" "10808"
+		"8" "3843"
+		"9" "5350"
+		"10" "1775"
+		"11" "5711"
+		"12" "4747"
+		"13" "4182"
+		"14" "1667"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"gamedir" "GBSU"
+	"serverbrowsername" "GBSU"
+	"developer" "IllFonic"
+	"publisher" "IllFonic Publishing"
+	"homepage" "https://www.ghostbusterssu.com/"
+	"listofdlc" "2624240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "GBSU"
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SwayzeGame.exe"
+			"arguments" "-steam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2383991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4104112303147554581"
+				"size" "32551073458"
+				"download" "31875166096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"valve_review"
+			{
+				"gid" "D0CEEC8EAEFC635759DAB7D63A2556EA"
+				"size" "F464A8B3608D9328C1D0F8ECC0DE4006"
+				"download" "44C538F9FC7A52149B5AB22F186DA560"
+			}
+			"cert"
+			{
+				"gid" "C57F2AAA4AD75B8BB4995A1FD23696FD"
+				"size" "A88DA8105C49DFBCD56358118340BAC6"
+				"download" "4CA2055A53CE655B8904E1890602418D"
+			}
+			"daily"
+			{
+				"gid" "446C867D2132496A9CAFECAE1646B27F"
+				"size" "5FD88D0ADA8662EDD4E2C5EDF2493003"
+				"download" "AD59129D1E4DB19CBCE37EE7DA939502"
+			}
+			"main"
+			{
+				"gid" "E42A9C2E18368CD086466908908112BD"
+				"size" "500CBAD5D805FEA67A26E4C195646340"
+				"download" "86D366D7D2F75BD3FEBA4CE2ECFC2F40"
+			}
+			"nightly"
+			{
+				"gid" "3790D0DEE37D53D8609FE7E013025B93"
+				"size" "A59347CDFB27E3723CA29C0D7D3B9F29"
+				"download" "2AE28A67AF580E2D2AB84C556796F7DE"
+			}
+			"partner_playtest"
+			{
+				"gid" "34B5B826F5411E4FB4BE586AE9CF2070"
+				"size" "2FC50CA72B72F574A94D1EA234831B20"
+				"download" "3FFEEEF7902B689CB5135109DC87762A"
+			}
+			"playtest"
+			{
+				"gid" "AF29AD68AD0F48158DD8E3CD4B559662"
+				"size" "252A0DAA339E76474FCB0E6589F079C0"
+				"download" "FEB982CC0BBD1E1BC987F43C5E018911"
+			}
+			"qatesting"
+			{
+				"gid" "77A0FEDEC3D80AD8F665649F48C03847"
+				"size" "A7620BDA9D5DDE40CBF8BCED3A4EF093"
+				"download" "EFBDC3FFB3A773B0797F9BBABDA218C6"
+			}
+			"release_candidate"
+			{
+				"gid" "BC0CBF4AABBCA4AA2CBC78E4C1FC3F20"
+				"size" "4C14BF406FDDCAEE594DD1E7B4E7F49D"
+				"download" "670C4BBBAFA80238BBB17E021024B51C"
+			}
+			"staging"
+			{
+				"gid" "4A9331F0F40AC3438A0DE9AE74653C3A"
+				"size" "55B35971CF294083387405D4CE475BAE"
+				"download" "12B9707B2C7AFC1ED08A6A1CA3E9F131"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16059934"
+			"timeupdated" "1729792858"
+		}
+		"valve_review"
+		{
+			"buildid" "12291406"
+			"pwdrequired" "1"
+			"timeupdated" "1695782996"
+		}
+		"cert"
+		{
+			"buildid" "16060766"
+			"pwdrequired" "1"
+			"timeupdated" "1729054928"
+		}
+		"daily"
+		{
+			"buildid" "14727586"
+			"pwdrequired" "1"
+			"timeupdated" "1728673734"
+		}
+		"main"
+		{
+			"buildid" "15388471"
+			"pwdrequired" "1"
+			"timeupdated" "1723767886"
+		}
+		"nightly"
+		{
+			"buildid" "15998668"
+			"pwdrequired" "1"
+			"timeupdated" "1728674074"
+		}
+		"partner_playtest"
+		{
+			"buildid" "15388471"
+			"pwdrequired" "1"
+			"timeupdated" "1724283460"
+		}
+		"playtest"
+		{
+			"buildid" "15815463"
+			"pwdrequired" "1"
+			"timeupdated" "1727983089"
+		}
+		"qatesting"
+		{
+			"buildid" "16016685"
+			"pwdrequired" "1"
+			"timeupdated" "1728692834"
+		}
+		"release_candidate"
+		{
+			"buildid" "16059934"
+			"pwdrequired" "1"
+			"timeupdated" "1729047387"
+		}
+		"staging"
+		{
+			"buildid" "16017526"
+			"pwdrequired" "1"
+			"timeupdated" "1728700618"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100485760"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SwayzeGame/Saved/SaveGames"
+			"pattern" "UserSettings*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25882114"
+"_sha" "e7d7945120ee3e9481731e87503ab77e7a712a38"
+"_size" "9148"
