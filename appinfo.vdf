@@ -276,8 +276,8 @@
 		"11" "597"
 		"12" "4840"
 		"13" "7481"
-		"14" "9"
-		"15" "3843"
+		"14" "3843"
+		"15" "9"
 		"16" "42804"
 		"17" "4791"
 		"18" "4182"
@@ -324,9 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "3511304844048280730"
-				"size" "1394090112"
-				"download" "401764176"
+				"gid" "7081728840577030502"
+				"size" "1420368091"
+				"download" "407193728"
 			}
 			"crash-fix-test"
 			{
@@ -336,9 +336,9 @@
 			}
 			"crossplaybeta"
 			{
-				"gid" "7290000306281547937"
-				"size" "1394440029"
-				"download" "401869600"
+				"gid" "6594253868093343203"
+				"size" "1397661267"
+				"download" "401897600"
 			}
 		}
 		"encryptedmanifests"
@@ -387,9 +387,21 @@
 			}
 			"crossplaystaging"
 			{
-				"gid" "21D133CD00527E5197443EDF096D8C40"
-				"size" "BB144C13D8FDF90395F2C2FCF43D57EA"
-				"download" "713FA36F87C22A159D53BFBB787FABB9"
+				"gid" "B78FB53D3CB814D531A90BAD0E9EC1E3"
+				"size" "57CA11ABADFB2AE9184FD395FA1D221D"
+				"download" "00C6ED64019A1A53576C8C05E3979F87"
+			}
+			"halloween"
+			{
+				"gid" "953207E5A8A8F9DFC42CD3B2B7B8F32C"
+				"size" "6E812B331E43E10863E0C311A1CFC853"
+				"download" "5D774DA5806D424CB1B1BC4EE0DEC0DE"
+			}
+			"mod-testing"
+			{
+				"gid" "2D392D777201DD6D037E6B3791DB2D28"
+				"size" "FCAAE0E1FD486531AFB18BEC49AF54DC"
+				"download" "4535B3639EE9F85B0E13769ECF182EAB"
 			}
 			"playtest"
 			{
@@ -399,9 +411,9 @@
 			}
 			"playtest2"
 			{
-				"gid" "167FC7FD9F74B122233B5C9B3A2A6005"
-				"size" "76BD74671989AE308EBD4465F1B4F359"
-				"download" "7F968AC6F213FD36267ABC9D6E83D7E6"
+				"gid" "3C7E552D0B11EA8EF2B24F99B07F7207"
+				"size" "2EE11EAECC180DFCE32FCEE20820FB06"
+				"download" "D7F090CE492B21B17ECB42C4C05F3209"
 			}
 		}
 	}
@@ -416,8 +428,8 @@
 	{
 		"public"
 		{
-			"buildid" "15591994"
-			"timeupdated" "1725468206"
+			"buildid" "16139746"
+			"timeupdated" "1729789007"
 		}
 		"ch_pr"
 		{
@@ -469,15 +481,27 @@
 		}
 		"crossplaybeta"
 		{
-			"buildid" "15549020"
+			"buildid" "15776693"
 			"description" "branch dedicated for crossplay"
-			"timeupdated" "1725050065"
+			"timeupdated" "1727881044"
 		}
 		"crossplaystaging"
 		{
-			"buildid" "15549020"
+			"buildid" "15776693"
 			"pwdrequired" "1"
-			"timeupdated" "1725049770"
+			"timeupdated" "1726871838"
+		}
+		"halloween"
+		{
+			"buildid" "16139746"
+			"pwdrequired" "1"
+			"timeupdated" "1729617789"
+		}
+		"mod-testing"
+		{
+			"buildid" "16166571"
+			"pwdrequired" "1"
+			"timeupdated" "1729779083"
 		}
 		"playtest"
 		{
@@ -487,9 +511,9 @@
 		}
 		"playtest2"
 		{
-			"buildid" "15591994"
+			"buildid" "16139746"
 			"pwdrequired" "1"
-			"timeupdated" "1725462921"
+			"timeupdated" "1729617649"
 		}
 	}
 }
@@ -526,29 +550,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_singleplayer" "{#Mode_%gamemode%}"
-				"#status_multiplayer" "{#Mode_%gamemode%} {#Players_%players%}"
-				"#mode_restaurant" "Restaurant (Day %day%)"
-				"#mode_overtime" "Restaurant (Overtime Day %day%)"
-				"#mode_planning" "Planning"
-				"#players_0" "👩‍🍳⚫⚫⚫"
-				"#players_1" "👩‍🍳⚫⚫⚫"
-				"#players_2" "👩‍🍳👨‍🍳⚫⚫"
-				"#players_3" "👩‍🍳👨‍🍳👩‍🍳⚫"
-				"#players_4" "👩‍🍳👨‍🍳👩‍🍳👨‍🍳"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "25077654"
-"_sha" "1a60d350cecbd6fa7d8da08fdff72e7cf77125e5"
-"_size" "10906"
+"_change_number" "25881028"
+"_sha" "aa4e5e6a70ae6f4c395ac20e552321538eae3896"
+"_size" "10858"
