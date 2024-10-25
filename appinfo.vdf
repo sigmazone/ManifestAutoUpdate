@@ -79,6 +79,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -127,8 +128,15 @@
 				"height_pct" "94.09403099238419"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "44a81c8144ad89900da60303f81dccfba3c865e4/library_header.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1726502871"
+	"store_asset_mtime" "1729788587"
 	"associations"
 	{
 		"0"
@@ -152,7 +160,6 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
@@ -170,14 +177,40 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"polish"
 		{
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1697734833"
+	"steam_release_date" "1729789048"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2272250"
@@ -188,8 +221,8 @@
 		"2" "1023537"
 		"3" "19"
 		"4" "3839"
-		"5" "4166"
-		"6" "1751"
+		"5" "1751"
+		"6" "4166"
 		"7" "1774"
 		"8" "4191"
 		"9" "4182"
@@ -212,6 +245,8 @@
 	"developer" "Byte Barrel"
 	"publisher" "Fulqrum Publishing"
 	"homepage" "https://www.fulqrumpublishing.com/game/776-forgive-me-father-2"
+	"listofdlc" "3297180"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -220,7 +255,7 @@
 	{
 		"0"
 		{
-			"executable" "launcher.exe"
+			"executable" "FMF2.exe"
 			"type" "default"
 			"config"
 			{
@@ -255,48 +290,30 @@
 		{
 			"public"
 			{
-				"gid" "2213073534059519994"
-				"size" "5631207609"
-				"download" "5354559008"
+				"gid" "2928793837691986473"
+				"size" "8352494252"
+				"download" "8041252496"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "160A3C30B635E3D2B9C51AB5F84BEBB6"
-				"size" "C0A8097E180FF0148FCC61155AD54147"
-				"download" "3511F198FA652260E119E5474040CAAD"
+				"gid" "ADACE0DF7AF63C5C8B20197BAAC991D0"
+				"size" "574509124CFF44F1ACB06068558C808A"
+				"download" "82B87ACC2CDF60816821C469EEE99FC8"
 			}
 			"internal"
 			{
-				"gid" "CA63C9DB29EAD51D03C7DA89A2D0E125"
-				"size" "F1FD412BA54025DC289B35FD1D9DCFD4"
-				"download" "76767B695F311D0003381A035B532D23"
-			}
-			"internal_old"
-			{
-				"gid" "8AB320B4618B750E5E14F1E1DB5D2A5A"
-				"size" "1F1876F732AA2F8FED16D5B4897FD4BE"
-				"download" "AE518C489E25D528C45D96F395CB1754"
-			}
-			"nvidia"
-			{
-				"gid" "153C8CEA6E4DC00C278454C5D254DC8F"
-				"size" "0C3884996CEF06035DAF661E688CF8AF"
-				"download" "D1292442D71F5113A7DE17477D7E1398"
-			}
-			"recording"
-			{
-				"gid" "CE4E00F11AA75E0BCB403250C4F544C3"
-				"size" "E5B766A9119A95EEB9B43B9D4B501FC4"
-				"download" "CDC719888DCF6AFC782F8AF0839C6417"
+				"gid" "CC0742ABBE119E1256F8DF8EC3C82148"
+				"size" "DDC39261BBE539E2C76845DC08D58A82"
+				"download" "17BE2033EB8D0E0020FBC0538F6EC91C"
 			}
 			"review"
 			{
-				"gid" "705E3521A674809928FCC89F643672FA"
-				"size" "26428E013ECF0FC0745429795F0411C3"
-				"download" "FA63A3BC234C4C3FC5B539A839CCD20D"
+				"gid" "BCCE167DAABBD912730602D97E9EF11A"
+				"size" "9578427C195B8377F6A82F6E2EC9DB37"
+				"download" "CA47B3A53CF385CDD40F29B471F80F21"
 			}
 		}
 	}
@@ -325,23 +342,45 @@
 				"size" "23FD8070A75D24BD56CBCA9D04D78565"
 				"download" "29CF5BBC33C94816EF9267F4E918434C"
 			}
-			"nvidia"
+			"review"
 			{
-				"gid" "50F06FEAE482A4529800AEAE3FEE3B03"
-				"size" "7A4C41CCE47A58C58AFB4241A9B600EB"
-				"download" "2D8A790E40424F08C095F2D873D5FA67"
+				"gid" "CFCA2DA34AAFAB0E035D7D84AF4C81BF"
+				"size" "F2278E9D1EA85BE828905D7CEF15F0A5"
+				"download" "CBE38B87940F2A606BB81ECAB30AF44A"
 			}
-			"recording"
+		}
+	}
+	"3297180"
+	{
+		"dlcappid" "3297180"
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "04B597ABF61116B7DF2ABA8EB3F414DB"
-				"size" "D14EE3F1417386F19B62C9062B92B345"
-				"download" "24CB5E6870EE233AF09B7B83576E0FC3"
+				"gid" "8598155171965694044"
+				"size" "322085206"
+				"download" "316045104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "C3CFE2CABBB8EA1C60DADAC7CC25ED07"
+				"size" "4A8861ADC91DDC508CFBDAF70E9F0EF2"
+				"download" "005751998585E21058E3906F26CED049"
+			}
+			"internal"
+			{
+				"gid" "1134BEEC63BC201A4DD1C94D5DF5F6C6"
+				"size" "E1F4E0E470670F952959A1E50F3B5A1D"
+				"download" "4125A39956C162D1AA72000EB6E417D1"
 			}
 			"review"
 			{
-				"gid" "C371B4C3B2759041499F5B4754B4C018"
-				"size" "5FF01BE7A36998150D84A1E2A16ED35F"
-				"download" "E969881F8FFB2EB4447098EAFDF00D60"
+				"gid" "1F40135BA6A5F895C826F19446F084FF"
+				"size" "934EA7E30D79E810960ACAE26CD2F4F0"
+				"download" "424531BE93A687DEA299DBB320DA5209"
 			}
 		}
 	}
@@ -349,44 +388,26 @@
 	{
 		"public"
 		{
-			"buildid" "15691156"
-			"timeupdated" "1726505383"
+			"buildid" "16168486"
+			"timeupdated" "1729788301"
 		}
 		"developer"
 		{
-			"buildid" "15691156"
+			"buildid" "16169924"
 			"pwdrequired" "1"
-			"timeupdated" "1726506701"
+			"timeupdated" "1729796368"
 		}
 		"internal"
 		{
-			"buildid" "15691156"
+			"buildid" "16168486"
 			"pwdrequired" "1"
-			"timeupdated" "1726232696"
-		}
-		"internal_old"
-		{
-			"buildid" "15504719"
-			"pwdrequired" "1"
-			"timeupdated" "1724857074"
-		}
-		"nvidia"
-		{
-			"buildid" "15691156"
-			"pwdrequired" "1"
-			"timeupdated" "1726671459"
-		}
-		"recording"
-		{
-			"buildid" "15691156"
-			"pwdrequired" "1"
-			"timeupdated" "1726506694"
+			"timeupdated" "1729788318"
 		}
 		"review"
 		{
-			"buildid" "15691156"
+			"buildid" "16168486"
 			"pwdrequired" "1"
-			"timeupdated" "1726506686"
+			"timeupdated" "1729788324"
 		}
 	}
 }
@@ -409,3 +430,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25893867"
+"_sha" "eb6c03f8f2000567237349fa36a7992942cb44e4"
+"_size" "7896"
