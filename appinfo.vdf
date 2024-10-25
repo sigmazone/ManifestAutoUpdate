@@ -42,15 +42,18 @@
 		"0"
 		{
 			"executable" "Binaries\\Win32\\PaladinsEAC.exe"
-			"arguments" "-pid=403 -steam -anon -eac_launcher_settings Settings.json -seekfreeloadingPCConsole -eac_dir \"..\\\\EasyAntiCheat\\\\\""
+			"arguments" "-pid=403 -hostx=20.33.55.211 -steam -anon -eac_launcher_settings Settings.json -seekfreeloadingPCConsole -eac_dir \"..\\\\EasyAntiCheat\\\\\""
 			"workingdir" "Binaries"
-			"description" "Launch 32"
-			"type" "none"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "32"
 			}
+			"description_loc"
+			{
+				"english" "Launch 32"
+			}
+			"description" "Launch 32"
 		}
 		"1"
 		{
@@ -66,7 +69,7 @@
 		"2"
 		{
 			"executable" "PaladinsBootstrapper.exe"
-			"arguments" "-pid=403 -steam -anon -eac_launcher_settings Settings64.json -seekfreeloadingPCConsole -eac_dir \"..\\\\EasyAntiCheat\\\\\""
+			"arguments" "-pid=403 -hostx=20.33.55.211 -steam -anon -eac_launcher_settings Settings64.json -seekfreeloadingPCConsole -eac_dir \"..\\\\EasyAntiCheat\\\\\""
 			"workingdir" "Binaries"
 			"type" "default"
 			"config"
@@ -95,24 +98,24 @@
 		{
 			"public"
 			{
-				"gid" "2073579367143523971"
-				"size" "33227985661"
-				"download" "25594318720"
+				"gid" "5266875056732711131"
+				"size" "33230016927"
+				"download" "25595966304"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"creators_test"
 			{
-				"gid" "5A2B54572AFC61858858F1168A185213"
-				"size" "A158C2304594B3B4FDEEA212BEF6782B"
-				"download" "D3A603D4FE89407CE894EA8AFEBE8FD7"
+				"gid" "E05D2E18613214E6CE06B7011E2BE243"
+				"size" "68788F80E50F030F8B6526FF9CBF1764"
+				"download" "88749D70FD8090B690568720582CF205"
 			}
 			"pts_latest"
 			{
-				"gid" "32D71DD17ED3F7A7A08D6F9CFD1BD7B0"
-				"size" "C7C052450B34D180A0B8DF0B34EF2C1B"
-				"download" "ED8A9E5D19804F633D833D931BEEDF4D"
+				"gid" "601EEA395398954D90B66ED9C7A0EEC3"
+				"size" "A028561959B8B1ACC39919478CA8316B"
+				"download" "81B0D59BF1B83C567504896B65A6A001"
 			}
 		}
 	}
@@ -152,24 +155,24 @@
 	{
 		"public"
 		{
-			"buildid" "16102244"
-			"timeupdated" "1729299314"
+			"buildid" "16155890"
+			"timeupdated" "1729715651"
 		}
 		"creators_test"
 		{
-			"buildid" "16074296"
+			"buildid" "16141262"
 			"pwdrequired" "1"
-			"timeupdated" "1729190488"
+			"timeupdated" "1729634269"
 		}
 		"pts_latest"
 		{
-			"buildid" "16102244"
+			"buildid" "16155890"
 			"pwdrequired" "1"
-			"timeupdated" "1729289182"
+			"timeupdated" "1729712771"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25795369"
-"_sha" "6fa9a1b6572c10110c539def571b9efd0e87f5ed"
-"_size" "3531"
+"_change_number" "25864802"
+"_sha" "9dc80168462db39ba29444ab5e99f839478a296d"
+"_size" "3614"
