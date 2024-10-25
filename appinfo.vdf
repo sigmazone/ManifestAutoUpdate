@@ -1,0 +1,332 @@
+"appid" "2246110"
+"common"
+{
+	"name" "Q  REMASTERED"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "dc910b30a07e7272e4ec213cedba1ddd8ff1f2b8"
+	"linuxclienticon" "c4b699a1d662515e4f5a804aa86e3da0ed368ea5"
+	"clienticon" "92a4dddffb9a2d1159bb06dc7dd831ab108ea352"
+	"clienttga" "3d313c0a546a94a7d9f29f40a59263b601261f9e"
+	"clienticns" "54440fca9abd40e89770837bfd6a142e754f5c8c"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1683936000"
+		"tested_build_id" "11206267"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "73.34096109839817"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "73.34096109839817"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1729672295"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "liica,Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "liica,Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Q"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1682956822"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2246110"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "3968"
+		"2" "1664"
+		"3" "597"
+		"4" "492"
+		"5" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"developer" "liica,Inc."
+	"publisher" "liica,Inc."
+	"homepage" "http://www.liica.co.jp/q-switch/"
+}
+"config"
+{
+	"installdir" "Q Remastered"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Q.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65520"
+}
+"depots"
+{
+	"2246111"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1708774198129006955"
+				"size" "907840912"
+				"download" "367946096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "C49D0D3E9C93EF6FC44562577CF5144F"
+				"size" "237EB826A4CAA8AA40BED3C267368AD9"
+				"download" "51467A8F5D0C5EB05E853E4D8374EEBB"
+			}
+			"dev_share"
+			{
+				"gid" "5999F2F820E26B8A92C8C4977F016908"
+				"size" "F72B652BEAF62789F9FAE65A888820A9"
+				"download" "5C74C35F79B43480229A36E09E297C7C"
+			}
+			"develop"
+			{
+				"gid" "C9E6939C54275BCEF3E1525A7C1741ED"
+				"size" "9D35609AD23BA017D3B7477E71731EFF"
+				"download" "53D25A5C1478EE5D13FD962717E78871"
+			}
+			"for_release"
+			{
+				"gid" "3233845D44005D24BCC18792C78F5B96"
+				"size" "297EDA12392C7C7CC5FD3A635A46D016"
+				"download" "4B264876E655087119ABCECCBE3F1337"
+			}
+		}
+	}
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16144445"
+			"timeupdated" "1729695615"
+		}
+		"test"
+		{
+			"buildid" "13572841"
+			"pwdrequired" "1"
+			"timeupdated" "1709018882"
+		}
+		"dev_share"
+		{
+			"buildid" "16131357"
+			"pwdrequired" "1"
+			"timeupdated" "1729572791"
+		}
+		"develop"
+		{
+			"buildid" "16131357"
+			"pwdrequired" "1"
+			"timeupdated" "1729572031"
+		}
+		"for_release"
+		{
+			"buildid" "16144445"
+			"pwdrequired" "1"
+			"timeupdated" "1729648049"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Liica/Q/Data"
+			"pattern" "*.q"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25868083"
+"_sha" "82ce0c01d096b39e631c018852562d4049953a5c"
+"_size" "6070"
