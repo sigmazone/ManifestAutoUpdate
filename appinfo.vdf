@@ -205,7 +205,7 @@
 		"19" "1714"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -213,7 +213,7 @@
 	"developer" "Kinemotik Studios"
 	"publisher" "Andromeda Entertainment"
 	"homepage" "https://audiotripvr.com"
-	"listofdlc" "2531400"
+	"listofdlc" "2531400,3269090"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -246,15 +246,15 @@
 		{
 			"public"
 			{
-				"gid" "6657778774088974324"
-				"size" "1750103063"
-				"download" "655943088"
+				"gid" "2850940837223342707"
+				"size" "1761946767"
+				"download" "657181344"
 			}
 			"diagnostic"
 			{
-				"gid" "3524338654333942330"
-				"size" "1793085218"
-				"download" "678693520"
+				"gid" "4606162001669954849"
+				"size" "1761947279"
+				"download" "657175968"
 			}
 			"public_beta"
 			{
@@ -279,15 +279,15 @@
 			}
 			"development_beta"
 			{
-				"gid" "B9DC322238C4E6C02A96B511C6915FA9"
-				"size" "3E5F3A0B929FE56A3C8FB5B1C3DB30C4"
-				"download" "3E5F3A0B929FE56A3C8FB5B1C3DB30C4"
+				"gid" "9EBFD39685C9497668EE693ACAD79A65"
+				"size" "466C98231AC303987A687D0F4BB53564"
+				"download" "60DC6A4771450311132CA73C8B6A54B9"
 			}
 			"private_beta"
 			{
-				"gid" "3709A7C373FACF4AB32279A32E52D6C9"
-				"size" "F7210B70BC03096E84886EA5F258C1AD"
-				"download" "C3E531C04B0879ED619D65F568CE718C"
+				"gid" "28EDA597964447B7CF2F126E49B3BCE2"
+				"size" "9599FF14472359A537BAEB1B0B1BEB7C"
+				"download" "6BD07D3FB984436EF097B8CB0AB07126"
 			}
 		}
 	}
@@ -298,13 +298,13 @@
 		{
 			"public"
 			{
-				"gid" "1634176735013783687"
+				"gid" "7171886372940252810"
 				"size" "55288887"
 				"download" "56045056"
 			}
 			"diagnostic"
 			{
-				"gid" "1634176735013783687"
+				"gid" "7171886372940252810"
 				"size" "55288887"
 				"download" "56045056"
 			}
@@ -319,7 +319,7 @@
 		{
 			"development_beta"
 			{
-				"gid" "0FBE828192BC8D4918550ECCF7A14D8F"
+				"gid" "78109CE0BA027F93BFF7458A2E1C921C"
 				"size" "2F5B493B790BD045917E10F3BC2D0A77"
 				"download" "749FC63DA0EA8BB175F616FBF696CC18"
 			}
@@ -331,18 +331,46 @@
 			}
 		}
 	}
+	"3269090"
+	{
+		"dlcappid" "3269090"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4507372179592572053"
+				"size" "228498460"
+				"download" "231624064"
+			}
+			"diagnostic"
+			{
+				"gid" "4507372179592572053"
+				"size" "228498460"
+				"download" "231624064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development_beta"
+			{
+				"gid" "598C5510F8D1147448A31F924364C4FF"
+				"size" "7E67FA036CFB6BABD8F6F5A89DDA3111"
+				"download" "82357AA951E92BAB4755C258BCA46176"
+			}
+			"private_beta"
+			{
+				"gid" "0D64AC5E2F76A9C25A41B5371C7E6481"
+				"size" "D8ACE6B02337533924BD1AEE2766C4A9"
+				"download" "56DB8C52F238B112579F8B7FA86934E6"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15593279"
-			"timeupdated" "1725471592"
-		}
-		"diagnostic"
-		{
-			"buildid" "12296346"
-			"description" "Only use for diagnosing problems"
-			"timeupdated" "1695818940"
+			"buildid" "16169842"
+			"timeupdated" "1729795974"
 		}
 		"lbe_beta"
 		{
@@ -358,15 +386,21 @@
 		}
 		"development_beta"
 		{
-			"buildid" "14680306"
+			"buildid" "16167037"
 			"pwdrequired" "1"
-			"timeupdated" "1718122454"
+			"timeupdated" "1729781160"
+		}
+		"diagnostic"
+		{
+			"buildid" "16179061"
+			"description" "Only use for diagnosing problems"
+			"timeupdated" "1729852578"
 		}
 		"private_beta"
 		{
-			"buildid" "15556945"
+			"buildid" "16057315"
 			"pwdrequired" "1"
-			"timeupdated" "1725146778"
+			"timeupdated" "1729265934"
 		}
 		"public_beta"
 		{
@@ -375,3 +409,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25894365"
+"_sha" "9b92f930de39a192a521db69eced6d39319ef66f"
+"_size" "7900"
