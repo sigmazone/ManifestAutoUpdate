@@ -125,7 +125,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1717206811"
+	"store_asset_mtime" "1729356806"
 	"associations"
 	{
 		"0"
@@ -154,6 +154,8 @@
 		"category_38" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -314,8 +316,8 @@
 		"10" "3959"
 		"11" "19"
 		"12" "597"
-		"13" "4166"
-		"14" "1685"
+		"13" "1685"
+		"14" "4166"
 		"15" "5186"
 		"16" "4342"
 		"17" "1662"
@@ -367,6 +369,22 @@
 			}
 			"description" "with DirectX 11"
 		}
+		"2"
+		{
+			"executable" "Panicore.exe"
+			"arguments" "-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with Vulkan"
+			}
+			"description" "with Vulkan"
+		}
 	}
 }
 "depots"
@@ -400,24 +418,24 @@
 		{
 			"public"
 			{
-				"gid" "9014085531065072400"
-				"size" "11313677166"
-				"download" "11015385376"
+				"gid" "8819048768253572999"
+				"size" "12222793743"
+				"download" "11895780448"
 			}
 			"beta"
 			{
-				"gid" "6227753024755275599"
-				"size" "12251749079"
-				"download" "11941509744"
+				"gid" "8819048768253572999"
+				"size" "12222793743"
+				"download" "11895780448"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "BE98FBD219EDEBCBCDE4BA4EEAB8C249"
-				"size" "712C23BA677D004C3E1DEA08C9E89672"
-				"download" "6C74DBCCE743289F29EEDE98B9EC2BE3"
+				"gid" "7B1CC455D328E1C28781D2281DF5CFD0"
+				"size" "4411C819FA70A5AC14F8640C7ADA2324"
+				"download" "CB72174BB555B3FC34C80A06918661D7"
 			}
 		}
 	}
@@ -425,20 +443,20 @@
 	{
 		"public"
 		{
-			"buildid" "14679191"
-			"timeupdated" "1718124655"
+			"buildid" "16181904"
+			"timeupdated" "1729868184"
 		}
 		"beta"
 		{
-			"buildid" "15691863"
+			"buildid" "16181904"
 			"description" "Testing new stuff"
-			"timeupdated" "1726236588"
+			"timeupdated" "1729867054"
 		}
 		"development"
 		{
-			"buildid" "15703216"
+			"buildid" "16165746"
 			"pwdrequired" "1"
-			"timeupdated" "1726341633"
+			"timeupdated" "1729774955"
 		}
 	}
 }
@@ -461,3 +479,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25898377"
+"_sha" "07b44c67f32fcae297d20b9665be81e1ee6b6e4c"
+"_size" "7876"
