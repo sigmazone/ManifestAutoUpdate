@@ -115,7 +115,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725529759"
+	"store_asset_mtime" "1729562396"
 	"associations"
 	{
 		"0"
@@ -221,13 +221,13 @@
 		"3" "4085"
 		"4" "1743"
 		"5" "4182"
-		"6" "4231"
-		"7" "5055"
+		"6" "5055"
+		"7" "4231"
 		"8" "1684"
 		"9" "3878"
 		"10" "1756"
-		"11" "7368"
-		"12" "113"
+		"11" "113"
+		"12" "7368"
 		"13" "7208"
 	}
 	"review_score" "8"
@@ -238,7 +238,7 @@
 	"developer" "Cygames, Inc."
 	"publisher" "Cygames, Inc."
 	"homepage" "https://rising.granbluefantasy.jp/"
-	"listofdlc" "2696210,2696220,2696230,2696240,2696250,2696260,2697820,2698170,2718980,2718990,2720380,2720390,2720400,2748910,2748920,2806810,2844760,2865510,2926770,2926790"
+	"listofdlc" "2696210,2696220,2696230,2696240,2696250,2696260,2697820,2698170,2718980,2718990,2720380,2720390,2720400,2720410,2748910,2748920,2806810,2844760,2865510,2926770,2926790"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -294,19 +294,13 @@
 		{
 			"public"
 			{
-				"gid" "2658428642201930989"
-				"size" "20170370249"
-				"download" "18965457344"
+				"gid" "505881133242315775"
+				"size" "20622710359"
+				"download" "19323330928"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"a_test2"
-			{
-				"gid" "F00874DBB537A2E21FFC609908C672C1"
-				"size" "B66FA7988608065DFE205EC79170A4B4"
-				"download" "14508BDFE79A7BDB5A8E7E0D30DD6A91"
-			}
 			"beta2debug"
 			{
 				"gid" "BA4F8545B498E1FBED81AE8FF856E1F6"
@@ -325,35 +319,41 @@
 				"size" "5A5E9EDAFB2CB7F35BCA57B81CDC0B31"
 				"download" "38B350175B1CA2D3EC0CC4880EA20907"
 			}
+			"a_test2"
+			{
+				"gid" "51D146FD99B2F601025BF880FAD3FDF5"
+				"size" "9045D528C81ABAAB6A178F213D71C5D3"
+				"download" "604F690C1EE93ADF0DC29437F3BAB58A"
+			}
 			"c_test"
 			{
-				"gid" "347AF8ABD268D4496DEF531DB9CA3FA1"
-				"size" "D627BEED2E7D2ABBE660E031AFA41189"
-				"download" "B8F507DA48163A1264CA27699B3F4FFC"
+				"gid" "14FE4CC2E0EA7923062EBB80BBF550DA"
+				"size" "4CD977BB12B5AA8C361D082778346FF4"
+				"download" "DCBB99B6279E3ACAE4AB3C1DB6F7F0AF"
 			}
 			"c_test2"
 			{
-				"gid" "1588D5860F16F6A2D68FD7FEA97147DD"
-				"size" "D6C6A92B059F8D3DAE905259E71D1140"
-				"download" "32DB8E4E1722CE69D2B635632FE12CA9"
+				"gid" "F325C37A436399ADE94B78388724205D"
+				"size" "E94AA16776C32BC806C821D59D50EEE6"
+				"download" "309575A834EE0F7EE814F639DC948704"
 			}
 			"cygamesdebug"
 			{
-				"gid" "12A1AAD7C6BA4BB1F106A714869F1E41"
-				"size" "7871E834F03CDFF09761101528B632D8"
-				"download" "508F91898C6F9B577024AB8BF020BCE2"
+				"gid" "5C7BD5B603F907AEAD394BC5E8A76E8E"
+				"size" "31FC7F8141544C6C3E42D8707376C6DA"
+				"download" "8A7FE9BA4F529044E3EFDFAE6F4491D8"
 			}
 			"debug"
 			{
-				"gid" "50F73E21042676DBD2E886240D2CC562"
-				"size" "44AA9236E813E4A4A02DFD591043702D"
-				"download" "6C754493A6B7297313018322238A4AEA"
+				"gid" "855EC4EA3C70851E351797AF139BEFCA"
+				"size" "F84ECD3055E8B75C4F9382922699A5E1"
+				"download" "2A140FA0DF5166C21F2AB66948140CB5"
 			}
 			"release"
 			{
-				"gid" "969A8E877AB60BAD2C84BA7A871719C7"
-				"size" "B04D8C9F42E450B12E9250F24EB3DD36"
-				"download" "36073E5CE1A64B52A0A448991C796811"
+				"gid" "B5AE2E53BC9962165BD042029F4DABB0"
+				"size" "6CF1E26EFCCFC177D837EB7480C472CB"
+				"download" "266BFCE8D171675440581388F207FAE4"
 			}
 			"staging_debug"
 			{
@@ -374,14 +374,8 @@
 	{
 		"public"
 		{
-			"buildid" "15563392"
-			"timeupdated" "1726535106"
-		}
-		"a_test2"
-		{
-			"buildid" "14070326"
-			"pwdrequired" "1"
-			"timeupdated" "1713293879"
+			"buildid" "16068810"
+			"timeupdated" "1729818460"
 		}
 		"beta2debug"
 		{
@@ -401,35 +395,41 @@
 			"pwdrequired" "1"
 			"timeupdated" "1722853585"
 		}
+		"a_test2"
+		{
+			"buildid" "15841549"
+			"pwdrequired" "1"
+			"timeupdated" "1728265347"
+		}
 		"c_test"
 		{
-			"buildid" "15651404"
+			"buildid" "16069526"
 			"pwdrequired" "1"
-			"timeupdated" "1726557722"
+			"timeupdated" "1729129948"
 		}
 		"c_test2"
 		{
-			"buildid" "15650633"
+			"buildid" "16068810"
 			"pwdrequired" "1"
-			"timeupdated" "1726557143"
+			"timeupdated" "1729129940"
 		}
 		"cygamesdebug"
 		{
-			"buildid" "15725315"
+			"buildid" "16056790"
 			"pwdrequired" "1"
-			"timeupdated" "1726557670"
+			"timeupdated" "1729047341"
 		}
 		"debug"
 		{
-			"buildid" "15651404"
+			"buildid" "16069526"
 			"pwdrequired" "1"
-			"timeupdated" "1726021187"
+			"timeupdated" "1729132635"
 		}
 		"release"
 		{
-			"buildid" "15650633"
+			"buildid" "16068810"
 			"pwdrequired" "1"
-			"timeupdated" "1726020704"
+			"timeupdated" "1729132624"
 		}
 		"staging_debug"
 		{
@@ -459,3 +459,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25887554"
+"_sha" "52abfbfa32a696e455ff2edd5dafc75ccf117856"
+"_size" "8905"
