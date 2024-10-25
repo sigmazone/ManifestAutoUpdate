@@ -105,7 +105,54 @@
 			"height_pct" "64.2840180479696"
 		}
 	}
-	"store_asset_mtime" "1719490708"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.539099855693507"
+				"height_pct" "64.2840180479696"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1723191092"
 	"associations"
 	{
 		"0"
@@ -194,12 +241,12 @@
 		"2" "42804"
 		"3" "3843"
 		"4" "4637"
-		"5" "4255"
-		"6" "3959"
+		"5" "3959"
+		"6" "4255"
 		"7" "4885"
 		"8" "1716"
-		"9" "4195"
-		"10" "4791"
+		"9" "4791"
+		"10" "4195"
 		"11" "1659"
 		"12" "4191"
 		"13" "9"
@@ -210,8 +257,8 @@
 		"18" "5923"
 		"19" "19"
 	}
-	"review_score" "5"
-	"review_percentage" "68"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -241,6 +288,7 @@
 }
 "depots"
 {
+	"workshopdepot" "2351560"
 	"228989"
 	{
 		"config"
@@ -274,24 +322,24 @@
 		{
 			"public"
 			{
-				"gid" "4758569481897725309"
-				"size" "5561963999"
-				"download" "5370277152"
+				"gid" "7927244527604067425"
+				"size" "5567379716"
+				"download" "5375252208"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"happychinesenewyear2024"
 			{
-				"gid" "F9CEC6C4B887FBCB228B9BBE66D24127"
-				"size" "6477DCF0FB5B6C7C4128DE6686AA290A"
-				"download" "50018CF19B48B39A9CFBE12C7A0EC35F"
+				"gid" "FFEF20B0FFBF2F2368EF90794F7D379C"
+				"size" "A945595D556D0D3867882CC0AD456262"
+				"download" "19FEFC74DDBF27F91D364C29DA5F66BB"
 			}
 			"dev4qa"
 			{
-				"gid" "560A79DCF530675DA42961778BB6F25B"
-				"size" "BE4C15EAAF710423438C095E692E1527"
-				"download" "CE36D93882694B1C811C9B1B498A9948"
+				"gid" "1AA6B1C1DB28B694993EF73CBB932443"
+				"size" "0BB6DD7E6D61209AC5973D5B8D8DD925"
+				"download" "36B6856E561F7220FDECEACABE0FE8D5"
 			}
 			"forkol"
 			{
@@ -320,7 +368,7 @@
 		{
 			"public"
 			{
-				"gid" "531444472774309772"
+				"gid" "8926601487917109841"
 				"size" "1139648"
 				"download" "1151984"
 			}
@@ -329,13 +377,13 @@
 		{
 			"happychinesenewyear2024"
 			{
-				"gid" "A45776256FCA7397DB11214CD86178E1"
+				"gid" "2A0A91FBC3DACE2F76AFA516CAE539EB"
 				"size" "2EE3DAC526DDE5479791893C893113F8"
 				"download" "4040A32E25C473372F90E1CAB66ED2A7"
 			}
 			"dev4qa"
 			{
-				"gid" "0D6678C15A8F017AE782451AA180C804"
+				"gid" "D9BC7FA1C3BA22BD4F5B001FD12736D7"
 				"size" "D800D61630E73CCD995D4A04E31D96E2"
 				"download" "DA9A97C254A281B4566481E243F99B6B"
 			}
@@ -363,20 +411,20 @@
 	{
 		"public"
 		{
-			"buildid" "14943829"
-			"timeupdated" "1720188848"
+			"buildid" "16145511"
+			"timeupdated" "1729831078"
 		}
 		"happychinesenewyear2024"
 		{
-			"buildid" "14943829"
+			"buildid" "16145511"
 			"pwdrequired" "1"
-			"timeupdated" "1720188116"
+			"timeupdated" "1729655252"
 		}
 		"dev4qa"
 		{
-			"buildid" "14826029"
+			"buildid" "16120854"
 			"pwdrequired" "1"
-			"timeupdated" "1719282996"
+			"timeupdated" "1729565624"
 		}
 		"forkol"
 		{
@@ -432,6 +480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24251793"
-"_sha" "8d3d9c55c8d4cc0dcb9c8301c6a3f619a7c6ceff"
-"_size" "8266"
+"_change_number" "25889597"
+"_sha" "3a1303aacd20dbab17a3e617c8d8f9c965562046"
+"_size" "9152"
