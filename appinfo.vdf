@@ -271,7 +271,7 @@
 		"5" "150626"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -302,6 +302,8 @@
 }
 "depots"
 {
+	"baselanguages" "english"
+	"workshopdepot" "1812620"
 	"229006"
 	{
 		"config"
@@ -311,8 +313,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"baselanguages" "english"
-	"workshopdepot" "1812620"
 	"1812621"
 	{
 		"config"
@@ -325,30 +325,30 @@
 		{
 			"public"
 			{
-				"gid" "260683336574960476"
-				"size" "387527039"
-				"download" "135836464"
+				"gid" "1985281692971626389"
+				"size" "387314101"
+				"download" "135723168"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dsx_v3.1_beta"
 			{
-				"gid" "F22A28220B2B2A5C12B76B8C3E786097"
-				"size" "67C426C9418FC52FF8FB9EAA699727F3"
-				"download" "D296FCF56D605A40B7DD117DA300311C"
+				"gid" "9346EBBE77CE1BFA58ADC9E64210D82C"
+				"size" "434F69393A0D83C99B6D3E38219ED94D"
+				"download" "99631A0B5BEC3453121F2952E0E375EE"
 			}
 			"dsx_v3.1_beta_mod_system_cactus"
 			{
-				"gid" "0981DBBF189F3E6661630D2F2C9FD6CD"
-				"size" "879E5C805BF1D0E2AF8235910F11E8BD"
-				"download" "FDDAFC21ECD98B59DC1001E89A26952D"
+				"gid" "FB33E8F64AAA486C41B50A719B8EF86D"
+				"size" "0543B078EA3D17BF627509086ED10940"
+				"download" "9ABA75CFE272E3AE32AE383F3B397110"
 			}
 			"dsx_v3_beta_devteam"
 			{
-				"gid" "C3F326ED856AAEFE33FBA69711063B16"
-				"size" "C19F8BCD7EC4787FD81020EE7CED0D90"
-				"download" "1D5C456D4865394D6280FAE1B72A84F7"
+				"gid" "58D6A09ECA5EEBA8200DB6A961311051"
+				"size" "FB193CBE685C0E2EED5B381EDFF6D588"
+				"download" "94E21A5F8835A2D0C32A76D4685B8589"
 			}
 		}
 	}
@@ -356,26 +356,26 @@
 	{
 		"public"
 		{
-			"buildid" "14815202"
-			"timeupdated" "1719217802"
+			"buildid" "16175559"
+			"timeupdated" "1729832684"
 		}
 		"dsx_v3.1_beta"
 		{
-			"buildid" "15713796"
+			"buildid" "15886295"
 			"pwdrequired" "1"
-			"timeupdated" "1726483115"
+			"timeupdated" "1727772712"
 		}
 		"dsx_v3.1_beta_mod_system_cactus"
 		{
-			"buildid" "15713796"
+			"buildid" "15886295"
 			"pwdrequired" "1"
-			"timeupdated" "1726483200"
+			"timeupdated" "1727772719"
 		}
 		"dsx_v3_beta_devteam"
 		{
-			"buildid" "15713796"
+			"buildid" "15886295"
 			"pwdrequired" "1"
-			"timeupdated" "1726483216"
+			"timeupdated" "1727772725"
 		}
 	}
 }
@@ -398,16 +398,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_homepage" "Home Page"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "25892894"
+"_sha" "c990e862cccb3e71015040af2474c945b39c9862"
+"_size" "6573"
