@@ -240,8 +240,8 @@
 		"1" "12286"
 		"2" "1670"
 		"3" "1741"
-		"4" "1717"
-		"5" "1677"
+		"4" "1677"
+		"5" "1717"
 		"6" "3859"
 		"7" "3942"
 		"8" "14139"
@@ -354,9 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "4897514288961656367"
-				"size" "3502131109"
-				"download" "2130271872"
+				"gid" "8813282651755372184"
+				"size" "3502131101"
+				"download" "2130272336"
 			}
 			"lancherfix"
 			{
@@ -387,9 +387,9 @@
 			}
 			"devtest"
 			{
-				"gid" "90116AA4BC2851DD59F924E0E2E23DE6"
-				"size" "08505C63653874CA328E4BCCF5EE309E"
-				"download" "9620C7D0C7CE230B1855EAF681FDC080"
+				"gid" "B59ACF058BAABCD31A96BC4694A7AE6C"
+				"size" "53B89B6236B0E8F2FAC129709B5A1945"
+				"download" "5011BBBB22F3292C2F90E5E36834B8BA"
 			}
 			"gwbranch"
 			{
@@ -409,9 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "1593732952189191599"
-				"size" "155524636"
-				"download" "40180576"
+				"gid" "3688369292920369811"
+				"size" "155746612"
+				"download" "40390880"
 			}
 			"lancherfix"
 			{
@@ -442,9 +442,9 @@
 			}
 			"devtest"
 			{
-				"gid" "F2D6D8E141BD437C9A49AB9A9FED46F6"
-				"size" "9DE03FAA98FF0FE9F061488B6208AC52"
-				"download" "D9B45905F32DC79616BE858F14D3905B"
+				"gid" "D554CC35ACB6A430E80A7B007543892A"
+				"size" "31303070857F6550F08C2F97865F23A0"
+				"download" "7B2D6B37A238EBFDD860B438FEC25D4C"
 			}
 			"gwbranch"
 			{
@@ -464,9 +464,9 @@
 		{
 			"public"
 			{
-				"gid" "6428193142922629587"
+				"gid" "1506230189802774022"
 				"size" "139674554"
-				"download" "35892000"
+				"download" "35884752"
 			}
 			"lancherfix"
 			{
@@ -497,9 +497,9 @@
 			}
 			"devtest"
 			{
-				"gid" "A2A26D14706A6B38CB606B15485B1E70"
+				"gid" "3CB7B4279CE31958DD02AD5CB8C11F61"
 				"size" "91F659EE48CAF95704734EDAC4003F02"
-				"download" "C054E3F6BA832ED972B64CEF0BC242C3"
+				"download" "F6E408DF6080330611281CB172C7DEDD"
 			}
 			"gwbranch"
 			{
@@ -1258,8 +1258,8 @@
 	{
 		"public"
 		{
-			"buildid" "15050874"
-			"timeupdated" "1722864062"
+			"buildid" "15875740"
+			"timeupdated" "1729864721"
 		}
 		"lancherfix"
 		{
@@ -1281,9 +1281,9 @@
 		}
 		"devtest"
 		{
-			"buildid" "15050874"
+			"buildid" "15875740"
 			"pwdrequired" "1"
-			"timeupdated" "1721141548"
+			"timeupdated" "1727702327"
 		}
 		"gwbranch"
 		{
@@ -1339,123 +1339,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#faction:adeptusmechanicus" "Adeptus Mechanicus"
-				"#faction:astramilitarum" "Astra Militarum"
-				"#faction:chaosspacemarines" "Chaos Space Marines"
-				"#faction:eldar" "Craftworld Aeldari"
-				"#faction:necrons" "Necrons"
-				"#faction:orks" "Orks"
-				"#faction:sistersofbattle" "Adepta Sororitas"
-				"#faction:spacemarines" "Space Marines"
-				"#faction:tau" "T\'au"
-				"#faction:tyranids" "Tyranids"
-				"#ingame" "{#Faction:%factionName%} · %playerName% · Turn %turn%"
-				"#ingamelobby" "In game lobby"
-				"#inmenus" "In menus"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#faction:adeptusmechanicus" "Adeptus Mechanicus"
-				"#faction:astramilitarum" "Astra Militarum"
-				"#faction:chaosspacemarines" "Marines Espaciales del Caos"
-				"#faction:eldar" "Eldar"
-				"#faction:necrons" "Necrones"
-				"#faction:orks" "Orkos"
-				"#faction:sistersofbattle" "Adepta Sororitas"
-				"#faction:spacemarines" "Marines Espaciales"
-				"#faction:tau" "T\'au"
-				"#faction:tyranids" "Tiránidos"
-				"#ingame" "{#Faction:%factionName%} · %playerName% · Turno %turn%"
-				"#ingamelobby" "Lobby"
-				"#inmenus" "Menús"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#faction:adeptusmechanicus" "Адептус Механикус"
-				"#faction:astramilitarum" "Астра Милитарум"
-				"#faction:chaosspacemarines" "Космический десант Хаоса"
-				"#faction:eldar" "Эльдар миров-кораблей"
-				"#faction:necrons" "Некроны"
-				"#faction:orks" "Орки"
-				"#faction:sistersofbattle" "Адепта Сороритас"
-				"#faction:spacemarines" "Космический десант"
-				"#faction:tau" "Т\'ау"
-				"#faction:tyranids" "Тираниды"
-				"#ingame" "{#Faction:%factionName%} · %playerName% · Ход %turn%"
-				"#ingamelobby" "В лобби игры"
-				"#inmenus" "В меню"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#faction:adeptusmechanicus" "Adeptus Mechanicus"
-				"#faction:astramilitarum" "Astra Militarum"
-				"#faction:chaosspacemarines" "Chaos Space Marines"
-				"#faction:eldar" "Weltenschiff-Aeldari"
-				"#faction:necrons" "Necrons"
-				"#faction:orks" "Orks"
-				"#faction:sistersofbattle" "Adepta Sororitas"
-				"#faction:spacemarines" "Space Marines"
-				"#faction:tau" "T\'au"
-				"#faction:tyranids" "Tyraniden"
-				"#ingame" "{#Faction:%factionName%} · %playerName% · Runde %turn%"
-				"#ingamelobby" "In Spiel-Lobby"
-				"#inmenus" "Im Menü"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#faction:adeptusmechanicus" "Adeptus Mechanicus"
-				"#faction:astramilitarum" "Astra Militarum"
-				"#faction:necrons" "Nécrons"
-				"#faction:orks" "Orcs"
-				"#faction:spacemarines" "Space Marines"
-				"#faction:tyranids" "Tyranides"
-				"#faction:chaosspacemarines" "Space Marines du Chaos"
-				"#faction:eldar" "Aeldaris des Vaisseaux-Mondes"
-				"#faction:tau" "T\'au"
-				"#faction:sistersofbattle" "Adepta Sororitas"
-				"#ingame" "{#Faction:%factionName%} · %playerName% · Tour %turn%"
-				"#ingamelobby" "Dans un salon"
-				"#inmenus" "Dans les menus"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#faction:adeptusmechanicus" "机械神教"
-				"#faction:astramilitarum" "帝国卫队"
-				"#faction:chaosspacemarines" "混沌太空陆战队"
-				"#faction:eldar" "方舟世界艾达灵族"
-				"#faction:necrons" "太空死灵"
-				"#faction:orks" "欧克兽人"
-				"#faction:sistersofbattle" "战斗修女"
-				"#faction:spacemarines" "星际战士"
-				"#faction:tau" "钛星人"
-				"#faction:tyranids" "泰伦虫族"
-				"#ingame" "{#Faction:%factionName%} · %playerName% · 回合 %turn%"
-				"#ingamelobby" "位于游戏大厅"
-				"#inmenus" "位于菜单页面"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "25897540"
+"_sha" "a7eb3115e781140ecafc7b0f813bd4db9c25ff97"
+"_size" "26718"
