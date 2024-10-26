@@ -1,0 +1,418 @@
+"appid" "209340"
+"common"
+{
+	"name" "Ride to Hell: Retribution"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"oslist" "windows"
+	"clienttga" "262c4a9d57cb3a2e88f6c72f7e3471317e3046df"
+	"icon" "7d5c5599a9e1ea25b01637bd1260a261ea7dd3e1"
+	"logo" "2b557d68c662f3fb7d1ab781c19b33552c59b169"
+	"logo_small" "2b557d68c662f3fb7d1ab781c19b33552c59b169_thumb"
+	"clienticon" "5e607b055be489bfed47b9336d4bf26a5c557105"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "209340_eula_0"
+			"name" "Ride to Hell: Retribution EULA"
+			"url" "http://store.steampowered.com/eula/209340_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"metacritic_name" "Ride to Hell: Retribution"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1400599409"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eutechnyx"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deep Silver"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+		"german"
+		{
+			"supported" "1"
+		}
+		"french"
+		{
+			"supported" "1"
+		}
+		"italian"
+		{
+			"supported" "1"
+		}
+		"spanish"
+		{
+			"supported" "1"
+		}
+	}
+	"metacritic_score" "16"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ride-to-hell-retribution\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "209340"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "1667"
+		"2" "19"
+		"3" "4136"
+		"4" "3835"
+		"5" "3964"
+		"6" "6650"
+		"7" "3934"
+		"8" "1693"
+		"9" "1719"
+		"10" "699"
+	}
+	"review_score" "5"
+	"review_percentage" "46"
+}
+"extended"
+{
+	"developer" "Eutechnyx"
+	"gamedir" "ValveTestApp209340"
+	"homepage" "http://www.ridetohell.com/"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Deep Silver"
+	"listofdlc" "209343"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ride_to_hell_retribution"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries/Ride_To_Hell_Retribution.exe"
+			"description" "Play Ride to Hell"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"209341"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8697396990275898407"
+				"size" "11090928607"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_mc"
+			{
+				"gid" "102ECE6D378C97CC2749351FF1C13A7D"
+				"size" "285F0395DA3BED1FB98BCAA8CE475F7E"
+				"download" "19BCEF10B0683FB75C870505626A4B15"
+			}
+			"beta_mc_patch"
+			{
+				"gid" "73E5A8F6055F704B27DE4DF9C09BD7A5"
+				"size" "9B8276E45904D75886B9324CAA28A9DE"
+				"download" "D68875A7C8851BEB69DD56EDD8E1DC9D"
+			}
+			"beta_mc_patch_small"
+			{
+				"gid" "8EF0B022CCB6BBB8488FC663232B14A2"
+				"size" "34579AC2454731E569BBB58B0882CA08"
+				"download" "FDB07036694063A1C14A9C09487EACF0"
+			}
+			"beta_silverlink"
+			{
+				"gid" "7B3D53C8EFF1A22BA45C3D6136446082"
+				"size" "5770E28DE9DDE961EFA1D8E4C57CF024"
+				"download" "7DACD4468C2492200F74FA8727DAF3CD"
+			}
+			"beta_silverlink_debug"
+			{
+				"gid" "247966AAC89BE924F93439435C5FE78E"
+				"size" "867E4C8877006648CDEE98A295CE4B40"
+				"download" "FD313684C335082BDC0EA0161201C82B"
+			}
+			"betanodebug"
+			{
+				"gid" "44C505113445B69473B5BE828F51F292"
+				"size" "02B401D5A866B08EDB1721FB402F08F1"
+				"download" "55AEFE6BB60B5D408EA7DF52CCEE3C54"
+			}
+			"patchtest"
+			{
+				"gid" "C8A0089B98AEB86538C54B65E52B9C45"
+				"size" "7E7E2FEB212C6161949B743265EECADE"
+				"download" "AA0067E3A971CE5F94655EF62F573ED5"
+			}
+			"rating_usk"
+			{
+				"gid" "BA53BEAF1AD84CAA8F300D74DFA7F7D4"
+				"size" "CC15FEAB09A220D0A760974BBB092C7D"
+				"download" "472A20B8E66ABCE6E1B65C8681619E90"
+			}
+		}
+	}
+	"209342"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3211266503807700698"
+				"size" "307498965"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_mc"
+			{
+				"gid" "57D0CFE43D1B580A4780F02777F0312B"
+				"size" "0389CFBA3E16CAA2763ABD944C56E39C"
+				"download" "19BCEF10B0683FB75C870505626A4B15"
+			}
+			"beta_mc_patch"
+			{
+				"gid" "9D71A22C48FF091B8F8BA79C338C1BB6"
+				"size" "40FD2685ED8D18B779FB4C4F448EDA36"
+				"download" "D68875A7C8851BEB69DD56EDD8E1DC9D"
+			}
+			"beta_mc_patch_small"
+			{
+				"gid" "99FED32FEFDD6BC9AD3CAE79FCC9D6B3"
+				"size" "19521BC56405BDB255980796D5A08466"
+				"download" "FDB07036694063A1C14A9C09487EACF0"
+			}
+			"beta_silverlink"
+			{
+				"gid" "30390B1370B5A5C07551FC2F56FDF36B"
+				"size" "389252DD7D89EB9FB78DC1882FBAC361"
+				"download" "7DACD4468C2492200F74FA8727DAF3CD"
+			}
+			"beta_silverlink_debug"
+			{
+				"gid" "D54692C42BC9456CC3DFA66D8FCA1EC4"
+				"size" "688C67B6861C9A73B863E011DD49F58B"
+				"download" "FD313684C335082BDC0EA0161201C82B"
+			}
+			"betanodebug"
+			{
+				"gid" "89215E96BD4CCCC9073E9540AAA2ACB4"
+				"size" "DC258EE01E6EE31660A99D7E92E74367"
+				"download" "55AEFE6BB60B5D408EA7DF52CCEE3C54"
+			}
+			"patchtest"
+			{
+				"gid" "0532443B6F37E62F4A38C9C4F0B669F7"
+				"size" "D4CCE9FD4916ED1F43D72A64B36D4C61"
+				"download" "AA0067E3A971CE5F94655EF62F573ED5"
+			}
+			"rating_usk"
+			{
+				"gid" "6D10FA4426209219ADB82F57787F9F5C"
+				"size" "59A6EB1B8EDDF8B59FCD2D28FEDECC6F"
+				"download" "472A20B8E66ABCE6E1B65C8681619E90"
+			}
+		}
+	}
+	"209343"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "70685823242471395"
+				"size" "851074169"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_mc"
+			{
+				"gid" "F5EA32A44E2459EF63D1AAC1418810D6"
+				"size" "CC0F5E9F7BF91546573C475207B53EFA"
+				"download" "19BCEF10B0683FB75C870505626A4B15"
+			}
+			"beta_mc_patch"
+			{
+				"gid" "6753BF9C92A53081FA8B3D538B056D7C"
+				"size" "65858F086920826E5AF248C1557D22B5"
+				"download" "D68875A7C8851BEB69DD56EDD8E1DC9D"
+			}
+			"beta_mc_patch_small"
+			{
+				"gid" "5D2B5C0043C7DADDD48FC83E8CE15884"
+				"size" "97DBD400089365C68823E3F123B05B8F"
+				"download" "FDB07036694063A1C14A9C09487EACF0"
+			}
+			"beta_silverlink"
+			{
+				"gid" "ABB825C126E673351B296CBF587D0B5A"
+				"size" "AA60818E8A5758ABA3A9D620EFFBEEC8"
+				"download" "7DACD4468C2492200F74FA8727DAF3CD"
+			}
+			"beta_silverlink_debug"
+			{
+				"gid" "9AF5877248EB8EB8A2DCC0C12AAD06C5"
+				"size" "8F7015455309B367B10F189B57B789D5"
+				"download" "FD313684C335082BDC0EA0161201C82B"
+			}
+			"betanodebug"
+			{
+				"gid" "31FD24D5E35EE706BB9E239464EA899B"
+				"size" "0DB1FBE42F9F471A525925CC5A0CCE1F"
+				"download" "55AEFE6BB60B5D408EA7DF52CCEE3C54"
+			}
+			"patchtest"
+			{
+				"gid" "20DC0E8D6874CD3FD8329BF548E78756"
+				"size" "6774A083FAFE8503E12D399639E53631"
+				"download" "AA0067E3A971CE5F94655EF62F573ED5"
+			}
+			"rating_usk"
+			{
+				"gid" "5D452600296B372B02E1E2D3874231D0"
+				"size" "F757A8DE03AEE4A8199FDA8E95B64523"
+				"download" "472A20B8E66ABCE6E1B65C8681619E90"
+			}
+		}
+		"dlcappid" "209343"
+	}
+	"baselanguages" "english,german,french,italian,spanish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "85173"
+		}
+		"beta_mc"
+		{
+			"buildid" "68714"
+			"pwdrequired" "1"
+		}
+		"beta_mc_patch"
+		{
+			"buildid" "85173"
+			"pwdrequired" "1"
+		}
+		"beta_mc_patch_small"
+		{
+			"buildid" "87702"
+			"pwdrequired" "1"
+		}
+		"beta_silverlink"
+		{
+			"buildid" "87702"
+			"pwdrequired" "1"
+		}
+		"beta_silverlink_debug"
+		{
+			"buildid" "69007"
+			"pwdrequired" "1"
+		}
+		"betanodebug"
+		{
+			"buildid" "61703"
+			"pwdrequired" "1"
+		}
+		"patchtest"
+		{
+			"buildid" "84079"
+			"pwdrequired" "1"
+		}
+		"rating_usk"
+		{
+			"buildid" "68714"
+			"pwdrequired" "1"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "a7f32e22674fba13a723d3858daa364c927b014c"
+"_size" "8568"
