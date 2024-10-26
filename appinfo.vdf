@@ -38,6 +38,51 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1713072793"
 	"associations"
 	{
@@ -134,16 +179,15 @@
 	{
 		"config"
 		{
-			"language" "english"
 			"oslist" "windows"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3293364370116203666"
-				"size" "228764406"
-				"download" "120449936"
+				"gid" "6778087946748202212"
+				"size" "229609106"
+				"download" "121464464"
 			}
 		}
 	}
@@ -154,16 +198,24 @@
 			"oslist" "windows"
 		}
 	}
+	"508733"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14048030"
-			"timeupdated" "1713074928"
+			"buildid" "16184226"
+			"timeupdated" "1729880821"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23195254"
-"_sha" "a789cd078084b8d85ae8768fa10d6d2b05ad7e50"
-"_size" "2684"
+"_change_number" "25901665"
+"_sha" "de20465895ca955dba0e2019d5b37bc00b999c79"
+"_size" "3375"
