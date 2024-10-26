@@ -1,0 +1,444 @@
+"appid" "316830"
+"common"
+{
+	"name" "Sprite Lamp"
+	"type" "Application"
+	"releasestate" "released"
+	"clienticon" "8fa6eb920206603cd56a7f32693ec5ed3a36a3bc"
+	"clienttga" "300ad619c0d358a220aa805bb22d6d564913adb0"
+	"icon" "e32e01914b11227386be6de0b5a9f7c89441bcca"
+	"logo" "75f849066027b7ce9aee432e186bd7411903e59c"
+	"logo_small" "75f849066027b7ce9aee432e186bd7411903e59c_thumb"
+	"oslist" "windows,macos"
+	"metacritic_name" "Sprite Lamp"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1410013913"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Snake Hill Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Snake Hill Games"
+		}
+	}
+	"primary_genre" "53"
+	"genres"
+	{
+		"0" "51"
+		"1" "53"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1411660787"
+	"community_hub_visible" "1"
+	"gameid" "316830"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "84"
+		"1" "872"
+		"2" "8013"
+		"3" "13906"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "Snake Hill Games"
+	"publisher" "Snake Hill Games"
+	"homepage" "http://www.spritelamp.com"
+	"listofdlc" "318830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sprite Lamp"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SpriteLamp.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SpriteLampOSX.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "crossplatformalpha"
+			}
+		}
+		"2"
+		{
+			"executable" "SpriteLampPro"
+			"description" "Sprite Lamp Pro"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "318830"
+			}
+		}
+		"3"
+		{
+			"executable" "SpriteLamp"
+			"description" "Run Hobbyist version"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"4"
+		{
+			"executable" "SpriteLamp.app"
+			"description" "Alternative launch mode"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "beta2"
+			}
+		}
+		"5"
+		{
+			"executable" "SpriteLamp.app"
+			"description" "Alternative launch mode"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "beta3"
+			}
+		}
+		"6"
+		{
+			"executable" "SpriteLamp.app"
+			"description" "Launch OSX"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"316831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "62440784216025483"
+				"size" "145451074"
+				"download" "40479056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "1669D58EE5B6F87D74959ED2601A1360"
+				"size" "774F7F0221059EFB71CBA90AD1EDB70D"
+				"download" "4B6AB5A42F74EDE39304470BA2DF7139"
+			}
+			"beta3"
+			{
+				"gid" "FD33D912BF88B4153AB42AEFE36A2AED"
+				"size" "0EB3E3D0581A9ADD00208BD6444AB91B"
+				"download" "E3641B72BA5066038EEAA23FFEBDD790"
+			}
+			"betatest"
+			{
+				"gid" "ADA8B7F975D53387E2F10F80621C6318"
+				"size" "5A52AB6D8F522B43E26DCFE9B9AE9472"
+				"download" "3AFBE24629BD67AC56E67F3D03D2D34B"
+			}
+			"crossplatformalpha"
+			{
+				"gid" "05572517D69E7535EA2C7CDCAE342EA3"
+				"size" "B2C9DF56FF8E88161A7653E62208814E"
+				"download" "F4EBAC0889170BEC50225B7B92F917C9"
+			}
+			"prelaunchstable"
+			{
+				"gid" "E7CC03FD91BE4ACE82A46E9D2DAB9A20"
+				"size" "94C95655CDD9BA1229132B3E7CE93433"
+				"download" "A7465AFE3B839912633FAB0D14567ADB"
+			}
+			"spineupdatetest"
+			{
+				"gid" "0C994F49098BD8A71F3CFEBA81229A4A"
+				"size" "68EBBA95A5608C5BBAAFBDAE8B021978"
+				"download" "DCACC83BC3041E3677F5C07267C80503"
+			}
+		}
+	}
+	"316832"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "C3B4613ABA6E16BE5081DDD68F4E2F12"
+				"size" "4AB5E51D27AF183AD70ACBCFA515BBDF"
+				"download" "6923269E7A876A2DB3EE5AD307F24A6E"
+			}
+			"crossplatformalpha"
+			{
+				"gid" "CFC497F94A84D980A01D88147E94C18B"
+				"size" "C1C43E5BECC7B8CE33C63EF3B4783ADC"
+				"download" "A4C23E0089AA0C17350B08E0C6497DBB"
+			}
+		}
+	}
+	"316833"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7824731855521865497"
+				"size" "70240238"
+				"download" "20636864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "69D3A541DF594A6B93685318F7DD8854"
+				"size" "4C6BDAAE09ED534BEFD175D3E2E3AEC1"
+				"download" "1981A5D7E2B2B84E20FA1A763B3E020D"
+			}
+			"beta3"
+			{
+				"gid" "84E8AA35ABE6E4CA5D2A0D57DADAB08B"
+				"size" "525CD517D1A828D2390269CDD7180F26"
+				"download" "ECBA621849A633CDDC6FD534D3CD54EE"
+			}
+			"betatest"
+			{
+				"gid" "21746DD4B6CAAE15C65FE84F5AD8AE84"
+				"size" "78AB7BE988BD1BCEE9B96FF7B32EEA4A"
+				"download" "EEE427DD22F1ED2F1E15AB7236EE1E33"
+			}
+			"crossplatformalpha"
+			{
+				"gid" "E992FF619115E156B2102C668BF7525B"
+				"size" "31C3F577E878D857424F881A1FCFC0F7"
+				"download" "B0D501C62ADE5DFECE0301F2ACB8CD32"
+			}
+			"spineupdatetest"
+			{
+				"gid" "57D5391AF0ED4B4A6655C7152528433E"
+				"size" "07206DA73A0294B7EC1453C1C6F44B9C"
+				"download" "4A28C7F1C6983B5A8CDD823AADF80C86"
+			}
+		}
+	}
+	"316834"
+	{
+		"dlcappid" "318830"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "EB78378C5F58AA946B89BDC754661CE9"
+				"size" "CE0CD8A0C4B26841210863D9C6E8AF3D"
+				"download" "304226F7026EB30E268C73831D188E37"
+			}
+			"crossplatformalpha"
+			{
+				"gid" "57805619647B7A49AAF1E06E020AACBB"
+				"size" "FC2D2E8AF5430530DEB5D2580ACF5656"
+				"download" "B82E829AC1C8733F3DE8B030191E479B"
+			}
+		}
+	}
+	"316835"
+	{
+		"dlcappid" "318830"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4034819240605812832"
+				"size" "210432"
+				"download" "76656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "C97EE0CB914765D5A2F02957515ABB2B"
+				"size" "48536D0FC7E9A0C939CB59A7771FF3F5"
+				"download" "2BA032C6411910296BBDEA69E84AE027"
+			}
+			"beta3"
+			{
+				"gid" "F96E689D694A1A224264848BEC667969"
+				"size" "22B1D25EDFBF7FC8FF5FABF2027A0B42"
+				"download" "51A932CD36C74187534DF090C0509F8E"
+			}
+			"betatest"
+			{
+				"gid" "332013B92284745ED55E7EB67E15ABB4"
+				"size" "F10CF66E7C76B74818544096177A2245"
+				"download" "C41D22CE5B1A76CDD2D418A1623D081E"
+			}
+			"spineupdatetest"
+			{
+				"gid" "1C54E450D026FEB924AFE6ACBF0A1F01"
+				"size" "193CD75672DCDE1BD90E0AAFDCCC37CE"
+				"download" "9AFA562CA518787896E35410D82DAEBB"
+			}
+		}
+	}
+	"316836"
+	{
+		"dlcappid" "318830"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3729359134912035764"
+				"size" "725104"
+				"download" "137872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "70875414725EF8588D56AD902FB2E2DB"
+				"size" "8387DB86FF392BBDCE2A885AAF1DAB78"
+				"download" "35758BE4A368480F1DFD949E255AD304"
+			}
+			"beta3"
+			{
+				"gid" "20B8E5E5BA675A13B17FC40FCE36E967"
+				"size" "05F70503C61B6416A684939033052CCE"
+				"download" "71B7FC59E0AC11DD29A356700A413989"
+			}
+			"betatest"
+			{
+				"gid" "4EBA642A927BB42E4557A78DA6F0D1FE"
+				"size" "44579E81B72C97FED4904CE8CBECD2BB"
+				"download" "36EF6A5E76F40DAF48714DF33C601047"
+			}
+			"spineupdatetest"
+			{
+				"gid" "74924A6F8249F6996AE9AD443E927B95"
+				"size" "AE49F4782BED94C5AA8673E70A9E934D"
+				"download" "78A9546C299B70A9E10B7210BC9B5ED6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1165291"
+			"timeupdated" "1466679773"
+		}
+		"beta2"
+		{
+			"buildid" "1165291"
+			"pwdrequired" "1"
+			"timeupdated" "1465646398"
+		}
+		"beta3"
+		{
+			"buildid" "1165291"
+			"pwdrequired" "1"
+			"timeupdated" "1465626151"
+		}
+		"betatest"
+		{
+			"buildid" "1165296"
+			"pwdrequired" "1"
+			"timeupdated" "1465176906"
+		}
+		"crossplatformalpha"
+		{
+			"buildid" "661145"
+			"pwdrequired" "1"
+		}
+		"prelaunchstable"
+		{
+			"buildid" "664879"
+			"pwdrequired" "1"
+		}
+		"spineupdatetest"
+		{
+			"buildid" "2495782"
+			"pwdrequired" "1"
+			"timeupdated" "1517721050"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "55ee5097bd3d5b3e424c2dd26db531f26defcee5"
+"_size" "8598"
