@@ -97,6 +97,47 @@
 			"height_pct" "64.39471552706279"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "79.11256554471123"
+				"height_pct" "64.39471552706279"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1704843614"
 	"associations"
 	{
@@ -265,15 +306,24 @@
 		{
 			"public"
 			{
-				"gid" "2673195038699770914"
-				"size" "424635674"
-				"download" "64789344"
+				"gid" "5065862596194153936"
+				"size" "465890132"
+				"download" "70258880"
 			}
+		}
+		"encryptedmanifests"
+		{
 			"testing"
 			{
-				"gid" "9182590490327790420"
-				"size" "670442496"
-				"download" "61989888"
+				"gid" "A51BBB26EF3029AA5D6280FC5524FB05"
+				"size" "A4F7495D06D59DE80E7AB88F1DFE4D9E"
+				"download" "64FF4E7307F10BF70F9CB4F573D7686F"
+			}
+			"visualtesting"
+			{
+				"gid" "5908DE088869F65C77B57486898F2935"
+				"size" "F10F0A97196A37C9B4C364A4ED5AE596"
+				"download" "C23827AF1DCC7EC544A92AA17B22B0AF"
 			}
 		}
 	}
@@ -287,15 +337,24 @@
 		{
 			"public"
 			{
-				"gid" "3547051318650515090"
-				"size" "424635674"
-				"download" "64762784"
+				"gid" "3846866465320771917"
+				"size" "465890132"
+				"download" "70222800"
 			}
+		}
+		"encryptedmanifests"
+		{
 			"testing"
 			{
-				"gid" "7361340976331614728"
-				"size" "454208226"
-				"download" "68593824"
+				"gid" "3FF3791F1C080D21B7EC1F8B55AF0707"
+				"size" "A2BD8AC1022D84484AA803E3CB81D5CA"
+				"download" "6AF7EAE0173A5413FD67452F5C510E59"
+			}
+			"visualtesting"
+			{
+				"gid" "690CF4F8F23BBADC115202226CFDE2B8"
+				"size" "F10F0A97196A37C9B4C364A4ED5AE596"
+				"download" "AF0D580730B08A5A544FC73CA4F5AE37"
 			}
 		}
 	}
@@ -309,15 +368,68 @@
 		{
 			"public"
 			{
-				"gid" "7333468405489863695"
-				"size" "418295257"
-				"download" "65763504"
+				"gid" "7611293803857467354"
+				"size" "455974670"
+				"download" "70299456"
 			}
+		}
+		"encryptedmanifests"
+		{
 			"testing"
 			{
-				"gid" "1722431029764505360"
-				"size" "763925471"
-				"download" "76355888"
+				"gid" "5C95996F4DB18A6EE14EC0F58110CA40"
+				"size" "7824F3367A1EC23DDA0F69DD2A3EF644"
+				"download" "EB3393D0E09F85CEBD1F64DB41070BAE"
+			}
+			"visualtesting"
+			{
+				"gid" "2256AA8D72C7BEF7B2C9D77585B5D3C8"
+				"size" "B7A549A2FF033183C69E0AD9764E0349"
+				"download" "954FDF47516E824F3C751AD57B048B0B"
+			}
+		}
+	}
+	"1436994"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"visualtesting"
+			{
+				"gid" "AEA8605D67EA61A39D6EF5A2C52EAF5D"
+				"size" "EEF70ED367FB925E84028462FFE2C068"
+				"download" "84B1B9A1A1F8E8478D015F5D790E621B"
+			}
+		}
+	}
+	"1436995"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8184199577398263575"
+				"size" "455974670"
+				"download" "70245024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "4EED142512F02161B2F3020E4BADAD63"
+				"size" "D2E1AB4415C7388AD77DBC8E1FF0E646"
+				"download" "C22D0518FB077A59D2D2D1C7CD6F25F2"
 			}
 		}
 	}
@@ -325,18 +437,24 @@
 	{
 		"public"
 		{
-			"buildid" "14872220"
-			"timeupdated" "1719579678"
+			"buildid" "16188793"
+			"timeupdated" "1729915258"
 		}
 		"testing"
 		{
-			"buildid" "14835362"
-			"description" "Testing Branch"
-			"timeupdated" "1719340918"
+			"buildid" "16188779"
+			"pwdrequired" "1"
+			"timeupdated" "1729915014"
+		}
+		"visualtesting"
+		{
+			"buildid" "16084204"
+			"pwdrequired" "1"
+			"timeupdated" "1729183129"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24163019"
-"_sha" "b11137eb08738a6e0a80a60c63079541ff839521"
-"_size" "5690"
+"_change_number" "25907118"
+"_sha" "9c8c4940cbf4d86e546be2db8b1a2c0a1f0287f4"
+"_size" "7914"
