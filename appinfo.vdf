@@ -263,11 +263,11 @@
 		"3" "4166"
 		"4" "5379"
 		"5" "5608"
-		"6" "5900"
-		"7" "3871"
+		"6" "3871"
+		"7" "5900"
 		"8" "4305"
-		"9" "5537"
-		"10" "492"
+		"9" "492"
+		"10" "5537"
 		"11" "7208"
 		"12" "30358"
 		"13" "1654"
@@ -276,8 +276,8 @@
 		"16" "5411"
 		"17" "1756"
 	}
-	"review_score" "9"
-	"review_percentage" "95"
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -325,18 +325,18 @@
 		{
 			"public"
 			{
-				"gid" "3172686059497785406"
-				"size" "17462173045"
-				"download" "6611422384"
+				"gid" "4741532775887324739"
+				"size" "17462174973"
+				"download" "6611415104"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"final"
 			{
-				"gid" "A664C2208C32F41A6C092B44CBF193F0"
-				"size" "5DFC5A1EE88927E7209EB8A4F17FA7B9"
-				"download" "FDAA524EA02BE680D3267B808B80B7A9"
+				"gid" "17E8414B5FCF7B7E9C986D3EF015BA8F"
+				"size" "71A7E56D79D287448D36362DCEB3E514"
+				"download" "C99677D8ADD14FA8A918FA148A80B917"
 			}
 			"lionbridge_cqa"
 			{
@@ -358,9 +358,9 @@
 			}
 			"test_qa"
 			{
-				"gid" "10C281299BA68201D44EE27B01D97135"
-				"size" "4D6E24670A63A4DC308F2B10E087E9BD"
-				"download" "60947CE0A8FE5657C704C2A4B8D5508F"
+				"gid" "645E7CE6A0940CFE197442A031FBD3E2"
+				"size" "275F33950A2B67161F7C183449457CC0"
+				"download" "C6EC2EB3CA32ABDD120A6F7971577400"
 			}
 			"tribeca_demo"
 			{
@@ -455,6 +455,12 @@
 				"size" "F1A81FAC9C5A285B3A41A09C24B1D84E"
 				"download" "3B9FABEC467215B84A1E3408EDF70150"
 			}
+			"test_qa"
+			{
+				"gid" "848A7C281E1219974D516856C87D6DF5"
+				"size" "3B5985327251C94A47175F3A7DC72615"
+				"download" "AB927464F17ED7CD1FE7DE84E6383239"
+			}
 		}
 	}
 	"3160860"
@@ -469,19 +475,28 @@
 				"download" "159104640"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"test_qa"
+			{
+				"gid" "053A99BF95C3B028A1B927AA251C38CA"
+				"size" "7AD2F58FA129F8A11F8BB310F8643555"
+				"download" "2BB7ADC601AD39E254702DDF25878579"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16138984"
-			"timeupdated" "1729613654"
+			"buildid" "16184605"
+			"timeupdated" "1729881877"
 		}
 		"final"
 		{
-			"buildid" "16136845"
+			"buildid" "16184478"
 			"pwdrequired" "1"
-			"timeupdated" "1729603121"
+			"timeupdated" "1729881230"
 		}
 		"lionbridge_cqa"
 		{
@@ -503,9 +518,9 @@
 		}
 		"test_qa"
 		{
-			"buildid" "15147689"
+			"buildid" "16082801"
 			"pwdrequired" "1"
-			"timeupdated" "1721896195"
+			"timeupdated" "1729852743"
 		}
 		"tribeca_demo"
 		{
@@ -531,6 +546,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25842066"
-"_sha" "69bd2451591d47df769a9e6e92de5f777858ff63"
-"_size" "9817"
+"_change_number" "25901882"
+"_sha" "a7df7249bff81e455eed1bdf46900e8b7868ddb0"
+"_size" "10197"
