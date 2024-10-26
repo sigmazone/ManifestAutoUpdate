@@ -275,7 +275,7 @@
 	"developer" "Question"
 	"publisher" "THQ Nordic"
 	"homepage" "https://southpark.thqnordic.com/"
-	"listofdlc" "2534280,2717700,2777690,2777700,2856250,2856260,2895790,2904870,3000090,3013230,3053410,3126390"
+	"listofdlc" "2534280,2717700,2777690,2777700,2856250,2856260,2895790,2904870,3000090,3013230,3053410,3126390,3126400,3223240"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -330,9 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "3265150610743310578"
-				"size" "28870391531"
-				"download" "27584297200"
+				"gid" "6247759560034211111"
+				"size" "29020023608"
+				"download" "27709690512"
 			}
 		}
 		"encryptedmanifests"
@@ -385,18 +385,6 @@
 				"size" "10302136AADA149881069B6853DEB707"
 				"download" "86F4D38BE9E1FE0D0D30C6AF0E0D964E"
 			}
-			"thqn_focus_test_dev"
-			{
-				"gid" "F91147114187CCDA7380977162202D0D"
-				"size" "492D1A90B9D1F13091CB00797778DE99"
-				"download" "625F3EDC2EB4F07A985C6FF80191F3D8"
-			}
-			"thqn_focus_test_shipping"
-			{
-				"gid" "87DC277B56A1A4F5A1ACBD519C128BF3"
-				"size" "D0827CFC1DDCA1E0953DBE9B92F6C741"
-				"download" "3CCD686483A6BC8517699CD9CFA3764D"
-			}
 			"thqn_last_good_stable_dev"
 			{
 				"gid" "6854CB557D4C8CB42D66C7EFC0843F68"
@@ -429,33 +417,33 @@
 			}
 			"buildtest"
 			{
-				"gid" "01A0EF3D364FECD1762FF7CDCA1EC4C0"
-				"size" "D11E8BB6A585B6D4669369814CB23C47"
-				"download" "2D7C047EF3385BAB0E375363EE60F15A"
+				"gid" "F73ECF2131E135018417BE3F30BF3AD3"
+				"size" "CCA69DC738ADA384FF9A708295B8C3E6"
+				"download" "3A566895BB8974F967FF5380CF0FC5AD"
 			}
 			"dev_branch"
 			{
-				"gid" "1D3F88D70F260086EA469ED5B090B0F5"
-				"size" "5CEA0818051AEAE80DE60E2E8552A07B"
-				"download" "9F48FC4689386991185519E510700E0E"
+				"gid" "CAB667F40150F0DF9E4016E5C258D0E0"
+				"size" "1B86EE136109FE6E36AC32503F980866"
+				"download" "2D5641406E697B51B53C99B226ED8382"
 			}
 			"playtest_spds_with_cheats"
 			{
-				"gid" "243E901518C2B7DB94DB18214D0666BD"
-				"size" "BB83A1F614EABB1BD18AD6918B4469D5"
-				"download" "CDF52FE7A2BD3C742FEC306895B200FD"
+				"gid" "30020D86421F07DC4A777328D0478EFB"
+				"size" "294F9F6E8D4042C007878A952EEE9E55"
+				"download" "D6ADDFD74B493830A1A934649D2B2C27"
 			}
 			"public_branch"
 			{
-				"gid" "863EF05535F4E4E356DE090B0E119573"
-				"size" "C12348BC5EE0B6CCE0826AB900996E90"
-				"download" "E7F1C0674D2719885B82142DF1FF87E3"
+				"gid" "D854614E15BAD30BB374D0A8ED57065D"
+				"size" "366331FE0C798A969C1F912702693494"
+				"download" "18142A0366ABAA04F1AEFEF4879D8750"
 			}
 			"publisher_dev_copy"
 			{
-				"gid" "D09F79621004F9C69F8388C69EA41005"
-				"size" "29B7797E268CD6EA98C22B3B5A55BF2B"
-				"download" "AEF2EA2899642FA5F7B105F150C64531"
+				"gid" "C44C5CEF26374733230185AF4821E043"
+				"size" "E430A20943FAEC2F8735E2268F53E9AD"
+				"download" "5AAB83A59595F44F1C7300A35A10C97B"
 			}
 			"qa_experimental"
 			{
@@ -463,17 +451,29 @@
 				"size" "6CEF7F4BD85195B17C675F220E68C914"
 				"download" "D1C1D14B941F8A6B4E627CF3136A9144"
 			}
+			"thqn_focus_test_dev"
+			{
+				"gid" "55F5B91A18FAF30CA829D67AEF18DC19"
+				"size" "9C10BCA561659097BF9273516C4C6AFD"
+				"download" "2B66E99B70A4A34CE1F9F55C7E73F482"
+			}
+			"thqn_focus_test_shipping"
+			{
+				"gid" "D9EC05AC92C053CC218315921CC6BE12"
+				"size" "762808743EDC5F415B8196C48B211F45"
+				"download" "134435D624C38D6CCF6DBFB2132FD672"
+			}
 			"thqn_qa_dev"
 			{
-				"gid" "1A594BD9122EE5345CF9D482EECA12BF"
-				"size" "46DA2EA2C984DC0BC8936AF2E3911E72"
-				"download" "E4E718D80E76752377E035AA6C8F8E19"
+				"gid" "E539F76B69C7B3A14906FFE94A29FA2B"
+				"size" "91B394515E7B951D125D2C979696091F"
+				"download" "F8EB7D599961704BA330FE788282AC8E"
 			}
 			"thqn_qa_shipping"
 			{
-				"gid" "6434FCD09440E957E6A00686979DA2B1"
-				"size" "4C59736F1A186F7D38FF8FB9E4B77D27"
-				"download" "38310D269BC0FEE4C7901308406675EB"
+				"gid" "D7B8BE97C1351BFC940C4AA5F11FDC75"
+				"size" "3DE2052C730C9045D167F4910D58A631"
+				"download" "C01E8D4A49DA02A21483B9248021C1C2"
 			}
 			"thqn_ux_test_dev"
 			{
@@ -537,18 +537,6 @@
 				"gid" "D39119B1C53E2776FF7942E90320B26E"
 				"size" "A030B71DEDF4E8BBE6D0EF7A2C997E73"
 				"download" "A030B71DEDF4E8BBE6D0EF7A2C997E73"
-			}
-			"thqn_focus_test_dev"
-			{
-				"gid" "0DF0FFD302FBE655D81BDB3404B1A1B0"
-				"size" "A5A7AA5162C98E604814057452329511"
-				"download" "A5A7AA5162C98E604814057452329511"
-			}
-			"thqn_focus_test_shipping"
-			{
-				"gid" "031EBDB03045226DB65E9B6A720E7FA1"
-				"size" "7C23C6A377320084500F52421696573C"
-				"download" "7C23C6A377320084500F52421696573C"
 			}
 			"thqn_last_good_stable_dev"
 			{
@@ -616,6 +604,18 @@
 				"size" "B41C4C979243CB1A5C3487F3FE469892"
 				"download" "B41C4C979243CB1A5C3487F3FE469892"
 			}
+			"thqn_focus_test_dev"
+			{
+				"gid" "0DF0FFD302FBE655D81BDB3404B1A1B0"
+				"size" "A5A7AA5162C98E604814057452329511"
+				"download" "A5A7AA5162C98E604814057452329511"
+			}
+			"thqn_focus_test_shipping"
+			{
+				"gid" "031EBDB03045226DB65E9B6A720E7FA1"
+				"size" "7C23C6A377320084500F52421696573C"
+				"download" "7C23C6A377320084500F52421696573C"
+			}
 			"thqn_qa_dev"
 			{
 				"gid" "24F8F491A467CAB253B6EF38767A8C4B"
@@ -648,9 +648,9 @@
 		{
 			"public"
 			{
-				"gid" "1556915298863543325"
-				"size" "1224944894"
-				"download" "1225846944"
+				"gid" "5654516376665308513"
+				"size" "1327317296"
+				"download" "1328877104"
 			}
 		}
 		"encryptedmanifests"
@@ -735,33 +735,33 @@
 			}
 			"buildtest"
 			{
-				"gid" "9C6805332E47CFDB5DC196C5690B1DA0"
-				"size" "7C96CF473299663848C3E2288C8166CC"
-				"download" "A668687556DC5CA33B82E80FE4B1191A"
+				"gid" "6A2E73D33905E6F38744347D4809C18F"
+				"size" "A1D9E8F4F582610B358D2D79188A3719"
+				"download" "F818F985A1639FF9CBADC291187BB009"
 			}
 			"dev_branch"
 			{
-				"gid" "E3F26B30ED4F070B0358DE7B002C91BB"
-				"size" "27EF2A157E7AA107002E0EE8087690FC"
-				"download" "599BA68160017FB2152491D795303C70"
+				"gid" "4D2E9A03763ADA5A476F67A9AAA1F993"
+				"size" "645B3B12E95B985983C7A3B69D825D9A"
+				"download" "F0F5587644FC707B5F744279636C836B"
 			}
 			"playtest_spds_with_cheats"
 			{
-				"gid" "F3E57485871AF4B5848E1C9C5FA12379"
-				"size" "48D81185C0654946362E1C9A83A0712C"
-				"download" "519294F554E24A92AC59280EE717056A"
+				"gid" "7059A94A8E3A8CC90EF7CC3D55078A65"
+				"size" "48A23A49FED2C41665B0A224E4054FE4"
+				"download" "7EAF674CE4E0617B8E34102DC043F072"
 			}
 			"public_branch"
 			{
-				"gid" "D4F9A2A4CA0771AEADC131DB9E48F8A3"
-				"size" "F328DDACFFD62BFAB5F8C3B9743B58DA"
-				"download" "18A2A6E8338B39713F5742AA1743C147"
+				"gid" "478CB80A2978BE8B76801B4A6E571824"
+				"size" "D7BF84CB59F8BB2E0F3E9111A5968339"
+				"download" "C62AB444B7AFAA20214680D2972C1D46"
 			}
 			"publisher_dev_copy"
 			{
-				"gid" "EAB8E27448251AF2A3F341141D3D3071"
+				"gid" "20528DB61CD033E5E92790F0D98FA49E"
 				"size" "07566441FD54CDBFBBC3C2700973B188"
-				"download" "8377EDA47D9177C54E12BE827A591C41"
+				"download" "96196CF84CB544D12314D05957A9CC90"
 			}
 			"qa_experimental"
 			{
@@ -769,17 +769,29 @@
 				"size" "90F2984F7D6A3895A747EC64635E3F82"
 				"download" "252F38245EACBA9BA1EDA7E8A121C481"
 			}
+			"thqn_focus_test_dev"
+			{
+				"gid" "C4C3EED2C4D46CB204B3CEE7079ADE50"
+				"size" "52496C3EEA4BA240C8AF2035C596A0DF"
+				"download" "6B3E5EDC54A0A15A448C4C6A418279FC"
+			}
+			"thqn_focus_test_shipping"
+			{
+				"gid" "64DF18A36C2E06BBA7930C78D2009C78"
+				"size" "ED6DAF7C6B1D1A3173402BCFC6CAE933"
+				"download" "3ADF0F942375BE2DE89BCB8E75EC8458"
+			}
 			"thqn_qa_dev"
 			{
-				"gid" "D82B682CCD736A593EBF309E2FCD5A5F"
-				"size" "E29EBA6C5FA45646F03834F9ACDDEB39"
-				"download" "D10C5C60BEB59D4D0D8CC35CBE9D4C5A"
+				"gid" "70C5D9B282F45E33DC7289954EB6CAB7"
+				"size" "0CF44F1A98BC8ED11E92B6E561F8492C"
+				"download" "0640E9FC3204E12869A79052D1FA63C7"
 			}
 			"thqn_qa_shipping"
 			{
-				"gid" "2214A091E9A7445C0029EEBC8804F5BD"
-				"size" "36B2C877FF08368ED7372098951C1511"
-				"download" "782F0F3BB1851B9B59FBF73B061FA25B"
+				"gid" "222970607245FDCC12BB8AB94C9A20BE"
+				"size" "AD3F0EF45481CE2B063C1DA20FD5341A"
+				"download" "A8DD70E36D58B0596558ACA8B4F95F16"
 			}
 			"thqn_ux_test_dev"
 			{
@@ -793,8 +805,8 @@
 	{
 		"public"
 		{
-			"buildid" "15458966"
-			"timeupdated" "1724324337"
+			"buildid" "16078128"
+			"timeupdated" "1729684245"
 		}
 		"baseline"
 		{
@@ -844,18 +856,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1711110101"
 		}
-		"thqn_focus_test_dev"
-		{
-			"buildid" "12523522"
-			"pwdrequired" "1"
-			"timeupdated" "1698406086"
-		}
-		"thqn_focus_test_shipping"
-		{
-			"buildid" "12523123"
-			"pwdrequired" "1"
-			"timeupdated" "1698409329"
-		}
 		"thqn_last_good_stable_dev"
 		{
 			"buildid" "13343115"
@@ -888,33 +888,33 @@
 		}
 		"buildtest"
 		{
-			"buildid" "15591086"
+			"buildid" "16066076"
 			"pwdrequired" "1"
-			"timeupdated" "1725457906"
+			"timeupdated" "1729083449"
 		}
 		"dev_branch"
 		{
-			"buildid" "15842855"
+			"buildid" "16171813"
 			"pwdrequired" "1"
-			"timeupdated" "1727387940"
+			"timeupdated" "1729807046"
 		}
 		"playtest_spds_with_cheats"
 		{
-			"buildid" "15820840"
+			"buildid" "16150943"
 			"pwdrequired" "1"
-			"timeupdated" "1727267774"
+			"timeupdated" "1729688909"
 		}
 		"public_branch"
 		{
-			"buildid" "15843006"
+			"buildid" "16172000"
 			"pwdrequired" "1"
-			"timeupdated" "1727388832"
+			"timeupdated" "1729808053"
 		}
 		"publisher_dev_copy"
 		{
-			"buildid" "15820840"
+			"buildid" "15842855"
 			"pwdrequired" "1"
-			"timeupdated" "1727277031"
+			"timeupdated" "1727429955"
 		}
 		"qa_experimental"
 		{
@@ -922,17 +922,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1720172121"
 		}
+		"thqn_focus_test_dev"
+		{
+			"buildid" "16078478"
+			"pwdrequired" "1"
+			"timeupdated" "1729240387"
+		}
+		"thqn_focus_test_shipping"
+		{
+			"buildid" "16078128"
+			"pwdrequired" "1"
+			"timeupdated" "1729240406"
+		}
 		"thqn_qa_dev"
 		{
-			"buildid" "15768033"
+			"buildid" "16078478"
 			"pwdrequired" "1"
-			"timeupdated" "1726821400"
+			"timeupdated" "1729240337"
 		}
 		"thqn_qa_shipping"
 		{
-			"buildid" "15636762"
+			"buildid" "16182535"
 			"pwdrequired" "1"
-			"timeupdated" "1725875214"
+			"timeupdated" "1729870507"
 		}
 		"thqn_ux_test_dev"
 		{
@@ -960,3 +972,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25899001"
+"_sha" "f1c38e3df9716e87600d69b8738be83852c579d4"
+"_size" "22342"
