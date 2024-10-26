@@ -1,0 +1,599 @@
+"appid" "2217000"
+"common"
+{
+	"name" "Rivals of Aether II"
+	"type" "Game"
+	"icon" "6f2b08bb13f094402e7c468bd3844ef070f6a7a3"
+	"clienticon" "fef45f5b3a58b252204f9990a615a6ccbae7bb44"
+	"clienttga" "23637a7767620ab46c02bc55e0f3b16bcf1a429e"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2217000_eula_0"
+			"name" "Rivals 2 EULA"
+			"url" "https://store.steampowered.com//eula/2217000_eula_0"
+			"version" "4"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "4b7b4b4b84d4b9ca7c33cb3ad59fb47d83a10007/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "1073acdf0a2dce2810d326c23c633dc6a795a392/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "1073acdf0a2dce2810d326c23c633dc6a795a392/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "0d737ff58bab65acc61af9ddae29ce8cf9b686f9/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "0d737ff58bab65acc61af9ddae29ce8cf9b686f9/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "e7a3792668d3fb277c410c8a3e5cfebcb9bea290/logo.png"
+			}
+			"image2x"
+			{
+				"english" "e7a3792668d3fb277c410c8a3e5cfebcb9bea290/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3dd57d0760f24ef370ccbe012da441b5b823a668/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3dd57d0760f24ef370ccbe012da441b5b823a668/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729705414"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Aether Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Aether Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "offbrand games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Rivals of Aether"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1729702288"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2217000"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "3859"
+		"2" "492"
+		"3" "4736"
+		"4" "19"
+		"5" "7368"
+		"6" "4840"
+		"7" "1684"
+		"8" "3993"
+		"9" "4975"
+		"10" "1775"
+		"11" "1685"
+		"12" "7481"
+		"13" "5379"
+		"14" "1625"
+		"15" "3878"
+		"16" "1734"
+		"17" "4305"
+		"18" "5310"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Aether Studios"
+	"publisher" "Aether Studios"
+	"homepage" "https://rivals2.com"
+}
+"config"
+{
+	"installdir" "Rivals 2"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rivals2/Binaries/Win64/Rivals2-Win64-Shipping.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2217001"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1579451147411449283"
+				"size" "2248858317"
+				"download" "1952415536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbetatesting"
+			{
+				"gid" "63EB28408DC810FA584E9C3253CD0806"
+				"size" "A03AE5F342E2A66E7BC5C5C8E25ACBF8"
+				"download" "8E7043D56EDD7490522977CA86C3E5C2"
+			}
+			"edgegap"
+			{
+				"gid" "293E04430C7F2661D93C2A326ADA65B5"
+				"size" "BB8E6CF57E829A661761FD52B34AB6F3"
+				"download" "248E68DABA3E136169CF0F827F513549"
+			}
+			"empty"
+			{
+				"gid" "4358826996A224FF7F3E8DA733E9F9FB"
+				"size" "2F32CC6A7BD811C1335987E9B11CFF84"
+				"download" "2F32CC6A7BD811C1335987E9B11CFF84"
+			}
+			"evobuild"
+			{
+				"gid" "1F6390DF92CC11C8A15F051FD2DE8CE1"
+				"size" "DF08469A54537C78A57218FFCAB3F96F"
+				"download" "BA23A96903E710BF411BBE07481DAEF2"
+			}
+			"kellzbranch"
+			{
+				"gid" "0258EFC3584721C945DC58EFCFC55238"
+				"size" "1477C7A7C417C66C3C520D44309EE0AA"
+				"download" "C7FD66CE579A83DF8ED4A1D1519B09E9"
+			}
+			"nightlybuilds"
+			{
+				"gid" "C8B6D189A722F32CADE691CB6C7EBEDC"
+				"size" "9C744C0E594D120E0EE9FFA62E622D3B"
+				"download" "285DBD29A94DDDAEEFCDDC5C53D8B5E1"
+			}
+			"offbrand"
+			{
+				"gid" "10033EF58E86D15B6DA42717B4E5736F"
+				"size" "E057A48E368CA8B9858E84CF924E0BD9"
+				"download" "BEEBECAB9CEF2D05DB74B5FB4A0C8E16"
+			}
+			"publictrailerbranch"
+			{
+				"gid" "E004166F06A24CFC7C454B6D1E2B32D6"
+				"size" "2425B9B48D27A6A87C65971DFAE0F56E"
+				"download" "512C774C53E8AE129991ACF8275272F9"
+			}
+			"release"
+			{
+				"gid" "D00F569897BB0AE95DA2D6C5145EAF0C"
+				"size" "7FC6E87E0EAEB506DC57B715E951CAE7"
+				"download" "3AFB9FBBBB816B37B9A56E1F0025EAA9"
+			}
+			"shippingnightly"
+			{
+				"gid" "595F4ECEB9F0663771AE7595C778A184"
+				"size" "58FB719CF0403C1AF2A427037D8D44FD"
+				"download" "8C04378B14D19EF8E22DF456880C6FDE"
+			}
+			"trailerbranch"
+			{
+				"gid" "26EF35CDDD05788FAF56B78D43D31808"
+				"size" "8AD4872C591F9C1272A054B5DEFF4310"
+				"download" "3A27BE3905EDF2D4CBD7C36451284524"
+			}
+			"futurenightly"
+			{
+				"gid" "1A6439BEF77E411AF67B4B20827851FB"
+				"size" "33F8C77DF05D073A6B1B42F4B5B781D2"
+				"download" "49FDFD11BA69F63B6A242C14082C0DEA"
+			}
+			"beta"
+			{
+				"gid" "5A711A2BC06F82DB919820A220B3ED3D"
+				"size" "BCD1638FB0D4C2EBAC1A593332A160D8"
+				"download" "4845D09D6FCD756D74C8435A021127AB"
+			}
+			"crashtesting"
+			{
+				"gid" "A38F6705F5976E864ACAE16F8AB35CDE"
+				"size" "27F4E29CD0A49F1A94F095445FA2B90B"
+				"download" "261E7BC138B3312E099057AC3C499810"
+			}
+			"creator"
+			{
+				"gid" "65B71070F3B5C0076EEADF275834E8D0"
+				"size" "8AD8176228B3A810D07ACDC4A43A91E9"
+				"download" "02DBE556ACC08AA400B09FF3390135E3"
+			}
+			"event"
+			{
+				"gid" "4E0A746567D0FC8998D62F6494B7D9C4"
+				"size" "2D7FBF8944A817B8E0A10463E9CDA6C9"
+				"download" "557C8B6C0B4BC77F675F1B12FDC12F5B"
+			}
+			"genesisx"
+			{
+				"gid" "9AA87D101870221E5B7184C466123811"
+				"size" "2A394C7A8E52D7590B04FF0D3D79B973"
+				"download" "F667437E56AC2C857B0864DC6770F9A7"
+			}
+			"online"
+			{
+				"gid" "E9C1B21A18306205BFBAD87CF71CBA70"
+				"size" "610C07C85489A057DA1EE8E6491C19B8"
+				"download" "CA3332DC398E412226B11AF1466F2B4C"
+			}
+			"performancetesting"
+			{
+				"gid" "1424393F428835FEEBB76EFF2E773ADC"
+				"size" "DDE869D72CCB33CCCCBA658BDFBDFE9B"
+				"download" "8762462DDF40810DA2323905FF320CEF"
+			}
+			"rctesting"
+			{
+				"gid" "2967EE98C66BD799531860AF8D2BD29A"
+				"size" "7223C5A3EE7B63C2710E346A835D3DC1"
+				"download" "CB60E7639DC369BAE87CEBD64AAB6DC8"
+			}
+			"recording"
+			{
+				"gid" "E18079F8415CAE51107CC46A4B6ECAF6"
+				"size" "907AD96DCC41BDCADA628B646C66FE4B"
+				"download" "EDA54884EDF73A7FE41224C488E8E56D"
+			}
+			"shippingtests"
+			{
+				"gid" "03B8197C8EB6156ACEFB500FD8719DC4"
+				"size" "D75F108CBE1215976163D4365A0EA838"
+				"download" "3B0EDD42C12B821146C9CC02E9170DB7"
+			}
+			"uitesting"
+			{
+				"gid" "120D72CC8BF8237FBBE1AD0941B2E925"
+				"size" "57AE990CD32EA2FEE6D6376BA528E9CF"
+				"download" "B62F189CE5E09B8C4B3A7BBF0BE035FA"
+			}
+			"wiptesting"
+			{
+				"gid" "ADC8F68D28D3D72558376A3890EA21FC"
+				"size" "ED6923A8FDDBE4894CC902EBA5FFB468"
+				"download" "64559AA0B5410A4EEF2596C867DB5839"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16162691"
+			"timeupdated" "1729778171"
+		}
+		"closedbetatesting"
+		{
+			"buildid" "16002725"
+			"pwdrequired" "1"
+			"timeupdated" "1728658134"
+		}
+		"edgegap"
+		{
+			"buildid" "16147356"
+			"pwdrequired" "1"
+			"timeupdated" "1729671103"
+		}
+		"empty"
+		{
+			"buildid" "15989132"
+			"pwdrequired" "1"
+			"timeupdated" "1728530884"
+		}
+		"evobuild"
+		{
+			"buildid" "15080121"
+			"pwdrequired" "1"
+			"timeupdated" "1721331791"
+		}
+		"kellzbranch"
+		{
+			"buildid" "16171178"
+			"pwdrequired" "1"
+			"timeupdated" "1729803742"
+		}
+		"nightlybuilds"
+		{
+			"buildid" "16188003"
+			"pwdrequired" "1"
+			"timeupdated" "1729906060"
+		}
+		"offbrand"
+		{
+			"buildid" "15495760"
+			"pwdrequired" "1"
+			"timeupdated" "1724702312"
+		}
+		"publictrailerbranch"
+		{
+			"buildid" "15610385"
+			"pwdrequired" "1"
+			"timeupdated" "1725592243"
+		}
+		"release"
+		{
+			"buildid" "16189886"
+			"pwdrequired" "1"
+			"timeupdated" "1729928788"
+		}
+		"shippingnightly"
+		{
+			"buildid" "16188084"
+			"pwdrequired" "1"
+			"timeupdated" "1729907171"
+		}
+		"trailerbranch"
+		{
+			"buildid" "15694501"
+			"pwdrequired" "1"
+			"timeupdated" "1726250667"
+		}
+		"futurenightly"
+		{
+			"buildid" "16188331"
+			"pwdrequired" "1"
+			"timeupdated" "1729909637"
+		}
+		"beta"
+		{
+			"buildid" "12560287"
+			"pwdrequired" "1"
+			"timeupdated" "1698477173"
+		}
+		"crashtesting"
+		{
+			"buildid" "12665327"
+			"pwdrequired" "1"
+			"timeupdated" "1699569089"
+		}
+		"creator"
+		{
+			"buildid" "12865532"
+			"pwdrequired" "1"
+			"timeupdated" "1702860586"
+		}
+		"event"
+		{
+			"buildid" "16162691"
+			"pwdrequired" "1"
+			"timeupdated" "1729821193"
+		}
+		"genesisx"
+		{
+			"buildid" "13488430"
+			"pwdrequired" "1"
+			"timeupdated" "1708226148"
+		}
+		"online"
+		{
+			"buildid" "15896164"
+			"pwdrequired" "1"
+			"timeupdated" "1727830211"
+		}
+		"performancetesting"
+		{
+			"buildid" "16169346"
+			"pwdrequired" "1"
+			"timeupdated" "1729792995"
+		}
+		"rctesting"
+		{
+			"buildid" "16131512"
+			"pwdrequired" "1"
+			"timeupdated" "1729573740"
+		}
+		"recording"
+		{
+			"buildid" "15774791"
+			"pwdrequired" "1"
+			"timeupdated" "1726859596"
+		}
+		"shippingtests"
+		{
+			"buildid" "15308944"
+			"pwdrequired" "1"
+			"timeupdated" "1723144777"
+		}
+		"uitesting"
+		{
+			"buildid" "14811364"
+			"pwdrequired" "1"
+			"timeupdated" "1719170403"
+		}
+		"wiptesting"
+		{
+			"buildid" "16101454"
+			"pwdrequired" "1"
+			"timeupdated" "1729284171"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Rivals2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Rivals2\\Saved\\Replays"
+			"pattern" "*.rpl"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25909347"
+"_sha" "a7f7f97bf1e061c8d65f7f10907a8327ff824c15"
+"_size" "11932"
