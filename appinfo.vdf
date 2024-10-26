@@ -178,6 +178,10 @@
 		"category_23" "1"
 		"category_28" "1"
 		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -266,6 +270,8 @@
 	"developer" "Jupiter Corporation"
 	"publisher" "Jupiter Corporation"
 	"homepage" "https://twitter.com/Jupiter_JP1"
+	"listofdlc" "3253250,3253260,3253270"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -284,13 +290,13 @@
 		"3074074977"
 		{
 			"controller_type" "controller_xbox360"
-			"enabled_branches" "default"
+			"enabled_branches" ""
 			"use_action_block" "false"
 		}
 		"3159831255"
 		{
 			"controller_type" "controller_xbox360"
-			"enabled_branches" "developer"
+			"enabled_branches" "default,developer"
 			"use_action_block" "false"
 		}
 	}
@@ -299,39 +305,52 @@
 "depots"
 {
 	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian"
+	"hasdepotsindlc" "1"
 	"2492392"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4925228666150734069"
-				"size" "807040367"
-				"download" "518681920"
+				"gid" "7979077409453368970"
+				"size" "814297377"
+				"download" "521244624"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "910D8E5159BD11101D63ADCAF98ACFDA"
-				"size" "675CF52D38391F263123CC4E8845A68D"
-				"download" "7C972F3E6453737F48D6486935FBCB43"
+				"gid" "3267DD23C4168543BEC44E85AA0F3651"
+				"size" "DEC25C2690E8B0402D3643EDCE8574F0"
+				"download" "FD722E3D56A94B999B46452DC9AF9343"
 			}
 		}
+	}
+	"2492393"
+	{
+		"dlcappid" "3253250"
+	}
+	"2492394"
+	{
+		"dlcappid" "3253260"
+	}
+	"2492395"
+	{
+		"dlcappid" "3253270"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14929495"
-			"timeupdated" "1720139172"
+			"buildid" "16145999"
+			"timeupdated" "1729814844"
 		}
 		"developer"
 		{
-			"buildid" "15819791"
+			"buildid" "16145999"
 			"pwdrequired" "1"
-			"timeupdated" "1727254828"
+			"timeupdated" "1729659587"
 		}
 	}
 }
@@ -349,3 +368,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25886860"
+"_sha" "c84b421df616cbba6e9478099a781e5f74d26e10"
+"_size" "6767"
