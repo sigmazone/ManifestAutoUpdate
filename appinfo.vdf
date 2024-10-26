@@ -1,0 +1,220 @@
+"appid" "2846060"
+"common"
+{
+	"name" "Subterror"
+	"type" "Game"
+	"icon" "20bc55a38890d3a66563a3ef1b642c253891817d"
+	"clienticon" "969c5b4a9db9acc8c617eb025ad016278b099087"
+	"clienttga" "bb03dda351d2bf583b1d8798f0b8de3ca7f45a99"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727842555"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team Monumental"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team Monumental"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1728672165"
+	"community_hub_visible" "1"
+	"gameid" "2846060"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1667"
+		"2" "3859"
+		"3" "3839"
+		"4" "19"
+		"5" "9157"
+		"6" "21"
+		"7" "19780"
+		"8" "4106"
+		"9" "1720"
+		"10" "3964"
+		"11" "4252"
+		"12" "4166"
+		"13" "1721"
+		"14" "3978"
+		"15" "1759"
+		"16" "1685"
+		"17" "6730"
+		"18" "4182"
+		"19" "492"
+	}
+	"review_score" "7"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"developer" "Team Monumental"
+	"publisher" "Team Monumental"
+}
+"config"
+{
+	"installdir" "Subterror"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Subterror.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2846061"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3272828133425043807"
+				"size" "458568894"
+				"download" "146993536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "9F4B598CD5EE8605BD5C7E5114A945AC"
+				"size" "78350BF6FC53B258960494F56E813D94"
+				"download" "FB324DBF17D9E4F4713EC97F2B1B7C34"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16056863"
+			"timeupdated" "1729025143"
+		}
+		"internal"
+		{
+			"buildid" "16187979"
+			"pwdrequired" "1"
+			"timeupdated" "1729905990"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25906086"
+"_sha" "7df3f637dbe1a413823296ff6293f6de6fbab4ea"
+"_size" "3324"
