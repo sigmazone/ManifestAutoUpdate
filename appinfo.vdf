@@ -10,7 +10,8 @@
 	"clienticon" "e8085237d92cda6b217aef9ce32e9fd485b91931"
 	"clienttga" "9423ef2e0041fda0ac8981f09f81f67da3aea5ae"
 	"oslist" "windows"
-	"osarch" ""
+	"osarch" "64"
+	"osextended" ""
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -206,6 +207,12 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1573832038"
 	"community_visible_stats" "1"
@@ -260,9 +267,7 @@
 }
 "depots"
 {
-	"hasdepotsindlc" "0"
-	"baselanguages" "english"
-	"228986"
+	"228989"
 	{
 		"config"
 		{
@@ -280,15 +285,17 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
 	"959521"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3068378569945063858"
-				"size" "5547719533"
-				"download" "2565245664"
+				"gid" "7076119379111882084"
+				"size" "6610529133"
+				"download" "2981640400"
 			}
 		}
 	}
@@ -324,9 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "1880457937840872932"
-				"size" "5547733869"
-				"download" "2564960912"
+				"gid" "8317334302063486070"
+				"size" "6610529133"
+				"download" "2983150224"
 			}
 		}
 	}
@@ -334,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "11820016"
-			"timeupdated" "1690660989"
+			"buildid" "16164867"
+			"timeupdated" "1729770428"
 		}
 	}
 }
@@ -354,3 +361,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25876304"
+"_sha" "0cb7112cfb0a805ae8c698c78b549c38b4cf564c"
+"_size" "6093"
