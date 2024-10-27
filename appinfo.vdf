@@ -141,7 +141,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727073177"
+	"store_asset_mtime" "1729829158"
 	"associations"
 	{
 		"0"
@@ -174,6 +174,9 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_22" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -189,6 +192,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1715267555"
 	"metacritic_score" "85"
@@ -198,21 +206,21 @@
 	"gameid" "1675830"
 	"store_tags"
 	{
-		"0" "7208"
-		"1" "4064"
+		"0" "4064"
+		"1" "7208"
 		"2" "4295"
 		"3" "4191"
 		"4" "3835"
-		"5" "1721"
-		"6" "3942"
+		"5" "3942"
+		"6" "1721"
 		"7" "1742"
-		"8" "3799"
-		"9" "4085"
-		"10" "5900"
+		"8" "4085"
+		"9" "5900"
+		"10" "3799"
 		"11" "4145"
 		"12" "6971"
-		"13" "3834"
-		"14" "7702"
+		"13" "7702"
+		"14" "3834"
 		"15" "4166"
 		"16" "5716"
 		"17" "1710"
@@ -220,13 +228,15 @@
 		"19" "1673"
 	}
 	"review_score" "9"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
 	"developer" "sunset visitor 斜陽過客"
 	"publisher" "Fellow Traveller"
 	"homepage" "https://www.1000xresist.com/"
+	"listofdlc" "3279710"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -249,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "8680340563502446601"
-				"size" "8679953543"
-				"download" "6903676880"
+				"gid" "5363904641576180179"
+				"size" "8731168108"
+				"download" "6929397056"
 			}
 		}
 		"encryptedmanifests"
@@ -336,9 +346,9 @@
 			}
 			"dev_nightly"
 			{
-				"gid" "089A8B9E2BFA13D197677B6F509FEFD9"
-				"size" "3BA80F668D976DC3368BC008DFE4EC0D"
-				"download" "BDD2F1C26B5B36FD145D6D4259AE58DF"
+				"gid" "A3B5B91C63B12BE12F335E5ADE45453D"
+				"size" "D5A46C10BC592BBED93EC54B993DBB22"
+				"download" "4FD28F289575139D2D539CACDCFAE2D4"
 			}
 			"dev_profile"
 			{
@@ -372,12 +382,38 @@
 			}
 		}
 	}
+	"3279710"
+	{
+		"dlcappid" "3279710"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "229997235514827752"
+				"size" "13402904"
+				"download" "13177200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release_candidate"
+			{
+				"gid" "45E32B4FE4C12800FFB45590A8680D63"
+				"size" "9EA95045621CE2CE97B848F39F53B7EC"
+				"download" "0845ED1656B23F07C7BA8CC06B9F1582"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14633930"
-			"timeupdated" "1718300281"
+			"buildid" "16011510"
+			"timeupdated" "1729868194"
 		}
 		"demo"
 		{
@@ -459,9 +495,9 @@
 		}
 		"dev_nightly"
 		{
-			"buildid" "15833909"
+			"buildid" "15991745"
 			"pwdrequired" "1"
-			"timeupdated" "1727339925"
+			"timeupdated" "1728549501"
 		}
 		"dev_profile"
 		{
@@ -489,9 +525,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "15828245"
+			"buildid" "16011510"
 			"pwdrequired" "1"
-			"timeupdated" "1727299070"
+			"timeupdated" "1728660683"
 		}
 	}
 }
@@ -509,3 +545,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25916845"
+"_sha" "03d8f949ca398c88e83c9e45f671c3f7f5d80717"
+"_size" "11330"
