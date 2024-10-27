@@ -217,12 +217,18 @@
 	{
 		"0"
 		{
-			"executable" "The Jackbox Party Pack 7.exe"
-			"type" "default"
+			"executable" "launch_mp.bat"
+			"arguments" "product/jackbox-party-pack-7"
+			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 			}
+			"description_loc"
+			{
+				"english" "via The Jackbox Games Megapicker"
+			}
+			"description" "via The Jackbox Games Megapicker"
 		}
 		"1"
 		{
@@ -242,6 +248,20 @@
 			{
 				"oslist" "macos"
 			}
+		}
+		"3"
+		{
+			"executable" "The Jackbox Party Pack 7.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Standalone"
+			}
+			"description" "Standalone"
 		}
 	}
 	"steamcontrollertemplateindex" "4"
@@ -274,7 +294,6 @@
 		"config"
 		{
 			"oslist" "windows,linux"
-			"language" ""
 		}
 		"manifests"
 		{
@@ -367,7 +386,6 @@
 		{
 			"oslist" "windows"
 			"osarch" "64"
-			"language" ""
 		}
 		"manifests"
 		{
@@ -460,7 +478,6 @@
 		{
 			"oslist" "windows"
 			"osarch" "32"
-			"language" ""
 		}
 		"manifests"
 		{
@@ -552,7 +569,6 @@
 		"config"
 		{
 			"oslist" "macos"
-			"language" ""
 		}
 		"manifests"
 		{
@@ -645,7 +661,6 @@
 		{
 			"oslist" "linux"
 			"osarch" "64"
-			"language" ""
 		}
 		"manifests"
 		{
@@ -731,6 +746,28 @@
 				"download" "785C3EFC1DD3C345E7D7B12BAAB14331"
 			}
 		}
+	}
+	"2828508"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5145691608909662874"
+				"size" "2021"
+				"download" "848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"latest"
+			{
+				"gid" "200885F2DE55EA2037B0537999A2DC04"
+				"size" "EAD99DE751CFC7E723E7A9E721E6E97D"
+				"download" "C59CD820C0720ED00C813BA5482FE57C"
+			}
+		}
+		"depotfromapp" "2828500"
 	}
 	"branches"
 	{
@@ -818,22 +855,7 @@
 	"quota" "500000"
 	"maxnumfiles" "1"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status" "{#Status_%gamestatus%}"
-				"#status_picker" "Picking a game"
-				"#status_quiplash3" "Quiplash 3"
-				"#status_everyday" "The Devils & the Details"
-				"#status_worldchampions" "Champ\'d Up"
-				"#status_jackboxtalks" "Talking Points"
-				"#status_blankyblank" "Blather \'Round"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "25913213"
+"_sha" "056fed840da179713e2cfa3e8f32a0016b235a5d"
+"_size" "18851"
