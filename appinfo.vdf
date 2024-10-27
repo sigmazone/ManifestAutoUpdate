@@ -1,0 +1,357 @@
+"appid" "2307350"
+"common"
+{
+	"name" "Into the Radius 2"
+	"type" "Game"
+	"releasestate" "released"
+	"openxrsupport" "1"
+	"icon" "11e11e33ac13ec2ad877c183b08c90c3de3a01a7"
+	"clienticon" "bb68d0af8c676e94ab7267839d35e4bbcf6ce45b"
+	"clienttga" "07ba9272b1b2a067114273ec5c6c34b3ad2bb73b"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1722038400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "9b96228449b1cf9c323a07cde508330b0709da10/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "74.72472667135283"
+			"height_pct" "75.34722222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "09256e74dc331e588c0a50f0fa5b17e1ef4f8ebc/logo.png"
+			}
+			"image2x"
+			{
+				"english" "09256e74dc331e588c0a50f0fa5b17e1ef4f8ebc/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "74.72472667135283"
+				"height_pct" "75.34722222222223"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729530211"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CM Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CM Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CM Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1721830431"
+	"community_hub_visible" "1"
+	"gameid" "2307350"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "1663"
+		"2" "21"
+		"3" "3843"
+		"4" "19"
+		"5" "4175"
+		"6" "1662"
+		"7" "1774"
+		"8" "4166"
+		"9" "3835"
+		"10" "3839"
+		"11" "4342"
+		"12" "1721"
+		"13" "1742"
+		"14" "3834"
+		"15" "3934"
+		"16" "5765"
+		"17" "1710"
+		"18" "3978"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "CM Games"
+	"publisher" "CM Games"
+	"homepage" "https://www.into-the-radius.com/itr2"
+}
+"config"
+{
+	"installdir" "IntoTheRadius2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "IntoTheRadius2.exe"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2307351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1334230296692400551"
+				"size" "11901020704"
+				"download" "11489684032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ci-dev-dev"
+			{
+				"gid" "F00EAE6C73571BB9469BB7D926D2BDA8"
+				"size" "179BFFDF33D50FEB601C3B903E0275E8"
+				"download" "6E59BA97266A52D2B2CCE9285F72EB23"
+			}
+			"ci-dev-qa"
+			{
+				"gid" "9F65168ACB3E12C1FA805692BD23BCEA"
+				"size" "64B46D2E22401427B6D5D80B963D8263"
+				"download" "1BB3A48BE4FA7A8B21D2F4983C9EE791"
+			}
+			"ci-dev-rc"
+			{
+				"gid" "4A35F4B5DA2FBB664679BEFBD7426646"
+				"size" "5875E79714D597ACB9F9D3E1AA64E76C"
+				"download" "BB63EB5819851D3FFCFFA1B935991F3A"
+			}
+			"ci-main-dev"
+			{
+				"gid" "4BB469E587AE4B12A55C2E00B73EDCAB"
+				"size" "1918C96DD3B14BD447C922CAFCA274A8"
+				"download" "33A6700061AA06D2E3F711AEEB61663D"
+			}
+			"ci-main-qa"
+			{
+				"gid" "4ED2737D31026204508E175A62F2330A"
+				"size" "617FC96063BB8147C327B26F365620C5"
+				"download" "6D35B033465143FE1D0E0D07C29C85AF"
+			}
+			"ci-main-rc"
+			{
+				"gid" "153E170C9AB8CF8ADA8ACC8412BF0DFA"
+				"size" "B8BD72539E425F27E7FC6F1BE5DF3FF6"
+				"download" "F8470A32287EAC1FDC5762776593BD70"
+			}
+			"playtest"
+			{
+				"gid" "EFB9BACB8156036063F29516024CCB42"
+				"size" "D2D2DD160C6F2579FDC62FDA67B1EC23"
+				"download" "0C780C33FF1B727D12C8308D4BB173D4"
+			}
+			"test"
+			{
+				"gid" "124BF8047BE5B514AA0F5EFE78E40FE5"
+				"size" "0AD4D07AEE66A962A268D0C9D4238E37"
+				"download" "50205498BC3B50D4E8AB4C2A6F9D18FD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15915360"
+			"timeupdated" "1727963965"
+		}
+		"ci-dev-dev"
+		{
+			"buildid" "16190791"
+			"pwdrequired" "1"
+			"timeupdated" "1729938970"
+		}
+		"ci-dev-qa"
+		{
+			"buildid" "16194275"
+			"pwdrequired" "1"
+			"timeupdated" "1729984995"
+		}
+		"ci-dev-rc"
+		{
+			"buildid" "16194444"
+			"pwdrequired" "1"
+			"timeupdated" "1729987218"
+		}
+		"ci-main-dev"
+		{
+			"buildid" "15955881"
+			"pwdrequired" "1"
+			"timeupdated" "1728317990"
+		}
+		"ci-main-qa"
+		{
+			"buildid" "15959948"
+			"pwdrequired" "1"
+			"timeupdated" "1728343794"
+		}
+		"ci-main-rc"
+		{
+			"buildid" "15960146"
+			"pwdrequired" "1"
+			"timeupdated" "1728345392"
+		}
+		"playtest"
+		{
+			"buildid" "14661252"
+			"pwdrequired" "1"
+			"timeupdated" "1718028535"
+		}
+		"test"
+		{
+			"buildid" "15835227"
+			"pwdrequired" "1"
+			"timeupdated" "1729792438"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "444"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/IntoTheRadius2/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25914923"
+"_sha" "13ce7975fcbf6e7b501dfbae8d13112f6440f37f"
+"_size" "6638"
