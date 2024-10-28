@@ -383,9 +383,9 @@
 		{
 			"public"
 			{
-				"gid" "8558765329936584693"
-				"size" "1945607290"
-				"download" "1081135792"
+				"gid" "5875516892040878480"
+				"size" "2286179999"
+				"download" "1250381248"
 			}
 			"1_10_0-benchmark"
 			{
@@ -405,6 +405,18 @@
 				"size" "1945776599"
 				"download" "1081273792"
 			}
+			"1_10_3-benchmark"
+			{
+				"gid" "7582259842670315419"
+				"size" "2286383426"
+				"download" "1250394160"
+			}
+			"1_10_3-ssbo_constants"
+			{
+				"gid" "2299946126708000197"
+				"size" "2286260931"
+				"download" "1250398240"
+			}
 			"1_9_1-benchmark"
 			{
 				"gid" "1933910426110083625"
@@ -423,11 +435,17 @@
 				"size" "1945595950"
 				"download" "1081156352"
 			}
-			"testing"
+			"old-1_10_2"
 			{
 				"gid" "8558765329936584693"
 				"size" "1945607290"
 				"download" "1081135792"
+			}
+			"testing"
+			{
+				"gid" "5875516892040878480"
+				"size" "2286179999"
+				"download" "1250381248"
 			}
 			"vk10"
 			{
@@ -444,11 +462,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"1_10_2-panda"
+			{
+				"gid" "5CB696E6126CB28B1CA4DBCA3DEBE412"
+				"size" "38C1A9509E9DBC8354EEEE34F31CBC57"
+				"download" "50C52375ECAA3F799BA1E9710BC13BF1"
+			}
 			"beta-testing"
 			{
-				"gid" "1C26A5EC6650623F77B04E73BEF70449"
-				"size" "6C73DC994465467A47C6DD2C383EA4EF"
-				"download" "94869487E891A526ADAD27BE721FF679"
+				"gid" "2F0DC998D9D5F76353EB273AD4548702"
+				"size" "A5EAA106B9A81B6A38005704F2889524"
+				"download" "892EEF14F9D837B4FA330353F4D0DE0A"
 			}
 			"gpu-reshape-test"
 			{
@@ -481,9 +505,9 @@
 		{
 			"public"
 			{
-				"gid" "7888381002332712858"
-				"size" "2036532986"
-				"download" "1083166176"
+				"gid" "362385085338089535"
+				"size" "2375398756"
+				"download" "1256269776"
 			}
 			"1_10_0-benchmark"
 			{
@@ -503,6 +527,18 @@
 				"size" "2034998540"
 				"download" "1083135872"
 			}
+			"1_10_3-benchmark"
+			{
+				"gid" "5180228608975649881"
+				"size" "2375753671"
+				"download" "1255323088"
+			}
+			"1_10_3-ssbo_constants"
+			{
+				"gid" "6431917683931296230"
+				"size" "2375479688"
+				"download" "1256282576"
+			}
 			"1_9_1-benchmark"
 			{
 				"gid" "1496279031342719901"
@@ -521,11 +557,17 @@
 				"size" "2036513230"
 				"download" "1083148080"
 			}
-			"testing"
+			"old-1_10_2"
 			{
 				"gid" "7888381002332712858"
 				"size" "2036532986"
 				"download" "1083166176"
+			}
+			"testing"
+			{
+				"gid" "362385085338089535"
+				"size" "2375398756"
+				"download" "1256269776"
 			}
 			"vk10"
 			{
@@ -542,11 +584,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"1_10_2-panda"
+			{
+				"gid" "D8B051D6ED078F818CA06212C0316ED0"
+				"size" "CAF7F86A40C1AFED90F30082E6BA42E4"
+				"download" "91D53B9626CB06E97F65D28A12A5F247"
+			}
 			"beta-testing"
 			{
-				"gid" "C414D5325D52CF7057D22C35516326E1"
-				"size" "9C8B05FE021CCF8D18472898A3526B6C"
-				"download" "9E8D0E1EA0255B55187948A0E9F76E10"
+				"gid" "957F7542FA994A54308D3A0EAB1160C9"
+				"size" "6428082E4E455C34BFE03BBDE7C246B0"
+				"download" "C9ABE1CDED2FE9157C8BDB096BB88410"
 			}
 			"gpu-reshape-test"
 			{
@@ -572,8 +620,8 @@
 	{
 		"public"
 		{
-			"buildid" "16149690"
-			"timeupdated" "1729682069"
+			"buildid" "16207013"
+			"timeupdated" "1730126518"
 		}
 		"1_10_0-benchmark"
 		{
@@ -593,6 +641,24 @@
 			"description" "Potential NVIDIA workaround"
 			"timeupdated" "1729111612"
 		}
+		"1_10_2-panda"
+		{
+			"buildid" "16200337"
+			"pwdrequired" "1"
+			"timeupdated" "1730074183"
+		}
+		"1_10_3-benchmark"
+		{
+			"buildid" "16207611"
+			"description" "1.10.3 plus benchmarking"
+			"timeupdated" "1730128917"
+		}
+		"1_10_3-ssbo_constants"
+		{
+			"buildid" "16207162"
+			"description" "1.10.3 with maybe less NV crashing"
+			"timeupdated" "1730126137"
+		}
 		"1_9_1-benchmark"
 		{
 			"buildid" "15982053"
@@ -607,9 +673,9 @@
 		}
 		"beta-testing"
 		{
-			"buildid" "15995798"
+			"buildid" "16207013"
 			"pwdrequired" "1"
-			"timeupdated" "1728570519"
+			"timeupdated" "1730125498"
 		}
 		"gpu-reshape-test"
 		{
@@ -623,6 +689,12 @@
 			"description" "Previous build"
 			"timeupdated" "1729181234"
 		}
+		"old-1_10_2"
+		{
+			"buildid" "16149690"
+			"description" "Previous build"
+			"timeupdated" "1730126446"
+		}
 		"puzzling-places"
 		{
 			"buildid" "16147441"
@@ -631,9 +703,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16149690"
+			"buildid" "16207013"
 			"description" "Pre-release testing (unstable)"
-			"timeupdated" "1729680009"
+			"timeupdated" "1730125524"
 		}
 		"tom-testing"
 		{
@@ -689,6 +761,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25856166"
-"_sha" "ffa4418732f424245d1602dc9838381b1cc8682f"
-"_size" "12949"
+"_change_number" "25933544"
+"_sha" "c5176c26735cc7b45e4d323d047445d021da7ac6"
+"_size" "14567"
