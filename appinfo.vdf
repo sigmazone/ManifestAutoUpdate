@@ -95,6 +95,40 @@
 			"height_pct" "76.55841842792685"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "76.55841842792685"
+			}
+		}
+	}
 	"store_asset_mtime" "1688734872"
 	"associations"
 	{
@@ -192,18 +226,18 @@
 		"1" "14139"
 		"2" "21"
 		"3" "4182"
-		"4" "9"
-		"5" "1677"
+		"4" "1677"
+		"5" "9"
 		"6" "1741"
 		"7" "19"
-		"8" "1720"
-		"9" "4747"
+		"8" "4747"
+		"9" "1720"
 		"10" "492"
 		"11" "4136"
-		"12" "4026"
-		"13" "1708"
-		"14" "12095"
-		"15" "1742"
+		"12" "1708"
+		"13" "4026"
+		"14" "1742"
+		"15" "12095"
 		"16" "1684"
 		"17" "1697"
 		"18" "4166"
@@ -305,9 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "8255520306617807280"
-				"size" "10259969654"
-				"download" "9485955168"
+				"gid" "2363113812727623531"
+				"size" "10257860401"
+				"download" "9484176000"
 			}
 		}
 		"encryptedmanifests"
@@ -330,12 +364,6 @@
 				"size" "25869E2A7561E76F5A0BCC57D1126508"
 				"download" "FB6BB912253B0FFFF2820FDED99F349E"
 			}
-			"internonly"
-			{
-				"gid" "B75F6C8526E3AC54C08D88EE7A8A310B"
-				"size" "699BFF2867FA009B338E2AF2FE9FC693"
-				"download" "CE9B1A1F9D4F73B5BA7E183CDAEFEAF7"
-			}
 			"loctests"
 			{
 				"gid" "676B2A4873515BC1D2992794F93A019B"
@@ -347,6 +375,12 @@
 				"gid" "6EEAA3E066DF475E5B1B713E9BB0027E"
 				"size" "33444187E3D36B0C63CFA43BD071FB0B"
 				"download" "93334332E6306C82360EA38315A01434"
+			}
+			"internonly"
+			{
+				"gid" "9B9C9EF54E5900F1B5CF7775AA984FC2"
+				"size" "3CDA375BDC3336FAF4916C1FCA65B8BF"
+				"download" "8F369E610D9C4DF3CBC258500B875D3A"
 			}
 		}
 	}
@@ -361,9 +395,9 @@
 		{
 			"public"
 			{
-				"gid" "4209142325123148386"
-				"size" "10277852118"
-				"download" "9482684160"
+				"gid" "5175094267074422493"
+				"size" "10275206380"
+				"download" "9481177568"
 			}
 		}
 		"encryptedmanifests"
@@ -386,12 +420,6 @@
 				"size" "A7DF298EEDC15B797E00A1979C0D760B"
 				"download" "B881DB3971686673A54910EAF1F4BDDB"
 			}
-			"internonly"
-			{
-				"gid" "73A7BC25C182711AA4641B5E55F5B954"
-				"size" "35F36DE834633F2D080722F11B4DCEB0"
-				"download" "4B33C7709167C0697F7F2EF18E0F02F8"
-			}
 			"loctests"
 			{
 				"gid" "B1218FDCC022004AD9CD5BBD6461B287"
@@ -403,6 +431,12 @@
 				"gid" "8BBAC46E3AED449E6F6C0AE474C254C4"
 				"size" "2829B955A7433D4E35A2C3246163DA57"
 				"download" "78AE07EFB47C24781C5AA5600371A0C8"
+			}
+			"internonly"
+			{
+				"gid" "A140341631786FF44D59A6D0479EB67B"
+				"size" "6398292ABD5E772D1E88D79907D1B477"
+				"download" "DE3950C5E21FBF8BCD227B87D8753F1B"
 			}
 		}
 	}
@@ -442,12 +476,6 @@
 				"size" "E4D4F92C88251A5035AAF054C2873DF6"
 				"download" "4A6443F56EF55121D42072E485663706"
 			}
-			"internonly"
-			{
-				"gid" "7D1FE6121905A6B7EA80321480BD9E1E"
-				"size" "4749F803DFB45E1EABA4AF88352F8C5F"
-				"download" "AB70502A6930FF3B8D55A3F8A66C93D0"
-			}
 			"loctests"
 			{
 				"gid" "69CEC4CF7C7C252BE078BB7974A1D81D"
@@ -460,14 +488,20 @@
 				"size" "1E60A0FEC20F3229397F3873911D022D"
 				"download" "04BD9B6A9375552AEDE1D011894EA94C"
 			}
+			"internonly"
+			{
+				"gid" "7D1FE6121905A6B7EA80321480BD9E1E"
+				"size" "4749F803DFB45E1EABA4AF88352F8C5F"
+				"download" "AB70502A6930FF3B8D55A3F8A66C93D0"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11792837"
-			"timeupdated" "1691414770"
+			"buildid" "15996652"
+			"timeupdated" "1730126452"
 		}
 		"defaultmirror"
 		{
@@ -487,12 +521,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1690380575"
 		}
-		"internonly"
-		{
-			"buildid" "11792837"
-			"pwdrequired" "1"
-			"timeupdated" "1690380875"
-		}
 		"loctests"
 		{
 			"buildid" "11735337"
@@ -504,6 +532,12 @@
 			"buildid" "9302307"
 			"pwdrequired" "1"
 			"timeupdated" "1660293200"
+		}
+		"internonly"
+		{
+			"buildid" "15996652"
+			"pwdrequired" "1"
+			"timeupdated" "1728574828"
 		}
 	}
 }
@@ -539,313 +573,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#menu" "Exploring... the menus"
-				"#game" "Chapter %Chapter%, {#FloorInName_%Floor%}"
-				"#floorinname_0" "at the ground floor"
-				"#floorinname_1" "at the Tavern"
-				"#floorinname_2" "in Zangdar\'s lair"
-				"#floorinname_3" "in Goblin territory"
-				"#floorinname_4" "in the Abandoned Floor"
-				"#floorinname_5" "in the Prison... or maybe the forge\?"
-				"#floorinname_6" "on the Rooftop"
-				"#floorinname_7" "in the Basement"
-				"#floorinname_8" "under the Gambling Den"
-				"#floorinname_9" "in the Caves"
-				"#floorinname_10" "in the Urik\'s Depths"
-				"#floorinname_11" "in the Temple of The Big Anvil"
-				"#floorinname_12" "in the Library"
-				"#floorinname_13" "in the Ruins of Limis"
-				"#floorinname_14" "under the Ruins of Limis"
-				"#floorinname_15" "battle in Kilukz\' arenas"
-				"#floorinname_16" "at the ground floor"
-				"#floorinname_17" "at the Tavern"
-				"#floorinname_18" "in the Basement"
-				"#floorinname_19" "in the Caves"
-				"#floorinname_20" "in the Urik\'s Depths"
-				"#floorname_0" "Ground Floor"
-				"#floorname_1" "The Tavern"
-				"#floorname_2" "Zangdar\'s Lair"
-				"#floorname_3" "Goblin Workshops"
-				"#floorname_4" "The Abandoned Floor"
-				"#floorname_5" "The Prison and workshops"
-				"#floorname_6" "The Rooftop"
-				"#floorname_7" "Basement"
-				"#floorname_8" "Under the den"
-				"#floorname_9" "Caves"
-				"#floorname_10" "Urik\'s Depths"
-				"#floorname_11" "Temple of the Big Anvil"
-				"#floorname_12" "Great Library of Unspeakable Knowledge"
-				"#floorname_13" "The Ruins of Limis"
-				"#floorname_14" "The Underworld"
-				"#floorname_15" "Splat Jaypak\'s Arenas"
-				"#floorname_16" "Ground Floor"
-				"#floorname_17" "The Tavern"
-				"#floorname_18" "Basement"
-				"#floorname_19" "Caves"
-				"#floorname_20" "Urik\'s Depths"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#menu" "Explore... les menus"
-				"#game" "Chapitre %Chapter%, {#FloorInName_%Floor%}"
-				"#floorinname_0" "au rez-de-chaussée"
-				"#floorinname_1" "à la taverne"
-				"#floorinname_2" "dans les appartements de Zangdar"
-				"#floorinname_3" "aux ateliers gobelins"
-				"#floorinname_4" "à l\'étage abandonné"
-				"#floorinname_5" "à l\'étage de la Prison... et autres services !"
-				"#floorinname_6" "sur le Toit"
-				"#floorinname_7" "dans les caves"
-				"#floorinname_8" "sous le tripot"
-				"#floorinname_9" "dans des souterrains"
-				"#floorinname_10" "dans les Tréfonds d\'Urik"
-				"#floorinname_11" "dans le temple de la Grosse Enclume"
-				"#floorinname_12" "dans la Bibliothèque des Savoirs Indicibles"
-				"#floorinname_13" "dans les Ruines de Limis"
-				"#floorinname_14" "sous les Ruines de Limis"
-				"#floorinname_15" "combat dans les arènes de Kilukz"
-				"#floorinname_16" "au rez-de-chaussée"
-				"#floorinname_17" "à la taverne"
-				"#floorinname_18" "dans les caves"
-				"#floorinname_19" "dans des souterrains"
-				"#floorinname_20" "dans les Tréfonds d\'Urik"
-				"#floorname_0" "Rez-de-chaussée"
-				"#floorname_1" "La Taverne"
-				"#floorname_2" "Appartements de Zangdar"
-				"#floorname_3" "Ateliers gobelins"
-				"#floorname_4" "Étage abandonné"
-				"#floorname_5" "Prison & services"
-				"#floorname_6" "Le Toit"
-				"#floorname_7" "Caves"
-				"#floorname_8" "Sous le tripot"
-				"#floorname_9" "Souterrains"
-				"#floorname_10" "Tréfonds d\'Urik"
-				"#floorname_11" "Temple de la Grosse Enclume"
-				"#floorname_12" "Bibliothèque des Savoirs Indicibles"
-				"#floorname_13" "Les Ruines de Limis"
-				"#floorname_14" "Le monde souterrain"
-				"#floorname_15" "Arènes de Kilukz"
-				"#floorname_16" "Rez-de-chaussée"
-				"#floorname_17" "La Taverne"
-				"#floorname_18" "Caves"
-				"#floorname_19" "Souterrains"
-				"#floorname_20" "Tréfonds d\'Urik"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#menu" "Exploring... the menus"
-				"#game" "Chapter %Chapter%, {#FloorInName_%Floor%}"
-				"#floorinname_0" "at the ground floor"
-				"#floorinname_1" "at the Tavern"
-				"#floorinname_2" "in Zangdar\'s lair"
-				"#floorinname_3" "in Goblin territory"
-				"#floorinname_4" "in the Abandoned Floor"
-				"#floorinname_5" "in the Prison... or maybe the forge\?"
-				"#floorinname_6" "on the Rooftop"
-				"#floorinname_7" "in the Basement"
-				"#floorinname_8" "under the Gambling Den"
-				"#floorinname_9" "in the Caves"
-				"#floorinname_10" "in the Urik\'s Depths"
-				"#floorinname_11" "in the Temple of The Big Anvil"
-				"#floorinname_12" "in the Library"
-				"#floorinname_13" "in den Ruinen von Limis"
-				"#floorinname_14" "unter den Ruinen von Limis"
-				"#floorinname_15" "Kampf in Kilukz\' Arenen"
-				"#floorinname_16" "at the ground floor"
-				"#floorinname_17" "at the Tavern"
-				"#floorinname_18" "in the Basement"
-				"#floorinname_19" "in the Caves"
-				"#floorinname_20" "in the Urik\'s Depths"
-				"#floorname_0" "Ground Floor"
-				"#floorname_1" "The Tavern"
-				"#floorname_2" "Zangdar\'s Lair"
-				"#floorname_3" "Goblin Workshops"
-				"#floorname_4" "The Abandoned Floor"
-				"#floorname_5" "The Prison and workshops"
-				"#floorname_6" "The Rooftop"
-				"#floorname_7" "Basement"
-				"#floorname_8" "Under the den"
-				"#floorname_9" "Caves"
-				"#floorname_10" "Urik\'s Depths"
-				"#floorname_11" "Temple of the Big Anvil"
-				"#floorname_12" "Great Library of Unspeakable Knowledge"
-				"#floorname_13" "Die Ruinen von Limis"
-				"#floorname_14" "Die unterirdische Welt"
-				"#floorname_15" "Splat Jaypaks Arenen"
-				"#floorname_16" "Ground Floor"
-				"#floorname_17" "The Tavern"
-				"#floorname_18" "Basement"
-				"#floorname_19" "Caves"
-				"#floorname_20" "Urik\'s Depths"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#menu" "Шарится... в менюшках"
-				"#game" "Глава %Chapter%, {#FloorInName_%Floor%}"
-				"#floorinname_0" "на первом этаже"
-				"#floorinname_1" "в таверне"
-				"#floorinname_2" "в логове Зангдара"
-				"#floorinname_3" "на территории гоблинов"
-				"#floorinname_4" "на заброшенном этаже"
-				"#floorinname_5" "в темнице... или в кузнице\?"
-				"#floorinname_6" "на крыше"
-				"#floorinname_7" "в подвале"
-				"#floorinname_8" "под игорным притоном"
-				"#floorinname_9" "в пещерах"
-				"#floorinname_10" "в Бездне Урика"
-				"#floorinname_11" "в Храме Великой Наковальни"
-				"#floorinname_12" "в Библиотеке"
-				"#floorinname_13" "в руинах Лимиса"
-				"#floorinname_14" "под руинами Лимиса"
-				"#floorinname_15" "в битве на аренах Килькукса"
-				"#floorinname_16" "на первом этаже"
-				"#floorinname_17" "в таверне"
-				"#floorinname_18" "в подвале"
-				"#floorinname_19" "в пещерах"
-				"#floorinname_20" "в Бездне Урика"
-				"#floorname_0" "Первый этаж"
-				"#floorname_1" "Таверна"
-				"#floorname_2" "Логово Зангдара"
-				"#floorname_3" "Мастерские гоблинов"
-				"#floorname_4" "Заброшенный этаж"
-				"#floorname_5" "Темница и подсобки"
-				"#floorname_6" "Крыша"
-				"#floorname_7" "Подвал"
-				"#floorname_8" "Под притоном"
-				"#floorname_9" "Пещеры"
-				"#floorname_10" "Бездна Урика"
-				"#floorname_11" "Храм Великой Наковальни"
-				"#floorname_12" "Великая Библиотека Неописуемых Знаний"
-				"#floorname_13" "Руины Лимиса"
-				"#floorname_14" "Подземье"
-				"#floorname_15" "Арены Килькукса"
-				"#floorname_16" "Первый этаж"
-				"#floorname_17" "Таверна"
-				"#floorname_18" "Подвал"
-				"#floorname_19" "Пещеры"
-				"#floorname_20" "Бездна Урика"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#menu" "Explorando... los menús"
-				"#game" "Capítulo %Chapter%, {#FloorInName_%Floor%}"
-				"#floorinname_0" "en la primera planta"
-				"#floorinname_1" "en la taberna"
-				"#floorinname_2" "en la guarida de Zangdar"
-				"#floorinname_3" "en territorio goblin"
-				"#floorinname_4" "en la planta abandonada"
-				"#floorinname_5" "en la prisión... o en la forja"
-				"#floorinname_6" "en el tejado"
-				"#floorinname_7" "en el sótano"
-				"#floorinname_8" "bajo el garito de apuestas"
-				"#floorinname_9" "en las cuevas"
-				"#floorinname_10" "en las Profundidades de Urik"
-				"#floorinname_11" "en el Templo del Gran yunque"
-				"#floorinname_12" "en la Gran Biblioteca del Conocimiento Inefable"
-				"#floorinname_13" "en las Ruinas de Limis"
-				"#floorinname_14" "bajo las Ruinas de Limis"
-				"#floorinname_15" "combate en las Arenas de Kilukz"
-				"#floorinname_16" "en la primera planta"
-				"#floorinname_17" "en la taberna"
-				"#floorinname_18" "en el sótano"
-				"#floorinname_19" "en las cuevas"
-				"#floorinname_20" "en las Profundidades de Urik"
-				"#floorname_0" "Primera Planta"
-				"#floorname_1" "La Taberna"
-				"#floorname_2" "Guarida de Zangdar"
-				"#floorname_3" "Talleres Goblin"
-				"#floorname_4" "La Planta Abandonada"
-				"#floorname_5" "La Prisión y los Talleres"
-				"#floorname_6" "El Tejado"
-				"#floorname_7" "Sótano"
-				"#floorname_8" "Bajo la guarida"
-				"#floorname_9" "Cuevas"
-				"#floorname_10" "Profundidades de Urik"
-				"#floorname_11" "Templo del Gran Yunque"
-				"#floorname_12" "Gran Biblioteca del Conocimiento Inefable"
-				"#floorname_13" "Las Ruinas de Limis"
-				"#floorname_14" "El Inframundo"
-				"#floorname_15" "Arenas de Kilukz"
-				"#floorname_16" "Primera Planta"
-				"#floorname_17" "La Taberna"
-				"#floorname_18" "Sótano"
-				"#floorname_19" "Cuevas"
-				"#floorname_20" "Profundidades de Urik"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#menu" "正在探索......菜单"
-				"#game" "章节 %Chapter%, {#FloorInName_%Floor%}"
-				"#floorinname_0" "在底楼"
-				"#floorinname_1" "在酒馆"
-				"#floorinname_2" "在赞达尔的居所"
-				"#floorinname_3" "在哥布林的地盘"
-				"#floorinname_4" "在废弃楼层"
-				"#floorinname_5" "在监狱......或是铁匠铺？"
-				"#floorinname_6" "在屋顶"
-				"#floorinname_7" "在地下室"
-				"#floorinname_8" "在赌场底下"
-				"#floorinname_9" "在洞穴中"
-				"#floorinname_10" "在乌里克深坑"
-				"#floorinname_11" "在大铁砧神殿"
-				"#floorinname_12" "在图书馆"
-				"#floorinname_13" "在利米斯遗迹"
-				"#floorinname_14" "在利米斯遗迹地底"
-				"#floorinname_15" "奇鲁兹竞技场之战"
-				"#floorinname_16" "在底楼"
-				"#floorinname_17" "在酒馆"
-				"#floorinname_18" "在地下室"
-				"#floorinname_19" "在洞穴中"
-				"#floorinname_20" "在乌里克深坑"
-				"#floorname_0" "底楼"
-				"#floorname_1" "酒馆"
-				"#floorname_2" "赞达尔的居所"
-				"#floorname_3" "哥布林工坊"
-				"#floorname_4" "废弃楼层"
-				"#floorname_5" "监狱与工坊"
-				"#floorname_6" "屋顶"
-				"#floorname_7" "地下室"
-				"#floorname_8" "赌场底下"
-				"#floorname_9" "洞穴"
-				"#floorname_10" "乌里克深坑"
-				"#floorname_11" "大铁砧神殿"
-				"#floorname_12" "莫可名状真知大图书馆"
-				"#floorname_13" "利米斯遗迹"
-				"#floorname_14" "地下世界"
-				"#floorname_15" "史普拉特·杰帕克竞技场"
-				"#floorname_16" "底楼"
-				"#floorname_17" "酒馆"
-				"#floorname_18" "地下室"
-				"#floorname_19" "洞穴"
-				"#floorname_20" "乌里克深坑"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23000814"
-"_sha" "6f4a4fc6640ffb11554677bd9b5d48da7da65d82"
-"_size" "23736"
+"_change_number" "25932801"
+"_sha" "67bd928f19e639fec9d1b87ea0d7a82e2b1c90ea"
+"_size" "12103"
