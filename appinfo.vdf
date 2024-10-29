@@ -79,7 +79,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "515e0d71027109a637c6f3730674a54068bbaf1a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -90,6 +90,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -97,7 +98,60 @@
 			"height_pct" "83.66183804322014"
 		}
 	}
-	"store_asset_mtime" "1719514750"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "7e0b3aba1d266f39fd27cb77ce443f84d8ba83e0/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "7e0b3aba1d266f39fd27cb77ce443f84d8ba83e0/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "d5520c36db64f417f8b7f4c6c2998fd01edb81ac/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "d5520c36db64f417f8b7f4c6c2998fd01edb81ac/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "c006e56c6badb691ceb391f10c7a030d93853099/logo.png"
+			}
+			"image2x"
+			{
+				"english" "c006e56c6badb691ceb391f10c7a030d93853099/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "89.03150525087516"
+				"height_pct" "83.66183804322014"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "df3a8ecfe2f66dd3e3927fcc2dc00d5fd604fb3f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "df3a8ecfe2f66dd3e3927fcc2dc00d5fd604fb3f/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727710482"
 	"associations"
 	{
 		"0"
@@ -226,9 +280,9 @@
 		{
 			"public"
 			{
-				"gid" "5585877108431998847"
-				"size" "291680646"
-				"download" "106133792"
+				"gid" "8294851976033186130"
+				"size" "292940502"
+				"download" "106786688"
 			}
 		}
 		"encryptedmanifests"
@@ -245,12 +299,6 @@
 				"size" "D1239E4CB3D1BFAD395A8463776F96C1"
 				"download" "58BE36ECC972B1609132B3966A9B5936"
 			}
-			"shipping"
-			{
-				"gid" "C465EC58917F25D5BD678D7DFD1D6414"
-				"size" "4B972CE2A2F817C6EAC7403415585C9C"
-				"download" "95B15AA92FBCB0772E4EFAA064C0D916"
-			}
 			"testing"
 			{
 				"gid" "CB5B5B3F69296B9B9053AEA61931F5BA"
@@ -263,14 +311,20 @@
 				"size" "6E9910FAEE92ADC98198FDEE79FCE974"
 				"download" "E8120149322BA53675FE39B80179433F"
 			}
+			"shipping"
+			{
+				"gid" "5C3476A464640C1A771708C6DC9FA0E4"
+				"size" "95682E5802E1D710D4951EB9ADE0ECC8"
+				"download" "11C02BDE6DEA7322BCC857A9846517FB"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15081047"
-			"timeupdated" "1721338326"
+			"buildid" "16147068"
+			"timeupdated" "1730135349"
 		}
 		"extraoptions"
 		{
@@ -284,12 +338,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1697489516"
 		}
-		"shipping"
-		{
-			"buildid" "12446925"
-			"pwdrequired" "1"
-			"timeupdated" "1697465349"
-		}
 		"testing"
 		{
 			"buildid" "12460667"
@@ -301,6 +349,12 @@
 			"buildid" "15023047"
 			"pwdrequired" "1"
 			"timeupdated" "1720873864"
+		}
+		"shipping"
+		{
+			"buildid" "16147068"
+			"pwdrequired" "1"
+			"timeupdated" "1729841301"
 		}
 	}
 }
@@ -322,3 +376,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25935522"
+"_sha" "204a1b46d462087d275ed3f2d5b6a804a8fd3d3e"
+"_size" "7110"
