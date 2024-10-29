@@ -20,6 +20,55 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726876800"
+		"tested_build_id" "15288239"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -47,6 +96,76 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "75.67094515752623"
 			"height_pct" "97.72025647114698"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "75.67094515752623"
+				"height_pct" "97.72025647114698"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1722568233"
@@ -167,9 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "458475882410389815"
-				"size" "6351113121"
-				"download" "935437120"
+				"gid" "630213369123331357"
+				"size" "6390422385"
+				"download" "937842256"
 			}
 		}
 		"encryptedmanifests"
@@ -182,9 +301,9 @@
 			}
 			"gametest"
 			{
-				"gid" "E0091BD7BB79452A468EE49F1BFF9A29"
-				"size" "74BA7553FCCF4270ADB734A5AC64E0EA"
-				"download" "D23BBA2644B5B3155B3DCABD82A41EC0"
+				"gid" "6B76EBE6894F1694BC149F9D0280933F"
+				"size" "60D3FCB417C30007F593C7294BACAB99"
+				"download" "5EE66BAD0668C3D31D8043C206E45A95"
 			}
 		}
 	}
@@ -192,8 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "15357042"
-			"timeupdated" "1724403896"
+			"buildid" "16206618"
+			"timeupdated" "1730169135"
 		}
 		"gaimi2077"
 		{
@@ -203,13 +322,9 @@
 		}
 		"gametest"
 		{
-			"buildid" "15357042"
+			"buildid" "16168396"
 			"pwdrequired" "1"
-			"timeupdated" "1723563463"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
+			"timeupdated" "1729787903"
 		}
 	}
 }
@@ -228,6 +343,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24910183"
-"_sha" "c0b5d27de1767291566cc76017c5fcfb335ec0d3"
-"_size" "4121"
+"_change_number" "25942856"
+"_sha" "b373b56119f098a71d9154249633fd3dd28fad56"
+"_size" "6981"
