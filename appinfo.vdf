@@ -97,7 +97,49 @@
 			"height_pct" "33.282675547374254"
 		}
 	}
-	"store_asset_mtime" "1619770129"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "37.8879813302217"
+				"height_pct" "33.282675547374254"
+			}
+		}
+	}
+	"store_asset_mtime" "1718610692"
 	"associations"
 	{
 		"0"
@@ -108,12 +150,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Assemble Entertainment"
+			"name" "Pixelsplit"
 		}
 		"2"
 		{
-			"type" "publisher"
-			"name" "WhisperGames"
+			"type" "franchise"
+			"name" "Deadly Days"
 		}
 	}
 	"primary_genre" "23"
@@ -132,6 +174,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -193,8 +236,8 @@
 		"0" "492"
 		"1" "19"
 		"2" "3959"
-		"3" "9"
-		"4" "597"
+		"3" "597"
+		"4" "9"
 		"5" "42804"
 		"6" "1659"
 		"7" "3964"
@@ -217,7 +260,7 @@
 "extended"
 {
 	"developer" "Pixelsplit"
-	"publisher" "Assemble Entertainment"
+	"publisher" "Pixelsplit"
 }
 "config"
 {
@@ -271,20 +314,32 @@
 				"size" "0"
 				"download" "0"
 			}
+			"v160"
+			{
+				"gid" "1185452715851821812"
+				"size" "0"
+				"download" "0"
+			}
+			"v170"
+			{
+				"gid" "1185452715851821812"
+				"size" "0"
+				"download" "0"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"internal"
-			{
-				"gid" "70C93B71241B503595842B1E01BD009E"
-				"size" "8FADE426B23235A1FEEA151A49E72300"
-				"download" "8FADE426B23235A1FEEA151A49E72300"
-			}
 			"rcqa"
 			{
 				"gid" "E524FC7E71720291536409B56EA60875"
 				"size" "DD900857197FBA98C25066C0BF8CBC95"
 				"download" "DD900857197FBA98C25066C0BF8CBC95"
+			}
+			"internal"
+			{
+				"gid" "70C93B71241B503595842B1E01BD009E"
+				"size" "8FADE426B23235A1FEEA151A49E72300"
+				"download" "8FADE426B23235A1FEEA151A49E72300"
 			}
 		}
 	}
@@ -298,9 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "2009403610370957547"
-				"size" "588352346"
-				"download" "148012592"
+				"gid" "3413863172202996726"
+				"size" "600580244"
+				"download" "149477312"
 			}
 			"pre_reboot"
 			{
@@ -308,20 +363,32 @@
 				"size" "188944900"
 				"download" "58160624"
 			}
+			"v160"
+			{
+				"gid" "2009403610370957547"
+				"size" "588352346"
+				"download" "148012592"
+			}
+			"v170"
+			{
+				"gid" "3413863172202996726"
+				"size" "600580244"
+				"download" "149477312"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"internal"
-			{
-				"gid" "1B66E10AF8F87A481D01CFC176A398C3"
-				"size" "36D84F60AA2B0C5F51D45C45E69FB2A0"
-				"download" "87E07DAFCCB199C1D7ADBE09FFA1810C"
-			}
 			"rcqa"
 			{
 				"gid" "D4305E23254C12ACFE8C67ACBC3238A2"
 				"size" "37B77ED6EC089290BAB22F3DA00D52F0"
 				"download" "696D790C81BE814D181C8A8ACFB8A4CE"
+			}
+			"internal"
+			{
+				"gid" "F7F82034909302A1E32B6F13902B23D7"
+				"size" "CFA6FCA4BE257597F3179EEB1BE0BBB9"
+				"download" "9DF04B3474AFFEF4EEDBCC499271B92C"
 			}
 		}
 	}
@@ -335,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "7989612782280208323"
-				"size" "611234989"
-				"download" "151504000"
+				"gid" "1301258407377145600"
+				"size" "623517450"
+				"download" "152959120"
 			}
 			"pre_reboot"
 			{
@@ -345,20 +412,32 @@
 				"size" "252573471"
 				"download" "70229760"
 			}
+			"v160"
+			{
+				"gid" "7989612782280208323"
+				"size" "611234989"
+				"download" "151504000"
+			}
+			"v170"
+			{
+				"gid" "1301258407377145600"
+				"size" "623517450"
+				"download" "152959120"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"internal"
-			{
-				"gid" "8DBB487B69F9147CEEE407D8D105A955"
-				"size" "97FBB9C6CFE921181D956DFE0FF5FB0C"
-				"download" "0395014309A059019D2EEB158C1382E9"
-			}
 			"rcqa"
 			{
 				"gid" "FF0F12A2AA3F9D235111A10F9C16D7D3"
 				"size" "B8F39A01C6E70BD5BF9D675E0D4181C0"
 				"download" "36473074B65D2D7D1ED9630B65F2B991"
+			}
+			"internal"
+			{
+				"gid" "16C7EFB2B4433373CBD391033E30D8D1"
+				"size" "A65DE5FE933BB537D2F536B7EAD569F8"
+				"download" "C5FE7781AF78C34F4409325EAE648CBA"
 			}
 		}
 	}
@@ -372,9 +451,9 @@
 		{
 			"public"
 			{
-				"gid" "8444141628147387803"
-				"size" "585874271"
-				"download" "147502192"
+				"gid" "7952287022989220917"
+				"size" "590651970"
+				"download" "147400224"
 			}
 			"pre_reboot"
 			{
@@ -382,20 +461,32 @@
 				"size" "241754033"
 				"download" "69824544"
 			}
+			"v160"
+			{
+				"gid" "8444141628147387803"
+				"size" "585874271"
+				"download" "147502192"
+			}
+			"v170"
+			{
+				"gid" "7952287022989220917"
+				"size" "590651970"
+				"download" "147400224"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"internal"
-			{
-				"gid" "A60C8D0A773F28E8937C5257231AB014"
-				"size" "A3A8E3CCA38670CCFB1BCFE430FB2D82"
-				"download" "7E2DA5D5B2640BEF6DE8C7A4B5825C2F"
-			}
 			"rcqa"
 			{
 				"gid" "5FC8C9CBAAE4F3A82DFF89F88EA7F1C6"
 				"size" "A1CC88E88F56E62ECBD40DB41C3F4E94"
 				"download" "446FC688159DE7A6B9990F24F83EC99B"
+			}
+			"internal"
+			{
+				"gid" "050BB5EB62EF25B1EEEBA409B200AA18"
+				"size" "B88E7481E115302C9178A9FB2A8283FA"
+				"download" "2B82142B64E5253EB0D71BD29F707F7F"
 			}
 		}
 	}
@@ -403,14 +494,8 @@
 	{
 		"public"
 		{
-			"buildid" "6432988"
-			"timeupdated" "1616766138"
-		}
-		"internal"
-		{
-			"buildid" "6432988"
-			"pwdrequired" "1"
-			"timeupdated" "1616600950"
+			"buildid" "16167343"
+			"timeupdated" "1730143256"
 		}
 		"pre_reboot"
 		{
@@ -422,6 +507,24 @@
 			"buildid" "4180068"
 			"pwdrequired" "1"
 			"timeupdated" "1568052947"
+		}
+		"internal"
+		{
+			"buildid" "16167343"
+			"pwdrequired" "1"
+			"timeupdated" "1729782570"
+		}
+		"v160"
+		{
+			"buildid" "6432988"
+			"description" "V1.6"
+			"timeupdated" "1729782593"
+		}
+		"v170"
+		{
+			"buildid" "16167343"
+			"description" "V1.7"
+			"timeupdated" "1730143216"
 		}
 	}
 }
@@ -473,25 +576,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#noice" "Noice!"
-				"#enjoyingjazzinmenu" "Enjoying some jazz"
-				"#dayxintheapocalypse" "%LOCATION% - Day %DAY% in the apocalypse"
-				"#savingtheworld" "Saving the world (at day %DAY%)"
-				"#savedtheworld" "Saved the world! %SCORE% points"
-				"#eatenalive" "Got eaten alive - but scored %SCORE% points"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "21457029"
-"_sha" "5f2f965937a3bcba0b4d29fa23cd993006fb7c61"
-"_size" "8877"
+"_change_number" "25937589"
+"_sha" "2a2a62ae2ec91f059a8880d697f1112573d056ce"
+"_size" "10142"
