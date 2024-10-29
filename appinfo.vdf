@@ -36,6 +36,10 @@
 		"brazilian" "1"
 		"ukrainian" "1"
 	}
+	"name_localized"
+	{
+		"schinese" "午夜猎魂"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -88,6 +92,52 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "24.691804594913307"
 			"height_pct" "59.55483895026536"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.691804594913307"
+				"height_pct" "59.55483895026536"
+			}
 		}
 	}
 	"store_asset_mtime" "1710931692"
@@ -187,8 +237,8 @@
 		"0" "3859"
 		"1" "3993"
 		"2" "5711"
-		"3" "1775"
-		"4" "10808"
+		"3" "10808"
+		"4" "1775"
 		"5" "1663"
 		"6" "3839"
 		"7" "19"
@@ -327,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "3537421126095038392"
-				"size" "14445500178"
-				"download" "11736267904"
+				"gid" "4297568587886486507"
+				"size" "14625886409"
+				"download" "11894787520"
 			}
 		}
 		"encryptedmanifests"
@@ -396,9 +446,9 @@
 			}
 			"internal"
 			{
-				"gid" "3504094796330643DBAF33F7C43DD05F"
-				"size" "EF32A5FD3206DF66052988D51B8FF6E3"
-				"download" "B15333CCA804B086C7903BAAE7DC89AE"
+				"gid" "F3329CF2F5154B629365245FC44679EE"
+				"size" "3FAE4408F0D80555C261F16DD2086315"
+				"download" "D353B93704D234FAFC0EA024155CCC96"
 			}
 			"pingle2"
 			{
@@ -432,9 +482,9 @@
 			}
 			"sharingiscaring"
 			{
-				"gid" "1A04EA9E9A98622EEE815B0647741B57"
-				"size" "73C78851A9F2FF319F778F779C9D535C"
-				"download" "910F06A3CD46D937FBB41137BA4485D3"
+				"gid" "287376F578D36D73FBE60BFCE0C3AB3F"
+				"size" "73612F37D8E3F10577CE468F48BD60AB"
+				"download" "80029034B4FDA8D4F00B99F051811CFF"
 			}
 			"sketest"
 			{
@@ -448,8 +498,8 @@
 	{
 		"public"
 		{
-			"buildid" "15337569"
-			"timeupdated" "1723482076"
+			"buildid" "16197774"
+			"timeupdated" "1730134882"
 		}
 		"actest"
 		{
@@ -513,9 +563,9 @@
 		}
 		"internal"
 		{
-			"buildid" "15337569"
+			"buildid" "16197774"
 			"pwdrequired" "1"
-			"timeupdated" "1723482052"
+			"timeupdated" "1730134846"
 		}
 		"pingle2"
 		{
@@ -549,15 +599,15 @@
 		}
 		"sharingiscaring"
 		{
-			"buildid" "15337569"
+			"buildid" "16197774"
 			"pwdrequired" "1"
-			"timeupdated" "1723480813"
+			"timeupdated" "1730040820"
 		}
 		"sketest"
 		{
 			"buildid" "15337569"
 			"pwdrequired" "1"
-			"timeupdated" "1723434270"
+			"timeupdated" "1730145841"
 		}
 	}
 }
@@ -580,24 +630,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status" "%TEAM% in %MAP% %LOBBY_COUNT%/%LOBBY_MAX%"
-				"#mainmenu" "MainMenu"
-				"#waitingforplayers" "MainMenu: %LOBBY_COUNT%/%LOBBY_MAX%"
-				"#tutorial_hunter" "Playing Hunter Tutorial"
-				"#tutorial_ghost" "Playing Ghost Tutorial"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24753488"
-"_sha" "24c7276035e7b8d6ceb55cb328cdebbe2dcccea8"
-"_size" "11982"
+"_change_number" "25938248"
+"_sha" "50f49a60527cbe177e343df5279c2d3951642fff"
+"_size" "12507"
