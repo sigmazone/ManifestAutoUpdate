@@ -138,6 +138,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1726708109"
 	"community_visible_stats" "1"
@@ -159,13 +164,15 @@
 		"11" "9551"
 	}
 	"review_score" "5"
-	"review_percentage" "48"
+	"review_percentage" "49"
 }
 "extended"
 {
 	"developer" "LuLuDu Tech Co. Ltd."
 	"publisher" "LuLuDu Tech Co. Ltd."
 	"homepage" "https://ttao.icantw.com/official"
+	"listofdlc" "3285250"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -196,24 +203,24 @@
 		{
 			"public"
 			{
-				"gid" "5562159035167190620"
-				"size" "18341850003"
-				"download" "7130437712"
+				"gid" "5018465682918079220"
+				"size" "18458252109"
+				"download" "7230924848"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha01"
 			{
-				"gid" "F0A34C5FD976274CC82C94C22B573250"
-				"size" "F78FBF1ED7F51A6C9EA281AE46A9C5BC"
-				"download" "683EF421F361B55FB1AFEBB854561B29"
+				"gid" "959B69C40FE64F5C2026168DBFCC8021"
+				"size" "743AA82B68253A25CB8B916E8529BF95"
+				"download" "43E1CD680876C8086E9B746EEBFBBC0F"
 			}
 			"alpha02-dlc-halloween"
 			{
-				"gid" "6146EE8285BDA9DFE29ACD72B0353685"
-				"size" "340113F5C35381A2B4871E5289FB7444"
-				"download" "CCD6F897389053C1AC88991F0F5C522D"
+				"gid" "ADEECD20AADD7B9AA0998DEEB0177566"
+				"size" "E2E3C22A017F16422C0C835B660D24BE"
+				"download" "DD35A3222F0E27637BEF5FE97DA561F7"
 			}
 		}
 	}
@@ -224,25 +231,49 @@
 		{
 			"oslist" "windows"
 		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4309652001447605620"
+				"size" "917073664"
+				"download" "302278064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha01"
+			{
+				"gid" "64C1D36875128824F9B5166BB7F9CEEE"
+				"size" "1C825BFB31414C9226D9C62CF2ACBB91"
+				"download" "7B14F56E8AEBD9C1C032FC04694F1C9B"
+			}
+			"alpha02-dlc-halloween"
+			{
+				"gid" "53429537D981571F00507CA5562EF9D2"
+				"size" "5522ABE3F6AA93FF73CEEF8B8C0A2853"
+				"download" "46B1A6C0DCC99A553F59247AAA0D0357"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16064133"
-			"timeupdated" "1729077980"
+			"buildid" "16178537"
+			"timeupdated" "1730174500"
 		}
 		"alpha01"
 		{
-			"buildid" "16064133"
+			"buildid" "16178537"
 			"pwdrequired" "1"
-			"timeupdated" "1729074031"
+			"timeupdated" "1729849790"
 		}
 		"alpha02-dlc-halloween"
 		{
-			"buildid" "16077447"
+			"buildid" "16134934"
 			"pwdrequired" "1"
-			"timeupdated" "1729151781"
+			"timeupdated" "1729593212"
 		}
 	}
 }
@@ -262,6 +293,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25762388"
-"_sha" "01a85d1e7b86eb7bdfb1532fc0b000281fd28cfd"
-"_size" "4358"
+"_change_number" "25943789"
+"_sha" "3086ded489940241a1df52a2fea28d405518fbeb"
+"_size" "5016"
