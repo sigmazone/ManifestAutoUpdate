@@ -225,7 +225,7 @@
 		"19" "5851"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "49"
 }
 "extended"
 {
@@ -244,7 +244,7 @@
 		"0"
 		{
 			"executable" "start_protected_game.exe"
-			"arguments" "-env ptr -login steam"
+			"arguments" "-env ptr -dx12 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -260,7 +260,7 @@
 		"2"
 		{
 			"executable" "start_protected_game.exe"
-			"arguments" "-env ptr -dx12 -login steam"
+			"arguments" "-env ptr -dx11 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -269,25 +269,9 @@
 			}
 			"description_loc"
 			{
-				"english" "Stormgate - DX12 Preview"
+				"english" "Stormgate - DX11"
 			}
-			"description" "Stormgate - DX12 Preview"
-		}
-		"4"
-		{
-			"executable" "start_protected_game.exe"
-			"arguments" "-env ptr -localrollback 0 -dx11 -login steam"
-			"type" "option1"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "Stormgate - Rollback Disabled (Low Spec PCs)"
-			}
-			"description" "Stormgate - Rollback Disabled (Low Spec PCs)"
+			"description" "Stormgate - DX11"
 		}
 		"5"
 		{
@@ -318,21 +302,6 @@
 				"english" "Stormgate - Stage + DX12"
 			}
 			"description" "Stormgate - Stage + DX12"
-		}
-		"7"
-		{
-			"executable" "start_protected_game.exe"
-			"arguments" "-env stage -localrollback 0 -dx11 -login steam"
-			"type" "option1"
-			"config"
-			{
-				"betakey" "staging_cinnamon"
-			}
-			"description_loc"
-			{
-				"english" "Stormgate - Stage + Rollback Disabled"
-			}
-			"description" "Stormgate - Stage + Rollback Disabled"
 		}
 		"8"
 		{
@@ -406,24 +375,24 @@
 		{
 			"public"
 			{
-				"gid" "2753982442973883222"
-				"size" "9348852240"
-				"download" "7992972656"
+				"gid" "5756260667612298155"
+				"size" "9892920447"
+				"download" "8554563840"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dev_fetch_old_build"
 			{
-				"gid" "E9EF0307680073387F51291AC2C97DA7"
-				"size" "8F15E6598660E09AB0A05A55709895E7"
-				"download" "2328A1C0D59E667EE2A4BB10B391769E"
+				"gid" "D8D5AD2C05CFD74E1633DD9599F1E62D"
+				"size" "096811361B33DEDF7B907938A173FAC9"
+				"download" "0D61A4A9AA9C379BD940F3E68F65D196"
 			}
 			"localization_testing"
 			{
-				"gid" "F661808B2CC9554FDB50724571D388A5"
-				"size" "D2AC31217E7EEECFE2FCDDFF4856ECB0"
-				"download" "06D4F1074EC0636FE411BAAC3A393848"
+				"gid" "50583274656CAF1D90CEF76B716F38B2"
+				"size" "53757CE43FF05416754AC635F5624630"
+				"download" "BF1178E0F6B35823A89B9FC5B666670D"
 			}
 			"prod_automated"
 			{
@@ -433,9 +402,9 @@
 			}
 			"staging_cinnamon"
 			{
-				"gid" "0A1FC0D16ED851DE040C8473807C8712"
-				"size" "E852B5579FC0CE2B0784D954A55BE4D6"
-				"download" "902AFA15CE9E5170988FA09D17D99F61"
+				"gid" "D20A46BEE3A4E84CF815A0EDBC9F77C9"
+				"size" "7F1B2124F91A84BF5A6C7EBBFCFBAE8C"
+				"download" "09EA4F0E73AACE1C60F00AAF3736D4E4"
 			}
 		}
 	}
@@ -443,20 +412,20 @@
 	{
 		"public"
 		{
-			"buildid" "15923490"
-			"timeupdated" "1728009057"
+			"buildid" "16173311"
+			"timeupdated" "1730223168"
 		}
 		"dev_fetch_old_build"
 		{
-			"buildid" "15765029"
+			"buildid" "16070162"
 			"pwdrequired" "1"
-			"timeupdated" "1727986539"
+			"timeupdated" "1729127856"
 		}
 		"localization_testing"
 		{
-			"buildid" "15671756"
+			"buildid" "16173311"
 			"pwdrequired" "1"
-			"timeupdated" "1726110471"
+			"timeupdated" "1730142916"
 		}
 		"prod_automated"
 		{
@@ -466,9 +435,13 @@
 		}
 		"staging_cinnamon"
 		{
-			"buildid" "15923490"
+			"buildid" "16173311"
 			"pwdrequired" "1"
-			"timeupdated" "1728002444"
+			"timeupdated" "1729817771"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25955876"
+"_sha" "de5da5cf1d38f82febd76a523c2a63c24575db95"
+"_size" "8042"
