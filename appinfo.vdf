@@ -1,0 +1,152 @@
+"appid" "2553940"
+"common"
+{
+	"name" "JR EAST Train Simulator: Joban Line (Shinagawa to  Katsuta) E531-0 series"
+	"type" "DLC"
+	"parent" "2111630"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "JR東日本トレインシミュレータ: 常磐線 (品川 → 勝田) E531系0番代"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1693228424"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ONGAKUKAN Co.,Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "East Japan Railway Company"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "JR EAST Train Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1693297167"
+	"gameid" "2553940"
+	"store_tags"
+	{
+		"0" "599"
+	}
+	"review_score" "7"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"dlcforappid" "2111630"
+	"mustownapptopurchase" "2111630"
+	"developer" "ONGAKUKAN Co.,Ltd."
+	"publisher" "East Japan Railway Company"
+	"homepage" "https://www.jreast.co.jp/simulator/"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2553941"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8211329858434047305"
+				"size" "481777360"
+				"download" "333997376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testplay"
+			{
+				"gid" "54510A18210F09EDA37AEEB0D9DD5CD7"
+				"size" "3227142B893F231FF695B8558DCA2F3F"
+				"download" "7FEE26037D7A1D197743DADE94BB45F1"
+			}
+		}
+		"dlcappid" "2553940"
+	}
+	"2553942"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8078123158543378470"
+				"size" "30445163168"
+				"download" "30861716832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testplay"
+			{
+				"gid" "80E85E3849EF34DA8F7F53B1F69C3C7C"
+				"size" "5D448C82A72FFA751F0936AD255B7446"
+				"download" "489EC5912C1FFC946AF10C3E2D0BD9A8"
+			}
+		}
+		"dlcappid" "2553940"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16214079"
+			"timeupdated" "1730183337"
+		}
+		"testplay"
+		{
+			"buildid" "16214079"
+			"pwdrequired" "1"
+			"timeupdated" "1730164745"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25945400"
+"_sha" "ac5e5963a194c371c486c56d70c2a912a1ecbf92"
+"_size" "2658"
