@@ -27,6 +27,60 @@
 		"tchinese" "1"
 		"japanese" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727740800"
+		"tested_build_id" "15849824"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -106,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726055283"
+	"store_asset_mtime" "1729161429"
 	"associations"
 	{
 		"0"
@@ -218,7 +272,7 @@
 		"19" "1664"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -272,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "2573627141070750953"
-				"size" "14164558342"
-				"download" "6094928560"
+				"gid" "3037390974482130968"
+				"size" "14208117383"
+				"download" "6108210080"
 			}
 		}
 		"encryptedmanifests"
@@ -299,9 +353,9 @@
 			}
 			"testformedia"
 			{
-				"gid" "8F5F36A52BA931676517E424C07AC36E"
-				"size" "C207F84BDDDA7FDDBAF8C4BA85257A05"
-				"download" "49FA86B6829D28E498DD8021F0259F01"
+				"gid" "E89E61361B50D6EA5BBBD0E4110309CB"
+				"size" "6F0F464A0EF83DB79E55C60AFF6799BE"
+				"download" "43BCA5D110020ACDE946E53B2CE438BD"
 			}
 		}
 	}
@@ -309,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "15849824"
-			"timeupdated" "1727453245"
+			"buildid" "16217267"
+			"timeupdated" "1730198928"
 		}
 		"localization"
 		{
@@ -333,9 +387,9 @@
 		"testformedia"
 		{
 			"sc_schinese" "Test for Develop"
-			"buildid" "15849824"
+			"buildid" "16232977"
 			"pwdrequired" "1"
-			"timeupdated" "1727436997"
+			"timeupdated" "1730273533"
 		}
 	}
 }
@@ -357,3 +411,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25965418"
+"_sha" "e3cbf2bc7861b2bb218a88ddf8f32d2464e31c39"
+"_size" "7697"
