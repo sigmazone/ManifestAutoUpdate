@@ -12,6 +12,13 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"spanish" "1"
+		"schinese" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -163,6 +170,21 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1698771635"
 	"community_visible_stats" "1"
@@ -232,24 +254,24 @@
 		{
 			"public"
 			{
-				"gid" "7694476523424240528"
-				"size" "2744176020"
-				"download" "768776784"
+				"gid" "7731463799121151194"
+				"size" "2779412216"
+				"download" "775596688"
 			}
 			"beta"
 			{
-				"gid" "2281988174031447065"
-				"size" "2770115396"
-				"download" "772706560"
+				"gid" "8678768920035674757"
+				"size" "2779024880"
+				"download" "775439040"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"nightly"
 			{
-				"gid" "03809667E8F0AE7FBA623905569EE572"
-				"size" "1435B65DD971B28523193C21A13516F7"
-				"download" "AAE0D7AB697ABA4AD9942DF0920F3B3B"
+				"gid" "52FA46F972D16A12D725CEE5FF74BF2C"
+				"size" "1BB13B4762951425860A5D18217D075E"
+				"download" "BD3A87D48067F4C12A907EB2965A262A"
 			}
 		}
 	}
@@ -258,20 +280,20 @@
 	{
 		"public"
 		{
-			"buildid" "13266944"
-			"timeupdated" "1706312562"
+			"buildid" "16210427"
+			"timeupdated" "1730144907"
 		}
 		"nightly"
 		{
-			"buildid" "15763087"
+			"buildid" "16210427"
 			"pwdrequired" "1"
-			"timeupdated" "1726784926"
+			"timeupdated" "1730145028"
 		}
 		"beta"
 		{
-			"buildid" "15781557"
+			"buildid" "16211360"
 			"description" "Upcoming updates"
-			"timeupdated" "1726930935"
+			"timeupdated" "1730148145"
 		}
 	}
 }
@@ -291,5 +313,19 @@
 				"1" "Windows"
 			}
 		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Spiral Bound Interactive/You Will Die Here Tonight"
+			"pattern" "*.statistics"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25938732"
+"_sha" "6142b7afdb2ddf47a8c9293d5823516a6891256e"
+"_size" "5931"
