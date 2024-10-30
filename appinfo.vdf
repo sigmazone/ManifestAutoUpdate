@@ -3,14 +3,18 @@
 {
 	"name" "Subside"
 	"type" "Game"
-	"icon" "3dfede592693be8fb04e9b56f89f6c54d0d257b2"
-	"clienttga" "e299e6688845f44cdb30b52e1d5fb6baa3389e76"
-	"clienticon" "35cdb7ffcc856bb1e82eda7937cafd9d57f1c13e"
+	"icon" "96927f345a9e92138fb88dee1102ad2620113d3f"
+	"clienttga" "f38757692deddbe2b66a3cf286b4100da84d582d"
+	"clienticon" "3732dc63d0d5dcae3d491ef492897e5616237708"
 	"releasestate" "released"
 	"openvrsupport" "1"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -43,7 +47,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "70b719eb9e186bf51d3f77d5ee132f88cfec87b7/capsule_231x87.jpg"
+		"english" "b5559de532069837e182439a1f55f14598362964/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -58,8 +62,8 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "25.407023411067698"
-			"height_pct" "42.78252611585945"
+			"width_pct" "23.35340104940198"
+			"height_pct" "20.41709672611148"
 		}
 	}
 	"library_assets_full"
@@ -87,30 +91,34 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "25.407023411067698"
-				"height_pct" "42.78252611585945"
+				"width_pct" "23.35340104940198"
+				"height_pct" "20.41709672611148"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "83b827e37a063455d5f3271607656bea22be0309/library_header.jpg"
+				"english" "1d5141ee39ce770b52f82bd3697df168d0bb12d0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1d5141ee39ce770b52f82bd3697df168d0bb12d0/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729402515"
+	"store_asset_mtime" "1729594996"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "A2D"
+			"name" "A2D Software"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "A2D"
+			"name" "A2D Software"
 		}
 	}
 	"primary_genre" "28"
@@ -121,6 +129,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
 		"category_54" "1"
 		"category_62" "1"
 	}
@@ -169,6 +178,7 @@
 		}
 	}
 	"steam_release_date" "1726570650"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2550040"
 	"onlyvrsupport" "1"
@@ -184,20 +194,20 @@
 		"7" "1654"
 		"8" "4166"
 		"9" "4295"
-		"10" "3942"
-		"11" "4182"
-		"12" "9204"
-		"13" "597"
+		"10" "4182"
+		"11" "3942"
+		"12" "597"
+		"13" "9204"
 		"14" "10235"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "98"
 }
 "extended"
 {
 	"vrheadsetstreaming" "1"
-	"developer" "A2D"
-	"publisher" "A2D"
+	"developer" "A2D Software"
+	"publisher" "A2D Software"
 }
 "config"
 {
@@ -242,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "5394223578199176851"
-				"size" "6404895597"
-				"download" "6241591584"
+				"gid" "63708657531562004"
+				"size" "6408041674"
+				"download" "6244158096"
 			}
 		}
 	}
@@ -253,8 +263,8 @@
 	{
 		"public"
 		{
-			"buildid" "16087645"
-			"timeupdated" "1729203060"
+			"buildid" "16211497"
+			"timeupdated" "1730151782"
 		}
 	}
 }
@@ -273,6 +283,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25805499"
-"_sha" "5e80172e8e756097be3b3c440dc3f2933258c40b"
-"_size" "4673"
+"_change_number" "25958063"
+"_sha" "6028b7e846ca5e4d7201205892fa088425321a34"
+"_size" "4907"
