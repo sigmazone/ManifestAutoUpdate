@@ -1,0 +1,328 @@
+"appid" "2054690"
+"common"
+{
+	"name" "Captain Firehawk and the Laser Love Situation"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "2467d0c7de1cdb1878c7916f14cdc0c6e0d9c802"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "7b577669fe9730251a7cce49999fe44321cb2b1f"
+	"clienttga" "89178cf680d569ef9deab493616fcc9773c3b878"
+	"name_localized"
+	{
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1730246400"
+		"tested_build_id" "16171728"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "2bd3a10157ddb7e41c8272004ad3c42f600ff6f4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729987626"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Portland Caviar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Portland Caviar"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_29" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1707501635"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2054690"
+	"store_tags"
+	{
+		"0" "4085"
+		"1" "12095"
+		"2" "4637"
+		"3" "19"
+		"4" "6650"
+		"5" "1773"
+		"6" "4182"
+		"7" "1774"
+		"8" "4004"
+		"9" "24904"
+		"10" "3799"
+		"11" "4115"
+		"12" "1742"
+		"13" "6815"
+		"14" "9130"
+		"15" "3942"
+		"16" "4255"
+		"17" "4136"
+		"18" "3916"
+		"19" "7208"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Portland Caviar"
+	"publisher" "Portland Caviar"
+	"listofdlc" "3103880"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Captain Firehawk and the Laser Love Situation"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cpt_Firehawk.exe"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"2054691"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "62738201696533901"
+				"size" "3316596602"
+				"download" "687498592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "A8F19918A7FDEAE49D6C03D9C1577790"
+				"size" "5AE85F7AFDAEF0017F4A9C68380494ED"
+				"download" "741230696B274C72B3F29AA65A5F5E17"
+			}
+		}
+	}
+	"3103880"
+	{
+		"dlcappid" "3103880"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4067102929665052652"
+				"size" "89765177"
+				"download" "85969216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C7A5841209CFF6AC7F89C01120069164"
+				"size" "7E7C19A7708655DF707B0AD52473EA6C"
+				"download" "1D0B9DB8F3E363B84E85186911059F0D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16171728"
+			"timeupdated" "1729811994"
+		}
+		"beta"
+		{
+			"buildid" "16171728"
+			"pwdrequired" "1"
+			"timeupdated" "1729806608"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Portland Caviar/Cpt_Firehawk"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3D/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25973577"
+"_sha" "7eb3b45b4db5f0521868ffc0b0a11a33cccd108d"
+"_size" "5639"
