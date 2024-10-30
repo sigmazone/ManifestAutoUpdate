@@ -43,6 +43,70 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729900800"
+		"tested_build_id" "16062422"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"6"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -244,24 +308,22 @@
 	{
 		"0" "19"
 		"1" "21"
-		"2" "1687"
-		"3" "1695"
+		"2" "1695"
+		"3" "4106"
 		"4" "4376"
-		"5" "4106"
+		"5" "122"
 		"6" "4036"
 		"7" "3987"
-		"8" "122"
-		"9" "1697"
-		"10" "4182"
-		"11" "4667"
-		"12" "1742"
-		"13" "4231"
-		"14" "44868"
-		"15" "1721"
-		"16" "4754"
+		"8" "4182"
+		"9" "4231"
+		"10" "1697"
+		"11" "1687"
+		"12" "4667"
+		"13" "1742"
+		"14" "4166"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -312,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "8855360315053951909"
-				"size" "40166587581"
-				"download" "36991917328"
+				"gid" "5116838922666063317"
+				"size" "40149041341"
+				"download" "36982007984"
 			}
 		}
 		"encryptedmanifests"
@@ -344,7 +406,7 @@
 		{
 			"public"
 			{
-				"gid" "2668397545110747151"
+				"gid" "6498603598890717095"
 				"size" "392251603"
 				"download" "360263536"
 			}
@@ -408,7 +470,7 @@
 		{
 			"public"
 			{
-				"gid" "4095682155167964688"
+				"gid" "6111328039693089051"
 				"size" "379767192"
 				"download" "348233792"
 			}
@@ -440,7 +502,7 @@
 		{
 			"public"
 			{
-				"gid" "1412365875193983913"
+				"gid" "4861899127952541273"
 				"size" "377566891"
 				"download" "345830736"
 			}
@@ -472,7 +534,7 @@
 		{
 			"public"
 			{
-				"gid" "4130432807127290562"
+				"gid" "8132513443619807766"
 				"size" "407752585"
 				"download" "376215232"
 			}
@@ -536,7 +598,7 @@
 		{
 			"public"
 			{
-				"gid" "6527293336180581352"
+				"gid" "8901555832474035019"
 				"size" "369286669"
 				"download" "336685888"
 			}
@@ -568,7 +630,7 @@
 		{
 			"public"
 			{
-				"gid" "1791242291951550124"
+				"gid" "6984875896492391369"
 				"size" "393835906"
 				"download" "361336432"
 			}
@@ -624,8 +686,8 @@
 	{
 		"public"
 		{
-			"buildid" "15915091"
-			"timeupdated" "1728570761"
+			"buildid" "16062422"
+			"timeupdated" "1730211052"
 		}
 		"staging"
 		{
@@ -642,6 +704,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25785201"
-"_sha" "17c5f706df76613aec06ed5ba31d0c794a922104"
-"_size" "11649"
+"_change_number" "25952323"
+"_sha" "f4b29d8bf9d0bc49efb34376f777238c93acaaa8"
+"_size" "13211"
