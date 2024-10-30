@@ -320,7 +320,7 @@
 		"19" "1742"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -338,7 +338,7 @@
 	"developer" "Ubisoft"
 	"publisher" "Ubisoft"
 	"homepage" "https://www.ubisoft.com/en-gb/game/the-division"
-	"listofdlc" "2222560,2222570,2222571,2222580,2222730,2225120,2225121,2424600,2424601,2560550,2560560,2927620,2927630,2928970,2928980"
+	"listofdlc" "2222560,2222570,2222571,2222580,2222730,2225120,2225121,2424600,2424601,2560550,2560560,2927620,2927630,2928970,2928980,3182470,3182480,3182490,3182500"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -366,7 +366,7 @@
 		"2"
 		{
 			"executable" "Rogue_x64_Release.exe"
-			"arguments" " -public_key_store_address pks.pc.tctd2.ubisoft.com -public_key_store_port 27015 -proxylist pc-whiskey.tctd2.ubisoft.com -proxylist_port 51000 -online -sdfonly -login_ubiservices -uplay_launcher -retail_frontend -use_public_key_store -retail_certs -startgame -dnatracking -enable_client_tracking -uplay_steam_mode"
+			"arguments" " -public_key_store_address pks.pc.tctd2.ubisoft.com -public_key_store_port 27015 -proxylist pc-xray.tctd2.ubisoft.com -proxylist_port 51000 -online -sdfonly -login_ubiservices -uplay_launcher -retail_frontend -use_public_key_store -retail_certs -startgame -dnatracking -enable_client_tracking -uplay_steam_mode"
 			"type" "default"
 			"config"
 			{
@@ -430,6 +430,22 @@
 			}
 			"description" "boottestbranch"
 		}
+		"8"
+		{
+			"executable" "Rogue_x64_Release.exe"
+			"arguments" " -public_key_store_address pks.pc.tctd2.ubisoft.com -public_key_store_port 27015 -proxylist pc-whiskey.tctd2.ubisoft.com -proxylist_port 51000 -online -sdfonly -login_ubiservices -uplay_launcher -retail_frontend -use_public_key_store -retail_certs -startgame -dnatracking -enable_client_tracking -uplay_steam_mode -enable_mps_debug "
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hotfix-release"
+			}
+			"description_loc"
+			{
+				"english" "Release"
+			}
+			"description" "Release"
+		}
 	}
 	"steamcontrollertemplateindex" "2"
 	"steamdecktouchscreen" "1"
@@ -478,9 +494,9 @@
 		{
 			"public"
 			{
-				"gid" "5608371739449945070"
-				"size" "89176940993"
-				"download" "78531948752"
+				"gid" "3565751425889652077"
+				"size" "86121315775"
+				"download" "76821401632"
 			}
 			"local"
 			{
@@ -497,12 +513,6 @@
 				"size" "3C349D522293EC47116C1B1F3BBEE6B1"
 				"download" "488C5CD88CB7D486CD8377DFA862C847"
 			}
-			"hotfix-release"
-			{
-				"gid" "227883DDB4607B1C8D250F8CF14FC70F"
-				"size" "4BA287B3332AD42796065E465091D57F"
-				"download" "485432FDA3C84CF33A0BA964DDF218B7"
-			}
 			"hotfix-retail"
 			{
 				"gid" "B8966BDD1ADED2DDCE03D7AF6ECC229C"
@@ -517,15 +527,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "A5234CFB4B4680DCD2D907016D1342E4"
-				"size" "45AC67D770C4AD360D5C59B4F835202B"
-				"download" "31F63F51776ED3A658A99553F5F603DE"
+				"gid" "0C384F0AFB16A6019DD70B9E1937A57B"
+				"size" "C3E61796F688079269435CB74D38F376"
+				"download" "05B44699431015F2FC580C13B4831EDC"
+			}
+			"hotfix-release"
+			{
+				"gid" "C863BFA41004B54485B1E264618B2088"
+				"size" "35CA01614F417DF75354AFB149D14A72"
+				"download" "D806E03F1E9EB6E0D3ED7A981F520B74"
 			}
 			"qc-rel"
 			{
-				"gid" "F8A6274ECB3AF0276AB1EA80387234FD"
-				"size" "EA31508F8024F395DFF7B9A925B5EAF0"
-				"download" "68F8449F30B0170B6728798F09E82EA7"
+				"gid" "8540010177265A8E9DF77BCECCA09647"
+				"size" "3EFC415743189F82B66798A581F32A32"
+				"download" "30A6C406CCC45D30D656408BA2D425AD"
 			}
 		}
 	}
@@ -539,9 +555,9 @@
 		{
 			"public"
 			{
-				"gid" "5520874226208779408"
-				"size" "2555973452"
-				"download" "2409975264"
+				"gid" "8858396905954872124"
+				"size" "2565706820"
+				"download" "2419478096"
 			}
 		}
 		"encryptedmanifests"
@@ -551,12 +567,6 @@
 				"gid" "4C4AF998776452EB6AFA05B32F6888A7"
 				"size" "F2DFE73E9A7D9033D3E269068511C5DB"
 				"download" "055DF3AD671177C99580050A4073623B"
-			}
-			"hotfix-release"
-			{
-				"gid" "1D696ED2C608F82439B30AC97E44D3A0"
-				"size" "E52C24F0BC388D1EF77EFB59871D02F0"
-				"download" "B16273D1EB7CC66C1AEF046C3929DCAF"
 			}
 			"hotfix-retail"
 			{
@@ -572,15 +582,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "8E70F7949F0F061EB9047057D5D1DFCE"
-				"size" "A084C8F0E2B7BC2E5F232B62309A0E26"
-				"download" "CB5BE65CF082A6AAB3AC136888040414"
+				"gid" "82FFC28CABD9406ED62029E1418A4C23"
+				"size" "A6F08CD3DE0F0393A5762E2CEB521736"
+				"download" "B2B41FEB5E2845F27C95DDD832D121CC"
+			}
+			"hotfix-release"
+			{
+				"gid" "2F62D478898B9087CC02B181A2311C49"
+				"size" "EAD7626914DD15DC6A1A919C97D0A0AB"
+				"download" "730E69C76EE45707D6ECA7DC0BDFDA06"
 			}
 			"qc-rel"
 			{
-				"gid" "93D5A8DD944ED7958E320F23143C5827"
-				"size" "17984933E68191B8C4EDFBFB61C44B45"
-				"download" "EAEA4D070564918EE7DB2341BD773372"
+				"gid" "C129F81E7D65EFECFBDDB0233AFCAFF0"
+				"size" "DA7E8FDE8EC82ADF0DF2A703508BE8A1"
+				"download" "1D655D4322E1EE81AA6D97E598B4A9A8"
 			}
 		}
 	}
@@ -594,9 +610,9 @@
 		{
 			"public"
 			{
-				"gid" "7425972916340146284"
-				"size" "2653084963"
-				"download" "2532759712"
+				"gid" "2592407620497228062"
+				"size" "2663139244"
+				"download" "2542569136"
 			}
 		}
 		"encryptedmanifests"
@@ -606,12 +622,6 @@
 				"gid" "8C2E2C99004651EF18ADD587713CC7E0"
 				"size" "85FF481C3864996F37F6CFDD210478A3"
 				"download" "E57EB5A9A3060E7BB04A0544BC533273"
-			}
-			"hotfix-release"
-			{
-				"gid" "80CD37DE1E0BC009DC222B152E1669F9"
-				"size" "AFFF9EDB4F3EB5BAD1181654019A4E4B"
-				"download" "B3462A5F126149190ACF8194B95C0531"
 			}
 			"hotfix-retail"
 			{
@@ -627,15 +637,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "F14D0E48F2562DC10FB159C9A655C87E"
-				"size" "7B29B0C97A45CFF30A5ADB678FE66E00"
-				"download" "9C5DD2998A55632DD40BCC9E2A4552C9"
+				"gid" "3CD895285247F8357657FAB26A95973C"
+				"size" "BD1455153DCD33A3E7375966C9E5CE7E"
+				"download" "5BDC5ED05B3363A4F19A03D61BC99EB4"
+			}
+			"hotfix-release"
+			{
+				"gid" "68DFDEDA0898DF55B71AC9333890468A"
+				"size" "9B6FFF75D7C6A3E4470D12735EACA7D8"
+				"download" "AF4B2023D859D8915DC800230CDFE398"
 			}
 			"qc-rel"
 			{
-				"gid" "3CADD75241D9A1C65EE0C67A4F50222A"
-				"size" "0BDCD257A57B3512F27BFDCE7F838795"
-				"download" "53E427C5C5303454F284D6C613DEEC6F"
+				"gid" "4D637090B25D639DDC93714CCC87495B"
+				"size" "5FEE6F4D8C6DDEBD9BCEB367B813151E"
+				"download" "56BF39F40E117FD6AD0B35B7A75A6820"
 			}
 		}
 	}
@@ -649,9 +665,9 @@
 		{
 			"public"
 			{
-				"gid" "1055687539821513112"
-				"size" "2494119791"
-				"download" "2382087040"
+				"gid" "3123156914908635618"
+				"size" "2504316592"
+				"download" "2392047168"
 			}
 		}
 		"encryptedmanifests"
@@ -661,12 +677,6 @@
 				"gid" "F1EAA6A58E3C26F645F41375C9381D13"
 				"size" "56007864254254E4C8E40138ED425996"
 				"download" "32843D2D9943DAD8176D28509450C6C6"
-			}
-			"hotfix-release"
-			{
-				"gid" "DC846AE6220D050401CD9301858A9B52"
-				"size" "4A7D958CAC86C356E2DC8965235577F4"
-				"download" "17865C180DACF10CEF741E7DEF9EE772"
 			}
 			"hotfix-retail"
 			{
@@ -682,15 +692,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "BFF670A9142AD1878E9A4DDDC797F16A"
-				"size" "D88A872A9DD0FA6626B9431445B78BB2"
-				"download" "561C7D8E0D033CF4A75DC3079D2348A3"
+				"gid" "5873FFE0F2B2FC74471B2676B60520A6"
+				"size" "86D170E958194AC0578A134F2F0E4001"
+				"download" "1CD4AC67BF9A85EAAE2CF52C9D87B757"
+			}
+			"hotfix-release"
+			{
+				"gid" "F78F83E6A73175F19D06530588965D1E"
+				"size" "7C1506C8AAC126A1670E4489D5760813"
+				"download" "664531E3FCBBB8D368CBB3C08438B2C9"
 			}
 			"qc-rel"
 			{
-				"gid" "524A387C0F68F6D03B53082F300513F8"
-				"size" "8748F7040FEF5A40EBD338720E4EED57"
-				"download" "B845EBBCFAAF6A630B65DE83AAA438DA"
+				"gid" "69F15913BA434BB3C7DF08A86AE9FC61"
+				"size" "C0A42D2589FE94BBF2DF9DA28EDE1138"
+				"download" "904E8A3EEF3E49878546B4791A26C93B"
 			}
 		}
 	}
@@ -704,9 +720,9 @@
 		{
 			"public"
 			{
-				"gid" "1281982304455948631"
-				"size" "2633460512"
-				"download" "2522029184"
+				"gid" "4047010640835683313"
+				"size" "2643903619"
+				"download" "2532230224"
 			}
 		}
 		"encryptedmanifests"
@@ -716,12 +732,6 @@
 				"gid" "C4E686450FB66FBE1749700CA9DFD6AE"
 				"size" "8928AE82D77F0648D8612DA73DA152D3"
 				"download" "D5ECC75BA9B9326BA7DC39944CD719F4"
-			}
-			"hotfix-release"
-			{
-				"gid" "7FD47F606BD1D2283F36146612DDD9D9"
-				"size" "85CCA3B471084B338F9BD96CB8B15382"
-				"download" "E2748F32DB222C68CCA21B6179044C2D"
 			}
 			"hotfix-retail"
 			{
@@ -737,15 +747,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "B738A0D4F503CAC3171008290F8FBF0C"
-				"size" "D58848D26863CC9F84BEE30E229CE838"
-				"download" "4423BA8533765B4CFA3C2D12234C6A55"
+				"gid" "AB1AD6C5EC22CF899DA8B773D424C0B9"
+				"size" "579884EC2CE8E28C27BAAA6D1DC12E39"
+				"download" "3FA216F222F3E1F100CEBF98C8422888"
+			}
+			"hotfix-release"
+			{
+				"gid" "E7A888D5353C381017B56993DF7F0E84"
+				"size" "D49373E8FD60406367C102BA3FBF7AAB"
+				"download" "5C5675FFEB0AF7B16A91F4B1FE0B59BA"
 			}
 			"qc-rel"
 			{
-				"gid" "934F006E3AB054F0619F778A3E418CE4"
-				"size" "85EAD3DD45F4D910F732047918C1C112"
-				"download" "8351D2E8EBA3ED2350DA07EB3F95D3A9"
+				"gid" "6354EE422F9F13BDE08635B599E0FEE0"
+				"size" "E7CB46B8544CFFF80532A145616FBF70"
+				"download" "D1B06F35C99599F6D8FE545C46640A38"
 			}
 		}
 	}
@@ -759,9 +775,9 @@
 		{
 			"public"
 			{
-				"gid" "5284232392198085409"
-				"size" "2580688972"
-				"download" "2468601280"
+				"gid" "6138956929181075360"
+				"size" "2590586845"
+				"download" "2478265280"
 			}
 		}
 		"encryptedmanifests"
@@ -771,12 +787,6 @@
 				"gid" "13E3DB29F8FDAB338866C2674EAC8104"
 				"size" "81F44CF6E84C6C54E20467C9CDC0CAAC"
 				"download" "2B152D63EABF743109B45124F1E31972"
-			}
-			"hotfix-release"
-			{
-				"gid" "F52217B389DD1801DD7EFA56E6629F2C"
-				"size" "AE15F9043BAFDC91F22438AB712DFB16"
-				"download" "A3728CDA8E512DE3F5130FED0C2171CE"
 			}
 			"hotfix-retail"
 			{
@@ -792,15 +802,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "7EAE2BC356DB0E5314B1647D647A8886"
-				"size" "344C55C984CCE49DB6FD2FDB6E5AAE28"
-				"download" "22934BE9DF479C42286F21A15E84DDA7"
+				"gid" "A7E93E6089E8C004E8C26A4435B5F974"
+				"size" "FF6C75DEA50D21B5F013410E01F7EE4B"
+				"download" "9598F62FF7778E1C262E774F10EDDEA8"
+			}
+			"hotfix-release"
+			{
+				"gid" "C2CDA31B14CC06E2A92878B6372F79DC"
+				"size" "258BB3F19B82C612C0F3C9C337997E0E"
+				"download" "45CFA3A26731FAB9E00B6E9C74C77247"
 			}
 			"qc-rel"
 			{
-				"gid" "9D7D9E28572E8DB92B86452D79C946C7"
-				"size" "607AA5F3425D29315FD53F508114CBC4"
-				"download" "40B4EEA18E21E8CE8831F19B51DA33E9"
+				"gid" "9AAA64AACD1F25B942E9493781FE52EF"
+				"size" "901C49A1C8C48C1D5C478DD51EFD7636"
+				"download" "B55BB6E77260A2F1852178A1B08A19B9"
 			}
 		}
 	}
@@ -814,9 +830,9 @@
 		{
 			"public"
 			{
-				"gid" "256078507832661355"
-				"size" "2509630905"
-				"download" "2398134816"
+				"gid" "8201184341633106749"
+				"size" "2519604066"
+				"download" "2407870912"
 			}
 		}
 		"encryptedmanifests"
@@ -826,12 +842,6 @@
 				"gid" "2F8DD2DD4E55079C046FA4712FBC81C9"
 				"size" "A60B51CAF83507B29653551F8C0CEA54"
 				"download" "808FB650E89CF6F9331FF3E7A29CD371"
-			}
-			"hotfix-release"
-			{
-				"gid" "5C4F41DC419202EB0390EF59AB5DECF7"
-				"size" "F92C73984FBFF07C6700F09FC3BE01D3"
-				"download" "53262B0AF8D0E83ACBB830B4A0F00E12"
 			}
 			"hotfix-retail"
 			{
@@ -847,15 +857,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "2E9DFDD19CF65780CAC9A33226BFEBBD"
-				"size" "1434CA4D65B42984537B4863D1A4A434"
-				"download" "002448B9FBE36A309D183C872706FD46"
+				"gid" "E92ED5BE73BDECDAE96F50F3B1DE774E"
+				"size" "E533E05BC07A8688A67E663FEB3B0407"
+				"download" "91CDF5F0A2BA15229745C9EDF5043D39"
+			}
+			"hotfix-release"
+			{
+				"gid" "204CE060FE64A25E3577C9FB1A3840B7"
+				"size" "645DD094FAACA19A21F1847B3F6FD471"
+				"download" "DE09CF0BF9F10F6286BF5B20A36C2BBC"
 			}
 			"qc-rel"
 			{
-				"gid" "DB3E78A6F4FBF8D48DD2692280EE67CD"
-				"size" "507AB83E1D32CBB09E9214F94EF20339"
-				"download" "763137041896BA71FC3661754FA79A11"
+				"gid" "3F8894F17EA75CEE151F7879C26EA264"
+				"size" "558F0BCDA3A90A92640DFF9C8558B70E"
+				"download" "E95D7642DC46621DBA781514CC1A7517"
 			}
 		}
 	}
@@ -869,9 +885,9 @@
 		{
 			"public"
 			{
-				"gid" "4893608118299889447"
-				"size" "2560822376"
-				"download" "2448406784"
+				"gid" "620603741123232293"
+				"size" "2571002106"
+				"download" "2458359616"
 			}
 		}
 		"encryptedmanifests"
@@ -881,12 +897,6 @@
 				"gid" "E61EAD25D00D995012301A0EEFC2F27C"
 				"size" "F60D55C0FD9C5F61F6E190EA388BA598"
 				"download" "EF769C4CF103240BDC8DD55C8E25DCBE"
-			}
-			"hotfix-release"
-			{
-				"gid" "CA12569B8A701D49B9B682294626A26B"
-				"size" "FD531A2A6C198DB042BDB00D4A5172C7"
-				"download" "33772158E4C956AF6617E39724159EBC"
 			}
 			"hotfix-retail"
 			{
@@ -902,15 +912,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "0ECB8F209BE831728F5F139D5F492EB0"
-				"size" "71ADE1B4359B6BD42ED53EB1E21921F9"
-				"download" "0E740EAB2DBC2CC458A93FB5E10D9073"
+				"gid" "A4FE0B5F46CDD93D0B09A39BBA9C7C95"
+				"size" "241818CCBC0CF0EF006B027F9A079295"
+				"download" "4B6DA7866268FF7A68B0B962E04A8684"
+			}
+			"hotfix-release"
+			{
+				"gid" "5C06DDC2A4658006FAB2F2AB4EFF15FA"
+				"size" "761E444A9899078D35EACCF400DB15DA"
+				"download" "4C262A68F53E7FACB3E2176EF3EE1B6F"
 			}
 			"qc-rel"
 			{
-				"gid" "8E56973F603C365A845B33DCCDC1F5FF"
-				"size" "B9799A456F839B3AA9E59BF0C5ED8BC1"
-				"download" "4426B5322F078BE8D7F7CF7AC85FA191"
+				"gid" "A4CF1F607BCB3B12E423311D08D9F4CA"
+				"size" "42A7876CDF42CA6C9EB978BCFEF06087"
+				"download" "066F50771C80CCE424549F44F7398A25"
 			}
 		}
 	}
@@ -924,9 +940,9 @@
 		{
 			"public"
 			{
-				"gid" "3938824877417778089"
-				"size" "2487113890"
-				"download" "2371422464"
+				"gid" "8232827820663027227"
+				"size" "2496756795"
+				"download" "2380816240"
 			}
 		}
 		"encryptedmanifests"
@@ -936,12 +952,6 @@
 				"gid" "33EFBEBB23702D2438F2D65EEED3AB7A"
 				"size" "E9D76476F709CB1D4AA3548D9A1E61F6"
 				"download" "D9F22FEC5FEF1964948A4E2A48704878"
-			}
-			"hotfix-release"
-			{
-				"gid" "FFA60B82727812E3E705D60EF26F3431"
-				"size" "88A620BE4F7902865ADA47A3697284C1"
-				"download" "4FCFC115EE8E2DBC359975EF351F5C98"
 			}
 			"hotfix-retail"
 			{
@@ -957,15 +967,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "590B178557C17CBA1D86FF90AABFD3C4"
-				"size" "3A765BB98131DF75A93B26B22BFF419D"
-				"download" "0C76BF9C37E108F738889655EF4E964F"
+				"gid" "E3C30A928E519962C8B93A3364EE7C51"
+				"size" "ACEE3ECCF0A71EEEAFC76D2AF8D103BB"
+				"download" "EEC0042BD3289F8D7816B885C92D2D1F"
+			}
+			"hotfix-release"
+			{
+				"gid" "E74A7E89B6DA9A32CC84C855DE4F441A"
+				"size" "C5C27CF2E27E0F27DDE570A7C54C1762"
+				"download" "B9E8B66B90464662EECCBBA6E0B28903"
 			}
 			"qc-rel"
 			{
-				"gid" "2D50F6C3E0BF5BB00591B99D6E9150CA"
-				"size" "238395A9F2828BE2F7E3540485DA0CA2"
-				"download" "EF2A80BF8CC0F71A9DD88608E7D16216"
+				"gid" "F907DFC3ECE4F9DDB3A8379ABF825496"
+				"size" "75D936848953A78648DD6F572BCB1E51"
+				"download" "75FA9C1BFF2E0B9E7F6A5109DE642D12"
 			}
 		}
 	}
@@ -979,9 +995,9 @@
 		{
 			"public"
 			{
-				"gid" "8975156532117312917"
-				"size" "2705418596"
-				"download" "2587062576"
+				"gid" "514067651401114033"
+				"size" "2714822270"
+				"download" "2596247776"
 			}
 		}
 		"encryptedmanifests"
@@ -991,12 +1007,6 @@
 				"gid" "A263EFAE80C48E300BAEAD924C40A46A"
 				"size" "505EEDF6D993C9D46C07B51745190580"
 				"download" "3AEF8870B6CCCA6F1F577E8C5AFDD2A0"
-			}
-			"hotfix-release"
-			{
-				"gid" "BBF9171CEEBD5CEECEB90029ADC35509"
-				"size" "A5E120F6F535E7390F71936A2889B912"
-				"download" "EA213A577D05B49C104F672C55811F3B"
 			}
 			"hotfix-retail"
 			{
@@ -1012,15 +1022,21 @@
 			}
 			"dev-retail"
 			{
-				"gid" "CDFE7A14836820D0B0FA37032C733656"
-				"size" "D64DAC17DB9068823D4FB8E596B5C70A"
-				"download" "6BE5E598DFEC7E09E2D67C974701DD3D"
+				"gid" "368DABD695A07B53F2BC79BE6FC187FB"
+				"size" "DDDA7B02062CB9096E0FF56D4F242B78"
+				"download" "75E7408F35A05182F007505E66DA3011"
+			}
+			"hotfix-release"
+			{
+				"gid" "4B9F998BA5F763378AC94D2393C8499C"
+				"size" "E543445EFADF52053839F92A66954171"
+				"download" "76D35B9D4D79C7D8451904275DFDB4D3"
 			}
 			"qc-rel"
 			{
-				"gid" "D0D7850247D6BC239B2144A508E6A2F3"
-				"size" "A219D46CBF58439CFCD6A37661656FD7"
-				"download" "19137E78B393441DD8E990D7B565AF87"
+				"gid" "7C63CF39286102D07154476CECD4F6A9"
+				"size" "EB24FA8DDB249FF92A5BC9B9B45E7094"
+				"download" "03DF5FD9F55ADE97BA5EAB6E1A6E2F3F"
 			}
 		}
 	}
@@ -1029,20 +1045,14 @@
 	{
 		"public"
 		{
-			"buildid" "15753083"
-			"timeupdated" "1727769517"
+			"buildid" "16077468"
+			"timeupdated" "1730189622"
 		}
 		"boottestbranch"
 		{
 			"buildid" "14147117"
 			"pwdrequired" "1"
 			"timeupdated" "1713883884"
-		}
-		"hotfix-release"
-		{
-			"buildid" "13385937"
-			"pwdrequired" "1"
-			"timeupdated" "1707260351"
 		}
 		"hotfix-retail"
 		{
@@ -1065,15 +1075,25 @@
 		}
 		"dev-retail"
 		{
-			"buildid" "15927269"
+			"buildid" "16217999"
 			"pwdrequired" "1"
-			"timeupdated" "1728041791"
+			"timeupdated" "1730206568"
+		}
+		"hotfix-release"
+		{
+			"buildid" "16077118"
+			"pwdrequired" "1"
+			"timeupdated" "1730214503"
 		}
 		"qc-rel"
 		{
-			"buildid" "15926889"
+			"buildid" "16217887"
 			"pwdrequired" "1"
-			"timeupdated" "1728041727"
+			"timeupdated" "1730206541"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25954825"
+"_sha" "4d714bb75eb653920b3e1fda8a22a7cda84a9869"
+"_size" "24042"
