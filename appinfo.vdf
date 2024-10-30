@@ -27,6 +27,7 @@
 		"czech" "1"
 		"romanian" "1"
 		"brazilian" "1"
+		"ukrainian" "1"
 	}
 	"name_localized"
 	{
@@ -107,7 +108,49 @@
 			"height_pct" "95.40543115105795"
 		}
 	}
-	"store_asset_mtime" "1723568559"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.32156874495895"
+				"height_pct" "95.40543115105795"
+			}
+		}
+	}
+	"store_asset_mtime" "1729963629"
 	"associations"
 	{
 		"0"
@@ -119,6 +162,11 @@
 		{
 			"type" "publisher"
 			"name" "IMGN.PRO"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Juggler Games"
 		}
 	}
 	"primary_genre" "25"
@@ -220,6 +268,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1539093661"
 	"metacritic_score" "69"
@@ -279,7 +332,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,hungarian,czech,romanian,brazilian"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,hungarian,czech,romanian,brazilian,ukrainian"
 	"hasdepotsindlc" "1"
 	"651501"
 	{
@@ -287,24 +340,24 @@
 		{
 			"public"
 			{
-				"gid" "2440731370959634627"
-				"size" "7506188558"
-				"download" "4887000208"
+				"gid" "9050296611108724088"
+				"size" "7595755787"
+				"download" "4913216816"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"beta"
+			{
+				"gid" "DF2D686B20796BC0AFF9603CE70A1924"
+				"size" "8E9012CBE7B2EC9E91B90D215A9A154B"
+				"download" "6200E5DA017694488B3EFE7C7D12F985"
+			}
 			"baseline"
 			{
 				"gid" "08D9FC338A6814EBD916C22CE30E1D6D"
 				"size" "245BA2CE07ADC5BB9F365FB6E6115432"
 				"download" "9E4D2C49279782B9F032D99C4795ACBF"
-			}
-			"beta"
-			{
-				"gid" "C00A31997731F0B72F5E236BDCC19657"
-				"size" "58DCA3436724F34A8BF03137B78E2DD4"
-				"download" "A0E8F378C2C7F0DEB85A2DF200B92ECD"
 			}
 		}
 	}
@@ -326,17 +379,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta"
+			{
+				"gid" "2C11019910A2BD4D309E57A4E279D5A8"
+				"size" "9996C60D9945A22AB4709909F31E64F3"
+				"download" "53C0BA453754089856D94710DB429514"
+			}
 			"baseline"
 			{
 				"gid" "ADB59B13430F9212A65CBE9854321752"
 				"size" "845E4BB76004E59E486D4045A0E8C7F4"
 				"download" "D177FBD0EC0469B13C32D348EDB214ED"
-			}
-			"beta"
-			{
-				"gid" "EB5BBB1383F5AFECF470F18E8194EEB1"
-				"size" "3EC93C5BC1ABB6D70F2E8F7FD12D73FD"
-				"download" "54A43FD8E1728BB1E0EB3D97CED8F50F"
 			}
 		}
 	}
@@ -358,17 +411,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta"
+			{
+				"gid" "687D4044A26013397872279E0DF48AF9"
+				"size" "8F4CF4861DD872FAF402D7130BA7B2D5"
+				"download" "ED912F6D97C9312296A0FD7CDCE20E6B"
+			}
 			"baseline"
 			{
 				"gid" "81B6BB521AC1B44ED1775FA77E55E98D"
 				"size" "43F6CEA48CAF667B1B7272E710D76729"
 				"download" "9DA6D81B9D821E0E0F4FC54CCCB53A3B"
-			}
-			"beta"
-			{
-				"gid" "556E3DCB383AEF3207EBA19B8EB7084C"
-				"size" "7B65E91C6043A146C4A9E651271FA287"
-				"download" "CF5DFB3A882DA0A99BB2670E1537798F"
 			}
 		}
 	}
@@ -376,20 +429,20 @@
 	{
 		"public"
 		{
-			"buildid" "9287832"
-			"timeupdated" "1663594096"
+			"buildid" "16209477"
+			"timeupdated" "1730137887"
+		}
+		"beta"
+		{
+			"buildid" "15809185"
+			"pwdrequired" "1"
+			"timeupdated" "1727186028"
 		}
 		"baseline"
 		{
 			"buildid" "2976096"
 			"pwdrequired" "1"
 			"timeupdated" "1532592313"
-		}
-		"beta"
-		{
-			"buildid" "9287832"
-			"pwdrequired" "1"
-			"timeupdated" "1660128052"
 		}
 	}
 }
@@ -409,3 +462,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25936320"
+"_sha" "f2b81d6f26f00680f99e21c2e5ca96b01d77b2be"
+"_size" "8526"
