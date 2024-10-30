@@ -1,7 +1,7 @@
 "appid" "872670"
 "common"
 {
-	"name" "SCP: 5K - Alpha Testing"
+	"name" "SCP: 5K (Alpha Testing)"
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows"
@@ -99,6 +99,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -112,11 +113,11 @@
 		{
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "7334dbeec127d34f4dbf08a07dd8499092d035c8/library_600x900_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "7334dbeec127d34f4dbf08a07dd8499092d035c8/library_600x900.jpg"
 			}
 		}
 		"library_hero"
@@ -147,8 +148,19 @@
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "79c6ab18d18bba41f7fcacd07173c589ca2df6ca/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "79c6ab18d18bba41f7fcacd07173c589ca2df6ca/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1716257222"
+	"store_asset_mtime" "1730213404"
 	"associations"
 	{
 		"0"
@@ -258,8 +270,8 @@
 		"1" "1685"
 		"2" "1667"
 		"3" "1774"
-		"4" "3859"
-		"5" "1708"
+		"4" "1708"
+		"5" "3859"
 		"6" "1663"
 		"7" "4508"
 		"8" "5765"
@@ -322,9 +334,9 @@
 			}
 			"description_loc"
 			{
-				"english" "DirectX 12 (May be unstable)"
+				"english" "DirectX 12"
 			}
-			"description" "DirectX 12 (May be unstable)"
+			"description" "DirectX 12"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -380,18 +392,18 @@
 		{
 			"public"
 			{
-				"gid" "2940520244528792751"
-				"size" "47531067793"
-				"download" "16816477632"
+				"gid" "8284753755851305854"
+				"size" "34094377534"
+				"download" "10648065856"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "E89EAD5D91C6BBDDFBC79292EE20B7C6"
-				"size" "CDD6642E155A63BDC6BEC7B096E14AFD"
-				"download" "BB34EE4D118A51FDC54AC43223A81A0A"
+				"gid" "21307380E78455EE943BC893D3FFCBA1"
+				"size" "4ECD23140E450FE65DE7A8B4493EF3C4"
+				"download" "25734087BDF9A3C3AEA9522EA56C87BE"
 			}
 			"creator"
 			{
@@ -401,33 +413,39 @@
 			}
 			"ldtest1"
 			{
-				"gid" "C7AFD6C98DEFB73CD4E650F4A8B0484F"
-				"size" "69E494415BD38E949B75BCE7F9CDB7B2"
-				"download" "4DC06A22D9D5F3D1D2E8BB6D8B160668"
+				"gid" "E9EE8EEC0C143EE2E84BC8D80BB34038"
+				"size" "F70C90F94300A9D87126B248C8F4A4E6"
+				"download" "E2CF0169AF399A5E3A5C72E5F23A15FE"
+			}
+			"ldtest2"
+			{
+				"gid" "0CE74069CC68040E8F6B9F0743527823"
+				"size" "23BB0546BECC0FFA1B11A65A010A686B"
+				"download" "CDAE36C0A5AB32C8E1ABA9B8443F863E"
 			}
 			"showcase"
 			{
-				"gid" "9D3D77E955787B49322BBF8C25386B51"
-				"size" "C022835D4B051BD340DF204B223AEA77"
-				"download" "877A145D002D3414513D5EDC7C0524ED"
+				"gid" "E189D38430C8A219774810882614CA42"
+				"size" "F5F89B0651C545C6F757FA0B90870F1E"
+				"download" "9D0A78868C9C186E48610A5E6BA299CE"
 			}
 			"internalqa"
 			{
-				"gid" "BDCD7864BF9F2E58EA7E367AE192441A"
-				"size" "0BDD67BAEBA94C877BB9827C38CE7A46"
-				"download" "99638E3A3B1AB4FD0C0D5A5555A4E8C2"
+				"gid" "E9DCC845FA86966126F2CB544D9C4D53"
+				"size" "7C0B2DA6A4BCBEAD342C0FC374AC0448"
+				"download" "6466B1888B9A8076DEA61B3D3F9D55CA"
 			}
 			"nda-indev"
 			{
-				"gid" "A24AEBDFF90A4EC6CA7DDB553509E0E6"
-				"size" "D551B7593FDAD0803E26DA959E604591"
-				"download" "1C6AE2BCBD7F835E8D1F133305102FAC"
+				"gid" "532DD7F138D7ED0AB1BE5A33114832ED"
+				"size" "1CD770AD55363DA6ACD358E5AF38FC35"
+				"download" "297306915194DDF6E9F48B04C5EFFC1F"
 			}
 			"debug"
 			{
-				"gid" "088F680FC0EFDCFBB37A91BA8A1DC6A7"
-				"size" "D9EF1515F5C974786CC7A53233EF3718"
-				"download" "20DCE74131BF580BE28C7445CE7AF49F"
+				"gid" "287368D40D4BCF81C4DA53E0781566B0"
+				"size" "AF9C130A9EE1B6D9F0FBF095E878E3DD"
+				"download" "1C7ED0AA39039796794691A9AAE258F3"
 			}
 		}
 	}
@@ -443,14 +461,14 @@
 	{
 		"public"
 		{
-			"buildid" "14804123"
-			"timeupdated" "1719495136"
+			"buildid" "16185795"
+			"timeupdated" "1730268070"
 		}
 		"alpha"
 		{
-			"buildid" "15243210"
+			"buildid" "15970598"
 			"pwdrequired" "1"
-			"timeupdated" "1722700466"
+			"timeupdated" "1728556532"
 		}
 		"creator"
 		{
@@ -460,33 +478,39 @@
 		}
 		"ldtest1"
 		{
-			"buildid" "15739908"
+			"buildid" "15898033"
 			"pwdrequired" "1"
-			"timeupdated" "1726650042"
+			"timeupdated" "1727846845"
+		}
+		"ldtest2"
+		{
+			"buildid" "16105488"
+			"pwdrequired" "1"
+			"timeupdated" "1729322836"
 		}
 		"showcase"
 		{
-			"buildid" "15718068"
+			"buildid" "16185795"
 			"pwdrequired" "1"
-			"timeupdated" "1726807080"
+			"timeupdated" "1730134129"
 		}
 		"internalqa"
 		{
-			"buildid" "15718309"
+			"buildid" "16185795"
 			"pwdrequired" "1"
-			"timeupdated" "1726510141"
+			"timeupdated" "1729889089"
 		}
 		"nda-indev"
 		{
-			"buildid" "15718068"
+			"buildid" "16216153"
 			"pwdrequired" "1"
-			"timeupdated" "1726508528"
+			"timeupdated" "1730177634"
 		}
 		"debug"
 		{
-			"buildid" "15535945"
+			"buildid" "16202911"
 			"pwdrequired" "1"
-			"timeupdated" "1724960371"
+			"timeupdated" "1730101746"
 		}
 	}
 }
@@ -527,15 +551,19 @@
 			"root" "WinAppDataLocal"
 			"os" "Linux"
 			"oscompare" "="
-			"useinstead" "LinuxXdgConfigHome"
+			"useinstead" "LinuxHome"
 			"pathtransforms"
 			{
 				"0"
 				{
 					"find" "Pandemic/Saved/SaveGames"
-					"replace" "epic/Pandemic/Saved/SaveGames"
+					"replace" "$HOME/.config/epic/Pandemic/Saved/SaveGames"
 				}
 			}
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25964833"
+"_sha" "4b931455e827a9b6aae3e8a215f59e3cf7dfef63"
+"_size" "10453"
