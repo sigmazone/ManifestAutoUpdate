@@ -97,6 +97,48 @@
 			"height_pct" "64.25829476451523"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32.44494267370891"
+				"height_pct" "64.25829476451523"
+			}
+		}
+	}
 	"store_asset_mtime" "1683110238"
 	"associations"
 	{
@@ -317,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "4578308058124486364"
-				"size" "1397651150"
-				"download" "878189856"
+				"gid" "6882270389281758947"
+				"size" "1397705782"
+				"download" "878207504"
 			}
 			"debug"
 			{
@@ -332,9 +374,9 @@
 		{
 			"private"
 			{
-				"gid" "B343BB7293CDAE6DF7B41D8FC8B2B773"
-				"size" "973DD7E9F0DF0D3414B5C1C2C68E7B1E"
-				"download" "AA609C606F237F20F86D749A3DC6513D"
+				"gid" "38BE2F764ADD9F9403C802E1220432A2"
+				"size" "CC492A0885395F534CE5607CF81E64EF"
+				"download" "770BB96078DC868DD79C892D8024F4AA"
 			}
 		}
 	}
@@ -349,9 +391,9 @@
 		{
 			"public"
 			{
-				"gid" "1138467114472899333"
-				"size" "1420421164"
-				"download" "885353776"
+				"gid" "3458679975610862182"
+				"size" "1420475788"
+				"download" "885371104"
 			}
 			"debug"
 			{
@@ -364,9 +406,9 @@
 		{
 			"private"
 			{
-				"gid" "4FDA03D43AEDCFE60119B9D632FB5E86"
-				"size" "D6D40AE47B8BC993AE8A6412D8445FDB"
-				"download" "56E213C0E5CE069707B2011560AA6723"
+				"gid" "EA88C526F94FCAC300A8DD0CBC397C9D"
+				"size" "14669033AAA429CA42E30D028ABF3FE6"
+				"download" "76F539488B88703E6E46787FD10EE787"
 			}
 		}
 	}
@@ -381,9 +423,9 @@
 		{
 			"public"
 			{
-				"gid" "3525421339060884290"
-				"size" "1451957269"
-				"download" "899096944"
+				"gid" "5731252721718552216"
+				"size" "1452011893"
+				"download" "899113440"
 			}
 			"debug"
 			{
@@ -396,9 +438,9 @@
 		{
 			"private"
 			{
-				"gid" "95655C6B7ECC278866651BAED5B28FC5"
-				"size" "29C6A33896E89F9FCB50DB23C023B3BB"
-				"download" "8BA16F86A917118E4B4FF340D33AEF04"
+				"gid" "A4E402B4A2C2DA59BC2FE0DAD60A6D36"
+				"size" "D34C1660B0DF6075BC2F53BE533F8F93"
+				"download" "E7F123835BC67581315463BF2504F5D5"
 			}
 		}
 	}
@@ -406,8 +448,8 @@
 	{
 		"public"
 		{
-			"buildid" "10454348"
-			"timeupdated" "1675273188"
+			"buildid" "16240521"
+			"timeupdated" "1730309584"
 		}
 		"debug"
 		{
@@ -417,9 +459,9 @@
 		}
 		"private"
 		{
-			"buildid" "10454348"
+			"buildid" "16240521"
 			"pwdrequired" "1"
-			"timeupdated" "1675273106"
+			"timeupdated" "1730309071"
 		}
 	}
 }
@@ -471,93 +513,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#menu" "In the Mage Tower"
-				"#standard" "Exploring the Dungeon - Floor %value_0% - Level %value_1%"
-				"#gauntlet" "Challenging the Gauntlet - Round %value_0% - Level %value_1%"
-				"#endless" "Infinite Dungeon - Floor %value_0% - Level %value_1%"
-				"#daily" "Daily Challenge - Floor %value_0% - Level %value_1%"
-				"#classic" "Ziggurat Trial - Floor %value_0% - Level %value_1%"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#menu" "En la Torre del Mago"
-				"#standard" "Explorando la Mazmorra - Piso %value_0% - Nivel %value_1%"
-				"#gauntlet" "Peleando en la Arena - Ronda %value_0% - Nivel %value_1%"
-				"#endless" "Mazmorra Infinita - Piso %value_0% - Nivel %value_1%"
-				"#daily" "Reto Diario - Piso %value_0% - Nivel %value_1%"
-				"#classic" "Reto del Ziggurat - Piso %value_0% - Nivel %value_1%"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#menu" "魔術師の塔 内部"
-				"#standard" "ダンジョンを探検中 - 階層 %value_0% - レベル %value_1%"
-				"#gauntlet" "ガントレットに挑戦中 - ラウンド %value_0% - レベル %value_1%"
-				"#endless" "無限ダンジョン - 階層 %value_0% - レベル %value_1%"
-				"#daily" "デイリーチャレンジ - 階層 %value_0% - レベル %value_1%"
-				"#classic" "Zigguratの試練 - 階層 %value_0% - レベル %value_1%"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#menu" "Na Torre dos Magos"
-				"#standard" "Explorando a masmorra - Andar %value_0% - Nível %value_1%"
-				"#gauntlet" "Desafiando a Arena - Rodada %value_0% - Nível %value_1%"
-				"#endless" "Masmorra Infinita - Andar %value_0% - Nível %value_1%"
-				"#daily" "Desafio Diário - Andar %value_0% - Nível %value_1%"
-				"#classic" "Prova do Zigurate - Andar %value_0% - Nível %value_1%"
-			}
-		}
-		"czech"
-		{
-			"tokens"
-			{
-				"#menu" "Ve Věži mágů"
-				"#standard" "Prozkoumává Kobku - %value_0%. patro, úroveň %value_1%"
-				"#gauntlet" "Prochází Špalírem - %value_0%. kolo, úroveň %value_1%"
-				"#endless" "Nekonečná kobka - %value_0%. patro, úroveň %value_1%"
-				"#daily" "Denní výzva - %value_0%. patro, úroveň %value_1%"
-				"#classic" "Zkouška zikuratu - %value_0%. patro, úroveň %value_1%"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#menu" "В башне Мага"
-				"#standard" "Изучение Подземелий - Этаж %value_0%"
-				"#gauntlet" "Испытание Вызова - Раунд %value_0%"
-				"#endless" "Бесконечное Подземелье - Этаж %value_0%"
-				"#daily" "Ежедневное Испытание — Этаж %value_0%"
-				"#classic" "Испытание Зиккурата - Этаж %value_0% - Уровень %value_1%"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#menu" "Dans la Tour des mages"
-				"#standard" "Exploration du donjon - Étage %value_0% - Niveau %value_1%"
-				"#gauntlet" "Défi de l\'Arène - Round %value_0% - Niveau %value_1%"
-				"#endless" "Donjon infini - Étage %value_0% - Niveau %value_1%"
-				"#daily" "Défi Quotidien - Étage %value_0% - Niveau %value_1%"
-				"#classic" "Épreuve du Ziggurat - Étage %value_0% - Niveau %value_1%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "25975471"
+"_sha" "c3a4592d85f1ea8f71201cdcec6105c5db6ca72b"
+"_size" "8731"
