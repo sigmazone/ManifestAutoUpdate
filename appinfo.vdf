@@ -26,15 +26,50 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1708387200"
-		"tested_build_id" "12592268"
+		"category" "2"
+		"test_timestamp" "1724803200"
+		"tested_build_id" "14833811"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"6"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -47,7 +82,7 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-2RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -59,8 +94,8 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "e064f5052d0139ccc22b004c39d6ac4bd874db90/capsule_231x87.jpg"
+		"schinese" "be2677d0cf95c6466d5e5217f3fa03525c2972ba/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
@@ -80,7 +115,60 @@
 			"height_pct" "58.23581097126573"
 		}
 	}
-	"store_asset_mtime" "1722864969"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.23220536756127"
+				"height_pct" "58.23581097126573"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cce16218a95df2cbf5c059a5f9a5d0d287ce2d7d/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "cce16218a95df2cbf5c059a5f9a5d0d287ce2d7d/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729786769"
 	"associations"
 	{
 		"0"
@@ -121,6 +209,7 @@
 		"category_38" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_61" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -169,8 +258,8 @@
 		"0" "122"
 		"1" "1754"
 		"2" "1695"
-		"3" "21"
-		"4" "1684"
+		"3" "1684"
+		"4" "21"
 		"5" "3834"
 		"6" "3859"
 		"7" "4182"
@@ -183,8 +272,8 @@
 		"14" "1742"
 		"15" "4486"
 		"16" "4057"
-		"17" "4231"
-		"18" "4155"
+		"17" "4155"
+		"18" "4231"
 		"19" "4166"
 	}
 	"review_score" "8"
@@ -199,7 +288,7 @@
 	"publisher" "Bethesda Softworks"
 	"homepage" "http://www.elderscrollsonline.com"
 	"aliases" "ESO"
-	"listofdlc" "311430,311431,311450,313720,313721,356590,356591,356592,356593,357130,357131,361170,361171,361172,361173,365030,365031,365032,365033,370930,370931,371160,371170,526150,535880,539001,582880,592670,592671,799520,799521,799522,799524,925100,925101,925102,925103,1049240,1205430,1382241,1400970,1754000,1754001,1754002,1754003,2172860,2662630"
+	"listofdlc" "311430,311431,311450,313720,313721,356590,356591,356592,356593,357130,357131,361170,361171,361172,361173,365030,365031,365032,365033,370930,370931,371160,371170,526150,535880,539001,582880,592670,592671,799520,799521,799522,799524,925100,925101,925102,925103,1049240,1205430,1382241,1400970,1754000,1754001,1754002,1754003,2172860,2662630,2986210"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -281,9 +370,9 @@
 		{
 			"public"
 			{
-				"gid" "3023858121403572260"
-				"size" "145451463636"
-				"download" "127426570208"
+				"gid" "2330277769385689566"
+				"size" "146582407740"
+				"download" "128262212208"
 			}
 		}
 		"encryptedmanifests"
@@ -308,9 +397,9 @@
 			}
 			"beta"
 			{
-				"gid" "9C2D5884E68204BAED6AF71953BEF4C9"
-				"size" "18E60CD435E37A4F1E0F6A40387B7FE7"
-				"download" "8F257A8555C57E43E8368BDDC03DB552"
+				"gid" "3878EC26A9D4109A3712323349102126"
+				"size" "3BBED08F8681F5E0EECD29611C0DA80B"
+				"download" "E47FC4185E7FB22CA15220872B487BCB"
 			}
 		}
 	}
@@ -318,8 +407,8 @@
 	{
 		"public"
 		{
-			"buildid" "15397360"
-			"timeupdated" "1724335504"
+			"buildid" "16180846"
+			"timeupdated" "1730383367"
 		}
 		"bluedove"
 		{
@@ -341,13 +430,13 @@
 		}
 		"beta"
 		{
-			"buildid" "15397360"
+			"buildid" "16180846"
 			"pwdrequired" "1"
-			"timeupdated" "1723831454"
+			"timeupdated" "1729861530"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24897765"
-"_sha" "ec844a2d14cdf89efd45805fea7fc893aec3e8b3"
-"_size" "7170"
+"_change_number" "25990378"
+"_sha" "4fa74b4c1b726fea957d0eb08570e3fd8b98db6e"
+"_size" "8996"
