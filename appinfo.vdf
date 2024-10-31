@@ -100,7 +100,49 @@
 			"height_pct" "40.43906171666801"
 		}
 	}
-	"store_asset_mtime" "1721981264"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.583757863931623"
+				"height_pct" "40.43906171666801"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1729748225"
 	"associations"
 	{
 		"0"
@@ -231,7 +273,7 @@
 {
 	"developer" "Arc System Works"
 	"publisher" "Arc System Works"
-	"listofdlc" "1544400,1544401,1544402,1544403,1544404,1544405,1544406,1544407,1544408,1649880,1652890,1652891,1652892,2081050,2081051,2081052,2081053,2081054,2081055,2081056,2410760,2410761,2524030,2524040,2524050,2524060,2524090,2524100,2524110,3060720"
+	"listofdlc" "1544400,1544401,1544402,1544403,1544404,1544405,1544406,1544407,1544408,1649880,1652890,1652891,1652892,2081050,2081051,2081052,2081053,2081054,2081055,2081056,2410760,2410761,2524030,2524040,2524050,2524060,2524070,2524090,2524100,2524110,2524120,3060720"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -285,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "366130497181176529"
-				"size" "27947885738"
-				"download" "26614131040"
+				"gid" "7791594688674356839"
+				"size" "28689412258"
+				"download" "27351211408"
 			}
 		}
 		"encryptedmanifests"
@@ -310,23 +352,17 @@
 				"size" "079BF37B94E7BBC8C78C9EE6D61D0103"
 				"download" "E32376B8C9DD687B269A125409E8EFFC"
 			}
-			"test"
-			{
-				"gid" "FFFE3255FD91F07DD237A0CB69758F6F"
-				"size" "48E4F538CC23A8A115A5E5CF78DFCB29"
-				"download" "5D44CB11621A26553F12214AC7C1ABA8"
-			}
 			"debug"
 			{
-				"gid" "D7C90A869E3B8D153DD27A1079061910"
-				"size" "B297A1263B409286D01BA31A57F54542"
-				"download" "0CAC4E56AB2305108415ECFA215A0073"
+				"gid" "A8BF56D9261923582AF5F1F2292448DE"
+				"size" "7F8BC671D390522F367B735EE8E26D44"
+				"download" "5FC346160E57106075686459EE9EE49D"
 			}
 			"debug2"
 			{
-				"gid" "2AB47D2DBE63455B132AC0D40D5268B5"
-				"size" "905BF4F5A13E8939CCAB61911153BF1A"
-				"download" "830CD7F3FFDC28185AF5D3F9E5C7E55A"
+				"gid" "4981CFD10173C80E5F538724F9C0A35A"
+				"size" "69FE3450E3DAC6280B8A8AD2D44D2097"
+				"download" "A88EEBD7E609C02C6CFE049603C1DADC"
 			}
 			"hayashi_test"
 			{
@@ -336,9 +372,15 @@
 			}
 			"release"
 			{
-				"gid" "7C345CDF5338D3EA2A95BA136AC36E7D"
-				"size" "FEACC6E60B5C4012C25875F3B9588FB8"
-				"download" "F68CCA45C92EAEF48A5E9A7DF14E4D0B"
+				"gid" "489B4CD79D0E8DA0093C60626F9D9CCF"
+				"size" "6BB6B867B12FD4521C10C016E62E7573"
+				"download" "57916BA38C00127523E9CD425C3A554D"
+			}
+			"test"
+			{
+				"gid" "FA5625F3C6E2B15C212B1E30898F772A"
+				"size" "66622E4CF80C3A4FAA56C28A35E9F7CA"
+				"download" "79EAA51D31A5B6431C1062EF67015056"
 			}
 		}
 	}
@@ -347,8 +389,8 @@
 	{
 		"public"
 		{
-			"buildid" "15201854"
-			"timeupdated" "1723103994"
+			"buildid" "15874775"
+			"timeupdated" "1730359856"
 		}
 		"steamevaluation"
 		{
@@ -368,23 +410,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1622514959"
 		}
-		"test"
-		{
-			"buildid" "6826380"
-			"pwdrequired" "1"
-			"timeupdated" "1625032175"
-		}
 		"debug"
 		{
-			"buildid" "15203184"
+			"buildid" "15876094"
 			"pwdrequired" "1"
-			"timeupdated" "1722389060"
+			"timeupdated" "1727748947"
 		}
 		"debug2"
 		{
-			"buildid" "14826970"
+			"buildid" "16160302"
 			"pwdrequired" "1"
-			"timeupdated" "1719291297"
+			"timeupdated" "1729745157"
 		}
 		"hayashi_test"
 		{
@@ -394,9 +430,15 @@
 		}
 		"release"
 		{
-			"buildid" "15201854"
+			"buildid" "15874775"
 			"pwdrequired" "1"
-			"timeupdated" "1722389070"
+			"timeupdated" "1727748939"
+		}
+		"test"
+		{
+			"buildid" "15203184"
+			"pwdrequired" "1"
+			"timeupdated" "1729153629"
 		}
 	}
 }
@@ -415,6 +457,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24698435"
-"_sha" "63452ee7a31b3197de5bc70c753453c7f0f25677"
-"_size" "8388"
+"_change_number" "25985105"
+"_sha" "4bc9ff5bd7442e5fff3ce8c9b0d28dff3da6e4cd"
+"_size" "9031"
