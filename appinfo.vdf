@@ -1,0 +1,729 @@
+"appid" "774181"
+"common"
+{
+	"name" "Rhythm Doctor"
+	"type" "Game"
+	"logo" "8beaf947dff786f08aab27fd81551a1747e2d0f2"
+	"logo_small" "8beaf947dff786f08aab27fd81551a1747e2d0f2_thumb"
+	"icon" "9b668ca421dd493945e5b1bbfdcf8d124a316864"
+	"clienticon" "8ac11395c7ca321b7d49dc1db9608be07112e66b"
+	"clienttga" "cc4981f0609ef3a2fee670dd95cd1bc0c7bd0227"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "Rhythm Doctor 节奏医生"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699056000"
+		"tested_build_id" "10904905"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rhythm Doctor"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.77593491736186"
+			"height_pct" "85.33132470513733"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.77593491736186"
+				"height_pct" "85.33132470513733"
+			}
+		}
+	}
+	"store_asset_mtime" "1711918491"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "7th Beat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "7th Beat Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "indienova"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "7th Beat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "indienova"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_44" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1614348446"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "774181"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "3964"
+		"3" "8122"
+		"4" "1742"
+		"5" "492"
+		"6" "493"
+		"7" "4182"
+		"8" "19"
+		"9" "3871"
+		"10" "4136"
+		"11" "1719"
+		"12" "3841"
+		"13" "7368"
+		"14" "21"
+		"15" "1773"
+		"16" "1685"
+		"17" "4085"
+		"18" "4726"
+		"19" "5673"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "7th Beat Games"
+	"publisher" "7th Beat Games"
+	"homepage" "https://rhythmdr.com/"
+}
+"config"
+{
+	"installdir" "Rhythm Doctor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rhythm Doctor.exe"
+			"arguments" "-force-d3d11"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Rhythm Doctor.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Rhythm Doctor"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2756538672"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,alpha,beta,deephospital,mar2021,test"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "774181"
+	"774182"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5225994281982727101"
+				"size" "1093631378"
+				"download" "373141680"
+			}
+			"beta"
+			{
+				"gid" "5225994281982727101"
+				"size" "1093631378"
+				"download" "373141680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"deephospold"
+			{
+				"gid" "37B64C644D262647A8EFDC32A64C890B"
+				"size" "D460FE82441F2E3A40EBEBE9E5BD9B0A"
+				"download" "FC931261D10731788E2382B651CDE6A7"
+			}
+			"five"
+			{
+				"gid" "070A6791730E5A7FC55DE2A849D7D8DC"
+				"size" "9F501070CAB1B851C2A08FE1BB4870CC"
+				"download" "F6FC9206870F109D217A5028CBBAF1DC"
+			}
+			"accessibility"
+			{
+				"gid" "B365ED46E9D967C2479CB733AEAF1A5B"
+				"size" "355E63069BA06733EFF4BC85F5B0AE6B"
+				"download" "4928AC2887CBFFCBADBF41E77552E0C2"
+			}
+			"alpha"
+			{
+				"gid" "2099CC4F80DD28C458EE6B65E772F2BD"
+				"size" "C59C3F76542EF77C2E6DD585F42BDF7C"
+				"download" "ECB255EC07E64CDA79688903DD4740C0"
+			}
+			"booth"
+			{
+				"gid" "C476A098C5C2C0B56D9F974392130F87"
+				"size" "393F97C9AF006C6E57B7DC0ADDECEEA7"
+				"download" "7D3A0948F311792E8191A5586DF7E8D0"
+			}
+			"deephospital"
+			{
+				"gid" "7C3A41F72058CE0FBCEE4F959ED60193"
+				"size" "31E2E9145A75D067E75BBE479AF68B0E"
+				"download" "7F83AA1B112A66F520CDF8E8B45FCE2F"
+			}
+			"internal"
+			{
+				"gid" "C3C4A932095FAC365E66B663CC90F9E0"
+				"size" "1FAC0824B90B2C5AE082D0D979554D09"
+				"download" "82527AAC083CE61189080ADD63573303"
+			}
+			"internal2"
+			{
+				"gid" "4E601498A91DAF2D7FA047B2D9448E88"
+				"size" "F17126DAEBEC56C6F8D60F447BC9107C"
+				"download" "817127DCA28CB203C9342BE0D6F79CB3"
+			}
+			"internal3"
+			{
+				"gid" "5C60EEF4FBBC568EF2B20CDF1115CE37"
+				"size" "18E4217F5E2A4EC0F1E370DF88A87212"
+				"download" "96B8454CCDDC02DB117E416134A5DEF9"
+			}
+		}
+	}
+	"774185"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5694766510151104123"
+				"size" "1104864566"
+				"download" "375550048"
+			}
+			"beta"
+			{
+				"gid" "5694766510151104123"
+				"size" "1104864566"
+				"download" "375550048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"deephospold"
+			{
+				"gid" "C3F4114355FEF9BB811DA8C903F6B151"
+				"size" "17144379FB191FD2328953AFBDB40BEF"
+				"download" "2E06580FCF2796EB646BE9A58056B143"
+			}
+			"five"
+			{
+				"gid" "D257BC7EBF2E03403E8AAEB938A28776"
+				"size" "E8AFC00EBF5A49A28B2E781106043A63"
+				"download" "AD6176E9C9C00F1A1921E4B0AD06B8B4"
+			}
+			"accessibility"
+			{
+				"gid" "168551FFE779156D7795E8B393CF09CF"
+				"size" "B3F404650835DA06512CB4EA5BE7BD9F"
+				"download" "E7780C01686238247804FC323DE37305"
+			}
+			"alpha"
+			{
+				"gid" "6474FC30CC87CE85A5CFC94AE73A1FE5"
+				"size" "B19AC7C3712E72F1782EE615B6198D28"
+				"download" "7CC8D99FFE5767234ED0C4F4A77B3C5A"
+			}
+			"booth"
+			{
+				"gid" "08A17A7B2C6BAC4E291BC5FB1EF62737"
+				"size" "E54C5809FCA1A56D8E62D4C72B51CA54"
+				"download" "A80F9A15F15882A9E248331C78D1BC53"
+			}
+			"deephospital"
+			{
+				"gid" "5B2C397DF43465D956369425F6E14C6D"
+				"size" "712EB6F4202B8F27BCE491B7871FA998"
+				"download" "7FCA7EA471F7DDCB9A5BDF9BD7B81338"
+			}
+			"internal"
+			{
+				"gid" "14D3422CC6E735EF2F9FD71F54B1F036"
+				"size" "71FA743AB1DC0DAC39697A60D834377F"
+				"download" "EB7547142FB7FBDF743641A7C4CC1312"
+			}
+			"internal2"
+			{
+				"gid" "23A1AD95EFF8A6B88ED7593B6044FC9A"
+				"size" "33A75E112DFE2B91BF94987D53C25566"
+				"download" "F8EDF890BFD4465A93104F4BF341EF7C"
+			}
+			"internal3"
+			{
+				"gid" "EDFCB514E1AB0271E6B8764DE3F5EE01"
+				"size" "DD7C5491A2E75E4B88CA8BF78B587830"
+				"download" "5DF44228D03B0DD9B33C23B3F6FD846A"
+			}
+		}
+	}
+	"774183"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3129364873473252045"
+				"size" "1128645480"
+				"download" "383173664"
+			}
+			"beta"
+			{
+				"gid" "3129364873473252045"
+				"size" "1128645480"
+				"download" "383173664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"deephospold"
+			{
+				"gid" "13D597ED368470B2FB460102C27911E8"
+				"size" "DF7E367120E035839DE6424786A8BDFE"
+				"download" "A19FE6578FCA673A4AA8D66F40A7DCC7"
+			}
+			"five"
+			{
+				"gid" "98417DADD5CE1532D037FFDE2DE1F84D"
+				"size" "3AB591E18FFF2E09481304AF09D35684"
+				"download" "C87FF59429C671C92F6BAD3EC6842D93"
+			}
+			"accessibility"
+			{
+				"gid" "698A0EDBC33EDEE64E46E7E686BDC870"
+				"size" "DC16DCEF21CB04F8851D30A39368A329"
+				"download" "2E7BDA4CCC2A23F4DDF8827BB8339439"
+			}
+			"alpha"
+			{
+				"gid" "200274D4EB764288A3E5C9D6000B6A33"
+				"size" "BAADD1518BD6312C4EFE7CE4868801D2"
+				"download" "073EAE243CCCB51F18E56A125743A9F2"
+			}
+			"booth"
+			{
+				"gid" "20962E398B7B6B9190D5EB56A8560200"
+				"size" "50F75ECA652236516BB55B81614D5A53"
+				"download" "71EB928693A1A443119ADB9E3BC49D61"
+			}
+			"deephospital"
+			{
+				"gid" "FFF6F90D4BDC102EE955FC929C4FF61D"
+				"size" "BAD11C6CA66039FC4F5C9F9293B7AFB7"
+				"download" "A81632307053A6919BDA7BC626CA2CD4"
+			}
+			"internal"
+			{
+				"gid" "684C16E35B59A0537F0A48CD1C871387"
+				"size" "9C6031A11EBE630B25B4546424782B39"
+				"download" "EE1E292070BD9E2436BD14069272D473"
+			}
+			"internal2"
+			{
+				"gid" "03A39F1D5D224A913CF7A84A1ED624BF"
+				"size" "0C612752AC0E2A993C55DF2A32B500E9"
+				"download" "C59CFE65936A60E1D6387DC4D41212C2"
+			}
+			"internal3"
+			{
+				"gid" "030E5CA2A40C2A769ABA2742CECF665C"
+				"size" "83DB670C77A41B9B9E69D7E11592521C"
+				"download" "E3791A03B25D68F12F7855DC995E5A54"
+			}
+		}
+	}
+	"774184"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "715518296505182071"
+				"size" "1100317064"
+				"download" "373772496"
+			}
+			"beta"
+			{
+				"gid" "715518296505182071"
+				"size" "1100317064"
+				"download" "373772496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"deephospold"
+			{
+				"gid" "20BDD07481575922991FCD76C9661884"
+				"size" "C3E168A277F519AB132665DF0EB766DB"
+				"download" "23919A3C89B9F5854F6B2AD21CE42D1A"
+			}
+			"five"
+			{
+				"gid" "17B7BC2CD80F2536BF00C84C56DE12A7"
+				"size" "001DBC058168A134B36BA84BB8BF110C"
+				"download" "127D98C03E73C5CC49533CF2E9A97647"
+			}
+			"accessibility"
+			{
+				"gid" "220982761B2CDACE8726DF1EAC77EA9A"
+				"size" "9350BE9B4E6F6804093C6B6B201C9B5C"
+				"download" "10DD1F36C836FC1F511095AF02D4AD69"
+			}
+			"alpha"
+			{
+				"gid" "6E47DB6C2CF2FAE912B5802BCDB35C4E"
+				"size" "C483843C00A8A1448DD836F4A2AE30D0"
+				"download" "081BBD222F17B1B34C0A59CABD9C9038"
+			}
+			"booth"
+			{
+				"gid" "710ACBA362C3CD6FAC8DB9D9411B06A4"
+				"size" "8051DC16CDBC506AAB74D5448706CBE3"
+				"download" "9E2286163B58AF251521288E8DDA3D37"
+			}
+			"deephospital"
+			{
+				"gid" "BA515C5BF766F6BF08B7DD1D88FC3993"
+				"size" "B085BD7100AE449E7EB77DB90B245CB1"
+				"download" "3E7F83D0D29AD2DC6088674676E192E4"
+			}
+			"internal"
+			{
+				"gid" "E41D6323FC38DECA2A2E9296825BD6D0"
+				"size" "BE627870FBC0A365D66A513A33B2BEF6"
+				"download" "74D4FE7684383366AF32D0ABDFC7808D"
+			}
+			"internal2"
+			{
+				"gid" "3430EDE1B995A3828F9997F05867F0D3"
+				"size" "12398D86B5330B07720AB377A6F9AF0E"
+				"download" "7DA7B0BF80530D8932D79F8F6BCA71BD"
+			}
+			"internal3"
+			{
+				"gid" "08014AFA3FE74E0E0526DD20F3052A19"
+				"size" "98BB95852156D607953A6860464143BC"
+				"download" "88B43A50ED8BD9F07262E54CD9C7B8F1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16243416"
+			"timeupdated" "1730323879"
+		}
+		"deephospold"
+		{
+			"buildid" "11777975"
+			"pwdrequired" "1"
+			"timeupdated" "1690990888"
+		}
+		"five"
+		{
+			"buildid" "12622513"
+			"pwdrequired" "1"
+			"timeupdated" "1699162201"
+		}
+		"accessibility"
+		{
+			"buildid" "15710145"
+			"pwdrequired" "1"
+			"timeupdated" "1726553808"
+		}
+		"alpha"
+		{
+			"buildid" "16243416"
+			"pwdrequired" "1"
+			"timeupdated" "1730323852"
+		}
+		"beta"
+		{
+			"buildid" "16243416"
+			"description" "public beta testing"
+			"timeupdated" "1730323860"
+		}
+		"booth"
+		{
+			"buildid" "15645172"
+			"pwdrequired" "1"
+			"timeupdated" "1725931042"
+		}
+		"deephospital"
+		{
+			"buildid" "16240640"
+			"pwdrequired" "1"
+			"timeupdated" "1730309766"
+		}
+		"internal"
+		{
+			"buildid" "16243416"
+			"pwdrequired" "1"
+			"timeupdated" "1730323302"
+		}
+		"internal2"
+		{
+			"buildid" "15415920"
+			"pwdrequired" "1"
+			"timeupdated" "1724048723"
+		}
+		"internal3"
+		{
+			"buildid" "16040164"
+			"pwdrequired" "1"
+			"timeupdated" "1728926824"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.rdsave"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "User"
+			"pattern" "*.png"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25979033"
+"_sha" "3eb86faa93aebf5549cddbe1e647a421944f51e6"
+"_size" "14989"
