@@ -285,9 +285,9 @@
 		{
 			"public"
 			{
-				"gid" "6029503195368802637"
-				"size" "21624985274"
-				"download" "20262070240"
+				"gid" "8035777555623850088"
+				"size" "21716605898"
+				"download" "20353957232"
 			}
 			".911"
 			{
@@ -324,15 +324,15 @@
 			}
 			"development"
 			{
-				"gid" "D58757C45B077E6944A9A4FEC396B18B"
-				"size" "ED785506F62CF040D7A77877835FC885"
-				"download" "5AEE20AAE11D9DDE8591E1BE6FF4C793"
+				"gid" "48ADD941EA4E679C51DB1A9AA66D093B"
+				"size" "F879C2FE4A520A4898CC211486B7B758"
+				"download" "85B6B21493AB1B48ED07E7285E4A04F6"
 			}
 			"testing"
 			{
-				"gid" "7B3BD4214F96CE08A20071D09C51BB4C"
-				"size" "4139CDFC169088ED1E995EB87B2233DA"
-				"download" "B3A576DE3DAB170A5F9C1425D3E825EE"
+				"gid" "AC53002EBD2A53F1E26032CDACA3CD53"
+				"size" "614D852FBFDC1D9ACB25803677FF3506"
+				"download" "F287F4F7DA6C92AAB1B7F729551D2E13"
 			}
 		}
 	}
@@ -340,8 +340,8 @@
 	{
 		"public"
 		{
-			"buildid" "16181414"
-			"timeupdated" "1729870316"
+			"buildid" "16245320"
+			"timeupdated" "1730337971"
 		}
 		"mpservers"
 		{
@@ -369,9 +369,9 @@
 		}
 		"development"
 		{
-			"buildid" "16181414"
+			"buildid" "16245320"
 			"pwdrequired" "1"
-			"timeupdated" "1729864552"
+			"timeupdated" "1730335830"
 		}
 		"experimental"
 		{
@@ -381,9 +381,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16181414"
+			"buildid" "16245320"
 			"pwdrequired" "1"
-			"timeupdated" "1729869884"
+			"timeupdated" "1730335838"
 		}
 	}
 }
@@ -397,7 +397,29 @@
 		{
 			"root" "WinAppDataLocal"
 			"path" "TSSGame/Saved"
-			"pattern" "*"
+			"pattern" "*.exr"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TSSGame/Saved"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TSSGame/Saved/Config/WindowsNoEditor"
+			"pattern" "*.ini"
 			"platforms"
 			{
 				"1" "Windows"
@@ -407,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25899521"
-"_sha" "5c7c173dddfd71da2736952778cace5ac96962ed"
-"_size" "7203"
+"_change_number" "25981440"
+"_sha" "c139f12ebbba1074e42d53c34e4dab94353625d9"
+"_size" "7564"
