@@ -27,13 +27,75 @@
 	"metacritic_name" "Tokaido"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "92918b2c00dc69210cc027daefbe3587c6215746/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 	}
-	"store_asset_mtime" "1511347203"
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "81.66202492056254"
+			"height_pct" "68.96877956480606"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "c0c116d2328c9aa564530d3e7abafe08bbc2dcf5/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "c0c116d2328c9aa564530d3e7abafe08bbc2dcf5/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "872ea82a58a84981a722eab86907dd6c10106a59/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "872ea82a58a84981a722eab86907dd6c10106a59/library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "9e09f762e2546e94b723594ba9c0c814dfd14a31/logo.png"
+			}
+			"image2x"
+			{
+				"english" "9e09f762e2546e94b723594ba9c0c814dfd14a31/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "81.66202492056254"
+				"height_pct" "68.96877956480606"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4a69e42f9c36ec40f080ee47f57fcf507f331d2c/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727774055"
 	"associations"
 	{
 		"0"
@@ -44,7 +106,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Funforge"
+			"name" "Acram Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Acram"
 		}
 	}
 	"primary_genre" "25"
@@ -65,6 +132,7 @@
 		"category_37" "1"
 		"category_49" "1"
 		"category_44" "1"
+		"category_27" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -116,26 +184,26 @@
 	"gameid" "648750"
 	"store_tags"
 	{
-		"0" "1770"
-		"1" "492"
-		"2" "1654"
-		"3" "597"
-		"4" "5350"
-		"5" "4191"
-		"6" "5851"
-		"7" "4252"
-		"8" "4182"
-		"9" "1775"
-		"10" "17389"
-		"11" "5652"
-		"12" "5154"
-		"13" "4166"
-		"14" "21"
-		"15" "9"
-		"16" "4305"
-		"17" "4726"
-		"18" "7208"
-		"19" "6426"
+		"0" "3859"
+		"1" "7368"
+		"2" "4840"
+		"3" "1677"
+		"4" "1770"
+		"5" "17389"
+		"6" "1654"
+		"7" "1775"
+		"8" "1741"
+		"9" "5350"
+		"10" "597"
+		"11" "4166"
+		"12" "5652"
+		"13" "3878"
+		"14" "4182"
+		"15" "4305"
+		"16" "14139"
+		"17" "4252"
+		"18" "9"
+		"19" "97376"
 	}
 	"review_score" "5"
 	"review_percentage" "69"
@@ -143,7 +211,7 @@
 "extended"
 {
 	"developer" "Funforge"
-	"publisher" "Funforge"
+	"publisher" "Acram Digital"
 }
 "config"
 {
@@ -184,18 +252,18 @@
 		{
 			"public"
 			{
-				"gid" "2089784182073279189"
-				"size" "377871574"
-				"download" "263824736"
+				"gid" "571290112961502255"
+				"size" "861286482"
+				"download" "250633392"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"alphadev"
+			"development"
 			{
-				"gid" "E619721EF85EB817917CA2F6C9C7F465"
-				"size" "5DAA1D333114349B80943567D75F713D"
-				"download" "C681AC3C433879F70AA293ECF904C9EA"
+				"gid" "C2A46143B8CFFF6E90EBDFAEBEF588C0"
+				"size" "C4E54E28FA6DACE78EA01FD915147A84"
+				"download" "25F435C60BDB87A8B25738E017514E85"
 			}
 		}
 	}
@@ -209,43 +277,18 @@
 		{
 			"public"
 			{
-				"gid" "6004984489283868760"
-				"size" "355043090"
-				"download" "256789696"
+				"gid" "681846183735997868"
+				"size" "837416128"
+				"download" "243105040"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"alphadev"
+			"development"
 			{
-				"gid" "42D7F1139085CDE11FDC38A87624E195"
-				"size" "24B74BB785880F2859A71025F48D374E"
-				"download" "96BF19E1FE7FDE0226C7B4649B329597"
-			}
-		}
-	}
-	"648753"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "5378542867048612103"
-				"size" "617789916"
-				"download" "158244752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alphadev"
-			{
-				"gid" "D8AF54128D5FE9935372EB5130722E3A"
-				"size" "FC290B1B6EFC7DA4FD86F42EF7D9A6A7"
-				"download" "14B2FAC1187F7E762C94EF623F8DC2A4"
+				"gid" "4EC58B81AC60D7FC5C7787E5B57AFEB2"
+				"size" "58CF50B6A91C4A33B619208BD08B734B"
+				"download" "DB5C96EA9882CB98F49B1D7E5A1A1CB1"
 			}
 		}
 	}
@@ -253,14 +296,18 @@
 	{
 		"public"
 		{
-			"buildid" "14219163"
-			"timeupdated" "1714469700"
+			"buildid" "16096603"
+			"timeupdated" "1729773784"
 		}
-		"alphadev"
+		"development"
 		{
-			"buildid" "14219163"
+			"buildid" "16096603"
 			"pwdrequired" "1"
-			"timeupdated" "1714469678"
+			"timeupdated" "1729258135"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25876510"
+"_sha" "4ce1f7546a9ad19becc24fd909fd2b42c75bc28f"
+"_size" "5284"
