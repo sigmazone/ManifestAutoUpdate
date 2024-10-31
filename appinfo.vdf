@@ -88,7 +88,63 @@
 			"height_pct" "42.57478632478632"
 		}
 	}
-	"store_asset_mtime" "1713197685"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.609608326552987"
+				"height_pct" "42.57478632478632"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723031183"
 	"associations"
 	{
 		"0"
@@ -222,24 +278,24 @@
 	{
 		"0" "4342"
 		"1" "1667"
-		"2" "3839"
-		"3" "4191"
-		"4" "16250"
+		"2" "16250"
+		"3" "3839"
+		"4" "3859"
 		"5" "9"
-		"6" "492"
-		"7" "4182"
-		"8" "5186"
-		"9" "1664"
-		"10" "13782"
-		"11" "3859"
+		"6" "4182"
+		"7" "4191"
+		"8" "492"
+		"9" "5186"
+		"10" "1664"
+		"11" "13782"
 		"12" "19"
 		"13" "1716"
-		"14" "599"
-		"15" "1710"
-		"16" "5228"
-		"17" "1721"
-		"18" "3959"
-		"19" "1663"
+		"14" "5228"
+		"15" "599"
+		"16" "1721"
+		"17" "1710"
+		"18" "1663"
+		"19" "3959"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -257,6 +313,7 @@
 		"0"
 		{
 			"executable" "Buckshot Roulette_windows/Buckshot Roulette.exe"
+			"arguments" "res://scenes/menu.tscn"
 			"config"
 			{
 				"oslist" "windows"
@@ -266,6 +323,7 @@
 		"1"
 		{
 			"executable" "Buckshot Roulette_linux\\Buckshot Roulette.x86_64"
+			"arguments" "res://scenes/menu.tscn"
 			"config"
 			{
 				"oslist" "linux"
@@ -288,18 +346,30 @@
 		{
 			"public"
 			{
-				"gid" "6795542038623573279"
-				"size" "634832400"
-				"download" "386456608"
+				"gid" "2969212903570875458"
+				"size" "798264440"
+				"download" "408522976"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "A1838A54E2AE3B26C9D16B5ED3C9233F"
-				"size" "249EF04D490FD4EEED214017B9A48BCA"
-				"download" "6E5E9ECD3FD02CA1FA4C4C8C8D7DDEC6"
+				"gid" "73DB64B9D940E2D2765F11F686812797"
+				"size" "AA887CC5466A8DCF56F1232C49F5F234"
+				"download" "17A048A98894F19A84F4F7D2C2679FAC"
+			}
+			"staging"
+			{
+				"gid" "016EF3FF4A8B21B31D8A5F6E4E84DA3D"
+				"size" "A6CA4E1297D0C5F7CF37415C200D2569"
+				"download" "F98622831D597258EFDD2AD9EF499138"
+			}
+			"testing"
+			{
+				"gid" "9B2678D4743DD1D8641F45B92C38EE6B"
+				"size" "E1CF7ED703A63F96BFF1975467F217D6"
+				"download" "70BE91067A49B05F0C2183EC9BA72BFD"
 			}
 		}
 	}
@@ -314,18 +384,30 @@
 		{
 			"public"
 			{
-				"gid" "400010440421124558"
-				"size" "649870280"
-				"download" "391141152"
+				"gid" "1177711063076148847"
+				"size" "813302320"
+				"download" "415790848"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "0E65B38113460A3F4DEA73D42474997F"
-				"size" "1CE8C330A1F6731B544683CE91C9BD75"
-				"download" "99F955403B6205AE30F7FAA9F533F4DF"
+				"gid" "65CACD32F08CFA31897A59C917262F9E"
+				"size" "D09235F7160F0FD539285B8A8AA89C12"
+				"download" "1E7440FC5EAE28AA76C008E8E31D98FE"
+			}
+			"staging"
+			{
+				"gid" "195B7A0BF259350158E88895F091B2D6"
+				"size" "6095D3D0C398D0745F13C2451841EFAD"
+				"download" "7077F6577FD6DD3D1F288D51FF3C547E"
+			}
+			"testing"
+			{
+				"gid" "39F07B5B80CA4DF8776E66C201B25E8F"
+				"size" "DEBB3923E3CBC31355051A623A022518"
+				"download" "28D833F6B45CBEB9164C695655337902"
 			}
 		}
 	}
@@ -333,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "14115412"
-			"timeupdated" "1717171274"
+			"buildid" "16252076"
+			"timeupdated" "1730393598"
 		}
 		"beta"
 		{
@@ -342,9 +424,21 @@
 			"pwdrequired" "1"
 			"timeupdated" "1714927677"
 		}
+		"staging"
+		{
+			"buildid" "16252076"
+			"pwdrequired" "1"
+			"timeupdated" "1730381174"
+		}
+		"testing"
+		{
+			"buildid" "16252076"
+			"pwdrequired" "1"
+			"timeupdated" "1730391797"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23776956"
-"_sha" "6e79c333b09ec9a3bbb6ccaebf3af0e72c281d0c"
-"_size" "6081"
+"_change_number" "25993387"
+"_sha" "ff4a7f8dba7d0191317939dc77081a9d08550fb6"
+"_size" "8098"
