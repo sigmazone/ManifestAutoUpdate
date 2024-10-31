@@ -1,0 +1,391 @@
+"appid" "1131930"
+"common"
+{
+	"name" "BARRICADEZ"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "32ffc197e47ccf5c839560141077b07514268101"
+	"clienttga" "caee64d6f52b08b7d10a57d99956c1327c738c73"
+	"icon" "a4b4049f2166a458517ccd6bd8e2aa0fd21b5020"
+	"clienticns" "922174320404d910b9b3ba94f0110047e983b482"
+	"linuxclienticon" "7b822828bfe49f3c8697d1959c702a27b95d095d"
+	"logo" "f9d8276dcd0739fed287d053f7462c9b86acd577"
+	"logo_small" "f9d8276dcd0739fed287d053f7462c9b86acd577_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"metacritic_name" "BARRICADEZ"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.842175246261974"
+			"height_pct" "86.3332475790918"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.842175246261974"
+				"height_pct" "86.3332475790918"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667188602"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fly Penguin inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fly Penguin inc."
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1632927620"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1131930"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "492"
+		"2" "1645"
+		"3" "1659"
+		"4" "7332"
+		"5" "8945"
+		"6" "1643"
+		"7" "1702"
+		"8" "4182"
+		"9" "493"
+		"10" "7107"
+		"11" "3835"
+		"12" "1708"
+		"13" "255534"
+		"14" "3871"
+		"15" "1662"
+		"16" "13782"
+		"17" "5652"
+		"18" "5981"
+		"19" "3968"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Fly Penguin inc."
+	"publisher" "Fly Penguin inc."
+	"homepage" "https://www.flypenguin.jp/"
+}
+"config"
+{
+	"installdir" "BARRICADEZ"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BARRICADEZ.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "BARRICADEZ.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,russian,thai,japanese"
+	"workshopdepot" "1131930"
+	"1131931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2470039125547577241"
+				"size" "461703672"
+				"download" "360179024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "7BA68D4385BFC7B5CA104B891A7B577F"
+				"size" "ED3544E45165AA490D0675F499226FBA"
+				"download" "93C61D6799D6F220EC5F2F7E41BB94D4"
+			}
+			"development_1"
+			{
+				"gid" "48618CFA5FC6C3D4DF3CBDEED9957585"
+				"size" "8AC9AAC52904EEFE574116FFB285360B"
+				"download" "FB610C574C0238971D623408B95B645F"
+			}
+			"development_2"
+			{
+				"gid" "F088F054D4F0F4A773D18367521C9E6A"
+				"size" "3FC5D90E51EAF4B4FC7E74A5DEB23A09"
+				"download" "52A25AB638B45FB2E1CDF81105AA90DF"
+			}
+			"development_mac"
+			{
+				"gid" "48BEEEF249F4603C6D39000BC2E8809A"
+				"size" "A73ACD96E01DB215564CEDA127BCBCA1"
+				"download" "A73ACD96E01DB215564CEDA127BCBCA1"
+			}
+			"switch_balance"
+			{
+				"gid" "2342264CE34BF306FE50601CEA38D21E"
+				"size" "3405005CB09E75F20B2979E8B8E066AD"
+				"download" "1400E60EA8A1CB960AE0ED995992E5A3"
+			}
+		}
+	}
+	"1131932"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5904036929126603034"
+				"size" "485424946"
+				"download" "367728928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "FCFC1F1B8A759208C7351901204526FF"
+				"size" "7D2646CF49926440EEF84828E373A086"
+				"download" "E363A5AA94A6A9F21548EAE3BA3CE852"
+			}
+			"development_1"
+			{
+				"gid" "94208F264FDD1479B4C45BB372A17344"
+				"size" "D52B92E146E02B71BAF6DE57434B81C7"
+				"download" "91D540FD6D374B68127AFAB9E4DF5F55"
+			}
+			"development_2"
+			{
+				"gid" "243C9C18951CB7E2D6C9FFBC2CCA4654"
+				"size" "2E0FEAD0AD207B0FAC8BDB48A27E6412"
+				"download" "79E37732F47394B0111C374EEA846678"
+			}
+			"development_mac"
+			{
+				"gid" "60D2A7A2C0CFC453C44E0295AA080893"
+				"size" "47EB0AAEFFA00805540D9DEAF0DBB788"
+				"download" "7BAC3F0C21BE5C8FD2BA0EBC16E9DD8B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10449805"
+			"timeupdated" "1675245737"
+		}
+		"development"
+		{
+			"buildid" "10442645"
+			"pwdrequired" "1"
+			"timeupdated" "1675165047"
+		}
+		"development_1"
+		{
+			"buildid" "10449574"
+			"pwdrequired" "1"
+			"timeupdated" "1675231528"
+		}
+		"development_2"
+		{
+			"buildid" "10449805"
+			"pwdrequired" "1"
+			"timeupdated" "1675233945"
+		}
+		"development_mac"
+		{
+			"buildid" "10442220"
+			"pwdrequired" "1"
+			"timeupdated" "1675161024"
+		}
+		"switch_balance"
+		{
+			"buildid" "7458388"
+			"pwdrequired" "1"
+			"timeupdated" "1633064013"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "FlyPenguin/BARRICADEZ"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "MacAppSupport"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "FlyPenguin/BARRICADEZ"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25488586"
+"_sha" "6dec4163159599faec8b24cc93cd06c5b868d445"
+"_size" "7339"
