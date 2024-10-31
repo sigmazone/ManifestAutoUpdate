@@ -1,0 +1,391 @@
+"appid" "2604480"
+"common"
+{
+	"name" "City Transport Simulator: Tram"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "df103c20d2afc2085541e8bd2a90a4daeaffa2ae"
+	"clienttga" "01ce68cd337c7cdbd4e483fcef3887a13ab8f28d"
+	"clienticon" "ad5858e63cfa06cce1abd38ba0eafb82c1e85ad5"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"name_localized"
+	{
+		"tchinese" "城市模擬交通：電車 "
+		"schinese" "城市交通模拟：电车"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.80668458867608"
+			"height_pct" "37.06124663002513"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.80668458867608"
+				"height_pct" "37.06124663002513"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1718876037"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ViewApp"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dovetail Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dovetail Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dovetail games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1718902816"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2604480"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1644"
+		"2" "4182"
+		"3" "9204"
+		"4" "10383"
+		"5" "3839"
+		"6" "4175"
+		"7" "5350"
+		"8" "493"
+		"9" "3810"
+		"10" "7481"
+		"11" "1742"
+		"12" "1100687"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "ViewApp"
+	"publisher" "Dovetail Games"
+	"homepage" "https://citytransportsimulator.com/"
+	"listofdlc" "3028650,3100390"
+}
+"config"
+{
+	"installdir" "CityTransportSim"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TramSimNext.exe"
+			"arguments" "-saveddirsuffix=Steam"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "2"
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2604481"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2498751077922270503"
+				"size" "13615517494"
+				"download" "11429928144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-test"
+			{
+				"gid" "AA0FA750423FA98E33785524D8A9086C"
+				"size" "0470A6A5F7FB07D32B02FF84D4BF2EDC"
+				"download" "7CADB92F72A1D26ACE342332E0E29BCA"
+			}
+			"biweekly"
+			{
+				"gid" "28033C80D9B85CE7E5D019818171AA9D"
+				"size" "47765F789DB3018961BAC80D65F313E1"
+				"download" "D65217449D94590B9E1D278EC799E286"
+			}
+			"loca-testing"
+			{
+				"gid" "70867EFDA72BF65B4FC18E5A9933227F"
+				"size" "CAC8C2D5C019D997B0E27D191F45B9C0"
+				"download" "73CEDA3EB1B6B9077125B55D054FDDDD"
+			}
+			"nightly"
+			{
+				"gid" "1B4C627BE8195AC8D4D1BD1535160D10"
+				"size" "97B210FE59DA6151FE6B7F0EB321C702"
+				"download" "81912C3D91B4CA783A4B594FBFE26A12"
+			}
+			"nightly-dev"
+			{
+				"gid" "310640F3D526F23585F61BF55E660AF7"
+				"size" "5764A4AF904D047E00933174625C8888"
+				"download" "216AF2A4655AD87B37D03D149FDEF586"
+			}
+			"preview"
+			{
+				"gid" "8CE12575C7E8E2E9A7AFA9CDE4B81D42"
+				"size" "D81B74CCE467619A1FC20CB2DC7F3A67"
+				"download" "3FD2969C74E8B0BB2BCC083E724E1901"
+			}
+			"qa-weekly"
+			{
+				"gid" "2D6EF65026042A059BC411793962F032"
+				"size" "0723EE066B3E571DD515ECA3FAD1AEE0"
+				"download" "F99896444AF96A39ED4679EE13404FE8"
+			}
+			"staging"
+			{
+				"gid" "21858EA9D6EE23AAAE9B1E2C96D29A71"
+				"size" "2E72BE007D9E00965F0A72F4B98FCD34"
+				"download" "C267C53F4F74488FAE61C886BFA50AFB"
+			}
+			"unreal-engine-update"
+			{
+				"gid" "75C6FB24DFC37D897A7E49723DF2053A"
+				"size" "1FA55034B8C29643DDB5F91C356CAB9D"
+				"download" "12442F1B21E2328AB37F60FD7F50CB54"
+			}
+		}
+	}
+	"3028650"
+	{
+		"dlcappid" "3028650"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16235785"
+			"timeupdated" "1730288515"
+		}
+		"beta-test"
+		{
+			"buildid" "14794218"
+			"pwdrequired" "1"
+			"timeupdated" "1718984518"
+		}
+		"biweekly"
+		{
+			"buildid" "15421993"
+			"pwdrequired" "1"
+			"timeupdated" "1724144856"
+		}
+		"loca-testing"
+		{
+			"buildid" "15984241"
+			"pwdrequired" "1"
+			"timeupdated" "1728497226"
+		}
+		"nightly"
+		{
+			"buildid" "16252596"
+			"pwdrequired" "1"
+			"timeupdated" "1730383809"
+		}
+		"nightly-dev"
+		{
+			"buildid" "15431046"
+			"pwdrequired" "1"
+			"timeupdated" "1724140843"
+		}
+		"preview"
+		{
+			"buildid" "16166130"
+			"pwdrequired" "1"
+			"timeupdated" "1729856424"
+		}
+		"qa-weekly"
+		{
+			"buildid" "16083168"
+			"pwdrequired" "1"
+			"timeupdated" "1729180144"
+		}
+		"staging"
+		{
+			"buildid" "16236551"
+			"pwdrequired" "1"
+			"timeupdated" "1730291319"
+		}
+		"unreal-engine-update"
+		{
+			"buildid" "15916439"
+			"pwdrequired" "1"
+			"timeupdated" "1727961279"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "25990491"
+"_sha" "93ee030dbeda53873f23ac1657fd8558a8126d2d"
+"_size" "6956"
