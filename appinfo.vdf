@@ -269,8 +269,8 @@
 		"18" "4085"
 		"19" "4667"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -328,13 +328,19 @@
 		{
 			"public"
 			{
-				"gid" "5721091138283760254"
-				"size" "3471722743"
-				"download" "1300404992"
+				"gid" "6995405691249083288"
+				"size" "3422162412"
+				"download" "1263723360"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"chromatest"
+			{
+				"gid" "1FFFD40D17EF42F7194958B758B89BC7"
+				"size" "BF93EEB93034388EA58146327EE5C74C"
+				"download" "DD3122FE4221690C29C54A95355DDD42"
+			}
 			"digitaldemo"
 			{
 				"gid" "6F15530F635F0201288FE8F6A30406DD"
@@ -347,6 +353,12 @@
 				"size" "E85A88FDEE67C925B1BCFD9D7ECC4CE8"
 				"download" "329051C994B38CF005B6FB65B999235A"
 			}
+			"hardcoremode_inhousetest"
+			{
+				"gid" "EED5BFEA9E2B8B041E680F12D1E3BC75"
+				"size" "9E1DFE1A388E0EB9EC082427B8BDA4FF"
+				"download" "A309EF7840D92F2F26F832208475B3B9"
+			}
 			"inhousesteamdecktest"
 			{
 				"gid" "D221BBCE3DA61F36844EB35FD4610581"
@@ -355,15 +367,15 @@
 			}
 			"inhousetest"
 			{
-				"gid" "8F917E6ACEE8E28F7B88E93F58276FAB"
-				"size" "78E09C931015F84780CE1AB39D321030"
-				"download" "1C33CEC061A877E8B13A9A55BD942904"
+				"gid" "DB8B1E38FFAE2F9AA0CBE24315AE2283"
+				"size" "742FFAB6E2E9BB1D7473DCEB50C1DCAD"
+				"download" "8FE5AEB0EC6905844949FB31AD60B4F7"
 			}
 			"jpntest"
 			{
-				"gid" "6939496CBC285A84912C412BC88E1120"
-				"size" "CAAA87F43361AFDD061A72E572CE114F"
-				"download" "78B406D4935669C69857442FA7BB3059"
+				"gid" "FA9B206687EB312A717B8527DC006066"
+				"size" "5886EEAA4555630B32C6C970D181A21A"
+				"download" "D83C2CDC15C1F844358254D5FD61F69A"
 			}
 			"offlinedemo"
 			{
@@ -377,8 +389,14 @@
 	{
 		"public"
 		{
-			"buildid" "16206542"
-			"timeupdated" "1730125085"
+			"buildid" "16233085"
+			"timeupdated" "1730300006"
+		}
+		"chromatest"
+		{
+			"buildid" "16239378"
+			"pwdrequired" "1"
+			"timeupdated" "1730304134"
 		}
 		"digitaldemo"
 		{
@@ -392,6 +410,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730106898"
 		}
+		"hardcoremode_inhousetest"
+		{
+			"buildid" "16248979"
+			"pwdrequired" "1"
+			"timeupdated" "1730365120"
+		}
 		"inhousesteamdecktest"
 		{
 			"buildid" "16009958"
@@ -400,15 +424,15 @@
 		}
 		"inhousetest"
 		{
-			"buildid" "16206542"
+			"buildid" "16249303"
 			"pwdrequired" "1"
-			"timeupdated" "1730123099"
+			"timeupdated" "1730367043"
 		}
 		"jpntest"
 		{
-			"buildid" "16120793"
+			"buildid" "16249544"
 			"pwdrequired" "1"
-			"timeupdated" "1729506531"
+			"timeupdated" "1730368238"
 		}
 		"offlinedemo"
 		{
@@ -437,6 +461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25941759"
-"_sha" "4edfaf2c3c25a94ad35bd55d7098aff04c048f1a"
-"_size" "7925"
+"_change_number" "25988650"
+"_sha" "1bb2badc2b1d5ac5f87248b408b7da88ddc92c30"
+"_size" "8519"
