@@ -67,7 +67,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "6d83cf853791539015c3d1b8e6787197b3f1041d/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -86,7 +86,56 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1702301385"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724834838"
 	"associations"
 	{
 		"0"
@@ -218,26 +267,26 @@
 	"gameid" "605740"
 	"store_tags"
 	{
-		"0" "3968"
-		"1" "1774"
-		"2" "6378"
-		"3" "4175"
-		"4" "3814"
-		"5" "5363"
-		"6" "599"
-		"7" "1644"
-		"8" "3810"
-		"9" "3834"
-		"10" "1663"
-		"11" "3859"
-		"12" "13190"
-		"13" "1685"
-		"14" "3843"
-		"15" "3839"
-		"16" "1697"
-		"17" "1695"
-		"18" "4231"
-		"19" "5711"
+		"0" "21"
+		"1" "1644"
+		"2" "599"
+		"3" "1100687"
+		"4" "3968"
+		"5" "1774"
+		"6" "6378"
+		"7" "1695"
+		"8" "4175"
+		"9" "3814"
+		"10" "5363"
+		"11" "122"
+		"12" "3810"
+		"13" "1697"
+		"14" "3834"
+		"15" "3859"
+		"16" "1663"
+		"17" "13190"
+		"18" "128"
+		"19" "19"
 	}
 	"review_score" "8"
 	"review_percentage" "81"
@@ -247,7 +296,7 @@
 	"developer" "Nils Jakrins"
 	"publisher" "Excalibur Games"
 	"homepage" "http://www.excalibur-games.com"
-	"listofdlc" "2449260,2649400,2649410,2649430,3051230"
+	"listofdlc" "2449260,2649400,2649410,2649420,2649430,3051230"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -287,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "5756273094184819809"
-				"size" "2646488718"
-				"download" "1991890432"
+				"gid" "8177451220005340940"
+				"size" "3534322247"
+				"download" "1806888192"
 			}
 			"old_map"
 			{
@@ -299,9 +348,9 @@
 			}
 			"unstable_test_branch"
 			{
-				"gid" "5756273094184819809"
-				"size" "2646488718"
-				"download" "1991890432"
+				"gid" "8177451220005340940"
+				"size" "3534322247"
+				"download" "1806888192"
 			}
 		}
 		"encryptedmanifests"
@@ -332,9 +381,9 @@
 			}
 			"customer_testing"
 			{
-				"gid" "DAA9ACD4781707D9A663677919D4F507"
-				"size" "8A1A6094E76DC41DD4990285F6B5FCB4"
-				"download" "2FBE1482BBA743316391AD6DFAF747BA"
+				"gid" "ED10947A9D608AC3388B0EF5CBA19822"
+				"size" "BAE531ABE83B148B3D7C66CB76402989"
+				"download" "3F8F12F7DF45BACE7700E22FD89E39C3"
 			}
 			"dev_testing"
 			{
@@ -344,9 +393,9 @@
 			}
 			"internal_testing"
 			{
-				"gid" "ACC010EA2E8BF14395A84FA01913C26A"
-				"size" "78D3FF09D9E74A0EAFEDAF911A29B612"
-				"download" "D5F9C05CB3FFE03C6945FAD2C01F62C0"
+				"gid" "69984788D39D6138CCFFD70B9260D7AB"
+				"size" "78128651E00CD217D745681697A320D3"
+				"download" "B94EF9E643EA101D1ECE9AB2884FC785"
 			}
 		}
 	}
@@ -360,9 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "3031809601453831293"
-				"size" "2664172407"
-				"download" "2001980208"
+				"gid" "702891044923157739"
+				"size" "3580375122"
+				"download" "1815296512"
 			}
 			"old_map"
 			{
@@ -372,9 +421,9 @@
 			}
 			"unstable_test_branch"
 			{
-				"gid" "3031809601453831293"
-				"size" "2664172407"
-				"download" "2001980208"
+				"gid" "702891044923157739"
+				"size" "3580375122"
+				"download" "1815296512"
 			}
 		}
 		"encryptedmanifests"
@@ -405,9 +454,9 @@
 			}
 			"customer_testing"
 			{
-				"gid" "AA29E258C433B26957E477E6FFA08F9E"
-				"size" "46D6275B2103EF6C8D5DB35AC589294B"
-				"download" "FF3E4A240FC7EED2ED61145BF3B6B38D"
+				"gid" "D30599D7E27F4D2374AA3F7BA3D27B28"
+				"size" "BCA847E3298ECBF5AE68F6BEE80B57ED"
+				"download" "E8799717BC4CB91C6B12117C65C8BCD9"
 			}
 			"dev_testing"
 			{
@@ -417,9 +466,9 @@
 			}
 			"internal_testing"
 			{
-				"gid" "B3854BC5D67E46B780FFF5CB1F3F68F5"
-				"size" "D82D7AD08AA3C711ABCD01A313004BCB"
-				"download" "1D5474254A03003C6777698BF94B9FE4"
+				"gid" "33D0B27E3B2AF100A29D38270FF9D1E0"
+				"size" "2993A47C26C0C99570CDFAD155D4FA69"
+				"download" "7D0892EB932450041D76C107A39CC44B"
 			}
 		}
 	}
@@ -427,8 +476,8 @@
 	{
 		"public"
 		{
-			"buildid" "15035382"
-			"timeupdated" "1721311100"
+			"buildid" "16219930"
+			"timeupdated" "1730390081"
 		}
 		"crashfixtest"
 		{
@@ -462,9 +511,9 @@
 		}
 		"customer_testing"
 		{
-			"buildid" "13574798"
+			"buildid" "15123194"
 			"pwdrequired" "1"
-			"timeupdated" "1719496105"
+			"timeupdated" "1721729831"
 		}
 		"dev_testing"
 		{
@@ -474,15 +523,15 @@
 		}
 		"internal_testing"
 		{
-			"buildid" "15035382"
+			"buildid" "16219930"
 			"pwdrequired" "1"
-			"timeupdated" "1721042229"
+			"timeupdated" "1730199238"
 		}
 		"unstable_test_branch"
 		{
-			"buildid" "15035382"
+			"buildid" "16219930"
 			"description" "for unstable test builds"
-			"timeupdated" "1721138059"
+			"timeupdated" "1730217317"
 		}
 	}
 }
@@ -531,6 +580,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24416467"
-"_sha" "25d99a68b5d34430a9b308afbbbfaef8b7d3f780"
-"_size" "10369"
+"_change_number" "25992372"
+"_sha" "4d1eb72363d265f5f6f7481fd9dcc22287199add"
+"_size" "11102"
