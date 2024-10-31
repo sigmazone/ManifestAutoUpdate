@@ -7,8 +7,8 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
-	"clienttga" "cee627f7842caba89a83303b2bf08437668106b5"
-	"clienticon" "49183a7188ec6fedff10eca4d8e593203ed3f958"
+	"clienttga" "085630bf94cc05dcceb8cbc3f6c6953c76ec1202"
+	"clienticon" "d5c87e40a2148db04c5bb354fd3d9ee4f439b0c9"
 	"icon" "e7f34d7a346f1c7a724f2cdfaf50989618c044c7"
 	"logo" "bf3b72d22a5e87f9bb3b8ac77c317c240229e9fa"
 	"logo_small" "bf3b72d22a5e87f9bb3b8ac77c317c240229e9fa_thumb"
@@ -47,9 +47,11 @@
 		}
 	}
 	"metacritic_name" "HELLSEED"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "3644849bc0ecabf8817a2febe0e9ff1039210f61/capsule_231x87.jpg"
+		"english" "897b172e92d1362659f801d695c3b3592a9a1831/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -73,29 +75,33 @@
 		{
 			"image"
 			{
-				"english" "5e5ff25e95205eafccd708a5aa0eb61cd9a9e8d6/library_600x900.jpg"
+				"english" "3c7f92e7f15b34be345b21b485841de12afac104/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "5e5ff25e95205eafccd708a5aa0eb61cd9a9e8d6/library_600x900_2x.jpg"
+				"english" "3c7f92e7f15b34be345b21b485841de12afac104/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "bd26b07a3c28e16e2bf4a8b46ddb8bd3b3122f2b/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "bd26b07a3c28e16e2bf4a8b46ddb8bd3b3122f2b/library_hero_2x.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "7324e56ca332da8a3602e6d447c4b54261f96c55/logo.png"
+				"english" "1a9280c8a4d905b1516053f3bb8c037d8c42ce55/logo.png"
 			}
 			"image2x"
 			{
-				"english" "7324e56ca332da8a3602e6d447c4b54261f96c55/logo_2x.png"
+				"english" "1a9280c8a4d905b1516053f3bb8c037d8c42ce55/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -105,7 +111,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728408302"
+	"store_asset_mtime" "1730379633"
 	"associations"
 	{
 		"0"
@@ -124,17 +130,17 @@
 			"name" "HELLSEED"
 		}
 	}
-	"primary_genre" "70"
+	"primary_genre" "1"
 	"genres"
 	{
 		"0" "1"
 		"1" "25"
 		"2" "23"
-		"3" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -145,8 +151,18 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1669839808"
+	"steam_release_date" "1730365668"
 	"community_hub_visible" "1"
 	"gameid" "1168690"
 	"store_tags"
@@ -173,13 +189,13 @@
 		"19" "5094"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "64"
 }
 "extended"
 {
 	"developer" "Profenix Studio SRLS"
 	"publisher" "Profenix Studio SRLS"
-	"homepage" "http://www.profenix.com/eng/hellseed"
+	"homepage" "https://www.s2powered.com/HELLSEED/"
 }
 "config"
 {
@@ -246,24 +262,24 @@
 		{
 			"public"
 			{
-				"gid" "2907259941350259615"
-				"size" "8410945224"
-				"download" "3046814192"
+				"gid" "8436500243070318005"
+				"size" "9790652989"
+				"download" "3578981936"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha_test"
 			{
-				"gid" "219454EB772150337A99BA883A80926F"
-				"size" "233798AF12981127B7F0D9D1EE688301"
-				"download" "1A7756B331D3B28F3404419DFFF4F1B9"
+				"gid" "982D0C4CAFF1BBF38BFE5C9542FD3617"
+				"size" "8A7DB2FDC8E319AFCFDFD5E92C31646D"
+				"download" "FBD99EDC038657CFBEC47B39460C8100"
 			}
 			"alpha_test_ea"
 			{
-				"gid" "8B25E3EE07F0B7CD48DFC25A853F9AD3"
-				"size" "6E846A81871873AFF49164CF6D48EE32"
-				"download" "DCCDC1A1A5CA5943AE11A63C7798B083"
+				"gid" "4E8F6C7A6ABE2A24DC636D23A2D54DA7"
+				"size" "D2A08AB7E10A5495DE988F28D94C9907"
+				"download" "21DE637F2C13F19FE933291FD089FC48"
 			}
 		}
 	}
@@ -271,24 +287,24 @@
 	{
 		"public"
 		{
-			"buildid" "16008178"
-			"timeupdated" "1728645825"
+			"buildid" "16248842"
+			"timeupdated" "1730365757"
 		}
 		"alpha_test"
 		{
-			"buildid" "16016150"
+			"buildid" "16248842"
 			"pwdrequired" "1"
-			"timeupdated" "1728689160"
+			"timeupdated" "1730364529"
 		}
 		"alpha_test_ea"
 		{
-			"buildid" "16008178"
+			"buildid" "10236645"
 			"pwdrequired" "1"
-			"timeupdated" "1728659850"
+			"timeupdated" "1729615791"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25678551"
-"_sha" "c494e61cbc55022da5754c5ac772df11e88d229a"
-"_size" "5159"
+"_change_number" "25989463"
+"_sha" "29a21cd29d2103278d50be079e01e09a88f7623e"
+"_size" "5515"
