@@ -184,8 +184,18 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "Bilibili"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "Fireshine Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Bilibili"
 		}
 	}
 	"primary_genre" "25"
@@ -270,8 +280,8 @@
 	"store_tags"
 	{
 		"0" "3964"
-		"1" "3843"
-		"2" "1100689"
+		"1" "1100689"
+		"2" "3843"
 		"3" "3810"
 		"4" "1662"
 		"5" "21"
@@ -410,33 +420,15 @@
 		{
 			"public"
 			{
+				"gid" "8749769986476554072"
+				"size" "708048356"
+				"download" "374616608"
+			}
+			"1.0.0.14"
+			{
 				"gid" "5973228659389730391"
 				"size" "704793444"
 				"download" "372727568"
-			}
-			"0.7.1"
-			{
-				"gid" "5537815892178850829"
-				"size" "353270382"
-				"download" "237117648"
-			}
-			"0.7.2"
-			{
-				"gid" "943763884574608209"
-				"size" "635621300"
-				"download" "348475488"
-			}
-			"0.7.3"
-			{
-				"gid" "3414912731463985201"
-				"size" "636303579"
-				"download" "348373504"
-			}
-			"0.7.4"
-			{
-				"gid" "8732972105623222578"
-				"size" "644441715"
-				"download" "353793328"
 			}
 			"0.7.5"
 			{
@@ -444,33 +436,39 @@
 				"size" "662619714"
 				"download" "354903040"
 			}
+			"0.7.4"
+			{
+				"gid" "8732972105623222578"
+				"size" "644441715"
+				"download" "353793328"
+			}
+			"0.7.3"
+			{
+				"gid" "3414912731463985201"
+				"size" "636303579"
+				"download" "348373504"
+			}
+			"0.7.2"
+			{
+				"gid" "943763884574608209"
+				"size" "635621300"
+				"download" "348475488"
+			}
+			"0.7.1"
+			{
+				"gid" "5537815892178850829"
+				"size" "353270382"
+				"download" "237117648"
+			}
 			"moddebug"
 			{
-				"gid" "3689354884526128800"
-				"size" "704793447"
-				"download" "372727408"
+				"gid" "236876443674129913"
+				"size" "708048351"
+				"download" "374616544"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"early_explorers"
-			{
-				"gid" "B464E5864DBE6C7EA48CCC3F287DC206"
-				"size" "ABCB17FAC702623DD6C1CFD697A4940C"
-				"download" "DCDCAF5ECC6FE8C2F65C415B231FD487"
-			}
-			"splashscreen"
-			{
-				"gid" "651A35048A540715F90E08CBAA0CEB0A"
-				"size" "F803834C77ED4E61244B7EE117739A4D"
-				"download" "1904010E9A542C061E31DB26F11F523F"
-			}
-			"steamdeck"
-			{
-				"gid" "A5927426C9CBECDEC31C15610EEE0A96"
-				"size" "5010E8A586DEE7085704C53E9EEC9B02"
-				"download" "FDD2C68426CF58A49E8F27A450CC5B99"
-			}
 			"ambassadors"
 			{
 				"gid" "C914715AB740795399AF1A507BE2C305"
@@ -491,9 +489,15 @@
 			}
 			"developer"
 			{
-				"gid" "28E6BEA656D95548958E12AB77C33B6B"
-				"size" "60163F7149FA2B46E3D49BA658CF422E"
-				"download" "1F0D21DB057D50D16CA5F7AD7026B5E2"
+				"gid" "DC2B95E79DD366661D487DEF5FF9A587"
+				"size" "0AED566794A092DB752C4122033760F5"
+				"download" "3BA6180B57A38F7D05073DA5397FE429"
+			}
+			"early_explorers"
+			{
+				"gid" "B464E5864DBE6C7EA48CCC3F287DC206"
+				"size" "ABCB17FAC702623DD6C1CFD697A4940C"
+				"download" "DCDCAF5ECC6FE8C2F65C415B231FD487"
 			}
 			"external"
 			{
@@ -543,6 +547,18 @@
 				"size" "2B5DFE3C7F89C9DB4BFEAF450F00B03B"
 				"download" "BD46E0F75DBB331F29619683D32F5293"
 			}
+			"splashscreen"
+			{
+				"gid" "651A35048A540715F90E08CBAA0CEB0A"
+				"size" "F803834C77ED4E61244B7EE117739A4D"
+				"download" "1904010E9A542C061E31DB26F11F523F"
+			}
+			"steamdeck"
+			{
+				"gid" "A5927426C9CBECDEC31C15610EEE0A96"
+				"size" "5010E8A586DEE7085704C53E9EEC9B02"
+				"download" "FDD2C68426CF58A49E8F27A450CC5B99"
+			}
 			"trailers"
 			{
 				"gid" "C6D348BE7647EAFAF5AA203ED2BCCE19"
@@ -567,33 +583,15 @@
 		{
 			"public"
 			{
+				"gid" "8883450508060338117"
+				"size" "813414307"
+				"download" "380110816"
+			}
+			"1.0.0.14"
+			{
 				"gid" "5830350493317616469"
 				"size" "808844560"
 				"download" "378346896"
-			}
-			"0.7.1"
-			{
-				"gid" "1103487944642273363"
-				"size" "363654224"
-				"download" "235883024"
-			}
-			"0.7.2"
-			{
-				"gid" "5305540204499833251"
-				"size" "674384678"
-				"download" "348407520"
-			}
-			"0.7.3"
-			{
-				"gid" "4438538967916979394"
-				"size" "677408361"
-				"download" "348828656"
-			}
-			"0.7.4"
-			{
-				"gid" "2740356615636661715"
-				"size" "686313978"
-				"download" "354268480"
 			}
 			"0.7.5"
 			{
@@ -601,33 +599,39 @@
 				"size" "755397570"
 				"download" "364310416"
 			}
+			"0.7.4"
+			{
+				"gid" "2740356615636661715"
+				"size" "686313978"
+				"download" "354268480"
+			}
+			"0.7.3"
+			{
+				"gid" "4438538967916979394"
+				"size" "677408361"
+				"download" "348828656"
+			}
+			"0.7.2"
+			{
+				"gid" "5305540204499833251"
+				"size" "674384678"
+				"download" "348407520"
+			}
+			"0.7.1"
+			{
+				"gid" "1103487944642273363"
+				"size" "363654224"
+				"download" "235883024"
+			}
 			"moddebug"
 			{
-				"gid" "8933587934060354125"
-				"size" "808844554"
-				"download" "378347424"
+				"gid" "8655218163043700360"
+				"size" "813414312"
+				"download" "380111200"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"early_explorers"
-			{
-				"gid" "9B6E899904E05A209AD81F4FDF2F4663"
-				"size" "6E5A9BBAB9D0740B8B5B9753EEB793FF"
-				"download" "967B5AACE63C1CC16E2822C0581BD015"
-			}
-			"splashscreen"
-			{
-				"gid" "A29AB3F5A88793CFDE28452584B21F36"
-				"size" "D0FE27EA3E4142EC8D25342D56B2B760"
-				"download" "2D35F1250BEA2D26CB593B155C2A72AA"
-			}
-			"steamdeck"
-			{
-				"gid" "4E46D38C54684B365D268C1222272F4D"
-				"size" "F46289BFB30DF46E41A0FA02594BF243"
-				"download" "9716BB28CE20B0BEA0AA08BF0BA48F78"
-			}
 			"ambassadors"
 			{
 				"gid" "FAE5A612BCD9AA1BF5537A0CA315623A"
@@ -648,9 +652,15 @@
 			}
 			"developer"
 			{
-				"gid" "29466AADFC349A2B165B7B40F3FF0043"
-				"size" "52161E0811DDE27C3B91F6840298A5D0"
-				"download" "B86FA8EFFF4E4FF342C62BF7B23B8F70"
+				"gid" "5B0B5723178D7B59D9054AD31FB05B09"
+				"size" "90CF0F4FE77FFDC3C27987023791A829"
+				"download" "EF4E301A78CEBFABADCF9FD878C76CA3"
+			}
+			"early_explorers"
+			{
+				"gid" "9B6E899904E05A209AD81F4FDF2F4663"
+				"size" "6E5A9BBAB9D0740B8B5B9753EEB793FF"
+				"download" "967B5AACE63C1CC16E2822C0581BD015"
 			}
 			"external"
 			{
@@ -700,6 +710,18 @@
 				"size" "22322042D58602E33E38C00EE90E4B58"
 				"download" "02C37C26213136D232FD1BAD0628321D"
 			}
+			"splashscreen"
+			{
+				"gid" "A29AB3F5A88793CFDE28452584B21F36"
+				"size" "D0FE27EA3E4142EC8D25342D56B2B760"
+				"download" "2D35F1250BEA2D26CB593B155C2A72AA"
+			}
+			"steamdeck"
+			{
+				"gid" "4E46D38C54684B365D268C1222272F4D"
+				"size" "F46289BFB30DF46E41A0FA02594BF243"
+				"download" "9716BB28CE20B0BEA0AA08BF0BA48F78"
+			}
 			"trailers"
 			{
 				"gid" "ECD547C4EEC88A59331E185C8F864361"
@@ -718,44 +740,20 @@
 	{
 		"public"
 		{
+			"buildid" "16224684"
+			"timeupdated" "1730369869"
+		}
+		"1.0.0.14"
+		{
 			"buildid" "16065825"
-			"timeupdated" "1729240598"
+			"description" "Legacy Build - 16065825"
+			"timeupdated" "1730369406"
 		}
-		"0.7.1"
+		"0.7.5"
 		{
-			"buildid" "12520890"
-			"description" "Legacy Build - 12520890"
-			"timeupdated" "1701251692"
-		}
-		"0.7.2"
-		{
-			"buildid" "12959740"
-			"description" "Legacy build - 12959740"
-			"timeupdated" "1706694750"
-		}
-		"0.7.3"
-		{
-			"buildid" "13462550"
-			"description" "Legacy build - 13462550"
-			"timeupdated" "1709891529"
-		}
-		"early_explorers"
-		{
-			"buildid" "11163328"
-			"pwdrequired" "1"
-			"timeupdated" "1683285089"
-		}
-		"splashscreen"
-		{
-			"buildid" "8605588"
-			"pwdrequired" "1"
-			"timeupdated" "1650633882"
-		}
-		"steamdeck"
-		{
-			"buildid" "10673750"
-			"pwdrequired" "1"
-			"timeupdated" "1677759159"
+			"buildid" "15443697"
+			"description" "Legacy build - 15443697"
+			"timeupdated" "1724316427"
 		}
 		"0.7.4"
 		{
@@ -763,11 +761,23 @@
 			"description" "Legacy build - 14373060"
 			"timeupdated" "1717603187"
 		}
-		"0.7.5"
+		"0.7.3"
 		{
-			"buildid" "15443697"
-			"description" "Legacy build - 15443697"
-			"timeupdated" "1724316427"
+			"buildid" "13462550"
+			"description" "Legacy build - 13462550"
+			"timeupdated" "1709891529"
+		}
+		"0.7.2"
+		{
+			"buildid" "12959740"
+			"description" "Legacy build - 12959740"
+			"timeupdated" "1706694750"
+		}
+		"0.7.1"
+		{
+			"buildid" "12520890"
+			"description" "Legacy Build - 12520890"
+			"timeupdated" "1701251692"
 		}
 		"ambassadors"
 		{
@@ -789,9 +799,15 @@
 		}
 		"developer"
 		{
-			"buildid" "15887798"
+			"buildid" "16224684"
 			"pwdrequired" "1"
-			"timeupdated" "1727781841"
+			"timeupdated" "1730222456"
+		}
+		"early_explorers"
+		{
+			"buildid" "11163328"
+			"pwdrequired" "1"
+			"timeupdated" "1683285089"
 		}
 		"external"
 		{
@@ -825,9 +841,9 @@
 		}
 		"moddebug"
 		{
-			"buildid" "16067776"
+			"buildid" "16224794"
 			"description" "For mod debugging"
-			"timeupdated" "1729240515"
+			"timeupdated" "1730369819"
 		}
 		"press"
 		{
@@ -846,6 +862,18 @@
 			"buildid" "15929978"
 			"pwdrequired" "1"
 			"timeupdated" "1728045863"
+		}
+		"splashscreen"
+		{
+			"buildid" "8605588"
+			"pwdrequired" "1"
+			"timeupdated" "1650633882"
+		}
+		"steamdeck"
+		{
+			"buildid" "10673750"
+			"pwdrequired" "1"
+			"timeupdated" "1677759159"
 		}
 		"trailers"
 		{
@@ -867,6 +895,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "25781958"
-"_sha" "7c5170da73be16096288fa836a95ac046400f41d"
-"_size" "18420"
+"_change_number" "25986926"
+"_sha" "74d75ff66f59169dec71640afbdbe3712297d58d"
+"_size" "18904"
