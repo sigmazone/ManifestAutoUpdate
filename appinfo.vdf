@@ -1,0 +1,456 @@
+"appid" "719890"
+"common"
+{
+	"name" "Beasts of Bermuda"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "7fd29589d6f2aff35d15c3355123f47d3c69d1e5"
+	"logo_small" "7fd29589d6f2aff35d15c3355123f47d3c69d1e5_thumb"
+	"icon" "b804059a370e4ad80d0bdbc886cdcbea7dc45739"
+	"clienttga" "d3f22acec32a46f47208227b87940f94a64fd9fc"
+	"clienticon" "f7adc0c9d9fc18d9fcd8231c495d0fd7e28d8c9e"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "719890_eula_0"
+			"name" "Beasts of Bermuda EULA"
+			"url" "https://store.steampowered.com//eula/719890_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1699488000"
+		"tested_build_id" "12464061"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Beasts of Bermuda"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "52.452259950112364"
+			"height_pct" "82.19860684710542"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "52.452259950112364"
+				"height_pct" "82.19860684710542"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723805333"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sastrei Studios, LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Sastrei Studios, LLC"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "29"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_49" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"afrikaans"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1545422416"
+	"community_hub_visible" "1"
+	"gameid" "719890"
+	"store_tags"
+	{
+		"0" "5160"
+		"1" "599"
+		"2" "1662"
+		"3" "128"
+		"4" "21"
+		"5" "493"
+		"6" "1695"
+		"7" "3859"
+		"8" "492"
+		"9" "1775"
+		"10" "4175"
+		"11" "1697"
+		"12" "3810"
+		"13" "1667"
+		"14" "122"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=719890"
+	"gamedir" "BeastsOfBermuda"
+	"serverbrowsername" "Beasts of Bermuda"
+	"developer" "Sastrei Studios, LLC"
+	"publisher" "Sastrei Studios, LLC"
+	"homepage" "http://beastsofbermuda.com"
+	"listofdlc" "2231260,2665720,2665730,2665740,2665760,2665770,2665780,2665790,2665800,2665810,2665820,2665830,2665840,2665850,2665860,2665870,2665880,2665890,2665900,2832670"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "BeastsOfBermuda"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BeastsOfBermuda.exe"
+			"arguments" "-NoVerifyGC -NoDebugExecBindings -USEALLAVAILABLECORES -high"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3238932328"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,spanish,schinese,russian,finnish,hungarian,brazilian"
+	"719891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6059351042305444688"
+				"size" "27275891923"
+				"download" "26549083248"
+			}
+			"public_testing"
+			{
+				"gid" "6059351042305444688"
+				"size" "27275891923"
+				"download" "26549083248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developers"
+			{
+				"gid" "A885FDD02D2F93DE099AA6785AB8A3EF"
+				"size" "00E1B3F9EE4F09E7B5C4601A64F8F4DA"
+				"download" "14B401E92538407258B59D7AD4A49849"
+			}
+			"early_access"
+			{
+				"gid" "515204022FEF3EEC3340AA3D5EBF964E"
+				"size" "FE1A20D1C857F79214D141AA54ED0AA9"
+				"download" "00BC6DD50BE49F654AC5A601C8470D91"
+			}
+			"tester-team"
+			{
+				"gid" "D5EB77D6C9A3D0D8B420D28F07E7ED04"
+				"size" "3FC7ED85D70F474663DDEB12F428F829"
+				"download" "E7056F2640270756F977ABC95DF23475"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16245828"
+			"timeupdated" "1730341798"
+		}
+		"developers"
+		{
+			"buildid" "16245828"
+			"pwdrequired" "1"
+			"timeupdated" "1730341762"
+		}
+		"early_access"
+		{
+			"buildid" "16245828"
+			"pwdrequired" "1"
+			"timeupdated" "1730341769"
+		}
+		"public_testing"
+		{
+			"buildid" "16245828"
+			"description" "Used immediately prior to public updates for a last round of testing"
+			"timeupdated" "1730341775"
+		}
+		"tester-team"
+		{
+			"buildid" "16245828"
+			"pwdrequired" "1"
+			"timeupdated" "1730340065"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"appidredirect" "719890"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "BeastsOfBermuda/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25982073"
+"_sha" "19c47852d4ed072c698b8c38b0c8c781a19b0099"
+"_size" "8336"
