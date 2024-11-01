@@ -35,9 +35,6 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -82,6 +79,7 @@
 		}
 	}
 	"metacritic_name" "Blasphemous 2"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -107,7 +105,49 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1702375692"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.56906709759957"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1730399961"
 	"associations"
 	{
 		"0"
@@ -151,6 +191,12 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -220,36 +266,36 @@
 	"gameid" "2114740"
 	"store_tags"
 	{
-		"0" "21"
-		"1" "3993"
+		"0" "3993"
+		"1" "1684"
 		"2" "1628"
-		"3" "29482"
-		"4" "5379"
-		"5" "3798"
-		"6" "1646"
+		"3" "21"
+		"4" "29482"
+		"5" "5379"
+		"6" "3798"
 		"7" "4026"
-		"8" "1733"
-		"9" "1625"
-		"10" "3871"
-		"11" "4231"
-		"12" "3964"
-		"13" "4106"
+		"8" "3964"
+		"9" "1733"
+		"10" "1646"
+		"11" "3871"
+		"12" "1625"
+		"13" "4231"
 		"14" "1667"
-		"15" "3854"
-		"16" "1742"
-		"17" "6869"
-		"18" "6971"
-		"19" "19"
+		"15" "4106"
+		"16" "3854"
+		"17" "1742"
+		"18" "6869"
+		"19" "6971"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "92"
 }
 "extended"
 {
 	"developer" "The Game Kitchen"
 	"publisher" "Team17"
 	"homepage" "https://www.blasphemous2game.com/"
-	"listofdlc" "2500160"
+	"listofdlc" "2500160,2879370"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -288,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "8701777908944641547"
-				"size" "3424429774"
-				"download" "2249401504"
+				"gid" "3534314254930121165"
+				"size" "4292071574"
+				"download" "2831144640"
 			}
 		}
 		"encryptedmanifests"
@@ -301,101 +347,89 @@
 				"size" "6506039561240E06CBCD8028ADD0F71A"
 				"download" "9132B23C8C57589C1E1E4FEAB77F8A82"
 			}
-			"gm_d1p_dev"
+			"wth_branch"
 			{
-				"gid" "BC127FD86C6435B68E17509382E2F6B6"
-				"size" "ECCFC38DE10C91AA972E24D3480F9263"
-				"download" "1DCA1B3AA310D4EADFD22499BCC9A7E0"
+				"gid" "139BC82A030D3A88C395D4FB6DC93373"
+				"size" "9DBD951B2595FA62F775DDBC67E2040F"
+				"download" "4A9A9D3C849D06D81E8A82574A769C0A"
 			}
-			"gm_d1p_qa"
+			"mc_au_debug"
 			{
-				"gid" "9813B5C19107318A26CA93EB93CE5311"
-				"size" "E8BE9E69D0ADE965B2782D385E996CFE"
-				"download" "235A778E8DAA6A1A1486522D1C428EB2"
+				"gid" "93B1D35782BB6336750052022CEFCE03"
+				"size" "36FC8A71C36150F26BE791789A1FD000"
+				"download" "C388CAE0921563EA96D931AB72C9CA9C"
 			}
-			"gm_d1p_release"
+			"mc_au_prod"
 			{
-				"gid" "DA2A05E96FDA154E5181C8A24A1163C1"
-				"size" "135D2280B1292D98B103EB0C48D0DFBD"
-				"download" "A78A2D54EE9AD82B181B1E4E371DA8F7"
+				"gid" "0CCFE417F4A4EF6367070DE620936C40"
+				"size" "066921EC57387E2939A4650C5A296358"
+				"download" "726B5C3FEE5A866377ACFD8BB39C0DC5"
 			}
-			"lb_lqa"
+			"mc_au_qa"
 			{
-				"gid" "34428D8A38213D0F9323AFA14E8C6EA0"
-				"size" "77DBC457695649E7108D21C30A18435D"
-				"download" "2037CCE982390DABECEE473D4A065787"
+				"gid" "799F92C2DA99B214BC1B2F45F779901B"
+				"size" "2785158240DFD17A9B1D28DE8D889318"
+				"download" "2180564BDA10F6AC0B64CBE3A1E3ED92"
 			}
-			"patch1_dev"
+			"mc_cc_dev"
 			{
-				"gid" "5245291C769256F6BD9576183FD63976"
-				"size" "1E818CCFADC3C6A49496EEA61CF0A96A"
-				"download" "3B9CCD9047A9FE6085E55E89D7BAA967"
+				"gid" "905795902994E6925656524E58BBF2E9"
+				"size" "49893A0DC039338EE3A2DC1DD9F94D0D"
+				"download" "C818BAD9EC0ADE57A32E24365C59885E"
 			}
-			"patch1_prod"
+			"mc_cc_prod"
 			{
-				"gid" "472F84728FC2D68220B03A03823EE21C"
-				"size" "68A575B3E7C26AFA9EC1162348492987"
-				"download" "0BD150A841B52FD86D0711142EA964FF"
+				"gid" "5E5D81B1E40A5B9156EEA1C60F0BA077"
+				"size" "CE30427D5D0B6F611A0ADF82FFC05D12"
+				"download" "5343BC115C999CA3C9481E8617B83D6E"
+			}
+			"mc_d0p_prod"
+			{
+				"gid" "E9BFDF638F09E3BBEF2F4806E9348AF2"
+				"size" "1799CE2813F7C40D5B170058F025EC5E"
+				"download" "FC5553D63670D7CE9CF387B302D19BC3"
+			}
+			"mc_d0p_qa"
+			{
+				"gid" "B79ABD63A9AA33EB4673BB6EE486D7D2"
+				"size" "AB9073FE31A256E8679DB2E6ACCBD6F9"
+				"download" "F6355F6BF29B832795C5ACFE31342825"
+			}
+			"mc_ms05_dev"
+			{
+				"gid" "DF204F0E5F6F6756CE167C4AE293ECA9"
+				"size" "D6A4D952BA92BC0D626400D2451C5AB9"
+				"download" "BADFCC33AB17208C39DDDEA3CB02734D"
 			}
 			"press_review"
 			{
-				"gid" "5FC0D1DB652241445DECABA5745A8E3F"
-				"size" "DFE12A0820094F41BBCABA0837F1C8E7"
-				"download" "7BA58F11BD0E8783402DE333FCC47672"
-			}
-			"press_tour"
-			{
-				"gid" "1734B632BBAF028CE6A305E097C4B887"
-				"size" "777EC6219A9A62EF731CF0C93D61D927"
-				"download" "6B2C3330E92B3C4722E87E9B3EB6EA81"
-			}
-			"rm_staging"
-			{
-				"gid" "F8AC22E47657B864839943E68756DB1F"
-				"size" "E68982CFB0E099F4CE33A9DD49D23CE5"
-				"download" "7981EF275096318FBB262AE8B917DD35"
-			}
-			"t17_review"
-			{
-				"gid" "C9B32DB74C7F96D5FB78AC8624B89F8B"
-				"size" "757548C07039B21E9A72E935E88AE6F8"
-				"download" "498DDCEE2D50F241E509AEE2F12F3371"
-			}
-			"usability_build"
-			{
-				"gid" "153B5C94D5BE1FF766A970A8B5DDD201"
-				"size" "8EFD8827401582B7BF95A26602509992"
-				"download" "6A0A70AFCE747CC0392A79C77E794A5D"
+				"gid" "1CE96EE1947CC54502743860111EC488"
+				"size" "922663DFD01AAB9F6B383FDF135139DF"
+				"download" "68927C749DD739F16EB97EAB02B36E39"
 			}
 			"windows_dev"
 			{
-				"gid" "810E271A027EF779A3B0694D2CB2321B"
-				"size" "BA151E482ECD412F9E9A942BDBE739AB"
-				"download" "85103D03B0441CB3252294BE6B43FED7"
+				"gid" "8C5B9BF75FD7E9B8795AE66C910C8EDE"
+				"size" "CB79F81A9B67BC45C565ACF0297024AA"
+				"download" "8B95F31B130CAE4C95A0FBE77119F357"
 			}
 			"windows_prod"
 			{
-				"gid" "2ABCA3ADE6BC601E693C4A52B440EC39"
-				"size" "8C192AB0BEE3147304567B5A860F0F3E"
-				"download" "119A642A38BF31EB5405193ED9043F7F"
+				"gid" "17BB9CE8302B7A49055B7F53D607BD65"
+				"size" "B9EB17681DBE56D27D065D18B03F584F"
+				"download" "81B4430F4FD2F9ABF2CB1B5D65D7D434"
 			}
 			"windows_prod_console"
 			{
-				"gid" "31464F2CCFC19E3A241EB7E1D966D24B"
-				"size" "03C7B6556E3141DFE215BBA45EE84591"
-				"download" "C41C12B67E2CF2E17AF79D0D0E7EA5E4"
-			}
-			"wth_branch"
-			{
-				"gid" "B3D06790700DFD815A26C33E54A3436F"
-				"size" "973E7B60B6A85356C9CB6FD4FCA450E3"
-				"download" "6A4AA50F008B5BDF0D5F71298474E29E"
+				"gid" "6DF413B5FC85C2ED81A563C6121D51E3"
+				"size" "A236E1A5A4FC6998ADE9565072A7B848"
+				"download" "503801E47DD45F752F7CF56F43388CA4"
 			}
 			"wth_branch_qa"
 			{
-				"gid" "854FE7D9D5ACCBBCE4444C893DF339CF"
-				"size" "A1720DC7291A607BCA8B9D3BBD46A279"
-				"download" "54BE93EBF67B4479F6C5DCDF3D42C260"
+				"gid" "005CBBA9F6BD13D5AF8AD7ACC5CA2B88"
+				"size" "EEF8B59AB7D1D32F15CAEB6987E13D6B"
+				"download" "F4B17CF63CEF325488D8FA4547695DFF"
 			}
 		}
 	}
@@ -413,23 +447,59 @@
 		}
 		"encryptedmanifests"
 		{
-			"patch1_dev"
+			"mc_au_debug"
 			{
-				"gid" "3C78A4258B148D4DA9BF3920E6EE8747"
-				"size" "C5C21CDA5BB318ACBA4A3808C0733662"
-				"download" "2768C956A1A88DC8A964D3DC603F1503"
+				"gid" "C92636BF133500DB4B6914E8AC8713F7"
+				"size" "A3EC3B2A4277898B480D826FEB065D4E"
+				"download" "E39825F2FCBC1E4C99B826FB46650B22"
 			}
-			"patch1_prod"
+			"mc_au_prod"
 			{
-				"gid" "95CD3C61F86D7CB83DECCFC862EE6DEF"
-				"size" "65F1D62B25CFAC930D7AB04440161607"
-				"download" "B0BC994C399D26925CE1358571B930FE"
+				"gid" "DB0FCAEDA983440376C7EA1CA1D1BF49"
+				"size" "3E07643CD5587442983F901CF21E9F65"
+				"download" "FF4E667073CE63BD9DFBC50CADB4FBE9"
 			}
-			"rm_staging"
+			"mc_au_qa"
 			{
-				"gid" "32009567830A703B07C161BC48CB4779"
-				"size" "4CE75895CD9E206E983066B34B32E773"
-				"download" "B59815BF1C4B9601001E7E41AD8C2153"
+				"gid" "A19B473ABDDD6E43D101C712B19812DC"
+				"size" "EC5D48934FDB8F70DBD2A9AB57308D3C"
+				"download" "4EBF6D158A3704D72C5469F0654BBD03"
+			}
+			"mc_cc_dev"
+			{
+				"gid" "307CF2CEF60989F2E14150A2E85246A3"
+				"size" "7816E59703DF34909541214247E54945"
+				"download" "8EFD12C541D241F54E7EF3900B7EA456"
+			}
+			"mc_cc_prod"
+			{
+				"gid" "C0BC83E390B6785AA0CB2E46B0AF9CDD"
+				"size" "7D536FAE11F55E2BBC19452A0623CC70"
+				"download" "96099AD60F1540020AAEC0B83564CB68"
+			}
+			"mc_d0p_prod"
+			{
+				"gid" "A085DC5E52AD850BE3C04C6FD9FC50E4"
+				"size" "5D567CB8F22F0C463E0C31F8D86710E9"
+				"download" "24407D0935AA0209B2C4F92CDE427D76"
+			}
+			"mc_d0p_qa"
+			{
+				"gid" "D4F3FE3C71FBCB01E3611D947CD8BB0A"
+				"size" "A886CCAC957EF777B69F25F9A6F2F0A0"
+				"download" "4531181F6DD734353B1D9DCF38B042B6"
+			}
+			"mc_ms05_dev"
+			{
+				"gid" "B00E683A6838BA4A0CA04BF6A9DF4F80"
+				"size" "44F7C0C1E023CF5BB81A324100BB6352"
+				"download" "3ED738FFAD9685F614CCC6CDA639E4DA"
+			}
+			"press_review"
+			{
+				"gid" "5E8D50E752EAF5598FEBE4D25064F12F"
+				"size" "8F1C14A7B78D5C2108C5E7D1E31878D1"
+				"download" "5EFB3EB7A929F485666ECB93021D94BC"
 			}
 			"wth_branch_qa"
 			{
@@ -443,8 +513,8 @@
 	{
 		"public"
 		{
-			"buildid" "12225320"
-			"timeupdated" "1695304830"
+			"buildid" "16233047"
+			"timeupdated" "1730394110"
 		}
 		"cero_rating"
 		{
@@ -452,101 +522,89 @@
 			"pwdrequired" "1"
 			"timeupdated" "1692392533"
 		}
-		"gm_d1p_dev"
+		"wth_branch"
 		{
-			"buildid" "12004934"
+			"buildid" "13737736"
 			"pwdrequired" "1"
-			"timeupdated" "1692720775"
+			"timeupdated" "1710411836"
 		}
-		"gm_d1p_qa"
+		"mc_au_debug"
 		{
-			"buildid" "11993391"
+			"buildid" "15741741"
 			"pwdrequired" "1"
-			"timeupdated" "1692785523"
+			"timeupdated" "1726659495"
 		}
-		"gm_d1p_release"
+		"mc_au_prod"
 		{
-			"buildid" "12004185"
+			"buildid" "15742882"
 			"pwdrequired" "1"
-			"timeupdated" "1692720761"
+			"timeupdated" "1726665305"
 		}
-		"lb_lqa"
+		"mc_au_qa"
 		{
-			"buildid" "11719728"
+			"buildid" "15744102"
 			"pwdrequired" "1"
-			"timeupdated" "1689600743"
+			"timeupdated" "1726671167"
 		}
-		"patch1_dev"
+		"mc_cc_dev"
 		{
-			"buildid" "12227464"
+			"buildid" "15417294"
 			"pwdrequired" "1"
-			"timeupdated" "1695140696"
+			"timeupdated" "1724057324"
 		}
-		"patch1_prod"
+		"mc_cc_prod"
 		{
-			"buildid" "12225320"
+			"buildid" "15419829"
 			"pwdrequired" "1"
-			"timeupdated" "1695126256"
+			"timeupdated" "1724071889"
+		}
+		"mc_d0p_prod"
+		{
+			"buildid" "16233047"
+			"pwdrequired" "1"
+			"timeupdated" "1730273847"
+		}
+		"mc_d0p_qa"
+		{
+			"buildid" "16149417"
+			"pwdrequired" "1"
+			"timeupdated" "1729678647"
+		}
+		"mc_ms05_dev"
+		{
+			"buildid" "14727764"
+			"pwdrequired" "1"
+			"timeupdated" "1718442593"
 		}
 		"press_review"
 		{
-			"buildid" "11801969"
+			"buildid" "16233047"
 			"pwdrequired" "1"
-			"timeupdated" "1690526395"
-		}
-		"press_tour"
-		{
-			"buildid" "11656616"
-			"pwdrequired" "1"
-			"timeupdated" "1688853998"
-		}
-		"rm_staging"
-		{
-			"buildid" "12012325"
-			"pwdrequired" "1"
-			"timeupdated" "1692790353"
-		}
-		"t17_review"
-		{
-			"buildid" "10794762"
-			"pwdrequired" "1"
-			"timeupdated" "1679483154"
-		}
-		"usability_build"
-		{
-			"buildid" "10794762"
-			"pwdrequired" "1"
-			"timeupdated" "1679483296"
+			"timeupdated" "1730383461"
 		}
 		"windows_dev"
 		{
-			"buildid" "12103570"
+			"buildid" "16021668"
 			"pwdrequired" "1"
-			"timeupdated" "1693820185"
+			"timeupdated" "1728752472"
 		}
 		"windows_prod"
 		{
-			"buildid" "12059304"
+			"buildid" "16228238"
 			"pwdrequired" "1"
-			"timeupdated" "1693315217"
+			"timeupdated" "1730241211"
 		}
 		"windows_prod_console"
 		{
-			"buildid" "11980337"
+			"buildid" "16169597"
 			"pwdrequired" "1"
-			"timeupdated" "1692408200"
-		}
-		"wth_branch"
-		{
-			"buildid" "12961078"
-			"pwdrequired" "1"
-			"timeupdated" "1702554561"
+			"timeupdated" "1729794580"
 		}
 		"wth_branch_qa"
 		{
-			"buildid" "11967844"
+			"buildid" "15874695"
 			"pwdrequired" "1"
-			"timeupdated" "1692295850"
+			"timeupdated" "1727696669"
 		}
 	}
 }
@@ -570,6 +628,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21703550"
-"_sha" "ed9385ded89e4141ac5d8487db0aa8b5c90af39e"
-"_size" "11694"
+"_change_number" "26000931"
+"_sha" "d4bd324486fef2bd484892803db57c4e2f414993"
+"_size" "13101"
