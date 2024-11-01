@@ -167,7 +167,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726582710"
+	"store_asset_mtime" "1730452564"
 	"associations"
 	{
 		"0"
@@ -274,8 +274,8 @@
 	{
 		"0" "1678"
 		"1" "4166"
-		"2" "599"
-		"3" "492"
+		"2" "492"
+		"3" "599"
 		"4" "1775"
 		"5" "4175"
 		"6" "4168"
@@ -283,25 +283,25 @@
 		"8" "128"
 		"9" "5382"
 		"10" "1663"
-		"11" "3839"
-		"12" "3987"
+		"11" "3987"
+		"12" "3839"
 		"13" "1774"
-		"14" "3859"
-		"15" "4182"
+		"14" "4182"
+		"15" "3859"
 		"16" "19"
 		"17" "1708"
 		"18" "3993"
 		"19" "9"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
 	"developer" "BlackMill Games"
 	"publisher" "BlackMill Games"
 	"homepage" "https://www.ww1gameseries.com/isonzo/"
-	"listofdlc" "1815510,1815511,1815512,1815513,1815514,2128180,2197970,2214670,2214671,2542150,2542160,2719540,2719550,2753070"
+	"listofdlc" "1815510,1815511,1815512,1815513,1815514,2128180,2197970,2214670,2214671,2542150,2542160,2719540,2719550,2753070,3253670"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -367,30 +367,42 @@
 		{
 			"public"
 			{
-				"gid" "5762534846743905502"
-				"size" "27987838863"
-				"download" "12256166448"
+				"gid" "1109993970885740131"
+				"size" "27917147028"
+				"download" "12234471280"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"novembercosmetic_staging"
+			{
+				"gid" "AA657B330948755A8FFA699B0E9408F1"
+				"size" "A255C7422B4FFD64018937E90451EF34"
+				"download" "0E1E1A70FBA8DBB36980F9700E2A8B48"
+			}
+			"novembercosmetic_stagingdebug"
+			{
+				"gid" "25C63BDF6EC6086872201A5232EA2732"
+				"size" "2348C92EAA397EBA90B26C06EB6BAA3A"
+				"download" "70C788EC158978F5D1EAAD9E4F0E85DD"
+			}
 			"publicdebug"
 			{
-				"gid" "F016E36174528AE282B313436C973C7F"
-				"size" "8B9D95A09109FCF75BF338ABC5AD30CC"
-				"download" "E90228F5B63184451C7D432FFF641FC6"
+				"gid" "F76CB1A16DBE38D283438631F73A3578"
+				"size" "334FBF5FC60B2C8DC334317D4B1CA9D4"
+				"download" "9C74B932EF31770802BC897B899727F6"
 			}
 			"staging"
 			{
-				"gid" "78145E1300B6E19EA01AE2BB23550950"
-				"size" "02EDD3276E4AA5BC433E8C6791A47D71"
-				"download" "BF6A0EE44694024A237E62898013CF4F"
+				"gid" "3795930AE0E7EC2DD6C3A8062705B8E3"
+				"size" "CC17D7B3C72FDB20D0A7B0AF46247779"
+				"download" "E2A4AE14714419C3452D48AB6E98584F"
 			}
 			"stagingdebug"
 			{
-				"gid" "FD0A19EE4237FFC613165869BA9448CA"
-				"size" "0D7C816324CBD494231B9501781B9B63"
-				"download" "6CA5C0FC3A7F9A3A10FDF2AAE1D51E35"
+				"gid" "BF86CB4898CF1AC534F83F06EC801733"
+				"size" "1760A4C45B194C4483379DFCCC104D88"
+				"download" "9F4F1A14FDD55E8020F8FBCD28BBED07"
 			}
 		}
 	}
@@ -405,30 +417,42 @@
 		{
 			"public"
 			{
-				"gid" "6457210916571861195"
-				"size" "28073526831"
-				"download" "12265680256"
+				"gid" "3501285977890785154"
+				"size" "28005102844"
+				"download" "12244419632"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"novembercosmetic_staging"
+			{
+				"gid" "6CAC725F2E605A1513CC33F3D653F44C"
+				"size" "9E6152763D196B7F1D11418BEF1F44F9"
+				"download" "49B145C05DBA40ABA5B58D86B38496B1"
+			}
+			"novembercosmetic_stagingdebug"
+			{
+				"gid" "1284290E56828ACA5E77B667B71ECB40"
+				"size" "C46BE75FEF64FDAF82DF75B73A55B907"
+				"download" "114A46D6E9A49075F8BB53F1F62C0A4A"
+			}
 			"publicdebug"
 			{
-				"gid" "3E83AF11EC40519C343E9684AD62E988"
-				"size" "7FA1EDE35E2B519658799A0FD28DC532"
-				"download" "AEE41F7952139D0759B0AD4CFF1D6D7B"
+				"gid" "1128552EC4E03AB566D4DB08974CD2D9"
+				"size" "F2E593DBB0E1E1BD78BA7D2511BC45D6"
+				"download" "51A872608E967D9E0E5FD1531D5B1E41"
 			}
 			"staging"
 			{
-				"gid" "543CFBFC74A388E9341198C18960634D"
-				"size" "887EA1DCBB16A466A29A1CF855E6F68B"
-				"download" "D0FB9FAC2B933F79EB9F5A0C4A1BA3AB"
+				"gid" "DE58B03DEDB4FC60B4F17F724D5FEDE3"
+				"size" "2D9615B00F8E8BA5CC8F6C4CEFB99D82"
+				"download" "505F6F315DC1F8D88C940EEFBF74FC5F"
 			}
 			"stagingdebug"
 			{
-				"gid" "4FA4ECDCABD85778E1592D9ED92A31A1"
-				"size" "99431231BE25248B46DB5872A91A8633"
-				"download" "683BB720947384CD789749CC493E0790"
+				"gid" "6B5C2F0533FC09282129F80AC4C6FED8"
+				"size" "53D6C6C29C5638F150BD34D6AB23FB5A"
+				"download" "A780D8D2C9D789217C9F5F0AB56AEDA8"
 			}
 		}
 	}
@@ -443,30 +467,42 @@
 		{
 			"public"
 			{
-				"gid" "2183392643661935149"
-				"size" "27947691642"
-				"download" "12237073152"
+				"gid" "5215297039182423504"
+				"size" "27879042523"
+				"download" "12215926080"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"novembercosmetic_staging"
+			{
+				"gid" "2FC88A836B500F16AA993E10E9F2B3BE"
+				"size" "BA954384EB99DBE21530573953BEA517"
+				"download" "1B26ED1C77058018AFEA2BABAC1B3439"
+			}
+			"novembercosmetic_stagingdebug"
+			{
+				"gid" "DCBC02EE5BC13D167A32385C0056B82D"
+				"size" "5514107153FCBE253C6DC143BF26D899"
+				"download" "B40649D594B7C385BFEC343A8C4AD233"
+			}
 			"publicdebug"
 			{
-				"gid" "5C18FD7A9FD4B20414594B6FCE2BF5C4"
-				"size" "CF9C4B29F914DF397BF09F5B12C887D9"
-				"download" "067C551F5192112E7ABE19C36C3BE98C"
+				"gid" "96C01B86886F8DDDFDF69F25F327A9EA"
+				"size" "105CA14A8D4C4E8D7AA78BBC9BD45D8B"
+				"download" "8FE7FB7D1FC7B990F3CCCEF57E03FAE4"
 			}
 			"staging"
 			{
-				"gid" "9D9D60E1753953D93132376BFD4B804D"
-				"size" "03E2ECBC9C6A851FF57CFA63EF084C04"
-				"download" "035EBB191248B8D8D24FF460FFD046A9"
+				"gid" "A54A8FDCA13A957159A8C4E974FD9F0E"
+				"size" "95031586E63AE9E6F7BD2B4F7B3768EE"
+				"download" "23C0F81979CE81902449E896F2979864"
 			}
 			"stagingdebug"
 			{
-				"gid" "CDE3CEC242D402C1AE25A1B27B14EF5F"
-				"size" "2FA2E829D4604B6574533BE2D6A9C83E"
-				"download" "329AF3031D3842B8FE5565C77664D0C8"
+				"gid" "52D86ABEB9A85847B6DEC1A4544EE3A7"
+				"size" "4BCF8AE13CB2C033904950F73736584D"
+				"download" "8B236952633191D61956236E2C289C43"
 			}
 		}
 	}
@@ -484,11 +520,23 @@
 		}
 		"encryptedmanifests"
 		{
+			"novembercosmetic_staging"
+			{
+				"gid" "A6C1D1836A1D74E810E61574D8547B19"
+				"size" "CF132D5BA7B33046F2A1612D9F261F77"
+				"download" "CCFE083A46D45E83509224C2D30B6AEF"
+			}
+			"novembercosmetic_stagingdebug"
+			{
+				"gid" "E447E9271B24CBF2161FF2434BC16A81"
+				"size" "B45854B983F961E6AB4D42CEF9A21B53"
+				"download" "39816D1FBFEACF2214F1C095F4046F40"
+			}
 			"publicdebug"
 			{
-				"gid" "C725F589239FED39027D581CD00247AE"
-				"size" "431C30B958E14B0526D9A462903930B6"
-				"download" "993A19D4CA44D6C8CB88E517A84B544D"
+				"gid" "DB0DD9783691F05BB197BAD442AE72FC"
+				"size" "5B2E9A3789A6FD5D54EDA81D0382CCF9"
+				"download" "5FD464D0BC7C229C817F13DE2BA781F8"
 			}
 			"staging"
 			{
@@ -502,26 +550,38 @@
 	{
 		"public"
 		{
-			"buildid" "15895330"
-			"timeupdated" "1727947659"
+			"buildid" "16069102"
+			"timeupdated" "1730451619"
+		}
+		"novembercosmetic_staging"
+		{
+			"buildid" "16069102"
+			"pwdrequired" "1"
+			"timeupdated" "1729097531"
+		}
+		"novembercosmetic_stagingdebug"
+		{
+			"buildid" "16070360"
+			"pwdrequired" "1"
+			"timeupdated" "1729104246"
 		}
 		"publicdebug"
 		{
-			"buildid" "15913916"
+			"buildid" "16070360"
 			"pwdrequired" "1"
-			"timeupdated" "1727947677"
+			"timeupdated" "1730451647"
 		}
 		"staging"
 		{
-			"buildid" "15895330"
+			"buildid" "16100820"
 			"pwdrequired" "1"
-			"timeupdated" "1727824302"
+			"timeupdated" "1729280094"
 		}
 		"stagingdebug"
 		{
-			"buildid" "15899484"
+			"buildid" "16155074"
 			"pwdrequired" "1"
-			"timeupdated" "1727857127"
+			"timeupdated" "1729707646"
 		}
 	}
 }
@@ -559,6 +619,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25511607"
-"_sha" "d968d370cd8f4a0abcf7c9aadf98cb862e1540c8"
-"_size" "10518"
+"_change_number" "26003834"
+"_sha" "e5b1119102b2d041b48e6dd559a617aa8c2897f0"
+"_size" "12313"
