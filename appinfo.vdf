@@ -286,7 +286,7 @@
 	}
 	"steam_release_date" "1727880299"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/2694420"
-	"metacritic_score" "90"
+	"metacritic_score" "89"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/kill-knight\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -330,11 +330,51 @@
 	{
 		"0"
 		{
-			"executable" "Build.exe"
+			"executable" "KILL KNIGHT.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "KILL KNIGHT.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "trunk_shipping"
+			}
+		}
+		"2"
+		{
+			"executable" "KILL KNIGHT.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "trunk_debug"
+			}
+		}
+		"3"
+		{
+			"executable" "KILL KNIGHT.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "release_1_1"
+			}
+		}
+		"4"
+		{
+			"executable" "KILL KNIGHT.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "release_1_1_debug"
 			}
 		}
 	}
@@ -353,9 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "2980283600734461243"
-				"size" "9138065441"
-				"download" "2276339744"
+				"gid" "9167460693002364527"
+				"size" "3155112304"
+				"download" "1881502736"
 			}
 		}
 		"encryptedmanifests"
@@ -374,9 +414,9 @@
 			}
 			"feature_branch_1"
 			{
-				"gid" "3D5225F70E3CC730BD4A37E748E6FA25"
-				"size" "8A76FFC5999860C0E5E076A65EDD700B"
-				"download" "F21EE547F1001BE3923056E772D1805A"
+				"gid" "218297829B86C9EEF82A4FE0A3D1EFB4"
+				"size" "E2B7EE76F3C53DA643097BAC782A159E"
+				"download" "A644BF7B775CE7468257D190E5792BB6"
 			}
 			"feature_branch_2"
 			{
@@ -428,27 +468,27 @@
 			}
 			"release_1_1"
 			{
-				"gid" "7B21DD223ABA8C746A68029C417D07EF"
-				"size" "E42095DAE83AE2DA4DC13AA2E33E34B7"
-				"download" "D09D9208B62EB2DD8B4E6B42EB481811"
+				"gid" "F598017A1CECC721A8E7EB006C511132"
+				"size" "35C1F612264E1EF69508D727A56DF8C7"
+				"download" "BD0A109DA70AFC85E8DF9E57FED46B56"
 			}
 			"release_1_1_debug"
 			{
-				"gid" "485DCF68D8821E67CE63618D0A9C4475"
-				"size" "1392BEDF3CACE499192831D930AF28A3"
-				"download" "ABB3E5C6AA92624234F2C1F2244DCD2A"
+				"gid" "044AF3F40602771874A7F14EA4BA9A70"
+				"size" "D5E8234F8E48E9DF85D2B5BC8D0AC56B"
+				"download" "A391A4CF5FD8768F5EFF82033A8E7610"
 			}
 			"trunk_debug"
 			{
-				"gid" "31498011F2300845DC866D626DF94028"
-				"size" "71BD68B57ED133ABD996252F0D512C07"
-				"download" "15A2F50A42AF6BC2128AE727075DFCBD"
+				"gid" "B674BC5038E4BC4D00C526610C0368B8"
+				"size" "86CF6263538D7AC392A9BEF852B407AD"
+				"download" "AB49D21EC6168729593BA75FB72728EF"
 			}
 			"trunk_shipping"
 			{
-				"gid" "36BACC2B601279BD297689984AED2197"
-				"size" "058B9415B536550711D67DF53A02395B"
-				"download" "199D7EA11FAFB29AC71CB158371011C0"
+				"gid" "DA4044905966E13FB0B25A73B484FFD6"
+				"size" "89492B2356F5FECCF755141AF2299987"
+				"download" "F2056EFF0D38326E37D0F1F3F2B06532"
 			}
 		}
 	}
@@ -456,8 +496,8 @@
 	{
 		"public"
 		{
-			"buildid" "16004400"
-			"timeupdated" "1728624088"
+			"buildid" "16247670"
+			"timeupdated" "1730363121"
 		}
 		"kk_external_facing"
 		{
@@ -473,9 +513,9 @@
 		}
 		"feature_branch_1"
 		{
-			"buildid" "15928596"
+			"buildid" "16247570"
 			"pwdrequired" "1"
-			"timeupdated" "1728038167"
+			"timeupdated" "1730355820"
 		}
 		"feature_branch_2"
 		{
@@ -527,27 +567,27 @@
 		}
 		"release_1_1"
 		{
-			"buildid" "16010825"
+			"buildid" "16246981"
 			"pwdrequired" "1"
-			"timeupdated" "1728657268"
+			"timeupdated" "1730349934"
 		}
 		"release_1_1_debug"
 		{
-			"buildid" "16010548"
+			"buildid" "16247670"
 			"pwdrequired" "1"
-			"timeupdated" "1728656153"
+			"timeupdated" "1730356506"
 		}
 		"trunk_debug"
 		{
-			"buildid" "16002675"
+			"buildid" "16259338"
 			"pwdrequired" "1"
-			"timeupdated" "1728610727"
+			"timeupdated" "1730424844"
 		}
 		"trunk_shipping"
 		{
-			"buildid" "16002748"
+			"buildid" "16259449"
 			"pwdrequired" "1"
-			"timeupdated" "1728611269"
+			"timeupdated" "1730425700"
 		}
 	}
 }
@@ -583,3 +623,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25999696"
+"_sha" "cad68374eafd4c4dd76e2c220637bf3c293ad4f6"
+"_size" "12962"
