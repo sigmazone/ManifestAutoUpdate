@@ -19,6 +19,55 @@
 		"4" "4"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729814400"
+		"tested_build_id" "14840224"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -157,7 +206,7 @@
 		"19" "5923"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -186,9 +235,9 @@
 		{
 			"public"
 			{
-				"gid" "5540796548742995608"
-				"size" "736703801"
-				"download" "639942176"
+				"gid" "1961848366688915899"
+				"size" "751807468"
+				"download" "652877984"
 			}
 		}
 	}
@@ -196,8 +245,8 @@
 	{
 		"public"
 		{
-			"buildid" "16110564"
-			"timeupdated" "1729388093"
+			"buildid" "16252307"
+			"timeupdated" "1730382457"
 		}
 	}
 }
@@ -239,6 +288,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25804452"
-"_sha" "191e36637a7912a6ee9ec4e36e0b4b54e443f19b"
-"_size" "3922"
+"_change_number" "25998705"
+"_sha" "207736ef7c277e60de8744a84e18f7e668ae44d7"
+"_size" "5144"
