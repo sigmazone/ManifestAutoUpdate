@@ -201,7 +201,7 @@
 		"19" "4166"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -238,15 +238,21 @@
 		{
 			"public"
 			{
-				"gid" "7729400162834371833"
-				"size" "11650756386"
-				"download" "10141315440"
+				"gid" "5849268138679869641"
+				"size" "11650465094"
+				"download" "10140937296"
 			}
 			"public_beta"
 			{
 				"gid" "2871342941880564592"
 				"size" "12090643043"
 				"download" "10490217392"
+			}
+			"public_hotfix"
+			{
+				"gid" "5849268138679869641"
+				"size" "11650465094"
+				"download" "10140937296"
 			}
 		}
 		"encryptedmanifests"
@@ -259,9 +265,9 @@
 			}
 			"nightly"
 			{
-				"gid" "4A57762CF948D9ACE4A86ECDD0C9D579"
-				"size" "3DD42075C88C8A4B45D525199D6914E1"
-				"download" "3BB524AA2237AE02559542C26C713768"
+				"gid" "D70BC37695A38C1022C83CBA355CC093"
+				"size" "2EB708DEEDC5259F407682D957F2AB9F"
+				"download" "F4E676D725D14000F06FBA03CC13B5A3"
 			}
 			"patch_01"
 			{
@@ -307,9 +313,9 @@
 			}
 			"stable_staging"
 			{
-				"gid" "B6309009769A8121022587124DE5EF1A"
-				"size" "9D89EC9228B42F52CFF085BCB29B360A"
-				"download" "EC5AA3DA4040DCB38E6863C1A642E66D"
+				"gid" "16895D8E62DC1C082C71EAE8CF27DA49"
+				"size" "08BF6555A5ADBF8B9474CA1C093CD7A6"
+				"download" "0F7D4B1BCA218F154424E2499F4E3906"
 			}
 		}
 	}
@@ -317,14 +323,20 @@
 	{
 		"public"
 		{
-			"buildid" "15513957"
-			"timeupdated" "1724912633"
+			"buildid" "16240753"
+			"timeupdated" "1730398849"
 		}
 		"public_beta"
 		{
 			"buildid" "10606174"
 			"description" "patch 03"
 			"timeupdated" "1677028853"
+		}
+		"public_hotfix"
+		{
+			"buildid" "16240753"
+			"description" "public hotfix testing"
+			"timeupdated" "1730312409"
 		}
 		"beta"
 		{
@@ -334,9 +346,9 @@
 		}
 		"nightly"
 		{
-			"buildid" "15755569"
+			"buildid" "16250532"
 			"pwdrequired" "1"
-			"timeupdated" "1726744034"
+			"timeupdated" "1730372923"
 		}
 		"patch_01"
 		{
@@ -382,9 +394,9 @@
 		}
 		"stable_staging"
 		{
-			"buildid" "15513957"
+			"buildid" "16240753"
 			"pwdrequired" "1"
-			"timeupdated" "1724818919"
+			"timeupdated" "1730310100"
 		}
 	}
 }
@@ -426,3 +438,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25995495"
+"_sha" "25e52b02e13d529185333e4c0f3c307617706d55"
+"_size" "8168"
