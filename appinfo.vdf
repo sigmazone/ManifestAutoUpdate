@@ -173,7 +173,7 @@
 		"category_24" "1"
 		"category_1" "1"
 		"category_44" "1"
-		"category_54" "1"
+		"category_53" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -188,7 +188,6 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1094390"
-	"onlyvrsupport" "1"
 	"store_tags"
 	{
 		"0" "599"
@@ -236,6 +235,11 @@
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "Waltz"
+			}
+			"description" "Waltz"
 		}
 		"1"
 		{
@@ -249,6 +253,21 @@
 				"osarch" "64"
 				"betakey" "omega"
 			}
+		}
+		"2"
+		{
+			"executable" "Waltz of the Wizard Extended Edition.exe"
+			"arguments" "-monitormode"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Waltz in Screen Mode"
+			}
+			"description" "Launch Waltz in Screen Mode"
 		}
 	}
 }
@@ -282,19 +301,13 @@
 		{
 			"public"
 			{
-				"gid" "5891811146896866248"
-				"size" "6987156206"
-				"download" "3803514448"
+				"gid" "1366090743122247458"
+				"size" "7679127611"
+				"download" "4080469584"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"beta"
-			{
-				"gid" "6F7E82939EC1941140B47FDED2CC5F11"
-				"size" "A88911792EB13191145AF94E014A2519"
-				"download" "AED7EB4C55D788C039BF671F79550309"
-			}
 			"omega"
 			{
 				"gid" "594FE9926641E54CAB6BD0452543D70A"
@@ -315,9 +328,15 @@
 			}
 			"alpha"
 			{
-				"gid" "F8DC295C3F1B238F89AD0A2A0FE2131E"
-				"size" "936BFAA44F4CB60515A4F9C62145DB29"
-				"download" "A6950DAFE1B0F673CD61CB061F5AC1B9"
+				"gid" "D23E030165E74FB0406474B20D64DED5"
+				"size" "53ADD86980D75DA9C388B2F9E6AD0C6A"
+				"download" "DDC9A1B2F74D6EA17D4ACCC27FAE89FF"
+			}
+			"beta"
+			{
+				"gid" "841D7D5E1C8F39E57B1F1B5582BCDD7D"
+				"size" "AE5C7902DF1618156BEF5A954F70330A"
+				"download" "9699A6600A74BEEF3999AB7BE087745C"
 			}
 		}
 	}
@@ -344,14 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "14842910"
-			"timeupdated" "1719398469"
-		}
-		"beta"
-		{
-			"buildid" "12376006"
-			"pwdrequired" "1"
-			"timeupdated" "1696606168"
+			"buildid" "16234433"
+			"timeupdated" "1730368805"
 		}
 		"omega"
 		{
@@ -373,9 +386,19 @@
 		}
 		"alpha"
 		{
+			"buildid" "16234433"
+			"pwdrequired" "1"
+			"timeupdated" "1730281426"
+		}
+		"beta"
+		{
 			"buildid" "15728348"
 			"pwdrequired" "1"
-			"timeupdated" "1726573317"
+			"timeupdated" "1730379059"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25989199"
+"_sha" "b4959a6cf41fa0a9e7c18ae7952ee96660a0ac72"
+"_size" "7245"
