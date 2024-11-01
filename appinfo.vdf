@@ -101,7 +101,48 @@
 			"height_pct" "50.58740514142813"
 		}
 	}
-	"store_asset_mtime" "1717767364"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.7557603686636"
+				"height_pct" "50.58740514142813"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727971260"
 	"associations"
 	{
 		"0"
@@ -230,10 +271,10 @@
 		"5" "4182"
 		"6" "21"
 		"7" "599"
-		"8" "5350"
-		"9" "4175"
-		"10" "492"
-		"11" "4726"
+		"8" "4175"
+		"9" "5350"
+		"10" "4726"
+		"11" "492"
 		"12" "9204"
 		"13" "12472"
 		"14" "4166"
@@ -244,7 +285,7 @@
 		"19" "9994"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -279,9 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "7747279243210606190"
-				"size" "7836732566"
-				"download" "3028705840"
+				"gid" "8039069825635921805"
+				"size" "7838554794"
+				"download" "3029908480"
 			}
 			"dog-washing-issue-fix"
 			{
@@ -310,11 +351,17 @@
 				"size" "4354D564CF8D89C990D8D990DCD78573"
 				"download" "0A603E810D3226EA8736ED651D95D7B3"
 			}
+			"comp-trailer-for-as2"
+			{
+				"gid" "14ACB19A8F9B2144A59E212ED90CBBC7"
+				"size" "4106B34307F8CE5D8944E59AF1DC2F84"
+				"download" "61EE782D88D36B9634159A85DF3D69AC"
+			}
 			"test"
 			{
-				"gid" "9BED5B301DD4CA466680E3076F3D26DC"
-				"size" "01FC90C8C366A6A5F110B007CE545DF8"
-				"download" "B565F02186640FCC708EEAB5B486E3CB"
+				"gid" "2EDE0B16FF38A5EA66494CFFEC78676D"
+				"size" "2BEAEB13B335DA6672EB388F13255F2B"
+				"download" "F51D132B0E929542A2F88890F71BCE0C"
 			}
 		}
 	}
@@ -322,8 +369,8 @@
 	{
 		"public"
 		{
-			"buildid" "14533974"
-			"timeupdated" "1717757825"
+			"buildid" "16205870"
+			"timeupdated" "1730371832"
 		}
 		"analytics"
 		{
@@ -343,6 +390,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1670262906"
 		}
+		"comp-trailer-for-as2"
+		{
+			"buildid" "15318776"
+			"pwdrequired" "1"
+			"timeupdated" "1723208759"
+		}
 		"dog-washing-issue-fix"
 		{
 			"buildid" "14638341"
@@ -351,9 +404,9 @@
 		}
 		"test"
 		{
-			"buildid" "14533974"
+			"buildid" "16205870"
 			"pwdrequired" "1"
-			"timeupdated" "1716990336"
+			"timeupdated" "1730119320"
 		}
 	}
 }
@@ -387,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23873451"
-"_sha" "95e78a05ee18e7dc93e32833d499c8552f0d28af"
-"_size" "7092"
+"_change_number" "25987398"
+"_sha" "5ce72bcfb6d354c79b1abb56cb9d92aa91123fbc"
+"_size" "7989"
