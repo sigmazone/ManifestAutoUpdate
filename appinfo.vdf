@@ -312,9 +312,9 @@
 		"7" "8945"
 		"8" "1643"
 		"9" "3987"
-		"10" "1669"
-		"11" "3810"
-		"12" "1662"
+		"10" "3810"
+		"11" "1662"
+		"12" "1669"
 		"13" "1695"
 		"14" "4182"
 		"15" "4711"
@@ -370,9 +370,15 @@
 		{
 			"public"
 			{
-				"gid" "8057648245534063180"
-				"size" "910764646"
-				"download" "697218320"
+				"gid" "2810259465203762755"
+				"size" "914449849"
+				"download" "698633248"
+			}
+			"unstable"
+			{
+				"gid" "4618831606432799740"
+				"size" "914536844"
+				"download" "698743056"
 			}
 		}
 		"encryptedmanifests"
@@ -391,15 +397,15 @@
 			}
 			"nightly_builds"
 			{
-				"gid" "720C7774755AC47C699F51107E901E96"
-				"size" "EF3353AB08D7A5DB396DD6BB3F7E33D1"
-				"download" "6A61425B215EC7F779EB134A9C83CAB5"
+				"gid" "CCB13B20BD1AFCE373EBCFCE7B7512CF"
+				"size" "1E70E4B8B520D7040EB5EEB91C57EBF6"
+				"download" "7B869D942C2698469A7AEF854CB25901"
 			}
 			"nightly_builds_previous"
 			{
-				"gid" "BC01728A07FE2CE9081A3BE651C096D5"
-				"size" "CC40EE13BF13A30489F0124BCBBEBC67"
-				"download" "385B911897830AC7B99DFB46EB1BDB00"
+				"gid" "5614DB4F884DAA21F07ABBB1306DEF3B"
+				"size" "ECDF0FBA49FDB170ABD038A028762176"
+				"download" "EE2275840C06DE56F49A7533CFF8C758"
 			}
 			"preview"
 			{
@@ -415,15 +421,15 @@
 			}
 			"test"
 			{
-				"gid" "D947529FA4CC51D50853854968CA24A9"
-				"size" "052B9041877CA7467EB99505A3967A27"
-				"download" "57BDFE5E48377812456DF1D7676C2C29"
+				"gid" "8791BA280EBFC687AA981E3606A5BDB4"
+				"size" "7B986A56431D4B04CDE97A57655F3092"
+				"download" "85300FB2E3BCE7B65D79658B16F2EC30"
 			}
 			"test_before_release"
 			{
-				"gid" "BCD07EE5752DE384C03BA82788882954"
-				"size" "C41B3E126C931B3677EC44577863C4C4"
-				"download" "990CBE6BAAEE5D68C6E07904549823BA"
+				"gid" "12F6E2481F71C1EB0F4922660A8BB9AF"
+				"size" "0D42767ABD2BE251CC33EA2C5374B4BA"
+				"download" "60842FDB44E92F1E578C6FBC40F3A31B"
 			}
 		}
 	}
@@ -431,8 +437,8 @@
 	{
 		"public"
 		{
-			"buildid" "16009865"
-			"timeupdated" "1728666952"
+			"buildid" "16263749"
+			"timeupdated" "1730483281"
 		}
 		"achievements_test"
 		{
@@ -448,15 +454,15 @@
 		}
 		"nightly_builds"
 		{
-			"buildid" "15990553"
+			"buildid" "16262414"
 			"pwdrequired" "1"
-			"timeupdated" "1728542732"
+			"timeupdated" "1730451467"
 		}
 		"nightly_builds_previous"
 		{
-			"buildid" "15929098"
+			"buildid" "16223894"
 			"pwdrequired" "1"
-			"timeupdated" "1728477749"
+			"timeupdated" "1730366401"
 		}
 		"preview"
 		{
@@ -472,15 +478,21 @@
 		}
 		"test"
 		{
-			"buildid" "16009716"
+			"buildid" "16235836"
 			"pwdrequired" "1"
-			"timeupdated" "1728652153"
+			"timeupdated" "1730366198"
 		}
 		"test_before_release"
 		{
-			"buildid" "15887555"
+			"buildid" "16263749"
 			"pwdrequired" "1"
-			"timeupdated" "1727780028"
+			"timeupdated" "1730459127"
+		}
+		"unstable"
+		{
+			"buildid" "16264940"
+			"description" "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!"
+			"timeupdated" "1730483328"
 		}
 	}
 }
@@ -502,3 +514,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26010632"
+"_sha" "e4fee0293a7775914462836e10d367fbb8d8e8e3"
+"_size" "10208"
