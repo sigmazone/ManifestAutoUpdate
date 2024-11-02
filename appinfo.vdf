@@ -88,6 +88,44 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
 	"store_asset_mtime" "1580222108"
 	"associations"
 	{
@@ -153,7 +191,7 @@
 	"developer" "Mazjojo Productions"
 	"publisher" "Herculion"
 	"homepage" "https://fullservicegame.com"
-	"listofdlc" "1402640,1928770,1931830"
+	"listofdlc" "1402640,1928770,1931830,3295200"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -208,24 +246,24 @@
 		{
 			"public"
 			{
-				"gid" "5222825677830699552"
-				"size" "2530095158"
-				"download" "2174469952"
+				"gid" "1870840762216036577"
+				"size" "2198532021"
+				"download" "1871906912"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"testing"
-			{
-				"gid" "4DD99EBABDA8F19F14C633AB7E975128"
-				"size" "01469C8D07F27518BF6E4F5E0E6B0D18"
-				"download" "1D588B689FE1600446D14383EA00E855"
-			}
 			"visualguide"
 			{
 				"gid" "4083C7913FF78403A70DA5884905F5A4"
 				"size" "C61CC1FFFB0B89418C4E393A0E9423EC"
 				"download" "0E0C1157A93298F81341AD37C7118256"
+			}
+			"testing"
+			{
+				"gid" "B5D74AD267628D7A4FD4122BC0F73999"
+				"size" "C197F30B161C8902246374AD159B3C31"
+				"download" "4DBEB62AF3E1035C1FBCC1BAEE34FA04"
 			}
 		}
 	}
@@ -239,24 +277,24 @@
 		{
 			"public"
 			{
-				"gid" "2252235534014065347"
-				"size" "2530095158"
-				"download" "2174545264"
+				"gid" "8698950982762224162"
+				"size" "2198532021"
+				"download" "1869981936"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"testing"
-			{
-				"gid" "4F053AD7E6431E51AB695B926C813ECC"
-				"size" "01469C8D07F27518BF6E4F5E0E6B0D18"
-				"download" "88F7FC3E7E114854ED8B106AD45E35B1"
-			}
 			"visualguide"
 			{
 				"gid" "62513199D0EC39151DACD64A37669E11"
 				"size" "C61CC1FFFB0B89418C4E393A0E9423EC"
 				"download" "A1FA78E758DED8CECB28D8AA17F5505A"
+			}
+			"testing"
+			{
+				"gid" "099F2D563681A8CBC478DF5C3381EDE6"
+				"size" "C197F30B161C8902246374AD159B3C31"
+				"download" "DAAAB5326294C0A45CAA79EFD57F0258"
 			}
 		}
 	}
@@ -270,24 +308,24 @@
 		{
 			"public"
 			{
-				"gid" "560620177164771882"
-				"size" "2429370186"
-				"download" "2142663360"
+				"gid" "5003184942819722636"
+				"size" "2121370028"
+				"download" "1844597280"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"testing"
-			{
-				"gid" "42100C51CE2C374954455D79FF8F3C4C"
-				"size" "AB4CD04F334A9ADF503E2C7E179161BF"
-				"download" "D0D488031D82B73EA22DD422E9182014"
-			}
 			"visualguide"
 			{
 				"gid" "A95289E8FA32AAEC88575E00663DF748"
 				"size" "927252CA3209E1C80461195C2CC95D65"
 				"download" "882A7E987C23578C6B729B81A5A22F6A"
+			}
+			"testing"
+			{
+				"gid" "BC32383E3AA57D0F13CFCAF240ECB414"
+				"size" "D46ADF96D477C158CB895526760FF2D1"
+				"download" "3B0204F47BF265EA837159D143DD5FA9"
 			}
 		}
 	}
@@ -305,17 +343,17 @@
 		}
 		"encryptedmanifests"
 		{
-			"testing"
-			{
-				"gid" "AE7CDD47F54C5CC24A2C049D189D3C4C"
-				"size" "252AC5F1584F6DE89CEDACBEA57522A0"
-				"download" "8320C163AE795718359DB013359151C7"
-			}
 			"visualguide"
 			{
 				"gid" "C6BFAEEAE12C4C9076D3FCF2D216EBB2"
 				"size" "5A8B1AC1973EAE839B95E872FA0A8968"
 				"download" "890BC05193AD61A3AEFD03623E460664"
+			}
+			"testing"
+			{
+				"gid" "AE7CDD47F54C5CC24A2C049D189D3C4C"
+				"size" "252AC5F1584F6DE89CEDACBEA57522A0"
+				"download" "8320C163AE795718359DB013359151C7"
 			}
 		}
 	}
@@ -323,14 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "9078700"
-			"timeupdated" "1657204719"
-		}
-		"testing"
-		{
-			"buildid" "9078700"
-			"pwdrequired" "1"
-			"timeupdated" "1657198697"
+			"buildid" "16191390"
+			"timeupdated" "1730454165"
 		}
 		"visualguide"
 		{
@@ -338,5 +370,15 @@
 			"pwdrequired" "1"
 			"timeupdated" "1597928791"
 		}
+		"testing"
+		{
+			"buildid" "16191390"
+			"pwdrequired" "1"
+			"timeupdated" "1729946535"
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26004230"
+"_sha" "69905f2d0e17347a79c2322db7769a12463a3e17"
+"_size" "6913"
