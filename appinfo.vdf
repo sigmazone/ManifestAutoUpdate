@@ -22,6 +22,60 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728086400"
+		"tested_build_id" "14812930"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -166,14 +220,14 @@
 		"7" "4085"
 		"8" "4726"
 		"9" "3799"
-		"10" "21"
-		"11" "5395"
-		"12" "24904"
+		"10" "24904"
+		"11" "21"
+		"12" "5395"
 		"13" "4182"
 		"14" "6971"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -216,18 +270,18 @@
 		{
 			"public"
 			{
-				"gid" "5238705064165465915"
-				"size" "399639859"
-				"download" "248223296"
+				"gid" "5257164663118000507"
+				"size" "399784146"
+				"download" "248339264"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "A4666ABFE6C9644FD33D5C1B5A10997A"
-				"size" "A0DC4D0C061A127DEC4CBB30BE8F4E5F"
-				"download" "084344DA38E0939BFDA47AB11C9E19C0"
+				"gid" "D8E07FF8DAC9ED1DD39DB71DB3656A68"
+				"size" "6E3BCE43B7B2727B7F7AF659F44D82FE"
+				"download" "9B496BA437ED90DD6D5239260E321026"
 			}
 		}
 	}
@@ -235,14 +289,14 @@
 	{
 		"public"
 		{
-			"buildid" "15816195"
-			"timeupdated" "1727317461"
+			"buildid" "16273085"
+			"timeupdated" "1730534058"
 		}
 		"beta"
 		{
-			"buildid" "15816195"
+			"buildid" "16273085"
 			"pwdrequired" "1"
-			"timeupdated" "1727230173"
+			"timeupdated" "1730532960"
 		}
 	}
 }
@@ -264,3 +318,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26017752"
+"_sha" "bcb90290668b0384323a57e9c5b0b19cb24ed6b0"
+"_size" "5896"
