@@ -296,6 +296,17 @@
 		}
 	}
 	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3353959316"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "steamdeck"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -306,30 +317,36 @@
 		{
 			"public"
 			{
-				"gid" "4503987333274122364"
-				"size" "5833997859"
-				"download" "2996332320"
+				"gid" "6090981314688298869"
+				"size" "6050103685"
+				"download" "3100855776"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alin2"
 			{
-				"gid" "4B0B7BD0AE75CED5C986312F19B82F2F"
-				"size" "53E3C6EDCC43677B2AA316098A2CC128"
-				"download" "F0753D7D7ABF450EB7E8F9177F723E8E"
+				"gid" "3A7B7FDA490BCE55EF228ACC65C533ED"
+				"size" "5038A58298A4B74B1F82141815F81449"
+				"download" "23BB7DBDBDBBD031A627775B2DE28C98"
+			}
+			"steamdeck"
+			{
+				"gid" "DCF30FE1E0F721BCAFBE5B7BB7F45A00"
+				"size" "CBAFFD41C06803364EFE78FD94F92B6D"
+				"download" "4F857B1A1D0363C65B94D9F63F25DE8C"
 			}
 			"testing"
 			{
-				"gid" "6600E269251DD0E572BB876787D8E9D4"
-				"size" "09899F41EC8F88229DC23B43FF4C5C3B"
-				"download" "DD5A0792AF261D670D04AE60DDCFE801"
+				"gid" "619A2216FDD73318A394F90078E74D18"
+				"size" "5832AF4647172E8D6E49870B4E7A7E59"
+				"download" "5BEB192450D0EFCFB0A8EC33A590CA5F"
 			}
 			"staging"
 			{
-				"gid" "F9F0B861935DA833F7F0F1846EE98CC5"
-				"size" "80CD65D0F98AA953F615366E73E40316"
-				"download" "190A65C783AAA1B5C2C04C4472E57637"
+				"gid" "F96136651D748AAB0740F485A62C895E"
+				"size" "0BCED79B2F7588F987884BBC1A2FB3D0"
+				"download" "DF20B0E094602CB456D68CEEADF94C41"
 			}
 			"creatorspecial"
 			{
@@ -345,30 +362,56 @@
 			}
 		}
 	}
+	"1898302"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"steamdeck"
+			{
+				"gid" "C884577773219775609B182309D1FE3E"
+				"size" "31286C91514E14EFF8FC805250D3E100"
+				"download" "D18C4BA55C98B66D630BBD849B1267B1"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16099847"
-			"timeupdated" "1729274717"
+			"buildid" "16268813"
+			"timeupdated" "1730492569"
 		}
 		"alin2"
 		{
-			"buildid" "16093502"
+			"buildid" "16119948"
 			"pwdrequired" "1"
-			"timeupdated" "1729243169"
+			"timeupdated" "1729502106"
+		}
+		"steamdeck"
+		{
+			"buildid" "16181535"
+			"pwdrequired" "1"
+			"timeupdated" "1729865081"
 		}
 		"testing"
 		{
-			"buildid" "16099942"
+			"buildid" "16268986"
 			"pwdrequired" "1"
-			"timeupdated" "1729275080"
+			"timeupdated" "1730492172"
 		}
 		"staging"
 		{
-			"buildid" "16099847"
+			"buildid" "16268813"
 			"pwdrequired" "1"
-			"timeupdated" "1729274375"
+			"timeupdated" "1730491237"
 		}
 		"creatorspecial"
 		{
@@ -411,6 +454,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25790930"
-"_sha" "819f83da2cefefebae1c0f526945cf82d4394fe5"
-"_size" "7365"
+"_change_number" "26012407"
+"_sha" "13e734e6fe3a2d684cad5a9a62b4281977137c35"
+"_size" "8220"
