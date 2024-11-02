@@ -29,6 +29,55 @@
 		"japanese" "1"
 		"brazilian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729641600"
+		"tested_build_id" "15996378"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -118,7 +167,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729853826"
+	"store_asset_mtime" "1730294322"
 	"associations"
 	{
 		"0"
@@ -201,7 +250,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -239,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "7746411366966450289"
-				"size" "5604690377"
-				"download" "3966497328"
+				"gid" "379779041137652120"
+				"size" "5589968565"
+				"download" "3954572032"
 			}
 		}
 		"encryptedmanifests"
@@ -260,9 +309,9 @@
 			}
 			"juqingsha"
 			{
-				"gid" "1B7F01F17CB2C850D0F9087BF1AF66E3"
-				"size" "E13F6616E725014325FD0164D06E0FDB"
-				"download" "FC54B999C94681589F5D208237D481AF"
+				"gid" "8E24ECDCDF26779F66EC4114AF8F899D"
+				"size" "4F6EF2365C85DADCDB2F1CCA95222F2C"
+				"download" "CD776904CA277B2C6BAB27FE1ADE17EB"
 			}
 			"steam_china_only"
 			{
@@ -282,8 +331,8 @@
 	{
 		"public"
 		{
-			"buildid" "16178843"
-			"timeupdated" "1729851575"
+			"buildid" "16265338"
+			"timeupdated" "1730471880"
 		}
 		"alpha"
 		{
@@ -300,9 +349,9 @@
 		}
 		"juqingsha"
 		{
-			"buildid" "16178843"
+			"buildid" "16265338"
 			"pwdrequired" "1"
-			"timeupdated" "1729851371"
+			"timeupdated" "1730469485"
 		}
 		"steam_china_only"
 		{
@@ -339,6 +388,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25894786"
-"_sha" "8ae6f4763ec82f3d329c4ef1c33b49d26e9ce3b3"
-"_size" "6461"
+"_change_number" "26007757"
+"_sha" "cbe26dae65c6224ef0ad2e3dc07110864c27544c"
+"_size" "7674"
