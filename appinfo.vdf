@@ -36,11 +36,13 @@
 		"italian" "1"
 		"koreana" "1"
 		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
 		"brazilian" "1"
 		"latam" "1"
 	}
-	"openvr_action_manifest_path" "Myst\\Config\\SteamVRBindings\\steamvr_manifest.json"
-	"openvrsupport" "1"
+	"openxrsupport" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -89,6 +91,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -171,7 +174,8 @@
 	"genres"
 	{
 		"0" "25"
-		"1" "23"
+		"1" "4"
+		"2" "23"
 	}
 	"category"
 	{
@@ -182,6 +186,10 @@
 		"category_43" "1"
 		"category_52" "1"
 		"category_13" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_53" "1"
 		"category_62" "1"
 	}
@@ -264,10 +272,10 @@
 		"11" "6426"
 		"12" "1698"
 		"13" "5716"
-		"14" "1693"
-		"15" "4166"
-		"16" "5900"
-		"17" "5708"
+		"14" "597"
+		"15" "1693"
+		"16" "4166"
+		"17" "5900"
 	}
 	"review_score" "8"
 	"review_percentage" "88"
@@ -300,93 +308,6 @@
 			}
 			"description" "in 2D (DirectX 12)"
 		}
-		"1"
-		{
-			"executable" "Myst.exe"
-			"arguments" "-vr -d3d11"
-			"type" "option2"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "in VR"
-			}
-			"description" "in VR"
-		}
-		"2"
-		{
-			"executable" "Myst/Binaries/Mac/Myst.app"
-			"type" "default"
-			"config"
-			{
-				"oslist" "macos"
-				"betakey" "internal,external_partners"
-			}
-			"description_loc"
-			{
-				"english" "Launch Development configuration app."
-			}
-			"description" "Launch Development configuration app."
-		}
-		"3"
-		{
-			"executable" "Myst.exe"
-			"arguments" "-vr -d3d11 -hmd=SteamVR"
-			"type" "vr"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "in VR (while in SteamVR Home only)"
-			}
-			"description" "in VR (while in SteamVR Home only)"
-		}
-		"4"
-		{
-			"executable" "Myst/Binaries/Mac/Myst-Mac-Shipping.app"
-			"type" "default"
-			"config"
-			{
-				"oslist" "macos"
-			}
-		}
-		"5"
-		{
-			"executable" "Myst.exe"
-			"arguments" "-d3d11 -nohmd"
-			"type" "option1"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "in DirectX 11 (if machine can\'t use DirectX 12)"
-			}
-			"description" "in DirectX 11 (if machine can\'t use DirectX 12)"
-		}
-		"6"
-		{
-			"executable" "Myst/Binaries/Mac/Myst-Mac-Test.app"
-			"type" "default"
-			"config"
-			{
-				"oslist" "macos"
-				"betakey" "internal_test,internal_engineupgrade"
-			}
-			"description_loc"
-			{
-				"english" "Launch Test configuration app."
-			}
-			"description" "Launch Test configuration app."
-		}
 		"7"
 		{
 			"executable" "Myst.app"
@@ -394,30 +315,30 @@
 			"config"
 			{
 				"oslist" "macos"
-				"betakey" "internal,external_partners,internal_test,external_partners_test"
+			}
+		}
+		"8"
+		{
+			"executable" "Myst.exe"
+			"arguments" "-vr"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
 			}
 			"description_loc"
 			{
-				"english" "UE5 configuration build"
+				"english" "Myst in VR"
 			}
-			"description" "UE5 configuration build"
+			"description" "Myst in VR"
 		}
 	}
-	"steamcontrollertemplateindex" "4"
-	"steamconfigurator3rdpartynative" "11"
+	"steamcontrollertemplateindex" "2"
 	"steamdecktouchscreen" "5"
 }
 "depots"
 {
-	"228988"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"depotfromapp" "228980"
-		"sharedinstall" "1"
-	}
 	"228989"
 	{
 		"config"
@@ -456,19 +377,13 @@
 		{
 			"public"
 			{
-				"gid" "2955501610592268962"
-				"size" "9300501658"
-				"download" "8921628752"
+				"gid" "5701998152114423577"
+				"size" "8777502040"
+				"download" "8370031024"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"external_partners_shipping"
-			{
-				"gid" "03BFAC515F98433538012EE42C44DA66"
-				"size" "C7033BAFC3E1F72F8BCAAAFD9E000898"
-				"download" "D6F25CAA75B0BF3602680FC0B43CC28C"
-			}
 			"interal_legacysavetesting"
 			{
 				"gid" "78D3D60D4AF6A13FE5DB2A4663AD2F16"
@@ -483,39 +398,39 @@
 			}
 			"external_partners"
 			{
-				"gid" "1B2501C47BA6E04E500CDA66199D9D58"
-				"size" "EB4157ACC19D63E00FB7A6A55B874A3C"
-				"download" "8FD6B347A981D5A8425742718A4DC4D3"
+				"gid" "CF15853574315516EDFE06933011018B"
+				"size" "811F23CB99066105248383B2D3C3F1DF"
+				"download" "EE7E0AA395BEA9940669EEE4FAD743AC"
+			}
+			"external_partners_shipping"
+			{
+				"gid" "71C77815272265B1B38A20516AFA863B"
+				"size" "4663B21C435C2AFF8058F3B8ED35C329"
+				"download" "6747CA45C1D5DE6D0928C5BDB7F0D719"
 			}
 			"external_partners_test"
 			{
-				"gid" "0FE4C93935472B6B01BD84EE93A14647"
-				"size" "D288FEBC737D5E9AC4FB60A964EB4537"
-				"download" "EA553E6C423D2A8858E703F6FAE0A287"
+				"gid" "123EF594B2AF2F7E16A864FB92485C39"
+				"size" "3CD718D8476B017DD24F5A1584DA7B7F"
+				"download" "42B2F785FF33DA7D9A5E92E8C65E4B70"
 			}
 			"internal"
 			{
-				"gid" "8673182BAE575FF9BAA000C641B0B031"
-				"size" "85C43137F66C059D4B9BFD666A37C7A9"
-				"download" "58E2E13B6CDE698C7836A0F7DB7099EF"
+				"gid" "A21B71CEBAED6020F9BFECC2FB20937A"
+				"size" "77C25C4494425E2121B78600319480F1"
+				"download" "18E2231277620408A249DD27403B7BAC"
 			}
 			"internal_shipping"
 			{
-				"gid" "93DEB9E7813FBDC13D86AB7A32BFC84A"
-				"size" "399AE4CF8FA3D40310DF78598D4CE859"
-				"download" "95BBA87C92D59AE2FBEB718AACF3A331"
+				"gid" "E1DD80F483D588CBB239CA2BC9870650"
+				"size" "AC269C32FBF05F5626824A9A57AFC2AE"
+				"download" "C28A341D52CFAF4CF7CC9C165AA14C75"
 			}
 			"internal_test"
 			{
-				"gid" "5276FC1292FE6BC40502074B2DC24A22"
-				"size" "D2CB917A52FFE28768B9906DBFE344C3"
-				"download" "4D87FC2DDA620944A57A224AC7B454A6"
-			}
-			"internal_test_macrt"
-			{
-				"gid" "B0BEA9FD5950C0508FBCE93D66997F32"
-				"size" "36C65B30091BB6114650D43202E4F029"
-				"download" "71FDD0B64C1FBC940C609A6F30558443"
+				"gid" "03A2948CCE83FE3ABEB335ABA67AD9E7"
+				"size" "6A46CA442C93F02B2380D21463ADFA88"
+				"download" "F355B8D90FF6D9F77D6E271CC749F017"
 			}
 			"patch_01"
 			{
@@ -589,11 +504,17 @@
 				"size" "5804EB29419868A7693131C5CDE216FC"
 				"download" "CA3303824D8C0034FED56B30FB3F5B4F"
 			}
+			"patch_2-0"
+			{
+				"gid" "6C4CF2B012D1753AEB439E779459CA40"
+				"size" "2E41D4BC94B517A79D5ED55A22D995E5"
+				"download" "D90BFDB14E2054FB052A8CC68BF06CC1"
+			}
 			"staging"
 			{
-				"gid" "6EBC8A911C3195B9E360CF7E2EF04DC3"
-				"size" "35F3D1BCE280B088B51FA1F46449AD41"
-				"download" "A0F00806ABAD2DAACFE58A50234B4B68"
+				"gid" "76845B0CFDB5295740174F5C759001F1"
+				"size" "FF8E7E7483C0CAB616DE9B9B600C3E35"
+				"download" "2D9109780AAD2DE77A4B414C482A3C8F"
 			}
 			"ue4_internal"
 			{
@@ -619,19 +540,13 @@
 		{
 			"public"
 			{
-				"gid" "5998904543494293051"
-				"size" "9622073064"
-				"download" "8853528912"
+				"gid" "18426485406670391"
+				"size" "11581676675"
+				"download" "8973847552"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"external_partners_shipping"
-			{
-				"gid" "F8E6DF82031C37BB2BFFF7F42A217D63"
-				"size" "3BA85255137CED5502AB1819EE08EB5E"
-				"download" "9FAF64F82221BD098238FC53A4115B1A"
-			}
 			"internal_issuetesting"
 			{
 				"gid" "2E9100F6C9F613B7262FEC40E54E1F82"
@@ -640,39 +555,39 @@
 			}
 			"external_partners"
 			{
-				"gid" "48A3F4712CDA7FA4B262646BDF488303"
-				"size" "04E3D874C9B6700B2F49E4F3D13EDC9F"
-				"download" "8820647E03CB0BEE024C81DC5EFA45B0"
+				"gid" "AF1AD5485077B0B9F872D7B9838F2180"
+				"size" "AF996CCEBAD81C98B1A6ACB5664598D5"
+				"download" "C9255F822C4C774A937A207CEBA4D4C9"
+			}
+			"external_partners_shipping"
+			{
+				"gid" "42D2D0865F60CB7E715F829250DD84F6"
+				"size" "DEA5D0F4B9F44127E55E3567483EE7A3"
+				"download" "B015F1782A9303FB049382CDE0BFBA71"
 			}
 			"external_partners_test"
 			{
-				"gid" "E28AD4D1EFB5ABC63A05C1E4A7C281D0"
-				"size" "1EB6E845C8486108160C43377FE2AE82"
-				"download" "D43D926BCF121DF252BFDCA25803AE10"
+				"gid" "FF8196B909C5A3EE6E6E403E521BE07D"
+				"size" "B67DA7352697B652D885A39D6A6F3A1B"
+				"download" "5B1BBBDE5FF719CF5C0621D813CE4EC2"
 			}
 			"internal"
 			{
-				"gid" "A4E2EE391CBE2227A9E06BA2482DD003"
-				"size" "29B05DC06B0D56B58EC3F74D4148B40E"
-				"download" "D7ED9A902DA714391D002974A052757B"
+				"gid" "4AD80DFF22024D153C7E3648F6677410"
+				"size" "269A3ABE6DB85E875B2AABE70E61C498"
+				"download" "1F9A08D409A1A3E735D279FF7AA46F07"
 			}
 			"internal_shipping"
 			{
-				"gid" "5105502AE65EC78692B5818885102971"
-				"size" "77C9559AF91DDDBCA24845546F93868E"
-				"download" "87286F54311E656FDD2B44ED696BC0DB"
+				"gid" "93489EE0E9D427224EE71CA5940142F8"
+				"size" "75B040F49BCBFA7CA8B2A282F731965B"
+				"download" "DDE2FE7569B6770F1B82225596D94262"
 			}
 			"internal_test"
 			{
-				"gid" "408E235B1A6E4C6812E19AA6E8D67A68"
-				"size" "1023A6CF43114408468BF171C93195AB"
-				"download" "2B91C0AFD4F23E9793750C1DBF62CB95"
-			}
-			"internal_test_macrt"
-			{
-				"gid" "655751FEB9DF7EADFAFD41BB37B874FB"
-				"size" "033ECBC84914F583002C108DB50E018A"
-				"download" "2B891271BA4E54EC43FA623089EECB01"
+				"gid" "FD389B6CA78E482636DD9B60EFB9C2F2"
+				"size" "396E6CB149A69277C99FD513D3765A27"
+				"download" "FE8FB4EC21638D6E0DC34D1F578345E8"
 			}
 			"patch_01"
 			{
@@ -746,11 +661,17 @@
 				"size" "B665299E67F9E2EAF8B4368DB33CFEC7"
 				"download" "8B1F546955DCCA4E113CF511ED990F91"
 			}
+			"patch_2-0"
+			{
+				"gid" "D4C56DE0E844E85C453F0C791C48AB42"
+				"size" "6998DA068277606DE6BF978FB41592ED"
+				"download" "A378C49EABC2DD857F4EFA7C7F860F6A"
+			}
 			"staging"
 			{
-				"gid" "13889185AE95CE35FC7C9AE954EAC310"
-				"size" "F32585D58D262EB9EC9E163CA4367AA9"
-				"download" "B81E961F2554247E8C5B3B56F80CADB3"
+				"gid" "5E0F352655A8499610A6ECC13FBE11AA"
+				"size" "EF10F15CE3B1FA3915202D132992AE85"
+				"download" "C233DBBAD556277DF6EDB404FD653763"
 			}
 			"ue4_internal"
 			{
@@ -770,14 +691,8 @@
 	{
 		"public"
 		{
-			"buildid" "10411397"
-			"timeupdated" "1674869025"
-		}
-		"external_partners_shipping"
-		{
-			"buildid" "10411397"
-			"pwdrequired" "1"
-			"timeupdated" "1674758962"
+			"buildid" "16187824"
+			"timeupdated" "1730153784"
 		}
 		"interal_legacysavetesting"
 		{
@@ -793,39 +708,39 @@
 		}
 		"external_partners"
 		{
-			"buildid" "15452091"
+			"buildid" "16175016"
 			"pwdrequired" "1"
-			"timeupdated" "1724341653"
+			"timeupdated" "1730161651"
+		}
+		"external_partners_shipping"
+		{
+			"buildid" "16268022"
+			"pwdrequired" "1"
+			"timeupdated" "1730487948"
 		}
 		"external_partners_test"
 		{
-			"buildid" "15436379"
+			"buildid" "16268223"
 			"pwdrequired" "1"
-			"timeupdated" "1724341661"
+			"timeupdated" "1730487941"
 		}
 		"internal"
 		{
-			"buildid" "15784366"
+			"buildid" "16175016"
 			"pwdrequired" "1"
-			"timeupdated" "1726976096"
+			"timeupdated" "1729828682"
 		}
 		"internal_shipping"
 		{
-			"buildid" "15784506"
+			"buildid" "16268536"
 			"pwdrequired" "1"
-			"timeupdated" "1726978340"
+			"timeupdated" "1730488902"
 		}
 		"internal_test"
 		{
-			"buildid" "15784417"
+			"buildid" "16268223"
 			"pwdrequired" "1"
-			"timeupdated" "1726976945"
-		}
-		"internal_test_macrt"
-		{
-			"buildid" "15668773"
-			"pwdrequired" "1"
-			"timeupdated" "1726158766"
+			"timeupdated" "1730486873"
 		}
 		"patch_01"
 		{
@@ -899,11 +814,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1674869234"
 		}
+		"patch_2-0"
+		{
+			"buildid" "16187824"
+			"pwdrequired" "1"
+			"timeupdated" "1730153718"
+		}
 		"staging"
 		{
-			"buildid" "10411397"
+			"buildid" "16187824"
 			"pwdrequired" "1"
-			"timeupdated" "1674868990"
+			"timeupdated" "1730153741"
 		}
 		"ue4_internal"
 		{
@@ -970,3 +891,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26011754"
+"_sha" "220cfcad3bb9d1b6fa9e2b0cd76d30f463b3120d"
+"_size" "18710"
