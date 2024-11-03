@@ -37,6 +37,35 @@
 	{
 		"schinese" "4S店模拟器"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1728086400"
+		"tested_build_id" "15748270"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -246,7 +275,7 @@
 		"15" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -320,9 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "564759796211065046"
-				"size" "6845623010"
-				"download" "6456561328"
+				"gid" "2020350596746014630"
+				"size" "6859566618"
+				"download" "6470227584"
 			}
 		}
 	}
@@ -331,8 +360,12 @@
 	{
 		"public"
 		{
-			"buildid" "15748270"
-			"timeupdated" "1726697006"
+			"buildid" "16264930"
+			"timeupdated" "1730478754"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26018824"
+"_sha" "9bd6dd58d58d1d870abc268b709ec251308293c0"
+"_size" "6014"
