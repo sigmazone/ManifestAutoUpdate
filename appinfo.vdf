@@ -1,0 +1,362 @@
+"appid" "665360"
+"common"
+{
+	"name" "Comedy Night"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"icon" "adeee993be9886ca04225bbd04e5d296597d2698"
+	"logo" "7d63365b2be67a909afbd769679e35ae83b6a46f"
+	"logo_small" "7d63365b2be67a909afbd769679e35ae83b6a46f_thumb"
+	"clienttga" "0533150801cbe39767e21f6eedd934d7f913f855"
+	"clienticon" "f499fe57bb9c3c4d3dc7405e7e3d9af600a86acc"
+	"clienticns" "26349bf71c18e444c8c42d3d5b3c3c46fd478402"
+	"linuxclienticon" "8ed1b6bbc81cee559cc283a8cf04e2f92ed8c8d4"
+	"osextended" "macos64,macosapplesilicon"
+	"aicontenttype" "1"
+	"market_presence" "1"
+	"metacritic_name" "Comedy Night"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "21.69134572398815"
+			"height_pct" "42.28501244916315"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "21.69134572398815"
+				"height_pct" "42.28501244916315"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1698674459"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lighthouse Games Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lighthouse Games Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Lighthouse Games Studio"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_18" "1"
+		"category_35" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_25" "1"
+		"category_27" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1503597635"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "665360"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1719"
+		"2" "13782"
+		"3" "5923"
+		"4" "4136"
+		"5" "19995"
+		"6" "9204"
+		"7" "1775"
+		"8" "4726"
+		"9" "122"
+		"10" "10235"
+		"11" "4747"
+		"12" "1697"
+		"13" "10397"
+		"14" "15172"
+		"15" "4166"
+		"16" "599"
+		"17" "1685"
+		"18" "3843"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Lighthouse Games Studio"
+	"publisher" "Lighthouse Games Studio"
+	"homepage" "https://www.lighthousegamesstudio.com"
+}
+"config"
+{
+	"installdir" "Comedy Night"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Comedy Night.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Comedy Night.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "Contents\\MacOS\\Comedy Night"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"665361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1986481279993543432"
+				"size" "2278996387"
+				"download" "1743963328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_test"
+			{
+				"gid" "B4CE7E2C083B3A0C143858CB145BA503"
+				"size" "66FD57E54E09940BCD11BF5FD3DEEA61"
+				"download" "251E1D32254A2AFEA48A931F63E2BA5C"
+			}
+			"internal_testing"
+			{
+				"gid" "7AA8CD4BDAAAA5E7A255D1B6179B5527"
+				"size" "FCFEC5821BCD414A197872A0D25968DD"
+				"download" "CB2915B6DAB65DBA8B67807ECD2F42A5"
+			}
+			"mac_test"
+			{
+				"gid" "8B7F9156A15CF18590F7F61C1E429860"
+				"size" "FEB434687AAA71504F5494B4C53ACF38"
+				"download" "4C1BA6427300400A4F0ED5F53947DF96"
+			}
+		}
+	}
+	"665362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3428292777507903741"
+				"size" "1263954885"
+				"download" "572089888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_test"
+			{
+				"gid" "F6D23EF914FED692D20CE2C2C9FA6D41"
+				"size" "ED0528A01410CEA0EE7F2E0F82A60373"
+				"download" "71062F331F8B7A7D921CF8C4C34E8D06"
+			}
+			"internal_testing"
+			{
+				"gid" "9F6EFA1511F354A3A2F028DD2A313431"
+				"size" "B2C9F1461ED0403F4F493DB364671BAA"
+				"download" "679AA3415C466EEB8D76AE7526FD38D5"
+			}
+			"mac_test"
+			{
+				"gid" "8A5C1672DF0A16D3B2E7E6E419A09DE8"
+				"size" "20843D7BBA6F7A38A941421F6B95DFF3"
+				"download" "FA694B602F8E723DEA6A293FB9F2D8C9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16279361"
+			"timeupdated" "1730636775"
+		}
+		"beta_test"
+		{
+			"buildid" "16279361"
+			"pwdrequired" "1"
+			"timeupdated" "1730636821"
+		}
+		"internal_testing"
+		{
+			"buildid" "16279361"
+			"pwdrequired" "1"
+			"timeupdated" "1730636793"
+		}
+		"mac_test"
+		{
+			"buildid" "16279361"
+			"pwdrequired" "1"
+			"timeupdated" "1730636804"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26026135"
+"_sha" "c8398c00b5b5c78a8af6e73e5cacd64cf340b843"
+"_size" "6354"
