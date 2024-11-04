@@ -22,6 +22,10 @@
 		"dutch" "1"
 	}
 	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "黑猫侦探：深入本质"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -92,6 +96,55 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50.53709538174752"
 			"height_pct" "93.80804586286246"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.53709538174752"
+				"height_pct" "93.80804586286246"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1719405067"
@@ -187,8 +240,8 @@
 		"2" "6426"
 		"3" "1742"
 		"4" "6052"
-		"5" "6378"
-		"6" "6971"
+		"5" "6971"
+		"6" "6378"
 		"7" "4182"
 		"8" "5716"
 		"9" "1751"
@@ -200,11 +253,11 @@
 		"15" "4667"
 		"16" "3834"
 		"17" "1664"
-		"18" "4195"
-		"19" "1698"
+		"18" "1698"
+		"19" "4195"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -259,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "3398274368096517759"
-				"size" "15503991770"
-				"download" "12486771616"
+				"gid" "5916688184056781134"
+				"size" "15546580768"
+				"download" "12502602816"
 			}
 		}
 		"encryptedmanifests"
@@ -368,6 +421,12 @@
 				"size" "69911FE9D2B934B45B2E5AE612FF9556"
 				"download" "2D8684A12571FFE461E5152149F3C835"
 			}
+			"blacksad_chinese"
+			{
+				"gid" "E8D78F7876C8FEFC2D16CE70ABC57000"
+				"size" "8488A4B61AC345FB39B02A6E55E36142"
+				"download" "44414254F315EEDF2CF966C68BCF98CF"
+			}
 			"sneaky_test"
 			{
 				"gid" "E3A37B844F8EA08FC443947E4CE7A769"
@@ -418,6 +477,12 @@
 				"size" "B2DC2A2E2B2CC51467AA4B8024D10ADD"
 				"download" "8350D91F445032952C2C6CC625BEA2A4"
 			}
+			"blacksad_chinese"
+			{
+				"gid" "595CEEED41B69B2DE8F0ED9DE6C7AF9B"
+				"size" "156A06745F78A868609CFC7BE56A014B"
+				"download" "8B32D9E68563F53DB4AB2F76DE853811"
+			}
 			"sneaky_test"
 			{
 				"gid" "019B611B38524692A030EE5D37A5CC97"
@@ -436,8 +501,8 @@
 	{
 		"public"
 		{
-			"buildid" "14977277"
-			"timeupdated" "1721635550"
+			"buildid" "15955197"
+			"timeupdated" "1730736662"
 		}
 		"baseline"
 		{
@@ -541,6 +606,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1573588774"
 		}
+		"blacksad_chinese"
+		{
+			"buildid" "15955197"
+			"pwdrequired" "1"
+			"timeupdated" "1728314687"
+		}
 		"sneaky_test"
 		{
 			"buildid" "14942217"
@@ -572,6 +643,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24457096"
-"_sha" "943aceaea19dab1e4d0d6b6bd6ead0d210a60938"
-"_size" "11638"
+"_change_number" "26039984"
+"_sha" "9834281ed1894d3480ae7964df99f651aab36254"
+"_size" "12902"
