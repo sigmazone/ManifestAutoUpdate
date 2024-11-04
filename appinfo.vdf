@@ -1,0 +1,568 @@
+"appid" "2384620"
+"common"
+{
+	"name" "Out of the Park Baseball 25"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2384620_eula_0"
+			"name" "Out of the Park Baseball 25 EULA"
+			"url" "https://store.steampowered.com//eula/2384620_eula_0"
+			"version" "1"
+		}
+	}
+	"clienttga" "d270961676f6030521e4b0418e0e5832573f204b"
+	"clienticon" "01373daa22dbee2096ed8c4d0a2db35ca00cacb1"
+	"clienticns" "b3b9f8cd69ac1cfdb3547503b2a3c7a05725b048"
+	"linuxclienticon" "47f53a5bec444f9b369f65be382e3b95d5cc9daf"
+	"icon" "eac47d0568a318eb7e8622de76cf8f7529be0fda"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717200000"
+		"tested_build_id" "14143750"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1710260767"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Out of the Park Developments"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Out of the Park Developments"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Out of the Park Developments"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "18"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_35" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1710523310"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2384620"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "701"
+		"2" "9"
+		"3" "3810"
+		"4" "17305"
+		"5" "791774"
+		"6" "9204"
+		"7" "3871"
+		"8" "5727"
+		"9" "4191"
+		"10" "13190"
+		"11" "12472"
+		"12" "1708"
+		"13" "3987"
+		"14" "1775"
+		"15" "8945"
+		"16" "4202"
+		"17" "3859"
+		"18" "4182"
+		"19" "3878"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Out of the Park Developments"
+	"publisher" "Out of the Park Developments"
+	"homepage" "https://www.ootpdevelopments.com/out-of-the-park-baseball-home/"
+}
+"config"
+{
+	"installdir" "Out of the Park Baseball 25"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ootp25.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch OOTP 25"
+			}
+			"description" "Launch OOTP 25"
+		}
+		"1"
+		{
+			"executable" "OOTP Baseball 25.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch OOTP 25"
+			}
+			"description" "Launch OOTP 25"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana"
+	"workshopdepot" "2384620"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2384621"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7524250609695259881"
+				"size" "59081127"
+				"download" "19502800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamreview"
+			{
+				"gid" "0D50CB7030641F9E0E73784F7A97BDCD"
+				"size" "71ED821DF7B465CF46D264B4B980D561"
+				"download" "6F3535C1EFB1E2D101678140C2CB6EEB"
+			}
+			"beta"
+			{
+				"gid" "F01E7172C9C4834B642A67C0BD2966C2"
+				"size" "A64D39C9C8A60734EEA878878C9363E9"
+				"download" "83B7122980353EE7533E32D1D303A45B"
+			}
+			"internal"
+			{
+				"gid" "62D048927ED320C2E11134689AE48960"
+				"size" "7F6AC46E82AB77BA80FF9EEB609AF88C"
+				"download" "8F31504A6D8F2034F002A49524492B71"
+			}
+			"internal2"
+			{
+				"gid" "4B8CC5879AF8994A9F6B3E39B84EE006"
+				"size" "39AFEFDCD08A067011C80F8FC5CDE1C2"
+				"download" "36D44880BF795E8F362E45D42B9799D3"
+			}
+			"publicbeta"
+			{
+				"gid" "A08C5DC597160193C8BFFD14946F81C0"
+				"size" "B1939F329045FA4E387906DD9BC5847F"
+				"download" "BE1EF3617B88C2397AD2627A3C4C91C6"
+			}
+		}
+	}
+	"2384622"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3247109929596794978"
+				"size" "76547214"
+				"download" "17604624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamreview"
+			{
+				"gid" "69268A9C4478519EC28CB69E170AFC1C"
+				"size" "440A279469639CC325533776A2EEA2BA"
+				"download" "26C18C2EABAE234B7A473A12B122173C"
+			}
+			"beta"
+			{
+				"gid" "C20C9F04F513B9BE4BFE9DE201DD7F2A"
+				"size" "C94A8AEE205B1B261B6AF6B633CFA405"
+				"download" "BA9849981A143099F754A2CAAF50D5CC"
+			}
+			"internal"
+			{
+				"gid" "1B8C39A337FCC2DED3087B6E482FF186"
+				"size" "E89406414ECE285BA00FF2EEE97CA895"
+				"download" "C9D6D4BB1B37BB8DD0A49E9CEC9698AC"
+			}
+			"internal2"
+			{
+				"gid" "76643B6FC4B9593D251F79919CFE5231"
+				"size" "8A92D0A3D68B19F7E9FC4B811AD9CCB2"
+				"download" "5607758FAE53FE2D1CE7F4697011548A"
+			}
+			"publicbeta"
+			{
+				"gid" "147168E7CD6B172549873F71602F2C4F"
+				"size" "E22E531AEA43DCF3E51CD14F3875A256"
+				"download" "222024A31E56B94113078F7C81153295"
+			}
+		}
+	}
+	"2384624"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6405887654641615270"
+				"size" "46179"
+				"download" "16336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamreview"
+			{
+				"gid" "C9764A7DB246452FD28A3F08F520F9F6"
+				"size" "6EF77F5174B1DACA82D3805EF51BEC80"
+				"download" "7378A053F2E9F02B3F24EF7B014DD365"
+			}
+			"beta"
+			{
+				"gid" "6743E711FF62A33EC2ABCDD47581D85E"
+				"size" "23F7A6A766DB12855EAC109FBD8831B1"
+				"download" "0D42935141E25806748FC4BDF41E259C"
+			}
+			"internal"
+			{
+				"gid" "06041EB8994D31E17AEEFA7185FE234E"
+				"size" "A4BB1C421D8759675E7E415465DBA05D"
+				"download" "CEAE088E8733591BCEBBFD15F1CE209B"
+			}
+			"internal2"
+			{
+				"gid" "A106C3612D6BE99C1D7DD8AB19F0F87D"
+				"size" "6C76708D22619563C0458DD256770CDF"
+				"download" "BC723260D0F0157BD7782B57D83195AE"
+			}
+			"publicbeta"
+			{
+				"gid" "7564560765302176E1403ECE12C038F7"
+				"size" "55226BAC457C01C99002F36162AC536A"
+				"download" "4D8F5256DB3ACFB2E1D8694554ECF7E4"
+			}
+		}
+	}
+	"2384625"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7253367243269588680"
+				"size" "398285668"
+				"download" "52864432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamreview"
+			{
+				"gid" "2557CD5CBB26DDDD93ABBEA1B50BFF20"
+				"size" "58C91CF3DC4FD0CE316A7B5B991AAAC7"
+				"download" "FFDF8AC11E597C408F956E4BB0598850"
+			}
+			"beta"
+			{
+				"gid" "CFDF0E2185E38090A97D12878E38F704"
+				"size" "963F5E812D34239166214F79CE0C673C"
+				"download" "CCB537A47617BD9C44F33473EDBDCBE7"
+			}
+			"internal"
+			{
+				"gid" "6452E7C8380BCFB62ABD0467BD62EDA8"
+				"size" "B1C5EF2082DAA2291B1F6F3C04223722"
+				"download" "DA9BBB5EBA16641D4F1D9DFF4880ECC7"
+			}
+			"internal2"
+			{
+				"gid" "DDD29A1D760CDEBA96CDFC98A5F04280"
+				"size" "C3BFD729489FC491910D83F74ACA36A5"
+				"download" "40F63EC27A97AE6CED3DCE92EC6EB5FD"
+			}
+			"publicbeta"
+			{
+				"gid" "E69C766B01926545AB2A4778A327C67B"
+				"size" "06D7D20958C857F0788268CE9078D846"
+				"download" "008F5A8D5562F3A46A06DBC8CBEF7B6F"
+			}
+		}
+	}
+	"2384626"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4578871951032331186"
+				"size" "3476648165"
+				"download" "1956742608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamreview"
+			{
+				"gid" "F78A1943955E6DF948065D4CFA42E8B9"
+				"size" "467EA2A8B8D4811AA55F6AC1DDC8BC47"
+				"download" "8834B6BEC502354D395BFE508BB6A65B"
+			}
+			"beta"
+			{
+				"gid" "94B70798F705E0AA3DC98D9EFDD0D914"
+				"size" "910D4C82AB26027AE8D73D877D0A2226"
+				"download" "A2D5A3B742F6052180FF3070D7AF549C"
+			}
+			"internal"
+			{
+				"gid" "5175B083110CD227FEA6BE210FDF20D2"
+				"size" "1B28DFD9D1A721E7EE65E7B32C1A72CE"
+				"download" "8968CF2105D48482CA785DFCA951EB6D"
+			}
+			"internal2"
+			{
+				"gid" "1342DAEFAA6ACEAEFF23C9E093D0E61B"
+				"size" "4CBFD2CE7E3EC28A328862DFD68E6489"
+				"download" "C775B2C32E3C9DC7740ABADAB6D282C4"
+			}
+			"publicbeta"
+			{
+				"gid" "96A19F1D5FE12170BD42B79FDD15284B"
+				"size" "3969F00F75E1736F190BCAC78B4E4DA0"
+				"download" "AE104562B0006F08A7CD8A06009B0344"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16066328"
+			"timeupdated" "1730215167"
+		}
+		"steamreview"
+		{
+			"buildid" "13656084"
+			"pwdrequired" "1"
+			"timeupdated" "1709722892"
+		}
+		"beta"
+		{
+			"buildid" "16066328"
+			"pwdrequired" "1"
+			"timeupdated" "1729085608"
+		}
+		"internal"
+		{
+			"buildid" "16066328"
+			"pwdrequired" "1"
+			"timeupdated" "1729085593"
+		}
+		"internal2"
+		{
+			"buildid" "15996149"
+			"pwdrequired" "1"
+			"timeupdated" "1730121962"
+		}
+		"publicbeta"
+		{
+			"buildid" "16066328"
+			"pwdrequired" "1"
+			"timeupdated" "1729507522"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "25953455"
+"_sha" "929dc7810e1fb9e05b88231eb6a196d089883ebd"
+"_size" "11527"
