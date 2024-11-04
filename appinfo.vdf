@@ -12,6 +12,35 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1729900800"
+		"tested_build_id" "16151088"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -377,9 +406,9 @@
 		{
 			"public"
 			{
-				"gid" "4443317477206359521"
-				"size" "9968843797"
-				"download" "7813523296"
+				"gid" "4612984175786078934"
+				"size" "9983492068"
+				"download" "7823483856"
 			}
 		}
 		"encryptedmanifests"
@@ -392,9 +421,9 @@
 			}
 			"backtracking_builds"
 			{
-				"gid" "12088E0936242A4B5CAD88DCE895CC24"
-				"size" "6D8ABB08F1C55BD5E8303A1CE9FDA01E"
-				"download" "A88B7D6C98F298C2E43D51F690B4F0B8"
+				"gid" "DDE09C5748930250845F40F35227ADFE"
+				"size" "CCEB6B463AE04862321A4C2E5DDF69FD"
+				"download" "229376604803A7133D536B8574D177F9"
 			}
 			"darek_branch"
 			{
@@ -404,9 +433,9 @@
 			}
 			"marketing"
 			{
-				"gid" "449B118352D0B92D1D82B421B1AC8486"
-				"size" "8792A172B1CE120676397781A4AD2D9E"
-				"download" "72154FD96A94CB5F9720E673A01F46B0"
+				"gid" "7030A4B8E2D7B59D08C70B9D5C43295F"
+				"size" "1F6ACADC0C49A4244B3E4D74F6D1CDE8"
+				"download" "9CA6578013A7757524FED42A4629712B"
 			}
 			"old-build"
 			{
@@ -416,9 +445,9 @@
 			}
 			"openbeta"
 			{
-				"gid" "C0012CEB7770E37BD819CA58759755D1"
-				"size" "635B7AE184E54DB400928A93E3B5E529"
-				"download" "94DBB51F1CEF4EC6407EC800C464AA10"
+				"gid" "284FCF66141136F13A7FD419010E1D0E"
+				"size" "109D9B3B1EBFF799B8402FB45A2C964C"
+				"download" "44CA17E2AB7DD0F0339497C320264A1D"
 			}
 			"performance_test"
 			{
@@ -428,15 +457,15 @@
 			}
 			"rc-build"
 			{
-				"gid" "F76126E4C7E8D326246AFEDB60ABB357"
-				"size" "E87C5CE95780BDF0DB2D37CD3674ACBB"
-				"download" "E8DD18F294B214E996C45AD5BFDCB87B"
+				"gid" "DE0EC36EBC7C0C95642FBA857BB6B22C"
+				"size" "84F2BBC7765759AA4A2592E2BC42F6A6"
+				"download" "C853D583FDEC93E751F7D73AA9DAB39F"
 			}
 			"unstable"
 			{
-				"gid" "2D0C8468D504FF85436F3FAF0CAC1900"
-				"size" "838E9813086F925FA02EED9C48A2CF33"
-				"download" "0CBA40EC042FD4023BF73B6ABB2B2171"
+				"gid" "E2CAB2168450C858927CBE1CD858CDD5"
+				"size" "C4C4C32C377B1324290BA573434C6022"
+				"download" "065870F5458615DB61C835FC42BC678F"
 			}
 		}
 	}
@@ -444,8 +473,8 @@
 	{
 		"public"
 		{
-			"buildid" "16184655"
-			"timeupdated" "1729886177"
+			"buildid" "16257540"
+			"timeupdated" "1730724144"
 		}
 		"presentation"
 		{
@@ -455,9 +484,9 @@
 		}
 		"backtracking_builds"
 		{
-			"buildid" "16179912"
+			"buildid" "16219757"
 			"pwdrequired" "1"
-			"timeupdated" "1729858488"
+			"timeupdated" "1730198480"
 		}
 		"darek_branch"
 		{
@@ -467,9 +496,9 @@
 		}
 		"marketing"
 		{
-			"buildid" "16071595"
+			"buildid" "16221204"
 			"pwdrequired" "1"
-			"timeupdated" "1729168280"
+			"timeupdated" "1730206480"
 		}
 		"old-build"
 		{
@@ -479,9 +508,9 @@
 		}
 		"openbeta"
 		{
-			"buildid" "16181731"
+			"buildid" "16257540"
 			"pwdrequired" "1"
-			"timeupdated" "1729866243"
+			"timeupdated" "1730723976"
 		}
 		"performance_test"
 		{
@@ -491,26 +520,113 @@
 		}
 		"rc-build"
 		{
-			"buildid" "15952429"
+			"buildid" "16257540"
 			"pwdrequired" "1"
-			"timeupdated" "1729419480"
+			"timeupdated" "1730411296"
 		}
 		"unstable"
 		{
-			"buildid" "16186892"
+			"buildid" "16287322"
 			"pwdrequired" "1"
-			"timeupdated" "1729896903"
+			"timeupdated" "1730724328"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "134217728"
-	"maxnumfiles" "18"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"quota" "536870912"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "Slot*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "GameInstanceSave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "EnhancedInputUserSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "Slot*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"4"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "GameInstanceSave.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"5"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "EnhancedInputUserSettings.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+					"replace" "StorageHunter/Saved/SaveGames"
+				}
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "25907495"
-"_sha" "511ab048f2dc013b99839dd0e3f9621199faaaaf"
-"_size" "10557"
+"_change_number" "26036910"
+"_sha" "f0f75e5d16fe5f3ebba7183db4f5866508906606"
+"_size" "13228"
