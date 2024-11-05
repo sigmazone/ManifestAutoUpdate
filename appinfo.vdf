@@ -191,7 +191,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723114759"
+	"store_asset_mtime" "1727253270"
 	"associations"
 	{
 		"0"
@@ -316,19 +316,19 @@
 		"7" "4085"
 		"8" "1697"
 		"9" "4191"
-		"10" "4166"
-		"11" "4342"
-		"12" "1741"
+		"10" "1741"
+		"11" "4166"
+		"12" "4342"
 		"13" "6971"
 		"14" "4026"
-		"15" "5363"
-		"16" "1677"
-		"17" "4182"
-		"18" "916648"
+		"15" "1677"
+		"16" "5363"
+		"17" "916648"
+		"18" "4182"
 		"19" "3835"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -349,8 +349,41 @@
 		}
 	}
 	"steamdecktouchscreen" "5"
-	"steamcontrollertemplateindex" "4"
+	"steamcontrollertemplateindex" "1"
 	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollerconfigdetails"
+	{
+		"3280672520"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,compat01,compat02,development,dev_experiment,localization,media_01,media_02,patch_1_0_1_shipping,patch_1_0_1_test,patch_1_0_2_shipping,patch_1_0_2_test,patch_1_0_3_shipping,patch_1_0_3_test,pv_usage,ratings,review_01,shipping"
+			"use_action_block" "false"
+		}
+		"3280708777"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,compat01,compat02,development,dev_experiment,localization,media_01,media_02,patch_1_0_1_shipping,patch_1_0_1_test,patch_1_0_2_shipping,patch_1_0_2_test,patch_1_0_3_shipping,patch_1_0_3_test,pv_usage,ratings,review_01,shipping"
+			"use_action_block" "false"
+		}
+		"3282658950"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,compat01,compat02,development,dev_experiment,localization,media_01,media_02,patch_1_0_1_shipping,patch_1_0_1_test,patch_1_0_2_shipping,patch_1_0_2_test,patch_1_0_3_shipping,patch_1_0_3_test,pv_usage,ratings,review_01,shipping"
+			"use_action_block" "false"
+		}
+		"3329994533"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,compat01,compat02,development,dev_experiment,localization,media_01,media_02,patch_1_0_1_shipping,patch_1_0_1_test,patch_1_0_2_shipping,patch_1_0_2_test,patch_1_0_3_shipping,patch_1_0_3_test,pv_usage,ratings,review_01,shipping"
+			"use_action_block" "false"
+		}
+		"3350939430"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,compat01,compat02,development,dev_experiment,localization,media_01,media_02,patch_1_0_1_shipping,patch_1_0_1_test,patch_1_0_2_shipping,patch_1_0_2_test,patch_1_0_3_shipping,patch_1_0_3_test,pv_usage,ratings,review_01,shipping"
+			"use_action_block" "false"
+		}
+	}
 }
 "depots"
 {
@@ -393,9 +426,9 @@
 		{
 			"public"
 			{
-				"gid" "1813426235816995378"
-				"size" "32337666748"
-				"download" "29881600240"
+				"gid" "9095520262614724703"
+				"size" "32357595873"
+				"download" "29897994896"
 			}
 		}
 		"encryptedmanifests"
@@ -492,15 +525,15 @@
 			}
 			"patch_1_0_3_shipping"
 			{
-				"gid" "64A17DA58BDB6C848BBFE9DEFC7FA0C4"
-				"size" "1CE3A5D04C07AB2154177AF831ECD7E7"
-				"download" "45912D9EBE378931ABD0BBF7AA8F34DE"
+				"gid" "C2EA166C14888E052684D6126EEEC28F"
+				"size" "8FD944CB31A86F21D1506E26D058DFA6"
+				"download" "756357C5ABE7BBC91F7FE7A1758581AC"
 			}
 			"patch_1_0_3_test"
 			{
-				"gid" "55918CC0C97045F328DBC7F4EF4A521B"
-				"size" "A6FAEBF2DD8FF21BF55B2900C90A3A36"
-				"download" "09307FA9999FEFD4C4CCE6E714275ED0"
+				"gid" "D06C8461F28F480F3FFA7CAD4B4B3684"
+				"size" "936980F4931435D547FD3DEFA1F9C59A"
+				"download" "8BC5CDB8B99104DE054C534142DC917F"
 			}
 		}
 	}
@@ -536,8 +569,8 @@
 	{
 		"public"
 		{
-			"buildid" "15236973"
-			"timeupdated" "1725411714"
+			"buildid" "16246338"
+			"timeupdated" "1730732329"
 		}
 		"compat01"
 		{
@@ -631,15 +664,15 @@
 		}
 		"patch_1_0_3_shipping"
 		{
-			"buildid" "15652455"
+			"buildid" "16246338"
 			"pwdrequired" "1"
-			"timeupdated" "1725978747"
+			"timeupdated" "1730344099"
 		}
 		"patch_1_0_3_test"
 		{
-			"buildid" "15709319"
+			"buildid" "16232124"
 			"pwdrequired" "1"
-			"timeupdated" "1726436057"
+			"timeupdated" "1730267365"
 		}
 	}
 }
@@ -663,3 +696,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26038814"
+"_sha" "ca83f6528b54fdbf74db2a77a72da154262a2da8"
+"_size" "15456"
