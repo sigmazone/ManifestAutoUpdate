@@ -30,16 +30,6 @@
 	"clienttga" "d7a0925c5c183c2c0d4c125c1e5da0638bf348ca"
 	"clienticon" "47a25bcec9162d15f4ca971951a2d3f2c44a8171"
 	"releasestate" "released"
-	"eulas"
-	{
-		"0"
-		{
-			"id" "691260_eula_0"
-			"name" "POPULATION: ONE EULA"
-			"url" "https://store.steampowered.com//eula/691260_eula_0"
-			"version" "1"
-		}
-	}
 	"openvr_action_manifest_path" "PopulationONE_Data\\StreamingAssets\\SteamVR\\actions.json"
 	"exfgls" "1"
 	"steam_deck_compatibility"
@@ -226,42 +216,39 @@
 }
 "depots"
 {
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"691261"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3693536440318387698"
-				"size" "15829025061"
-				"download" "5932784480"
-			}
-			"augusthotfix"
-			{
-				"gid" "3633002360033342557"
-				"size" "15825835812"
-				"download" "5932010624"
-			}
-			"latest"
-			{
-				"gid" "5797113269301917836"
-				"size" "15787853488"
-				"download" "5908655824"
+				"gid" "2648027849892269958"
+				"size" "15832839701"
+				"download" "5933431456"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "50A5D118EE507FD04D2D49BC953DD38B"
-				"size" "C25A77E17028B7C60A34D9F5E0C48A83"
-				"download" "5738F85DFE3BBFE7294E9AF23AD74668"
+				"gid" "6D082C1DB0606C278D3E0CBC3E1C8860"
+				"size" "935B0B7B193F662330767C13C94A3140"
+				"download" "2FA3EF397CEA304B0A445FE43764D08D"
 			}
 			"dev-latest"
 			{
-				"gid" "838DFA11ED89D9C00469A014FE9B465A"
-				"size" "687BD0C8964D0BBA5CBC3158B8648506"
-				"download" "405D06B04165254B7E70F40BF5178B3B"
+				"gid" "C4E8EA0AE62A4208BBF6AC771248F1D3"
+				"size" "21834106D6D74D6CD929B869A6398925"
+				"download" "044B9DFD5DBE59B90B74117C7BA89DD8"
 			}
 			"earlyaccess"
 			{
@@ -275,29 +262,17 @@
 				"size" "B6DE17925BB624CB1B3919FE126AD557"
 				"download" "D771433453249D725EE5140AF7C01B32"
 			}
-			"jitter01-staging"
-			{
-				"gid" "DFE8DA1E9A853EDAEB0B087262552A7F"
-				"size" "74B705B7CDDC5969DA8644134BE6B02A"
-				"download" "458ABD0C428BFFDD8BAB19B513114ED8"
-			}
-			"sneak-peak-viewer"
-			{
-				"gid" "63D7D3B07D5910AC88BF03A20BE02ECF"
-				"size" "FA8EFC32427E8B8EE230F74B92EB7EE8"
-				"download" "4CA68D5EDE7C59ABD6C2597079469F64"
-			}
 			"viewer"
 			{
-				"gid" "C3F46C3BD97EAE0F9F36D8FB1FD7F329"
-				"size" "B216CB686221A286BD402B8196461F28"
-				"download" "813812FE8444C7EE375BEEB36354CAF6"
+				"gid" "6699929A43255F001ADB3102962396FD"
+				"size" "E4ECC24298A89AAB4AAD139A17324FE9"
+				"download" "E0E54B11DD8F973EF7558129C6684BB6"
 			}
 			"viewer-alpha"
 			{
-				"gid" "5ED477F698ED1A1917333C9F537DCA83"
-				"size" "AB6FD05D7DBF9126E7EAA6205CA05FB0"
-				"download" "5CA8E12DE0264E61A3701ADDC7C5FE54"
+				"gid" "CC0DEE31BD0A8DFB359EA64E9BE0870A"
+				"size" "9333AFBF18AEB5373E9E268EE853A600"
+				"download" "C1D6996874F2F5B046A76F35ED09C536"
 			}
 		}
 	}
@@ -305,26 +280,20 @@
 	{
 		"public"
 		{
-			"buildid" "15957513"
-			"timeupdated" "1729006541"
+			"buildid" "16219317"
+			"timeupdated" "1730738348"
 		}
 		"alpha"
 		{
-			"buildid" "15957513"
+			"buildid" "16219317"
 			"pwdrequired" "1"
-			"timeupdated" "1728327210"
-		}
-		"augusthotfix"
-		{
-			"buildid" "15526055"
-			"description" "August Hotfix"
-			"timeupdated" "1724898438"
+			"timeupdated" "1730196477"
 		}
 		"dev-latest"
 		{
-			"buildid" "16062022"
+			"buildid" "16284750"
 			"pwdrequired" "1"
-			"timeupdated" "1729063730"
+			"timeupdated" "1730708345"
 		}
 		"earlyaccess"
 		{
@@ -338,35 +307,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1715796728"
 		}
-		"jitter01-staging"
-		{
-			"buildid" "14729408"
-			"pwdrequired" "1"
-			"timeupdated" "1718464788"
-		}
-		"latest"
-		{
-			"buildid" "15202439"
-			"description" "Beta Build Testing"
-			"timeupdated" "1722360009"
-		}
-		"sneak-peak-viewer"
-		{
-			"buildid" "14446846"
-			"pwdrequired" "1"
-			"timeupdated" "1716325693"
-		}
 		"viewer"
 		{
-			"buildid" "16053827"
+			"buildid" "16217151"
 			"pwdrequired" "1"
-			"timeupdated" "1729007117"
+			"timeupdated" "1730738359"
 		}
 		"viewer-alpha"
 		{
-			"buildid" "15376512"
+			"buildid" "16217151"
 			"pwdrequired" "1"
-			"timeupdated" "1723689828"
+			"timeupdated" "1730185236"
 		}
 	}
 }
@@ -376,6 +327,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "25741794"
-"_sha" "4bd739e3bcb0111871afde700b0dc751aa787f8a"
-"_size" "7315"
+"_change_number" "26040413"
+"_sha" "5f49effb7d3c630fb19f7c53929c8da3b16da7d5"
+"_size" "6182"
