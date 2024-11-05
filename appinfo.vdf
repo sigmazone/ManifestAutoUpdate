@@ -1,13 +1,13 @@
 "appid" "226700"
 "common"
 {
-	"name" "Infestation: Survivor Stories 2020"
+	"name" "Infestation: The New Beginning"
 	"type" "Game"
 	"logo" "69e0c20fd13765b5e9abb62052ffe839217f8963"
 	"logo_small" "69e0c20fd13765b5e9abb62052ffe839217f8963_thumb"
-	"icon" "ab6d7f0b24559766a9de3b5eeb702cc6fe15a077"
-	"clienttga" "509ad1fcc04076450e659ff684c5b7bc5267b1da"
-	"clienticon" "e5e4c8787283dc09dfdb00c409c81f36a35a4eac"
+	"icon" "02341dac42a13356d945f4a299913a8028a089c1"
+	"clienttga" "1230061176ee2bb620bd148bdcc067afa660ae4c"
+	"clienticon" "24e66a8779f8e5a978b822e162747ed8d2a19c65"
 	"oslist" "windows"
 	"exfgls" "1"
 	"eulas"
@@ -22,7 +22,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "2a6726a74dc224fb55d6f030f455d58e6c561010/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -33,10 +33,11 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
-			"width_pct" "48.720930232558146"
+			"width_pct" "100"
 			"height_pct" "100"
 		}
 	}
@@ -46,18 +47,22 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "bd557e3cf5ca46c3b57f9866d03737f5bdaeac93/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "bd557e3cf5ca46c3b57f9866d03737f5bdaeac93/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "78459bc1c0d68c2e4a6e6786fba87f349e5901da/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "78459bc1c0d68c2e4a6e6786fba87f349e5901da/library_hero_2x.jpg"
 			}
 		}
 		"library_logo"
@@ -65,16 +70,31 @@
 			"logo_position"
 			{
 				"pinned_position" "CenterCenter"
-				"width_pct" "48.720930232558146"
+				"width_pct" "100"
 				"height_pct" "100"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "88eef9e1fdfd47b21c05702a126cfc229e5eb3ed/logo.png"
+			}
+			"image2x"
+			{
+				"english" "88eef9e1fdfd47b21c05702a126cfc229e5eb3ed/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "5699a0610068d5a8e313b2d7e046e2ab0af99664/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "5699a0610068d5a8e313b2d7e046e2ab0af99664/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1620741412"
+	"store_asset_mtime" "1727877953"
 	"associations"
 	{
 		"0"
@@ -92,10 +112,10 @@
 	"genres"
 	{
 		"0" "1"
-		"1" "37"
-		"2" "23"
-		"3" "29"
-		"4" "3"
+		"1" "23"
+		"2" "29"
+		"3" "3"
+		"4" "37"
 	}
 	"category"
 	{
@@ -157,6 +177,22 @@
 		{
 			"supported" "true"
 		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+		}
 	}
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -192,7 +228,7 @@
 	"checkpkgstate" "1"
 	"developer" "Fredaikis AB"
 	"gamedir" "ValveTestApp226700"
-	"homepage" "https://www.playnewz.com/"
+	"homepage" "https://www.playnewz.com"
 	"icon" ""
 	"noservers" "0"
 	"sourcegame" "1"
@@ -308,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "8497064016850259433"
-				"size" "18054082886"
-				"download" "14951619440"
+				"gid" "1636516580558122653"
+				"size" "18184715021"
+				"download" "15067475040"
 			}
 		}
 	}
@@ -318,24 +354,12 @@
 	{
 		"public"
 		{
-			"buildid" "15701299"
-			"timeupdated" "1726315290"
+			"buildid" "16177652"
+			"timeupdated" "1729846095"
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_ow" "Playing Arcade"
-				"#status_br" "Playing Battle Royale"
-				"#status_comp" "Playing Competitive"
-				"#status_surv" "Playing Survival"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "25892672"
+"_sha" "07d50944966700350a61af26d74dfc34a15caa8e"
+"_size" "6343"
