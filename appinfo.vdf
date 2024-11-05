@@ -98,6 +98,52 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1687446463"
 	"associations"
 	{
@@ -252,15 +298,15 @@
 		{
 			"public"
 			{
-				"gid" "5673800973040600504"
-				"size" "1279337241"
-				"download" "199499088"
+				"gid" "2532798683716523302"
+				"size" "1421155770"
+				"download" "333237152"
 			}
 			"preview"
 			{
-				"gid" "5673800973040600504"
-				"size" "1279337241"
-				"download" "199499088"
+				"gid" "2532798683716523302"
+				"size" "1421155770"
+				"download" "333237152"
 			}
 		}
 		"encryptedmanifests"
@@ -276,12 +322,6 @@
 				"gid" "AA1A98973782D3AF95A3BDF5D604BCE6"
 				"size" "B20240A3B2BC04E86B3B8A737CBA1CD5"
 				"download" "22EBA127DA8144A74C9E5D8E455E0379"
-			}
-			"internaltest"
-			{
-				"gid" "DF40F9C3DC0D25D329437C940858C721"
-				"size" "91E7480D89A449BEAB9BCBA71B44BFFF"
-				"download" "1E137F791E7DD7C27B531E1BD0678E0E"
 			}
 			"locapreview"
 			{
@@ -306,6 +346,18 @@
 				"gid" "EBD9686BD9678F28C2FA4364672EF981"
 				"size" "E06C3E9796876A1BB58A5884102CC9A6"
 				"download" "6184E1D6EDE2C66041A02D37BEE46E23"
+			}
+			"internaltest"
+			{
+				"gid" "0CAE1936E1AAD5E167DB13BEDCD3A658"
+				"size" "88188B2AAAEEDF83B74830618D02F737"
+				"download" "4C80093A9CF79ED36C6EB1AFFC0481DF"
+			}
+			"ttowntwo"
+			{
+				"gid" "835498140059BF62297E908AB694431A"
+				"size" "AC5F0A78F589F025C53045CFD65E3EB7"
+				"download" "706D823B6EED1DF24EA33F3A424409A7"
 			}
 		}
 	}
@@ -345,12 +397,6 @@
 				"size" "2E5D0ED9C8C45EF3888E184812FDD276"
 				"download" "D43DE5594E67AE26B1CAA05D31393887"
 			}
-			"internaltest"
-			{
-				"gid" "B351F35F1EED02309E33E8AB6D72FE71"
-				"size" "52D74366011549841A8F69B774696602"
-				"download" "7F38FB503380B3D39720318E2F3B8C9C"
-			}
 			"locapreview"
 			{
 				"gid" "07108F21542AE8A6993C203394658973"
@@ -375,14 +421,26 @@
 				"size" "CEC5E4C82DFB100D3A70EBAAA652588F"
 				"download" "F4A95DB9C09B6D084E246860D665137C"
 			}
+			"internaltest"
+			{
+				"gid" "B351F35F1EED02309E33E8AB6D72FE71"
+				"size" "52D74366011549841A8F69B774696602"
+				"download" "7F38FB503380B3D39720318E2F3B8C9C"
+			}
+			"ttowntwo"
+			{
+				"gid" "0FAEF5B15C8E4C5E78315C89F11F4C55"
+				"size" "B9D9922DBDAF5FF62A43E31BDFCE8EF9"
+				"download" "6A28B663EF56E447DC26398B8DB53591"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14626979"
-			"timeupdated" "1717683871"
+			"buildid" "16288962"
+			"timeupdated" "1730737252"
 		}
 		"creatorsamongus"
 		{
@@ -395,12 +453,6 @@
 			"buildid" "8970243"
 			"pwdrequired" "1"
 			"timeupdated" "1655717582"
-		}
-		"internaltest"
-		{
-			"buildid" "14080325"
-			"pwdrequired" "1"
-			"timeupdated" "1713343024"
 		}
 		"locapreview"
 		{
@@ -426,11 +478,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1709641387"
 		}
+		"internaltest"
+		{
+			"buildid" "15728669"
+			"pwdrequired" "1"
+			"timeupdated" "1726575033"
+		}
 		"preview"
 		{
-			"buildid" "14626979"
+			"buildid" "16288962"
 			"description" "Public testing version"
-			"timeupdated" "1717683892"
+			"timeupdated" "1730737272"
+		}
+		"ttowntwo"
+		{
+			"buildid" "16288962"
+			"pwdrequired" "1"
+			"timeupdated" "1730733583"
 		}
 	}
 }
@@ -458,28 +522,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %SCORE%"
-				"#status_atmainmenu" "Im Hauptmenü"
-				"#status_waitingformatch" "Wartet auf Partie"
-				"#status_winning" "Gewinnt"
-				"#status_losing" "Verliert"
-				"#status_tied" "Unentschieden"
-				"#status_singleplayer" "Spielt Singleplayer"
-				"#status_multiplayer" "Spielt Multiplayer"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23856935"
-"_sha" "bd4f18aaaa346314e4846b001a55e3ed1610eaab"
-"_size" "9439"
+"_change_number" "26040141"
+"_sha" "bd1f80b6dc742d58c6b19a6d796f72d27b23ed2d"
+"_size" "10157"
