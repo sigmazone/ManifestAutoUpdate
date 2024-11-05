@@ -192,9 +192,9 @@
 	{
 		"0" "42804"
 		"1" "1734"
-		"2" "1716"
-		"3" "1720"
-		"4" "3843"
+		"2" "3843"
+		"3" "1716"
+		"4" "1720"
 		"5" "4057"
 		"6" "5851"
 		"7" "3859"
@@ -212,7 +212,7 @@
 		"19" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "60"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -263,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "4273031231107285597"
-				"size" "3819387940"
-				"download" "3405308816"
+				"gid" "7214805549069622381"
+				"size" "3708872532"
+				"download" "3298201712"
 			}
 		}
 		"encryptedmanifests"
@@ -276,11 +276,17 @@
 				"size" "1F3359A6242ABDE77F775A01090B46F3"
 				"download" "2F929D563A96C55573C3CAB9BA04B1C4"
 			}
-			"stable"
+			"content_revise"
 			{
-				"gid" "8AFD5C11A92D0F00081C90AE0ABA359A"
-				"size" "2C56E2753E58D390CF9D007B67DB7533"
-				"download" "5E4B3252EBB71D0DAF546CC7D1D05D6E"
+				"gid" "CD5AF0B9C9283E44334CCB5EC9812543"
+				"size" "EBA174E32C307687A6738081B784940E"
+				"download" "C84DD60060D12AF40E5056FB0A5939B2"
+			}
+			"debug"
+			{
+				"gid" "1C7F76D64C93899B2E7040232D93A267"
+				"size" "980DF4F966A2EBDC8821420BF33A8483"
+				"download" "438252E5A937FFFCBFD189B951C3002B"
 			}
 			"external_partner"
 			{
@@ -296,15 +302,15 @@
 			}
 			"external_qa"
 			{
-				"gid" "A51079D27EFA1544962374375423D34A"
-				"size" "EE1337C7D27E4C0FDBEE405DF2049877"
-				"download" "E5896A61CAB449586350F3C1E49CBC1B"
+				"gid" "CE332214494E91A1E39B8F90B47C28B7"
+				"size" "6B0193446F8113C0787A694342234707"
+				"download" "BCA57EA73A2CECA7F2BAA079C18C7EA2"
 			}
 			"external_qa_shipping"
 			{
-				"gid" "564CA79F7CA3B83E3482D8EB7259A41E"
-				"size" "41DCC7CDFA665B00060008DFD87782DF"
-				"download" "B5536C03471350EDEAA4134B0A0FF7EC"
+				"gid" "19DF9A3EEE0509F03DE76624676C63CB"
+				"size" "8286AF71051C3010499C829EBA6ACF5F"
+				"download" "54AFF8C43773C1D5124ED1FEA2CA773F"
 			}
 			"humble_games"
 			{
@@ -326,9 +332,9 @@
 			}
 			"lqa_test"
 			{
-				"gid" "A1EA7C7057111741CE40BA40744256CA"
-				"size" "B609D76CBD8542EA8A839884467EE5B0"
-				"download" "FA0BF603F9BF93ED990995851E82144E"
+				"gid" "60362476B9E07B0ECE9E9C61061AE39A"
+				"size" "EBDBDA79BBB5C98E18B735B7170972E8"
+				"download" "88735ACAD61FBE9483508EA7794329AE"
 			}
 			"oct23_playtest"
 			{
@@ -354,8 +360,8 @@
 	{
 		"public"
 		{
-			"buildid" "16069959"
-			"timeupdated" "1729281353"
+			"buildid" "16218180"
+			"timeupdated" "1730758022"
 		}
 		"gdc_2024"
 		{
@@ -363,11 +369,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1710441817"
 		}
-		"stable"
+		"content_revise"
 		{
-			"buildid" "12890854"
+			"buildid" "16237122"
 			"pwdrequired" "1"
-			"timeupdated" "1702309437"
+			"timeupdated" "1730295319"
+		}
+		"debug"
+		{
+			"buildid" "16191687"
+			"pwdrequired" "1"
+			"timeupdated" "1729951479"
 		}
 		"external_partner"
 		{
@@ -383,15 +395,15 @@
 		}
 		"external_qa"
 		{
-			"buildid" "16069873"
+			"buildid" "16285547"
 			"pwdrequired" "1"
-			"timeupdated" "1729101885"
+			"timeupdated" "1730713504"
 		}
 		"external_qa_shipping"
 		{
-			"buildid" "16069959"
+			"buildid" "16218180"
 			"pwdrequired" "1"
-			"timeupdated" "1729102070"
+			"timeupdated" "1730191269"
 		}
 		"humble_games"
 		{
@@ -413,9 +425,9 @@
 		}
 		"lqa_test"
 		{
-			"buildid" "16021274"
+			"buildid" "16289686"
 			"pwdrequired" "1"
-			"timeupdated" "1728747545"
+			"timeupdated" "1730737564"
 		}
 		"oct23_playtest"
 		{
@@ -453,6 +465,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25792253"
-"_sha" "95ce434e1b37a911cbd1552f66df19d4e2aa4969"
-"_size" "8939"
+"_change_number" "26044819"
+"_sha" "01ace41ac6e8ee89099d0110231338b12faaacfe"
+"_size" "9228"
