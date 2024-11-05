@@ -470,6 +470,7 @@
 "depots"
 {
 	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "1"
 	"228989"
 	{
 		"config"
@@ -597,6 +598,7 @@
 		"config"
 		{
 			"oslist" "windows"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
@@ -765,13 +767,38 @@
 			}
 		}
 	}
-	"hasdepotsindlc" "1"
+	"1084603"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4621503971192114182"
+				"size" "29815260632"
+				"download" "12833730320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_test_release"
+			{
+				"gid" "25EDA0D1044D0FEF1BF9E93927B45813"
+				"size" "AAE426C3C95F3D232B0D2813E2104964"
+				"download" "24A30A8D7C2FFDDD01F86B82B42D33F9"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16262918"
-			"timeupdated" "1730454282"
+			"buildid" "16295820"
+			"timeupdated" "1730778012"
 		}
 		"beta"
 		{
@@ -886,9 +913,9 @@
 		}
 		"private_test_release"
 		{
-			"buildid" "16262590"
+			"buildid" "16286064"
 			"pwdrequired" "1"
-			"timeupdated" "1730452404"
+			"timeupdated" "1730716780"
 		}
 		"super_secret_testing"
 		{
@@ -952,6 +979,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26004023"
-"_sha" "5abda74ab4ec900bdc7fa5d5c852506ce3c888f7"
-"_size" "19945"
+"_change_number" "26047970"
+"_sha" "6362b2cc6bf76c8e9fd31ed789871bd46611f379"
+"_size" "20426"
