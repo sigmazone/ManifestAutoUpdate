@@ -1,0 +1,502 @@
+"appid" "810040"
+"common"
+{
+	"name" "Swords \'n Magic and Stuff"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "159e9bf7f030678adf7e7bcc8894e8d95a25b47a"
+	"logo_small" "159e9bf7f030678adf7e7bcc8894e8d95a25b47a_thumb"
+	"icon" "e75c1cc9b1a815489ec85d9a149eeca8b3bffc71"
+	"clienttga" "1166c80b4e72ffd0c3723db4b01355732daf380f"
+	"clienticon" "4dd9ab02a760b539503dc9b8eccda3cdc15a7c4e"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1687824000"
+		"tested_build_id" "11501149"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Swords \'n Magic and Stuff"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1729270617"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kindred Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kindred Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1599580977"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "810040"
+	"store_tags"
+	{
+		"0" "4305"
+		"1" "4057"
+		"2" "4726"
+		"3" "3859"
+		"4" "5350"
+		"5" "4231"
+		"6" "1695"
+		"7" "4106"
+		"8" "1684"
+		"9" "3834"
+		"10" "97376"
+		"11" "1643"
+		"12" "10235"
+		"13" "122"
+		"14" "4172"
+		"15" "21"
+		"16" "3810"
+		"17" "3843"
+		"18" "3920"
+		"19" "4747"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Kindred Games"
+	"publisher" "Kindred Games"
+	"homepage" "http://www.playswordsandmagic.com"
+	"listofdlc" "1377630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SwordsNMagicAndStuff_PreAlpha"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SNMAS.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SNMAS-Mac-Shipping.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Mac Build"
+			}
+			"description" "Mac Build"
+		}
+		"5"
+		{
+			"executable" "SNMAS.exe"
+			"arguments" "-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Windows 7 & 8 compatibility mode via Vulkan"
+			}
+			"description" "Windows 7 & 8 compatibility mode via Vulkan"
+		}
+		"6"
+		{
+			"executable" "SNMAS.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "Preview"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"810041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "279246000988609407"
+				"size" "5727270514"
+				"download" "1230339040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_linux"
+			{
+				"gid" "B71CEFECE91876603EA34311F32359F7"
+				"size" "067BD857FEE410D3E891E1B3C7345655"
+				"download" "C4E0580CC0012F68C0AA717A0737C4A6"
+			}
+			"beta_mac"
+			{
+				"gid" "BBEC8C3053A70E460C087B752319BF60"
+				"size" "E41E53508656F1000FA6FD612C414EDD"
+				"download" "AA0D3272F3802C8B7A7F5BCE2EC85083"
+			}
+			"reviewer"
+			{
+				"gid" "C8BD1C5079C6B3D51DE31B300FAB2EA4"
+				"size" "9A3B5DB89EA4422C9CA101DD4B83F661"
+				"download" "23DEF5868280944F94F50D18DA17FAD3"
+			}
+			"devpreview"
+			{
+				"gid" "AD80E3131B4EF72ACFDB5FB09EE880D8"
+				"size" "570765B8BB1A6FE65329862EAF2141EE"
+				"download" "C6D1E7C9D6CDA764B29341B168122BC1"
+			}
+			"patreon_preview"
+			{
+				"gid" "E4C4C61E1A9C5C78E52CA28D7C841CBE"
+				"size" "19C0C6BD6BE7CFE86114059D4291BBB9"
+				"download" "F2EAAFED464B6B01CB3AEFD0E54ED2C4"
+			}
+			"press"
+			{
+				"gid" "26C02761D8FF70895BFEFD16267CFD2D"
+				"size" "E677E22B6C687E2AD35796C4BAB14B9D"
+				"download" "656A4E909D9CC9CB1AA90AC99D0AE6E1"
+			}
+			"preview"
+			{
+				"gid" "D5E62F20A2A8EFE22A156CD85A977105"
+				"size" "EDB90AF8DA8C34570A53CC85ABC74BDA"
+				"download" "6FB33B81E863FEB1DDB7878681E0301C"
+			}
+			"test-branch"
+			{
+				"gid" "2832BEF073D19C2D706EA7B3AD25041B"
+				"size" "B74D79771D6FFC84F7720989C22D940F"
+				"download" "C0B7CE47F32204B511F55E5140CF9C7A"
+			}
+		}
+	}
+	"810043"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "600720740257319131"
+				"size" "4842695954"
+				"download" "946877680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_linux"
+			{
+				"gid" "33EFD340B09F891CEB11439BDF5CA5B1"
+				"size" "162DB0FE4A5AD838B640DEC59C2E2008"
+				"download" "C62E7A0D753AEBDBA47AAF67C85D006E"
+			}
+			"beta_mac"
+			{
+				"gid" "554A31A2DDFF0D578A27A69E99C761D5"
+				"size" "2FE7523151534676F7D77D6D4D1B6BE7"
+				"download" "CDFE2BB988C0D62DFCD04ABAB32EF14A"
+			}
+			"reviewer"
+			{
+				"gid" "D28C1984BBC70B4C446A790F9D2D0406"
+				"size" "7E731CA61B2D550A1AA7806B908A3F5E"
+				"download" "510695D6FAE135D7BA9660442C9E867C"
+			}
+			"devpreview"
+			{
+				"gid" "9179026C2EA627FAF8E2C496CAAC1221"
+				"size" "A9015DE324145564C3CB63743D6F7466"
+				"download" "05F767B12C9163382FEAB9545D6C5592"
+			}
+			"patreon_preview"
+			{
+				"gid" "8F08DFB511EBEFB253E766BFB0E811E3"
+				"size" "7D919147E2C60FDED9B9520572F96F85"
+				"download" "CD88F3471AB8D0EE8963D21C4D70C924"
+			}
+			"press"
+			{
+				"gid" "FA0472C777558606D28812E87B14B5FE"
+				"size" "72955B31D04FCDA609C1D25207F2A073"
+				"download" "7E2A1B3A4C6D3C0CB47525E9EC76E2C3"
+			}
+			"preview"
+			{
+				"gid" "108AB4F30748F583F882842E9845D205"
+				"size" "43A9CEFCA9EEF62FE0B5E7DFC5A9C55D"
+				"download" "43A9CEFCA9EEF62FE0B5E7DFC5A9C55D"
+			}
+			"test-branch"
+			{
+				"gid" "A80B6C89155959978DB6B947D30B238E"
+				"size" "C7394051DEC3F13286AC7689551E8364"
+				"download" "4184AB6DD70019087520B705B74D169A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16293407"
+			"timeupdated" "1730761050"
+		}
+		"beta_linux"
+		{
+			"buildid" "7990382"
+			"pwdrequired" "1"
+			"timeupdated" "1641675496"
+		}
+		"beta_mac"
+		{
+			"buildid" "9585185"
+			"pwdrequired" "1"
+			"timeupdated" "1664056939"
+		}
+		"reviewer"
+		{
+			"buildid" "13779224"
+			"pwdrequired" "1"
+			"timeupdated" "1711655718"
+		}
+		"devpreview"
+		{
+			"buildid" "16293407"
+			"pwdrequired" "1"
+			"timeupdated" "1730760034"
+		}
+		"patreon_preview"
+		{
+			"buildid" "16057999"
+			"pwdrequired" "1"
+			"timeupdated" "1729033542"
+		}
+		"press"
+		{
+			"buildid" "16057999"
+			"pwdrequired" "1"
+			"timeupdated" "1729132201"
+		}
+		"preview"
+		{
+			"buildid" "16246215"
+			"pwdrequired" "1"
+			"timeupdated" "1730343207"
+		}
+		"test-branch"
+		{
+			"buildid" "16057999"
+			"pwdrequired" "1"
+			"timeupdated" "1729033479"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SNM2020/Saved/SaveGames"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26045389"
+"_sha" "2180dcaa043cf9964afeb2e9734caf7748505b33"
+"_size" "9775"
