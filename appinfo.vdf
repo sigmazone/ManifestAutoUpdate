@@ -1,7 +1,7 @@
 "appid" "1086850"
 "common"
 {
-	"name" "Garden of the Sea"
+	"name" "Garden of the Sea (VR)"
 	"type" "Game"
 	"controllervr"
 	{
@@ -49,7 +49,6 @@
 		"turkish" "1"
 		"brazilian" "1"
 	}
-	"openvrsupport" "1"
 	"eulas"
 	{
 		"0"
@@ -60,6 +59,7 @@
 			"version" "2"
 		}
 	}
+	"openvrsupport" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -333,12 +333,12 @@
 }
 "config"
 {
-	"installdir" "Garden of the Sea"
+	"installdir" "Garden of the Sea (VR)"
 	"launch"
 	{
-		"0"
+		"1"
 		{
-			"executable" "Garden of the Sea.exe"
+			"executable" "Garden of the Sea (VR).exe"
 			"type" "vr"
 			"config"
 			{
@@ -362,9 +362,9 @@
 		{
 			"public"
 			{
-				"gid" "4417041543052994587"
-				"size" "590464288"
-				"download" "376280112"
+				"gid" "113017742939073383"
+				"size" "1120261974"
+				"download" "377894880"
 			}
 		}
 		"encryptedmanifests"
@@ -381,12 +381,6 @@
 				"size" "C4B30BA1A023137BDC9044C9FB6A51F1"
 				"download" "9A609B65903940A0965EE732114D83FF"
 			}
-			"release_candidate"
-			{
-				"gid" "607BC1DE7934BA9B587328D040947685"
-				"size" "911422D9BB53C97FC13B2D3E16BF2B9D"
-				"download" "D5177A44B33F19A50B6B3F64B8E9FB5C"
-			}
 			"trailer"
 			{
 				"gid" "553D7DBD9DD82DE68661D916DB1D9802"
@@ -398,6 +392,18 @@
 				"gid" "916A2FECDE9B37A5B5A50DE47895CE1F"
 				"size" "63F0904024BA041B022E6B5ACEBB31AD"
 				"download" "FB8680426C99CBABBBDC9664A5E2803C"
+			}
+			"release_candidate"
+			{
+				"gid" "EEDADF9B28A0C7E1DB1E7F1A14A32B80"
+				"size" "29A435941259CB2BA7EDC13D4EB77B29"
+				"download" "16BEF82C7754421C2A47A99BB989761F"
+			}
+			"shared_directory_fix"
+			{
+				"gid" "40B3402F78636C2BB5436F1875BBE5F1"
+				"size" "F0034CE3E1A775DEFDBA2A70DF545799"
+				"download" "4F7FC689733A7BE660CCEE0645FA243C"
 			}
 		}
 	}
@@ -414,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "9562889"
-			"timeupdated" "1663784969"
+			"buildid" "16290187"
+			"timeupdated" "1730815542"
 		}
 		"friends"
 		{
@@ -429,12 +435,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1664485771"
 		}
-		"release_candidate"
-		{
-			"buildid" "9562889"
-			"pwdrequired" "1"
-			"timeupdated" "1663777265"
-		}
 		"trailer"
 		{
 			"buildid" "8817591"
@@ -447,6 +447,18 @@
 			"pwdrequired" "1"
 			"timeupdated" "1607526541"
 		}
+		"release_candidate"
+		{
+			"buildid" "16290187"
+			"pwdrequired" "1"
+			"timeupdated" "1730740471"
+		}
+		"shared_directory_fix"
+		{
+			"buildid" "16290187"
+			"pwdrequired" "1"
+			"timeupdated" "1730798863"
+		}
 	}
 }
 "ufs"
@@ -458,7 +470,7 @@
 		"1"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "Neat Corporation/Garden of the Sea/Saves"
+			"path" "Neat Corporation/Garden of the Sea (VR)/Saves"
 			"pattern" "*"
 			"platforms"
 			{
@@ -469,7 +481,7 @@
 		"2"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "Neat Corporation/Garden of the Sea"
+			"path" "Neat Corporation/Garden of the Sea (VR)"
 			"pattern" "*.gots"
 			"platforms"
 			{
@@ -478,3 +490,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26055734"
+"_sha" "99c60db1badbbd6f67961e4d7ca23e329cc4e09d"
+"_size" "8635"
