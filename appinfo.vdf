@@ -298,19 +298,19 @@
 		"6" "5411"
 		"7" "4191"
 		"8" "5673"
-		"9" "1697"
-		"10" "3839"
-		"11" "599"
+		"9" "3839"
+		"10" "599"
+		"11" "1697"
 		"12" "1100687"
 		"13" "128"
 		"14" "4182"
 		"15" "4252"
-		"16" "16250"
-		"17" "1773"
+		"16" "1773"
+		"17" "16250"
 		"18" "3843"
 	}
 	"review_score" "4"
-	"review_percentage" "38"
+	"review_percentage" "34"
 }
 "extended"
 {
@@ -370,6 +370,40 @@
 			}
 			"description" "Launch with Sard"
 		}
+		"3"
+		{
+			"executable" "Sard\\SardUpdater.exe"
+			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internaltest2"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+			}
+			"description" "Launch with Sard"
+		}
+		"4"
+		{
+			"executable" "Sard\\SardUpdater.exe"
+			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external_test_2"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+			}
+			"description" "Launch with Sard"
+		}
 	}
 	"steamdecktouchscreen" "1"
 	"steamcontrollertemplateindex" "4"
@@ -410,9 +444,9 @@
 		{
 			"public"
 			{
-				"gid" "585834980521205121"
-				"size" "53420715188"
-				"download" "50641750224"
+				"gid" "7367746611676215247"
+				"size" "53492670218"
+				"download" "50665685040"
 			}
 		}
 		"encryptedmanifests"
@@ -431,33 +465,33 @@
 			}
 			"3goo"
 			{
-				"gid" "FCFAEDD73296C5A69AC7D6CD179E9B09"
-				"size" "5F09F6CF93DF0C7F3B89CFEE9B59E231"
-				"download" "E66DA0DAB797639D307C194A862644C8"
+				"gid" "362A21184BB89FFCE3C12AD81D454BFD"
+				"size" "74E4EF19D625C650FE6C35E95627E43A"
+				"download" "5FD5E992BBDB654ED5963F32858FB95C"
 			}
 			"external_test"
 			{
-				"gid" "52049FA71557380747E1B31B015C07E4"
-				"size" "08E1A450322AA7C56C2CABE3ADED1287"
-				"download" "61C0DE29703DE390D1228CEB536EA120"
+				"gid" "7C098A4C334266310D771D397666CE40"
+				"size" "A43501D0B1D860C5B1F4A14A4C5869A7"
+				"download" "3F9FD10110811EA56B0700BBB7A29BF2"
 			}
 			"external_test_2"
 			{
-				"gid" "B29917956BCD7210AD240F76B3CE3E48"
-				"size" "FC9F2B25830A43746D3CCFA781813516"
-				"download" "D8ADD100866E5D5AB5E35328B4E6CECE"
+				"gid" "2FBFF039D2FB66EFE2A23126364D1DD5"
+				"size" "478154F086E7365AB1E1360D11885415"
+				"download" "5029E19CF69872A05BAB1C1D917FAD66"
 			}
 			"external_test_3"
 			{
-				"gid" "4275CA3041F9782172D8935E7067A6FC"
-				"size" "DACFDFAF02F01F5682934454E89C6468"
-				"download" "2E75859FFC57C4C507A95B9DF8025BD0"
+				"gid" "43C64CF850E3E642DF532BEA7DAD61D6"
+				"size" "6541F4601B5C61C7530E5FCD94CCCA42"
+				"download" "E9895DD3F54C76D4BEA22E3CE0C25AB7"
 			}
 			"huwiz_build"
 			{
-				"gid" "3BCDB51D6CCAACA037E49E69EEDD967D"
-				"size" "9CFE13F4220BFD5337F0EB01FD6E4E2C"
-				"download" "B745108772797EC02875380AF81438F1"
+				"gid" "76C0A18D316ABC41370EF0B26D07991B"
+				"size" "FC5978719EFFB0067E87D152D682296A"
+				"download" "239A45192F7E32F564F1ABDEEDAFDF62"
 			}
 			"intel"
 			{
@@ -467,33 +501,33 @@
 			}
 			"internal_market"
 			{
-				"gid" "5521DB48F5DB06052C77DD89214E5DF0"
-				"size" "FA73D117A5A37CD586EC5067BC9871DD"
-				"download" "0C4033F6441A8F74DC8D4DC1E1256EB1"
+				"gid" "9FB79FD562610701187B79EC8166988E"
+				"size" "CE6FECD092DB2AC515A4B18B1B800BE4"
+				"download" "33745E7352419909F2995144B5B5BD32"
 			}
 			"internalautobuilds"
 			{
-				"gid" "F443A085E694A62FD2C318DFC0A20E57"
-				"size" "5C6A5C71CBD380459E59FFF576C60888"
-				"download" "22EF5BF865A389068B51E9A64DE9E76D"
+				"gid" "BF1700E414C368C1DFF2FB1793D313B3"
+				"size" "DDD003C6FC33FABCCDE9D776FBEF6761"
+				"download" "759476D05DF448C354D137EA10A35E0E"
 			}
 			"internaltest"
 			{
-				"gid" "34D4604729ADE0C053056153EB61F7C8"
-				"size" "6AFFAC172F43AE14C7E3FC4FA3720E07"
-				"download" "EAA505291C2D0B52533F271152DAC08E"
+				"gid" "D4EDEBA9E8172D1A3AED40B1CB849CF8"
+				"size" "7B8EBC86F894D62663079906BB160507"
+				"download" "6647629B6D0EFC1F591284211E72D815"
 			}
 			"internaltest2"
 			{
-				"gid" "26DE4DDCAC589470F1549692E9AE8FC1"
-				"size" "CA8CDC7D48ACDB9E324B210F4980FF49"
-				"download" "57AD37F7FAF07E2EFC067FC462017777"
+				"gid" "E4FBEDF971A79B92BF61C8CEA9EFB688"
+				"size" "D912FE5B26D7014D8F7304673E8D9AC5"
+				"download" "DCFFF20B7C689952B6EB5A92F38C90B9"
 			}
 			"internaltest3"
 			{
-				"gid" "DB975566DB3BA85E5D1AC6C901EB7CC2"
-				"size" "F77B5E87EC44C36FF9002AF50050E7AA"
-				"download" "0D77C60FE60F938DE6C19573EBBF02E4"
+				"gid" "31930231C3F9EFDC1E6E109736A12AD4"
+				"size" "32083441E36A81D34DDC524640D321FF"
+				"download" "348E3A9FEE8B8DA75B01BF325658C826"
 			}
 			"logsenabled"
 			{
@@ -503,9 +537,9 @@
 			}
 			"market"
 			{
-				"gid" "6BAF13351669DEEFC502F85CBA8D2C61"
-				"size" "2EF3FEE063139CB05BA9AE44B6F8B4DB"
-				"download" "FA4ABF83FBD99B9F755BB5BA11F98885"
+				"gid" "9D4B9285FA6E1077AA499D00F3B132AE"
+				"size" "4474A73C2A98748339FCD9B593DAFDDD"
+				"download" "E7930F3785BCCDADE35A327B42B3A2B6"
 			}
 			"market_beta_s2"
 			{
@@ -515,9 +549,9 @@
 			}
 			"nacon_autobuilds"
 			{
-				"gid" "5896AE1C0FA4E46C14EBE5A5AFB5422C"
-				"size" "F8254BEAD969141A299E5DA31555FE84"
-				"download" "C72E757ABE0A4D1988B876A6A56DB5FE"
+				"gid" "A17F5782D666EA09E46B51CA16727336"
+				"size" "385C6AE3C665E6B4078CD27B666668A6"
+				"download" "C3B67B18D2D2886726F49C5FA6B30E72"
 			}
 			"nvidia"
 			{
@@ -525,17 +559,17 @@
 				"size" "5B9535167B1239EF8C159AA93DC66A39"
 				"download" "DBFEE951C88F0545E8C8CDFCD8A8D0E1"
 			}
+			"preprod_maintenance"
+			{
+				"gid" "1616CBB4A45BE220E20006E966F8E826"
+				"size" "2D4700828082A895AAB717E32D659294"
+				"download" "293BF3136BC54B149BA161EDD4CAD718"
+			}
 			"sard"
 			{
 				"gid" "D4A9EC9CE497EBBB194809DD74E6DFB6"
 				"size" "8324520A9B66CB5D77891E0927FEAD14"
 				"download" "9A358ED268C210DAC8963E564C8B1AF6"
-			}
-			"silentreview"
-			{
-				"gid" "29578E9F9B2BE6C721819D0B8FBE3547"
-				"size" "D597F0D24D57ABAE18490585F37FE657"
-				"download" "B65A61AB6DB7BC63B69B5FBE8F34B4E3"
 			}
 			"steering_wheels_tests"
 			{
@@ -549,8 +583,8 @@
 	{
 		"public"
 		{
-			"buildid" "15807300"
-			"timeupdated" "1727685167"
+			"buildid" "16120868"
+			"timeupdated" "1730798017"
 		}
 		"dbox"
 		{
@@ -566,33 +600,33 @@
 		}
 		"3goo"
 		{
-			"buildid" "14904781"
+			"buildid" "15876100"
 			"pwdrequired" "1"
-			"timeupdated" "1720620487"
+			"timeupdated" "1728403177"
 		}
 		"external_test"
 		{
-			"buildid" "15456911"
+			"buildid" "16289852"
 			"pwdrequired" "1"
-			"timeupdated" "1726838679"
+			"timeupdated" "1730822367"
 		}
 		"external_test_2"
 		{
-			"buildid" "15292252"
+			"buildid" "16120848"
 			"pwdrequired" "1"
-			"timeupdated" "1723451407"
+			"timeupdated" "1730111927"
 		}
 		"external_test_3"
 		{
-			"buildid" "15518074"
+			"buildid" "16301260"
 			"pwdrequired" "1"
-			"timeupdated" "1725014962"
+			"timeupdated" "1730813797"
 		}
 		"huwiz_build"
 		{
-			"buildid" "15110616"
+			"buildid" "16040370"
 			"pwdrequired" "1"
-			"timeupdated" "1722416942"
+			"timeupdated" "1728978050"
 		}
 		"intel"
 		{
@@ -602,33 +636,33 @@
 		}
 		"internal_market"
 		{
-			"buildid" "15151431"
+			"buildid" "16224805"
 			"pwdrequired" "1"
-			"timeupdated" "1721917191"
+			"timeupdated" "1730222048"
 		}
 		"internalautobuilds"
 		{
-			"buildid" "15810885"
+			"buildid" "16288264"
 			"pwdrequired" "1"
-			"timeupdated" "1727193721"
+			"timeupdated" "1730729889"
 		}
 		"internaltest"
 		{
-			"buildid" "15809261"
+			"buildid" "16120848"
 			"pwdrequired" "1"
-			"timeupdated" "1727256466"
+			"timeupdated" "1729506826"
 		}
 		"internaltest2"
 		{
-			"buildid" "15873294"
+			"buildid" "16289751"
 			"pwdrequired" "1"
-			"timeupdated" "1727688617"
+			"timeupdated" "1730737892"
 		}
 		"internaltest3"
 		{
-			"buildid" "15807269"
+			"buildid" "16301260"
 			"pwdrequired" "1"
-			"timeupdated" "1727175580"
+			"timeupdated" "1730813188"
 		}
 		"logsenabled"
 		{
@@ -638,9 +672,9 @@
 		}
 		"market"
 		{
-			"buildid" "15151431"
+			"buildid" "16224805"
 			"pwdrequired" "1"
-			"timeupdated" "1721918873"
+			"timeupdated" "1730369822"
 		}
 		"market_beta_s2"
 		{
@@ -650,9 +684,9 @@
 		}
 		"nacon_autobuilds"
 		{
-			"buildid" "15810885"
+			"buildid" "16206408"
 			"pwdrequired" "1"
-			"timeupdated" "1727194095"
+			"timeupdated" "1730124663"
 		}
 		"nvidia"
 		{
@@ -660,17 +694,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1727098495"
 		}
+		"preprod_maintenance"
+		{
+			"buildid" "15809261"
+			"pwdrequired" "1"
+			"timeupdated" "1729686868"
+		}
 		"sard"
 		{
 			"buildid" "15728663"
 			"pwdrequired" "1"
 			"timeupdated" "1726653355"
-		}
-		"silentreview"
-		{
-			"buildid" "15110616"
-			"pwdrequired" "1"
-			"timeupdated" "1723198639"
 		}
 		"steering_wheels_tests"
 		{
@@ -685,3 +719,7 @@
 	"quota" "1000000000"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26057515"
+"_sha" "b94a04c66fc8927aa7af92283c0b47606bec8c70"
+"_size" "14385"
