@@ -1,0 +1,911 @@
+"appid" "1385380"
+"common"
+{
+	"name" "Across the Obelisk"
+	"type" "Game"
+	"clienticon" "49e1bfb63d76b3f1713695cfa9475daaaca0d088"
+	"clienttga" "3098dc3b5f1e37d9de18ce0dbe5b5e09e84efa49"
+	"icon" "450c23fd7ba352e45b48837439392dbbc62964d8"
+	"logo" "c5b41dbee2ab74e917a09b03bbe42c8b5f0322c2"
+	"logo_small" "c5b41dbee2ab74e917a09b03bbe42c8b5f0322c2_thumb"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1385380_eula_0"
+			"name" "Across the Obelisk EULA"
+			"url" "https://store.steampowered.com//eula/1385380_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664841600"
+		"tested_build_id" "9423175"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.77237851662406"
+			"height_pct" "60.416666666666664"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.77237851662406"
+				"height_pct" "60.416666666666664"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1730887098"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dreamsite Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Paradox Arc"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1617865200"
+	"steam_release_date" "1660662270"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1385380"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1720"
+		"2" "1091588"
+		"3" "1666"
+		"4" "492"
+		"5" "791774"
+		"6" "32322"
+		"7" "1685"
+		"8" "21"
+		"9" "3959"
+		"10" "4711"
+		"11" "6426"
+		"12" "4026"
+		"13" "21725"
+		"14" "4155"
+		"15" "1677"
+		"16" "1741"
+		"17" "4325"
+		"18" "14139"
+		"19" "5125"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Dreamsite Games"
+	"publisher" "Paradox Interactive"
+	"listofdlc" "2168960,2325780,2511580,2666340,2879680,2879690"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Across the Obelisk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AcrossTheObelisk.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "v125-legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy version"
+			}
+			"description" "Legacy version"
+		}
+		"1"
+		{
+			"executable" "Contents/MacOS/AcrossTheObelisk"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "v125-legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy version"
+			}
+			"description" "Legacy version"
+		}
+		"2"
+		{
+			"executable" "AcrossTheObelisk.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "v125-legacy"
+			}
+			"description_loc"
+			{
+				"english" "Legacy version"
+			}
+			"description" "Legacy version"
+		}
+		"3"
+		{
+			"executable" "dowser.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "dowser"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "dowser"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"6"
+		{
+			"executable" "AcrossTheObelisk.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Skip Launcher"
+			}
+			"description" "Skip Launcher"
+		}
+		"7"
+		{
+			"executable" "Contents/MacOS/AcrossTheObelisk"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Skip Launcher"
+			}
+			"description" "Skip Launcher"
+		}
+		"8"
+		{
+			"executable" "AcrossTheObelisk.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Skip Launcher"
+			}
+			"description" "Skip Launcher"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"1385381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5926990944631698553"
+				"size" "2189997602"
+				"download" "1120941936"
+			}
+			"v1110"
+			{
+				"gid" "2154000615119537261"
+				"size" "1693666140"
+				"download" "783761232"
+			}
+			"v125-legacy"
+			{
+				"gid" "3236395432389960100"
+				"size" "1914088697"
+				"download" "876097088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alternative132"
+			{
+				"gid" "F59BB873E6EBD2425D3A77EA6FEB4DC4"
+				"size" "754F85FFEB7AC3E79372F29DE02C4FE8"
+				"download" "B6055942FB7216EB32EBA7712524133C"
+			}
+			"cross-play-test"
+			{
+				"gid" "C2A3D944CC72A3D4A90635CFDE1312F8"
+				"size" "6449E5EFFE5DBC5F1E4709CF43F488EC"
+				"download" "350AA036234BF3273EA3D9AB42120AA8"
+			}
+			"v125-rollback-2023-12-12"
+			{
+				"gid" "0E578A10B8335C54F7A1034D1D3C0E7A"
+				"size" "4DBA4517F3BE0A65D9D0FD85DB15CCE3"
+				"download" "E5D31CEC4EBDDCDE70D4FAE59888CF79"
+			}
+			"beta-test"
+			{
+				"gid" "20ADDC1A846F377ED8D955DC21AB2A7C"
+				"size" "D43340D2BFF6F31C974F9C426E3C07BC"
+				"download" "7CB095F7BA0D620557F49583A009910A"
+			}
+			"demo"
+			{
+				"gid" "6BACFC91A7437B14A1CFE141568383DC"
+				"size" "6FD2B25D8C08B313ED08CB24B13E2312"
+				"download" "F3D4E0F96655FC22A9FF9D1F777CE35F"
+			}
+			"developer"
+			{
+				"gid" "4B4565370F445A3FB1EFBEB80C857498"
+				"size" "E9D4DF9B73DAB05B852C01FBD9E322FF"
+				"download" "65D7C2C28B242F5774DD61B756D1EA09"
+			}
+			"influencer-press"
+			{
+				"gid" "2F5EAF5725FD5CC94E8933644D6DD9C5"
+				"size" "136740DFB9998C9986845E97B501EDD8"
+				"download" "8DF891AC78AD47EF2DCE92203ECFA4DD"
+			}
+			"no-launcher-test"
+			{
+				"gid" "9B2DF7B925D2659324A96DB70C6A12FD"
+				"size" "B4CCBD7E76EBED29D0374356BAFA14BA"
+				"download" "2E55A8361EAE6CA779551ECE3B074341"
+			}
+			"qa-test"
+			{
+				"gid" "4C2DE136EB13A6A50D46F790CB137AD2"
+				"size" "1E7923DA3671CDA0FF46497534353056"
+				"download" "D0D0DE267FE2B65EE23A17CA729D0118"
+			}
+			"release-candidate"
+			{
+				"gid" "52AC951D790857861F2F35462C634359"
+				"size" "CEE89B8028FBD7941EA2F4D24318AC4E"
+				"download" "6306706C373BAF484EA021CBEAF2F12F"
+			}
+			"sdeck"
+			{
+				"gid" "B85849E03D6891EE5345913690778E53"
+				"size" "51D1357B857234F0263DA6F393F63BE6"
+				"download" "9D6D53631F4D9A73C0689CD25241A719"
+			}
+		}
+	}
+	"1385382"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7553152552558997403"
+				"size" "2179908130"
+				"download" "1117888704"
+			}
+			"v1110"
+			{
+				"gid" "4628016189894489243"
+				"size" "1684338012"
+				"download" "780939040"
+			}
+			"v125-legacy"
+			{
+				"gid" "8124665371123734538"
+				"size" "1903999225"
+				"download" "873025408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alternative132"
+			{
+				"gid" "8A95D105C20EEA8444A5203F75D0734D"
+				"size" "413B4E4F6F2725B2E6AEE2EDCBBAADC9"
+				"download" "7E6F25512055E461D11431FB959940C4"
+			}
+			"cross-play-test"
+			{
+				"gid" "3F345B2DBE53A4F3D1849C33BC51083F"
+				"size" "9923186D2028D4B72C31485E57C126B7"
+				"download" "66BD9BE6190FD8B2B3F578E8BFD322FB"
+			}
+			"v125-rollback-2023-12-12"
+			{
+				"gid" "328B99F6D415B13911A2F4704635C914"
+				"size" "8334C44C732BEFBCD496861F22422003"
+				"download" "74FC9FEDC3A5C6E9CE777A3096B93009"
+			}
+			"beta-test"
+			{
+				"gid" "571FF2A81241D4622F5BC96BC998C293"
+				"size" "2C17DE6E4891F95E4D181A135F76A7D3"
+				"download" "F22BBD236758D8D7D56A3CD5E13B1E25"
+			}
+			"demo"
+			{
+				"gid" "BA0197A4BF6DEA826A414D0F8C7A4CCC"
+				"size" "22DE0A4BAFC493834B57AAB161CA31B7"
+				"download" "2CA9E37C7FE1C72BDDD06B0258697F11"
+			}
+			"developer"
+			{
+				"gid" "35129FB4436F655182F9841F89AA9A7E"
+				"size" "72DF427FB2B6596A9431EFDC3A83E42F"
+				"download" "68DEE3BB002C8839D0CB36E1B3DA0412"
+			}
+			"influencer-press"
+			{
+				"gid" "DAB918FC8270DCF5B884C4755409C97C"
+				"size" "485EA1C81FB1ACD67BC045024E9063D7"
+				"download" "9417913CAB0515542F5EC95167E8B5F7"
+			}
+			"no-launcher-test"
+			{
+				"gid" "E77ADD564B2728D223B0A265325C69DC"
+				"size" "E73FABE5F3AC2C2CE8060BAC81CB4430"
+				"download" "08C661BD42CF0E1C7A572B06910CD8DD"
+			}
+			"qa-test"
+			{
+				"gid" "A51273AC3068F8D2A4A9FC862AA9594D"
+				"size" "634506527F294DEF49006F85503477D6"
+				"download" "B486110202AC34E518A48DA0B4E42729"
+			}
+			"release-candidate"
+			{
+				"gid" "BABF4B5C86A17030EC932D05D555A4ED"
+				"size" "D9960B949CA5E86C8EAA37FD8D1A6C3D"
+				"download" "C36DD0F32B0CDFDA9347CD7B73A4BF29"
+			}
+			"sdeck"
+			{
+				"gid" "318DCE7355881050CFC298A999CD0111"
+				"size" "7A218C91D86171CD5C9960F315EFB0D8"
+				"download" "99459C861EA0711934860CC3FED15A16"
+			}
+		}
+	}
+	"1385383"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8776452871306077161"
+				"size" "2322549232"
+				"download" "1256753536"
+			}
+			"v1110"
+			{
+				"gid" "2079951746624397344"
+				"size" "1717077460"
+				"download" "791026384"
+			}
+			"v125-legacy"
+			{
+				"gid" "4212242311114639564"
+				"size" "1938411819"
+				"download" "883625456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alternative132"
+			{
+				"gid" "5A498980C171B62A09904DA925099F24"
+				"size" "720EB1D338EDC6EF93EA1C63BF453AC0"
+				"download" "3BBDCB5DAE2EEDF6D506AD8596D351CC"
+			}
+			"cross-play-test"
+			{
+				"gid" "A58A0B15707A0FF988E67A381172E784"
+				"size" "0A626E97050AC7F04AFE45494779F41A"
+				"download" "B6B9B20EB21C778B3CAF8CDBE03AAD8C"
+			}
+			"v125-rollback-2023-12-12"
+			{
+				"gid" "7DF0AA5AED7E0AAC0E6B529BC4F16273"
+				"size" "383D13D56E47E941FAE8A8D557D8459B"
+				"download" "9F31EBC7B580C02211820030FCFA319D"
+			}
+			"beta-test"
+			{
+				"gid" "B22E5EAF9E36AF9BC0CED2A79B85C7C4"
+				"size" "E2470700E4B38EC0EBF51FAD6B8C0541"
+				"download" "0A3B8F97629731990CA4A30ECA3C2967"
+			}
+			"demo"
+			{
+				"gid" "C438784DC66ADE808019F6E117CEA50F"
+				"size" "A8A5309A5A1A78BAA77E47327629BFC7"
+				"download" "091EDFC78707B0CC2DD9362262E5BC3A"
+			}
+			"developer"
+			{
+				"gid" "64E476F2606403FC6C8398C4C7314186"
+				"size" "02FB253A08079ACFB50B8D07BF060FE8"
+				"download" "7356F48A1CE38ED0B3BCC6FCA03FBD1A"
+			}
+			"influencer-press"
+			{
+				"gid" "8B7D4EAE82BCEA59347625DE2B9AE47E"
+				"size" "07ECED729B418598FDF4464BF1E9A420"
+				"download" "5BCC015344FA86A437C3D2205EA71238"
+			}
+			"no-launcher-test"
+			{
+				"gid" "9BA00A47796DF499F8B26CBBDE92F10D"
+				"size" "9EB58155643230E8E412E9BABA22DF73"
+				"download" "6CDA9443310E1754F45ECE745BFB0E42"
+			}
+			"qa-test"
+			{
+				"gid" "91C27E9CACCEE4AB9E57395F0CE07599"
+				"size" "494D76EC6C0E01E90CF7F3C264FF216A"
+				"download" "D7891157CF038B281A87AC03639388DE"
+			}
+			"release-candidate"
+			{
+				"gid" "55CF08EB73888271C6D7E0F442EFA0D6"
+				"size" "9C7BC61DCDB3A23FCBD7E6F50C21D30D"
+				"download" "2464212C719DBB052158A84DB8F55803"
+			}
+			"sdeck"
+			{
+				"gid" "4308E3BA39F9FC072A6949E084A78802"
+				"size" "2EF0E64634E84D092A64DE27E2EA13C0"
+				"download" "5C329C4E5FC54F1C23A84FA2FAE5939B"
+			}
+		}
+	}
+	"1385384"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7667409672161382931"
+				"size" "2190765796"
+				"download" "1119882416"
+			}
+			"v1110"
+			{
+				"gid" "1359685026633436305"
+				"size" "1693499597"
+				"download" "782762480"
+			}
+			"v125-legacy"
+			{
+				"gid" "4430120174368406076"
+				"size" "1913212738"
+				"download" "874819744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alternative132"
+			{
+				"gid" "9034E7DF514D7C1732F8910A2AD0B7BF"
+				"size" "4096F155DAA6F24797654FE8D1AA5837"
+				"download" "13DA22919F4FEA304A4D4CFE0C97BFE1"
+			}
+			"cross-play-test"
+			{
+				"gid" "7297E8D7C8E0FCF488DAB0E03908239C"
+				"size" "370EE295059D4A9EA0AF37573CDBE2F0"
+				"download" "A73954E42D738FEDD5626C4E705BA7C7"
+			}
+			"v125-rollback-2023-12-12"
+			{
+				"gid" "6D50B62B388A018151970D8335CCA9C8"
+				"size" "CAD641B4BE013E8E474C1B749FE03808"
+				"download" "587FD55CE6A15BA5F75BA046589373A4"
+			}
+			"beta-test"
+			{
+				"gid" "FFDD56D49E517D60FA14C7C43C2FCAD9"
+				"size" "6605CA43C13DAF74D6E6906725C25FAB"
+				"download" "F86DE36259A91A5A0A19DD1034910E0B"
+			}
+			"demo"
+			{
+				"gid" "AF1FFE33FFA146B5DAEA2107DF2B4886"
+				"size" "984A19C1F4A9E585856BA9D5755FBF76"
+				"download" "D6ADB5C305207D202F587FFFB56051D4"
+			}
+			"developer"
+			{
+				"gid" "83A9C851D195493DC0E57F510472D682"
+				"size" "6C888F5312E10111353BD5E4E779C8CD"
+				"download" "2E802C12B8F10506C729454234CD40CC"
+			}
+			"influencer-press"
+			{
+				"gid" "416C3CC7A6D560569DCA877062482A12"
+				"size" "1621DDD9549E1BA6470A232CFB8B9C65"
+				"download" "8DB28A9D5BE2502BF7831BA113FF037E"
+			}
+			"no-launcher-test"
+			{
+				"gid" "A760D1D0EA4C42B198B7304BC4281FC9"
+				"size" "1C1C39CC9ED2D394F03E8ACB7A2248F0"
+				"download" "C98860CA044FAA7DDDA07EAF51D25B4F"
+			}
+			"qa-test"
+			{
+				"gid" "1A062762C8D7E292946F02F3CF8A35BF"
+				"size" "B64473871172E3A1F2A704AC11ECF16B"
+				"download" "A913ECDC6DCE1AE284BCBBAECE38217D"
+			}
+			"release-candidate"
+			{
+				"gid" "2A5C1051736BB9D3E7C8713B4A700ADA"
+				"size" "2F8264720BA783EA136E410CAD9ADAA4"
+				"download" "1A76DF28F4EEC65763117C537C4B8ADA"
+			}
+			"sdeck"
+			{
+				"gid" "7B5B0551B2E1EA433EDF5F633130CD0C"
+				"size" "A0AC8866AF0C3D28ACDBD62B357AF800"
+				"download" "A811F3A79612383F94333675DEE91FED"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15392860"
+			"timeupdated" "1730905209"
+		}
+		"alternative132"
+		{
+			"buildid" "13773143"
+			"pwdrequired" "1"
+			"timeupdated" "1710761581"
+		}
+		"cross-play-test"
+		{
+			"buildid" "12669383"
+			"pwdrequired" "1"
+			"timeupdated" "1699609145"
+		}
+		"v1110"
+		{
+			"buildid" "11245444"
+			"description" "v.1.1.10 - 16 Ago 23"
+			"timeupdated" "1690883962"
+		}
+		"v125-legacy"
+		{
+			"buildid" "12575335"
+			"description" "A branch to make sure our players can access old saves."
+			"timeupdated" "1702390591"
+		}
+		"v125-rollback-2023-12-12"
+		{
+			"buildid" "12894585"
+			"pwdrequired" "1"
+			"timeupdated" "1702297082"
+		}
+		"beta-test"
+		{
+			"buildid" "15898966"
+			"pwdrequired" "1"
+			"timeupdated" "1727854968"
+		}
+		"demo"
+		{
+			"buildid" "16292985"
+			"pwdrequired" "1"
+			"timeupdated" "1730758069"
+		}
+		"developer"
+		{
+			"buildid" "16124203"
+			"pwdrequired" "1"
+			"timeupdated" "1729524392"
+		}
+		"influencer-press"
+		{
+			"buildid" "14185336"
+			"pwdrequired" "1"
+			"timeupdated" "1715166168"
+		}
+		"no-launcher-test"
+		{
+			"buildid" "15392860"
+			"pwdrequired" "1"
+			"timeupdated" "1730195116"
+		}
+		"qa-test"
+		{
+			"buildid" "15901120"
+			"pwdrequired" "1"
+			"timeupdated" "1727865861"
+		}
+		"release-candidate"
+		{
+			"buildid" "15392860"
+			"pwdrequired" "1"
+			"timeupdated" "1730739220"
+		}
+		"sdeck"
+		{
+			"buildid" "15901120"
+			"pwdrequired" "1"
+			"timeupdated" "1727865669"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+					"replace" "Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+					"replace" ".config/unity3d/Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26073474"
+"_sha" "b884e8e2ba931d190012c1d9e586aa1f3dcc123c"
+"_size" "19044"
