@@ -240,18 +240,18 @@
 		{
 			"public"
 			{
-				"gid" "618815899272957926"
-				"size" "232798086"
-				"download" "210045504"
+				"gid" "7751998239660627275"
+				"size" "232798242"
+				"download" "210045552"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"multiplatform"
 			{
-				"gid" "DE0BAADDD10280B79157990ECDE90D57"
-				"size" "827D9C7D083E020A84368A8AD49504EF"
-				"download" "095764FDBAB5EF81AFBCA3338E15AEC1"
+				"gid" "2385A26A0861090D016D5F9ABDE6E36B"
+				"size" "23E7F82B5C2832B6CCDD3FF2B5A22F71"
+				"download" "EFE9BFB33235488EB0798EC4DB4E188E"
 			}
 			"test"
 			{
@@ -271,18 +271,18 @@
 		{
 			"public"
 			{
-				"gid" "1419949572109568428"
-				"size" "210431480"
-				"download" "113559312"
+				"gid" "3347414638817494229"
+				"size" "210431568"
+				"download" "113559328"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"multiplatform"
 			{
-				"gid" "4301EC9A59811EFAE0102F6CA966F1F6"
-				"size" "2A5FD6CD3E0973E1602D7039E44013C5"
-				"download" "EDADA85841FA475D9201B7C9B85BD69A"
+				"gid" "8ADE50EBDDE2C1F363A9FD34D2245F69"
+				"size" "B0E6560B04179B6FAAE56E8447FF50FB"
+				"download" "B30A1A1F564B53BAE3637E537C02F5C7"
 			}
 			"test"
 			{
@@ -297,14 +297,14 @@
 	{
 		"public"
 		{
-			"buildid" "16198353"
-			"timeupdated" "1730048560"
+			"buildid" "16274248"
+			"timeupdated" "1730548819"
 		}
 		"multiplatform"
 		{
-			"buildid" "16198353"
+			"buildid" "16274248"
 			"pwdrequired" "1"
-			"timeupdated" "1730048349"
+			"timeupdated" "1730548781"
 		}
 		"test"
 		{
@@ -325,24 +325,28 @@
 			"root" "WinMyDocuments"
 			"path" "Westerado DB/saves"
 			"pattern" "*.sav"
-			"platforms"
-			{
-				"1" "Windows"
-			}
 		}
-		"1"
+	}
+	"rootoverrides"
+	{
+		"0"
 		{
-			"root" "MacDocuments"
-			"path" "Westerado DB/saves"
-			"pattern" "*.sav"
-			"platforms"
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
 			{
-				"1" "MacOS"
+				"0"
+				{
+					"find" "Westerado DB/saves"
+					"replace" "WesteradoDB/Local Store/saves"
+				}
 			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25920453"
-"_sha" "974556c69946f478a2e6e81b2e663b8bb118a793"
-"_size" "6283"
+"_change_number" "26019128"
+"_sha" "8372a06f5d713a1f030eb0d219afe52ea19dbd7e"
+"_size" "6375"
