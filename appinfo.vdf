@@ -1,0 +1,709 @@
+"appid" "2688950"
+"common"
+{
+	"name" "Planet Coaster 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "f715961bc69016931d2cacd65155b81a599334e7"
+	"clienttga" "af80b2910b027082f795266a4277f3f560a282a2"
+	"icon" "73660d46da04bd48bf62d2554ae3dd8c5b5db693"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2688950_eula_0"
+			"name" "Planet Coaster 2 EULA"
+			"url" "https://store.steampowered.com//eula/2688950_eula_0"
+			"version" "3"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1730419200"
+		"tested_build_id" "16122880"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ja,ko,zh-cn,zh-tw"
+		"library_header" "en,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.03065535787198"
+			"height_pct" "61.1111111111111"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.03065535787198"
+				"height_pct" "61.1111111111111"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"koreana" "library_header_koreana.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730893487"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frontier Developments"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frontier Developments"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Frontier Developments"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "FrontierDev"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_61" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730905169"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2688950"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "3810"
+		"3" "1643"
+		"4" "4328"
+		"5" "5300"
+		"6" "4191"
+		"7" "4695"
+		"8" "4182"
+		"9" "3843"
+		"10" "4175"
+		"11" "4305"
+		"12" "4166"
+		"13" "5350"
+		"14" "12472"
+		"15" "4136"
+		"16" "1654"
+		"17" "17770"
+		"18" "3859"
+	}
+}
+"extended"
+{
+	"developer" "Frontier Developments"
+	"publisher" "Frontier Developments"
+	"homepage" "https://www.planetcoaster.com/"
+	"listofdlc" "3091180,3091190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Planet Coaster 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Newton.release.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "internal_2, staging_qa, build_branch1_release, build_mainline_release, build_mainline2_release, build_branch2_release"
+			}
+			"description_loc"
+			{
+				"english" "Release Build"
+			}
+			"description" "Release Build"
+		}
+		"1"
+		{
+			"executable" "Newton.profile.exe"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "internal_1, internal_2, internal_3, staging_qa,  build_branch1_profile, build_mainline_profile, build_mainline2_profile, outsource_lqa, external_03, external_04, build_branch2_profile, external_06"
+			}
+			"description_loc"
+			{
+				"english" "Profile Build"
+			}
+			"description" "Profile Build"
+		}
+		"3"
+		{
+			"executable" "PlanetCoaster2.exe"
+			"type" "default"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2688951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8736886113790367556"
+				"size" "19179557525"
+				"download" "7393974496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_branch1_final"
+			{
+				"gid" "73D218FCA54A22C11E052E2214B97176"
+				"size" "B8A29F86737DB0D69E69EB273484801C"
+				"download" "0442F085A3E01C5DB45934ECCA0C56E5"
+			}
+			"build_branch1_profile"
+			{
+				"gid" "93CFF6FDF4B36863C336872DBB0B1B92"
+				"size" "D863D3808E17E3AF85BE0535DFC176A6"
+				"download" "16AF3BFB65C5BDDD3E9937CB101E9CFD"
+			}
+			"build_branch1_release"
+			{
+				"gid" "47C570B4B1539C732DB976569EAC1373"
+				"size" "5C9A600CDC0A2A59393C9C72763255EF"
+				"download" "51210C76B0848DF95677CE16B5C78675"
+			}
+			"build_branch2_final"
+			{
+				"gid" "8E4AA04CB6D17584691CB07E9B053465"
+				"size" "60ECFB36CC5FFF8FFD528760AC89CAD2"
+				"download" "B0460E855AF31A40CC68FD04295075BE"
+			}
+			"build_branch2_profile"
+			{
+				"gid" "CCC5A89CC484C89A8D5BFAAD53458366"
+				"size" "F26665063BB8869A4991B73250A88B90"
+				"download" "BDC171077A6D245A1635C886DC07E790"
+			}
+			"build_branch2_release"
+			{
+				"gid" "C3ACFC8FBFBC1A13E1AF1A6927056ACD"
+				"size" "C1DCEE734E2007BD08E202957FEC56A5"
+				"download" "B425975FCEAE1082AB2FEDE11ABCECE6"
+			}
+			"build_mainline2_profile"
+			{
+				"gid" "353B45533F01E51CF3523F6A20ACAD6B"
+				"size" "509321874D8737FC6020682613A95296"
+				"download" "B88374088D517821C0377B180CBD39E4"
+			}
+			"build_mainline2_release"
+			{
+				"gid" "7B846AAF90D7F140918C26F0C80EC7C8"
+				"size" "EF2743E60253D3317CF0451090850CF4"
+				"download" "41A2F1F0D28AE1640857736D3F993DC4"
+			}
+			"build_mainline_final"
+			{
+				"gid" "05F41D941445439DB87D7DEA78B213A0"
+				"size" "6187BFFD3F747DD0962B98A1CA54B4BC"
+				"download" "87018DBF4F35D1D7CA899B07D67B346D"
+			}
+			"build_mainline_profile"
+			{
+				"gid" "24C5BE177C3569A211185334CD52E21E"
+				"size" "33BB6B332571188035A8DC3B86D5A60A"
+				"download" "91744C1058F12CE0FEB347D90B333AB5"
+			}
+			"build_mainline_release"
+			{
+				"gid" "0AAAC489979422DFF4594408E6BE9A1E"
+				"size" "976724B92795746C49B1D2351761B1FF"
+				"download" "1A359F8D9B50FBB1251D548AFD27E487"
+			}
+			"external_01"
+			{
+				"gid" "EADB1EBC0532470DB9A6744481F79121"
+				"size" "6910DA79B1687328CA737FD0C4989C38"
+				"download" "2AF2C47CF11B3C5CD75DBD3C77A52B23"
+			}
+			"external_02"
+			{
+				"gid" "CD5056138EE55884749BC1BD4A093D10"
+				"size" "52AAFE42D41AC13D36EDF78CE49A7719"
+				"download" "25E8B8B68385A8550EB045AC69CB22A6"
+			}
+			"external_04"
+			{
+				"gid" "895104499503FB09F5112884CE9BE367"
+				"size" "8F9A2CCEFF3D0DFEAF6C3C1729E2A385"
+				"download" "E85E05B3D050B486E811D5FA537167D1"
+			}
+			"external_05"
+			{
+				"gid" "30FFD014B02B3D95B462BE18477641A3"
+				"size" "C873C52403388CCAA5424F5BD56DA49D"
+				"download" "ACB4ADD5C141C1D76A65BA226A9C1BF5"
+			}
+			"external_06"
+			{
+				"gid" "9BFBEF9DD71F565EE3FBAFF3C61A57E1"
+				"size" "7D2B24C4D3F451A4CF1A3E3A71A60CC8"
+				"download" "EF3646D270782072CF6A76881CBA6D2E"
+			}
+			"external_07"
+			{
+				"gid" "F80829CDC351DE6B32F57FF115DD9A5B"
+				"size" "6D706B4D4BCE864DE13C6BCD586FFB6A"
+				"download" "8BB125A2A2F1C0858C0E809239BBC946"
+			}
+			"external_08"
+			{
+				"gid" "228BB7DC0721FB6E463293C5845712C2"
+				"size" "F745371B1D63BB6D69C465866C9918D1"
+				"download" "BF1AC9B0D9432C76EB9D56BD0F21986F"
+			}
+			"internal_1"
+			{
+				"gid" "219BCDCC59AF0C605AB86DCA48A1336B"
+				"size" "805280D758437DA270491E06F3C13BD5"
+				"download" "3695C59C7BFDEA629890786A08A4FDEB"
+			}
+			"internal_02"
+			{
+				"gid" "80FA0D1B706B3EEA1FCA13B80BC63E1C"
+				"size" "39DF46C875CA7C407CDE3184A5E1B3BA"
+				"download" "C1E737E1F48FB124E1F2D19B1B09B15D"
+			}
+			"outsource_lqa"
+			{
+				"gid" "6FFCC9270109C44F882E29EA8E1CB8C7"
+				"size" "56B30E8E83E064C9C5CB96E5CA870C06"
+				"download" "D3B970E2144B07F13E513A8C46C2831F"
+			}
+			"staging_qa"
+			{
+				"gid" "9963A840CAF900356EFC135F4AADCC5D"
+				"size" "B6B17E271769A44F516A77FDC2A67501"
+				"download" "C53FD26C3028873A79AFE10FBCB41158"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,dutch,czech,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16243681"
+			"timeupdated" "1730466629"
+		}
+		"build_branch1_final"
+		{
+			"buildid" "16269828"
+			"pwdrequired" "1"
+			"timeupdated" "1730498359"
+		}
+		"build_branch1_profile"
+		{
+			"buildid" "16268221"
+			"pwdrequired" "1"
+			"timeupdated" "1730486872"
+		}
+		"build_branch1_release"
+		{
+			"buildid" "16268206"
+			"pwdrequired" "1"
+			"timeupdated" "1730486764"
+		}
+		"build_branch2_final"
+		{
+			"buildid" "16122880"
+			"pwdrequired" "1"
+			"timeupdated" "1730378948"
+		}
+		"build_branch2_profile"
+		{
+			"buildid" "16208039"
+			"pwdrequired" "1"
+			"timeupdated" "1730130886"
+		}
+		"build_branch2_release"
+		{
+			"buildid" "16208061"
+			"pwdrequired" "1"
+			"timeupdated" "1730131433"
+		}
+		"build_mainline2_profile"
+		{
+			"buildid" "15819314"
+			"pwdrequired" "1"
+			"timeupdated" "1727257963"
+		}
+		"build_mainline2_release"
+		{
+			"buildid" "15638945"
+			"pwdrequired" "1"
+			"timeupdated" "1725892139"
+		}
+		"build_mainline_final"
+		{
+			"buildid" "16315790"
+			"pwdrequired" "1"
+			"timeupdated" "1730905605"
+		}
+		"build_mainline_profile"
+		{
+			"buildid" "16315729"
+			"pwdrequired" "1"
+			"timeupdated" "1730905237"
+		}
+		"build_mainline_release"
+		{
+			"buildid" "16315512"
+			"pwdrequired" "1"
+			"timeupdated" "1730904094"
+		}
+		"external_01"
+		{
+			"buildid" "15839583"
+			"pwdrequired" "1"
+			"timeupdated" "1727961384"
+		}
+		"external_02"
+		{
+			"buildid" "16056435"
+			"pwdrequired" "1"
+			"timeupdated" "1729072083"
+		}
+		"external_04"
+		{
+			"buildid" "15927083"
+			"pwdrequired" "1"
+			"timeupdated" "1728548551"
+		}
+		"external_05"
+		{
+			"buildid" "15457889"
+			"pwdrequired" "1"
+			"timeupdated" "1724350159"
+		}
+		"external_06"
+		{
+			"buildid" "16120928"
+			"pwdrequired" "1"
+			"timeupdated" "1729687763"
+		}
+		"external_07"
+		{
+			"buildid" "16122880"
+			"pwdrequired" "1"
+			"timeupdated" "1729524136"
+		}
+		"external_08"
+		{
+			"buildid" "15934901"
+			"pwdrequired" "1"
+			"timeupdated" "1728386955"
+		}
+		"internal_1"
+		{
+			"buildid" "16268221"
+			"pwdrequired" "1"
+			"timeupdated" "1730816861"
+		}
+		"internal_02"
+		{
+			"buildid" "15999490"
+			"pwdrequired" "1"
+			"timeupdated" "1728641574"
+		}
+		"outsource_lqa"
+		{
+			"buildid" "15873329"
+			"pwdrequired" "1"
+			"timeupdated" "1727689273"
+		}
+		"staging_qa"
+		{
+			"buildid" "16204690"
+			"pwdrequired" "1"
+			"timeupdated" "1730115791"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Frontier Developments/Planet Coaster 2/{64BitSteamID}/Saves/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Frontier Developments/Planet Coaster 2/{64BitSteamID}/Config/"
+			"pattern" "*.config.xml"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26073562"
+"_sha" "f07655a4ef43a0592605a357a59f342696b60fd5"
+"_size" "15179"
