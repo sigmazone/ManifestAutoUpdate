@@ -299,13 +299,18 @@
 	{
 		"0"
 		{
-			"executable" "Infection Free Zone.exe"
+			"executable" "launcher/Launcher.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 				"betakey" "default"
 			}
+			"description_loc"
+			{
+				"english" "Play Launcher"
+			}
+			"description" "Play Launcher"
 		}
 		"1"
 		{
@@ -345,9 +350,23 @@
 			}
 			"description_loc"
 			{
-				"english" "Start Launcher"
+				"english" "Play Launcher"
 			}
-			"description" "Start Launcher"
+			"description" "Play Launcher"
+		}
+		"4"
+		{
+			"executable" "launcher/Launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Play Launcher"
+			}
+			"description" "Play Launcher"
 		}
 	}
 }
@@ -363,21 +382,21 @@
 		{
 			"public"
 			{
-				"gid" "5350448773245513165"
-				"size" "5866026845"
-				"download" "3541799840"
+				"gid" "6718599325784451400"
+				"size" "5863915496"
+				"download" "3543452128"
 			}
 			"open_beta"
 			{
-				"gid" "5350448773245513165"
-				"size" "5866026845"
-				"download" "3541799840"
+				"gid" "5156682143428839286"
+				"size" "5845773277"
+				"download" "3555734064"
 			}
 			"previous"
 			{
-				"gid" "6815563698706186198"
-				"size" "5865872719"
-				"download" "3541735392"
+				"gid" "5350448773245513165"
+				"size" "5866026845"
+				"download" "3541799840"
 			}
 		}
 		"encryptedmanifests"
@@ -402,9 +421,9 @@
 			}
 			"development"
 			{
-				"gid" "E707F28451A3D35C4D952CD4A0935715"
-				"size" "2A4AACFE6646C10D1CC7B4DA5CA9830B"
-				"download" "E8FFBBC9579AF88A62218C8FACDFCE00"
+				"gid" "B4424527A66C27EFFC2715B6E1CE5620"
+				"size" "4FE7D07F7E0C20B726058360A18C2DE0"
+				"download" "DD0EA6CB758240B916FE00E94BDD336B"
 			}
 			"experimental"
 			{
@@ -414,15 +433,15 @@
 			}
 			"future_candidate"
 			{
-				"gid" "79FEEBEC6FF0D9E2CAC62B28035FA16E"
-				"size" "DEAAE4E8295DFCD7289382AB2139D348"
-				"download" "0FFC89077854D92D1B7EDEB3D1DC5C5D"
+				"gid" "9FF9ACC7B956D73C3FFABD77EC8F2FC0"
+				"size" "8D2DC704C73DDE7A58F828B6DAD71194"
+				"download" "54DFBC2B64D98C94E1B36FD4D21223EB"
 			}
 			"internal"
 			{
-				"gid" "D26964E6B91A1E1ABBA7439FE66EA6FD"
-				"size" "E6A99EBE89FDD821B168C0B9145D27A0"
-				"download" "2EF843BE84DA7855194BE2B6660D487E"
+				"gid" "AAF4437531ED012F6B6F43DBA68345DC"
+				"size" "45B4F65FEAE64C7D7969CC407DBDB645"
+				"download" "0997E0F5F425300F47F2BF0A610C0D9D"
 			}
 			"launcher"
 			{
@@ -432,9 +451,9 @@
 			}
 			"testing"
 			{
-				"gid" "49F8D5A6E4158FFA3CE7A4661D644ABD"
-				"size" "2742F375A213A32B2CB78A9538ED4865"
-				"download" "D55312D5FA114CD3FF68226F73A346D7"
+				"gid" "A3C360C1045F5C146E6FDCE7C6000F89"
+				"size" "6BF66B438FD1D28CA25070A779765E22"
+				"download" "2096CC7F918BB8C82666B6F14AC79A7A"
 			}
 		}
 	}
@@ -443,8 +462,8 @@
 	{
 		"public"
 		{
-			"buildid" "16250669"
-			"timeupdated" "1730547607"
+			"buildid" "16297960"
+			"timeupdated" "1730905442"
 		}
 		"last_with_fps_ok"
 		{
@@ -466,9 +485,9 @@
 		}
 		"development"
 		{
-			"buildid" "16271907"
+			"buildid" "16295635"
 			"pwdrequired" "1"
-			"timeupdated" "1730517611"
+			"timeupdated" "1730776282"
 		}
 		"experimental"
 		{
@@ -478,15 +497,15 @@
 		}
 		"future_candidate"
 		{
-			"buildid" "16250669"
+			"buildid" "16300897"
 			"pwdrequired" "1"
-			"timeupdated" "1730392749"
+			"timeupdated" "1730907244"
 		}
 		"internal"
 		{
-			"buildid" "16271760"
+			"buildid" "16309150"
 			"pwdrequired" "1"
-			"timeupdated" "1730516313"
+			"timeupdated" "1730861958"
 		}
 		"launcher"
 		{
@@ -496,21 +515,21 @@
 		}
 		"open_beta"
 		{
-			"buildid" "16250669"
+			"buildid" "16300897"
 			"description" "New builds still in testing"
-			"timeupdated" "1730392761"
+			"timeupdated" "1730907234"
 		}
 		"previous"
 		{
-			"buildid" "16163339"
+			"buildid" "16250669"
 			"description" "previous default build"
-			"timeupdated" "1730547485"
+			"timeupdated" "1730905336"
 		}
 		"testing"
 		{
-			"buildid" "15757356"
+			"buildid" "16300897"
 			"pwdrequired" "1"
-			"timeupdated" "1726825067"
+			"timeupdated" "1730811350"
 		}
 	}
 }
@@ -551,6 +570,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26018999"
-"_sha" "d3995327d9f96a6e840f5562ceb8539fc5f4ea18"
-"_size" "10566"
+"_change_number" "26074002"
+"_sha" "e958655672b46d6ef4aea4f8244233c6dd38b02e"
+"_size" "10899"
