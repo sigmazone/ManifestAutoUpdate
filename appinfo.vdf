@@ -399,6 +399,74 @@
 			}
 			"description" "New World Aeternum DX12 BETA PREVIEW"
 		}
+		"6"
+		{
+			"executable" "bin65\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId PPSA07398 -GmIsCrossplayOffWorld true"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1210560"
+			}
+			"description_loc"
+			{
+				"english" "GM Client to PlayStation Worlds"
+			}
+			"description" "GM Client to PlayStation Worlds"
+		}
+		"7"
+		{
+			"executable" "bin65\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId 9NPZJNVGHZ3P -GmIsCrossplayOffWorld true"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1210560"
+			}
+			"description_loc"
+			{
+				"english" "GM Client to Xbox Worlds"
+			}
+			"description" "GM Client to Xbox Worlds"
+		}
+		"8"
+		{
+			"executable" "bin.debug\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId PPSA07398 -GmIsCrossplayOffWorld true"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1716920"
+			}
+			"description_loc"
+			{
+				"english" "Release Client for Debugging PlayStation Worlds"
+			}
+			"description" "Release Client for Debugging PlayStation Worlds"
+		}
+		"9"
+		{
+			"executable" "bin.debug\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId 9NPZJNVGHZ3P -GmIsCrossplayOffWorld true"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1716920"
+			}
+			"description_loc"
+			{
+				"english" "Release Client for Debugging Xbox Worlds"
+			}
+			"description" "Release Client for Debugging Xbox Worlds"
+		}
 	}
 }
 "depots"
@@ -464,18 +532,18 @@
 		{
 			"public"
 			{
-				"gid" "4669537037636940503"
-				"size" "80617642630"
-				"download" "70396784416"
+				"gid" "413175089269850575"
+				"size" "80583530236"
+				"download" "70361360624"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "C40259676A1A0A3AB77CAD8BC15F6330"
-				"size" "49A80AEF3D20CA9AA84E6B2173C70DE0"
-				"download" "F5AD167742888556B30F48433A8C148D"
+				"gid" "ABC5E18509C730058706C64B4B9BFE84"
+				"size" "E5D6EA5B88484AE7371628FA08B0411C"
+				"download" "722AA87CCD0F76B467B403AFC77C4879"
 			}
 			"preload"
 			{
@@ -538,18 +606,18 @@
 		{
 			"public"
 			{
-				"gid" "8153177615959555642"
-				"size" "518289352"
-				"download" "125942624"
+				"gid" "1501027693126897294"
+				"size" "519881580"
+				"download" "126971824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "1F1D89BA1A89C125657D9724E24F0417"
-				"size" "06E4C3A2AA04845601F5F4F957D2DC92"
-				"download" "31CF6ECF263AE407B817C9BC23D2BB6F"
+				"gid" "8C3BFD5FB8697658D3B6ADFC52862EEE"
+				"size" "81E303F3143FA1EDE3B0343C8451364A"
+				"download" "9D0A9043AE3C5B774789C8ADC996FBED"
 			}
 			"preload"
 			{
@@ -578,18 +646,18 @@
 		{
 			"public"
 			{
-				"gid" "744618623270497641"
-				"size" "226224824"
-				"download" "58822544"
+				"gid" "3861783286886813552"
+				"size" "226271416"
+				"download" "58845520"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "CEE55FE7A30D9DC4F5CEDC01C7D4594E"
-				"size" "9F3762E9D1962631326B0E2269199E64"
-				"download" "BDF295D5A180B73B59D0963DFE6B918B"
+				"gid" "9BC743E488286F715CAD4BA795DFE4B4"
+				"size" "07764D837EFE12D3E3E8D3E0677B0516"
+				"download" "339282EE8DD8A19FA8F8DD031857ECC3"
 			}
 			"preload"
 			{
@@ -621,18 +689,18 @@
 		{
 			"public"
 			{
-				"gid" "1310973966742869220"
-				"size" "2064500993"
-				"download" "2064860928"
+				"gid" "6238800971831869233"
+				"size" "2059475240"
+				"download" "2059840288"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "C8932522544DF1766F72D637719F5BA5"
-				"size" "7F6BC4E8FBBCB5E873BC22482F03FDC3"
-				"download" "2E2F60342AA50B7C6A85071F6B2A0AB1"
+				"gid" "026F8C0F4C0AE7AD579D10A5BC8ACBA1"
+				"size" "703D9EEB896F578E2A053E895ACFD51B"
+				"download" "1EC2BCA9200788C2D332F58D46BEA118"
 			}
 			"preload"
 			{
@@ -664,18 +732,18 @@
 		{
 			"public"
 			{
-				"gid" "906644233424917528"
-				"size" "2231115777"
-				"download" "2233135408"
+				"gid" "6493708731102469072"
+				"size" "2225529427"
+				"download" "2227547760"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "EC1BE6A788B1BAE80F5CAD209926FCE9"
-				"size" "F6C0157B80BA35DCF3FFF7F62EB6D30A"
-				"download" "13AA5B8A22532D505ACF9B690B50F6F5"
+				"gid" "C8564B51157DEB6626500D2943D820B9"
+				"size" "A1EDD7A740F38EF2EEB41A07B487FDDB"
+				"download" "9AE17F9F258463087BCBE8D373D90775"
 			}
 			"preload"
 			{
@@ -707,18 +775,18 @@
 		{
 			"public"
 			{
-				"gid" "2863029591106134457"
-				"size" "2040602459"
-				"download" "2042680368"
+				"gid" "1518015067649235576"
+				"size" "2036430420"
+				"download" "2038503584"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "5787C4FC59C7AF09D4DE154A474968EB"
-				"size" "5854B4EA9ABC0BBB0E06F6BA648C8E63"
-				"download" "2EA834D5D2802C0B4D3689EE4CDF5334"
+				"gid" "DA1E406796F779ADEBA52B3FCFB67914"
+				"size" "D13AA35DE24C8DAA8CA26F94DCD79D63"
+				"download" "1C0F95FE110BD252E4A1D6FAA54AEBDB"
 			}
 			"preload"
 			{
@@ -750,18 +818,18 @@
 		{
 			"public"
 			{
-				"gid" "2900212411721704912"
-				"size" "2308268121"
-				"download" "2307903024"
+				"gid" "8457778810779835140"
+				"size" "2303001978"
+				"download" "2302642496"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "AE1016572C19CF341FCA30EC6BAE4069"
-				"size" "C81E4584F723C4CEF1A5064A33B89FDC"
-				"download" "087A2763B36471D04BF3D6B99CD87339"
+				"gid" "5CB137ED64E0B728A58493D04B76C2E5"
+				"size" "8329B12B0B206A031D72F7E9D00506C4"
+				"download" "C95C1DAE98A2DAB16C0261539A853A72"
 			}
 			"preload"
 			{
@@ -793,18 +861,18 @@
 		{
 			"public"
 			{
-				"gid" "7905760001560902427"
-				"size" "2092156000"
-				"download" "2090947936"
+				"gid" "8680470276706581170"
+				"size" "2087761584"
+				"download" "2086549104"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "C81B49AE47B910D75BE6D0C8905BD52F"
-				"size" "36966512DD13C32F820D62E3AF990A24"
-				"download" "E1377D2373A6AF633EE68F4F1B28CF19"
+				"gid" "BEAD11F20FF159180D9C34DB4EC12EB1"
+				"size" "5244557B21BCCC0990DD000CB5258168"
+				"download" "90BC383DB3990D7DEA04A6C4C9C5B83B"
 			}
 			"preload"
 			{
@@ -836,18 +904,18 @@
 		{
 			"public"
 			{
-				"gid" "6839142068193658614"
-				"size" "2064500993"
-				"download" "2064860928"
+				"gid" "2533199060811001109"
+				"size" "2059475240"
+				"download" "2059840288"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "E925710303729DFA57B094DECE6B2DC8"
-				"size" "7F6BC4E8FBBCB5E873BC22482F03FDC3"
-				"download" "2E2F60342AA50B7C6A85071F6B2A0AB1"
+				"gid" "78437F79644227558DC4C03719D8D42C"
+				"size" "703D9EEB896F578E2A053E895ACFD51B"
+				"download" "1EC2BCA9200788C2D332F58D46BEA118"
 			}
 			"preload"
 			{
@@ -879,18 +947,18 @@
 		{
 			"public"
 			{
-				"gid" "8832275107640684806"
-				"size" "2064500993"
-				"download" "2064860928"
+				"gid" "778914077569391397"
+				"size" "2059475240"
+				"download" "2059840288"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "CD8412DDE853A78251B13A2299C641AC"
-				"size" "7F6BC4E8FBBCB5E873BC22482F03FDC3"
-				"download" "2E2F60342AA50B7C6A85071F6B2A0AB1"
+				"gid" "C3D939929C5E0573A04DD7A16A4C12EB"
+				"size" "703D9EEB896F578E2A053E895ACFD51B"
+				"download" "1EC2BCA9200788C2D332F58D46BEA118"
 			}
 			"preload"
 			{
@@ -922,18 +990,18 @@
 		{
 			"public"
 			{
-				"gid" "9045262379110313454"
-				"size" "2308268121"
-				"download" "2307903024"
+				"gid" "8947095797942083400"
+				"size" "2303001978"
+				"download" "2302642496"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"default-test"
 			{
-				"gid" "DBB6C0D17C63DA2DE00A2EF894514070"
-				"size" "C81E4584F723C4CEF1A5064A33B89FDC"
-				"download" "087A2763B36471D04BF3D6B99CD87339"
+				"gid" "50431621CA159C1F65442C7407510C6B"
+				"size" "8329B12B0B206A031D72F7E9D00506C4"
+				"download" "C95C1DAE98A2DAB16C0261539A853A72"
 			}
 			"preload"
 			{
@@ -959,14 +1027,14 @@
 	{
 		"public"
 		{
-			"buildid" "16184138"
-			"timeupdated" "1729879195"
+			"buildid" "16312073"
+			"timeupdated" "1730885427"
 		}
 		"default-test"
 		{
-			"buildid" "16182935"
+			"buildid" "16291236"
 			"pwdrequired" "1"
-			"timeupdated" "1729872516"
+			"timeupdated" "1730746790"
 		}
 		"preload"
 		{
@@ -989,6 +1057,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25901313"
-"_sha" "514fe91dbb348057d4486adcce982bfd675a63da"
-"_size" "20073"
+"_change_number" "26069037"
+"_sha" "850bb66bac1de778b713d993415b76a13617bacc"
+"_size" "21667"
