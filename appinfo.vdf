@@ -1,0 +1,384 @@
+"appid" "1273100"
+"common"
+{
+	"name" "Builders of Greece"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "6e6c23a31568b1a1ad9b7333969e2f76f6a5e04d"
+	"clienttga" "f6d521cb5896b186b31acea21f984a011b67d561"
+	"icon" "cc977daa682cbcff20bb917e3716b89d9d966eab"
+	"logo" "1cf570ef5c79fc694d690c3af93750b3cbb52e10"
+	"logo_small" "1cf570ef5c79fc694d690c3af93750b3cbb52e10_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"greek" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1714521600"
+		"tested_build_id" "13621910"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "99.76662777129522"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "99.76662777129522"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730878117"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BLUM Entertainment"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Strategy Labs"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "CreativeForge Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "CFG FAMILY"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "BLUM Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"greek"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709041579"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1273100"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "9"
+		"2" "599"
+		"3" "492"
+		"4" "1643"
+		"5" "16094"
+		"6" "3810"
+		"7" "3987"
+		"8" "4695"
+		"9" "9204"
+		"10" "4182"
+		"11" "1676"
+		"12" "4175"
+		"13" "7332"
+		"14" "1678"
+		"15" "1708"
+		"16" "12472"
+		"17" "4161"
+		"18" "4667"
+		"19" "4026"
+	}
+	"review_score" "5"
+	"review_percentage" "63"
+}
+"extended"
+{
+	"developer" "BLUM Entertainment"
+	"publisher" "CreativeForge Games"
+	"homepage" "https://blumentmt.com"
+}
+"config"
+{
+	"installdir" "Builders of Greece"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Builders of Greece.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1273101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "416348006932591654"
+				"size" "10285917724"
+				"download" "4762204368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "B41EA1EFD50E5E4B77BC78B1D4B8EA08"
+				"size" "07322DFE5B18869AD5601532181107A4"
+				"download" "F6C473A2D520D04ECF787EADDA25CD63"
+			}
+			"marketing"
+			{
+				"gid" "3201DE84C6B9AC50461C23A59A288A8E"
+				"size" "AE01B562E2D76BF26CCD750325766B9E"
+				"download" "0B2DDD3B55B8621F5D3C43BD0BF35BD4"
+			}
+			"release_candidate"
+			{
+				"gid" "E8104E756283BF47D1836E540D0EDE11"
+				"size" "E662ABAAE29B341A0F0E0A3DB44BE8D8"
+				"download" "7246584DADD83F57B263C3F582C4B1F9"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,greek,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16094769"
+			"timeupdated" "1729248911"
+		}
+		"develop"
+		{
+			"buildid" "16094769"
+			"pwdrequired" "1"
+			"timeupdated" "1729248861"
+		}
+		"marketing"
+		{
+			"buildid" "15739036"
+			"pwdrequired" "1"
+			"timeupdated" "1726645386"
+		}
+		"release_candidate"
+		{
+			"buildid" "16091882"
+			"pwdrequired" "1"
+			"timeupdated" "1729239021"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "26067609"
+"_sha" "2984d92415dea3b4b41a1ad618e3eafad67cf256"
+"_size" "6747"
