@@ -98,7 +98,56 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1719566821"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "99.76662777129522"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730878117"
 	"associations"
 	{
 		"0"
@@ -114,12 +163,22 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" " CreativeForge Games"
+			"name" "CreativeForge Games"
 		}
 		"3"
 		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"4"
+		{
 			"type" "franchise"
 			"name" "CFG FAMILY"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "BLUM Games"
 		}
 	}
 	"primary_genre" "2"
@@ -228,7 +287,7 @@
 "extended"
 {
 	"developer" "BLUM Entertainment"
-	"publisher" " CreativeForge Games"
+	"publisher" "CreativeForge Games"
 	"homepage" "https://blumentmt.com"
 }
 "config"
@@ -259,30 +318,30 @@
 		{
 			"public"
 			{
-				"gid" "7723252454306642492"
-				"size" "10180623370"
-				"download" "4716856608"
+				"gid" "416348006932591654"
+				"size" "10285917724"
+				"download" "4762204368"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"marketing"
-			{
-				"gid" "7B347BB52B47148F3B8DCA2BD9D986A4"
-				"size" "44C26F8263790B39D5AA7D6A39E9E2A2"
-				"download" "08CB53A3B0B620EC41E01F4249AF2BD1"
-			}
 			"develop"
 			{
-				"gid" "7BEDC4B8445216B038E10AA16C39A3F8"
-				"size" "E564A60D1A1C993BEE1B2F24C40DB6D5"
-				"download" "323411F0E06453C850B49DC07F9CB17A"
+				"gid" "B41EA1EFD50E5E4B77BC78B1D4B8EA08"
+				"size" "07322DFE5B18869AD5601532181107A4"
+				"download" "F6C473A2D520D04ECF787EADDA25CD63"
+			}
+			"marketing"
+			{
+				"gid" "3201DE84C6B9AC50461C23A59A288A8E"
+				"size" "AE01B562E2D76BF26CCD750325766B9E"
+				"download" "0B2DDD3B55B8621F5D3C43BD0BF35BD4"
 			}
 			"release_candidate"
 			{
-				"gid" "7240C220F3CE5EB9FD9F818C73E9D188"
-				"size" "5E0E21385EC0CC844EAE63D7EEEB267D"
-				"download" "6438C13CBE640E369A65AE359AE0812B"
+				"gid" "E8104E756283BF47D1836E540D0EDE11"
+				"size" "E662ABAAE29B341A0F0E0A3DB44BE8D8"
+				"download" "7246584DADD83F57B263C3F582C4B1F9"
 			}
 		}
 	}
@@ -291,26 +350,26 @@
 	{
 		"public"
 		{
-			"buildid" "15163321"
-			"timeupdated" "1722001038"
-		}
-		"marketing"
-		{
-			"buildid" "13668744"
-			"pwdrequired" "1"
-			"timeupdated" "1709813001"
+			"buildid" "16094769"
+			"timeupdated" "1729248911"
 		}
 		"develop"
 		{
-			"buildid" "14941809"
+			"buildid" "16094769"
 			"pwdrequired" "1"
-			"timeupdated" "1720176692"
+			"timeupdated" "1729248861"
+		}
+		"marketing"
+		{
+			"buildid" "15739036"
+			"pwdrequired" "1"
+			"timeupdated" "1726645386"
 		}
 		"release_candidate"
 		{
-			"buildid" "15163321"
+			"buildid" "16091882"
 			"pwdrequired" "1"
-			"timeupdated" "1722000199"
+			"timeupdated" "1729239021"
 		}
 	}
 }
@@ -320,6 +379,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "24525938"
-"_sha" "25c6b14dd6bff5929e09eb5a4c173fccb4739680"
-"_size" "5913"
+"_change_number" "26067609"
+"_sha" "2984d92415dea3b4b41a1ad618e3eafad67cf256"
+"_size" "6747"
