@@ -1,0 +1,509 @@
+"appid" "1614440"
+"common"
+{
+	"name" "Bō: Path of the Teal Lotus"
+	"type" "Game"
+	"logo" "efe66fab6ad544c7d7660771d66dc3fa45d5872d"
+	"logo_small" "efe66fab6ad544c7d7660771d66dc3fa45d5872d_thumb"
+	"icon" "f6cae6557c49f4b358d54ee86d22f389049afe46"
+	"clienticon" "9eda3c837059f2e5ffa0da288bcaf234a2c885af"
+	"clienttga" "affe8c78cf0e9a36ecfba5804b3e5ddfe26179d3"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "ボウと月夜の碧い花"
+		"tchinese" "波與月夜之青蓮"
+		"schinese" "波与月夜之青莲"
+		"koreana" "보우:월하의 청연"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1720137600"
+		"tested_build_id" "14902757"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "79.87164527421237"
+			"height_pct" "47.34029921633817"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "79.87164527421237"
+				"height_pct" "47.34029921633817"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1721228355"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Squid Shock Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Christopher Stair"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Trevor Youngquist"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Humble Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Humble Games"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Squid Shock Studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1721228321"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1614440"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "3798"
+		"2" "3877"
+		"3" "3834"
+		"4" "5379"
+		"5" "1625"
+		"6" "29482"
+		"7" "4106"
+		"8" "1751"
+		"9" "3871"
+		"10" "4726"
+		"11" "4046"
+		"12" "19"
+		"13" "4195"
+		"14" "4252"
+		"15" "6815"
+		"16" "4305"
+		"17" "9541"
+		"18" "4166"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Squid Shock Studios"
+	"publisher" "Humble Games"
+	"homepage" "https://squidshockstudios.com/"
+}
+"config"
+{
+	"installdir" "Bo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bo.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1614441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8345203248926085503"
+				"size" "5637209405"
+				"download" "1130121696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external_playground"
+			{
+				"gid" "5D03120E5B694653056E769143F6CD4A"
+				"size" "070489BC2FFC16F5FAF8000131AD8039"
+				"download" "216733448ABDDB583B4D7B0BB04D99B4"
+			}
+			"humble_games_playground"
+			{
+				"gid" "7D043471F467566B4A6F4C2EE375FA9B"
+				"size" "E5B4A25A93812C18A418BE0745845ADA"
+				"download" "4F86BD79B0E40E88618C11228F404E40"
+			}
+			"playground"
+			{
+				"gid" "3117D7B88ED6CFA03E3B90272D1C5196"
+				"size" "1D331C83F23640F777DC0154A7C5EDEE"
+				"download" "3896A375655427FAACC41AC7829BA744"
+			}
+			"bobeta"
+			{
+				"gid" "241EFD5DBDD8B584CAAEF2E3A0435564"
+				"size" "DD944FF97C9C9248C71104C6F9A5BF9C"
+				"download" "ECC7398842C85DECE569E63AAF5D95D4"
+			}
+			"boss_fight_test"
+			{
+				"gid" "89CC80E49862D8B6D0F2358E8457E8BC"
+				"size" "B0651C4B2D90CE255525914683C2B5BA"
+				"download" "EAC4628C8767D6E46CE74434D78810D4"
+			}
+			"egx_demo"
+			{
+				"gid" "989052B69442600613B4A408E8BE709C"
+				"size" "CBD5645A2BF415173837D3FBFE74940C"
+				"download" "70E66BC202EE3DD7C9EEA1B8BE5546CD"
+			}
+			"external_eval"
+			{
+				"gid" "043E8E8E2FF40621D387A170B6205562"
+				"size" "C4BDB0F26612F963CE1BF6F344589ED2"
+				"download" "F565A13886DA129841BDD6CF34D3EF2A"
+			}
+			"gamescom_demo"
+			{
+				"gid" "2135D6C3B14F357C233B5E9206042136"
+				"size" "BB701EE893DD45B7635066ED1093E75C"
+				"download" "B7B7155729306730529AFAC34AE1DA86"
+			}
+			"general_testing"
+			{
+				"gid" "B1ECE7D7A40FB59638F9CBEFD5C37A0D"
+				"size" "014B1C18D9465D94EB36B4D440D16AB2"
+				"download" "D4B82EA94175B26175A79EB70E0F2B6B"
+			}
+			"humble_games"
+			{
+				"gid" "BA9DED1768E0DF1365A83BEE1D1460D5"
+				"size" "50CDDC2036C7B11651F56D02AB8A0FF6"
+				"download" "A55A8925D9433E865DC728D0A538154F"
+			}
+			"kickstarter_beta_test"
+			{
+				"gid" "703529FB07799E1BC28395C844315C84"
+				"size" "C0944B2160A3EF17E3AA66A217EF8D77"
+				"download" "54BA71D7B68C0EF3DF00812954B50609"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16284770"
+			"timeupdated" "1730709228"
+		}
+		"external_playground"
+		{
+			"buildid" "13282711"
+			"pwdrequired" "1"
+			"timeupdated" "1706279047"
+		}
+		"humble_games_playground"
+		{
+			"buildid" "13282711"
+			"pwdrequired" "1"
+			"timeupdated" "1706279035"
+		}
+		"playground"
+		{
+			"buildid" "13282711"
+			"pwdrequired" "1"
+			"timeupdated" "1706279062"
+		}
+		"bobeta"
+		{
+			"buildid" "16119508"
+			"pwdrequired" "1"
+			"timeupdated" "1729499450"
+		}
+		"boss_fight_test"
+		{
+			"buildid" "14440798"
+			"pwdrequired" "1"
+			"timeupdated" "1716289424"
+		}
+		"egx_demo"
+		{
+			"buildid" "15490746"
+			"pwdrequired" "1"
+			"timeupdated" "1724659290"
+		}
+		"external_eval"
+		{
+			"buildid" "15319733"
+			"pwdrequired" "1"
+			"timeupdated" "1723214534"
+		}
+		"gamescom_demo"
+		{
+			"buildid" "15490746"
+			"pwdrequired" "1"
+			"timeupdated" "1724659280"
+		}
+		"general_testing"
+		{
+			"buildid" "15850732"
+			"pwdrequired" "1"
+			"timeupdated" "1730709180"
+		}
+		"humble_games"
+		{
+			"buildid" "15319733"
+			"pwdrequired" "1"
+			"timeupdated" "1723214519"
+		}
+		"kickstarter_beta_test"
+		{
+			"buildid" "14508120"
+			"pwdrequired" "1"
+			"timeupdated" "1716818196"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Squid Shock Studios/Bo"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Squid Shock Studios/Bo"
+					"replace" ".config/unity3d/Squid Shock Studios/Bo"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Squid Shock Studios/Bo"
+					"replace" "unity.Squid Shock Studios.Bo"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26033705"
+"_sha" "0c37747d4adc9d0e00aefc4ad6883bbe3d55da1e"
+"_size" "9606"
