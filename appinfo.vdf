@@ -58,15 +58,35 @@
 	"releasestate" "released"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1726099200"
-		"tested_build_id" "15182242"
+		"category" "3"
+		"test_timestamp" "1730851200"
+		"tested_build_id" "15977208"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -79,7 +99,7 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-experimental"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "1"
 			"hdr_support" "0"
@@ -305,7 +325,7 @@
 	"developer" "Cygames, Inc."
 	"publisher" "Cygames, Inc."
 	"homepage" "https://hachamecha-umamusume.jp/"
-	"listofdlc" "3050720,3050730"
+	"listofdlc" "3050720,3050730,3050740"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -353,30 +373,30 @@
 		{
 			"public"
 			{
-				"gid" "4192575092235387159"
-				"size" "5234937817"
-				"download" "3713002528"
+				"gid" "6180278043237426475"
+				"size" "5449265471"
+				"download" "3947537568"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test001"
 			{
-				"gid" "BDE3529459352E3693BFA5768951E08B"
-				"size" "81A5201DEFB831A0DD5A984B25A43EC7"
-				"download" "77CCF726CB25300E47E51F179D3F32C2"
+				"gid" "9132ADE835D6B0E87AB0884AE1C0B342"
+				"size" "8ECD4FA3FE22717F0AD4123A9BFB13D4"
+				"download" "ABE352F094D39646E4629887BC17C26A"
 			}
 			"test002"
 			{
-				"gid" "463CBD62CF9328FB7E7000B5F3CAC935"
-				"size" "D4C0A9FF87B102DC017DB9E9B1BBA435"
-				"download" "0B7D496B36A45C845323F7978BACE9E9"
+				"gid" "F2444BB5157E69CD94631EC8DCD1275B"
+				"size" "E7F20B3C80F964C7C6993F33B0326838"
+				"download" "D2F0134932BF32206635A8C4A9A7C3BE"
 			}
 			"test003"
 			{
-				"gid" "FDD07699B367A34B9838F19D40DA07FC"
-				"size" "12A3C11C9204CFB338E32676A1B89B8E"
-				"download" "21995B2BA0ADF74C901FB783F78A82EA"
+				"gid" "738FA3A622FE1294943435471CB28B80"
+				"size" "9D075FCDD05BE2A128951C32110A1183"
+				"download" "4D4EC092B0392B92049940648567A588"
 			}
 			"development"
 			{
@@ -386,9 +406,9 @@
 			}
 			"development_"
 			{
-				"gid" "77E2AE62F2F668B59441FC6B6E45CA0B"
-				"size" "35A3C467BD6E945EF88A855EA6B9A43F"
-				"download" "84FA45CD8E17B55D04673AA7675C83DA"
+				"gid" "2FA3911A489EEE502D22768FF8459E62"
+				"size" "9214EE27395FC151521B13D9787FFC7F"
+				"download" "BF3F7F0AE7ABAA1E6B3F1F95043F83B0"
 			}
 			"development_weekly"
 			{
@@ -408,26 +428,26 @@
 	{
 		"public"
 		{
-			"buildid" "15818213"
-			"timeupdated" "1728540099"
+			"buildid" "15977208"
+			"timeupdated" "1730905216"
 		}
 		"test001"
 		{
-			"buildid" "16006502"
+			"buildid" "16295587"
 			"pwdrequired" "1"
-			"timeupdated" "1728635863"
+			"timeupdated" "1730775878"
 		}
 		"test002"
 		{
-			"buildid" "15988434"
+			"buildid" "16260841"
 			"pwdrequired" "1"
-			"timeupdated" "1728530959"
+			"timeupdated" "1730437193"
 		}
 		"test003"
 		{
-			"buildid" "15988422"
+			"buildid" "16260833"
 			"pwdrequired" "1"
-			"timeupdated" "1728530950"
+			"timeupdated" "1730437184"
 		}
 		"development"
 		{
@@ -437,9 +457,9 @@
 		}
 		"development_"
 		{
-			"buildid" "15988434"
+			"buildid" "16260841"
 			"pwdrequired" "1"
-			"timeupdated" "1728525638"
+			"timeupdated" "1730437031"
 		}
 		"development_weekly"
 		{
@@ -475,6 +495,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25664677"
-"_sha" "314be47d3eafef08b1a077476b9c0dbeb694b000"
-"_size" "10199"
+"_change_number" "26073550"
+"_sha" "7824a9ed2053fa9d0df81b86abfb6da113cc9f5f"
+"_size" "10695"
