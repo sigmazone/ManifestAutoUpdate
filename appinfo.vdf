@@ -9,6 +9,12 @@
 		"koreana" "하숙생이 전부 미녀입니다만\?"
 		"schinese" " 阿西, 美女室友竟然...？"
 		"japanese" "まさか！下宿生が 美女ですって？"
+		"indonesian" "Lima Hati di Bawah Satu Atap"
+		"portuguese" "Cinco Corações, Um Teto Cheio de Amor"
+		"russian" "Пять Сердец Под Одной Крышей"
+		"french" "Cinq Cœurs Sous un Toit d’Amour"
+		"thai" "ห้าหัวใจใต้หลังคาเดียวกัน"
+		"brazilian" "Cinco Corações, Um Teto Cheio de Amor"
 	}
 	"oslist" "windows"
 	"osarch" ""
@@ -130,7 +136,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730358692"
+	"store_asset_mtime" "1730968524"
 	"associations"
 	{
 		"0"
@@ -187,6 +193,36 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1727913621"
 	"community_visible_stats" "1"
@@ -198,9 +234,9 @@
 		"1" "18594"
 		"2" "4947"
 		"3" "3799"
-		"4" "4182"
-		"5" "3839"
-		"6" "12095"
+		"4" "12095"
+		"5" "4182"
+		"6" "3839"
 		"7" "6426"
 		"8" "6971"
 		"9" "11014"
@@ -245,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "3184147404809232724"
-				"size" "33911479101"
-				"download" "26982407136"
+				"gid" "771639817545104210"
+				"size" "33906761500"
+				"download" "26978993392"
 			}
 		}
 		"encryptedmanifests"
@@ -260,9 +296,9 @@
 			}
 			"test_qa"
 			{
-				"gid" "04C492809E6F961BF435D9865DF37C49"
-				"size" "942B52C594991071C252EFDEE2EA206A"
-				"download" "5726427DBD66DA2AC160D93C6AE90838"
+				"gid" "B88580DD32FF60D201110921CC4C7FC5"
+				"size" "184C7B7F9F084AD14B82F08D689CB260"
+				"download" "72D0BDEBE303DD33A663FEB7747171CB"
 			}
 		}
 	}
@@ -270,8 +306,8 @@
 	{
 		"public"
 		{
-			"buildid" "16283423"
-			"timeupdated" "1730705945"
+			"buildid" "16324342"
+			"timeupdated" "1730968694"
 		}
 		"review"
 		{
@@ -281,9 +317,9 @@
 		}
 		"test_qa"
 		{
-			"buildid" "16283423"
+			"buildid" "16324342"
 			"pwdrequired" "1"
-			"timeupdated" "1730698180"
+			"timeupdated" "1730965815"
 		}
 	}
 }
@@ -314,7 +350,7 @@
 				"0"
 				{
 					"find" "Storytaco/MilkGame/SavesDir"
-					"replace" "unity.Storytaco.MilkGame/SavesDir"
+					"replace" "Storytaco/MilkGame/SavesDir"
 				}
 			}
 		}
@@ -330,6 +366,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26033150"
-"_sha" "2ff4749a2066ef842a1bf5590cb719c27ab65aa0"
-"_size" "6889"
+"_change_number" "26085737"
+"_sha" "fca565fd59e2590b62bcb8dd3431e4a55c52cb30"
+"_size" "7685"
