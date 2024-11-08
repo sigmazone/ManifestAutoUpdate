@@ -155,6 +155,7 @@
 		"category_23" "1"
 		"category_28" "1"
 		"category_22" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -216,6 +217,7 @@
 		}
 	}
 	"steam_release_date" "1730306244"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/3027930/announcements/detail/4470479417177538617"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3027930"
@@ -265,6 +267,15 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "KarateSurvivor.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 }
 "depots"
@@ -279,18 +290,18 @@
 		{
 			"public"
 			{
-				"gid" "5458855536580252156"
-				"size" "1880222585"
-				"download" "177099776"
+				"gid" "8759480228376922747"
+				"size" "1880268717"
+				"download" "177154624"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "6071C99E4BEB4254C11583A4DB842A10"
-				"size" "28278A0C1BCD74A366BBEDBA201E173E"
-				"download" "07B9C0B2A346A139CE0C574FA9E84B6A"
+				"gid" "5B28513BFEBCF9D724F5000EFB7C532F"
+				"size" "A5A38B13ABD248A3F19D64F34652AFC3"
+				"download" "A5FDEE8D876A1B054395B472A3EA3420"
 			}
 			"localization"
 			{
@@ -300,9 +311,28 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "1A8AB17506C91A30FFB8EA7AB31E1D85"
-				"size" "C55E20BA1CA2590C50450981437EFFFE"
-				"download" "73F11071F4B17DE3ECA19ACF9093339E"
+				"gid" "A7F97D241444C9F31DD56D308C051891"
+				"size" "66F6904E67A7908FACFE6E6CF4B18CCE"
+				"download" "EFCB8EFEF1CD6A30FD5AD3B0FCA97BBA"
+			}
+		}
+	}
+	"3027932"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "76F16CA19DDA68F0AB2B58B17A440646"
+				"size" "D8CA62BCFFD1BD849687D45763FEF049"
+				"download" "36564E256E94F8145BB0CF107742713C"
 			}
 		}
 	}
@@ -310,14 +340,14 @@
 	{
 		"public"
 		{
-			"buildid" "16274032"
-			"timeupdated" "1730548737"
+			"buildid" "16340604"
+			"timeupdated" "1731067136"
 		}
 		"development"
 		{
-			"buildid" "16273516"
+			"buildid" "16340097"
 			"pwdrequired" "1"
-			"timeupdated" "1730537570"
+			"timeupdated" "1731061819"
 		}
 		"localization"
 		{
@@ -327,9 +357,9 @@
 		}
 		"releasecandidate"
 		{
-			"buildid" "16274032"
+			"buildid" "16340604"
 			"pwdrequired" "1"
-			"timeupdated" "1730545379"
+			"timeupdated" "1731063939"
 		}
 	}
 }
@@ -353,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26053883"
-"_sha" "450775f75774c8cd7963df03c234b9e023c2fded"
-"_size" "6775"
+"_change_number" "26106896"
+"_sha" "5433595cd23d6a1831fb5a823af4dc85ebd50a35"
+"_size" "7332"
