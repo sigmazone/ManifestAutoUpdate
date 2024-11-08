@@ -231,7 +231,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -281,7 +281,6 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
-	"steamconfigurator3rdpartynative" "65535"
 	"steamcontrollertemplateindex" "4"
 }
 "depots"
@@ -296,26 +295,26 @@
 				"size" "9485381087"
 				"download" "9303224160"
 			}
-			"renpy-8"
-			{
-				"gid" "1528427442710082053"
-				"size" "8678427065"
-				"download" "8528860320"
-			}
 			"beta"
 			{
 				"gid" "481515281560860916"
 				"size" "9253807407"
 				"download" "9072495856"
 			}
+			"renpy-8"
+			{
+				"gid" "9040455564051945013"
+				"size" "9448605263"
+				"download" "9294023888"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"protected"
 			{
-				"gid" "6AFA06AF9A81FC79E9284AD8E7C09867"
-				"size" "EEB69317EC1DADF2621281B0D6D4EB9B"
-				"download" "6503E807A6BBF5634033452C0FC25E44"
+				"gid" "46EE01E5CA01280CD826C3B39DF7BABF"
+				"size" "A8BAFF7C45F7337DB0EF5D82048C7F84"
+				"download" "CEEC0DA5C4CCD6FC5FD2171B2C52D25D"
 			}
 		}
 	}
@@ -330,17 +329,17 @@
 				"size" "588101"
 				"download" "394560"
 			}
-			"renpy-8"
-			{
-				"gid" "5310054855119015099"
-				"size" "561445"
-				"download" "381024"
-			}
 			"beta"
 			{
 				"gid" "5310054855119015099"
 				"size" "561445"
 				"download" "381024"
+			}
+			"renpy-8"
+			{
+				"gid" "5850711113908860375"
+				"size" "588101"
+				"download" "394560"
 			}
 		}
 		"encryptedmanifests"
@@ -364,17 +363,17 @@
 				"size" "3076008983"
 				"download" "3114934608"
 			}
-			"renpy-8"
-			{
-				"gid" "415461011155533595"
-				"size" "3077490230"
-				"download" "3112283712"
-			}
 			"beta"
 			{
 				"gid" "514870605590485213"
 				"size" "3076009095"
 				"download" "3114936720"
+			}
+			"renpy-8"
+			{
+				"gid" "6594984669955518291"
+				"size" "3071489963"
+				"download" "3110216544"
 			}
 		}
 		"encryptedmanifests"
@@ -398,14 +397,20 @@
 				"size" "3277179047"
 				"download" "3316187744"
 			}
+			"renpy-8"
+			{
+				"gid" "2994441457120065825"
+				"size" "3277927125"
+				"download" "3316892000"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"protected"
 			{
-				"gid" "2969F718901F7AC79591E1F6689DC068"
-				"size" "79D52EFAFD9D83359E2D3A1405A804A4"
-				"download" "D9DE52D6396698BD957FC497CC09B459"
+				"gid" "91F4672ADDD3C72FFD876C337339DD4E"
+				"size" "E4F0B3DD4C865BF460FF5C14310BDED1"
+				"download" "CCB5D8A91018316BA1920DEC052FB5D0"
 			}
 		}
 	}
@@ -416,12 +421,6 @@
 			"buildid" "16224087"
 			"timeupdated" "1730305413"
 		}
-		"renpy-8"
-		{
-			"buildid" "14007881"
-			"description" "Branch with updated version of the engine"
-			"timeupdated" "1712742025"
-		}
 		"beta"
 		{
 			"buildid" "15905120"
@@ -430,9 +429,15 @@
 		}
 		"protected"
 		{
-			"buildid" "16224087"
+			"buildid" "16341718"
 			"pwdrequired" "1"
-			"timeupdated" "1730219135"
+			"timeupdated" "1731069620"
+		}
+		"renpy-8"
+		{
+			"buildid" "16281735"
+			"description" "Branch with updated version of the engine"
+			"timeupdated" "1730678147"
 		}
 	}
 }
@@ -481,6 +486,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25990501"
-"_sha" "0148b32786f1759f47160cac5757f0860bde5a4a"
-"_size" "8545"
+"_change_number" "26107550"
+"_sha" "26ed82a799693f4a7dc35fe7080c9a592c68355b"
+"_size" "8617"
