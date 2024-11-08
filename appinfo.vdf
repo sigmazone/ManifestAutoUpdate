@@ -17,6 +17,7 @@
 	"languages"
 	{
 		"english" "1"
+		"japanese" "1"
 	}
 	"content_descriptors"
 	{
@@ -85,7 +86,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1618436284"
+	"store_asset_mtime" "1730841451"
 	"associations"
 	{
 		"0"
@@ -142,6 +143,12 @@
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
 			"subtitles" "true"
 		}
 	}
@@ -217,16 +224,16 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,russian,brazilian"
+	"baselanguages" "english,schinese,russian,japanese,brazilian"
 	"1599471"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5468915587533344538"
-				"size" "285562756"
-				"download" "145930752"
+				"gid" "7453269479848427417"
+				"size" "293489783"
+				"download" "150632368"
 			}
 		}
 	}
@@ -234,8 +241,12 @@
 	{
 		"public"
 		{
-			"buildid" "15731393"
-			"timeupdated" "1726590272"
+			"buildid" "16307026"
+			"timeupdated" "1730846635"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26062956"
+"_sha" "acf963dadeb490419d1297953976aff662ce61ce"
+"_size" "4206"
