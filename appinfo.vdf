@@ -223,10 +223,12 @@
 		"19" "4234"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "98"
 }
 "extended"
 {
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "develop,release.2.0.0"
 	"developer" "BeXide Inc."
 	"publisher" "holo Indie"
 	"listofdlc" "3157450"
@@ -270,30 +272,30 @@
 		{
 			"public"
 			{
-				"gid" "4444281192798622373"
-				"size" "612639402"
-				"download" "458914000"
+				"gid" "3672640374868426049"
+				"size" "612648386"
+				"download" "458926976"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"check"
 			{
-				"gid" "D68935686761056C7C6A3C6EB5E678D3"
-				"size" "9AC4CE1006B0A01AB20558198C552D3F"
-				"download" "F587AD979F1FF7FDC54575DD8C4D6D17"
+				"gid" "6ECBE4FB410CD37082E33CD59D3B0225"
+				"size" "06CB92B32E35C99737D17C721C8CD7E4"
+				"download" "0B69247587EC7AE6B6ACCB2637F88646"
 			}
 			"develop"
 			{
-				"gid" "A93C82DEBD36722D39DFA1E0BF14A799"
-				"size" "0D08B02474A443FD32A4C095E85BC2CA"
-				"download" "928B883E6BEA4542E24286086241CCE6"
+				"gid" "01E50778584DAAA345E065D26C1FB5A9"
+				"size" "D0E3B89C6D63CFE37FCA83B2ED98EC18"
+				"download" "406ABC66A6479E7114F4B1F361124FA9"
 			}
 			"release"
 			{
-				"gid" "4159C58A353A0DDDE71F3B0EE90850AC"
-				"size" "272FC1A922C2B50EAFAD3FB7E760E095"
-				"download" "8F147DA84EFB30BC4DF97EBFA855803D"
+				"gid" "FE0A9349212290BD74AFB1A8B5B9114D"
+				"size" "7B10FC5ECE06985F79296168606C73DD"
+				"download" "D8367EDE0176D8EE5E01B0646982F669"
 			}
 			"release.1.0.0"
 			{
@@ -306,6 +308,12 @@
 				"gid" "C0FD13DE7C6F9A25DD6C7CA6EB72B916"
 				"size" "44DEA51F909280A78AD8F8B581042A6F"
 				"download" "4F9B102FFD4DFC53F18D0B4881BE24E3"
+			}
+			"release.2.0.0"
+			{
+				"gid" "AAEA7BDBCD4D310A9DEF76DA368A4D9E"
+				"size" "7835DD419B6A7588296E91FEEAF5FD1C"
+				"download" "C7566F003987D08CBA00395573655750"
 			}
 			"test"
 			{
@@ -332,30 +340,30 @@
 		{
 			"public"
 			{
-				"gid" "8225956909035009295"
-				"size" "784198887"
-				"download" "489443408"
+				"gid" "8374421433634526477"
+				"size" "784048365"
+				"download" "489295072"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"check"
 			{
-				"gid" "3C74379C688E16AF1FEB74603E6B56A3"
-				"size" "B2D8C14750FCBDC53C9953B5DF5CA9D1"
-				"download" "8740F962DCC11A3132F0B1C2D72A8980"
+				"gid" "CBB446FD1C51CA66DED26DA4FE06CD0D"
+				"size" "E75040C3E6CE5833AF3864CCED8E11E3"
+				"download" "C2FD7C4FB895262FBEBD0F00905C4EB4"
 			}
 			"develop"
 			{
-				"gid" "39B5B5460E0B45EF03FA3336616D9EA6"
-				"size" "6DF8BBEEFFD660EBCC3CBDC2B98DAA33"
-				"download" "9F31850659C5BDFEFE7A765ABADADCAC"
+				"gid" "9897947812A1B2F02F9A91A73CCA6798"
+				"size" "E09BF59C8D9FCD41D5C498B1E6A04A2C"
+				"download" "A7DD1E13A26E543DB1D94B56E480A892"
 			}
 			"release"
 			{
-				"gid" "03FD3D2CDCAE8C6D99140A9832A25606"
-				"size" "27E588BC66C8FE1D14E724EA7CCA0359"
-				"download" "7D40AA5FE2F3768FE98324C03535BC12"
+				"gid" "F957FD73E41B658CDA0AAD26FB5662DE"
+				"size" "6281401B8EA6F92BEB9FAC486DD8A6C8"
+				"download" "2788762DDD24FCCBFAEFAFB3B079F1FA"
 			}
 			"release.1.0.0"
 			{
@@ -368,6 +376,12 @@
 				"gid" "2D286AA7229165785240C22F5C1B35EF"
 				"size" "79C305EBDAD25A756CB5F4A6D5D5B96E"
 				"download" "B33F3C0134CD4D51804D219ED3CD1476"
+			}
+			"release.2.0.0"
+			{
+				"gid" "E068E9944523F49D774C0990265E3111"
+				"size" "82E5A1C7660A467D6495426BF97723A8"
+				"download" "94C2FC892CEBDE0D16EE3A429272B06B"
 			}
 			"test"
 			{
@@ -387,26 +401,26 @@
 	{
 		"public"
 		{
-			"buildid" "15963424"
-			"timeupdated" "1728617217"
+			"buildid" "16230613"
+			"timeupdated" "1730950362"
 		}
 		"check"
 		{
-			"buildid" "15963424"
+			"buildid" "16230613"
 			"pwdrequired" "1"
-			"timeupdated" "1728619264"
+			"timeupdated" "1730957715"
 		}
 		"develop"
 		{
-			"buildid" "15999770"
+			"buildid" "16337192"
 			"pwdrequired" "1"
-			"timeupdated" "1728591705"
+			"timeupdated" "1731042345"
 		}
 		"release"
 		{
-			"buildid" "15963424"
+			"buildid" "16230613"
 			"pwdrequired" "1"
-			"timeupdated" "1728370864"
+			"timeupdated" "1730256139"
 		}
 		"release.1.0.0"
 		{
@@ -419,6 +433,12 @@
 			"buildid" "15910535"
 			"pwdrequired" "1"
 			"timeupdated" "1727922462"
+		}
+		"release.2.0.0"
+		{
+			"buildid" "16337558"
+			"pwdrequired" "1"
+			"timeupdated" "1731045648"
 		}
 		"test"
 		{
@@ -449,6 +469,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25660871"
-"_sha" "0a4474dd63dd0c0840e04f0d0c2c3f1937819b0c"
-"_size" "8850"
+"_change_number" "26102180"
+"_sha" "af50f7c6299e1455e9cd3118d45f17f99cc96d74"
+"_size" "9415"
