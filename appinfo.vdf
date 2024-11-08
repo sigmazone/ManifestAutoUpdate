@@ -63,7 +63,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
-	"market_presence" "0"
+	"market_presence" "1"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -85,6 +85,47 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1706376295"
@@ -210,22 +251,22 @@
 	{
 		"0" "1667"
 		"1" "1721"
-		"2" "9130"
-		"3" "3859"
+		"2" "3859"
+		"3" "9130"
 		"4" "3843"
 		"5" "3839"
 		"6" "1685"
 		"7" "3978"
-		"8" "21"
-		"9" "3834"
-		"10" "19"
-		"11" "21978"
-		"12" "12095"
-		"13" "10397"
+		"8" "12095"
+		"9" "21"
+		"10" "3834"
+		"11" "19"
+		"12" "10397"
+		"13" "21978"
 		"14" "1687"
 		"15" "6730"
-		"16" "599"
-		"17" "4182"
+		"16" "4182"
+		"17" "599"
 		"18" "128"
 		"19" "5711"
 	}
@@ -289,9 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "4233335855310222530"
-				"size" "1306204851"
-				"download" "1188271152"
+				"gid" "4149183231670512249"
+				"size" "2178211079"
+				"download" "1910776912"
 			}
 		}
 	}
@@ -299,12 +340,12 @@
 	{
 		"public"
 		{
-			"buildid" "14870826"
-			"timeupdated" "1719571632"
+			"buildid" "16325583"
+			"timeupdated" "1730973190"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24355577"
-"_sha" "a3eca7e2a91304f0a9cfc6ff2052fc5bcb28e064"
-"_size" "5408"
+"_change_number" "26086919"
+"_sha" "bac4761ce3be155b3792d53d305424093f564eb0"
+"_size" "5974"
