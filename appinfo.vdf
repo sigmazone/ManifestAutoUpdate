@@ -1,0 +1,742 @@
+"appid" "1145350"
+"common"
+{
+	"name" "Hades II"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macosapplesilicon"
+	"clienticon" "e8cd1233d374c647e8e3d7bbaa98a5d399e3f40b"
+	"clienttga" "193ac7d7df715b294dc5d44b6642fc8d96ddcaf2"
+	"icon" "621d9f1cfa204c0bae07a981f41007d2cf03a56c"
+	"languages"
+	{
+		"english" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1714089600"
+		"tested_build_id" "14036239"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "81b47b439d9b2a0eaf615f22abb1872bf03e78b9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "118.4027777777778"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "11d99eeba7fe9025ab493e934e070d882f8ed05e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "11d99eeba7fe9025ab493e934e070d882f8ed05e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "e8383bc3c54b563035c7fbff0737a7dad26fe8ff/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "e8383bc3c54b563035c7fbff0737a7dad26fe8ff/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "118.4027777777778"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4a200ab8c9a0a1c3a6961f160a3043b7cadde754/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4a200ab8c9a0a1c3a6961f160a3043b7cadde754/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729112172"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Supergiant Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Supergiant Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Supergiant Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Hades"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_13" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715014140"
+	"community_hub_visible" "1"
+	"gameid" "1145350"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1716"
+		"2" "122"
+		"3" "3959"
+		"4" "1646"
+		"5" "42804"
+		"6" "4231"
+		"7" "1720"
+		"8" "16094"
+		"9" "5851"
+		"10" "6815"
+		"11" "1742"
+		"12" "4166"
+		"13" "29482"
+		"14" "4182"
+		"15" "7208"
+		"16" "492"
+		"17" "493"
+		"18" "1759"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"deckresolutionoverride" "Native"
+	"developer" "Supergiant Games"
+	"publisher" "Supergiant Games"
+	"homepage" "http://www.supergiantgames.com"
+}
+"config"
+{
+	"installdir" "Hades II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Release/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /SaveCollectionRate=100"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Release for Nightly"
+			}
+			"description" "Release for Nightly"
+		}
+		"1"
+		{
+			"executable" "Debug/Hades2.exe"
+			"arguments" "/c ../ /steampowered /UnsafeDebugKeysEnabled=false /AutoHotLoad=false /HotLoadScripts=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Debug"
+			}
+			"description" "Debug"
+		}
+		"2"
+		{
+			"executable" "Ship/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /SaveCollectionRateFloat=0.4 /SaveCollectionDeathInterval=10 /strictpackagechecks=true /ProgressionVersion=3"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "public"
+			}
+			"description_loc"
+			{
+				"english" "Ship"
+			}
+			"description" "Ship"
+		}
+		"3"
+		{
+			"executable" "Release/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=true /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /LoadAllAudio=true /LoadAllVoice=true /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=true /DebugDraw=true /EnableDebugDisplayTextSystem=true /EnableDebugDisplayScript=false /EnableDebugDisplayAudio=false /EnableDebugDisplayUnits=false /EnableDebugDisplayThings=false /BasecampProject=\"Iris Loc\" /AssertContextBasecampProject=\"Iris Loc\" /AssertContextDefaultTodoList=\"Asserts & Script Crashes\" /SubmitBugsToJira=false /BuildLabel=Loc"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "localization"
+			}
+			"description_loc"
+			{
+				"english" "Localization Default"
+			}
+			"description" "Localization Default"
+		}
+		"4"
+		{
+			"executable" "Ship/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false /BuildLabel=HCTS /SaveCollectionRateFloat=1 /strictpackagechecks=true /ProgressionVersion=1"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "test"
+			}
+			"description_loc"
+			{
+				"english" "Test Default"
+			}
+			"description" "Test Default"
+		}
+		"5"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /DirectLoadShell=true /DebugMessages=false /DebugKeysEnabled=false /ShowFPS=false /PerfDashWarnings=false /VerboseScriptLogging=false /UnsafeDebugKeysEnabled=false /UseDevSaves=false /UseInternalBugReporter=false /LiveCreateTextures=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "nightly"
+			}
+		}
+		"6"
+		{
+			"executable" "Ship/Hades2.exe"
+			"arguments" "/c ../ /steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false /strictpackagechecks=true /ProgressionVersion=3"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nightly"
+			}
+			"description_loc"
+			{
+				"english" "Ship"
+			}
+			"description" "Ship"
+		}
+		"7"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test"
+			}
+		}
+		"8"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "external"
+			}
+		}
+		"9"
+		{
+			"executable" "./Hades II.app"
+			"arguments" "/steampowered /VerboseScriptLogging=false /DebugKeysEnabled=false /UnsafeDebugKeysEnabled=false /LiveCreateTextures=false /CheckNonExistingTextures=false /DirectLoadShell=true /UseDevSaves=false /LuaMemoryPoolSize=150 /AudioMemoryPoolWithVoiceSize=350"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "public"
+			}
+			"description_loc"
+			{
+				"english" "Ship"
+			}
+			"description" "Ship"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1145352"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "100683486138457117"
+				"size" "5824431072"
+				"download" "4815413952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "62AA4FA56396C37F9E1F702E1493F1B5"
+				"size" "9BB3A32E5C43308B40BC0F423ED9E81D"
+				"download" "5746ADF532D9B14C810775724F7C9245"
+			}
+			"localization"
+			{
+				"gid" "B92340137BCBDF26BA176B73E7C5A930"
+				"size" "DE1C25E98D207BE0F363A2D634053F49"
+				"download" "D2D1930D009152A06781E4EBAEB292F9"
+			}
+			"nightly"
+			{
+				"gid" "AB09F449AB559CF2ED304E676EA5C364"
+				"size" "1B4462C20814061EC0D4C5ECDF21F02B"
+				"download" "2D0CD2A5385DAB1A2A07E749E46C8EB8"
+			}
+			"prev-nightly"
+			{
+				"gid" "4927D7FC067571B2CEA4A22601A1C432"
+				"size" "0C74848F9CBA600F3201DF5613714046"
+				"download" "4F49F67065831B185FDBF7F050C11058"
+			}
+			"test"
+			{
+				"gid" "0DEF7223EC31E5FC1A0A86B285B0E258"
+				"size" "A594DA510B91B92D94D529ED087162B7"
+				"download" "ED6647E3F6B903F91B7F086FC8539BA7"
+			}
+		}
+	}
+	"1145353"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5674822982585501393"
+				"size" "234587658"
+				"download" "45889936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "0A1EDDA6101D47F7B8FDB4CD65AA41EC"
+				"size" "426A8853F41B55C102C482F5935EC0FD"
+				"download" "89C5D97DE6674EF09AD47F3CAF158B3F"
+			}
+			"localization"
+			{
+				"gid" "3833A51F4BC7E2CBA49678D4D07FBAEF"
+				"size" "39817A292909CADA8F20F22E91B7FE86"
+				"download" "000767E2D5F9D1C4DBEBDD5551CE105F"
+			}
+			"nightly"
+			{
+				"gid" "04D95D22D0BF38288CA395CD9DB89402"
+				"size" "A7BA3F532B4B06A55E3F51303C4C9FA6"
+				"download" "76B08FD591A59029368B3E9F840A0461"
+			}
+			"prev-nightly"
+			{
+				"gid" "D119B971E2D156CF6D380CC1D77EE5BF"
+				"size" "E077C1C6E68D4AA5A0A3A4FA044B26E6"
+				"download" "061402E1B61F4335A99642D26EB2DFC3"
+			}
+			"test"
+			{
+				"gid" "5495EAB2A2833487FBD8074ADB8B0B54"
+				"size" "2C42E5CFA0B79ED4F50CD228DC8A62DF"
+				"download" "712AA5CB152D4D056E3773C6FE714216"
+			}
+		}
+	}
+	"1145354"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6511492480233823196"
+				"size" "91143213"
+				"download" "26525424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "B4EDB88C881565A8584832EC3CADFD9B"
+				"size" "8AEEFAE4321A9FD618B31104E2F87C04"
+				"download" "163AB68EE0E6E7D57B86165CC9DBB612"
+			}
+			"localization"
+			{
+				"gid" "74DB4AD12904AB980BA0D35FE0E8D667"
+				"size" "8C63796B6DE12910D34540F4D8EA5BAD"
+				"download" "01F48DB89A99FD7F2BADCAB8774E1089"
+			}
+			"nightly"
+			{
+				"gid" "9FC191C02D5B05C12395A436E0D92DB2"
+				"size" "15908EEB0FC1B9E991E6B990EDD781CE"
+				"download" "BD6F4DB12BAF874BCCC68A9927595DD2"
+			}
+			"prev-nightly"
+			{
+				"gid" "01744085731F940FEECBD3872F322786"
+				"size" "CF840A584CDBD5EADF4CE45934E43DEE"
+				"download" "28308EBDCDF15A0258B3531C9263AAEF"
+			}
+			"test"
+			{
+				"gid" "40B04A84FE98506015B12AE5BBF80B47"
+				"size" "CE0D2D5A549731BE2B5346CEC54BACF1"
+				"download" "EBCED15D033493BD7476A45BF0759394"
+			}
+		}
+	}
+	"1145355"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "570104170562385118"
+				"size" "5965189993"
+				"download" "4850178944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "CC81FE181707CDF306558E465AE485F9"
+				"size" "E31CE954DD630B81A39A66A46FAFAE2F"
+				"download" "D718F6057655C3589EC2B764E752D338"
+			}
+			"localization"
+			{
+				"gid" "B108663AB7D9A0B7DF6D1908C1D35CDE"
+				"size" "5024D1025BACBF8F5F12009D7664804C"
+				"download" "F74ED2821D9DD8147BD3182FA1BB31D6"
+			}
+			"nightly"
+			{
+				"gid" "265E76178000B26E7DE4EC46C863974A"
+				"size" "1FF71D91F4085180634807FD6F4B9EB6"
+				"download" "A737213486526CBAE7B7AC28BB2FD2C2"
+			}
+			"prev-nightly"
+			{
+				"gid" "F18622591C6EBCDD2473D4399EB2995F"
+				"size" "65B15A8E47A97C27AC45601D2BCF35DF"
+				"download" "3B1D6A839C8A6F03F8D7D3B9B55C0AAF"
+			}
+			"test"
+			{
+				"gid" "7B90C6AB210A472DF771793CBC34A0F4"
+				"size" "D93AD85C818A55C6D2420EE5167B7291"
+				"download" "B679FE3E260CBDFF06B5DD14917CC859"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16325726"
+			"timeupdated" "1731006718"
+		}
+		"external"
+		{
+			"buildid" "15940377"
+			"pwdrequired" "1"
+			"timeupdated" "1728323800"
+		}
+		"localization"
+		{
+			"buildid" "16339764"
+			"pwdrequired" "1"
+			"timeupdated" "1731060294"
+		}
+		"nightly"
+		{
+			"buildid" "16339764"
+			"pwdrequired" "1"
+			"timeupdated" "1731060293"
+		}
+		"prev-nightly"
+		{
+			"buildid" "16325726"
+			"pwdrequired" "1"
+			"timeupdated" "1731059991"
+		}
+		"test"
+		{
+			"buildid" "16339764"
+			"pwdrequired" "1"
+			"timeupdated" "1731060296"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "62914560"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Hades II"
+			"pattern" "Profile*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Hades II"
+					"replace" "Supergiant Games/Hades II"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26105123"
+"_sha" "746ac9e03e531eb78ec65ffbb57f5bf7704b238c"
+"_size" "16460"
