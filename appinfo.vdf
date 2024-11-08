@@ -37,19 +37,19 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1727740800"
-		"tested_build_id" "15810730"
+		"test_timestamp" "1729555200"
+		"tested_build_id" "16092123"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
@@ -64,15 +64,15 @@
 		}
 		"configuration"
 		{
-			"supported_input" "other"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
+			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "native"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -104,8 +104,8 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "37.51104982143489"
-			"height_pct" "50.09235072165492"
+			"width_pct" "43.656138236823246"
+			"height_pct" "66.16927408163306"
 		}
 	}
 	"library_assets_full"
@@ -169,8 +169,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "37.51104982143489"
-				"height_pct" "50.09235072165492"
+				"width_pct" "43.656138236823246"
+				"height_pct" "66.16927408163306"
 			}
 		}
 		"library_header"
@@ -389,15 +389,15 @@
 		{
 			"public"
 			{
-				"gid" "7859700950874538329"
-				"size" "1057246304"
-				"download" "223979728"
+				"gid" "1710040306591491630"
+				"size" "1057293336"
+				"download" "223985856"
 			}
 			"beta"
 			{
-				"gid" "7859700950874538329"
-				"size" "1057246304"
-				"download" "223979728"
+				"gid" "1710040306591491630"
+				"size" "1057293336"
+				"download" "223985856"
 			}
 		}
 	}
@@ -411,15 +411,15 @@
 		{
 			"public"
 			{
-				"gid" "5738924602010583470"
-				"size" "1082250984"
-				"download" "231533536"
+				"gid" "7798879533817280745"
+				"size" "1082298015"
+				"download" "231542176"
 			}
 			"beta"
 			{
-				"gid" "5738924602010583470"
-				"size" "1082250984"
-				"download" "231533536"
+				"gid" "7798879533817280745"
+				"size" "1082298015"
+				"download" "231542176"
 			}
 		}
 	}
@@ -433,15 +433,15 @@
 		{
 			"public"
 			{
-				"gid" "4691141431305215975"
-				"size" "1058507745"
-				"download" "223857920"
+				"gid" "4838790573416305124"
+				"size" "1058554777"
+				"download" "223865248"
 			}
 			"beta"
 			{
-				"gid" "4691141431305215975"
-				"size" "1058507745"
-				"download" "223857920"
+				"gid" "4838790573416305124"
+				"size" "1058554777"
+				"download" "223865248"
 			}
 		}
 	}
@@ -450,14 +450,14 @@
 	{
 		"public"
 		{
-			"buildid" "16092123"
-			"timeupdated" "1729236435"
+			"buildid" "16338511"
+			"timeupdated" "1731053349"
 		}
 		"beta"
 		{
-			"buildid" "16092123"
+			"buildid" "16338511"
 			"description" "Staging branch of Dice & Fold, usually full of bugs"
-			"timeupdated" "1729236418"
+			"timeupdated" "1731053330"
 		}
 	}
 }
@@ -511,6 +511,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25780924"
-"_sha" "8523056256ddd6e1a4c24bbae0a58684de3a8c66"
-"_size" "9994"
+"_change_number" "26103452"
+"_sha" "214fc37d1fbf6729aacbe69ccd1bbc4648cbfc99"
+"_size" "9989"
