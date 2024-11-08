@@ -9,13 +9,28 @@
 	"clienticon" "0f9ea83d3fc2fc6446990aceed6e8449b02efd07"
 	"clienttga" "2e4dd8b49e513b4d3a2ca08f6c30b46ae2845e3f"
 	"oslist" "windows"
-	"osarch" ""
+	"osarch" "64"
 	"osextended" ""
 	"name_localized"
 	{
-		"schinese" "战国王朝"
+		"schinese" "战国王朝 - Sengoku Dynasty"
 	}
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "5"
@@ -125,7 +140,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729682544"
+	"store_asset_mtime" "1731002122"
 	"associations"
 	{
 		"0"
@@ -150,7 +165,6 @@
 		"0" "25"
 		"1" "3"
 		"2" "28"
-		"3" "70"
 	}
 	"category"
 	{
@@ -162,6 +176,7 @@
 		"category_46" "1"
 		"category_28" "1"
 		"category_23" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -215,31 +230,32 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1691679464"
+	"steam_release_date" "1731001379"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1702010"
 	"store_tags"
 	{
-		"0" "4172"
-		"1" "10235"
-		"2" "1662"
-		"3" "1695"
-		"4" "1643"
-		"5" "1702"
-		"6" "122"
-		"7" "3834"
-		"8" "3859"
-		"9" "3839"
-		"10" "3987"
-		"11" "1685"
-		"12" "21"
-		"13" "3843"
-		"14" "220585"
-		"15" "4182"
+		"0" "4328"
+		"1" "4172"
+		"2" "7332"
+		"3" "10235"
+		"4" "1662"
+		"5" "1695"
+		"6" "1643"
+		"7" "1702"
+		"8" "122"
+		"9" "3834"
+		"10" "3859"
+		"11" "3839"
+		"12" "3987"
+		"13" "1685"
+		"14" "3843"
+		"15" "220585"
 		"16" "8945"
-		"17" "12472"
-		"18" "1697"
-		"19" "3810"
+		"17" "4182"
+		"18" "12472"
+		"19" "1697"
 	}
 	"review_score" "6"
 	"review_percentage" "73"
@@ -271,6 +287,8 @@
 }
 "depots"
 {
+	"hasdepotsindlc" "0"
+	"baselanguages" ""
 	"228989"
 	{
 		"config"
@@ -300,13 +318,49 @@
 		{
 			"public"
 			{
-				"gid" "768015896045398509"
-				"size" "16371078941"
-				"download" "8421918512"
+				"gid" "6749741851422185605"
+				"size" "19216255432"
+				"download" "10463773760"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"bughunter"
+			{
+				"gid" "03C47DFF8ED4850D5FB18830E8B913E5"
+				"size" "4C56054A2A5F7A5015BC6D751BAF379F"
+				"download" "C80FC798F0FD1521C3AB7E5DB1A80A5A"
+			}
+			"ealaunch"
+			{
+				"gid" "56E5DB40CCB1C033D79932DAED057BB7"
+				"size" "618A69858F7C22B4BB0206FFF8B9FA30"
+				"download" "90C0F115A249AA1873215650040F4251"
+			}
+			"smoke"
+			{
+				"gid" "C6007082C455257879A76A10040600E8"
+				"size" "2AF1C94517D4AB9F893EA77795496C46"
+				"download" "2E128982ADA2CA003112F2C671A3AF09"
+			}
+			"qatest"
+			{
+				"gid" "6B92406988F587AFDF41CCC7EFFB1BAA"
+				"size" "A7A8CA5FCC4F6FD01703C740A04539D0"
+				"download" "FFA886EEDAA37AE7E7795703953F1739"
+			}
+			"devmain"
+			{
+				"gid" "140890E60F5149F1D65EF03CF079797E"
+				"size" "090EEC3755ABE61C18F79C0AC3B14F18"
+				"download" "33083DD7E366AC7A97DBF9836C7A00BB"
+			}
+			"devupdate"
+			{
+				"gid" "7EFB4A6EDFF0A4BB2CBDD4F6C67C179E"
+				"size" "9334835E07404EECBE1A25559FF7EC51"
+				"download" "7589E96703FBD0BE62D62E085904B950"
+			}
 			"epic"
 			{
 				"gid" "AB52C85F5608E658A5111F22DFC509F3"
@@ -319,11 +373,89 @@
 				"size" "CA81C9F1FF06B91BA55568B179C5614E"
 				"download" "CB43C8888D74BCA010B4CDD2994062C3"
 			}
+			"future"
+			{
+				"gid" "DD25B4DBB6157A1D08D9BEC94E065EA3"
+				"size" "B364DB65B357C43FD0F1D1040FB6A1E6"
+				"download" "996B70DD18B405189BDF2E04F86D429E"
+			}
+			"gamescom"
+			{
+				"gid" "C9B590E243F5A6716FF4D8E8C8192C4F"
+				"size" "87C3DAB54CBBCE1C62506A2B47643A3C"
+				"download" "6D6C98011BB5D92435DD96E7F4716056"
+			}
+			"guidetest"
+			{
+				"gid" "329BBE83FEE90552EE2CDD18D75AB7DB"
+				"size" "180871BCD43B4BC00E4EC2A171C774A4"
+				"download" "78432E896AB22BB8748350B829F67B6E"
+			}
+			"jenkins"
+			{
+				"gid" "3884959A67CB7AC1948783B19BE566BD"
+				"size" "124032C147309741EA01F3ECCCFD8920"
+				"download" "3EA5C914C26BAD2F26916B56673B9976"
+			}
+			"marketing"
+			{
+				"gid" "9AEC28E1D0D8EA776A2784BDFD493D1A"
+				"size" "525BE3E3E9E9333A20B7C95CB3D81294"
+				"download" "AD4D6653FDB2B21027D7365A190137FE"
+			}
+			"playtest"
+			{
+				"gid" "B94783219933CC0007D2028135D75946"
+				"size" "0A9546858BD6B43A704C65F80F07890F"
+				"download" "896B0938A78543013DB8D951CB996F46"
+			}
+			"press"
+			{
+				"gid" "4599C33C462AD5ECE93A59A974471D51"
+				"size" "DC38DE473C5A31B61A3C00B3D30FC347"
+				"download" "0EFC76A4F4E82BFD55C1F113DA531095"
+			}
+			"prodmain"
+			{
+				"gid" "3672C691822A7CA5D28D877DDFCBE3A8"
+				"size" "F82ACF798DEDDE6BA82E310D04D6D993"
+				"download" "CF2E4C1523C14EF85F5F724D24A3D695"
+			}
+			"produpdate"
+			{
+				"gid" "C187AD92DEC6C0727ED8BD7E2974A39F"
+				"size" "54CD38BB8EDE01D7EF94B38B65C5D77D"
+				"download" "4C077471A89DE91659C047545CA79E12"
+			}
+			"releasecandidate"
+			{
+				"gid" "102BB47D5CFC00DD5712A3006C2C9C4F"
+				"size" "B960C243BE1649E139964BE379852858"
+				"download" "1C2B8938997DE27FC63082EA78FE821A"
+			}
 			"review072023"
 			{
 				"gid" "C0435AF0162BCF91D4BBC41063144A98"
 				"size" "34180380A21CB0C34FA27BCF7AD55606"
 				"download" "468D0DEFAA67D819E630633728C8C916"
+			}
+			"test"
+			{
+				"gid" "EBEC4278C7E512C2FD352454EF6B535C"
+				"size" "EDD2CD1293A1EFDC92012DBA63AF140F"
+				"download" "46D13E8DD69357093A45F48EEE6D0E6F"
+			}
+			"test1"
+			{
+				"gid" "D78AB42DBCCC8442BC63D23E01C91653"
+				"size" "425F0AC88926CEC2B7FF7299C392006B"
+				"download" "275507C24E7DC7E0EF7813EDF3DB38CA"
+			}
+			"test2"
+			{
+				"gid" "3824B0F07C254D35F8C59E674A6C42A3"
+				"size" "5636CB943D33CF75BD0DEEFFC53E75EB"
+				"download" "91674A2203E4ED7727AC642968D0C307"
 			}
 			"throwback"
 			{
@@ -336,114 +468,6 @@
 				"gid" "76B1AC2EC1D61E09CA4D556244F657E9"
 				"size" "A19C81C0238072FD3F63715AAA38C4BB"
 				"download" "7FEACBD2CC075C349BA3E7456ED55BA8"
-			}
-			"bughunter"
-			{
-				"gid" "1047D4804B942E5E76C258F654F784A0"
-				"size" "2DD3A3841955224CE8846ACA0F55BCCC"
-				"download" "998DDB87C71440007890890D087C2D19"
-			}
-			"devmain"
-			{
-				"gid" "BD8094AFBC3026BF57D5EDC0DE6504A0"
-				"size" "B0F1A87B9D7CA0156874511766792E57"
-				"download" "C93B5CDA29435E7DAF02008A51BA655A"
-			}
-			"devupdate"
-			{
-				"gid" "7EFB4A6EDFF0A4BB2CBDD4F6C67C179E"
-				"size" "9334835E07404EECBE1A25559FF7EC51"
-				"download" "7589E96703FBD0BE62D62E085904B950"
-			}
-			"future"
-			{
-				"gid" "98195EC137923F61F620B73DC0C4624D"
-				"size" "12B7C8D8B1B734ECE98CD175784EE7EC"
-				"download" "B6BD094226F07B005557C011069245E1"
-			}
-			"gamescom"
-			{
-				"gid" "C9B590E243F5A6716FF4D8E8C8192C4F"
-				"size" "87C3DAB54CBBCE1C62506A2B47643A3C"
-				"download" "6D6C98011BB5D92435DD96E7F4716056"
-			}
-			"guidetest"
-			{
-				"gid" "FBB73A2B0577B3E6342A710DE35AE726"
-				"size" "9EE3461AB899B47F0F995BAE3DC6C49A"
-				"download" "5A0CA07076B99D2C6A67B3346E8F3131"
-			}
-			"huwiz"
-			{
-				"gid" "769EF72F347D027D1D5E390A1A69C36E"
-				"size" "E66C9B20BF30557145E5AD5631AD0B7F"
-				"download" "87F8878098B2920AAF1F397918C0697F"
-			}
-			"jenkins"
-			{
-				"gid" "EC9A2C6E0C5F83438FBBB541DFD1E7BE"
-				"size" "8C97F1FAFC86550BFE5389FC93A6EDEC"
-				"download" "8C397ED75A7D046625F3F8278378AA72"
-			}
-			"marketing"
-			{
-				"gid" "6C8556E2E75A7A87B62FD219A6CD6E27"
-				"size" "FAD8820D8FA5A0F26F533B8C47C3054D"
-				"download" "2F14EB4931E32A9929C72D3D6F4357D1"
-			}
-			"playtest"
-			{
-				"gid" "A3976E8AB9C34ECD16F52E3806D1C467"
-				"size" "CB7A96900CF2F915FF14BFABBA2F9A77"
-				"download" "1F638C4B4234F2B56F5AF58001FD6BD1"
-			}
-			"press"
-			{
-				"gid" "1C45F7E1F5442212BB3169BF4E4C54B2"
-				"size" "AF99BA114691196C1A441050944A6DE5"
-				"download" "21D8386AB7E983606D044877037E570B"
-			}
-			"prodmain"
-			{
-				"gid" "A3A8E539BF358AD379ADF71383FAC1FD"
-				"size" "4BAC00862CB7B037AF9ABD5596E37A2E"
-				"download" "6922FE11F0ACF2DC8E9323DB4E1D37DB"
-			}
-			"produpdate"
-			{
-				"gid" "153E48AA4EF5565797B4FA526ACAA1A8"
-				"size" "B315C1CDE391C26532A844D8D9384095"
-				"download" "48F0F77A6B94408D5C00954BD628B4CD"
-			}
-			"releasecandidate"
-			{
-				"gid" "28FDCB40042A39ED159F1087CDDC2B4F"
-				"size" "B4448B060B6239A67C490D7ED31BEC95"
-				"download" "80FD2B6A97E41F2BE5F0434037FE3263"
-			}
-			"smoke"
-			{
-				"gid" "E059532B7E3138B1AE60C007F792D0E6"
-				"size" "9637BA4EF98619A35DE61A4A51FFA60D"
-				"download" "5D21580496B3E974F60888A975CCA016"
-			}
-			"test"
-			{
-				"gid" "687E6BA0BCEF9B12C05D4A114628278B"
-				"size" "C167C32F7E457A09AE0995B3A8D2CB9B"
-				"download" "FF77DE1EC47F3E7108D8175A3BE36146"
-			}
-			"test1"
-			{
-				"gid" "1E88545120FD1A2D41C32B8055BD39A5"
-				"size" "51BF4B907276CADC9F377EF7F6FD2348"
-				"download" "130A3C32AB1C7D04245C986EC6861E87"
-			}
-			"test2"
-			{
-				"gid" "3824B0F07C254D35F8C59E674A6C42A3"
-				"size" "5636CB943D33CF75BD0DEEFFC53E75EB"
-				"download" "91674A2203E4ED7727AC642968D0C307"
 			}
 		}
 	}
@@ -459,24 +483,36 @@
 		{
 			"public"
 			{
-				"gid" "3501371530185590640"
-				"size" "147030461"
-				"download" "139593152"
+				"gid" "258417966671524953"
+				"size" "224457229"
+				"download" "209769680"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"fallback"
-			{
-				"gid" "7EA3FA8653550DDC6C83E19DF346ECE3"
-				"size" "C8C13FCB6BAA31374BC68A39DEE31529"
-				"download" "8B9726D6644719C7D9A356B6DA06FA21"
-			}
 			"bughunter"
 			{
 				"gid" "AD6168095BBD70892E850A1C3030EEA7"
 				"size" "48AF720FEB3830467A69AB4E6ED2DE06"
 				"download" "E9CC4442FEBE8B7431E4208DD2F7C273"
+			}
+			"ealaunch"
+			{
+				"gid" "1D1FBE4DDC12257CB09BB08029213FDE"
+				"size" "592F8159CBD5A5B10565953ED5CDBD6D"
+				"download" "57CE810A2324D24BD56E066AEB308FE1"
+			}
+			"smoke"
+			{
+				"gid" "85ED3463864323ADED45F82A53C399A1"
+				"size" "CEC15A546C041C9DF76DE1CC4F5341FB"
+				"download" "04BC372BB3B9984E2FAD53BFA8BF9BE2"
+			}
+			"qatest"
+			{
+				"gid" "D2F70C98C499F98060933CC56B6BC32F"
+				"size" "95720456E3B463FE7B9A0FA04745231C"
+				"download" "96D55F77CC091DC507ED901ABE82E960"
 			}
 			"devmain"
 			{
@@ -490,11 +526,17 @@
 				"size" "8E22A08B339E4284C10600A510C0D23A"
 				"download" "01EBC8231D36AF9011A99B9E942F0E9E"
 			}
+			"fallback"
+			{
+				"gid" "7EA3FA8653550DDC6C83E19DF346ECE3"
+				"size" "C8C13FCB6BAA31374BC68A39DEE31529"
+				"download" "8B9726D6644719C7D9A356B6DA06FA21"
+			}
 			"future"
 			{
-				"gid" "84AF8102A7FF4FD42E20738D35CF52AA"
-				"size" "F8A2D30F109BE90408E50C92052ECFB7"
-				"download" "484289A53551E56C26FFCFFDE2D99980"
+				"gid" "6C0095D9A527A01422E32AB109792EFD"
+				"size" "EC403C112BE1993B197CB7F8C7AA9922"
+				"download" "39AB553380247BDA6D9268A91A5DED19"
 			}
 			"gamescom"
 			{
@@ -508,17 +550,11 @@
 				"size" "A2CDD29DEF7AB59DD311E5E81E1B5E8C"
 				"download" "4D75BE882DEFC8EBB51CED4C28341874"
 			}
-			"huwiz"
-			{
-				"gid" "8A6D32AD756F686709336620F7BA4B9D"
-				"size" "557AD5132E014A1792CDF7B1118CE394"
-				"download" "E90716C7287EFA43E837DB5D65697C16"
-			}
 			"marketing"
 			{
-				"gid" "DB77FAA4F0DC4BEEF69F4FFF3C93A859"
-				"size" "11EA89F6FACF55F06F86324FF91AB2CD"
-				"download" "4B54CCA811C3A9A256F02A00FE86607B"
+				"gid" "FA2035D1447F8BDABB3A1232808576A7"
+				"size" "D681153D878D5F94C28E2EE240712B60"
+				"download" "7743AA7B015E7ABEF51A54EB35C84F33"
 			}
 			"playtest"
 			{
@@ -528,9 +564,9 @@
 			}
 			"press"
 			{
-				"gid" "5C9C0392DA7B157585B61D888CB153BE"
-				"size" "87B2DA0646FBDA8416F4709D7D4A6BC3"
-				"download" "25A9905DD7EA599824F53EAE2C463DE5"
+				"gid" "F3371E6DA4F24A735E814BB3DF275965"
+				"size" "1532CBF4D7A36AFA1CD9415D582FDE46"
+				"download" "22F05485DB055B0C04A1A5EE48DE9CE8"
 			}
 			"prodmain"
 			{
@@ -546,21 +582,15 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "CDDA4B39CC20324078D10BF240978EE0"
-				"size" "C3F8CDF145FD44932D83851A565B5C19"
-				"download" "2DEC32ACC907CF0BA437DC2165685E39"
-			}
-			"smoke"
-			{
-				"gid" "85ED3463864323ADED45F82A53C399A1"
-				"size" "CEC15A546C041C9DF76DE1CC4F5341FB"
-				"download" "04BC372BB3B9984E2FAD53BFA8BF9BE2"
+				"gid" "C73E124D066B0E201A24AB20B540670E"
+				"size" "71A0F58F6FA20DB6546D7E50EA28F6AC"
+				"download" "382B0DE979DDF429C46D2D1A05744204"
 			}
 			"test"
 			{
-				"gid" "3DFF5E411F065A378372C8C14881CFB6"
-				"size" "1604E27058FA142C764A3DFBC58217C2"
-				"download" "B00D45F9B8B3F154A1A182FDFEAA180A"
+				"gid" "FED1732518A03138EC577C945D3931F9"
+				"size" "EB2483C25C34352F546D8DC36B3A7BC3"
+				"download" "D3C5E1304D01C37831EC749BCD627F31"
 			}
 			"test1"
 			{
@@ -576,14 +606,105 @@
 			}
 		}
 	}
-	"hasdepotsindlc" "0"
-	"baselanguages" ""
+	"3325090"
+	{
+		"dlcappid" "3325090"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7941291621359893864"
+				"size" "37641217"
+				"download" "33159840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatest"
+			{
+				"gid" "104A642999CBB22D52C76A095B29C855"
+				"size" "45536C3E518B92A5280EEFA96D09A584"
+				"download" "E25F7F4F8F6787A668D37EF710DABFA7"
+			}
+			"future"
+			{
+				"gid" "4B55A65AF01A664D2B25FE1345EB4908"
+				"size" "397D69319385AFBF5C06ECBD5D875BE7"
+				"download" "3ACFF639CF3860A2A50AAC9E09A79CB0"
+			}
+			"guidetest"
+			{
+				"gid" "0138EF2BEE465999C649A00C00D3D769"
+				"size" "33C20EEEAD74C939CDFE714B08850121"
+				"download" "B3C809566A14B9506EE468F8703BC3B5"
+			}
+			"marketing"
+			{
+				"gid" "FAA01A8C208579247F5B79E1F442097D"
+				"size" "D8175161817A341B2C1536C3FABB473A"
+				"download" "21265DD273D3F819E7E2086B24253059"
+			}
+			"press"
+			{
+				"gid" "A6085908F986D349AA81C6673CD4161C"
+				"size" "21BD9E334F59A61F065117D9F026C4E5"
+				"download" "65738C56283CA3078F09688BD9A94849"
+			}
+			"releasecandidate"
+			{
+				"gid" "FF56A2A4196B75148B4DC1C412211389"
+				"size" "70D8424891E7DFEF75A2ADF06BC60BF2"
+				"download" "64A49E47851EA9F43661CA4C49BA51A4"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16097948"
-			"timeupdated" "1729265181"
+			"buildid" "16335574"
+			"timeupdated" "1731029931"
+		}
+		"bughunter"
+		{
+			"buildid" "16327612"
+			"pwdrequired" "1"
+			"timeupdated" "1730985389"
+		}
+		"ealaunch"
+		{
+			"buildid" "16329001"
+			"pwdrequired" "1"
+			"timeupdated" "1730990703"
+		}
+		"smoke"
+		{
+			"buildid" "16327612"
+			"pwdrequired" "1"
+			"timeupdated" "1730985218"
+		}
+		"qatest"
+		{
+			"buildid" "16327924"
+			"pwdrequired" "1"
+			"timeupdated" "1730985374"
+		}
+		"devmain"
+		{
+			"buildid" "16341863"
+			"pwdrequired" "1"
+			"timeupdated" "1731070336"
+		}
+		"devupdate"
+		{
+			"buildid" "15566079"
+			"pwdrequired" "1"
+			"timeupdated" "1725274589"
 		}
 		"epic"
 		{
@@ -597,11 +718,89 @@
 			"pwdrequired" "1"
 			"timeupdated" "1710248096"
 		}
+		"future"
+		{
+			"buildid" "16335574"
+			"pwdrequired" "1"
+			"timeupdated" "1731029344"
+		}
+		"gamescom"
+		{
+			"buildid" "15399401"
+			"pwdrequired" "1"
+			"timeupdated" "1723894453"
+		}
+		"guidetest"
+		{
+			"buildid" "16300397"
+			"pwdrequired" "1"
+			"timeupdated" "1730808543"
+		}
+		"jenkins"
+		{
+			"buildid" "15741947"
+			"pwdrequired" "1"
+			"timeupdated" "1731064628"
+		}
+		"marketing"
+		{
+			"buildid" "16335574"
+			"pwdrequired" "1"
+			"timeupdated" "1731029965"
+		}
+		"playtest"
+		{
+			"buildid" "16327612"
+			"pwdrequired" "1"
+			"timeupdated" "1730985354"
+		}
+		"press"
+		{
+			"buildid" "16335574"
+			"pwdrequired" "1"
+			"timeupdated" "1731029952"
+		}
+		"prodmain"
+		{
+			"buildid" "16274231"
+			"pwdrequired" "1"
+			"timeupdated" "1730548442"
+		}
+		"produpdate"
+		{
+			"buildid" "16328413"
+			"pwdrequired" "1"
+			"timeupdated" "1730987995"
+		}
+		"releasecandidate"
+		{
+			"buildid" "16335574"
+			"pwdrequired" "1"
+			"timeupdated" "1731029976"
+		}
 		"review072023"
 		{
 			"buildid" "11883577"
 			"pwdrequired" "1"
 			"timeupdated" "1691432316"
+		}
+		"test"
+		{
+			"buildid" "16315679"
+			"pwdrequired" "1"
+			"timeupdated" "1730904900"
+		}
+		"test1"
+		{
+			"buildid" "16279935"
+			"pwdrequired" "1"
+			"timeupdated" "1730646567"
+		}
+		"test2"
+		{
+			"buildid" "16187168"
+			"pwdrequired" "1"
+			"timeupdated" "1730104049"
 		}
 		"throwback"
 		{
@@ -614,114 +813,6 @@
 			"buildid" "10099909"
 			"pwdrequired" "1"
 			"timeupdated" "1675179595"
-		}
-		"bughunter"
-		{
-			"buildid" "16183674"
-			"pwdrequired" "1"
-			"timeupdated" "1729876471"
-		}
-		"devmain"
-		{
-			"buildid" "16205540"
-			"pwdrequired" "1"
-			"timeupdated" "1730117164"
-		}
-		"devupdate"
-		{
-			"buildid" "15566079"
-			"pwdrequired" "1"
-			"timeupdated" "1725274589"
-		}
-		"future"
-		{
-			"buildid" "15529641"
-			"pwdrequired" "1"
-			"timeupdated" "1724924251"
-		}
-		"gamescom"
-		{
-			"buildid" "15399401"
-			"pwdrequired" "1"
-			"timeupdated" "1723894453"
-		}
-		"guidetest"
-		{
-			"buildid" "16066725"
-			"pwdrequired" "1"
-			"timeupdated" "1729086494"
-		}
-		"huwiz"
-		{
-			"buildid" "15447320"
-			"pwdrequired" "1"
-			"timeupdated" "1724245309"
-		}
-		"jenkins"
-		{
-			"buildid" "16183943"
-			"pwdrequired" "1"
-			"timeupdated" "1729878182"
-		}
-		"marketing"
-		{
-			"buildid" "16183674"
-			"pwdrequired" "1"
-			"timeupdated" "1729876513"
-		}
-		"playtest"
-		{
-			"buildid" "16205540"
-			"pwdrequired" "1"
-			"timeupdated" "1730118013"
-		}
-		"press"
-		{
-			"buildid" "15591613"
-			"pwdrequired" "1"
-			"timeupdated" "1725460868"
-		}
-		"prodmain"
-		{
-			"buildid" "16036533"
-			"pwdrequired" "1"
-			"timeupdated" "1728910043"
-		}
-		"produpdate"
-		{
-			"buildid" "15569556"
-			"pwdrequired" "1"
-			"timeupdated" "1725297643"
-		}
-		"releasecandidate"
-		{
-			"buildid" "15591613"
-			"pwdrequired" "1"
-			"timeupdated" "1725460882"
-		}
-		"smoke"
-		{
-			"buildid" "16183674"
-			"pwdrequired" "1"
-			"timeupdated" "1729876481"
-		}
-		"test"
-		{
-			"buildid" "16179770"
-			"pwdrequired" "1"
-			"timeupdated" "1729856050"
-		}
-		"test1"
-		{
-			"buildid" "16180104"
-			"pwdrequired" "1"
-			"timeupdated" "1729857716"
-		}
-		"test2"
-		{
-			"buildid" "16187168"
-			"pwdrequired" "1"
-			"timeupdated" "1730104049"
 		}
 	}
 }
@@ -744,6 +835,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25930545"
-"_sha" "e42fe0539637f2903d19a6ba667e964e0720aeed"
-"_size" "15513"
+"_change_number" "26107706"
+"_sha" "ff7521bb06bddae3e6db920c39e69c3f3470fca4"
+"_size" "17602"
