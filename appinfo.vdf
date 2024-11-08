@@ -1,0 +1,499 @@
+"appid" "2669410"
+"common"
+{
+	"name" "Metro Awakening"
+	"type" "Game"
+	"clienticon" "f14b2327cb00c0d674180e0f15cc62e7d6d507a3"
+	"clienttga" "ff05d22cabe580f666af7e3679ea4491f73c20b5"
+	"icon" "9d32a291703c3c684b2912ba85e3cc4a1060ecdb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"openvrsupport" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "39.38156359393233"
+			"height_pct" "33.281880788411314"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "39.38156359393233"
+				"height_pct" "33.281880788411314"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730998804"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vertigo Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Vertigo Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Metro"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730998697"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2669410"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "3834"
+		"2" "1774"
+		"3" "1663"
+		"4" "1742"
+		"5" "4295"
+		"6" "3835"
+		"7" "4145"
+		"8" "4342"
+		"9" "4255"
+		"10" "4106"
+		"11" "3839"
+		"12" "4191"
+		"13" "19"
+		"14" "5179"
+		"15" "4175"
+		"16" "21"
+		"17" "4835"
+		"18" "4182"
+		"19" "3934"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Vertigo Games"
+	"publisher" "Vertigo Games"
+	"homepage" "https://metroawakening.com/"
+}
+"config"
+{
+	"installdir" "MetroAwakening"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Impact.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2669411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2700485826497986296"
+				"size" "30116313912"
+				"download" "27153356320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"reviews"
+			{
+				"gid" "4FB9C90775D613B2B8130A48581C7941"
+				"size" "EC5E975B61D6B0E5A012CB5556780D1C"
+				"download" "92138AEB03CA9A7C2B21DA62399CFF16"
+			}
+			"4th-floor"
+			{
+				"gid" "29AE47D132313A454074B46F957C2B7A"
+				"size" "7268E85226D5A18D9B72DEAB00B282EA"
+				"download" "A50A4CC903CAE34BA44D8F0C39C6C922"
+			}
+			"betamockreview"
+			{
+				"gid" "7186B7A92D45243C2CF655256F5AFF39"
+				"size" "91DF0D0140E89281E5D6B6495BF8E2A8"
+				"download" "F6B267FB47A9B0151B3D2B69EBE12109"
+			}
+			"development_update"
+			{
+				"gid" "E6B8CCEB1C9C49B4CA65F27DF608455B"
+				"size" "5E5FCF01BB928AC671EEAEFE1207E69B"
+				"download" "13F632D902AA1DE293FE368761490C7F"
+			}
+			"ex_alpha"
+			{
+				"gid" "770409B7544E61D4EF8CDCAE670E82C1"
+				"size" "9D64DBF58CCBA4702FC16EF3C9485E58"
+				"download" "1F328464216477FBD10E9657D7E171FF"
+			}
+			"ex_beta"
+			{
+				"gid" "47ED0C2326C98BFB8B551A63C50552F5"
+				"size" "06D531451434E2872769AD4912CC750B"
+				"download" "156D1627D9285F81DBC5477210D0E8FF"
+			}
+			"ex_beta_02"
+			{
+				"gid" "534DE1BD8BA95AE2B68E97534C58CBE8"
+				"size" "4696E0D21B7A0B25F69CC7EB7FEB7DB7"
+				"download" "7550CA38C68ACABC65FB6D52D3E5F475"
+			}
+			"gamescom_demo"
+			{
+				"gid" "1BEBEA5C3731A1C12763B5D163710097"
+				"size" "8A0FD1C2B3D79658683946F5CD524959"
+				"download" "D565CF454CE767811A9DD5349B5269CF"
+			}
+			"jenkins"
+			{
+				"gid" "D10B5767F943C0BF32149877AFA52A4B"
+				"size" "0FD7B420DF3EE4A669ABE1A30FEFF857"
+				"download" "FA3904D852A00CFA3FC2E3AE543A74B0"
+			}
+			"jenkins_nightly"
+			{
+				"gid" "ADDA33301A60B01BD2DF4C53311D8B4E"
+				"size" "DB8A5CA6F7E752A235BC675BECEE9909"
+				"download" "CF8D418ACC02D3C5BBF48E8CF6BE6881"
+			}
+			"jenkins_nightly_shipping"
+			{
+				"gid" "0E79BB7EE73DF017A77FC581DA874BAF"
+				"size" "16D9B50B01E9EE48572230BA5BFB78E3"
+				"download" "52C9FE0406ECA5F22AA7BEF6B5E2C570"
+			}
+			"marketing_stable"
+			{
+				"gid" "494E29A7A2670AFD051A9E982DF61FC0"
+				"size" "9A98E35BB743F67F50C6DCDBC1798223"
+				"download" "6F734FD77D2DF41AD81430FD32282481"
+			}
+			"mef_demo"
+			{
+				"gid" "E00470FEF983E208C476092E8449C79E"
+				"size" "2CD86EDD9DB60E04BF48B4FF92C450DB"
+				"download" "E6B3C53FCFFBD6D2AB8375B5E14D88A2"
+			}
+			"press_reviews"
+			{
+				"gid" "9493EE1BE2929ED64D8DB28A81FD117B"
+				"size" "B4FC022D5162BBFA8AC23040A2746D0C"
+				"download" "AA4458614E84D6BD32A257E6012353C6"
+			}
+		}
+	}
+	"2841900"
+	{
+		"dlcappid" "2841900"
+	}
+	"2841910"
+	{
+		"dlcappid" "2841910"
+	}
+	"2841920"
+	{
+		"dlcappid" "2841920"
+	}
+	"2841930"
+	{
+		"dlcappid" "2841930"
+	}
+	"2841940"
+	{
+		"dlcappid" "2841940"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16310052"
+			"timeupdated" "1730983054"
+		}
+		"reviews"
+		{
+			"buildid" "13699258"
+			"pwdrequired" "1"
+			"timeupdated" "1710238685"
+		}
+		"4th-floor"
+		{
+			"buildid" "15990031"
+			"pwdrequired" "1"
+			"timeupdated" "1729002328"
+		}
+		"betamockreview"
+		{
+			"buildid" "15397537"
+			"pwdrequired" "1"
+			"timeupdated" "1724079387"
+		}
+		"development_update"
+		{
+			"buildid" "15690604"
+			"pwdrequired" "1"
+			"timeupdated" "1727081104"
+		}
+		"ex_alpha"
+		{
+			"buildid" "14545704"
+			"pwdrequired" "1"
+			"timeupdated" "1717149914"
+		}
+		"ex_beta"
+		{
+			"buildid" "15099249"
+			"pwdrequired" "1"
+			"timeupdated" "1721657697"
+		}
+		"ex_beta_02"
+		{
+			"buildid" "15397537"
+			"pwdrequired" "1"
+			"timeupdated" "1723829690"
+		}
+		"gamescom_demo"
+		{
+			"buildid" "15563262"
+			"pwdrequired" "1"
+			"timeupdated" "1725253351"
+		}
+		"jenkins"
+		{
+			"buildid" "16341358"
+			"pwdrequired" "1"
+			"timeupdated" "1731067578"
+		}
+		"jenkins_nightly"
+		{
+			"buildid" "16336804"
+			"pwdrequired" "1"
+			"timeupdated" "1731038778"
+		}
+		"jenkins_nightly_shipping"
+		{
+			"buildid" "16337075"
+			"pwdrequired" "1"
+			"timeupdated" "1731041475"
+		}
+		"marketing_stable"
+		{
+			"buildid" "16117958"
+			"pwdrequired" "1"
+			"timeupdated" "1729497191"
+		}
+		"mef_demo"
+		{
+			"buildid" "14450532"
+			"pwdrequired" "1"
+			"timeupdated" "1716381580"
+		}
+		"press_reviews"
+		{
+			"buildid" "16229071"
+			"pwdrequired" "1"
+			"timeupdated" "1730303289"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "157286400"
+	"maxnumfiles" "150"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Impact/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Impact/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26107864"
+"_sha" "eef74e3acf818836f60bd1bae07853d2c50800cb"
+"_size" "8959"
