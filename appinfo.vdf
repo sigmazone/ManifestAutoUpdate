@@ -1,7 +1,7 @@
 "appid" "1999520"
 "common"
 {
-	"name" "Cato"
+	"name" "CATO: Buttered Cat"
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "346bf4d7fd316d320801476c91b646d0196eb1ca"
@@ -18,8 +18,15 @@
 	"languages"
 	{
 		"english" "1"
+		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
 		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -167,6 +174,7 @@
 		"0" "25"
 		"1" "4"
 		"2" "23"
+		"3" "37"
 	}
 	"category"
 	{
@@ -184,6 +192,12 @@
 		"category_43" "1"
 		"category_63" "1"
 		"category_59" "1"
+		"category_29" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -197,6 +211,34 @@
 			"supported" "true"
 		}
 		"japanese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"koreana"
 		{
 			"supported" "true"
 		}
@@ -235,7 +277,7 @@
 "extended"
 {
 	"absolutemousecoordinates" "0"
-	"remoteplaytogethertestingbranches" "closedbeta,expriment,qatest"
+	"remoteplaytogethertestingbranches" "default,closedbeta,expriment,qatest"
 	"developer" "Team Woll"
 	"publisher" "GCORES PUBLISHING"
 	"homepage" "https://www.gcores.com/games/81350"
@@ -295,18 +337,18 @@
 		{
 			"public"
 			{
-				"gid" "5851840312878847173"
-				"size" "805672998"
-				"download" "229039888"
+				"gid" "6889990543625739564"
+				"size" "839459826"
+				"download" "229280400"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"closedbeta"
 			{
-				"gid" "5B79BC4F34DA00F93E14D0F1968A8FD2"
-				"size" "329B6A407942F509A6D0ECE6FB28E8B4"
-				"download" "8289201EE058B8C6CD352E187F3342A9"
+				"gid" "0888C8FB84DB7DD8E6B4A73ECFE99510"
+				"size" "5F2ECA739918EDC5898B06B5F28AF9B1"
+				"download" "BF60D1441C384F2C47D0AEBB759C9672"
 			}
 			"expriment"
 			{
@@ -333,18 +375,18 @@
 		{
 			"public"
 			{
-				"gid" "4451797712821301385"
-				"size" "838550837"
-				"download" "237827856"
+				"gid" "6795401594169002335"
+				"size" "872337657"
+				"download" "238130448"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"closedbeta"
 			{
-				"gid" "2F3C61FC53FF7C0066D1DADE739B96B8"
-				"size" "47F9C873121F4C61ED810B8321965E25"
-				"download" "CA9331984B8E04149CEDD4AD9655B7C3"
+				"gid" "36919ACB07626B650AD4365F242BE1EC"
+				"size" "E2B8C36B1BC25DBC0695D0A69307AFF2"
+				"download" "45EC8F6F078639F524E3DF7F28C35544"
 			}
 			"expriment"
 			{
@@ -371,18 +413,18 @@
 		{
 			"public"
 			{
-				"gid" "5919582430799558261"
-				"size" "970200824"
-				"download" "230018400"
+				"gid" "2895858638253719679"
+				"size" "1003987644"
+				"download" "230263696"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"closedbeta"
 			{
-				"gid" "F3BE8D997FB0CD36CA07B12D3DAD0DF4"
-				"size" "E8827095038EF222C913BE513AD0DFBF"
-				"download" "B9FD2431B033D23C7764435A1012EA60"
+				"gid" "1CAF3343A19B539A938464193506CAF9"
+				"size" "AA1BECFDEF93E2BDF56CA3DCF443B61E"
+				"download" "8E9D97C7D60AF6ACE7A4869478599C0E"
 			}
 			"expriment"
 			{
@@ -409,14 +451,14 @@
 	{
 		"public"
 		{
-			"buildid" "16234757"
-			"timeupdated" "1730286131"
+			"buildid" "16340841"
+			"timeupdated" "1731065335"
 		}
 		"closedbeta"
 		{
-			"buildid" "16234757"
+			"buildid" "16340841"
 			"pwdrequired" "1"
-			"timeupdated" "1730282807"
+			"timeupdated" "1731064992"
 		}
 		"expriment"
 		{
@@ -496,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25968488"
-"_sha" "096bde54957205a61d2eb4e17f7b37fbc6b3548f"
-"_size" "9307"
+"_change_number" "26106487"
+"_sha" "5a7518823d38ab54f3f858e86d5df2d6e1f0c4ce"
+"_size" "9944"
