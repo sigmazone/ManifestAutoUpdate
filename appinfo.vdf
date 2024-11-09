@@ -1,0 +1,225 @@
+"appid" "2657060"
+"common"
+{
+	"name" "Teardown: Folkrace"
+	"type" "DLC"
+	"parent" "1167630"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1716571739"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tuxedo Labs"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1718798375"
+	"gameid" "2657060"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "599"
+		"2" "492"
+		"3" "9"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"dlcforappid" "1167630"
+	"mustownapptopurchase" "1167630"
+	"developer" "Tuxedo Labs"
+	"homepage" "http://teardowngame.com"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2657060"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7351540651308401980"
+				"size" "1964548884"
+				"download" "1342861984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc-test"
+			{
+				"gid" "FFCADEFFA55CF0D35256B2D56B3E4FAF"
+				"size" "21BE889B263F4F57504255BDCEA59CDB"
+				"download" "7729D320E64DFF1A4AE38C77D914942C"
+			}
+			"kindergarten"
+			{
+				"gid" "477AD92FA71A6F3A61D9E781A2369D43"
+				"size" "BD11EF445C1032DF3CDAE7BF330EB790"
+				"download" "BD11EF445C1032DF3CDAE7BF330EB790"
+			}
+			"press_branch"
+			{
+				"gid" "F01F6BDCD50651C0B914FBA47D59F305"
+				"size" "329B2CD8693118E0BB8A8C79D2DB7603"
+				"download" "B90540C44E2EE13E4B80714CCC807E5D"
+			}
+			"summercamp"
+			{
+				"gid" "ADF1D038AF1CFA2987D2C9D9A6D6BBC7"
+				"size" "E4856EFB477EDECC2356091BC79496DE"
+				"download" "AA024EA7B98D575CFF39249DFDBEAA50"
+			}
+		}
+		"dlcappid" "2657060"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15982434"
+			"timeupdated" "1728561699"
+		}
+		"dlc-test"
+		{
+			"buildid" "15982434"
+			"pwdrequired" "1"
+			"timeupdated" "1728487434"
+		}
+		"kindergarten"
+		{
+			"buildid" "16001037"
+			"pwdrequired" "1"
+			"timeupdated" "1728600023"
+		}
+		"press_branch"
+		{
+			"buildid" "14546194"
+			"pwdrequired" "1"
+			"timeupdated" "1717066706"
+		}
+		"summercamp"
+		{
+			"buildid" "16029592"
+			"pwdrequired" "1"
+			"timeupdated" "1728858705"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25697981"
+"_sha" "aced168573ab16ab76d0aae908222661d94b8719"
+"_size" "3625"
