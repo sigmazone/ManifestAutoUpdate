@@ -55,6 +55,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -86,6 +87,13 @@
 			"image2x"
 			{
 				"english" "a1e6f630ba4536631e02a0b72b189d817b35d51a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "a1e6f630ba4536631e02a0b72b189d817b35d51a/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -243,7 +251,7 @@
 		"19" "492"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -406,9 +414,9 @@
 		{
 			"public"
 			{
-				"gid" "4612984175786078934"
-				"size" "9983492068"
-				"download" "7823483856"
+				"gid" "4323812239226686022"
+				"size" "10024183404"
+				"download" "7863767792"
 			}
 		}
 		"encryptedmanifests"
@@ -457,15 +465,21 @@
 			}
 			"rc-build"
 			{
-				"gid" "DE0EC36EBC7C0C95642FBA857BB6B22C"
-				"size" "84F2BBC7765759AA4A2592E2BC42F6A6"
-				"download" "C853D583FDEC93E751F7D73AA9DAB39F"
+				"gid" "A935749A4B7D2D32032B7FC1DF7E0688"
+				"size" "664893405E765E5A52A754FD0733E3A5"
+				"download" "E64FE475850EE72787CF0F273FDD2F1E"
+			}
+			"reales-build-10-10"
+			{
+				"gid" "CBDC71D54F456BC2F68B7A0B5FF97E54"
+				"size" "34A469F2F98DFCCF8DC3A1DC6FDB0ECF"
+				"download" "1F87B97A59D59FB54F629CE630A6E53C"
 			}
 			"unstable"
 			{
-				"gid" "E2CAB2168450C858927CBE1CD858CDD5"
-				"size" "C4C4C32C377B1324290BA573434C6022"
-				"download" "065870F5458615DB61C835FC42BC678F"
+				"gid" "39240168042F0479D7650566381B0A2D"
+				"size" "EC29276CCC5806CABE2A99E03FCD8B50"
+				"download" "13B28B94674D827851EC8A3DFC321607"
 			}
 		}
 	}
@@ -473,8 +487,8 @@
 	{
 		"public"
 		{
-			"buildid" "16257540"
-			"timeupdated" "1730724144"
+			"buildid" "16330175"
+			"timeupdated" "1731075051"
 		}
 		"presentation"
 		{
@@ -520,15 +534,21 @@
 		}
 		"rc-build"
 		{
-			"buildid" "16257540"
+			"buildid" "16330175"
 			"pwdrequired" "1"
-			"timeupdated" "1730411296"
+			"timeupdated" "1731068134"
+		}
+		"reales-build-10-10"
+		{
+			"buildid" "15952429"
+			"pwdrequired" "1"
+			"timeupdated" "1731063770"
 		}
 		"unstable"
 		{
-			"buildid" "16287322"
+			"buildid" "16344141"
 			"pwdrequired" "1"
-			"timeupdated" "1730724328"
+			"timeupdated" "1731082132"
 		}
 	}
 }
@@ -627,6 +647,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26036910"
-"_sha" "f0f75e5d16fe5f3ebba7183db4f5866508906606"
-"_size" "13228"
+"_change_number" "26110843"
+"_sha" "8cc0694f4f92873d30bdd07240aa48f720062825"
+"_size" "13695"
