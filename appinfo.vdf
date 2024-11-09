@@ -1,0 +1,912 @@
+"appid" "1255560"
+"common"
+{
+	"name" "Myst"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "3c8ad561b85ac64f315ff1299f38236cf4653758"
+	"logo_small" "3c8ad561b85ac64f315ff1299f38236cf4653758_thumb"
+	"icon" "b892d024a6ac8bd70f3e68d79aa44865de200768"
+	"clienttga" "e8e40f8e0eea80301da2d52f5be024ecf66682e0"
+	"clienticon" "5645487ad0e08ec52d6a60d4fef4e8e338ddfa40"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"openxrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1674604800"
+		"tested_build_id" "10319482"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1628872046"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cyan Worlds Inc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cyan Worlds Inc"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Myst"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_52" "1"
+		"category_13" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1629993578"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1255560"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "3834"
+		"2" "1664"
+		"3" "3839"
+		"4" "21978"
+		"5" "1742"
+		"6" "4182"
+		"7" "6971"
+		"8" "4175"
+		"9" "492"
+		"10" "4191"
+		"11" "6426"
+		"12" "1698"
+		"13" "5716"
+		"14" "597"
+		"15" "1693"
+		"16" "4166"
+		"17" "5900"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Cyan Worlds Inc"
+	"publisher" "Cyan Worlds Inc"
+	"homepage" "https://cyan.com/myst"
+}
+"config"
+{
+	"installdir" "Myst"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Myst.exe"
+			"arguments" "-d3d12 -nohmd"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "in 2D (DirectX 12)"
+			}
+			"description" "in 2D (DirectX 12)"
+		}
+		"7"
+		{
+			"executable" "Myst.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "Myst.exe"
+			"arguments" "-vr"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Myst in VR"
+			}
+			"description" "Myst in VR"
+		}
+		"9"
+		{
+			"executable" "Myst/Binaries/Mac/Myst-Mac-Shipping.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "rollback_macos_under14-5"
+			}
+			"description_loc"
+			{
+				"english" "legacy MacOS < 14.5 build"
+			}
+			"description" "legacy MacOS < 14.5 build"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1255561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4283396941644655589"
+				"size" "8778376114"
+				"download" "8368735136"
+			}
+			"rollback_macos_under14-5"
+			{
+				"gid" "5701998152114423577"
+				"size" "8777502040"
+				"download" "8370031024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"interal_legacysavetesting"
+			{
+				"gid" "78D3D60D4AF6A13FE5DB2A4663AD2F16"
+				"size" "00EE92890A6DB38CDCAFB89B3626FB28"
+				"download" "434ECD3C3B653723BB4AE7606547C0FB"
+			}
+			"external_partners"
+			{
+				"gid" "A594F6D9FBDA26FBC066B623907E4F17"
+				"size" "3BC5CB2ACD26D2D5274B3FED4B840885"
+				"download" "45B915480AF7EB94F8B1BE177625924D"
+			}
+			"external_partners_shipping"
+			{
+				"gid" "C2CD1350E4E898D095D942EA2D4344CA"
+				"size" "85D5BF507E0A2AC1A6E00490E42CD195"
+				"download" "E5ADA80B126E6804D1FF3242B577BCB2"
+			}
+			"internal"
+			{
+				"gid" "35EA8FAB37A77063C6EAEB80A77E341A"
+				"size" "30A549DF413107D2716982C1B5D067BC"
+				"download" "E518AD7306E7CF8AE979EED7875A6FAF"
+			}
+			"internal_shipping"
+			{
+				"gid" "A23490F3D8C6FC199F75936107405C32"
+				"size" "0195E79FDE05ADAE9226BC4F35C2F665"
+				"download" "6841D9B656ADD78B8F83A2F395CA9E8F"
+			}
+			"internal_test"
+			{
+				"gid" "ABC04392930F242A543589326F68C41C"
+				"size" "80A57AC4A43FC2ECAD86CCC4DBD4F1A7"
+				"download" "BBAE6148D4DB0FD97127432A5A2FB0D3"
+			}
+			"patch_01"
+			{
+				"gid" "A755BFDBA645E480C4F88FF938363B2B"
+				"size" "CB2368C0D663FD2F507013169EFD2199"
+				"download" "C7A4021AE96777CD8CE9F00A62156F78"
+			}
+			"patch_02"
+			{
+				"gid" "336069983D6DD18E19621B0EC15D2405"
+				"size" "35427DB71F17B0E9079C81FC390C4080"
+				"download" "2CB7C84D33437B6032CBED2202718CA1"
+			}
+			"patch_03"
+			{
+				"gid" "50F0FCC9618F6EEF3759113B4F3F3493"
+				"size" "A83B70F451C9EAB8CCEB37052FFB9D70"
+				"download" "161316B090AF4DFF8146E5E44F16AC73"
+			}
+			"patch_04"
+			{
+				"gid" "FFD1D50AFD2BA512932306A4A3203FA6"
+				"size" "B690E46EE9288884763450811A6A1852"
+				"download" "97C6EE8AD9DFB77C37F4593BB39A008E"
+			}
+			"patch_05"
+			{
+				"gid" "9A52FF8E4F426ACEB1E01CEB9CE36092"
+				"size" "8A8AF1F4BCA49EBD837B30FF6B622F5D"
+				"download" "61E00FEE941BB3677C61D54314E59751"
+			}
+			"patch_06"
+			{
+				"gid" "73597C6FD128F93E4BDB3E3188C57826"
+				"size" "3B3513F9A1A7E5BD445CA31398DA120C"
+				"download" "4F762E3E2C0E85D6C59D5706DADA1020"
+			}
+			"patch_06-1"
+			{
+				"gid" "D28019C4D135E7431B260F86A2FCC2F2"
+				"size" "C1A9C3275209638406E2D195518FE55A"
+				"download" "E05D35D6CD081C5EFF92EBD4603E8116"
+			}
+			"patch_07"
+			{
+				"gid" "9E779AF741DE70E742FBF59695196FF5"
+				"size" "8747FFE7FABA4E9A008099F4292E8751"
+				"download" "A79DEF5195B232D985DB009D53F75D4B"
+			}
+			"patch_08"
+			{
+				"gid" "EBF449D6D34A229E1545A3F10053736A"
+				"size" "86F5A19B18E30B694A4331586AC681B4"
+				"download" "06F230DE7726AE1CFD78A405CA2A4114"
+			}
+			"patch_09"
+			{
+				"gid" "4FDF83878F4003293A0FB8EC509E0CC3"
+				"size" "B2ED25D9DFF29FCFE10F39E9844BBDB9"
+				"download" "6BBAB82A0A014023C1629CBA8F7313F9"
+			}
+			"patch_09_hotfix"
+			{
+				"gid" "81C4CCF39216F2BF4DF2AFC4BEBDA100"
+				"size" "E2104E4F898A90026056DAF326BF73A6"
+				"download" "7643E3A604B8620E997FB881DB4A21D6"
+			}
+			"patch_10_deckverified"
+			{
+				"gid" "06076A135D3CA1AE55081E1885612B18"
+				"size" "5804EB29419868A7693131C5CDE216FC"
+				"download" "CA3303824D8C0034FED56B30FB3F5B4F"
+			}
+			"patch_2-0"
+			{
+				"gid" "6C4CF2B012D1753AEB439E779459CA40"
+				"size" "2E41D4BC94B517A79D5ED55A22D995E5"
+				"download" "D90BFDB14E2054FB052A8CC68BF06CC1"
+			}
+			"patch_2-0-5"
+			{
+				"gid" "3A8283831C9A5680AE3CFAC4416BCD34"
+				"size" "EC0A409BB6BD3D299945B051CF3B362A"
+				"download" "F0EF8E67312ED0C0F0BB5B4A2AAE7515"
+			}
+			"staging"
+			{
+				"gid" "6C5B8B7C4571FB888F1B712ADCC58508"
+				"size" "31FD9719A1C081A4C871454BC7789992"
+				"download" "3600FA53D9E95EE2C92BD2864C0ABE11"
+			}
+			"ue4_internal"
+			{
+				"gid" "1739C21A7ACACE526B404A7CC36DC531"
+				"size" "38F0548230ACB1BB675A0C8E64385035"
+				"download" "24BE6D006C028016521EAA8C30F5FABF"
+			}
+			"ue4_internal_test"
+			{
+				"gid" "578042BC34C492BC717403D23CAC8CD9"
+				"size" "1E29480130121692FFDCBEC308A4C84C"
+				"download" "0660D397F4B4C6119FCEA22462885540"
+			}
+		}
+	}
+	"1255562"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2127352499758266873"
+				"size" "11581637680"
+				"download" "8973081632"
+			}
+			"rollback_macos_under14-5"
+			{
+				"gid" "5998904543494293051"
+				"size" "9622073064"
+				"download" "8853528912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external_partners"
+			{
+				"gid" "9E406207F08D7C08688EED3207701813"
+				"size" "0AD1FB773C26269C745C2D0DB11038E4"
+				"download" "085372ED9065B2BFFC8F76750982418F"
+			}
+			"external_partners_shipping"
+			{
+				"gid" "5D422573A707B911FF0AD8B20A733BF8"
+				"size" "A51CC6CBA51828F201A363492B8E50B7"
+				"download" "E6A7A2E17B7B7CFF579CE7BFD11BCF07"
+			}
+			"internal"
+			{
+				"gid" "5B1708FC8802CA946E4C6359F156C2C4"
+				"size" "97E6264CA633F48459AEC800D32D2AB6"
+				"download" "5E2A976626D1961993455A846AF04AD9"
+			}
+			"internal_shipping"
+			{
+				"gid" "05BC78767A33FD46268352D3488C8048"
+				"size" "CB6DC107A621A261F585AE0DB150B042"
+				"download" "316509DB24903950DC5AE926D4FB5E05"
+			}
+			"internal_test"
+			{
+				"gid" "6D786915B0B7ECF4893136E6489D67CC"
+				"size" "6434E88EADF13A6DB2AD26E02E2ADA9B"
+				"download" "BC44D2FCF420D7D0533CFDCF3E14F042"
+			}
+			"patch_01"
+			{
+				"gid" "39195A8F13A0599F9AF4F1CAA06A676C"
+				"size" "F556977DD538504B80F8C1DED01B19AE"
+				"download" "124A6C859439EDA9BFCC8D9003650981"
+			}
+			"patch_02"
+			{
+				"gid" "E399CC8D8C13C0623576829FAC96115C"
+				"size" "4B534B7D2CEFA12E1B4CFE9805E0414F"
+				"download" "B557B83170C8A8C75A6810AAF254DFBA"
+			}
+			"patch_03"
+			{
+				"gid" "5A9FCAE85E72F97F97CD914E12CEC37A"
+				"size" "8AACBC0A085A18E9F7128ABE334FD422"
+				"download" "DE3D262E2B3DB6CEE1DEC80E4F52CA01"
+			}
+			"patch_04"
+			{
+				"gid" "7E9E1FD11E5B334E21D8ADD17D2BFA65"
+				"size" "F3DDD0EAFC93D63B098907F30733437D"
+				"download" "B5B32BBE23321B8799F66149D022BEF9"
+			}
+			"patch_05"
+			{
+				"gid" "C5B580B8349039FEA210159046F5E3AA"
+				"size" "11F6F13EF615563D8ABFD8A44105684B"
+				"download" "887A61BA6E5DFAE784B05B665D952214"
+			}
+			"patch_06"
+			{
+				"gid" "7A192185892C52E063C0FECDD4BF2831"
+				"size" "636569D25D897B40C5472F02D4A18FF7"
+				"download" "4D5A80783E7183B59F8FA6F637E3B03F"
+			}
+			"patch_06-1"
+			{
+				"gid" "0D25E1A283D5A5B8E9BCC992937C6695"
+				"size" "48694E4CC36F8966F2E6B596F3EBC1A8"
+				"download" "87D92F0FE92793C2ABC72689D10AC799"
+			}
+			"patch_07"
+			{
+				"gid" "E4519B422955991AF16E260185778227"
+				"size" "EE8E2DF0582C18CF798DBA874FC7BD72"
+				"download" "573A8FA153FD51C368C71F9DD6FF20E1"
+			}
+			"patch_08"
+			{
+				"gid" "5D76FE3F2D3E80556A7CE71325469E4D"
+				"size" "2613090A178E0CCB72E11C2A66A0CD57"
+				"download" "A75C88346D591520483B7223AD72BB54"
+			}
+			"patch_09"
+			{
+				"gid" "77027F2D23B7E43A2A3D3BDBD8C82ADB"
+				"size" "8EF0C3E230DFFAA692AE1D24CDD4546E"
+				"download" "050FF5AA4C71EF4F9207665A2578C1C8"
+			}
+			"patch_09_hotfix"
+			{
+				"gid" "5E0BBF622928A4CA6FC81F3ECED15DE3"
+				"size" "748F1DFE5674CF0BD662D3202706B2D4"
+				"download" "CD0225DAFBB446F2865171532E2C399E"
+			}
+			"patch_10_deckverified"
+			{
+				"gid" "45882A8DCDBB5F373C6B0393D0A3F6A4"
+				"size" "B665299E67F9E2EAF8B4368DB33CFEC7"
+				"download" "8B1F546955DCCA4E113CF511ED990F91"
+			}
+			"patch_2-0"
+			{
+				"gid" "D4C56DE0E844E85C453F0C791C48AB42"
+				"size" "6998DA068277606DE6BF978FB41592ED"
+				"download" "A378C49EABC2DD857F4EFA7C7F860F6A"
+			}
+			"patch_2-0-5"
+			{
+				"gid" "95376591B0C3C4D9D7C888AE62AC607E"
+				"size" "5B48CCA8E394124BD6F77600E675588F"
+				"download" "22BF4FF2DB11B7778EC10EDA38E9EB9B"
+			}
+			"staging"
+			{
+				"gid" "65EF667C514E742223213C0066BCF7CA"
+				"size" "BBA1C113BD247D10A62D97D3FE87898C"
+				"download" "4086473C8C7B2723D882FCF95DD6CB89"
+			}
+			"ue4_internal"
+			{
+				"gid" "B97F6ECC43D0790DCB597A9C788AB9A1"
+				"size" "4FD7423475A016A98244D8E92F4F9B9C"
+				"download" "2EA41758853686E98E7CC81521B0F60B"
+			}
+			"ue4_internal_test"
+			{
+				"gid" "D999E1EE0E013DAFEBEC438C088D3D68"
+				"size" "9EE93576C38B990066B5CD12A2198AF7"
+				"download" "CBFD718D3FA533AF2EC3CC623EAEB98D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16346575"
+			"timeupdated" "1731115029"
+		}
+		"interal_legacysavetesting"
+		{
+			"buildid" "6662468"
+			"pwdrequired" "1"
+			"timeupdated" "1624032531"
+		}
+		"external_partners"
+		{
+			"buildid" "16321268"
+			"pwdrequired" "1"
+			"timeupdated" "1731096748"
+		}
+		"external_partners_shipping"
+		{
+			"buildid" "16346575"
+			"pwdrequired" "1"
+			"timeupdated" "1731114955"
+		}
+		"internal"
+		{
+			"buildid" "16321268"
+			"pwdrequired" "1"
+			"timeupdated" "1730941369"
+		}
+		"internal_shipping"
+		{
+			"buildid" "16346575"
+			"pwdrequired" "1"
+			"timeupdated" "1731096299"
+		}
+		"internal_test"
+		{
+			"buildid" "16319090"
+			"pwdrequired" "1"
+			"timeupdated" "1730925938"
+		}
+		"patch_01"
+		{
+			"buildid" "7245064"
+			"pwdrequired" "1"
+			"timeupdated" "1630112107"
+		}
+		"patch_02"
+		{
+			"buildid" "7264632"
+			"pwdrequired" "1"
+			"timeupdated" "1630715034"
+		}
+		"patch_03"
+		{
+			"buildid" "7301366"
+			"pwdrequired" "1"
+			"timeupdated" "1630714932"
+		}
+		"patch_04"
+		{
+			"buildid" "7334270"
+			"pwdrequired" "1"
+			"timeupdated" "1631320454"
+		}
+		"patch_05"
+		{
+			"buildid" "7455729"
+			"pwdrequired" "1"
+			"timeupdated" "1633370262"
+		}
+		"patch_06"
+		{
+			"buildid" "7646889"
+			"pwdrequired" "1"
+			"timeupdated" "1636068912"
+		}
+		"patch_06-1"
+		{
+			"buildid" "7678963"
+			"pwdrequired" "1"
+			"timeupdated" "1636502368"
+		}
+		"patch_07"
+		{
+			"buildid" "7882983"
+			"pwdrequired" "1"
+			"timeupdated" "1639611245"
+		}
+		"patch_08"
+		{
+			"buildid" "9662480"
+			"pwdrequired" "1"
+			"timeupdated" "1665108218"
+		}
+		"patch_09"
+		{
+			"buildid" "10286919"
+			"pwdrequired" "1"
+			"timeupdated" "1673367753"
+		}
+		"patch_09_hotfix"
+		{
+			"buildid" "10319482"
+			"pwdrequired" "1"
+			"timeupdated" "1673918240"
+		}
+		"patch_10_deckverified"
+		{
+			"buildid" "10411397"
+			"pwdrequired" "1"
+			"timeupdated" "1674869234"
+		}
+		"patch_2-0"
+		{
+			"buildid" "16187824"
+			"pwdrequired" "1"
+			"timeupdated" "1730153718"
+		}
+		"patch_2-0-5"
+		{
+			"buildid" "16346575"
+			"pwdrequired" "1"
+			"timeupdated" "1731115160"
+		}
+		"rollback_macos_under14-5"
+		{
+			"buildid" "16320994"
+			"description" "\tOnly use this branch if you wish to play an unsupported (legacy) version of Myst on MacOS under 14.5."
+			"timeupdated" "1730939303"
+		}
+		"staging"
+		{
+			"buildid" "16346575"
+			"pwdrequired" "1"
+			"timeupdated" "1731114965"
+		}
+		"ue4_internal"
+		{
+			"buildid" "13002486"
+			"pwdrequired" "1"
+			"timeupdated" "1705532310"
+		}
+		"ue4_internal_test"
+		{
+			"buildid" "10252245"
+			"pwdrequired" "1"
+			"timeupdated" "1724701015"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Myst/Saved/SaveGames"
+			"pattern" "*GameState.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Myst/Saved/Images/"
+			"pattern" "*.png"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Epic/Myst/Saved/SaveGames"
+			"pattern" "*GameState.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "MacAppSupport"
+			"path" "Epic/Myst/Saved/Images"
+			"pattern" "*.png"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26117491"
+"_sha" "1af35810a6d142d8d11f2fe7c97e56c748fd4555"
+"_size" "18991"
