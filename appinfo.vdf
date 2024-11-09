@@ -1,0 +1,460 @@
+"appid" "2409780"
+"common"
+{
+	"name" "Breeze of Passion"
+	"type" "Game"
+	"icon" "87e7b9486550ee563dcd8b6c0fa3be8450d754d3"
+	"clienttga" "0679b8207443b6ce0d131cd18324c8c5a2c97b7a"
+	"clienticon" "dbe90551a5b8b125eb95517e1cd4d56c4d2facf9"
+	"clienticns" "2eb5562fa06ae6722f9ef69f8f31ee50642a461b"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1729641600"
+		"tested_build_id" "16106010"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "0942a0a616985cc2afbf3fc26d76eb1500c7d513/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.894736842105246"
+			"height_pct" "52.27967585858885"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.894736842105246"
+				"height_pct" "52.27967585858885"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723492843"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "L7team"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "L7team"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729520102"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2409780/announcements/detail/4123679966403002823\?snr=1___"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2409780"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "5611"
+		"3" "24904"
+		"4" "3799"
+		"5" "4175"
+		"6" "6426"
+		"7" "4947"
+		"8" "1742"
+		"9" "492"
+		"10" "6971"
+		"11" "4242"
+		"12" "4711"
+		"13" "4486"
+		"14" "21"
+		"15" "5984"
+		"16" "597"
+		"17" "1719"
+		"18" "4136"
+		"19" "4726"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"deckresolutionoverride" "Native"
+	"developer" "L7team"
+	"publisher" "L7team"
+	"listofdlc" "3314120"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Breeze of Passion"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BreezeOfPassion.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BreezeOfPassion.app/Contents/MacOS/BreezeOfPassion"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "BreezeOfPassion.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3173288634"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,beta"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "2"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,polish,czech,turkish,arabic,ukrainian"
+	"hasdepotsindlc" "1"
+	"2409781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6128275736929492564"
+				"size" "7076260109"
+				"download" "6979154944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "46F94F5A499FB15A0166428B3EDB9E35"
+				"size" "98148AFE7A4568674F4CFDB64D4EA5EA"
+				"download" "C2E7E0F3E991BB9CC31EB7B4C0B50B6F"
+			}
+		}
+	}
+	"2409782"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7354817340009564578"
+				"size" "6989731610"
+				"download" "6956671088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "B0C95E8F02DD42E40479BAD598F827C0"
+				"size" "58A056DE755F34B512B702EB8E8BF628"
+				"download" "4C1D24CBDE1938F6D499A56C5A9AD2B1"
+			}
+		}
+	}
+	"2409783"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1816396396802291301"
+				"size" "7076260109"
+				"download" "6979154944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "53A0C325B43468502C53B45A229C36A6"
+				"size" "98148AFE7A4568674F4CFDB64D4EA5EA"
+				"download" "C2E7E0F3E991BB9CC31EB7B4C0B50B6F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16351282"
+			"timeupdated" "1731152772"
+		}
+		"beta"
+		{
+			"buildid" "16351282"
+			"pwdrequired" "1"
+			"timeupdated" "1731142834"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "RenPy/breeze_of_passion"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "RenPy/breeze_of_passion"
+					"replace" "Library/RenPy/breeze_of_passion"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "RenPy/breeze_of_passion"
+					"replace" ".renpy/breeze_of_passion"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26121164"
+"_sha" "99256b3e46ede7ac4a40682f02d1fdf36f04562b"
+"_size" "7987"
