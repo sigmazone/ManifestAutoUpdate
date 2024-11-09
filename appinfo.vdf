@@ -8,7 +8,7 @@
 	"osextended" "macos64"
 	"logo" "f67aeadbc78ac66d674cc7d758215900dcfd4b26"
 	"logo_small" "f67aeadbc78ac66d674cc7d758215900dcfd4b26_thumb"
-	"icon" "7d2d654796697aee98f6ad74fcfa09a3cc1ff3d5"
+	"icon" "4b22d24796d1967e2f8c7cd0a29a532907e23217"
 	"clienticon" "6b2ce7bbd0a5b132704fac3bacb662e426edff11"
 	"clienttga" "95d77f17ade9767d182e8f4454284b0b0a788487"
 	"releasestate" "released"
@@ -32,6 +32,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -65,6 +66,13 @@
 				"english" "library_hero_2x.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "46ec044de8296db0c385310476b0a25337b0cc28/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"image"
@@ -90,7 +98,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729002212"
+	"store_asset_mtime" "1731061860"
 	"associations"
 	{
 		"0"
@@ -158,6 +166,7 @@
 	}
 	"steam_release_date" "1729000680"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1585180"
 	"store_tags"
@@ -242,9 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "3109822247692207150"
-				"size" "3888208619"
-				"download" "1105051344"
+				"gid" "4879526652505743467"
+				"size" "3889434382"
+				"download" "1104356144"
 			}
 		}
 		"encryptedmanifests"
@@ -263,9 +272,9 @@
 			}
 			"deck13qa"
 			{
-				"gid" "DF9C87D56A2CB645D86EB0682D80D341"
-				"size" "2FD94D51CF0038742E6BAC68EE962761"
-				"download" "DC88D9EA502D6F555789B08099B14F8C"
+				"gid" "0F116B21B6497DECC149AE07192C1E7A"
+				"size" "A80B8F52FFBC3794AB1CD4978A9C7496"
+				"download" "1D395A91EF22241CFC9EDDBE21B84895"
 			}
 			"demo"
 			{
@@ -275,9 +284,9 @@
 			}
 			"j2d_test_intern"
 			{
-				"gid" "C7D1A9055DE1ED5D75006ABB6290B8E8"
-				"size" "DE3CD4A6AF0CB85B46DA52B08A372563"
-				"download" "E890AE9EBF8F6E9E59EBA123CD20620D"
+				"gid" "894FE8DD45E4BA7851715A16D5F6AD94"
+				"size" "8A37639B31B3DFCCF823565B9C29CBB1"
+				"download" "0CECD731B9EEFA06E398077039206C19"
 			}
 			"nightly"
 			{
@@ -309,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "239740053506017081"
-				"size" "3786399021"
-				"download" "1087506768"
+				"gid" "565438680709809877"
+				"size" "3787781540"
+				"download" "1087705376"
 			}
 		}
 		"encryptedmanifests"
@@ -324,9 +333,9 @@
 			}
 			"deck13qa"
 			{
-				"gid" "9C16602F32FD526CF1342B65C5F13F5F"
-				"size" "FFC87CA8B518C0956539482A60A93515"
-				"download" "BF0A2BBB3D49C6E15844474DF719E111"
+				"gid" "868B1A460DEA16E4F9EB6A133F458CE1"
+				"size" "A61E672634AEC300293C05798A67F5DA"
+				"download" "4B2DC6646EB3C758D6EDA2736DFFC99B"
 			}
 			"stable"
 			{
@@ -346,18 +355,18 @@
 		{
 			"public"
 			{
-				"gid" "2615392981279664291"
-				"size" "3859890581"
-				"download" "1095358096"
+				"gid" "6122845211636112902"
+				"size" "3861112042"
+				"download" "1094644624"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"deck13qa"
 			{
-				"gid" "D85D90FB62218808F59C4EE31E20C236"
-				"size" "A3582CBBA3099605C5D34DCAA3D03E32"
-				"download" "37B11223A8C1EA3F8246ED09AFDD230B"
+				"gid" "D4A56EA2DBCE38FB6E72FDCED998845B"
+				"size" "71D7C68FDB47B3429BD9E9EFD7D3F778"
+				"download" "97B7B4D53C25E57618D80857E23C7CFF"
 			}
 			"stable"
 			{
@@ -371,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "16314067"
-			"timeupdated" "1730897129"
+			"buildid" "16342499"
+			"timeupdated" "1731077843"
 		}
 		"internal"
 		{
@@ -394,9 +403,9 @@
 		}
 		"deck13qa"
 		{
-			"buildid" "16314067"
+			"buildid" "16342499"
 			"pwdrequired" "1"
-			"timeupdated" "1730895969"
+			"timeupdated" "1731073780"
 		}
 		"demo"
 		{
@@ -406,15 +415,15 @@
 		}
 		"j2d_test_intern"
 		{
-			"buildid" "16324641"
+			"buildid" "16339169"
 			"pwdrequired" "1"
-			"timeupdated" "1730967981"
+			"timeupdated" "1731057121"
 		}
 		"nightly"
 		{
-			"buildid" "16322264"
+			"buildid" "16336317"
 			"pwdrequired" "1"
-			"timeupdated" "1730948482"
+			"timeupdated" "1731034881"
 		}
 		"stable"
 		{
@@ -479,6 +488,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26085563"
-"_sha" "fcf47c29b518e261d978b9ea5067ad0e0ac2ab72"
-"_size" "8856"
+"_change_number" "26109729"
+"_sha" "ef6c5e1dd51bb38f6e0db01da4effb7b3857aa89"
+"_size" "9049"
