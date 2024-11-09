@@ -66,7 +66,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "29a9c45b05dcb17261429bd75d42df0d119e5a4f/capsule_231x87.jpg"
 		"french" "capsule_231x87_french.jpg"
 		"polish" "capsule_231x87_polish.jpg"
 		"russian" "capsule_231x87_russian.jpg"
@@ -91,6 +91,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -104,18 +105,22 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "fb069889d6ecf4210ba0b23f45dd7389066bc565/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "fb069889d6ecf4210ba0b23f45dd7389066bc565/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "330534f1fff42e9b438c7bb497c9629893c13526/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "330534f1fff42e9b438c7bb497c9629893c13526/library_hero_2x.jpg"
 			}
 		}
 		"library_logo"
@@ -128,11 +133,26 @@
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "1ae179b4d2732694ccd0d10abfdf04911364f9e2/logo.png"
+			}
+			"image2x"
+			{
+				"english" "1ae179b4d2732694ccd0d10abfdf04911364f9e2/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c8cfcb3566496cf957509f90787eec836061fa47/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c8cfcb3566496cf957509f90787eec836061fa47/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1719507438"
+	"store_asset_mtime" "1727717297"
 	"associations"
 	{
 		"0"
@@ -222,6 +242,26 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1580408040"
 	"community_visible_stats" "1"
@@ -291,13 +331,25 @@
 		{
 			"public"
 			{
-				"gid" "4313585314506555960"
-				"size" "5820084471"
-				"download" "2514972192"
+				"gid" "3313757991443095351"
+				"size" "5820742423"
+				"download" "2515120144"
+			}
+			"local"
+			{
+				"gid" "1953785647978990531"
+				"size" "5153223845"
+				"download" "2102199296"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"debug"
+			{
+				"gid" "CC24D7BEA4DAB4CA930F4B0B238F9FDD"
+				"size" "A18DA5723E9A52EE853CEB1C09236698"
+				"download" "E9F7B84DB2E13EF722BF37ACEB4943F9"
+			}
 			"ludeotesting"
 			{
 				"gid" "13532378E507E120A02ADB9EF6A66907"
@@ -306,15 +358,15 @@
 			}
 			"shipping"
 			{
-				"gid" "1A3F4FEAE272B89BA6000FCA3ADC307B"
-				"size" "673AB5BC596EA347D11D05C4AAADD478"
-				"download" "351FF098FF44F76A199BCD71C7B99CAF"
+				"gid" "A4D0511EE475915343E02C4BA3A4D043"
+				"size" "57C8D069F7CEE42C2FBECC1ECA79DB2E"
+				"download" "9859996B76389BA49A0A648D9D9C6936"
 			}
 			"testing"
 			{
-				"gid" "481324A5454DC38C8D976C53BB58F41D"
-				"size" "550B250B603410A1627ECE4873D592F3"
-				"download" "F6DE7287C8213400CB7616924FD4456A"
+				"gid" "189E6080A1D355C900BDE21D5B002102"
+				"size" "045C4B67D4A4FE404756ED801C20B7D9"
+				"download" "41F0CD7ED89151C8C408E0B3EDE9225F"
 			}
 		}
 	}
@@ -397,8 +449,22 @@
 	{
 		"public"
 		{
-			"buildid" "15753437"
-			"timeupdated" "1726755956"
+			"buildid" "16150025"
+			"timeupdated" "1731077021"
+		}
+		"debug"
+		{
+			"buildid" "16220134"
+			"pwdrequired" "1"
+			"lcsrequired" "1"
+			"timeupdated" "1730200349"
+		}
+		"local"
+		{
+			"buildid" "16220134"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1730200196"
 		}
 		"ludeotesting"
 		{
@@ -408,15 +474,15 @@
 		}
 		"shipping"
 		{
-			"buildid" "15753437"
+			"buildid" "16150025"
 			"pwdrequired" "1"
-			"timeupdated" "1726740492"
+			"timeupdated" "1729684718"
 		}
 		"testing"
 		{
-			"buildid" "15753437"
+			"buildid" "16220217"
 			"pwdrequired" "1"
-			"timeupdated" "1726733211"
+			"timeupdated" "1730200603"
 		}
 	}
 }
@@ -438,3 +504,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26109415"
+"_sha" "630c709ba96f60aa140b064084a8b9071b3a1812"
+"_size" "9716"
