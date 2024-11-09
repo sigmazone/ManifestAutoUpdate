@@ -333,6 +333,21 @@
 			}
 			"description" "Myst in VR"
 		}
+		"9"
+		{
+			"executable" "Myst/Binaries/Mac/Myst-Mac-Shipping.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "rollback_macos_under14-5"
+			}
+			"description_loc"
+			{
+				"english" "legacy MacOS < 14.5 build"
+			}
+			"description" "legacy MacOS < 14.5 build"
+		}
 	}
 	"steamcontrollertemplateindex" "2"
 	"steamdecktouchscreen" "5"
@@ -377,6 +392,12 @@
 		{
 			"public"
 			{
+				"gid" "4283396941644655589"
+				"size" "8778376114"
+				"download" "8368735136"
+			}
+			"rollback_macos_under14-5"
+			{
 				"gid" "5701998152114423577"
 				"size" "8777502040"
 				"download" "8370031024"
@@ -390,47 +411,35 @@
 				"size" "00EE92890A6DB38CDCAFB89B3626FB28"
 				"download" "434ECD3C3B653723BB4AE7606547C0FB"
 			}
-			"internal_issuetesting"
-			{
-				"gid" "7723177C333FD8526101683B3BF1C278"
-				"size" "9011F638FB1EC9EA21EB225560D253B3"
-				"download" "BFBA8126ABABD6977CB54510A3B1EE2A"
-			}
 			"external_partners"
 			{
-				"gid" "CF15853574315516EDFE06933011018B"
-				"size" "811F23CB99066105248383B2D3C3F1DF"
-				"download" "EE7E0AA395BEA9940669EEE4FAD743AC"
+				"gid" "A594F6D9FBDA26FBC066B623907E4F17"
+				"size" "3BC5CB2ACD26D2D5274B3FED4B840885"
+				"download" "45B915480AF7EB94F8B1BE177625924D"
 			}
 			"external_partners_shipping"
 			{
-				"gid" "71C77815272265B1B38A20516AFA863B"
-				"size" "4663B21C435C2AFF8058F3B8ED35C329"
-				"download" "6747CA45C1D5DE6D0928C5BDB7F0D719"
-			}
-			"external_partners_test"
-			{
-				"gid" "123EF594B2AF2F7E16A864FB92485C39"
-				"size" "3CD718D8476B017DD24F5A1584DA7B7F"
-				"download" "42B2F785FF33DA7D9A5E92E8C65E4B70"
+				"gid" "C2CD1350E4E898D095D942EA2D4344CA"
+				"size" "85D5BF507E0A2AC1A6E00490E42CD195"
+				"download" "E5ADA80B126E6804D1FF3242B577BCB2"
 			}
 			"internal"
 			{
-				"gid" "A21B71CEBAED6020F9BFECC2FB20937A"
-				"size" "77C25C4494425E2121B78600319480F1"
-				"download" "18E2231277620408A249DD27403B7BAC"
+				"gid" "35EA8FAB37A77063C6EAEB80A77E341A"
+				"size" "30A549DF413107D2716982C1B5D067BC"
+				"download" "E518AD7306E7CF8AE979EED7875A6FAF"
 			}
 			"internal_shipping"
 			{
-				"gid" "E1DD80F483D588CBB239CA2BC9870650"
-				"size" "AC269C32FBF05F5626824A9A57AFC2AE"
-				"download" "C28A341D52CFAF4CF7CC9C165AA14C75"
+				"gid" "A23490F3D8C6FC199F75936107405C32"
+				"size" "0195E79FDE05ADAE9226BC4F35C2F665"
+				"download" "6841D9B656ADD78B8F83A2F395CA9E8F"
 			}
 			"internal_test"
 			{
-				"gid" "03A2948CCE83FE3ABEB335ABA67AD9E7"
-				"size" "6A46CA442C93F02B2380D21463ADFA88"
-				"download" "F355B8D90FF6D9F77D6E271CC749F017"
+				"gid" "ABC04392930F242A543589326F68C41C"
+				"size" "80A57AC4A43FC2ECAD86CCC4DBD4F1A7"
+				"download" "BBAE6148D4DB0FD97127432A5A2FB0D3"
 			}
 			"patch_01"
 			{
@@ -510,11 +519,17 @@
 				"size" "2E41D4BC94B517A79D5ED55A22D995E5"
 				"download" "D90BFDB14E2054FB052A8CC68BF06CC1"
 			}
+			"patch_2-0-5"
+			{
+				"gid" "3A8283831C9A5680AE3CFAC4416BCD34"
+				"size" "EC0A409BB6BD3D299945B051CF3B362A"
+				"download" "F0EF8E67312ED0C0F0BB5B4A2AAE7515"
+			}
 			"staging"
 			{
-				"gid" "76845B0CFDB5295740174F5C759001F1"
-				"size" "FF8E7E7483C0CAB616DE9B9B600C3E35"
-				"download" "2D9109780AAD2DE77A4B414C482A3C8F"
+				"gid" "6C5B8B7C4571FB888F1B712ADCC58508"
+				"size" "31FD9719A1C081A4C871454BC7789992"
+				"download" "3600FA53D9E95EE2C92BD2864C0ABE11"
 			}
 			"ue4_internal"
 			{
@@ -540,54 +555,48 @@
 		{
 			"public"
 			{
-				"gid" "18426485406670391"
-				"size" "11581676675"
-				"download" "8973847552"
+				"gid" "2127352499758266873"
+				"size" "11581637680"
+				"download" "8973081632"
+			}
+			"rollback_macos_under14-5"
+			{
+				"gid" "5998904543494293051"
+				"size" "9622073064"
+				"download" "8853528912"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"internal_issuetesting"
-			{
-				"gid" "2E9100F6C9F613B7262FEC40E54E1F82"
-				"size" "AA0CBBA259A12CEFCD6E62FEBC03B69F"
-				"download" "B6C32AC040F7936CC69B138043CCE640"
-			}
 			"external_partners"
 			{
-				"gid" "AF1AD5485077B0B9F872D7B9838F2180"
-				"size" "AF996CCEBAD81C98B1A6ACB5664598D5"
-				"download" "C9255F822C4C774A937A207CEBA4D4C9"
+				"gid" "9E406207F08D7C08688EED3207701813"
+				"size" "0AD1FB773C26269C745C2D0DB11038E4"
+				"download" "085372ED9065B2BFFC8F76750982418F"
 			}
 			"external_partners_shipping"
 			{
-				"gid" "42D2D0865F60CB7E715F829250DD84F6"
-				"size" "DEA5D0F4B9F44127E55E3567483EE7A3"
-				"download" "B015F1782A9303FB049382CDE0BFBA71"
-			}
-			"external_partners_test"
-			{
-				"gid" "FF8196B909C5A3EE6E6E403E521BE07D"
-				"size" "B67DA7352697B652D885A39D6A6F3A1B"
-				"download" "5B1BBBDE5FF719CF5C0621D813CE4EC2"
+				"gid" "5D422573A707B911FF0AD8B20A733BF8"
+				"size" "A51CC6CBA51828F201A363492B8E50B7"
+				"download" "E6A7A2E17B7B7CFF579CE7BFD11BCF07"
 			}
 			"internal"
 			{
-				"gid" "4AD80DFF22024D153C7E3648F6677410"
-				"size" "269A3ABE6DB85E875B2AABE70E61C498"
-				"download" "1F9A08D409A1A3E735D279FF7AA46F07"
+				"gid" "5B1708FC8802CA946E4C6359F156C2C4"
+				"size" "97E6264CA633F48459AEC800D32D2AB6"
+				"download" "5E2A976626D1961993455A846AF04AD9"
 			}
 			"internal_shipping"
 			{
-				"gid" "93489EE0E9D427224EE71CA5940142F8"
-				"size" "75B040F49BCBFA7CA8B2A282F731965B"
-				"download" "DDE2FE7569B6770F1B82225596D94262"
+				"gid" "05BC78767A33FD46268352D3488C8048"
+				"size" "CB6DC107A621A261F585AE0DB150B042"
+				"download" "316509DB24903950DC5AE926D4FB5E05"
 			}
 			"internal_test"
 			{
-				"gid" "FD389B6CA78E482636DD9B60EFB9C2F2"
-				"size" "396E6CB149A69277C99FD513D3765A27"
-				"download" "FE8FB4EC21638D6E0DC34D1F578345E8"
+				"gid" "6D786915B0B7ECF4893136E6489D67CC"
+				"size" "6434E88EADF13A6DB2AD26E02E2ADA9B"
+				"download" "BC44D2FCF420D7D0533CFDCF3E14F042"
 			}
 			"patch_01"
 			{
@@ -667,11 +676,17 @@
 				"size" "6998DA068277606DE6BF978FB41592ED"
 				"download" "A378C49EABC2DD857F4EFA7C7F860F6A"
 			}
+			"patch_2-0-5"
+			{
+				"gid" "95376591B0C3C4D9D7C888AE62AC607E"
+				"size" "5B48CCA8E394124BD6F77600E675588F"
+				"download" "22BF4FF2DB11B7778EC10EDA38E9EB9B"
+			}
 			"staging"
 			{
-				"gid" "5E0F352655A8499610A6ECC13FBE11AA"
-				"size" "EF10F15CE3B1FA3915202D132992AE85"
-				"download" "C233DBBAD556277DF6EDB404FD653763"
+				"gid" "65EF667C514E742223213C0066BCF7CA"
+				"size" "BBA1C113BD247D10A62D97D3FE87898C"
+				"download" "4086473C8C7B2723D882FCF95DD6CB89"
 			}
 			"ue4_internal"
 			{
@@ -691,8 +706,8 @@
 	{
 		"public"
 		{
-			"buildid" "16187824"
-			"timeupdated" "1730153784"
+			"buildid" "16346575"
+			"timeupdated" "1731115029"
 		}
 		"interal_legacysavetesting"
 		{
@@ -700,47 +715,35 @@
 			"pwdrequired" "1"
 			"timeupdated" "1624032531"
 		}
-		"internal_issuetesting"
-		{
-			"buildid" "7198585"
-			"pwdrequired" "1"
-			"timeupdated" "1629229820"
-		}
 		"external_partners"
 		{
-			"buildid" "16175016"
+			"buildid" "16321268"
 			"pwdrequired" "1"
-			"timeupdated" "1730161651"
+			"timeupdated" "1731096748"
 		}
 		"external_partners_shipping"
 		{
-			"buildid" "16268022"
+			"buildid" "16346575"
 			"pwdrequired" "1"
-			"timeupdated" "1730487948"
-		}
-		"external_partners_test"
-		{
-			"buildid" "16268223"
-			"pwdrequired" "1"
-			"timeupdated" "1730487941"
+			"timeupdated" "1731114955"
 		}
 		"internal"
 		{
-			"buildid" "16175016"
+			"buildid" "16321268"
 			"pwdrequired" "1"
-			"timeupdated" "1729828682"
+			"timeupdated" "1730941369"
 		}
 		"internal_shipping"
 		{
-			"buildid" "16268536"
+			"buildid" "16346575"
 			"pwdrequired" "1"
-			"timeupdated" "1730488902"
+			"timeupdated" "1731096299"
 		}
 		"internal_test"
 		{
-			"buildid" "16268223"
+			"buildid" "16319090"
 			"pwdrequired" "1"
-			"timeupdated" "1730486873"
+			"timeupdated" "1730925938"
 		}
 		"patch_01"
 		{
@@ -820,11 +823,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730153718"
 		}
+		"patch_2-0-5"
+		{
+			"buildid" "16346575"
+			"pwdrequired" "1"
+			"timeupdated" "1731115160"
+		}
+		"rollback_macos_under14-5"
+		{
+			"buildid" "16320994"
+			"description" "\tOnly use this branch if you wish to play an unsupported (legacy) version of Myst on MacOS under 14.5."
+			"timeupdated" "1730939303"
+		}
 		"staging"
 		{
-			"buildid" "16187824"
+			"buildid" "16346575"
 			"pwdrequired" "1"
-			"timeupdated" "1730153741"
+			"timeupdated" "1731114965"
 		}
 		"ue4_internal"
 		{
@@ -892,6 +907,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26011754"
-"_sha" "220cfcad3bb9d1b6fa9e2b0cd76d30f463b3120d"
-"_size" "18710"
+"_change_number" "26117491"
+"_sha" "1af35810a6d142d8d11f2fe7c97e56c748fd4555"
+"_size" "18991"
