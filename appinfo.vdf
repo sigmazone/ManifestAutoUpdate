@@ -14,9 +14,34 @@
 		"0"
 		{
 			"id" "2172010_eula_0"
-			"name" "Until Dawn™ EULA"
-			"url" "https://store.steampowered.com//eula/2172010_eula_0"
-			"version" "2"
+			"name" "Until Dawn™ EULA (RoW)"
+			"url" "https://store.steampowered.com/eula/2172010_eula_0"
+			"version" "4"
+			"countries" "AR,AS,BO,BR,CA,CL,CN,CO,CR,EC,GT,GU,HK,HN,ID,MP,MX,MY,NI,PA,PE,PH,PR,PY,SG,SV,TH,TW,US,UY,VI,VN"
+		}
+		"1"
+		{
+			"id" "2172010_eula_1"
+			"name" "Until Dawn™ EULA (EMEA)"
+			"url" "https://store.steampowered.com/eula/2172010_eula_1"
+			"countries" "AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
+			"version" "1"
+		}
+		"2"
+		{
+			"id" "2172010_eula_2"
+			"name" "Until Dawn™ EULA (JP)"
+			"url" "https://store.steampowered.com//eula/2172010_eula_2"
+			"countries" "JP"
+			"version" "1"
+		}
+		"3"
+		{
+			"id" "2172010_eula_3"
+			"name" "Until Dawn™ EULA (KR)"
+			"url" "https://store.steampowered.com//eula/2172010_eula_3"
+			"countries" "KR"
+			"version" "1"
 		}
 	}
 	"clienticon" "2faf98b6a0bf5e4e3b913e8d8b410e88cb8961c5"
@@ -52,6 +77,35 @@
 	{
 		"0" "2"
 		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1729814400"
+		"tested_build_id" "16015013"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6pin"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
 	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -274,35 +328,35 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1728053881"
+	"steam_release_date" "1728053880"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2172010"
 	"store_tags"
 	{
 		"0" "1667"
-		"1" "21"
-		"2" "6426"
+		"1" "6426"
+		"2" "21"
 		"3" "4182"
 		"4" "3834"
 		"5" "4486"
-		"6" "4166"
-		"7" "6971"
+		"6" "6971"
+		"7" "4166"
 		"8" "11014"
 		"9" "1759"
 		"10" "1697"
 		"11" "1742"
 		"12" "5984"
 		"13" "5716"
-		"14" "5608"
-		"15" "4145"
+		"14" "4145"
+		"15" "5608"
 		"16" "4342"
 		"17" "4559"
 		"18" "4345"
 		"19" "5708"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -360,30 +414,30 @@
 		{
 			"public"
 			{
-				"gid" "3224108636890049965"
-				"size" "63376860524"
-				"download" "61032022768"
+				"gid" "921027015081050656"
+				"size" "63591762879"
+				"download" "61242553120"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"latest"
 			{
-				"gid" "F16D08BDE67BD4E27347B3784E7C1477"
-				"size" "73D1E7E73E06D123202814563A0902C4"
-				"download" "ED664CB474CA8FC88D0E7E7192E6EE3B"
+				"gid" "5A7E33081143931A52CB8C316AA5217A"
+				"size" "28F891F52D856D52DFD4FD1B87B1C348"
+				"download" "C2535E5E80CB603523C0EBE1781E220B"
 			}
 			"latest_csv"
 			{
-				"gid" "F2FB42DB5EB519EDD5FBAEC1C26FFB69"
-				"size" "0CF3016EB736884F54030E73B3A98C6A"
-				"download" "76C89526EAD1A7BD40F50A5A3D1DAEB8"
+				"gid" "814007E1E208E8146817091C911869D3"
+				"size" "D7D4CE4A2CEC097148827DDAA7FB93FA"
+				"download" "D8080FD4396BC090123EFA12E7417513"
 			}
 			"latest_test"
 			{
-				"gid" "010DC7F63ACD0923BF35A6AA945B1010"
-				"size" "F3EA9D95985868FE82D7D4391B33AFDB"
-				"download" "E8718207E73AA35C2475261CAB868BC3"
+				"gid" "5C8F0DC15247418CD682B5573EDA1669"
+				"size" "966797D1509A3C3BB10668B86C14533B"
+				"download" "B67F2685E1E26EDD7E9BAF850BC7402A"
 			}
 			"partner_amd"
 			{
@@ -399,9 +453,9 @@
 			}
 			"partner_nixxes"
 			{
-				"gid" "BE21DC997D8B52FA72A93F88C55F2C21"
-				"size" "861B4439FF29D5BA2C8201E2C8D7DE64"
-				"download" "9D8482735AE92223E94852046E726840"
+				"gid" "96D0E852D4A69D916C0C39BEAE5C6384"
+				"size" "FE8EE51F3C6CB8F394B9939C664B1225"
+				"download" "5755DF058F43852B32B5D1EF47A3D470"
 			}
 			"partner_nvidia"
 			{
@@ -411,9 +465,9 @@
 			}
 			"stable"
 			{
-				"gid" "4C20FC7B0605E512A9A795B1C2F5A932"
-				"size" "E0D5A78E2416846F1FE91DD76017887F"
-				"download" "A17919ADF3C9FCDD10BB7B82F1A33E3B"
+				"gid" "49DF8F8B98492B464CDB2FA4E2E53976"
+				"size" "980908860DE02C1C83C6AACE32146BA0"
+				"download" "8410A62EE15C7753FF7836311F2A7BDA"
 			}
 			"stable_compat"
 			{
@@ -429,9 +483,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "9A06CE02661B815F76B6E1B08C431AAF"
-				"size" "63A630A69DD96378580499467C40844C"
-				"download" "96B1AF2B08536C31970A4239CE2A92DD"
+				"gid" "8C24933F00AB0778460FF8BC55D95FA0"
+				"size" "11B51ED6A0F8C8E475D69855F2151FA4"
+				"download" "F2884D5F62F1857CFB6B7EF18352C461"
 			}
 			"stable_test"
 			{
@@ -452,24 +506,24 @@
 		{
 			"public"
 			{
-				"gid" "6505330434145275216"
-				"size" "63376850284"
-				"download" "61053772864"
+				"gid" "8532109172513209110"
+				"size" "63591703455"
+				"download" "61264067648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"latest"
 			{
-				"gid" "AA633F5E53AC6665451D8F8500108C18"
-				"size" "A0F1140A662F4237F3537401EDA424DD"
-				"download" "29FEB55749547D35F7D61E487BA25C6C"
+				"gid" "990959EED81577CC3EE6C1562D3D1685"
+				"size" "D40F779912DA9D0F39C9C0E4001E7056"
+				"download" "520DC270171324671D217DED8F3BA507"
 			}
 			"latest_test"
 			{
-				"gid" "2BDD7BBA878609F81B61904D897EF4CE"
-				"size" "640ADA934D4172C58D735A579B0CB328"
-				"download" "EB4DA143FF6430BE0B9EE250A7351698"
+				"gid" "15B2BDAB02423E93EB8FD2E8EFEC980B"
+				"size" "8DC5DE36CFB7C0393AD14A11C9D07856"
+				"download" "C84310C437A61AB790849F08045788D4"
 			}
 			"partner_amd"
 			{
@@ -479,9 +533,9 @@
 			}
 			"partner_nixxes"
 			{
-				"gid" "4D8C8FF5C03F919ED226C9C2D46BEF80"
-				"size" "761670EA9EB490BD92B73C882E0BCEC7"
-				"download" "1D7588800380D97185408832637C2005"
+				"gid" "DCC5CEC946173C73EF496FECACFE80EB"
+				"size" "C07AAE9AF9CD681E0E6EF2FC25399901"
+				"download" "D299F185DBD95AB17C35671EC62E1F0A"
 			}
 			"partner_nvidia"
 			{
@@ -509,9 +563,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "D29125593DC8077B92A53D78BC69A01C"
-				"size" "3C0B63659E13B8EB2B3F9727BAC193A8"
-				"download" "6312F40AD84F5DBE95843F6E7EB72BB8"
+				"gid" "7607759683EE5571EBE02E15FF1B3768"
+				"size" "4CDF5B3EFBACD406BE22F8DB5F15B040"
+				"download" "FEC92C02B073B45C20A05D47EA52B612"
 			}
 			"stable_test"
 			{
@@ -525,26 +579,26 @@
 	{
 		"public"
 		{
-			"buildid" "16015013"
-			"timeupdated" "1728730779"
+			"buildid" "16337265"
+			"timeupdated" "1731083426"
 		}
 		"latest"
 		{
-			"buildid" "16015013"
+			"buildid" "16351549"
 			"pwdrequired" "1"
-			"timeupdated" "1728680596"
+			"timeupdated" "1731144910"
 		}
 		"latest_csv"
 		{
-			"buildid" "16014833"
+			"buildid" "16337214"
 			"pwdrequired" "1"
-			"timeupdated" "1728679608"
+			"timeupdated" "1731042514"
 		}
 		"latest_test"
 		{
-			"buildid" "16014857"
+			"buildid" "16351491"
 			"pwdrequired" "1"
-			"timeupdated" "1728679715"
+			"timeupdated" "1731144658"
 		}
 		"partner_amd"
 		{
@@ -560,9 +614,9 @@
 		}
 		"partner_nixxes"
 		{
-			"buildid" "15634419"
+			"buildid" "16047877"
 			"pwdrequired" "1"
-			"timeupdated" "1725878987"
+			"timeupdated" "1728985837"
 		}
 		"partner_nvidia"
 		{
@@ -572,9 +626,9 @@
 		}
 		"stable"
 		{
-			"buildid" "15864448"
+			"buildid" "16205014"
 			"pwdrequired" "1"
-			"timeupdated" "1727578973"
+			"timeupdated" "1730113956"
 		}
 		"stable_compat"
 		{
@@ -590,9 +644,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16015013"
+			"buildid" "16337265"
 			"pwdrequired" "1"
-			"timeupdated" "1728719979"
+			"timeupdated" "1731056865"
 		}
 		"stable_test"
 		{
@@ -616,3 +670,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26120301"
+"_sha" "2fba4743e462173d5c7324eb06501c2c4af9c280"
+"_size" "13304"
