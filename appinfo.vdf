@@ -366,7 +366,7 @@
 		"19" "5179"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -381,15 +381,6 @@
 	"installdir" "Age of History 3"
 	"launch"
 	{
-		"0"
-		{
-			"executable" "aoh3.exe"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-			}
-		}
 		"1"
 		{
 			"executable" "Age of History 3.app"
@@ -398,6 +389,28 @@
 			{
 				"oslist" "macos"
 			}
+		}
+		"3"
+		{
+			"executable" "aoh3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "aoh3.jar"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "AoH3 - Run as JAR File"
+			}
+			"description" "AoH3 - Run as JAR File"
 		}
 	}
 }
@@ -424,9 +437,15 @@
 		{
 			"public"
 			{
-				"gid" "5552759548991272525"
-				"size" "863601860"
-				"download" "610068640"
+				"gid" "8988784493304029838"
+				"size" "913464840"
+				"download" "657018032"
+			}
+			"lwjgl3"
+			{
+				"gid" "8988784493304029838"
+				"size" "913464840"
+				"download" "657018032"
 			}
 		}
 	}
@@ -445,14 +464,26 @@
 				"size" "673085794"
 				"download" "615881856"
 			}
+			"lwjgl3"
+			{
+				"gid" "3876210720539566120"
+				"size" "673085794"
+				"download" "615881856"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16280821"
-			"timeupdated" "1730659600"
+			"buildid" "16348461"
+			"timeupdated" "1731110294"
+		}
+		"lwjgl3"
+		{
+			"buildid" "16348461"
+			"description" "LWJGL3"
+			"timeupdated" "1731151012"
 		}
 	}
 }
@@ -487,6 +518,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26028676"
-"_sha" "fd1a5e1fb69f6e9445299e52d35989e5d9531090"
-"_size" "7812"
+"_change_number" "26120903"
+"_sha" "2bbc4b2c1b736707a27207dd94e10e1bebc5ef20"
+"_size" "8361"
