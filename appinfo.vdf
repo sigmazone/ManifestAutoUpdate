@@ -1,0 +1,209 @@
+"appid" "2657050"
+"common"
+{
+	"name" "Teardown: Time Campers"
+	"type" "DLC"
+	"parent" "1167630"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"metacritic_name" "Teardown"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1699451605"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tuxedo Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tuxedo Labs"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Saber Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1700053055"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/teardown\?ftag=MCD-06-10aaa1f"
+	"gameid" "2657050"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "492"
+		"3" "599"
+	}
+	"review_score" "5"
+	"review_percentage" "49"
+}
+"extended"
+{
+	"dlcforappid" "1167630"
+	"mustownapptopurchase" "1167630"
+	"developer" "Tuxedo Labs"
+	"publisher" "Tuxedo Labs"
+	"homepage" "http://teardowngame.com"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2657050"
+	{
+		"dlcappid" "2657050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2321605783739972509"
+				"size" "1007400728"
+				"download" "748612832"
+			}
+			"experimental"
+			{
+				"gid" "8020159738882128307"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc-test"
+			{
+				"gid" "99347C7EA5373D1A5FD153BA4E93A5BA"
+				"size" "CE22068FA528C4E74D18011194E97AE5"
+				"download" "8FBC49669A19CDD12316D55B167BE86F"
+			}
+			"kindergarten"
+			{
+				"gid" "7F4D4D4497D1ACE446BED2FE41914924"
+				"size" "BD11EF445C1032DF3CDAE7BF330EB790"
+				"download" "BD11EF445C1032DF3CDAE7BF330EB790"
+			}
+			"press_branch"
+			{
+				"gid" "D0D4092AB4180FC38FBE8DB245E5A824"
+				"size" "370FB042F75006E732CF5F5EC35DBED9"
+				"download" "370FB042F75006E732CF5F5EC35DBED9"
+			}
+			"summercamp"
+			{
+				"gid" "37B210D2385C527CEFA7EDE8090E1C25"
+				"size" "9377ECD7D4AECFCA1094871584CE8CA2"
+				"download" "496E62909973606B41AFBF7CA7C696CD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15982418"
+			"timeupdated" "1728561660"
+		}
+		"experimental"
+		{
+			"buildid" "13633723"
+			"description" "The latest features and fixes"
+			"timeupdated" "1709564207"
+		}
+		"dlc-test"
+		{
+			"buildid" "15982418"
+			"pwdrequired" "1"
+			"timeupdated" "1728487339"
+		}
+		"kindergarten"
+		{
+			"buildid" "16001034"
+			"pwdrequired" "1"
+			"timeupdated" "1728600010"
+		}
+		"press_branch"
+		{
+			"buildid" "14546176"
+			"pwdrequired" "1"
+			"timeupdated" "1717066461"
+		}
+		"summercamp"
+		{
+			"buildid" "15986779"
+			"pwdrequired" "1"
+			"timeupdated" "1728513375"
+		}
+	}
+}
