@@ -114,6 +114,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_28" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -155,7 +156,7 @@
 		"19" "1100689"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -192,9 +193,9 @@
 		{
 			"public"
 			{
-				"gid" "4150081951569431951"
-				"size" "178032172"
-				"download" "118583488"
+				"gid" "128928994982338366"
+				"size" "180382585"
+				"download" "120534656"
 			}
 		}
 	}
@@ -202,12 +203,32 @@
 	{
 		"public"
 		{
-			"buildid" "16160292"
-			"timeupdated" "1729744496"
+			"buildid" "16332049"
+			"timeupdated" "1731006471"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "iZolated"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25870192"
-"_sha" "ccac729d55aae201c66a75c886c47262ca95c49d"
-"_size" "3204"
+"_change_number" "26095220"
+"_sha" "ad5b64d09279313a19662a1d885a6f8a9962a31a"
+"_size" "3497"
