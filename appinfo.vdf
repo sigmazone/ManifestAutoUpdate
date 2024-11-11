@@ -64,7 +64,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "70fb89e8fb4dc0d10c8c996ea25381dbcaa720d6/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -124,7 +124,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1673971197"
+	"store_asset_mtime" "1726144690"
 	"associations"
 	{
 		"0"
@@ -149,7 +149,6 @@
 		"0" "23"
 		"1" "28"
 		"2" "2"
-		"3" "70"
 	}
 	"category"
 	{
@@ -166,19 +165,20 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1673970872"
+	"steam_release_date" "1730819138"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1254320"
 	"store_tags"
 	{
 		"0" "4328"
-		"1" "3834"
-		"2" "220585"
+		"1" "220585"
+		"2" "3834"
 		"3" "9157"
 		"4" "1643"
 		"5" "12472"
-		"6" "1662"
-		"7" "7332"
+		"6" "7332"
+		"7" "1662"
 		"8" "4026"
 		"9" "4695"
 		"10" "1676"
@@ -188,8 +188,8 @@
 		"14" "3835"
 		"15" "6426"
 		"16" "599"
-		"17" "4175"
-		"18" "4166"
+		"17" "4166"
+		"18" "4175"
 		"19" "5716"
 	}
 	"review_score" "5"
@@ -234,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "3593258862978820753"
-				"size" "4619492035"
-				"download" "1850019632"
+				"gid" "5002436933597343579"
+				"size" "4946442617"
+				"download" "2099768864"
 			}
 		}
 		"encryptedmanifests"
@@ -309,15 +309,15 @@
 			}
 			"experimental"
 			{
-				"gid" "3F517D3783BA8D155E16AF4B3AD68E3F"
-				"size" "527BD861EF5A6CF4527FC46D2B739486"
-				"download" "BF53FCDBE392E01A9B0747B387E20F64"
+				"gid" "C7BB6E89AEEFB2341983A6556A932EAA"
+				"size" "E4A70E7CDF624BC9BECC9953505B1441"
+				"download" "AC1BC2304C87D0EBBF4528D58C31A3A3"
 			}
 			"unstable"
 			{
-				"gid" "7CB5CC6E44A96127DFCEF8E629263B45"
-				"size" "092EB68CC30ED0EBED23859AB1494865"
-				"download" "7D206BC16D1B1D36044FD55AD5DC3F17"
+				"gid" "1B727C62BA1F2A988CCEB204B3FA9D51"
+				"size" "7764CD33B7EEA7D64062EDD2BF25AE6D"
+				"download" "A3068073B4CC45D740C16C4EAF9FFB7F"
 			}
 		}
 	}
@@ -325,8 +325,8 @@
 	{
 		"public"
 		{
-			"buildid" "14288949"
-			"timeupdated" "1715085590"
+			"buildid" "16328515"
+			"timeupdated" "1731073712"
 		}
 		"build_crash_testing"
 		{
@@ -396,15 +396,78 @@
 		}
 		"experimental"
 		{
-			"buildid" "14705666"
+			"buildid" "16328515"
 			"pwdrequired" "1"
-			"timeupdated" "1718283425"
+			"timeupdated" "1730988571"
 		}
 		"unstable"
 		{
-			"buildid" "14288949"
+			"buildid" "16301144"
 			"pwdrequired" "1"
-			"timeupdated" "1715079939"
+			"timeupdated" "1730818254"
 		}
 	}
 }
+"ufs"
+{
+	"quota" "524288000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RocketFlair/Surviving the Abyss/Saves"
+			"pattern" "*.gd"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RocketFlair/Surviving the Abyss/AutoSave"
+			"pattern" "*.gd"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RocketFlair/Surviving the Abyss/AutoSave"
+			"pattern" "*.gg"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "RocketFlair/Surviving the Abyss/Saves"
+					"replace" "unity.RocketFlair.Surviving the Abyss.Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "RocketFlair/Surviving the Abyss/Saves"
+					"replace" ".config/unity3d/RocketFlair/Surviving the Abyss/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26127705"
+"_sha" "aa9e57b559780f0d72ae5af2d594dbd9c420220c"
+"_size" "9333"
