@@ -104,6 +104,40 @@
 			"height_pct" "50.37842951750237"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.22479182021619"
+				"height_pct" "50.37842951750237"
+			}
+		}
+	}
 	"store_asset_mtime" "1662547339"
 	"associations"
 	{
@@ -275,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "2174999903413655731"
-				"size" "28855130938"
-				"download" "28142738992"
+				"gid" "3627378501085364152"
+				"size" "28857793257"
+				"download" "28143279136"
 			}
 		}
 		"encryptedmanifests"
@@ -311,12 +345,6 @@
 				"gid" "F6863EAE3E2E053751AD4593CFD5FF77"
 				"size" "82AD50A2F9D80DAF7DFD00640B8A015F"
 				"download" "D4BEA451AE3B333352C934E9F15854C9"
-			}
-			"devbranch"
-			{
-				"gid" "B98545529B3B915D95630CCA794DA251"
-				"size" "58DC11B99CCA4CFACAF9D255806E6D37"
-				"download" "0E3F0F49220DB68C63BE966323841BC4"
 			}
 			"eostest"
 			{
@@ -384,17 +412,23 @@
 				"size" "13C9269B47CA90E1FEB8690FCF7AA073"
 				"download" "0A783159F6AC1019C07AC9C9AF3B5744"
 			}
-			"testbranch"
-			{
-				"gid" "FDC8CE14ECDF859F14AAEB0B8D0F36E4"
-				"size" "D8B715201E8C9C1815562D5F82E524CE"
-				"download" "59EE51CA7806116D2DF271E42FC0B362"
-			}
 			"testcompatibility"
 			{
 				"gid" "58467684513BEEB2906F9A33AB378B76"
 				"size" "DD921439D608682D31B2C5E2BDB3D673"
 				"download" "5A1C2B8BAC6D70C6D139D0A2B50F124E"
+			}
+			"devbranch"
+			{
+				"gid" "2AE0447C8249F12EF2C0B848BF26E00A"
+				"size" "A85DDCD8C8513EF82E4A4567183256E0"
+				"download" "5620A40304E50ABCCE8677B2A1C672C8"
+			}
+			"testbranch"
+			{
+				"gid" "66364DCFE61FD1B69AABF88FEBBBDE55"
+				"size" "3D07295FE44F55CC24DCC99B20D74B38"
+				"download" "BD8E58E3903F62EAA16FD154E5FB2358"
 			}
 		}
 	}
@@ -402,8 +436,8 @@
 	{
 		"public"
 		{
-			"buildid" "12648723"
-			"timeupdated" "1699459460"
+			"buildid" "16100583"
+			"timeupdated" "1731319770"
 		}
 		"agerating"
 		{
@@ -434,12 +468,6 @@
 			"buildid" "8955932"
 			"pwdrequired" "1"
 			"timeupdated" "1655460498"
-		}
-		"devbranch"
-		{
-			"buildid" "9937426"
-			"pwdrequired" "1"
-			"timeupdated" "1668477914"
 		}
 		"eostest"
 		{
@@ -507,17 +535,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1635850465"
 		}
-		"testbranch"
-		{
-			"buildid" "13463621"
-			"pwdrequired" "1"
-			"timeupdated" "1707993992"
-		}
 		"testcompatibility"
 		{
 			"buildid" "6680444"
 			"pwdrequired" "1"
 			"timeupdated" "1620723111"
+		}
+		"devbranch"
+		{
+			"buildid" "15796129"
+			"pwdrequired" "1"
+			"timeupdated" "1727102515"
+		}
+		"testbranch"
+		{
+			"buildid" "16100583"
+			"pwdrequired" "1"
+			"timeupdated" "1729278889"
 		}
 	}
 }
@@ -536,3 +570,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26137874"
+"_sha" "69c2fddf1c82c1a02155d51ffa565fbd8215e35b"
+"_size" "11877"
