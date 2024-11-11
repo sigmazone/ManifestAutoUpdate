@@ -32,15 +32,35 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1692921600"
-		"tested_build_id" "11936716"
+		"category" "2"
+		"test_timestamp" "1728345600"
+		"tested_build_id" "15186815"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -49,18 +69,19 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
-			"non_deck_display_glyphs" "0"
+			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-2RC"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "5293f015ef5f2c1461a7be696b5cc4d195451505/capsule_231x87.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 		"tchinese" "capsule_231x87_tchinese.jpg"
 	}
@@ -83,7 +104,64 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1719478426"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731082350"
 	"associations"
 	{
 		"0"
@@ -131,9 +209,9 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_1" "1"
 		"category_9" "1"
 		"category_38" "1"
-		"category_1" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -217,14 +295,14 @@
 		"3" "3843"
 		"4" "3834"
 		"5" "12472"
-		"6" "4175"
-		"7" "1643"
+		"6" "1643"
+		"7" "4175"
 		"8" "3839"
 		"9" "492"
-		"10" "1654"
-		"11" "597"
-		"12" "3810"
-		"13" "19"
+		"10" "19"
+		"11" "1654"
+		"12" "597"
+		"13" "3810"
 		"14" "6276"
 		"15" "4166"
 		"16" "5350"
@@ -240,7 +318,7 @@
 	"developer" "Games Incubator"
 	"publisher" "Games Incubator"
 	"homepage" "https://games-i.com/"
-	"listofdlc" "2504670,2628300,2909000"
+	"listofdlc" "2504670,2628300,2909000,3142330"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -251,7 +329,8 @@
 		"0"
 		{
 			"executable" "ShipGraveyard2.exe"
-			"type" "option1"
+			"arguments" "-dx11"
+			"type" "option2"
 			"config"
 			{
 				"oslist" "windows"
@@ -265,7 +344,8 @@
 		"1"
 		{
 			"executable" "ShipGraveyard2.exe"
-			"type" "option1"
+			"arguments" "-dx12"
+			"type" "option3"
 			"config"
 			{
 				"oslist" "windows"
@@ -360,42 +440,42 @@
 		{
 			"public"
 			{
-				"gid" "435264114173938564"
-				"size" "12776728190"
-				"download" "12464267168"
+				"gid" "7730353178739072505"
+				"size" "11898957991"
+				"download" "11611865056"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development-build"
 			{
-				"gid" "70D0B566EBF3644D1150DB3C5991E306"
-				"size" "8DE00C9CF7F918B3FD13794AD4D2CDE6"
-				"download" "07DDDED927590C0119D0433FCA253BF6"
+				"gid" "29096B95500ADE5A4E23E9231526F21E"
+				"size" "6ABD31489C832C5C8604562DDB7FD24B"
+				"download" "4FE86897902782268F00E1AE4D4A5DE3"
 			}
 			"multiplayer-testing"
 			{
-				"gid" "5EEC4252ABF6A62316724CBA52FEBE87"
-				"size" "05C5A483F50AF434F0C44AE4D2293F2A"
-				"download" "0CA33D54591A634C82FF741118069BBC"
+				"gid" "7A57DA43C13A7CE6AF12322599549D67"
+				"size" "536B89F0839D97F33B958A4CAB8D4CB6"
+				"download" "CB0D50B229A83B629B90E80D19EBE405"
 			}
 			"testing"
 			{
-				"gid" "3EB60EA21D7AAC39FA83993EFE8F8970"
-				"size" "EA1D7FA61C5E82514CCD80CC2564A829"
-				"download" "42BA0FBDD9667CBB2ACC9AAF78FA95A7"
+				"gid" "73C3BDB2A2483F3484392F098E75AF8A"
+				"size" "988707063DD20944101F9B4EBD7B249B"
+				"download" "1B7F0E1275869651AC0C4AEF64B4DF34"
 			}
 			"testowe_buildy"
 			{
-				"gid" "5D91057DFC5CB5D3194A7C62CB5BB543"
-				"size" "97CA9E2105C603370956C834DBA509F0"
-				"download" "5E70D7D0CB5CC4C97D8AE096CF7D0C00"
+				"gid" "53B7437683651DD7980BA7B82076CF0A"
+				"size" "32D1824F8AE8B75520D7C1DFF6C2E10F"
+				"download" "BD7276397B3C77AFF3EB9B0BD94BA649"
 			}
 			"unstable-default"
 			{
-				"gid" "5EE8FD37AE85A78CD3D8CC6363EAB201"
-				"size" "DF409863ECC1B82060532AB157184F8E"
-				"download" "2A21D00CD765936AE5FCDC0E0A1A1BDF"
+				"gid" "77E3ACCABFD4412013EB364CDB505259"
+				"size" "BF38520D8C0C31DB1DE8F3D72CBC4D3F"
+				"download" "0FC08E7C07D44A4435A799EFCB98664C"
 			}
 		}
 	}
@@ -407,38 +487,38 @@
 	{
 		"public"
 		{
-			"buildid" "15186815"
-			"timeupdated" "1722336725"
+			"buildid" "16342083"
+			"timeupdated" "1731080479"
 		}
 		"development-build"
 		{
-			"buildid" "15125205"
+			"buildid" "16343108"
 			"pwdrequired" "1"
-			"timeupdated" "1721742479"
+			"timeupdated" "1731076852"
 		}
 		"multiplayer-testing"
 		{
-			"buildid" "15185305"
+			"buildid" "16344113"
 			"pwdrequired" "1"
-			"timeupdated" "1722251028"
+			"timeupdated" "1731082031"
 		}
 		"testing"
 		{
-			"buildid" "15185305"
+			"buildid" "16329007"
 			"pwdrequired" "1"
-			"timeupdated" "1722251037"
+			"timeupdated" "1730991283"
 		}
 		"testowe_buildy"
 		{
-			"buildid" "15185416"
+			"buildid" "16342083"
 			"pwdrequired" "1"
-			"timeupdated" "1722252781"
+			"timeupdated" "1731071716"
 		}
 		"unstable-default"
 		{
-			"buildid" "15186815"
+			"buildid" "16329672"
 			"pwdrequired" "1"
-			"timeupdated" "1722260971"
+			"timeupdated" "1730994852"
 		}
 	}
 }
@@ -462,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24570754"
-"_sha" "4e3a6cdedf531a23a077854ed32f383290e92d86"
-"_size" "8112"
+"_change_number" "26110912"
+"_sha" "24ef01ba875a52a31288e075f9f28c03381e3177"
+"_size" "9897"
