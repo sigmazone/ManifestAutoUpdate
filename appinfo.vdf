@@ -189,6 +189,7 @@
 		"0"
 		{
 			"executable" "BattleTalent.exe"
+			"arguments" "-Loader 1 -VRmode Steam"
 			"type" "vr"
 			"config"
 			{
@@ -196,14 +197,14 @@
 			}
 			"description_loc"
 			{
-				"english" "Steam VR"
+				"english" "SteamVR"
 			}
-			"description" "Steam VR"
+			"description" "SteamVR"
 		}
 		"1"
 		{
 			"executable" "BattleTalent.exe"
-			"arguments" "-VRmode Oculus"
+			"arguments" "-Loader 0 -VRmode Oculus"
 			"type" "othervr"
 			"config"
 			{
@@ -214,20 +215,6 @@
 				"english" "Oculus"
 			}
 			"description" "Oculus"
-		}
-		"2"
-		{
-			"executable" "BattleTalent.exe"
-			"arguments" "-VRmode WMR"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Windows Mixed Reality"
-			}
-			"description" "Windows Mixed Reality"
 		}
 		"3"
 		{
@@ -246,16 +233,16 @@
 		"4"
 		{
 			"executable" "BattleTalent.exe"
-			"arguments" "-PICO"
+			"arguments" "-Loader 1 -VRmode Steam -PICO"
 			"config"
 			{
 				"oslist" "windows"
 			}
 			"description_loc"
 			{
-				"english" "PICO Streamming with OpenXR"
+				"english" "PICO Streamming with OpenVR"
 			}
-			"description" "PICO Streamming with OpenXR"
+			"description" "PICO Streamming with OpenVR"
 		}
 	}
 }
@@ -272,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "7239081401790594205"
-				"size" "9346328652"
-				"download" "3814849616"
+				"gid" "2167053652829912801"
+				"size" "9359272826"
+				"download" "3819326448"
 			}
 			"v11p0"
 			{
@@ -302,15 +289,15 @@
 			}
 			"temp"
 			{
-				"gid" "7239081401790594205"
-				"size" "9346328652"
-				"download" "3814849616"
+				"gid" "2167053652829912801"
+				"size" "9359272826"
+				"download" "3819326448"
 			}
 			"test"
 			{
-				"gid" "7239081401790594205"
-				"size" "9346328652"
-				"download" "3814849616"
+				"gid" "2167053652829912801"
+				"size" "9359272826"
+				"download" "3819326448"
 			}
 			"v11p7"
 			{
@@ -329,15 +316,15 @@
 		{
 			"deve"
 			{
-				"gid" "EC809D344586026F10818913B51D5732"
-				"size" "D3258BA81E42FA62D9EC373678066FFF"
-				"download" "6C5D884ABEF7AD49C049F94927649A98"
+				"gid" "75E5920BAAE4AE12AFE2FD9586EFBDB4"
+				"size" "8AE0CB29F692BD918BF0C2337BA140FC"
+				"download" "7C6977A1B253BED1D642402C7FAA19DA"
 			}
 			"development"
 			{
-				"gid" "04B4ED34FBE0104EBFB93BA73D103C4F"
-				"size" "FBD8886EB21BB80003CE5FAC6EAD743D"
-				"download" "9B5E451D3BC46CBFF4D7A936F88C0F3F"
+				"gid" "EE38D1F8FC8CFDE4851F3402A64EE561"
+				"size" "AFDF0437CBEFB25B99ED60E004D49BAD"
+				"download" "8B9C1AEFC5EFC25E1C964ECCCD4DE2DF"
 			}
 		}
 	}
@@ -345,8 +332,8 @@
 	{
 		"public"
 		{
-			"buildid" "16188903"
-			"timeupdated" "1730163203"
+			"buildid" "16351823"
+			"timeupdated" "1731149418"
 		}
 		"v11p0"
 		{
@@ -368,15 +355,15 @@
 		}
 		"deve"
 		{
-			"buildid" "16188903"
+			"buildid" "16351823"
 			"pwdrequired" "1"
-			"timeupdated" "1729917231"
+			"timeupdated" "1731149332"
 		}
 		"development"
 		{
-			"buildid" "16188903"
+			"buildid" "16351823"
 			"pwdrequired" "1"
-			"timeupdated" "1730163167"
+			"timeupdated" "1731149350"
 		}
 		"last_version"
 		{
@@ -386,15 +373,15 @@
 		}
 		"temp"
 		{
-			"buildid" "16188903"
+			"buildid" "16351823"
 			"description" "just used for bug fixed"
-			"timeupdated" "1730163177"
+			"timeupdated" "1731149361"
 		}
 		"test"
 		{
-			"buildid" "16188903"
+			"buildid" "16351823"
 			"description" "test"
-			"timeupdated" "1730163158"
+			"timeupdated" "1731149390"
 		}
 		"v11p7"
 		{
@@ -411,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25941693"
-"_sha" "2a15a1b0d4f9acaae0e74481ae87448e2de8db1a"
-"_size" "7063"
+"_change_number" "26120940"
+"_sha" "81ca85e33c68a434f1791cae9e98265b1062f826"
+"_size" "6886"
