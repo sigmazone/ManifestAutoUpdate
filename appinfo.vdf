@@ -361,12 +361,12 @@
 		"14" "8122"
 		"15" "1669"
 		"16" "4182"
-		"17" "1643"
-		"18" "4175"
+		"17" "4175"
+		"18" "1643"
 		"19" "5179"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -390,18 +390,10 @@
 				"oslist" "macos"
 			}
 		}
-		"3"
-		{
-			"executable" "aoh3.exe"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-			}
-		}
 		"4"
 		{
 			"executable" "aoh3.jar"
+			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
@@ -411,6 +403,20 @@
 				"english" "AoH3 - Run as JAR File"
 			}
 			"description" "AoH3 - Run as JAR File"
+		}
+		"5"
+		{
+			"executable" "jre\\bin\\java.exe"
+			"arguments" "-jar aoh3.jar"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "AoH3 - Run in Java 2"
+			}
+			"description" "AoH3 - Run in Java 2"
 		}
 	}
 }
@@ -437,9 +443,9 @@
 		{
 			"public"
 			{
-				"gid" "8988784493304029838"
-				"size" "913464840"
-				"download" "657018032"
+				"gid" "7664837297047986094"
+				"size" "861847235"
+				"download" "608450944"
 			}
 			"lwjgl3"
 			{
@@ -476,8 +482,8 @@
 	{
 		"public"
 		{
-			"buildid" "16348461"
-			"timeupdated" "1731110294"
+			"buildid" "16352972"
+			"timeupdated" "1731167170"
 		}
 		"lwjgl3"
 		{
@@ -518,6 +524,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26120903"
-"_sha" "2bbc4b2c1b736707a27207dd94e10e1bebc5ef20"
-"_size" "8361"
+"_change_number" "26128101"
+"_sha" "879a7eec63d3173e76fecb6ad0fd621428d988a2"
+"_size" "8519"
