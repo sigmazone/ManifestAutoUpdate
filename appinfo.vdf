@@ -1,0 +1,452 @@
+"appid" "1134100"
+"common"
+{
+	"name" "Frozenheim"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "8b5b7ac33cdd82d002f21c10f5d96093f304e65d"
+	"clienttga" "e12fb4fab6568f09edcdce61d1d576d677792837"
+	"icon" "3e2696712f763be6471ae6747285f6b4b0f79ab6"
+	"logo" "c191ec5b3bc85e16c984920a8f7434b73b2dd8c2"
+	"logo_small" "c191ec5b3bc85e16c984920a8f7434b73b2dd8c2_thumb"
+	"name_localized"
+	{
+		"schinese" "维京之城"
+		"tchinese" "維京之城"
+	}
+	"languages"
+	{
+		"english" "1"
+		"tchinese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692921600"
+		"tested_build_id" "8986882"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Frozenheim"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1709773069"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Paranoid Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Untold Tales"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Hyperstrange"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Gamersky Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Untold Tales"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_22" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1655391654"
+	"metacritic_score" "67"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/frozenheim\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1134100"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "7332"
+		"2" "1676"
+		"3" "1678"
+		"4" "4172"
+		"5" "3859"
+		"6" "4364"
+		"7" "3813"
+		"8" "4994"
+		"9" "12472"
+		"10" "4191"
+		"11" "11634"
+		"12" "4182"
+		"13" "4252"
+		"14" "1684"
+		"15" "3993"
+		"16" "4667"
+		"17" "4345"
+		"18" "3834"
+		"19" "220585"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Paranoid Interactive"
+	"publisher" "Untold Tales"
+	"homepage" "https://paranoidinteractive.net/"
+}
+"config"
+{
+	"installdir" "Frozenheim"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Frozenheim.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1134101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4517698741297305113"
+				"size" "10699800133"
+				"download" "3323430064"
+			}
+			"beta"
+			{
+				"gid" "4517698741297305113"
+				"size" "10699800133"
+				"download" "3323430064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "CC984C71FA63013973A332918248D0F2"
+				"size" "BC24BA6465B23BAB0F3E748690CC2C2B"
+				"download" "EA882FFA50DA41E744EF8D077113930B"
+			}
+			"laststable"
+			{
+				"gid" "992A6D5A82C276B5C549E199786F78CF"
+				"size" "D1125501F68531EB97282E0D8E412795"
+				"download" "FEBC527FD68EE46F0C6F36E3B9AE4799"
+			}
+			"press"
+			{
+				"gid" "BFD4586C827FDAF9B2DB155EFCF005F1"
+				"size" "8C2D1F9FA2B8BA06B05B1794E78A80CB"
+				"download" "8B71F7D11E1F4BB2E2F03B541F32988F"
+			}
+			"publicbeta"
+			{
+				"gid" "C2FD211BE71448F5D13C9F1EBE63CCEC"
+				"size" "E49C8140923023F22505DA9BC307F60B"
+				"download" "E88B15A20D277C3C2138087C2105F6EF"
+			}
+			"shipping"
+			{
+				"gid" "84376CBB81324BB1F35F5AD2CE37E563"
+				"size" "BB5879740536E627056058D412D3FE75"
+				"download" "1FD633D54C2C2D0054EA6F2EB5FD2818"
+			}
+			"testing"
+			{
+				"gid" "EF53A2A34E6DA37D209B52D15E081449"
+				"size" "BD3EC9EDE3A4BA7331E74C39308D6F8F"
+				"download" "09C85A335933CEE96097649ED52D27E5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16368968"
+			"timeupdated" "1731353569"
+		}
+		"debug"
+		{
+			"buildid" "11242878"
+			"pwdrequired" "1"
+			"timeupdated" "1684234867"
+		}
+		"beta"
+		{
+			"buildid" "16368968"
+			"description" "Beta build"
+			"timeupdated" "1731350962"
+		}
+		"laststable"
+		{
+			"buildid" "16172215"
+			"pwdrequired" "1"
+			"timeupdated" "1730017496"
+		}
+		"press"
+		{
+			"buildid" "16172215"
+			"pwdrequired" "1"
+			"timeupdated" "1730017482"
+		}
+		"publicbeta"
+		{
+			"buildid" "16172215"
+			"pwdrequired" "1"
+			"timeupdated" "1730017464"
+		}
+		"shipping"
+		{
+			"buildid" "16172215"
+			"pwdrequired" "1"
+			"timeupdated" "1730017509"
+		}
+		"testing"
+		{
+			"buildid" "16368968"
+			"pwdrequired" "1"
+			"timeupdated" "1731350030"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "66"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Frozenheim/Saved/SaveGames"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26145689"
+"_sha" "ed5a240be2e0a8e52b328748c950444b531fcb4d"
+"_size" "8628"
