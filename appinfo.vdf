@@ -1,0 +1,202 @@
+"appid" "1770480"
+"common"
+{
+	"name" "VTOL VR: AH-94 Attack Helicopter"
+	"type" "DLC"
+	"parent" "667970"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1640140955"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Boundless Dynamics, LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Boundless Dynamics, LLC"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1641502936"
+	"gameid" "1770480"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "599"
+		"2" "19"
+		"3" "21978"
+		"4" "15045"
+		"5" "3859"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"dlcforappid" "667970"
+	"mustownapptopurchase" "667970"
+	"developer" "Boundless Dynamics, LLC"
+	"publisher" "Boundless Dynamics, LLC"
+	"homepage" "http://vtolvr.bdynamicsstudio.com"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1770480"
+	{
+		"dlcappid" "1770480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2836902461265788005"
+				"size" "0"
+				"download" "0"
+			}
+			"v1.8.7f1"
+			{
+				"gid" "2836902461265788005"
+				"size" "0"
+				"download" "0"
+			}
+			"public_testing"
+			{
+				"gid" "2836902461265788005"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ah94devtest"
+			{
+				"gid" "8C70A9B016A4A427F8C4EF9585D7EC35"
+				"size" "41DAC722A4B39F9D5BD5B783D11FB291"
+				"download" "41DAC722A4B39F9D5BD5B783D11FB291"
+			}
+			"test_pilot"
+			{
+				"gid" "2CB85EB60FA33224FFB65D2422384767"
+				"size" "4DB8070AF61E940F1E2E1B8D1F79BA95"
+				"download" "4DB8070AF61E940F1E2E1B8D1F79BA95"
+			}
+		}
+	}
+	"1770481"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3091969060344894591"
+				"size" "57100286"
+				"download" "57695696"
+			}
+			"v1.8.7f1"
+			{
+				"gid" "2181872238659700356"
+				"size" "52762984"
+				"download" "53300176"
+			}
+			"public_testing"
+			{
+				"gid" "3091969060344894591"
+				"size" "57100286"
+				"download" "57695696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ah94devtest"
+			{
+				"gid" "FD753E98EA1AA8A03A1D233805C85D50"
+				"size" "02ABBA630326072901D8C1492C42E23B"
+				"download" "7B28B64E712FFED22627ACF27C5C3ABD"
+			}
+			"test_pilot"
+			{
+				"gid" "AB4E3146CA236339D03D6713191DCD78"
+				"size" "7019B31BBAC0391F46FE99FFE9E5BC32"
+				"download" "CAA4B5EC10D4E316727EFC30EEE67670"
+			}
+		}
+		"dlcappid" "1770480"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16254738"
+			"timeupdated" "1731339216"
+		}
+		"ah94devtest"
+		{
+			"buildid" "13862023"
+			"pwdrequired" "1"
+			"timeupdated" "1711488732"
+		}
+		"v1.8.7f1"
+		{
+			"buildid" "12821115"
+			"description" "old version"
+			"timeupdated" "1711503184"
+		}
+		"public_testing"
+		{
+			"buildid" "16254738"
+			"description" "public testing"
+			"timeupdated" "1730394365"
+		}
+		"test_pilot"
+		{
+			"buildid" "14619130"
+			"pwdrequired" "1"
+			"timeupdated" "1717630523"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26142277"
+"_sha" "e976eb9d946ab98c161f2c59a89ae8341feec84c"
+"_size" "3563"
