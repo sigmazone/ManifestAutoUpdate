@@ -1,0 +1,140 @@
+"appid" "512580"
+"common"
+{
+	"name" "N++ Demo"
+	"section_type" "ownersonly"
+	"type" "Demo"
+	"parent" "230270"
+	"releasestate" "unavailable"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "f6c0225991ba0f1ba0f17713ac737e063f8b9af5"
+	"clienttga" "599f6ed4b683bf7df0422f8f5a6547b3507008e8"
+	"icon" "bc4c1294fd84a6c2f6c3c105a71a658731f15d90"
+	"associations"
+	{
+	}
+	"gameid" "512580"
+	"exfgls" "6"
+}
+"extended"
+{
+	"demoofappid" "230270"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "N++"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "N++.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "N++.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"512581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1612154204186094893"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "18EC32011C760E128707D84531A1E26D"
+				"size" "6D1A758561253F1C8A34FC0541F79A3E"
+				"download" "76FC4EF47A6A9334F58C9F3A6D355322"
+			}
+		}
+	}
+	"512582"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "F0BC937099CD165C4317D66FC7A39F8E"
+				"size" "7AE2286CE39A3EB3572DF4330411B2FF"
+				"download" "5DA48C06D5F3CFBDB36B5611001256F0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1306702"
+			"timeupdated" "1472514074"
+		}
+		"test"
+		{
+			"buildid" "1585717"
+			"pwdrequired" "1"
+			"timeupdated" "1485187670"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "3145728"
+	"maxnumfiles" "1"
+	"appidredirect" "230270"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "7f23e0345e104c8c29b01ca2cc4c8975e57d35dd"
+"_size" "2061"
