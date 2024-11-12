@@ -1,0 +1,613 @@
+"appid" "291550"
+"common"
+{
+	"name" "Brawlhalla"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"clienticon" "fd85dd54100066873d8a3f910e540ccaa7053ddd"
+	"clienttga" "635b5cc136cbf738411a2c7ff7a0de73ab438f8b"
+	"icon" "c43fac31b8bf8821764603a14d09412bc3d45f66"
+	"logo" "3859e079750d8ecdcdc31e6c4ef6fc87a8098c42"
+	"logo_small" "3859e079750d8ecdcdc31e6c4ef6fc87a8098c42_thumb"
+	"exfgls" "1"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1655424000"
+		"tested_build_id" "8824903"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Brawlhalla"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "93430fecf95b0eefb413eb77eafdced1c5c5b520/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.91966073615945"
+			"height_pct" "97.56944444444444"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.91966073615945"
+				"height_pct" "97.56944444444444"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1727277707"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blue Mammoth Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ubisoft"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_24" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_27" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1508223600"
+	"steam_release_date" "1508259660"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "291550"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "3859"
+		"2" "1743"
+		"3" "4736"
+		"4" "5379"
+		"5" "597"
+		"6" "7368"
+		"7" "1685"
+		"8" "7481"
+		"9" "1625"
+		"10" "19"
+		"11" "3843"
+		"12" "1684"
+		"13" "3841"
+		"14" "4840"
+		"15" "5350"
+		"16" "5055"
+		"17" "4195"
+		"18" "4182"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"isfreeapp" "1"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Blue Mammoth Games"
+	"publisher" "Ubisoft"
+	"homepage" "http://www.brawlhalla.com"
+	"listofdlc" "297630,298640,298641,387020,389720,462190,554950,636900,682870,742720,802910,847210,881480,941100,953450,1180580,1235280,1268560,1268561,1353520,1353521,1353522,1382220,1492700,1492701,1589030,1649230,1691670,1712220,1774370,1837830,1844960,1920300,2013950,2073080,2109890,2172170,2261790,2261840,2338560,2493440,2517370,2570010,2632670,2781890,2855410,2855420,2855430,2855440,2974360"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Brawlhalla"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Brawlhalla.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Brawlhalla.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1912387928"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"291551"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3281079859603385249"
+				"size" "1173519985"
+				"download" "1115367424"
+			}
+			"32bit-windows"
+			{
+				"gid" "7593798587044095292"
+				"size" "1169110449"
+				"download" "1117051504"
+			}
+			"tech-test"
+			{
+				"gid" "3281079859603385249"
+				"size" "1173519985"
+				"download" "1115367424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agent"
+			{
+				"gid" "EE19C2939B131D2AAB30EA9173E47E78"
+				"size" "AB235509E0AD0091636C3A38113667AB"
+				"download" "CABE1BE6F80FB2937A4F59DF506822DF"
+			}
+			"certification"
+			{
+				"gid" "94D82DE3EAEF1F2DF48F3D60B00393D9"
+				"size" "EF64D1A9DDA4E1C63907E2805267A913"
+				"download" "AEDC3224B48C8BC4F49108C8642168AA"
+			}
+			"certification-32bit-windows"
+			{
+				"gid" "A94A238430FB875C30895B80377F0884"
+				"size" "4126C195803F3E786B597B03F3A5F3F7"
+				"download" "D94A7A583007345931DF4457167ACD7B"
+			}
+			"daily"
+			{
+				"gid" "185F654EA6F7901BE03B8CC56C0C1561"
+				"size" "663349D9E83CE480AD2E765F117DF69E"
+				"download" "E9AC6FD9FD9309F5906D3D557DF928DC"
+			}
+			"fleet"
+			{
+				"gid" "C0F70370E4B2D43F649BDBAAFDA611C2"
+				"size" "4612C7132D067D4D0D76503A5E7C6BDA"
+				"download" "F2E52AD4B7528534811F69A681B18311"
+			}
+			"partner"
+			{
+				"gid" "E5EE3243A0E2E9D084FDEB87E0941EFE"
+				"size" "4D4A47E13E45BE730B60EDF61C4076CA"
+				"download" "25D7780B014A0567E49AF0DFC399C82A"
+			}
+			"peachtree"
+			{
+				"gid" "E748AC9DA6513D4033361F8C4E8645A0"
+				"size" "CCB1EA548345BC2287245B3017A84A6D"
+				"download" "96A17DCB77F86D027195881BA979FD68"
+			}
+			"pending-32bit-windows"
+			{
+				"gid" "28C573E45EE70E1559CA0100574B7237"
+				"size" "8077A17B5B37C7F00A7E0630EF871270"
+				"download" "409F2F9D8764A4CC00686E0781ED93BE"
+			}
+			"pending-default"
+			{
+				"gid" "39FDADF33E95D3B4149050606B6E570E"
+				"size" "55C785CA1042518EC15827F5D3134E50"
+				"download" "56CD1A99B8FAF2F3457BE4CD0855AB18"
+			}
+			"tournament"
+			{
+				"gid" "CEEC370F387FCDAA479E4092A08B1816"
+				"size" "30BD2916D98B32FCD4F084AE1EADA2D7"
+				"download" "61406D52AF5A7967C9C377A6C0927CEA"
+			}
+			"tournament-demos"
+			{
+				"gid" "82D5DA892E845DA8D6E9CF7875375093"
+				"size" "A8DCCDD54E4F56E8DB7321933FCD49A6"
+				"download" "D0B19816F1881B1126BC9639EB6F85BA"
+			}
+			"tournament-offline-practice"
+			{
+				"gid" "8B39432B5C48270E5B4F058BBB40187E"
+				"size" "D80C666D943FF4B62DEA9E282FDE42B0"
+				"download" "F3B386AE7F2E989D8CE8D6DE3BF2EB42"
+			}
+		}
+	}
+	"291552"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8710585125533684681"
+				"size" "1150484168"
+				"download" "1103293376"
+			}
+			"32bit-windows"
+			{
+				"gid" "6428312673893466556"
+				"size" "1150483724"
+				"download" "1103292800"
+			}
+			"tech-test"
+			{
+				"gid" "8710585125533684681"
+				"size" "1150484168"
+				"download" "1103293376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agent"
+			{
+				"gid" "D7D1D19D040BA54B286F9A840CE1448D"
+				"size" "5C0193FCED543AC23AF3CB322EA2329F"
+				"download" "7D875F34E131A2344357E0283180B6B2"
+			}
+			"certification"
+			{
+				"gid" "DCC7E11A25EE345B356AFD7FAE684720"
+				"size" "52B5320BA576413156B26DB1135BC305"
+				"download" "CF658B9B31FB39E9855D8AB71AD57402"
+			}
+			"certification-32bit-windows"
+			{
+				"gid" "324BE00BF5745CB66691126337EA85A7"
+				"size" "03A2964435C408DAB0AF6F111C6BCAD9"
+				"download" "FBD6196276D73979ECE119BE643F0169"
+			}
+			"daily"
+			{
+				"gid" "7B77F2DE1F13B4DC64828FEA9FF769FE"
+				"size" "C90857FB101CE6CE0D1F0AD55325ADF7"
+				"download" "9E9385B2902A42AA99DE3C6FD1AD2B20"
+			}
+			"fleet"
+			{
+				"gid" "53666B43ADA4DCBB35E67F0A78E39D00"
+				"size" "EE903118EA92AF2DAC1CF439286775FF"
+				"download" "EAFF315AF24B7EAA877D91EE1140E9F4"
+			}
+			"partner"
+			{
+				"gid" "E60449776415E55B6FFBABB1D164108B"
+				"size" "CE155559607CFB208DB2015C5DF90E90"
+				"download" "47AFC6D75D1394379B238FE8F7C65F67"
+			}
+			"peachtree"
+			{
+				"gid" "932781A81FFD394FBFBC4032C84BA19C"
+				"size" "9FB08449F5C760A5C599301D23E4D776"
+				"download" "9E74936BC851BED46515CEA14AF4EA21"
+			}
+			"pending-32bit-windows"
+			{
+				"gid" "6B599F3CCBE4543BAB6CD8322553C094"
+				"size" "4660C93EBD981B271CA27071AAE422CA"
+				"download" "7852A4A0E0563BAA61F8105B554F7634"
+			}
+			"pending-default"
+			{
+				"gid" "FEA1700DA41823BC5D8A7C3539BF22CE"
+				"size" "17F352EF164DD4B9E36DF1FC73D5DD5D"
+				"download" "0724B45D4CD2B04C2D2289E5058B2352"
+			}
+			"tournament"
+			{
+				"gid" "5E3FD39ABA60BBA5B59D9E795CEEB0DB"
+				"size" "6798B6D76548B84B835FE2A0C2ABA596"
+				"download" "C894B790FFD8F0135568197091F16CF9"
+			}
+			"tournament-demos"
+			{
+				"gid" "D7E0C5C40CC4698D3738D58F2FEA7A64"
+				"size" "BA0DBB553FB20F96BA63C38C733588F2"
+				"download" "2C656971379D7A03CF0682ED55A3A6BF"
+			}
+			"tournament-offline-practice"
+			{
+				"gid" "0F075C69A65167AF14B9EB30F5C81A11"
+				"size" "348BB6865B997E2758074BFA343CDC57"
+				"download" "9F4BA5D380C4CADF1A3B20C9618D36B6"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16226244"
+			"timeupdated" "1730901816"
+		}
+		"32bit-windows"
+		{
+			"buildid" "16226018"
+			"description" "32-bit Brawlhalla for older computers"
+			"timeupdated" "1730902133"
+		}
+		"agent"
+		{
+			"buildid" "16319498"
+			"pwdrequired" "1"
+			"timeupdated" "1730928751"
+		}
+		"certification"
+		{
+			"buildid" "16371889"
+			"pwdrequired" "1"
+			"timeupdated" "1731370173"
+		}
+		"certification-32bit-windows"
+		{
+			"buildid" "16368880"
+			"pwdrequired" "1"
+			"timeupdated" "1731349614"
+		}
+		"daily"
+		{
+			"buildid" "16377245"
+			"pwdrequired" "1"
+			"timeupdated" "1731408574"
+		}
+		"fleet"
+		{
+			"buildid" "16305005"
+			"pwdrequired" "1"
+			"timeupdated" "1730833105"
+		}
+		"partner"
+		{
+			"buildid" "15360056"
+			"pwdrequired" "1"
+			"timeupdated" "1723837644"
+		}
+		"peachtree"
+		{
+			"buildid" "16343546"
+			"pwdrequired" "1"
+			"timeupdated" "1731079118"
+		}
+		"pending-32bit-windows"
+		{
+			"buildid" "16370348"
+			"pwdrequired" "1"
+			"timeupdated" "1731363048"
+		}
+		"pending-default"
+		{
+			"buildid" "16370603"
+			"pwdrequired" "1"
+			"timeupdated" "1731363027"
+		}
+		"tech-test"
+		{
+			"buildid" "16226244"
+			"description" "Testing new engine tech"
+			"timeupdated" "1730902077"
+		}
+		"tournament"
+		{
+			"buildid" "16292524"
+			"pwdrequired" "1"
+			"timeupdated" "1730754452"
+		}
+		"tournament-demos"
+		{
+			"buildid" "16068857"
+			"pwdrequired" "1"
+			"timeupdated" "1730409516"
+		}
+		"tournament-offline-practice"
+		{
+			"buildid" "16367005"
+			"pwdrequired" "1"
+			"timeupdated" "1731338473"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26155577"
+"_sha" "94418ecd22f394bac0d3a8210d13bdfed5277ef8"
+"_size" "13061"
