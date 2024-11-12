@@ -1,0 +1,643 @@
+"appid" "2477340"
+"common"
+{
+	"name" "Expeditions: A MudRunner Game"
+	"type" "Game"
+	"icon" "b67df2e66ea55d9a46be815cfc80f9a4bcf7853f"
+	"clienticon" "a4c9c22de4147ac5d71757640f64f637619d3752"
+	"clienttga" "81f610ec936798f5aa751ca8aa05f24af6b91016"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "远征：泥泞奔驰游戏"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2477340_eula_0"
+			"name" "Expeditions: A MudRunner Game EULA"
+			"url" "https://store.steampowered.com//eula/2477340_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1709337600"
+		"tested_build_id" "13495251"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.949194182126924"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.949194182126924"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730296370"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "9"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709658261"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2477340"
+	"store_tags"
+	{
+		"0" "1669"
+		"1" "30358"
+		"2" "4182"
+		"3" "3834"
+		"4" "1644"
+		"5" "699"
+		"6" "3859"
+		"7" "1643"
+		"8" "10383"
+		"9" "7622"
+		"10" "5794"
+		"11" "1100687"
+		"12" "3968"
+		"13" "1695"
+		"14" "7332"
+		"15" "599"
+		"16" "4175"
+		"17" "4747"
+		"18" "21"
+		"19" "4166"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"developer" "Saber Interactive"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://community.focus-entmt.com/focus-entertainment/expeditions-a-mudrunner-game\?utm_source=Steam&amp;utm_medium=StorePage_EXP&amp;utm_campaign=Organic"
+	"listofdlc" "2716240,2716250,2716260,2722320,2825980"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Expeditions A MudRunner Game"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sources/Bin/Expeditions.exe"
+			"workingdir" "Sources/Bin"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Sources/Bin/SnowRunnerExpeditions.exe"
+			"workingdir" "Sources/Bin"
+			"config"
+			{
+				"betakey" "focus_hw, fe_agerating, fe_betabackup, fe_marketing_trailers, fe_playtest, fe_preview"
+			}
+			"description_loc"
+			{
+				"english" "Previous exe name"
+			}
+			"description" "Previous exe name"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"2477341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4630584563956146795"
+				"size" "24898397868"
+				"download" "17896631344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"fe_business-prospection"
+			{
+				"gid" "B058FAAF933C08FE02163E278ADBA7ED"
+				"size" "E51240EB1D7CEB66CE08A36F72BCA346"
+				"download" "D840BB28C02DBECAF7B2BB394ED4D494"
+			}
+			"fe_external"
+			{
+				"gid" "E51D086CFD7E4E58F32D0BFFBB30CE3A"
+				"size" "B86E2036C7EFC7653FA6CD90E0DFEF77"
+				"download" "8E76BC7597A76B0AF4ED9AE691B12F48"
+			}
+			"fe_playtest"
+			{
+				"gid" "FC112A803972D78EDB8E2E7CCE17422C"
+				"size" "0869C52B3D1DF398F4B1A6A54C175E84"
+				"download" "8E2EC48F642DBE97AAB9EFA3197EF6C7"
+			}
+			"fe_preview"
+			{
+				"gid" "10A10B2ECA060FFAF990EC92D2351B3B"
+				"size" "E84DC76568120B9A4AFA44E82B974259"
+				"download" "311D3CE1E10963CDB1DDC7B337A03A23"
+			}
+			"fe_wheel-partners"
+			{
+				"gid" "B5751D594EB961239B76669CC7B41BA7"
+				"size" "AE2B5F96C1C510CFC5CADE46B7DEBFD8"
+				"download" "F79A95CE9998891022ECBEB383F6D581"
+			}
+			"focus_hw"
+			{
+				"gid" "B1B31D782B4B5918EDF012D81E9D2884"
+				"size" "ECDF4F7A9223B28DCB446B31B4F4B450"
+				"download" "C70F6A05703D0C51774BFB270FA69807"
+			}
+			"ow_cert_jp"
+			{
+				"gid" "84C70D8800368D2333CD36A1D785BD6D"
+				"size" "0FBC75C651D3D12D191C4BDF11D2755A"
+				"download" "6F0B55BB5AD84C0D17504A00D7540B23"
+			}
+			"exp_cheats"
+			{
+				"gid" "ECC7796F98F526BD4EA8DA2D7F5DA6C3"
+				"size" "3EA8017251B0F0C0FA582AD5F83BB2B8"
+				"download" "4CB5D33C2BDF2E9D14D2D9C886635A6A"
+			}
+			"exp_internal_playtest"
+			{
+				"gid" "0E65A08A8787B65A9542D69C744EDA7B"
+				"size" "89B9F9D0C45BA7CAB5BD76E597C5DC25"
+				"download" "93377300DAF9B6117440325F0A1CE5EB"
+			}
+			"exp_performance"
+			{
+				"gid" "EE64B1E36204633B5116338CF682D59C"
+				"size" "2A8FED3BE7A9371DB3923D68201F02AE"
+				"download" "ACCA49440872E29F6B388A6BA72363AC"
+			}
+			"exp_qa"
+			{
+				"gid" "EB2B5E1D8FD4DE784BAEE7C47688FD8B"
+				"size" "E3F5EC34CD680801EC35B439662BAE18"
+				"download" "2CD233EA9563325E3D54112051B88582"
+			}
+			"fe_aqua"
+			{
+				"gid" "91E1780186F7DB6ADA0A50ED822F6889"
+				"size" "4C32547ADF08ABDCCB62DE97296DBE66"
+				"download" "8B3DBC7DF4B9EA7715258FC1AA1775CD"
+			}
+			"fe_backup-beta"
+			{
+				"gid" "4CC4CA13B1B1F658AC01D15113972FD3"
+				"size" "7AA012B2EE0B007ED6A66F74CA457787"
+				"download" "53D1810143FD412B5E523B8FA4A76B23"
+			}
+			"fe_backup-release"
+			{
+				"gid" "7D0FE1E9E8FA500A9F38F6694CA2661F"
+				"size" "7F63F0DC7B657080298B630DF493D6A9"
+				"download" "C99B34D5E87857D904184F4AE487EEA0"
+			}
+			"fe_delivery"
+			{
+				"gid" "AD8AA5A21AA051B2D8C778B36C412574"
+				"size" "26DC2149E74C6BCF6EB2B41573C3CE8A"
+				"download" "60AC849DB9DE665DB7C762FE7FB912BA"
+			}
+			"fe_delivery-cheats"
+			{
+				"gid" "0DE40892E6B9845DF13280C3C1023C25"
+				"size" "025EBF9424E778DE89C493AD51DE9090"
+				"download" "E184A2C17DC37251D65458E353DA920C"
+			}
+			"fe_marketing_trailers"
+			{
+				"gid" "2E210B0DD8AF40A697006220EA6A474B"
+				"size" "72539F7AB7B341667AC27ED6CA7F327A"
+				"download" "B5BDB6CB8090F79E6B4DEFF45627686C"
+			}
+			"fe_season1"
+			{
+				"gid" "F6BC3C5D37505D649A240B4F8541678F"
+				"size" "7F1AC8D4F81E26CC49C44D1852B486AC"
+				"download" "68F9E03DDD9DCB355835B0D3DE5CF3EE"
+			}
+			"ow_dev"
+			{
+				"gid" "DB0FBFA08DF5B21B82AB0A5E435C06B6"
+				"size" "520F595E350A127D7E28F618ADF234DB"
+				"download" "0FC9163C8D4CD2B2439E44EA96A3348D"
+			}
+			"public_beta_branch"
+			{
+				"gid" "3548049F21FDC823A8A84D83B6B2BE45"
+				"size" "4C52571B9576EEA62CBF264BCA23FDA0"
+				"download" "5FEC5BEBCED5FE962415B276AC719AFF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16274142"
+			"timeupdated" "1731405462"
+		}
+		"fe_business-prospection"
+		{
+			"buildid" "13379102"
+			"pwdrequired" "1"
+			"timeupdated" "1707305738"
+		}
+		"fe_external"
+		{
+			"buildid" "11897361"
+			"pwdrequired" "1"
+			"timeupdated" "1691674446"
+		}
+		"fe_playtest"
+		{
+			"buildid" "12459231"
+			"pwdrequired" "1"
+			"timeupdated" "1697533983"
+		}
+		"fe_preview"
+		{
+			"buildid" "12711292"
+			"pwdrequired" "1"
+			"timeupdated" "1700062614"
+		}
+		"fe_wheel-partners"
+		{
+			"buildid" "13216875"
+			"pwdrequired" "1"
+			"timeupdated" "1706182944"
+		}
+		"focus_hw"
+		{
+			"buildid" "12509338"
+			"pwdrequired" "1"
+			"timeupdated" "1698947789"
+		}
+		"ow_cert_jp"
+		{
+			"buildid" "13148094"
+			"pwdrequired" "1"
+			"timeupdated" "1704988698"
+		}
+		"exp_cheats"
+		{
+			"buildid" "16329075"
+			"pwdrequired" "1"
+			"timeupdated" "1730991162"
+		}
+		"exp_internal_playtest"
+		{
+			"buildid" "16248494"
+			"pwdrequired" "1"
+			"timeupdated" "1730362503"
+		}
+		"exp_performance"
+		{
+			"buildid" "16327285"
+			"pwdrequired" "1"
+			"timeupdated" "1730981667"
+		}
+		"exp_qa"
+		{
+			"buildid" "16312026"
+			"pwdrequired" "1"
+			"timeupdated" "1730885218"
+		}
+		"fe_aqua"
+		{
+			"buildid" "16249433"
+			"pwdrequired" "1"
+			"timeupdated" "1730394424"
+		}
+		"fe_backup-beta"
+		{
+			"buildid" "16341565"
+			"pwdrequired" "1"
+			"timeupdated" "1731068633"
+		}
+		"fe_backup-release"
+		{
+			"buildid" "15914915"
+			"pwdrequired" "1"
+			"timeupdated" "1727953305"
+		}
+		"fe_delivery"
+		{
+			"buildid" "16274142"
+			"pwdrequired" "1"
+			"timeupdated" "1730546910"
+		}
+		"fe_delivery-cheats"
+		{
+			"buildid" "16274122"
+			"pwdrequired" "1"
+			"timeupdated" "1730546600"
+		}
+		"fe_marketing_trailers"
+		{
+			"buildid" "15916112"
+			"pwdrequired" "1"
+			"timeupdated" "1729778358"
+		}
+		"fe_season1"
+		{
+			"buildid" "15916112"
+			"pwdrequired" "1"
+			"timeupdated" "1730365939"
+		}
+		"ow_dev"
+		{
+			"buildid" "16266717"
+			"pwdrequired" "1"
+			"timeupdated" "1730477635"
+		}
+		"public_beta_branch"
+		{
+			"buildid" "15754596"
+			"pwdrequired" "1"
+			"timeupdated" "1726750608"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "26154802"
+"_sha" "e70822a155bfe9113c6aa0ab9c075021cce6238c"
+"_size" "12951"
