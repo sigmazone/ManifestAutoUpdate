@@ -78,9 +78,14 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "DEVS MUST DIE"
+			"name" "ISART"
 		}
 		"1"
+		{
+			"type" "developer"
+			"name" "DEVS MUST DIE"
+		}
+		"2"
 		{
 			"type" "publisher"
 			"name" "TyGAMES"
@@ -176,7 +181,7 @@
 }
 "extended"
 {
-	"developer" "DEVS MUST DIE"
+	"developer" "ISART"
 	"publisher" "TyGAMES"
 	"listofdlc" "1169970,1192080"
 	"dlcavailableonstore" "1"
@@ -196,8 +201,7 @@
 			}
 		}
 	}
-	"steamcontrollertemplateindex" "4"
-	"steamconfigurator3rdpartynative" "11"
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -213,9 +217,24 @@
 		{
 			"public"
 			{
-				"gid" "3055754490428230518"
-				"size" "4233957596"
-				"download" "999269136"
+				"gid" "495417447897737792"
+				"size" "1972246697"
+				"download" "1107731792"
+			}
+			"beta"
+			{
+				"gid" "495417447897737792"
+				"size" "1972246697"
+				"download" "1107731792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "58D744312D262A71338C2BA504138BC0"
+				"size" "01DC9AF61F234B21325B73516DE3F019"
+				"download" "50B77E3FDADF583B7D2AF40C686954C4"
 			}
 		}
 	}
@@ -235,6 +254,21 @@
 				"size" "1641099623"
 				"download" "1648550096"
 			}
+			"beta"
+			{
+				"gid" "3698749888125696419"
+				"size" "1641099623"
+				"download" "1648550096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "07D3B68584343AE6D8C9547696B3C346"
+				"size" "9308A015DB519E7D87B159C15BC0A9B6"
+				"download" "F23EDE62480519CE39D04D5B2EA4FC9F"
+			}
 		}
 	}
 	"1192080"
@@ -253,14 +287,41 @@
 				"size" "243706851"
 				"download" "242006720"
 			}
+			"beta"
+			{
+				"gid" "4000747528092174159"
+				"size" "243706851"
+				"download" "242006720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "C2257AA79CD50C9EE8308BF21309822F"
+				"size" "35B1A1EF1023B2DD8875B7944EE26762"
+				"download" "88759DE2118FFCCF8B0E3107410635D5"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "5046021"
-			"timeupdated" "1589841449"
+			"buildid" "16190339"
+			"timeupdated" "1731408155"
+		}
+		"beta"
+		{
+			"buildid" "16190339"
+			"description" "Public test branch"
+			"timeupdated" "1729933836"
+		}
+		"staging"
+		{
+			"buildid" "16190339"
+			"pwdrequired" "1"
+			"timeupdated" "1729933808"
 		}
 	}
 }
@@ -312,3 +373,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26155488"
+"_sha" "6a41d0ad3bfb7a27a58848d55525e2ce8edee21d"
+"_size" "6300"
