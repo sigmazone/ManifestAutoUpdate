@@ -28,6 +28,20 @@
 		"latam" "1"
 	}
 	"clienticns" "49b019a32c7bb56c0c935a10860662941da2d22b"
+	"openvr_controller_bindings"
+	{
+		"0"
+		{
+			"controller_type" "knuckles"
+			"url" "vr-input-workshop://3041286518"
+		}
+		"1"
+		{
+			"controller_type" "hpmotioncontroller"
+			"url" "vr-input-workshop://3345872964"
+		}
+	}
+	"openvrsupport" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -93,6 +107,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1650902695"
 	"associations"
 	{
@@ -127,6 +183,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -198,32 +255,33 @@
 	"gameid" "674140"
 	"store_tags"
 	{
-		"0" "1721"
-		"1" "916648"
-		"2" "21"
+		"0" "916648"
+		"1" "21"
+		"2" "4182"
 		"3" "44868"
-		"4" "4182"
+		"4" "1742"
 		"5" "1719"
-		"6" "1742"
-		"7" "3839"
-		"8" "4726"
+		"6" "3839"
+		"7" "4726"
+		"8" "3834"
 		"9" "1664"
-		"10" "3834"
-		"11" "4195"
+		"10" "4195"
+		"11" "4305"
 		"12" "19"
 		"13" "597"
-		"14" "4305"
+		"14" "8369"
 		"15" "3810"
 		"16" "3968"
-		"17" "8369"
-		"18" "6971"
-		"19" "5094"
+		"17" "6971"
+		"18" "5094"
+		"19" "5350"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
 }
 "extended"
 {
+	"vrheadsetstreaming" "1"
 	"developer" "Young Horses"
 	"publisher" "Young Horses"
 	"homepage" "https://bugsnax.com/"
@@ -249,6 +307,16 @@
 			"config"
 			{
 				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Bugsnax.exe"
+			"arguments" "VR"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
 			}
 		}
 	}
@@ -287,6 +355,12 @@
 		{
 			"public"
 			{
+				"gid" "6048892449985805464"
+				"size" "30975565"
+				"download" "10005696"
+			}
+			"previous"
+			{
 				"gid" "961943214828072111"
 				"size" "29122317"
 				"download" "9379968"
@@ -296,9 +370,15 @@
 		{
 			"test"
 			{
-				"gid" "B2379233AE9DA27E6BA567F1ADC63F5F"
-				"size" "08D52DEA5461C30988DD249B311B00C9"
-				"download" "BC46C19D3269E05CE759FACCF240F63B"
+				"gid" "FC76BC7DA35C25D82912B7DC8A98B6EA"
+				"size" "68FF1D68CD8A0F45B5678C38EEB990A6"
+				"download" "256C4B9F7FE435C149C72A4A8EDBCE08"
+			}
+			"vrtest"
+			{
+				"gid" "FF2F33B0FEFFEA54631BD3C9906FF193"
+				"size" "6CD8128150DBE33960F0B2F693E6C880"
+				"download" "4D90908AA217E141AF29ABCF5EB0A0BC"
 			}
 		}
 	}
@@ -307,6 +387,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "3263120728455520063"
+				"size" "9502577673"
+				"download" "4184120992"
+			}
+			"previous"
 			{
 				"gid" "1224841387099218858"
 				"size" "9429700136"
@@ -317,9 +403,15 @@
 		{
 			"test"
 			{
-				"gid" "CE4EB9D535FAED11A109F9A1F7A9EC3D"
-				"size" "5C77E102A7C8791047FFCD8113A2D8FE"
-				"download" "AEF0648ADB76EC08D5047E5BA89ED76A"
+				"gid" "045EC97CDF9C1AEB9CEF5A33C745FDA8"
+				"size" "946D449B20B18C396BA371DA9F0FEB1E"
+				"download" "0C84C6B8AF1D9929DDE8837FD76CD658"
+			}
+			"vrtest"
+			{
+				"gid" "5214AE69B4279F0CDA1651D3B6D85E51"
+				"size" "FFC6A8FA47CA3A5E26C5D0901E803964"
+				"download" "2A061F72D675A7D554948B45EE978900"
 			}
 		}
 	}
@@ -333,6 +425,12 @@
 		{
 			"public"
 			{
+				"gid" "4298749215955972648"
+				"size" "28712393"
+				"download" "7775952"
+			}
+			"previous"
+			{
 				"gid" "9174177182727241404"
 				"size" "29193032"
 				"download" "7846080"
@@ -342,9 +440,15 @@
 		{
 			"test"
 			{
-				"gid" "1018AF6C679E63271CEC43FA587088F8"
+				"gid" "8FE410EBD2E2842D30F3EF03CFEF71CF"
 				"size" "26A1B5CAAC59964EA440A286EBCC3CD6"
-				"download" "3293DAA83E6923C083DACDA1D130E4F8"
+				"download" "12BCABF6813FBF15519E1C52C475992C"
+			}
+			"vrtest"
+			{
+				"gid" "D231E1AFE9171B0F9454242CCADC67C8"
+				"size" "DE958EC7BDBEDBB92907EAFB89DE18B9"
+				"download" "9E261FA1CAC3D36835C698CCE7970C68"
 			}
 		}
 	}
@@ -352,14 +456,26 @@
 	{
 		"public"
 		{
+			"buildid" "16371247"
+			"timeupdated" "1731365395"
+		}
+		"previous"
+		{
 			"buildid" "9660741"
-			"timeupdated" "1664998845"
+			"description" "2022"
+			"timeupdated" "1731351624"
 		}
 		"test"
 		{
-			"buildid" "13039073"
+			"buildid" "16242792"
 			"pwdrequired" "1"
-			"timeupdated" "1703403196"
+			"timeupdated" "1730931979"
+		}
+		"vrtest"
+		{
+			"buildid" "16371247"
+			"pwdrequired" "1"
+			"timeupdated" "1731365335"
 		}
 	}
 }
@@ -389,6 +505,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21663185"
-"_sha" "00bb57902df4367b4dc92d143f675b4ee728967c"
-"_size" "6781"
+"_change_number" "26147961"
+"_sha" "04c0cfb9e795f235abe7520db65ecfdc51b06df0"
+"_size" "8898"
