@@ -54,6 +54,60 @@
 			"height_pct" "74.35700810047757"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.941299016752723"
+				"height_pct" "74.35700810047757"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1716832560"
 	"associations"
 	{
@@ -174,6 +228,7 @@
 		}
 	}
 	"steam_release_date" "1716496354"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2165470"
 	"store_tags"
@@ -200,7 +255,7 @@
 		"19" "19"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -236,18 +291,18 @@
 		{
 			"public"
 			{
-				"gid" "8830776765896479192"
-				"size" "6665553395"
-				"download" "1599491440"
+				"gid" "8941573180086074407"
+				"size" "8430472590"
+				"download" "1843019600"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "650322224C3830BC0AB3AEA2CD380D3A"
-				"size" "0DF1A531E855B6C833B4142EA4A5B559"
-				"download" "757811327BDB1E3B6F5E32B8CA923E74"
+				"gid" "758124A74A25B35A1323FA9E6BD5A8E7"
+				"size" "8E74CC62BF372388AC6BF15322E36EF5"
+				"download" "00BBDF40CCF10056D1766DA39BE6AAC3"
 			}
 		}
 	}
@@ -263,33 +318,18 @@
 	{
 		"public"
 		{
-			"buildid" "15370703"
-			"timeupdated" "1723651515"
+			"buildid" "16369917"
+			"timeupdated" "1731358162"
 		}
 		"beta"
 		{
-			"buildid" "15370703"
+			"buildid" "16369917"
 			"pwdrequired" "1"
-			"timeupdated" "1723651238"
+			"timeupdated" "1731356644"
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_atmainmenu" "At the main menu"
-				"#status_waitingformatch" "Waiting for match"
-				"#status_winning" "Winning"
-				"#status_losing" "Losing"
-				"#status_tied" "Tied"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26146602"
+"_sha" "1042b004937e82c1993fe51015c4b2fbef249873"
+"_size" "5313"
