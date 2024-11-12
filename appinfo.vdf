@@ -21,40 +21,30 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1660953600"
-		"tested_build_id" "1374742"
+		"category" "3"
+		"test_timestamp" "1731456000"
+		"tested_build_id" "16357890"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
-			}
-			"4"
-			{
-				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"5"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -62,14 +52,15 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Phantom Brave"
@@ -286,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "8231210040126370431"
-				"size" "1527723891"
-				"download" "699583440"
+				"gid" "492616611507395006"
+				"size" "1527729569"
+				"download" "699585584"
 			}
 			"version_1.0"
 			{
@@ -301,6 +292,12 @@
 				"gid" "8231210040126370431"
 				"size" "1527723891"
 				"download" "699583440"
+			}
+			"version_1.21"
+			{
+				"gid" "492616611507395006"
+				"size" "1527729569"
+				"download" "699585584"
 			}
 		}
 		"encryptedmanifests"
@@ -325,15 +322,15 @@
 			}
 			"ph3_internal"
 			{
-				"gid" "CBDDE89F60625DA7DEC53E93E2FA2EB3"
-				"size" "0D8A70C558E67DBEF1F54AAE7D32BEC6"
-				"download" "D3F13C00728799CFD27EB08C95C4A4B6"
+				"gid" "17A5D76565441104B73881ADECBD87EB"
+				"size" "27B61BE9D1B2A6AD711C609ACD968591"
+				"download" "AB90529ECFE5CC28132FABE1301FDF88"
 			}
 			"test"
 			{
-				"gid" "E5EE900D18CCA6A65BD1343D7CBF96BB"
-				"size" "8C5D5ED788C17DBEAA785E125DC85A8E"
-				"download" "36A63D265BBFDCE8F82A3455331B4286"
+				"gid" "22128D4FAE2CA7F3B4AD9C81B9DC8A72"
+				"size" "220A49AB83255704F08B2DF9D11C1E83"
+				"download" "B2A0F6388AFC9A80DB81A47A8D78EB81"
 			}
 			"version_1.11"
 			{
@@ -388,12 +385,6 @@
 				"gid" "9E6A9C574FA00C72ADBBA493003BA69F"
 				"size" "8C523412D0A6CFF5B64058B74A315701"
 				"download" "E019CD70DDCCC4D7663C2B46E799B327"
-			}
-			"version_1.2"
-			{
-				"gid" "C3211C92F82C68F79301E4FFDEA46A60"
-				"size" "E5F219EA4C3DAED08AAA4D89088689B6"
-				"download" "79896B4FBDC207C3D55301F07512CACA"
 			}
 			"version_1.3"
 			{
@@ -460,6 +451,12 @@
 				"download" "152939728"
 			}
 			"version_1.20"
+			{
+				"gid" "2832429926806479033"
+				"size" "350217216"
+				"download" "152939728"
+			}
+			"version_1.21"
 			{
 				"gid" "2832429926806479033"
 				"size" "350217216"
@@ -552,12 +549,6 @@
 				"size" "E689EC762A09EEEB166110217292448B"
 				"download" "85EFD16A22AAC7F858EAEC2219168426"
 			}
-			"version_1.2"
-			{
-				"gid" "F875300C159770868A3AC65F39D17615"
-				"size" "D7FFDBC2E1B5D7255029914218DEAE2C"
-				"download" "825E7919BA2B1426F1D1B0754192C0D1"
-			}
 			"version_1.3"
 			{
 				"gid" "6C6F61EBAC4A92E115AA381E7F18414F"
@@ -623,6 +614,12 @@
 				"download" "152593440"
 			}
 			"version_1.20"
+			{
+				"gid" "3350285939141315809"
+				"size" "350352896"
+				"download" "152593440"
+			}
+			"version_1.21"
 			{
 				"gid" "3350285939141315809"
 				"size" "350352896"
@@ -715,12 +712,6 @@
 				"size" "60D0DCE7407E22DCBF54C7374B26C995"
 				"download" "080BB8267BC37E074FC608A172145208"
 			}
-			"version_1.2"
-			{
-				"gid" "7647682321601DB59060BB11000FD3CE"
-				"size" "5EAD6C0E5EC6C7732F7D5EAC24A54BCE"
-				"download" "AE9DA2E055000BF5BDBB25939C2E5F6C"
-			}
 			"version_1.3"
 			{
 				"gid" "D932E2B0B6F778AAA54F6957143C494C"
@@ -786,6 +777,12 @@
 				"download" "34980320"
 			}
 			"version_1.20"
+			{
+				"gid" "5227841498542126655"
+				"size" "37789639"
+				"download" "34980320"
+			}
+			"version_1.21"
 			{
 				"gid" "5227841498542126655"
 				"size" "37789639"
@@ -866,12 +863,6 @@
 				"size" "2AEE0D0257BD0651FA1CD4E1C1237638"
 				"download" "B1BD7F22FBB7B98EEF5D7ACE94BCB0DF"
 			}
-			"version_1.2"
-			{
-				"gid" "8863C426AF3285995DB5E4AF35730BC0"
-				"size" "8A76ED8409EF8C17F4CF029D25D39DEC"
-				"download" "272BBE25DBF762909BB876193B2E4665"
-			}
 			"version_1.3"
 			{
 				"gid" "0116E88E02C18CF46B3CBF581047010D"
@@ -921,8 +912,8 @@
 	{
 		"public"
 		{
-			"buildid" "16328876"
-			"timeupdated" "1731002392"
+			"buildid" "16357890"
+			"timeupdated" "1731420760"
 		}
 		"beta"
 		{
@@ -944,15 +935,15 @@
 		}
 		"ph3_internal"
 		{
-			"buildid" "16328876"
+			"buildid" "16357890"
 			"pwdrequired" "1"
-			"timeupdated" "1730990770"
+			"timeupdated" "1731250580"
 		}
 		"test"
 		{
-			"buildid" "16328876"
+			"buildid" "16357890"
 			"pwdrequired" "1"
-			"timeupdated" "1730990778"
+			"timeupdated" "1731250587"
 		}
 		"version_1.0"
 		{
@@ -1014,17 +1005,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730924288"
 		}
-		"version_1.2"
-		{
-			"buildid" "15165601"
-			"pwdrequired" "1"
-			"timeupdated" "1722708858"
-		}
 		"version_1.20"
 		{
 			"buildid" "16328876"
 			"description" "version_1.20"
 			"timeupdated" "1730990761"
+		}
+		"version_1.21"
+		{
+			"buildid" "16357890"
+			"description" "version_1.21"
+			"timeupdated" "1731250596"
 		}
 		"version_1.3"
 		{
@@ -1076,6 +1067,6 @@
 	"maxnumfiles" "103"
 }
 "_missing_token" "False"
-"_change_number" "26099350"
-"_sha" "469c4f494cb70ce6beae8d7015bf7cdb4bb0b479"
-"_size" "25229"
+"_change_number" "26164288"
+"_sha" "19788c582c4807292552d14f0e77f2fa1ec2d949"
+"_size" "24787"
