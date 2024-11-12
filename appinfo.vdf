@@ -1,0 +1,78 @@
+"appid" "318730"
+"common"
+{
+	"name" "Westerado: Double Barreled Movie Set Demo"
+	"section_type" "ownersonly"
+	"type" "Demo"
+	"parent" "275200"
+	"releasestate" "unavailable"
+	"clienticon" "95405c58b21513b345cc512cda0a958b7be22e6b"
+	"clienttga" "4ec20430206f6ad0bbe87da9fb71a114f250df35"
+	"icon" "c8dada6ab21b95ac5ec1942f64d838769f4cd45e"
+	"associations"
+	{
+	}
+	"gameid" "318730"
+	"exfgls" "6"
+}
+"extended"
+{
+	"demoofappid" "275200"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Westerado Demo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WesteradoDB.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"318731"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4545555532655257517"
+				"size" "117892445"
+				"download" "72571653382"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "F2BB7BEC43DAADAD8D85421DCFB4783E"
+				"size" "C094DFD5BFE1A422D3BB8E7E4BC487C1"
+				"download" "D6FBE0721DABF54FA90294A41EC1184C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "368901"
+		}
+		"testing"
+		{
+			"buildid" "368901"
+			"pwdrequired" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "8fab6814bce9d0302e0ec73bf8af74cad764ee33"
+"_size" "1220"
