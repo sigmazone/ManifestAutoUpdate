@@ -1,0 +1,401 @@
+"appid" "347660"
+"common"
+{
+	"name" "Caromble!"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"clienticon" "4d922c68013d93aee74ad2ff171509c4bb540f3b"
+	"clienttga" "29390da73d7ef78149aef59309d02afd5ce13886"
+	"icon" "538ba532c7e0fcf6cedef058abcd89a344a78542"
+	"logo" "64c10c18b568d715344135e1ac84d580ecbaeeb1"
+	"logo_small" "64c10c18b568d715344135e1ac84d580ecbaeeb1_thumb"
+	"releasestate" "released"
+	"osarch" "64"
+	"osextended" ""
+	"linuxclienticon" "fd720771ffaeb6e87ef4e7c3929225e48c6360c0"
+	"metacritic_name" "Caromble!"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.66737338954225"
+			"height_pct" "57.787697584496705"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.66737338954225"
+				"height_pct" "57.787697584496705"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1698832111"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crimson Owl Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crimson Owl Studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"full_audio" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1440745153"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/347660/eventcomments/6006138415300766898"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "347660"
+	"store_tags"
+	{
+		"0" "1773"
+		"1" "6621"
+		"2" "19"
+		"3" "3968"
+		"4" "492"
+		"5" "3877"
+		"6" "1777"
+		"7" "5537"
+		"8" "5154"
+		"9" "597"
+		"10" "5796"
+		"11" "4191"
+		"12" "4975"
+		"13" "5363"
+		"14" "4004"
+		"15" "3916"
+		"16" "5395"
+		"17" "1625"
+		"18" "5708"
+		"19" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Crimson Owl Studios"
+	"publisher" "Crimson Owl Studios"
+	"homepage" "http://www.caromble.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Caromble"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Caromble.exe"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "java/bin/java"
+			"arguments" " -server -Xms600m -Xmx1600m -XX:+TieredCompilation -XX:ReservedCodeCacheSize=400m -XX:CompileThreshold=2500 -XX:+AggressiveOpts -Djava.library.path=\"lib\" -jar Caromble-GAME.jar"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "java/bin/java"
+			"arguments" "-server -XX:ReservedCodeCacheSize=128m -Xms1600m -Xmx2048m -Djava.library.path=\"lib\" -jar Caromble-GAME.jar"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertouchtemplateindex" "9"
+	"steamcontrollerconfigdetails"
+	{
+		"2874447713"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2874416341"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2874414792"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"3091645407"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"3091649037"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"347661"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3037875166798091743"
+				"size" "632823986"
+				"download" "617301200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-build"
+			{
+				"gid" "0FE5F2963BB1B82A47FC06F4E0D5B2F9"
+				"size" "D045F5B27C29DC076F0DD557F25C4414"
+				"download" "B454E84A69E16EB4911AE880772A47E2"
+			}
+		}
+	}
+	"347662"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3127475466042028676"
+				"size" "129057846"
+				"download" "29522752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-build"
+			{
+				"gid" "CC832E744BB529DE9454A49CCC4D43DA"
+				"size" "7F4D042E8174E8D4FE43EF358496F226"
+				"download" "38C87349F548DE45F76F21A5FA8653F3"
+			}
+		}
+	}
+	"347663"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8754065664103382743"
+				"size" "171500007"
+				"download" "44478144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-build"
+			{
+				"gid" "5FD2A29DE92EC801E25501FC4DACC3CA"
+				"size" "7F6701066C52D39E5EA8F28CA1172102"
+				"download" "DECA20DFE94A54930DE41DFD2F05FEEC"
+			}
+		}
+	}
+	"347664"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4678337985753668542"
+				"size" "141774104"
+				"download" "31631728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-build"
+			{
+				"gid" "2B2EC127E551C4F27552C65526827152"
+				"size" "EF23ADF24212557C3EC4752239F08870"
+				"download" "26DF295DCE01034DDB73A74F16B3F33D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15328610"
+			"timeupdated" "1723294652"
+		}
+		"dev-build"
+		{
+			"buildid" "13625636"
+			"pwdrequired" "1"
+			"timeupdated" "1713018401"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5242880"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "data"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25588518"
+"_sha" "7bcb1b1af2a1d3e81be0ac05aebfcac25eb5986d"
+"_size" "7107"
