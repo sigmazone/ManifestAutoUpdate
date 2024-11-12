@@ -115,6 +115,48 @@
 			"height_pct" "43.160769413440995"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.41773628938156"
+				"height_pct" "43.160769413440995"
+			}
+		}
+	}
 	"store_asset_mtime" "1674151716"
 	"associations"
 	{
@@ -144,6 +186,7 @@
 	{
 		"category_2" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -223,16 +266,18 @@
 		"0" "19"
 		"1" "3814"
 		"2" "1695"
-		"3" "21"
-		"4" "4106"
+		"3" "4106"
+		"4" "21"
 		"5" "1697"
 		"6" "6378"
 		"7" "4182"
 		"8" "4667"
 		"9" "3993"
+		"10" "1693"
+		"11" "1721"
 	}
 	"review_score" "5"
-	"review_percentage" "66"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -291,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "2349339367445011035"
-				"size" "4614844255"
-				"download" "4453087328"
+				"gid" "853525544362726478"
+				"size" "4590345745"
+				"download" "4427410224"
 			}
 		}
 		"encryptedmanifests"
@@ -306,21 +351,21 @@
 			}
 			"qabeta"
 			{
-				"gid" "FDCFEEB378C3FCCCA85B53B0B5A198D4"
-				"size" "ACA00714F482331C0CAD18E627977D0E"
-				"download" "8440566856F1DE080FA5B30F9B961706"
+				"gid" "57DD431047A74983B4D4C1DBDCF56FB5"
+				"size" "86BE1567E39A659DACBD37A938440C95"
+				"download" "2EDCDA07195BF23D843DDF71252EEB4A"
 			}
 			"qalive"
 			{
-				"gid" "7E1BCF8E510E3C6C076D035F0776A6E6"
-				"size" "48887CFE2A1464831673D19CD1B0FBA3"
-				"download" "C9421C80E6EFBA624261EA921615662C"
+				"gid" "D8CF04BB055AEACE0F2434F414EAD2B3"
+				"size" "D01DF2A5EC0D8259C710607E517A9A8A"
+				"download" "7F2CBC3CE911758A7B6756D11B5DF11C"
 			}
 			"qatest"
 			{
-				"gid" "9914C9DC179462CC709C4EE848D9700F"
-				"size" "BEF2BA9E6D268923E0FA4537572ABB30"
-				"download" "90A60453C94B5CEC84E13C5BDF36BD0C"
+				"gid" "BE0E96F5F89D675857674411BF15F980"
+				"size" "5988907707FA50F6BCDFCC388B0CBD4A"
+				"download" "B5EEA9205D12E38B49E9CD1306376ADA"
 			}
 		}
 	}
@@ -330,30 +375,30 @@
 		{
 			"public"
 			{
-				"gid" "2697437038144620115"
-				"size" "291021085"
-				"download" "258422464"
+				"gid" "5381604907391198919"
+				"size" "227077397"
+				"download" "183949376"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"qabeta"
 			{
-				"gid" "A5EB3C8FBC36006F8CFBD46E467C0B3E"
-				"size" "3DBE26CA1066A622074D19B9B5D7224E"
-				"download" "9C6E73B5604F64128865E1D707DC6AD9"
+				"gid" "6329B96A156DDDA05A9768691D6F8F5B"
+				"size" "3FE463D502FA93FFD87AA1311F098B36"
+				"download" "A57D65230167B72B3B1EE9F429DEE320"
 			}
 			"qalive"
 			{
-				"gid" "61F38528A85C559A3BDB223999104E0E"
-				"size" "65C5E4BBE48E180C856478E6607F6459"
-				"download" "A649C42EF7ACC94C45E5898C31F6B163"
+				"gid" "C4B3B7A6FA21D4B7D2EB7B16E444077C"
+				"size" "92C5E055BA106263FBA3AE5FA3549689"
+				"download" "32CB7585057A47E676A1AD2543D791B7"
 			}
 			"qatest"
 			{
-				"gid" "FA00AE8A19BD276FF59691B41F0E4CE7"
-				"size" "EAEFCF4229F1FA1955C7B02B7F09ED0A"
-				"download" "5ECB2D637373ECEB981C317FCFC78A86"
+				"gid" "06B5C479FF6917FD683471F1F97290E0"
+				"size" "26A7EE8B103BC86633C157BEFE1B5349"
+				"download" "2181C70AE28D2CD2107C018D5B1F70C0"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -363,8 +408,8 @@
 	{
 		"public"
 		{
-			"buildid" "13185487"
-			"timeupdated" "1706627549"
+			"buildid" "15901187"
+			"timeupdated" "1731405677"
 		}
 		"external"
 		{
@@ -374,15 +419,15 @@
 		}
 		"qabeta"
 		{
-			"buildid" "13185487"
+			"buildid" "15161985"
 			"pwdrequired" "1"
-			"timeupdated" "1705412531"
+			"timeupdated" "1721996718"
 		}
 		"qalive"
 		{
-			"buildid" "8070012"
+			"buildid" "15901187"
 			"pwdrequired" "1"
-			"timeupdated" "1645615586"
+			"timeupdated" "1727866029"
 		}
 		"qatest"
 		{
@@ -393,6 +438,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22949005"
-"_sha" "3f67b76b63bd8ac48a2f736e86e51d36dda40cff"
-"_size" "7394"
+"_change_number" "26154916"
+"_sha" "5a81b67d476a233c88bf8f2809c5c212fd592f29"
+"_size" "8073"
