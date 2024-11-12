@@ -34,6 +34,7 @@
 	"othervrsupport" "1"
 	"othervrsupport_rift_13" "1"
 	"openxrsupport" "1"
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -64,7 +65,7 @@
 	"metacritic_name" "VTOL VR"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "d42ac6861288565220376e3dc4474c11fa18f091/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -124,7 +125,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1641494299"
+	"store_asset_mtime" "1729032622"
 	"associations"
 	{
 		"0"
@@ -196,8 +197,8 @@
 		"3" "3993"
 		"4" "92092"
 		"5" "4168"
-		"6" "1678"
-		"7" "4175"
+		"6" "4175"
+		"7" "1678"
 		"8" "19"
 		"9" "11104"
 		"10" "3968"
@@ -282,15 +283,21 @@
 		{
 			"public"
 			{
-				"gid" "2285230262709032604"
-				"size" "3478566101"
-				"download" "810903808"
+				"gid" "5288169164656949960"
+				"size" "3476534854"
+				"download" "810161296"
 			}
 			"public_testing"
 			{
-				"gid" "1635343964934040528"
-				"size" "3478904177"
-				"download" "810934400"
+				"gid" "4637828810509650938"
+				"size" "3476539226"
+				"download" "810169200"
+			}
+			"v1.10.3f1"
+			{
+				"gid" "2285230262709032604"
+				"size" "3478566101"
+				"download" "810903808"
 			}
 			"v1.9.6"
 			{
@@ -369,14 +376,20 @@
 	{
 		"public"
 		{
-			"buildid" "15494726"
-			"timeupdated" "1724686220"
+			"buildid" "16368170"
+			"timeupdated" "1731345134"
 		}
 		"public_testing"
 		{
-			"buildid" "15679041"
+			"buildid" "16359178"
 			"description" "Public unstable build testing"
-			"timeupdated" "1726153693"
+			"timeupdated" "1731267763"
+		}
+		"v1.10.3f1"
+		{
+			"buildid" "15494726"
+			"description" "old version"
+			"timeupdated" "1731264720"
 		}
 		"v1.9.6"
 		{
@@ -446,4 +459,21 @@
 	"maxnumfiles" "5000"
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Boundless Dynamics, LLC/VTOLVR/SaveData"
+			"pattern" "*.cfg"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
 }
+"_missing_token" "False"
+"_change_number" "26143780"
+"_sha" "1e7067441866e7ed917e01d27d56452b7e68513e"
+"_size" "8663"
