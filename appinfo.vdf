@@ -34,6 +34,7 @@
 		"turkish" "1"
 		"brazilian" "1"
 		"ukrainian" "1"
+		"vietnamese" "1"
 		"indonesian" "1"
 	}
 	"content_descriptors"
@@ -163,7 +164,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727170456"
+	"store_asset_mtime" "1730927740"
 	"associations"
 	{
 		"0"
@@ -271,6 +272,10 @@
 		{
 			"supported" "true"
 		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1678359853"
 	"community_visible_stats" "1"
@@ -345,6 +350,15 @@
 }
 "depots"
 {
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"hasdepotsindlc" "1"
 	"1742932"
 	{
@@ -356,9 +370,9 @@
 		{
 			"public"
 			{
-				"gid" "77249946743569362"
-				"size" "521541932"
-				"download" "404028896"
+				"gid" "3296190037009044569"
+				"size" "519267964"
+				"download" "401273616"
 			}
 		}
 		"encryptedmanifests"
@@ -387,29 +401,23 @@
 				"size" "F687EA53EB6FDF4EFDE5A99DDFD5F069"
 				"download" "55C387939C1E52A632BFF1F20663BDAA"
 			}
-			"beta_uk"
-			{
-				"gid" "D6E2A4F88F1B915AFA122F78BFA2B0C8"
-				"size" "4552348409DA121612CE593848398E45"
-				"download" "14CD5B2258F0EF991D0D5E3463EB7B8D"
-			}
 			"beta"
 			{
-				"gid" "0F8AA87AAB1A1883F404FF6B13FDACEC"
-				"size" "287D8147B4EFF1C5316928F756F6F763"
-				"download" "E3BD4022B7AEA11E5C7C022F4CBD92AB"
+				"gid" "404DFA1FF10D12D9DBE4A013119B5844"
+				"size" "7944BB5CBFAC63998C4904B188FF0A29"
+				"download" "20628656F1E66ACD6399F6A0E50E57EB"
 			}
 			"beta_linux_test"
 			{
-				"gid" "0C3FFA2F185D0C6E7DC820DD2BF97A98"
-				"size" "5CB95CBCC476D61385601B384DACEF76"
-				"download" "3472631E5C38F2CDF651F1847A01C44F"
+				"gid" "AC370BEC16F7217CAE2F37CCC7B3C102"
+				"size" "77C25EAC6AA08B91906B580D350CB0A8"
+				"download" "95329E3B7AF534644E7CFEC1E0E8EFE9"
 			}
 			"beta_nl"
 			{
-				"gid" "4A2317B64BEC6D5516BD264546BBD461"
-				"size" "572C977FDD7A2DEC577AC97DE55E984C"
-				"download" "7EE807A8C65EC7B29E5E67128E937E34"
+				"gid" "784C57273088DD332F22345BA3167B73"
+				"size" "FD40911E80320ED7E791D56B664F9A45"
+				"download" "D84681982108DDBC642F673995FD2518"
 			}
 			"beta_pl"
 			{
@@ -417,17 +425,11 @@
 				"size" "E49F975231D828013FF361E00B595F56"
 				"download" "A275019359AAC3DC5C1A6AADCA2A8AAB"
 			}
-			"beta_ru"
+			"beta_uk"
 			{
-				"gid" "840C97220373246DE4C644213889C32D"
-				"size" "91248955BE7653E5273CF91DD6C92A13"
-				"download" "2787BFE26C228F9A736B58D61ED2F51D"
-			}
-			"beta_vi"
-			{
-				"gid" "7912BBDC59F88BB61AF39347678E354F"
-				"size" "016AC27B26D7E81D8824B8D8DB913577"
-				"download" "85864ED9EB350DD1C2B051A6CD732BD6"
+				"gid" "B3D0037F632B4A5CDBF8CA8FC6D23C31"
+				"size" "5B2B278B7B181B43AACBD1F207C49DC5"
+				"download" "9DF232D35F22E9DA3167172D5B1406F8"
 			}
 		}
 	}
@@ -441,9 +443,9 @@
 		{
 			"public"
 			{
-				"gid" "1257770354202849492"
-				"size" "555038893"
-				"download" "411937536"
+				"gid" "6333369542744506992"
+				"size" "552767098"
+				"download" "409187552"
 			}
 		}
 		"encryptedmanifests"
@@ -472,29 +474,23 @@
 				"size" "F1F16875D43DA09B61B67A76F7BA7C66"
 				"download" "9B4BB11B6474ECF35E3A97A884F45B9F"
 			}
-			"beta_uk"
-			{
-				"gid" "FB4C3FB53A21A744E876CB81A7A419C8"
-				"size" "696A8D130ECEAFB32277AF7DB3369EFE"
-				"download" "09C3926EBA357624DC7971F54352F166"
-			}
 			"beta"
 			{
-				"gid" "6DB398C40638DB3FCA84B32A11A97B3B"
-				"size" "A38D1EB842C24A7DE84480FA2B2F793C"
-				"download" "139373147684E55F266DC5E659A3E172"
+				"gid" "584CEA3B6FB0A94A7DDCDA78226F04B1"
+				"size" "3D71F8D4C25B4DC88B7740E278D5E6D2"
+				"download" "3F2ECFE6BCAAD0FD5CFFFD2163506A6C"
 			}
 			"beta_linux_test"
 			{
-				"gid" "A793DB88B1C876FE9540AA823EC985FD"
-				"size" "64E8A84C9B0C13048070D05D2563439E"
-				"download" "FFDFF4F9427346734B9222235BA34380"
+				"gid" "6D0907D2719A89ED1AC2D0B160CBC014"
+				"size" "6B0DFA0B9C373DCD42335075EC786AC3"
+				"download" "FAB213F46BEACCB9578B8BA9CDA2FCD5"
 			}
 			"beta_nl"
 			{
-				"gid" "C3DBE3F9392BF671A722600154AB17B2"
-				"size" "42CD1C9F05807619020E980F3FDAC6FC"
-				"download" "AB65CDA7D5F5E0357CAE8EA425880C28"
+				"gid" "F08E802A27C6277B34D9568D24D1B65A"
+				"size" "CA21581B4006B1C6F64DBCDA61C4E28C"
+				"download" "D9543AF5C7C6AA11C8FC25EACF9C5887"
 			}
 			"beta_pl"
 			{
@@ -502,17 +498,11 @@
 				"size" "425A936DCAAFD3FAFC106EB3FADA9DA2"
 				"download" "E439AAE551E91213C32DE86673B819D7"
 			}
-			"beta_ru"
+			"beta_uk"
 			{
-				"gid" "FF131BC74747D6EE0C3B2797FFAC7374"
-				"size" "BDA66AAECACCC5EB433A06BEC0C4AFA2"
-				"download" "6668BC6CB483FB072DEB16ACD1A2ECD8"
-			}
-			"beta_vi"
-			{
-				"gid" "57A64FFFB72007088A09CBC387C5CBD9"
-				"size" "5E2E5C49C28DA85F9684C2E474970F8A"
-				"download" "06B10EA4784CA940C916A363FBAE1BE7"
+				"gid" "FFC349B52880400E88F4540126F04B14"
+				"size" "DF9F6D8AF9D6F8BAB9A7CAAFEB7D9489"
+				"download" "FDB17B7B6E0A34CB2199BA8EDFF23994"
 			}
 		}
 	}
@@ -526,9 +516,9 @@
 		{
 			"public"
 			{
-				"gid" "7933827624995092704"
-				"size" "536349657"
-				"download" "405554848"
+				"gid" "246233679603449678"
+				"size" "535058241"
+				"download" "403659600"
 			}
 		}
 		"encryptedmanifests"
@@ -557,29 +547,23 @@
 				"size" "916EB4E48DB90C0C0DF9A6E6B30EAD54"
 				"download" "120980302F053507DDA9B3D5CDE75D55"
 			}
-			"beta_uk"
-			{
-				"gid" "2BCD2713C7E342975ADDED8F8D8AE496"
-				"size" "D6D4B49631B8984F420DC079A15E05C2"
-				"download" "E1A041B9E10BD1D19C1AC88B8B8A2415"
-			}
 			"beta"
 			{
-				"gid" "3FCB8666603EE7B907B91A980931F864"
-				"size" "9F02738E09C2F7BB9B141026810C29F7"
-				"download" "28B514E2BEF33D9A4048AC9867F04AE6"
+				"gid" "3C8A18E11CB7889FCD2F23BC9A74C3EC"
+				"size" "05E6AC9F61005FBAFCB6566EF28A1272"
+				"download" "6C9BB6EFB78D94D0FA58CB173053363D"
 			}
 			"beta_linux_test"
 			{
-				"gid" "C0E6FACE9D35751A87C73D60434D9216"
-				"size" "A28FA7F9672026FBC5CD1E3F1EA847B1"
-				"download" "C5DD984DC980CDB985933465E4BA5B5D"
+				"gid" "5DABA25CBB899F3020D33765F1516710"
+				"size" "8FE2A8CFB06CC64AE7F8EE6824001D68"
+				"download" "A961A4810A78F5E20A0358CEEB241FD0"
 			}
 			"beta_nl"
 			{
-				"gid" "5B5CADC5C7165E785D11992E27549AE6"
-				"size" "E30484965E687F6E7A46E5FFC5CD22EA"
-				"download" "E62CF10D892CCD81E1DCBA6E372B9C34"
+				"gid" "991855768D47F3897D3DF30262198ACA"
+				"size" "5C385788325F149B051E47CAAC56494B"
+				"download" "8D297041EBA22AC315285100B912AB25"
 			}
 			"beta_pl"
 			{
@@ -587,17 +571,11 @@
 				"size" "DBA8C8D57ADE1629E9A5C49DF34C2FEA"
 				"download" "007FAF3159571A7516D90DD9F65AE3C0"
 			}
-			"beta_ru"
+			"beta_uk"
 			{
-				"gid" "5869226FD3A7FFAB2B98D00EAF01A1B6"
-				"size" "A212711CCA5290FA57ABB0CCF226E32E"
-				"download" "3240E77BF4969E40692F28807A9546BB"
-			}
-			"beta_vi"
-			{
-				"gid" "9BB180CD07797923C47DFE4E299DB51E"
-				"size" "639B9843728A16B3495A6BDB7FAF778F"
-				"download" "C5BA00F8277B5BBCAFC6725930C6DF55"
+				"gid" "CD6E91526F7F8AD8F95C386497BFD59F"
+				"size" "5496DE9CF20BC8CEAFAC35C27CF5719E"
+				"download" "D30B6C916E77379C86FFACFD6A072DA6"
 			}
 		}
 	}
@@ -605,8 +583,8 @@
 	{
 		"public"
 		{
-			"buildid" "16182887"
-			"timeupdated" "1729872363"
+			"buildid" "16365870"
+			"timeupdated" "1731340197"
 		}
 		"beta_be"
 		{
@@ -632,29 +610,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1713201851"
 		}
-		"beta_uk"
-		{
-			"buildid" "13134894"
-			"pwdrequired" "1"
-			"timeupdated" "1704881559"
-		}
 		"beta"
 		{
-			"buildid" "14824662"
+			"buildid" "16365870"
 			"pwdrequired" "1"
-			"timeupdated" "1719271877"
+			"timeupdated" "1731332435"
 		}
 		"beta_linux_test"
 		{
-			"buildid" "16185610"
+			"buildid" "16306336"
 			"pwdrequired" "1"
-			"timeupdated" "1729887949"
+			"timeupdated" "1730841543"
 		}
 		"beta_nl"
 		{
-			"buildid" "16182994"
+			"buildid" "16353098"
 			"pwdrequired" "1"
-			"timeupdated" "1729872905"
+			"timeupdated" "1731169267"
 		}
 		"beta_pl"
 		{
@@ -662,17 +634,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1715413398"
 		}
-		"beta_ru"
+		"beta_uk"
 		{
-			"buildid" "15953708"
+			"buildid" "16353315"
 			"pwdrequired" "1"
-			"timeupdated" "1728306733"
-		}
-		"beta_vi"
-		{
-			"buildid" "16182728"
-			"pwdrequired" "1"
-			"timeupdated" "1729871562"
+			"timeupdated" "1731172398"
 		}
 	}
 }
@@ -796,6 +762,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25903129"
-"_sha" "5fcdcd6f13ce93d20fbfbe51cd308562ad33683f"
-"_size" "15923"
+"_change_number" "26142611"
+"_sha" "25ba8bcc6bae2e9b08f1791ac0f4417fdd9749e3"
+"_size" "14866"
