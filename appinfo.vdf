@@ -115,6 +115,48 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
 	"store_asset_mtime" "1671134641"
 	"associations"
 	{
@@ -144,6 +186,7 @@
 	{
 		"category_2" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -226,14 +269,14 @@
 		"3" "3814"
 		"4" "6378"
 		"5" "21"
-		"6" "4106"
-		"7" "1697"
+		"6" "6650"
+		"7" "4106"
 		"8" "4667"
-		"9" "6650"
+		"9" "1697"
 		"10" "4182"
 		"11" "6691"
-		"12" "3993"
-		"13" "5611"
+		"12" "5611"
+		"13" "3993"
 		"14" "4345"
 		"15" "1742"
 		"16" "1693"
@@ -242,7 +285,7 @@
 		"19" "3810"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -300,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "3971222848881315283"
-				"size" "20057862892"
-				"download" "19436840064"
+				"gid" "409101002090263704"
+				"size" "20004624996"
+				"download" "19385198736"
 			}
 		}
 		"encryptedmanifests"
@@ -315,21 +358,21 @@
 			}
 			"qabeta"
 			{
-				"gid" "F5B6A0144450D92EA876D38742859E0A"
-				"size" "BCAD6DB3B5B071C3E96096AC6FB99C41"
-				"download" "FCA513F8FEF27F980C7E4FFB34B7EFFE"
+				"gid" "0E29A8DD52379ABEA72AAB4CEFF00BA8"
+				"size" "6B7EEEE33F60DC05E18A978C71A1BBE2"
+				"download" "C4DDCA19D774E836878940B26155D8DF"
 			}
 			"qalive"
 			{
-				"gid" "1FAA2FC568F7D161094BD28C95D73A68"
-				"size" "0925CE71BCE3BAD56552BCCD0F6ED3AF"
-				"download" "6EA9C3653B7E8AC3A79C1453B41FCD7C"
+				"gid" "15A8585D4CE71DA618E029F752F6B562"
+				"size" "DE8BD146852159FCF02553B7AB501F4B"
+				"download" "0F8ADC0C37654AE0E59DA04E756398FD"
 			}
 			"qatest"
 			{
-				"gid" "D5E545193AA07DC1005A74CF78749F3E"
-				"size" "49EFAB9217CC5AFA05920628C243CCB3"
-				"download" "16C73EB9C1F1AD2EAE2E1DC8821B5C3A"
+				"gid" "C590D814E25046B4A2092CC4A603676B"
+				"size" "B33103197CA9EF7CA004190F68B576DF"
+				"download" "1ED988C2686D8114CEE2DDCC5DDB938D"
 			}
 		}
 	}
@@ -339,30 +382,30 @@
 		{
 			"public"
 			{
-				"gid" "2697437038144620115"
-				"size" "291021085"
-				"download" "258422464"
+				"gid" "5381604907391198919"
+				"size" "227077397"
+				"download" "183949376"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"qabeta"
 			{
-				"gid" "FC4D105AF440DA140C4512ECA3C0B215"
-				"size" "B57CA3F35C9A5C3DEA6750CD96572987"
-				"download" "5B8AEA3CA789DB1EC1B891E5DFAAB888"
+				"gid" "7DDB6B2EAA8F0F8D39C674FBFAF06F32"
+				"size" "C864884CF67736BDA06FA436EBB022E4"
+				"download" "25D5B2E5FD9DA5A1511C3105B780CF3C"
 			}
 			"qalive"
 			{
-				"gid" "E7668DD69D7724BE50137067608C9148"
-				"size" "1F2ECBDDCB540F42DF436510CE2F67D1"
-				"download" "502D5A2CE042DD2E5B99BDB443530293"
+				"gid" "F860CA71563F224A3B42B70EB7CF4C7E"
+				"size" "8EC8C21EBC6B307346B260FD16F8900A"
+				"download" "2852DA9729E0561C1579CE57E57B7180"
 			}
 			"qatest"
 			{
-				"gid" "4D5F0A1FB0D14EC268679E83DC614494"
-				"size" "0AFAC130765A74DE76E98BD504C57DF1"
-				"download" "3AC7D47AE63564C0BA1DE4D21C17A4C3"
+				"gid" "BBF0C238CD04E895E51B0F59C8DC375A"
+				"size" "E4269A657BAEA09A48423C6C8AEE03A3"
+				"download" "8B502FC27C860CF897DF4E5B801BAD72"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -372,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "13185538"
-			"timeupdated" "1706628824"
+			"buildid" "16329623"
+			"timeupdated" "1731406214"
 		}
 		"external"
 		{
@@ -383,15 +426,15 @@
 		}
 		"qabeta"
 		{
-			"buildid" "13185538"
+			"buildid" "15162409"
 			"pwdrequired" "1"
-			"timeupdated" "1705412843"
+			"timeupdated" "1721996770"
 		}
 		"qalive"
 		{
-			"buildid" "8178921"
+			"buildid" "16329623"
 			"pwdrequired" "1"
-			"timeupdated" "1645615848"
+			"timeupdated" "1730993841"
 		}
 		"qatest"
 		{
@@ -402,6 +445,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22949005"
-"_sha" "aaed057368cc3c1ccd591d2a9e54820754d000db"
-"_size" "7544"
+"_change_number" "26155035"
+"_sha" "989ffd02bf08ba3a78a2ed8d3743ab4b6a8d4fa2"
+"_size" "8160"
