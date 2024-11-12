@@ -1,0 +1,326 @@
+"appid" "3800"
+"common"
+{
+	"clienticon" "6e8a3302f00da0c7063981510b553ee199efd27e"
+	"clienttga" "46b190310fb77900e07eea4b76c0e6a204450d13"
+	"icon" "70dfd8567586012c7a977e9e7940c14dd7802036"
+	"logo" "ccefe073be41607201e16b0aa30da7c31c6b6bbe"
+	"logo_small" "43654ad07e6ad9a7db43feaf902df27bdee65974"
+	"metacritic_url" "pc/adventrising"
+	"name" "Advent Rising"
+	"oslist" "windows"
+	"osarch" ""
+	"type" "game"
+	"metacritic_name" "Advent Rising"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GlyphX Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Cavetap"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Ziggurat"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_3" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1123570800"
+	"steam_release_date" "1158253800"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/advent-rising\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "3800"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "3942"
+		"2" "3814"
+		"3" "1742"
+		"4" "4182"
+		"5" "1756"
+		"6" "1693"
+		"7" "1697"
+		"8" "1755"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "GlyphX Games"
+	"developer_url" "http://www.glyphx.com/"
+	"gamedir" "Advent Rising"
+	"homepage" "https://www.majescoent.com"
+	"icon" "steam/games/icon_adventRising"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "3801"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Ziggurat"
+	"gamemanualurl" "https://store.steampowered.com/manual/3800/"
+	"listofdlc" "825220,825221"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Advent Rising"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "System\\Play Advent Rising.exe"
+			"workingdir" "System\\"
+			"description" "Launcher"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "System\\advent.exe"
+			"workingdir" "System\\"
+			"description" "Advent Rising"
+			"type" "option1"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"hasdepotsindlc" "0"
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3804"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3552067042639473960"
+				"size" "1636024224"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "860F9B863C79C455F284D9106EFEAE5E"
+				"size" "CF4FBCE2FC50CDF3515E3CBA196A7E0D"
+				"download" "538D4CBE62126CC1F92B5BDEE8157855"
+			}
+		}
+	}
+	"3803"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9203390471796470227"
+				"size" "1749082932"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "0BD43BBA432E003EB7C4C63D827E8B90"
+				"size" "0E58A1E1F0669289C1376ED61C376A97"
+				"download" "538D4CBE62126CC1F92B5BDEE8157855"
+			}
+		}
+	}
+	"3802"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7479169666505694773"
+				"size" "549510854"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "B057439FA71D399390C75478E534C363"
+				"size" "4AA2A4535799B373A5B52C1B42C75C64"
+				"download" "538D4CBE62126CC1F92B5BDEE8157855"
+			}
+		}
+	}
+	"3801"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6710327725518315004"
+				"size" "1374614491"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "551A76A778F40804F32CE887CC6B3D7F"
+				"size" "4869C0E71B8C38639DAA700C37CD1730"
+				"download" "538D4CBE62126CC1F92B5BDEE8157855"
+			}
+		}
+	}
+	"3805"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1303754347205406797"
+				"size" "36557289"
+				"download" "31878320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "5F910B8E02C1C20484D0EEB7896EAE1D"
+				"size" "C287CFEB745487B10E3B9745F2A39693"
+				"download" "C4B7DCFC4107B84F69E8E48FB2744116"
+			}
+		}
+	}
+	"3806"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8641564707744074511"
+				"size" "2878760391"
+				"download" "2787022400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "7F924C304D1BF54B5B59A335C16278A6"
+				"size" "274FE1DD1398D9F2FB862CBAB5BEA139"
+				"download" "A3B1DED41D5EECEE67DF2D01A67DDC38"
+			}
+		}
+	}
+	"825220"
+	{
+		"dlcappid" "825220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5566463398135399992"
+				"size" "726944424"
+				"download" "589509984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "FB709F6408617EDC6DA417B0B0E00F81"
+				"size" "71E6C8571FB734B607B66DCD2D2EA1BD"
+				"download" "154E78033F2140F9F58948A5D877CF43"
+			}
+		}
+	}
+	"825221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "84845976338820268"
+				"size" "143767763"
+				"download" "144136864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_testing"
+			{
+				"gid" "50F4A4376DA328B705092FE5B530D6E7"
+				"size" "9B967A187D1F7AA06BBEA4833221A954"
+				"download" "87AF0DAA83BF57E01EF7E4FCF3FF46AB"
+			}
+		}
+		"dlcappid" "825221"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2708417"
+			"timeupdated" "1524259334"
+		}
+		"beta_testing"
+		{
+			"buildid" "2708398"
+			"pwdrequired" "1"
+			"timeupdated" "1524258589"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "70dc60ea6ed5b2835bd44c6cdd48511ec57e014f"
+"_size" "5836"
