@@ -1,0 +1,530 @@
+"appid" "2321470"
+"common"
+{
+	"name" "Deep Rock Galactic: Survivor"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "21c0012fc6c4419bad40b03ce6db571d2390642b"
+	"clienttga" "f28d4704daf02595b34e3a3adc2b51b6d822c4b8"
+	"clienticon" "0fd24ef36e5490404b04968e3943f3da7bc45805"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "深岩银河：幸存者"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1709596800"
+		"tested_build_id" "13573882"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "82a1a92836c83b32f83ceb8bff5f9133efb98442/capsule_231x87.jpg"
+		"schinese" "df77251a759d3ea8257e1d2c256b7fc2852d3465/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_hero_blur" "zh-cn,en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "82.32205367561258"
+			"height_pct" "62.91854666350034"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "a2ce72a3dbecf702c584b0eac8037f4580e839b6/library_600x900.jpg"
+				"schinese" "59cbb6fae95fb6331f9fc38b0d2f086632cb8d9d/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "a2ce72a3dbecf702c584b0eac8037f4580e839b6/library_600x900_2x.jpg"
+				"schinese" "59cbb6fae95fb6331f9fc38b0d2f086632cb8d9d/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "d6236fd2904bb4591fced780df4018a6392ade85/library_hero.jpg"
+				"schinese" "d6236fd2904bb4591fced780df4018a6392ade85/library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "d6236fd2904bb4591fced780df4018a6392ade85/library_hero_2x.jpg"
+				"schinese" "d6236fd2904bb4591fced780df4018a6392ade85/library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "d6236fd2904bb4591fced780df4018a6392ade85/library_hero_blur_schinese.jpg"
+				"english" "d6236fd2904bb4591fced780df4018a6392ade85/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "82.32205367561258"
+				"height_pct" "62.91854666350034"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "a321983bb78b73b8597f239d374f3c8ed7ec93cb/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "a321983bb78b73b8597f239d374f3c8ed7ec93cb/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "daac56204b448f0904675a1b2c5553031673e25e/library_header.jpg"
+				"schinese" "9ccf03f84d63fa232144001d4b0452c9f23ab5d4/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "daac56204b448f0904675a1b2c5553031673e25e/library_header_2x.jpg"
+				"schinese" "9ccf03f84d63fa232144001d4b0452c9f23ab5d4/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731405224"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funday Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ghost Ship Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Ghost Ship Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_59" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1707911736"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2321470"
+	"store_tags"
+	{
+		"0" "7918"
+		"1" "42804"
+		"2" "4885"
+		"3" "3959"
+		"4" "4637"
+		"5" "6730"
+		"6" "5547"
+		"7" "4791"
+		"8" "5125"
+		"9" "19"
+		"10" "1773"
+		"11" "3942"
+		"12" "1755"
+		"13" "5154"
+		"14" "4182"
+		"15" "1673"
+		"16" "4166"
+		"17" "3993"
+		"18" "493"
+		"19" "4342"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Funday Games"
+	"publisher" "Ghost Ship Publishing"
+	"homepage" "https://www.fundaygames.dk/drgs"
+	"listofdlc" "2782850"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Deep Rock Survivor"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DRG Survivor.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"2321471"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3838205887535537852"
+				"size" "3138172598"
+				"download" "1807292928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"savedatatesters"
+			{
+				"gid" "C7FD0DE3BD1B7E8376ECCCBDE18F1118"
+				"size" "405457DA76B0C059EE081D96C0D0815F"
+				"download" "D2097073C5ADA1E884DFEB2360FC4D77"
+			}
+			"creators"
+			{
+				"gid" "2F5C97C2120EF5023DF114ACB101898D"
+				"size" "D4B022BDF8FF3DE7971D3F73D2597F42"
+				"download" "669DA1F703C31B4B65B1F7220D222639"
+			}
+			"experimental"
+			{
+				"gid" "79B873FCA51F6BEB1160BB5299C4E663"
+				"size" "038C47EA0F64158DA2AD41065EADD392"
+				"download" "62714F43174C1ACCE1C91E007CB8757C"
+			}
+			"internal"
+			{
+				"gid" "A5709EA341B6B696895DB9413E165C8A"
+				"size" "18B9053324C137FA50E3707CB41124A9"
+				"download" "F480C646B29515D6A1BCD5074B525178"
+			}
+			"localization"
+			{
+				"gid" "003A02DDE44C5B38038A108D04F93581"
+				"size" "62E72887F9618048BFA9DD88AFCAF48B"
+				"download" "3A859A4A3F075FF0AE4333BA458061E9"
+			}
+			"marketing"
+			{
+				"gid" "4777F166D0153890C7C2CCBA54EB0506"
+				"size" "D5C208206E77EF3656E20C5A928C85FA"
+				"download" "5D28A3332E22D495DBB81437C92F07D4"
+			}
+			"pipeline-development"
+			{
+				"gid" "5E80912DA26689A8124909DDE386325B"
+				"size" "8BDFE03284FE471B69EAF0CAED367BE2"
+				"download" "1669EBEEE5D9BC6511BDD19A3F846398"
+			}
+			"staging"
+			{
+				"gid" "6978F4B97DC4F3D2A435B557576700D5"
+				"size" "9CA29B7F12B90DD3E88EA482FFB15242"
+				"download" "870869407BFD495E9EC7573F8A6064D9"
+			}
+			"testers"
+			{
+				"gid" "A92DCE595179CC2FD23C12752E9FE0F9"
+				"size" "5A7C61470A3CA6183E0A042A997643EA"
+				"download" "4D8769C1468C2B20D82EE4248A2346A9"
+			}
+			"tournament2024"
+			{
+				"gid" "D996BE14B87C577109C4FA5537A4A2CA"
+				"size" "65D854DE093F4415B874120395AA1C5C"
+				"download" "4550D0C7872ED7ED5E24A01A40F7E990"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16390328"
+			"timeupdated" "1731497465"
+		}
+		"savedatatesters"
+		{
+			"buildid" "13702713"
+			"pwdrequired" "1"
+			"timeupdated" "1710164973"
+		}
+		"creators"
+		{
+			"buildid" "16180873"
+			"pwdrequired" "1"
+			"timeupdated" "1729861711"
+		}
+		"experimental"
+		{
+			"buildid" "15604483"
+			"pwdrequired" "1"
+			"timeupdated" "1725546673"
+		}
+		"internal"
+		{
+			"buildid" "16389866"
+			"pwdrequired" "1"
+			"timeupdated" "1731490172"
+		}
+		"localization"
+		{
+			"buildid" "16166917"
+			"pwdrequired" "1"
+			"timeupdated" "1729780626"
+		}
+		"marketing"
+		{
+			"buildid" "14780291"
+			"pwdrequired" "1"
+			"timeupdated" "1719392952"
+		}
+		"pipeline-development"
+		{
+			"buildid" "14703147"
+			"pwdrequired" "1"
+			"timeupdated" "1718269926"
+		}
+		"staging"
+		{
+			"buildid" "16390328"
+			"pwdrequired" "1"
+			"timeupdated" "1731492427"
+		}
+		"testers"
+		{
+			"buildid" "16378299"
+			"pwdrequired" "1"
+			"timeupdated" "1731414421"
+		}
+		"tournament2024"
+		{
+			"buildid" "16263104"
+			"pwdrequired" "1"
+			"timeupdated" "1730455374"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "30000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Funday Games/DRG Survivor"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Funday Games/DRG Survivor"
+					"replace" ".config/unity3d/Funday Games/DRG Survivor"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26173675"
+"_sha" "7d300f31bb60785a34d539d4014eb4690403e4dd"
+"_size" "10625"
