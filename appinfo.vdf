@@ -345,8 +345,8 @@
 	"store_tags"
 	{
 		"0" "4684"
-		"1" "4364"
-		"2" "9"
+		"1" "9"
+		"2" "4364"
 		"3" "1676"
 		"4" "4598"
 		"5" "5382"
@@ -390,9 +390,10 @@
 				"oslist" "macos"
 			}
 		}
-		"4"
+		"5"
 		{
-			"executable" "aoh3.jar"
+			"executable" "jre\\bin\\javaw.exe"
+			"arguments" "-jar game.jar"
 			"type" "default"
 			"config"
 			{
@@ -400,23 +401,9 @@
 			}
 			"description_loc"
 			{
-				"english" "AoH3 - Run as JAR File"
+				"english" "AoH3 - Play the Game"
 			}
-			"description" "AoH3 - Run as JAR File"
-		}
-		"5"
-		{
-			"executable" "jre\\bin\\java.exe"
-			"arguments" "-jar aoh3.jar"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "AoH3 - Run in Java 2"
-			}
-			"description" "AoH3 - Run in Java 2"
+			"description" "AoH3 - Play the Game"
 		}
 	}
 }
@@ -443,9 +430,15 @@
 		{
 			"public"
 			{
-				"gid" "7664837297047986094"
-				"size" "861847235"
-				"download" "608450944"
+				"gid" "444591081932989001"
+				"size" "856785584"
+				"download" "603386720"
+			}
+			"3rdnovember"
+			{
+				"gid" "5552759548991272525"
+				"size" "863601860"
+				"download" "610068640"
 			}
 			"lwjgl3"
 			{
@@ -470,6 +463,12 @@
 				"size" "673085794"
 				"download" "615881856"
 			}
+			"3rdnovember"
+			{
+				"gid" "3876210720539566120"
+				"size" "673085794"
+				"download" "615881856"
+			}
 			"lwjgl3"
 			{
 				"gid" "3876210720539566120"
@@ -482,13 +481,19 @@
 	{
 		"public"
 		{
-			"buildid" "16352972"
-			"timeupdated" "1731167170"
+			"buildid" "16385464"
+			"timeupdated" "1731457248"
+		}
+		"3rdnovember"
+		{
+			"buildid" "16280821"
+			"description" "Version of the game from 3rd November 2024"
+			"timeupdated" "1731498110"
 		}
 		"lwjgl3"
 		{
 			"buildid" "16348461"
-			"description" "LWJGL3"
+			"description" "LWJGL3 - Version of the game with latest LWJGL"
 			"timeupdated" "1731151012"
 		}
 	}
@@ -524,6 +529,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26128101"
-"_sha" "879a7eec63d3173e76fecb6ad0fd621428d988a2"
-"_size" "8519"
+"_change_number" "26173807"
+"_sha" "37fc996d8f7af9f22af437bf1534dbcc1a7198e4"
+"_size" "8729"
