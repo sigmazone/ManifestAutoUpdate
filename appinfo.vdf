@@ -20,6 +20,16 @@
 	{
 		"library_logo" "en"
 	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1686300454"
 	"associations"
 	{
@@ -41,6 +51,7 @@
 		"category_1" "1"
 		"category_49" "1"
 		"category_36" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -78,9 +89,9 @@
 		{
 			"public"
 			{
-				"gid" "5989654999760231358"
-				"size" "10979376"
-				"download" "11055504"
+				"gid" "8414726390630477043"
+				"size" "11052707"
+				"download" "11203984"
 			}
 			"1.34.2_legacy"
 			{
@@ -95,14 +106,23 @@
 				"download" "11043248"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"qaprivate3"
+			{
+				"gid" "3E9F8B6345C2A3F48ABB0105EA0A9686"
+				"size" "363775C8B266A77F3FE7E8046AA0DFD9"
+				"download" "22EE2015B354B188D48A1B607054B890"
+			}
+		}
 		"dlcappid" "1267590"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13302660"
-			"timeupdated" "1707749175"
+			"buildid" "15992176"
+			"timeupdated" "1731425968"
 		}
 		"1.34.2_legacy"
 		{
@@ -114,9 +134,15 @@
 			"buildid" "5041551"
 			"timeupdated" "1696861363"
 		}
+		"qaprivate3"
+		{
+			"buildid" "15992176"
+			"pwdrequired" "1"
+			"timeupdated" "1728551875"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22763854"
-"_sha" "ad499011b2cd43fee37f21288ed5385406509e44"
-"_size" "1898"
+"_change_number" "26159831"
+"_sha" "0b5847afa0f4e8c1b92f360ac1750653c0ee190e"
+"_size" "2348"
