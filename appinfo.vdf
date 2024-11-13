@@ -3,9 +3,9 @@
 {
 	"name" "Karate Survivor"
 	"type" "Game"
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64"
 	"clienttga" "9058bf93f2df1ab68a647a17f3d1887c9f180982"
 	"clienticon" "2af974ed9ad04d3ff5bf97fec276f543943dba56"
 	"icon" "ee9db65005dc88e4a69b266e584e27890b926f08"
@@ -23,6 +23,7 @@
 		"schinese" "1"
 		"russian" "1"
 	}
+	"clienticns" "5238148e9bf7fe4a65132596cbefff44b5773dbb"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -229,8 +230,8 @@
 		"3" "42804"
 		"4" "4885"
 		"5" "3993"
-		"6" "3871"
-		"7" "1716"
+		"6" "1716"
+		"7" "3871"
 		"8" "3959"
 		"9" "4182"
 		"10" "19"
@@ -290,18 +291,18 @@
 		{
 			"public"
 			{
-				"gid" "2029091830629012104"
-				"size" "1880269173"
-				"download" "177126704"
+				"gid" "8301168653853982703"
+				"size" "1880290813"
+				"download" "177083328"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "5B28513BFEBCF9D724F5000EFB7C532F"
-				"size" "A5A38B13ABD248A3F19D64F34652AFC3"
-				"download" "A5FDEE8D876A1B054395B472A3EA3420"
+				"gid" "75B0DC4D72957D26BF9ECACB78BC9AF5"
+				"size" "2ABCE7CBB38E630E2FEB709839618F0E"
+				"download" "873976237B666DA57E4EDE5ADF715722"
 			}
 			"localization"
 			{
@@ -311,9 +312,9 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "BCEAA615EC3A240165FA8A674B77B5A6"
-				"size" "C7733914B34E80C14DFCB0AE8FBC8BF5"
-				"download" "FB8D999EE6B941CE51EC83A25579482A"
+				"gid" "D658DF595B7BDF7A20032D34126D8E83"
+				"size" "EBFAB88A279DC322CB628039D17685D9"
+				"download" "DD0636F59EB3DA864050B0C590F18BC1"
 			}
 		}
 	}
@@ -325,14 +326,26 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "8429749233192848718"
+				"size" "1850845175"
+				"download" "120203504"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "D7A99D8586372637E53CD053BE0645FC"
-				"size" "979DAEFE1CA6F844B52A3FE12C4E4472"
-				"download" "0496F5AAA94ECA82CF33114725DDBAE2"
+				"gid" "7DF2C86C4AF0F936614C53AAFDD1C400"
+				"size" "4950426503A12089B357BE11A07B7998"
+				"download" "BBF899C338BA6D75463F0907FD8305C2"
+			}
+			"releasecandidate"
+			{
+				"gid" "35ED0EE620D2CC65BB6C2D5538E487F4"
+				"size" "27CF869C57D81978E375837324306B96"
+				"download" "0A8147353657D9B744E5D8C85988D8B1"
 			}
 		}
 	}
@@ -340,14 +353,14 @@
 	{
 		"public"
 		{
-			"buildid" "16362030"
-			"timeupdated" "1731312464"
+			"buildid" "16392291"
+			"timeupdated" "1731502713"
 		}
 		"development"
 		{
-			"buildid" "16362543"
+			"buildid" "16390509"
 			"pwdrequired" "1"
-			"timeupdated" "1731310111"
+			"timeupdated" "1731493227"
 		}
 		"localization"
 		{
@@ -357,9 +370,9 @@
 		}
 		"releasecandidate"
 		{
-			"buildid" "16362030"
+			"buildid" "16390377"
 			"pwdrequired" "1"
-			"timeupdated" "1731304274"
+			"timeupdated" "1731492659"
 		}
 	}
 }
@@ -380,9 +393,20 @@
 			}
 			"recursive" "1"
 		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "com.Alawar.KarateSurvivor"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26136432"
-"_sha" "a6b335056cb9c2f1b825444fc9d0dd87d84237da"
-"_size" "7332"
+"_change_number" "26174797"
+"_sha" "91fcb552ed4b4d463c4fcab083ff79e0989de3df"
+"_size" "7871"
