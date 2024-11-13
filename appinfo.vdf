@@ -16,6 +16,11 @@
 	{
 		"schinese" "狂野西部时代"
 	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -47,7 +52,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "624b6904ffa403a4d975fc1ece210ed88e30f10b/capsule_231x87.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 	}
 	"header_image"
@@ -57,17 +62,73 @@
 	}
 	"library_assets"
 	{
-		"library_capsule" "zh-cn,en"
-		"library_hero" "zh-cn,en"
+		"library_capsule" "en"
+		"library_hero" "en"
 		"library_logo" "zh-cn,en"
+		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "CenterCenter"
-			"width_pct" "64.4107351225204"
-			"height_pct" "64.05827392629723"
+			"pinned_position" "BottomLeft"
+			"width_pct" "101.40023337222868"
+			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1699883617"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "101.40023337222868"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724749742"
 	"associations"
 	{
 		"0"
@@ -92,7 +153,6 @@
 		"0" "25"
 		"1" "3"
 		"2" "28"
-		"3" "70"
 	}
 	"category"
 	{
@@ -100,6 +160,8 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -127,6 +189,7 @@
 		"polish"
 		{
 			"subtitles" "true"
+			"supported" "true"
 		}
 		"russian"
 		{
@@ -141,36 +204,43 @@
 		"ukrainian"
 		{
 			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1676571840"
+	"steam_release_date" "1724345818"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1329880"
 	"store_tags"
 	{
-		"0" "1643"
-		"1" "1662"
-		"2" "1647"
-		"3" "1702"
-		"4" "4486"
-		"5" "15564"
-		"6" "7332"
+		"0" "1647"
+		"1" "599"
+		"2" "1662"
+		"3" "1695"
+		"4" "1702"
+		"5" "7332"
+		"6" "1643"
 		"7" "10235"
-		"8" "1695"
-		"9" "122"
+		"8" "122"
+		"9" "3839"
 		"10" "4106"
-		"11" "3839"
-		"12" "4191"
-		"13" "599"
-		"14" "21"
-		"15" "4182"
-		"16" "11014"
-		"17" "220585"
-		"18" "3799"
-		"19" "5094"
+		"11" "4191"
+		"12" "21"
+		"13" "4486"
+		"14" "4182"
+		"15" "220585"
+		"16" "3799"
+		"17" "15564"
+		"18" "5094"
+		"19" "11014"
 	}
 	"review_score" "4"
-	"review_percentage" "32"
+	"review_percentage" "36"
 }
 "extended"
 {
@@ -209,9 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "1640654105449516735"
-				"size" "9668953381"
-				"download" "4672047952"
+				"gid" "8082131960834313150"
+				"size" "9364422946"
+				"download" "5061077888"
 			}
 		}
 		"encryptedmanifests"
@@ -221,12 +291,6 @@
 				"gid" "AF6D550BB5E8634F34A763C217EC5E1F"
 				"size" "93D38CB10355EF6B1DE60B333E3E7854"
 				"download" "064C3AFFB20E02EC9A729DD8C0F7DAE2"
-			}
-			"dev_test"
-			{
-				"gid" "1F1504AB267EE17131A24E1C837AA92A"
-				"size" "DA4805B56708A450AA991A0CD9F1369A"
-				"download" "29AFEB2490ECE25E0C76571C2E7362BB"
 			}
 			"dlss_test"
 			{
@@ -258,17 +322,29 @@
 				"size" "4EE34446D0526C5E678B0ADB94383FFA"
 				"download" "BDB8DB0C2312888D03C5F8B9F3D79AAF"
 			}
+			"dev_test"
+			{
+				"gid" "2E877BE00A0E30F7AAC9144ADF715964"
+				"size" "429DE3B98074B6E0D2636381D397F48C"
+				"download" "FD1D6B47C61B101A12E2A59AA9CEC69F"
+			}
+			"dlc_test"
+			{
+				"gid" "93061CF5D139876A3EB83A9FD5743089"
+				"size" "D634A83AFF81BEDA49C32BA5485155D9"
+				"download" "1D7515CAF82BE05A5CC3C817AA0359FC"
+			}
 			"qa_test"
 			{
-				"gid" "25A59C8002CA04A0093A42AA8222ABE4"
-				"size" "5F3D5C87CA900A02489CE69578273AA7"
-				"download" "37AEEABE52B9D7B2965B2CF683433254"
+				"gid" "9085DDF0960577D2AC6E86BD7708AE3D"
+				"size" "CE0FF131576419E69545E4B52069E4C9"
+				"download" "240D8FC090C44744AF6C49E8C8BB0D48"
 			}
 			"standalone"
 			{
-				"gid" "C162DD12674099B4F245F161F82CFD3D"
-				"size" "EB1724A9FA0A03D27E72599E8D859BFD"
-				"download" "7FA55583A00AAF88B24469D0800A96ED"
+				"gid" "BEB0FB60E9BF366695984F2474A83699"
+				"size" "856798B91E51FAEE5D27336C88FE07AC"
+				"download" "EB85BF5D2E267263F0110336732519B1"
 			}
 		}
 	}
@@ -284,9 +360,9 @@
 		{
 			"public"
 			{
-				"gid" "6991315829215456277"
-				"size" "115285314"
-				"download" "115139024"
+				"gid" "553792975535920546"
+				"size" "93879774"
+				"download" "94595184"
 			}
 		}
 		"encryptedmanifests"
@@ -296,6 +372,12 @@
 				"gid" "3F8F49A76E6819BC796920DA92ED37E7"
 				"size" "10232835F06FF8A1277612D1BD54FABA"
 				"download" "3856C2BE2E1C7373840438E90E7514CC"
+			}
+			"dlc_test"
+			{
+				"gid" "43E7A7403C8F7218CC1109D81671236E"
+				"size" "C40E1AAE7F5BAA6E2BEDD13515BCFEFC"
+				"download" "A5AC9AEF4ECB56746B968F013BFCA707"
 			}
 			"standalone"
 			{
@@ -317,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "3834446269161845832"
-				"size" "14728637"
-				"download" "12792736"
+				"gid" "1852584131706941833"
+				"size" "92221969"
+				"download" "89401200"
 			}
 		}
 		"encryptedmanifests"
@@ -329,6 +411,12 @@
 				"gid" "4C8E6918DFC76CA7F897FD760D3B2EE6"
 				"size" "A7D018F86999E6700B3DCC8B7E1A446D"
 				"download" "31BC825E1E4A4CD2726D6FC5E79BFD22"
+			}
+			"dlc_test"
+			{
+				"gid" "46C56779CADED344BE4D6491BC02101C"
+				"size" "B4E520A80BC08E3DECA023D9EA209156"
+				"download" "4627533494CAB1D75B20F0F9CA88EF65"
 			}
 			"standalone"
 			{
@@ -342,20 +430,14 @@
 	{
 		"public"
 		{
-			"buildid" "12611120"
-			"timeupdated" "1699009303"
+			"buildid" "16341642"
+			"timeupdated" "1731069113"
 		}
 		"dev_staging"
 		{
 			"buildid" "10721396"
 			"pwdrequired" "1"
 			"timeupdated" "1679151006"
-		}
-		"dev_test"
-		{
-			"buildid" "13033351"
-			"pwdrequired" "1"
-			"timeupdated" "1703284044"
 		}
 		"dlss_test"
 		{
@@ -387,21 +469,40 @@
 			"pwdrequired" "1"
 			"timeupdated" "1689158172"
 		}
+		"dev_test"
+		{
+			"buildid" "16233246"
+			"pwdrequired" "1"
+			"timeupdated" "1730275865"
+		}
+		"dlc_test"
+		{
+			"buildid" "15647554"
+			"pwdrequired" "1"
+			"timeupdated" "1725951745"
+		}
 		"qa_test"
 		{
-			"buildid" "12709313"
+			"buildid" "16287758"
 			"pwdrequired" "1"
-			"timeupdated" "1700051114"
+			"timeupdated" "1730726950"
 		}
 		"standalone"
 		{
-			"buildid" "12610463"
+			"buildid" "16161260"
 			"pwdrequired" "1"
-			"timeupdated" "1699004044"
+			"timeupdated" "1729752056"
 		}
 	}
 }
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+}
 "_missing_token" "False"
-"_change_number" "21652309"
-"_sha" "5b9f5e8258728748f3a6abc844cd44dbf8e59179"
-"_size" "7857"
+"_change_number" "26127753"
+"_sha" "7b4a14c52c8f4f0f48b0471be8b8a92a38f58bef"
+"_size" "9707"
