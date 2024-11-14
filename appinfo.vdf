@@ -30,6 +30,55 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1730937600"
+		"tested_build_id" "16241027"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -48,6 +97,7 @@
 	{
 		"library_capsule" "zh-tw,zh-cn,en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "zh-tw,zh-cn,en"
 		"logo_position"
@@ -75,6 +125,13 @@
 				"english" "372bfdf85a0dd4155efd5e5a61ec63e1585bd37d/library_hero.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "372bfdf85a0dd4155efd5e5a61ec63e1585bd37d/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"logo_position"
@@ -98,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730821588"
+	"store_asset_mtime" "1731506006"
 	"associations"
 	{
 		"0"
@@ -213,7 +270,7 @@
 		"19" "4168"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -240,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "2429065475805111046"
-				"size" "1618822851"
-				"download" "1123440016"
+				"gid" "7369503054509478471"
+				"size" "1637302091"
+				"download" "1140414576"
 			}
 		}
 		"encryptedmanifests"
@@ -279,9 +336,9 @@
 			}
 			"development"
 			{
-				"gid" "5B85400C69F14C1975E8F103BDE3625C"
-				"size" "DA17E41C4FFE16F8475C5A8B454BA1BE"
-				"download" "0A7571CE2073E424EC4DB1D7F711FC08"
+				"gid" "E8595522624A38AA864D9D35E8072F38"
+				"size" "82B4E83C3921917013897F7024168EA8"
+				"download" "7A0AFFFBF0DA55EE26E23F72729B74E8"
 			}
 			"expo"
 			{
@@ -303,9 +360,9 @@
 			}
 			"external_qa"
 			{
-				"gid" "92928ECD7A93DF5AABBCB8FF29B4611E"
-				"size" "7349E5D9AEA94FED04A4B540CF06F7E0"
-				"download" "C29620FDDA8D953D62CE5ED6365F1341"
+				"gid" "E431BB22B9A98CB5A26954EA8DBEB410"
+				"size" "7E348F7902FD43A7E7391F06FB15B97E"
+				"download" "B21A4A7A6C369E8B67C4CBBD53614287"
 			}
 			"gamera"
 			{
@@ -315,9 +372,9 @@
 			}
 			"internal"
 			{
-				"gid" "B167F5094163AB9D0BCEBE9EE5A82206"
-				"size" "261F555B50FD01E1EBF87B7E490F611A"
-				"download" "380CF3C53CF867CDA1CA70483AA0E30A"
+				"gid" "1BB56547A8B934B9DDEA4769849EACD4"
+				"size" "EA7D4AAE2A838C6EC7D5A40A6C629476"
+				"download" "950A1581FA4BAF41696CD2A7FC62F344"
 			}
 			"older"
 			{
@@ -327,9 +384,9 @@
 			}
 			"press"
 			{
-				"gid" "E5F51BA6AC62119A162D74DC3A80EC3E"
-				"size" "A96868EE443D71648B3DB588260EE5C3"
-				"download" "DE34E5989AC732CC5B92BFBD6DA5AC1C"
+				"gid" "34D4A4DEDC9D41D2B5604475C23EBBB1"
+				"size" "448FF7EAABD0FA984E879EE2444151EE"
+				"download" "2623E6496314B463EE5176AEE709910A"
 			}
 			"release"
 			{
@@ -339,9 +396,9 @@
 			}
 			"snk_review"
 			{
-				"gid" "1F24DFCB0DF8EB7569900D14DFB5A124"
-				"size" "56D16B9085627BEB81047DB6837DF732"
-				"download" "215FCA332A88BF1AF6F7B4D34B69BE7F"
+				"gid" "3D468E8011C1B17484CECB1E83AF38BD"
+				"size" "FF21E14F154A277A3CD5EE3B3B24F64A"
+				"download" "38A3B5C8966BCDF84307D098DCDD5D85"
 			}
 		}
 	}
@@ -349,8 +406,8 @@
 	{
 		"public"
 		{
-			"buildid" "16241027"
-			"timeupdated" "1730803493"
+			"buildid" "16381350"
+			"timeupdated" "1731596350"
 		}
 		"leikir_external"
 		{
@@ -384,9 +441,9 @@
 		}
 		"development"
 		{
-			"buildid" "16290890"
+			"buildid" "16381350"
 			"pwdrequired" "1"
-			"timeupdated" "1730744690"
+			"timeupdated" "1731430306"
 		}
 		"expo"
 		{
@@ -408,9 +465,9 @@
 		}
 		"external_qa"
 		{
-			"buildid" "16290890"
+			"buildid" "16381350"
 			"pwdrequired" "1"
-			"timeupdated" "1730794536"
+			"timeupdated" "1731489239"
 		}
 		"gamera"
 		{
@@ -420,9 +477,9 @@
 		}
 		"internal"
 		{
-			"buildid" "16290890"
+			"buildid" "16381350"
 			"pwdrequired" "1"
-			"timeupdated" "1730794522"
+			"timeupdated" "1731489253"
 		}
 		"older"
 		{
@@ -432,9 +489,9 @@
 		}
 		"press"
 		{
-			"buildid" "16241027"
+			"buildid" "16381350"
 			"pwdrequired" "1"
-			"timeupdated" "1730803582"
+			"timeupdated" "1731596308"
 		}
 		"release"
 		{
@@ -444,9 +501,9 @@
 		}
 		"snk_review"
 		{
-			"buildid" "16241027"
+			"buildid" "16343784"
 			"pwdrequired" "1"
-			"timeupdated" "1730803594"
+			"timeupdated" "1731088909"
 		}
 	}
 }
@@ -470,6 +527,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26069752"
-"_sha" "61d8581b7dbbb9fa69bcfae207fec308e0c977e7"
-"_size" "9317"
+"_change_number" "26194954"
+"_sha" "65c7553b47c221aeacee2e55df8d743fee597930"
+"_size" "10718"
