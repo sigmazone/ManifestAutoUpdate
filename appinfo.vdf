@@ -366,7 +366,7 @@
 		"19" "5179"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -405,6 +405,21 @@
 			}
 			"description" "AoH3 - Play the Game"
 		}
+		"6"
+		{
+			"executable" "jre\\bin\\javaw.exe"
+			"arguments" "-jar aoh3.jar"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "lwjgl3"
+			}
+			"description_loc"
+			{
+				"english" "BETA PLAY AoH3 - LWJGL3"
+			}
+			"description" "BETA PLAY AoH3 - LWJGL3"
+		}
 	}
 }
 "depots"
@@ -430,15 +445,9 @@
 		{
 			"public"
 			{
-				"gid" "444591081932989001"
-				"size" "856785584"
-				"download" "603386720"
-			}
-			"3rdnovember"
-			{
-				"gid" "5552759548991272525"
-				"size" "863601860"
-				"download" "610068640"
+				"gid" "2707994825507440174"
+				"size" "856756096"
+				"download" "603355168"
 			}
 			"lwjgl3"
 			{
@@ -463,12 +472,6 @@
 				"size" "673085794"
 				"download" "615881856"
 			}
-			"3rdnovember"
-			{
-				"gid" "3876210720539566120"
-				"size" "673085794"
-				"download" "615881856"
-			}
 			"lwjgl3"
 			{
 				"gid" "3876210720539566120"
@@ -481,19 +484,13 @@
 	{
 		"public"
 		{
-			"buildid" "16385464"
-			"timeupdated" "1731457248"
-		}
-		"3rdnovember"
-		{
-			"buildid" "16280821"
-			"description" "Version of the game from 3rd November 2024"
-			"timeupdated" "1731498110"
+			"buildid" "16395290"
+			"timeupdated" "1731517624"
 		}
 		"lwjgl3"
 		{
 			"buildid" "16348461"
-			"description" "LWJGL3 - Version of the game with latest LWJGL"
+			"description" "LWJGL3 - Version of the game with latest LWJGL, 8th November 2024"
 			"timeupdated" "1731151012"
 		}
 	}
@@ -529,6 +526,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26173807"
-"_sha" "37fc996d8f7af9f22af437bf1534dbcc1a7198e4"
-"_size" "8729"
+"_change_number" "26179333"
+"_sha" "f09102611fca39b7739358dfe1828140b85c8dc4"
+"_size" "8650"
