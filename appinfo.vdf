@@ -126,7 +126,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1719496826"
+	"store_asset_mtime" "1731468727"
 	"associations"
 	{
 		"0"
@@ -229,14 +229,41 @@
 	"installdir" "The Witch of Fern Island"
 	"launch"
 	{
-		"0"
+		"1"
 		{
 			"executable" "WitchOfTheFernIsland.exe"
-			"arguments" "-NOVERIFYGC"
-			"type" "default"
+			"arguments" "-NOVERIFYGC -dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DX11 - Upscaling TSR / TAA / DLSS"
+			}
+			"description" "DX11 - Upscaling TSR / TAA / DLSS"
+		}
+		"2"
+		{
+			"executable" "WitchOfTheFernIsland.exe"
+			"arguments" "-NOVERIFYGC -force-d3d12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DX12 - Upsacling TSR / TAA / DLSS / FSR and Frame Generation (recommended)"
+			}
+			"description" "DX12 - Upsacling TSR / TAA / DLSS / FSR and Frame Generation (recommended)"
 		}
 	}
 	"steamdecktouchscreen" "5"
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -271,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "134417261162320463"
-				"size" "21120351363"
-				"download" "7544382400"
+				"gid" "3598967083099358672"
+				"size" "21242036630"
+				"download" "7582461280"
 			}
 		}
 		"encryptedmanifests"
@@ -298,15 +325,15 @@
 			}
 			"debug"
 			{
-				"gid" "A678855CB6E921373767740461D45168"
-				"size" "889C5BDFB413C5C457F6B6DC0BC98F7E"
-				"download" "2F8166B18B7692AF57DA8D5BA69A3459"
+				"gid" "881E4810B86B868C0524B669F7397840"
+				"size" "04F43678235CE746463917DC6C799B3B"
+				"download" "C639D8BDC1067A25B8DA05FB1D44D819"
 			}
 			"release"
 			{
-				"gid" "2787606FC95BB724DAD47399F3003116"
-				"size" "766919087108EF77C64E6FC12E2609A5"
-				"download" "EE349667144ABB50B670D0924BF2E290"
+				"gid" "E220298A18F14B506ABA2A11CCF4780E"
+				"size" "66AEFA26074C1D300F43876043C1B11D"
+				"download" "2A1A607E941A9C3A6649EAD0106EF28F"
 			}
 			"steamdeck"
 			{
@@ -326,24 +353,24 @@
 		{
 			"public"
 			{
-				"gid" "5037144009748849195"
-				"size" "20776547585"
-				"download" "7457507696"
+				"gid" "4216123057545942319"
+				"size" "20601669749"
+				"download" "7443937600"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"debug"
 			{
-				"gid" "E1E9C49BCB236FA58E4FF26F0E39B412"
-				"size" "01429C1384F3E5FC7A4A764C284F2351"
-				"download" "91A796E2D6E3B1321B4F8FDE99FE4429"
+				"gid" "0C1D017EE4CA392F393162FB405D84A6"
+				"size" "01005A7FFA7E109BE1506E6702E20C59"
+				"download" "5C268B1CD97D769C7C39A27410627F30"
 			}
 			"release"
 			{
-				"gid" "8342C56D81CBEE0E86BCDC834693CC89"
-				"size" "E19E696BFF241E116892554C38AB323D"
-				"download" "199B0E94D186ADA181320438BDD33F41"
+				"gid" "82CD7AF7C7AAD6A25404D594292A2B68"
+				"size" "5F3D24DE14A94961D0C37B76F8654AB6"
+				"download" "0A3F7A465CFEABBE38FA87B44F1C4DEB"
 			}
 		}
 	}
@@ -351,8 +378,8 @@
 	{
 		"public"
 		{
-			"buildid" "14846578"
-			"timeupdated" "1719415968"
+			"buildid" "16405181"
+			"timeupdated" "1731594007"
 		}
 		"lastpatch"
 		{
@@ -374,15 +401,15 @@
 		}
 		"debug"
 		{
-			"buildid" "15638991"
+			"buildid" "16393684"
 			"pwdrequired" "1"
-			"timeupdated" "1725889505"
+			"timeupdated" "1731509321"
 		}
 		"release"
 		{
-			"buildid" "14846578"
+			"buildid" "16405181"
 			"pwdrequired" "1"
-			"timeupdated" "1719414491"
+			"timeupdated" "1731583102"
 		}
 		"steamdeck"
 		{
@@ -407,3 +434,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26194296"
+"_sha" "c3e603c7ab122ee10bda69489a391646c36762ed"
+"_size" "8197"
