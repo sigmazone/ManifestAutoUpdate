@@ -1,0 +1,271 @@
+"appid" "1286220"
+"common"
+{
+	"name" "Sea Power"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "4ac6c2985d213cae966aac26a9d449a9a6be31bd"
+	"logo_small" "4ac6c2985d213cae966aac26a9d449a9a6be31bd_thumb"
+	"icon" "c1f0ae4ddfb1cd3845d9d0cf46c714fee51c8d30"
+	"clienticon" "df76b36bc2a2ee152a300fc6ce6c656f8b0ddd42"
+	"clienttga" "c1f47a5293aae39f0f82429726a72792c6f7c347"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "012c7a4714bd939e909f61bca759f73a759b0d93/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731475967"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Triassic Games AB"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MicroProse Software"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731405329"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1286220"
+	"store_tags"
+	{
+		"0" "4994"
+		"1" "9"
+		"2" "599"
+		"3" "5179"
+		"4" "3813"
+		"5" "4168"
+		"6" "6910"
+		"7" "4161"
+		"8" "4182"
+		"9" "1678"
+		"10" "19"
+		"11" "4175"
+		"12" "1676"
+		"13" "492"
+		"14" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Triassic Games AB"
+	"publisher" "MicroProse Software"
+	"homepage" "https://www.triassicgames.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/1286220/"
+}
+"config"
+{
+	"installdir" "Sea Power"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sea Power.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1286221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5866001213991712003"
+				"size" "15154197188"
+				"download" "7548689280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "C61BEF218731ED000A46A9AB2760F6D1"
+				"size" "5EF44AB6774B0E81B374E6512C0A8A2D"
+				"download" "B89EB2E1F669B0123F08F6461FDCEFFC"
+			}
+			"stable"
+			{
+				"gid" "95BC23277EFACE1009A7A73500E8F47D"
+				"size" "496D6C0881B6D5DB071EA08FE9C0AC0D"
+				"download" "9E4B3738D0F15CEA2A99419A60F4FFF4"
+			}
+		}
+	}
+	"workshopdepot" "1286220"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16385241"
+			"timeupdated" "1731493369"
+		}
+		"develop"
+		{
+			"buildid" "16405945"
+			"pwdrequired" "1"
+			"timeupdated" "1731587024"
+		}
+		"stable"
+		{
+			"buildid" "16385241"
+			"pwdrequired" "1"
+			"timeupdated" "1731455398"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Triassic Games/Sea Power/saves/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Sea Power_Data/StreamingAssets/user/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26192568"
+"_sha" "fb558bf80661c35c1f77ece93e73f82b756fa807"
+"_size" "4513"
