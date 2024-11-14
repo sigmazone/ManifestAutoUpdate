@@ -1,0 +1,1939 @@
+"appid" "1644320"
+"common"
+{
+	"name" "Railway Empire 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1644320_eula_0"
+			"name" "Railway Empire 2 EULA"
+			"url" "https://store.steampowered.com//eula/1644320_eula_0"
+			"version" "1"
+		}
+	}
+	"icon" "7b1c95d77ca656573fa9e857de5543422c24270d"
+	"clienttga" "26b7ba1d4ca3596a05e10bc8358622ad2f022bac"
+	"clienticon" "42042937d43be038b300c885a167a9de675e04c0"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1689120000"
+		"tested_build_id" "11613763"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Railway Empire 2"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "70.536756126021"
+			"height_pct" "89.51555450011872"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "70.536756126021"
+				"height_pct" "89.51555450011872"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728981545"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gaming Minds Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Railway Empire"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685033700"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/railway-empire-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1644320"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "1616"
+		"3" "12472"
+		"4" "10383"
+		"5" "3810"
+		"6" "4695"
+		"7" "8945"
+		"8" "3834"
+		"9" "1643"
+		"10" "13190"
+		"11" "4328"
+		"12" "3987"
+		"13" "1647"
+		"14" "4202"
+		"15" "1702"
+		"16" "1685"
+		"17" "4182"
+		"18" "12057"
+		"19" "9204"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Gaming Minds Studios"
+	"publisher" "Kalypso Media"
+	"listofdlc" "2357330,2419150,2419151,2419152,2517380,2677560,2677570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Railway Empire 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RailwayEmpire2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1644321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5481916821767818146"
+				"size" "60479340"
+				"download" "19029744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "A36C90DA2615C16F5E6C78F29DD723F1"
+				"size" "F48DDC32FF343CFBB4B61D2825EA0188"
+				"download" "06F6477D84730D03172A34A204136358"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "CAE883DCA272DBC9AFCC92ECEDF89C84"
+				"size" "AD688169229EA707073F79D59B80E5FC"
+				"download" "E795E5977DED256E887F9FB0DD27F880"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "2CF09C6DF826A6F0E56814D8774D5DC8"
+				"size" "6CEB6228168BF12C7E3A149B492F2EE9"
+				"download" "C2B4C8E8FD66318DF452E51072A4EDC8"
+			}
+			"gm_internal"
+			{
+				"gid" "980BC2FFF776F37E8B35A51BEFCFE260"
+				"size" "F34C9771182C4C8541DBDEBBE287E8CF"
+				"download" "DC3B92CD0F89670C3DC0057D910ED76F"
+			}
+			"gm_last_stable"
+			{
+				"gid" "6B32FCD831424D403F27CDF5206739C1"
+				"size" "EDB98D0AA3D469175A0766CDB386F0B3"
+				"download" "855469471AD6CAF3CD94DE7FC212A7DD"
+			}
+			"gm_writingbull"
+			{
+				"gid" "9B6D50CAB868D33735036C3158CBE71F"
+				"size" "A5AD366DC3B5A15CC348C824367650F9"
+				"download" "925C2884B89C5ED8C69DAB38DBB7FC71"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "878812EA797F433379D04193317AA066"
+				"size" "DD96BAA82BAA55841E007386ECD3C97E"
+				"download" "F1A548CBC7D10B392238549B09E6DD7A"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "C87E0AD42BFD2BCE32A1BD0EB0E9A26B"
+				"size" "3A0AF876629F456A26EDE2E086EE424E"
+				"download" "12302CE5A4D13F89EE759FCF02D43784"
+			}
+			"kalypso_qa"
+			{
+				"gid" "5906FC6697C19F0CD54F34A84D1DAEC1"
+				"size" "3F32A880E7FE018E765F4F59C212103B"
+				"download" "DF108BF0792F990995682786883D25B0"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "0ACC4AECCBB2B8A41157545122F6561D"
+				"size" "0A571D9E2916206400277D82F5E83BA3"
+				"download" "4B11F2B737DCD7475E594FEE3B1DE1B2"
+			}
+			"ext_qa"
+			{
+				"gid" "6F50E20E3B61897EC6AD162BB019F35D"
+				"size" "D32AE214F53963CFD203EAC563180975"
+				"download" "97AE0B75378860395F205163E1F658FF"
+			}
+			"legacy"
+			{
+				"gid" "45EB73689BE3381872CA938488D35CBA"
+				"size" "B221A40A14CCCE7666E6F0D875BF1CE4"
+				"download" "301098BC9EB1B77E4A6EC018950516F9"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "209502F61FEA5334ABEBF2B2B5F21E23"
+				"size" "8BED1B49AECA843919B1036EF00140A3"
+				"download" "CDFC71F9D55D591C36F896F5005C7703"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "746C3C64342765C0F59FB9AFF99266D2"
+				"size" "5081C5B6D012D6C54EB82FB236FC0993"
+				"download" "2E08ECA85DFDA5C6BB3D7BA789777703"
+			}
+			"patch_1.2"
+			{
+				"gid" "133F8029D8BAC5C37FC5EEC4303D51D3"
+				"size" "40E884A3DC270C31BE923DFECC5A2B09"
+				"download" "47C1BEBA2BAC90721CED0599D9E12BE5"
+			}
+			"patch_1.3"
+			{
+				"gid" "56415151767C045D238253F84E840E72"
+				"size" "ABEDF0AAA6FADD5D17211B7BFA93D831"
+				"download" "930B437E375103929B5BD88CE15BA248"
+			}
+			"patch_1.4"
+			{
+				"gid" "992002D461EEB26389CB4B2BCDDD4097"
+				"size" "B48E650200C679B9469AC47E65A53820"
+				"download" "5E8561AF444B96B5668F13F4ED366B9F"
+			}
+			"patch_1.5"
+			{
+				"gid" "0E618DED15EB27D727EC032989D6BA3D"
+				"size" "1D04160CC950B20A7DC3494EDCD5D83F"
+				"download" "A6000E3338C64D86E134CE5BD97992DC"
+			}
+		}
+	}
+	"1644322"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2465522984784623492"
+				"size" "6884843748"
+				"download" "6353274384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "BED51325EBE4C76672515F48F2F42DB2"
+				"size" "FFCD05989431EDE7736906C66F5C237B"
+				"download" "2C7447CA9474B1EA632C51D301B8E575"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "40EE60A5216909FBD7275533C0AFEA9C"
+				"size" "B8A8E9A2DB9B2F45DC3EE8B08594E21B"
+				"download" "104F02C3E8C141DB68BA644CEB57B151"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "4211D32DB8E6C75FCD0BD66FE14E2DB7"
+				"size" "F47E66C9BA81DF23B9FA54661335EFE1"
+				"download" "85B96E8C90D4DE112D65EF471D45926F"
+			}
+			"gm_internal"
+			{
+				"gid" "B5BC17177D41D14FF382BF09770410BD"
+				"size" "7ECA5D87C86D2F92A1DD7E71FBD7BAAF"
+				"download" "066586806909A478EE4FDA35C877E411"
+			}
+			"gm_last_stable"
+			{
+				"gid" "6E90B69B918443A4DE5D936D56B17FA6"
+				"size" "068E0254FC2D7CEBA6461C7EA1DAC93B"
+				"download" "F5F54E531A29F3790740FE0E2C2DE763"
+			}
+			"gm_writingbull"
+			{
+				"gid" "83306204121140A91F8B39C91A559FAA"
+				"size" "9A602602BE6EF313EBB0CB65D8D3EC0A"
+				"download" "6A792D4B7CB06FB92440D64240B47A57"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "4CEE8BF69211E0FA4B1B26DD3A6A9CB5"
+				"size" "312649DF468AB5695F1BCAB901FE0983"
+				"download" "D026033DAECD88D4EA35875AF105974B"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "763B6654FC8419DF680CEDC7CE321BAD"
+				"size" "668592C5848E7DEC393D879F2DA03EEB"
+				"download" "E1473B6941AF245BD91B2869D7BD6971"
+			}
+			"kalypso_qa"
+			{
+				"gid" "76DF5A39E2F2E006F39CBED9640FAD9F"
+				"size" "7F13E2335E37949075CA89FBE3C546E2"
+				"download" "2D534C8D987473D54E70528E68378B6F"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "DAF8C60145811A7562A12589E9BC868D"
+				"size" "76A2AB9D8BE3379D051DFFDE01FFF26C"
+				"download" "A545DBC0798B749BC182F1D7E5B97125"
+			}
+			"ext_qa"
+			{
+				"gid" "8506FB675C14C63AD60008B37C23587F"
+				"size" "4B7A4E25041348909C3BEEF3D7F2F3A1"
+				"download" "C2319810C9859BF4835FE46ECEDEFDEF"
+			}
+			"legacy"
+			{
+				"gid" "F5DBF8EF8E8DBCFCADA48603DFED4848"
+				"size" "C521A7934B913D6EF1A4BDDC30256EF7"
+				"download" "7BBE7608B8DC1D00228385C911EA7B4C"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "6E9C04AC28C196D405C57B7913657AB8"
+				"size" "874D77BD2E052189AA74EB8599ADF5A6"
+				"download" "C81A74DBA3D0BAA431BE7FF8AD0D0126"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "4173C865DE97A4AF4980D0C6F87248DF"
+				"size" "52F6C39DE37948F373223152B5B72F31"
+				"download" "9EED4EAD8EE305BCB44AE4D945A3A06D"
+			}
+			"patch_1.2"
+			{
+				"gid" "B99A08A07748B8F62768069028D3A919"
+				"size" "46D9F8EAD40761A7E286B9D31BDBF36A"
+				"download" "A33E72FFB2FB0A53916137F4A82E7F24"
+			}
+			"patch_1.3"
+			{
+				"gid" "8654CD718C13B5757CA3AE3D9075E916"
+				"size" "53EE0E4645E7A65D1EC436FB41CCF64C"
+				"download" "541A9EB87B8786085016359914DD2494"
+			}
+			"patch_1.4"
+			{
+				"gid" "02EF335815DADD637239B227F16EDF96"
+				"size" "2F99E80BF9B45B71E0A7F1DDA9278FD3"
+				"download" "DFFD83073DA127CF45BB3065D2867E68"
+			}
+			"patch_1.5"
+			{
+				"gid" "C75935833671884AE24CBFC86C9D5AA1"
+				"size" "9B3FF2419E7419DC8B435BAC3EE214BE"
+				"download" "D17910A61255CCADBB42CCB32DECE265"
+			}
+		}
+	}
+	"1644323"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6469228029545107692"
+				"size" "17064846589"
+				"download" "16718824016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "534F2B14C70955442004436378F12712"
+				"size" "DD10522A26D3ADDE68CEBF9EF697958B"
+				"download" "2EA73E0DC1C43785550E5F53DAE0EEC5"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "7A84FF4EA7E8EBC3623FA1798B88C8A7"
+				"size" "79B4769E6C62C8EE87457945A51F8D41"
+				"download" "A84A72E8AC6C394331B7DFBE02F5F43E"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "930F9FB4124B89689D158411136D8B22"
+				"size" "21F44B398967AB90D6AA0F34471B9BEB"
+				"download" "D65B2CBFDC8E788303BB802891679170"
+			}
+			"gm_internal"
+			{
+				"gid" "7948890E7DEBB40148BC1D895504FD0A"
+				"size" "679B3F90261368316F41B93B9CB0EC0F"
+				"download" "630C872CEC8C0D9E5334E0F7DAB4A48E"
+			}
+			"gm_last_stable"
+			{
+				"gid" "05B50A0865016B866952C1BD08B4513F"
+				"size" "75155C4A1BDEB1620E6A5B9D260D9D1F"
+				"download" "2DF38FB0788E4F72B77C5A050CEB16BA"
+			}
+			"gm_writingbull"
+			{
+				"gid" "14BD0B41332A9B43C29A6D1F60C39122"
+				"size" "07D3CBC5AB4727D3446885A4FA3281EF"
+				"download" "BD94CE8F240C29E98568D137E5333588"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "1FE266EFAE24B956F045CE3A8B45A3BC"
+				"size" "BC3B8B23F57D7798F8B964196FE3027D"
+				"download" "65671095CCBD267CE85AD834ED37B434"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "1BD1A01073FE65BFF838DAC0BCB93A64"
+				"size" "70B6295FE9AD2F5ACA5F271CF7354B06"
+				"download" "00EA2A46318B18652A97CFC20042D5A7"
+			}
+			"kalypso_qa"
+			{
+				"gid" "F9871ABFE007298C2E5D013E81322D2C"
+				"size" "C6BCCF7E51A08DBC43F99D7BCDFDF25C"
+				"download" "F7D594B578D1B811C07DBA63C7E6F3E7"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "8534898591FD3E03D8DE5DD2DEC6BE1A"
+				"size" "40298143132B15FD6AD0FEE04CE64165"
+				"download" "8F94774446243CCA9B8EFA1A953BF643"
+			}
+			"ext_qa"
+			{
+				"gid" "5343C1DF980261A115AB6F0A2A1E41C8"
+				"size" "6C03A402A6E540E1E3C4EE6C333C6A01"
+				"download" "74C38E18E5FE97DFC411C550BBA6AD4F"
+			}
+			"legacy"
+			{
+				"gid" "8328464F35ACA2FA04685539DCAB5463"
+				"size" "37262EF151703D0E5AB00B8A54A837F8"
+				"download" "7DAB887F8432853818C6A9C9B3CB8566"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "EFC27567A2034A8942FF76750E69C41F"
+				"size" "EF26ED448DFFCFA14866CEEB8C9ED9C1"
+				"download" "FD474EA24DCF068366A92791A3AC0B36"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "3A6803E1C0ACE985A3743A79F801C1E0"
+				"size" "DFBD7711528358130FCEC351130252C3"
+				"download" "AD48BDAE8DE09B6DFBDCE27B816E8BFD"
+			}
+			"patch_1.2"
+			{
+				"gid" "C6E624B9BC843D6447BDF7E8379D7F72"
+				"size" "677A417BBE3685B6F9ADB7FBC7F93550"
+				"download" "9340264D27CCF376D89622142C1DC649"
+			}
+			"patch_1.3"
+			{
+				"gid" "C10AB4143EB004091DC218FC5C1A545B"
+				"size" "0AD1BEBEA2129058A00705839F79BEA4"
+				"download" "AD24A1EB99F282F3F862F2E0E5416A39"
+			}
+			"patch_1.4"
+			{
+				"gid" "3CF9A78B258E389FAC4C1809A1F8D28C"
+				"size" "62F4E5676E33A551A5BB0DB661077D23"
+				"download" "88D0123C60D64BC59A040ECBCA548315"
+			}
+			"patch_1.5"
+			{
+				"gid" "B4B0619206272CF49E05A1E218978D77"
+				"size" "57C79CC62F4E023A7E4AA93ECDE99641"
+				"download" "E05DA72EC0B647A32F1BC6CBD756248C"
+			}
+		}
+	}
+	"1644324"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "708371015839090862"
+				"size" "529"
+				"download" "496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "5EB83255F81B498D0C61648F7340A089"
+				"size" "0FDD8AFA8D4892982493FA696D79BA35"
+				"download" "3DCC5C0D6CBCF896C831741E1783B0A5"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "620023328D22EFDA15B53D85C044303C"
+				"size" "C02E314EDA9D25744C5A6A8894445093"
+				"download" "86222CCB483EF28B8807EE944F43408C"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "8CC8F4EDA828ABEAAD93EAD88E73E60E"
+				"size" "F8A35774961EF0532D1E6608DED65F79"
+				"download" "340BCE9C8E69075CB6C139352C8C7BA8"
+			}
+			"gm_internal"
+			{
+				"gid" "50D1C0C3D4B3DFAF9A1379EC0D028A8D"
+				"size" "653826E2A98D0496093313292786CE6D"
+				"download" "2A11750457465B21FC8AF95EC9D94635"
+			}
+			"gm_last_stable"
+			{
+				"gid" "E90DBCE41F1E834C343D86CFF631FCBA"
+				"size" "A15527065F7C98A6F7F7810875ADA52A"
+				"download" "9BC248EC7B8CC98AE2530D3BAACC2DE0"
+			}
+			"gm_writingbull"
+			{
+				"gid" "B5D9C39DC578CCE0B9DDA43154CEF216"
+				"size" "F61CA7A5324784BF6C5243F715EE62CD"
+				"download" "E69FC3C3D58F7E0B23075152FF9CE3EC"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "D9D6B1AD6BFFD35CC45A595278CAE645"
+				"size" "109DA54DF1F6333E2BA6A06447F528E9"
+				"download" "18D97D710F853ABB946BAC0ADB9F5602"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "0C797A33635713505267C9CA998546C3"
+				"size" "096CE10E5E2FA1824EE1AC262AFD6BA9"
+				"download" "54CE87E86C1C4EC4F40E20CA87ECF0BC"
+			}
+			"kalypso_qa"
+			{
+				"gid" "7E7955A0D0E8A5FABBFB99E01D453E5D"
+				"size" "9F7621C0DD6AEC16ADFC114663BF26BF"
+				"download" "0A52DC9246234A6F3D95004276EDA879"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "D3CAB8B743CB8C8D433F24BBD24E48EB"
+				"size" "FC0A4E9AE2D2FE7C09495FD0D536F476"
+				"download" "8CB1F8195A01F364B682AD103F39D56A"
+			}
+			"ext_qa"
+			{
+				"gid" "693C980B3B098C1799EE4F7E1A04B629"
+				"size" "F3FBC5D64C7AB0E2868A06A5D852F804"
+				"download" "37C71555558293D62FC23086149D547E"
+			}
+			"legacy"
+			{
+				"gid" "EEF0D6B1700F390342034EF8447DA081"
+				"size" "5DEC693DDD4AB8DB5103C300B52285D9"
+				"download" "4539A23BE0767E60ADF42C095289DE68"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "C522D5CF89AE75702C8F0677BB7836A5"
+				"size" "7937B3E3D0528C4F475D16B9B4C0F59E"
+				"download" "6D55779C44BB46CF39B72B0D5118EDDA"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "CFD34A365A0F6FC8B2581A890D517B98"
+				"size" "028ED904C864B03162EF3B4276D865F1"
+				"download" "EB2E19D3C70DD18F45A1414AC6115260"
+			}
+			"patch_1.2"
+			{
+				"gid" "C5D0AE22364C3D073CD462805E24B2C3"
+				"size" "D38BBB0721A486FF4C8BCA9316EED69B"
+				"download" "3BA68CC55F009AE1AEDDD49010D9C5AB"
+			}
+			"patch_1.3"
+			{
+				"gid" "BC4C06620368FE91C0B184CC4C491483"
+				"size" "4BE36FB1199D7FFA40A990075BFD4327"
+				"download" "D935C42F481FFA32BF4C458E4CD6A86E"
+			}
+			"patch_1.4"
+			{
+				"gid" "2C30D6683FC64356258D39E001FC700F"
+				"size" "622B5415A3BA0D01317FF8F6B830E0C4"
+				"download" "5D2C1AC7A4C968BDAEC3776FEEEA0CE6"
+			}
+			"patch_1.5"
+			{
+				"gid" "052F230AF660D000437ABCCB92578D02"
+				"size" "99279F7C11ABA0F53E304285621D59DE"
+				"download" "39728A32591D3DA7E71ADC56A1C66248"
+			}
+		}
+	}
+	"2419150"
+	{
+		"dlcappid" "2419150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8904074142195485325"
+				"size" "106027378"
+				"download" "92479760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "FAE2EBB27F463B87291B45ED1566A8F5"
+				"size" "B71115A873A828E2D4F444C855EB2C64"
+				"download" "1490B9FE9C08C57ACE6FA639D18C2A5C"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "6D4ED776F09FA26BAC17908AF60027CF"
+				"size" "AB96F86E4E3588EE4366F664F15D546A"
+				"download" "13912AF9DB7B88449435D6571A8E7751"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "F9634812365D60B81F7041C2B1C33454"
+				"size" "DAA0B67CEA8F03467CD0FD4262998097"
+				"download" "D454B38E3DFC9CB7CEC834805EC26861"
+			}
+			"gm_internal"
+			{
+				"gid" "87EB6DE1EC72922E4921C834CA513826"
+				"size" "3E6BCCA92DBC9B5058151F364177D919"
+				"download" "2D93DA8FD7DAF31132982B60BC0754E0"
+			}
+			"gm_last_stable"
+			{
+				"gid" "B418F4DFEC462DDB55B484273B73AE76"
+				"size" "30FB3AA521E26BDB2F64F60230EAD2A3"
+				"download" "B316280A4266AEAE9AE6EEF51EFCB03F"
+			}
+			"gm_writingbull"
+			{
+				"gid" "6F242F4A4BAB83CD3485CCE658537B6F"
+				"size" "F86637641D5767CE62A4DC9BDC084BFF"
+				"download" "1FA99ABBA18469D9301FEB794BC33A77"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "17A8BD34E61EA371E9A7E92D72C0B876"
+				"size" "D78A2E0D5E3914E82F612E60ABE7DB73"
+				"download" "26D51B04BEC0EE78CC1B7677FFECD377"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "FD0236D35912331BBC9E4000808978CA"
+				"size" "A7513B510812DC609FB2FFD2B8CEF3E3"
+				"download" "745C52CAD2B182B8EA46E041F94C90B0"
+			}
+			"kalypso_qa"
+			{
+				"gid" "04E50B274A9BE3FEA0B5428176461CE0"
+				"size" "36B7E8D2B116233A6AEAF63B3813CDA0"
+				"download" "346709CB02BC4CFE1EEF697708BD21D2"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "D018533C3430F05F7315B28FFC45EF29"
+				"size" "9F487C5AC9E666B69B846DD9A1074455"
+				"download" "A7F6A98C5C1E8D1CF0694070D1AEFBDE"
+			}
+			"ext_qa"
+			{
+				"gid" "555ABD9FC84F55EFC9310508222364A4"
+				"size" "5CE9284371FE3C5AEB7C1058860B1587"
+				"download" "4C73FD64AE14C4316AD53E0C5909DFC2"
+			}
+			"legacy"
+			{
+				"gid" "BD2FE1E545978BFE992FDD4FBB56DC04"
+				"size" "CAFE572FB66BFE2BAEC7931F77D428C4"
+				"download" "C5956DE51AFDE9897757684CBF79F5EF"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "9799E47CBB1F7BAD7C307D6D17554404"
+				"size" "49A15AF6874267C541DE7A77626276ED"
+				"download" "D7571196F11067B9814F30C2949154C5"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "44F10D8A7466C7B5B3895D4937F96FB4"
+				"size" "4B650657A7045E62B30C425D0EFA645D"
+				"download" "2F896918E48A08A662AF8C8A25F3887B"
+			}
+			"patch_1.2"
+			{
+				"gid" "11056C382370564A7FF1F8326C5440E4"
+				"size" "0063A211CAA03411A601E004AF8ADA1E"
+				"download" "1C8023DC7B23B8124C7BB5B713E17B27"
+			}
+			"patch_1.3"
+			{
+				"gid" "EA4A983713298E0B3D06086E4C2E6BF0"
+				"size" "8F4F535E116D28AE86A52197460C1E30"
+				"download" "832ED7DF28301C639A01485FEDC99924"
+			}
+			"patch_1.4"
+			{
+				"gid" "90E4848E3E8ADD727CC83264AD077375"
+				"size" "7DE409879345801B325794FB85B19DB4"
+				"download" "845E010DD656D55B102F4C3ADEF229DE"
+			}
+			"patch_1.5"
+			{
+				"gid" "3ADAFD02DEA44260FD678AD0608F5F59"
+				"size" "E09B542626236FD194D553C531321A94"
+				"download" "59C425E5AC1C9AF8AB2B6A63934A3002"
+			}
+		}
+	}
+	"2419151"
+	{
+		"dlcappid" "2419151"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7828790620345357643"
+				"size" "69573239"
+				"download" "61380000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "D158FA07ECE88D3CCCEB844A68669146"
+				"size" "5559D8952514E2B1C8AC3DE1BF790F86"
+				"download" "1BC32F85A643F4C92CD721A740F67C83"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "07E1277F315CB16CB470C8F70722DACE"
+				"size" "C32BB8B36F2F417D318D76761262D9D4"
+				"download" "73AC652F6ACD218F7BA7A1363D89B745"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "47362E15BBE969123E29D1E1D04604DB"
+				"size" "6FC9B4D01C82533D0B5763AB56EA1E5F"
+				"download" "9D3F11F6C8CEB79EE28FC458905D630B"
+			}
+			"gm_internal"
+			{
+				"gid" "37A266B160F9CB44563175178B8222D8"
+				"size" "5E38199A560C8B58F52CEBB215ABFD04"
+				"download" "9CFEDEFC727DC3872734C36AB82E4919"
+			}
+			"gm_last_stable"
+			{
+				"gid" "532BBB0E1FA5CEE7EC109C37B31DABD6"
+				"size" "218E4C0122D7FCF81332F54C9E7A562B"
+				"download" "FC9C80B3A92818B341455E5E660F1CAD"
+			}
+			"gm_writingbull"
+			{
+				"gid" "CE7B376B44CD124FAF6AEA4E2916E236"
+				"size" "4BA10AE41469EAAA0570ACF47FBDFB26"
+				"download" "C411397BBE692F365EB9F01CC065B639"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "FA2D23BFE991D09D68FF87AA42A10D2E"
+				"size" "AD835C92E4BDFBD0E8176E7AFADCB2B9"
+				"download" "1D31FE23DCFC7D22DC8111448C224E41"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "20DD08BF215EBCB090D9769D78DAF8EE"
+				"size" "51BFCAB83B2CD5A700787A412EA3F431"
+				"download" "3FBD815D515A9527E0BDA1AC043A4847"
+			}
+			"kalypso_qa"
+			{
+				"gid" "DDDE22F3A3836EB16A6C027F66984625"
+				"size" "85FB0020984D50C8F6C90B52AB189E92"
+				"download" "FD44E5DFF2E012EF36906E94D238FC4C"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "ED10A013A469338CB45940673F50413D"
+				"size" "679275CACB3FEB4CC205384455942584"
+				"download" "83FA2D2410A53A31B56D818D8FC61AD0"
+			}
+			"ext_qa"
+			{
+				"gid" "79ABE060030928FBC230CC4BD97F8157"
+				"size" "6CA86881641054AF0A084437FBD296BF"
+				"download" "9EF6990E7BE1962E2896B167BF9BBC18"
+			}
+			"legacy"
+			{
+				"gid" "5E827A57AE3FFD284939D3B99F68AD68"
+				"size" "B4D3A32CA41EF5F07C67A8DFD8D95FE8"
+				"download" "A0801703D76DF3A1146B0EA5B5370AE3"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "C9522563F665C0553CA4360CC23E137B"
+				"size" "2F9E58DB805B01A5A518277A90516A44"
+				"download" "7282A9772AEBC88F094F60F00906561A"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "62E69C3CE2405C79E3D01700C7584E61"
+				"size" "E57BCE1D630233C06D8BC91DE450844E"
+				"download" "DC1DF088A2309BD1EF9C0DD3D1D5AFF5"
+			}
+			"patch_1.2"
+			{
+				"gid" "5BCA3AD25C144768AD7DFB0BEA9E83E1"
+				"size" "002403EDED6C5BE2300B8DAA76D2AE77"
+				"download" "9DA64B911E2958A51C907A7147904EC4"
+			}
+			"patch_1.3"
+			{
+				"gid" "CBE6E5AA37F25B201D130FD23A7AC64C"
+				"size" "2F9ABC36F8225D7AD7ED6BF2825CAD77"
+				"download" "6DAEB6A107BAE85CFCB84B4FB3F9018E"
+			}
+			"patch_1.4"
+			{
+				"gid" "5E2A6FEED097AAD91709AE300133A1B9"
+				"size" "B082BE9992C17E68ED40E24BC3E64E0E"
+				"download" "845E05786D276AC1A09F9CA26EF2DB5B"
+			}
+			"patch_1.5"
+			{
+				"gid" "266AA19BEB740CF30FA18341EDEA0649"
+				"size" "BC7249D3BF4C619B93C9CC76ADBFC37A"
+				"download" "568A0414CE66779EEEB7FD77A8202917"
+			}
+		}
+	}
+	"2419152"
+	{
+		"dlcappid" "2419152"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6556850556398502666"
+				"size" "35986176"
+				"download" "27426992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "CCDC5B0624807280A1B1842DA7A738C7"
+				"size" "FB467F8A47947CFC6E43E7039C35469F"
+				"download" "A5EE96F4C04CD615FADD8686900DF9DC"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "E12C7EF0FF4967394A75B58FFB0F00BE"
+				"size" "6163B2FE5876ADB2449A0D7089E15878"
+				"download" "DD185378D00BC4A47E9F3417BE7315D8"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "A44490A3E32FEFC69DE739F52CDB23C4"
+				"size" "7F8C87E6C1FBC72673BF56FB44D53968"
+				"download" "9CD613706CC7C4989953230CDCA707AB"
+			}
+			"gm_internal"
+			{
+				"gid" "F4B59D32294255A85E94EFDCBD0D7BEA"
+				"size" "7F5009ECA2A317D599611C9814798C5C"
+				"download" "158F82F74B9AA1A544ABCD1C538877ED"
+			}
+			"gm_last_stable"
+			{
+				"gid" "A585F23B03EA774EC3C7E26F4049E8D2"
+				"size" "58D199DDDAB80739DDCD342A6829733D"
+				"download" "83D1CDA8815769F045D1825D619E5F6A"
+			}
+			"gm_writingbull"
+			{
+				"gid" "2452B01790DE4E45A2DDFE0D2025A858"
+				"size" "1A09C9D4AE65FC82010229F867CC678A"
+				"download" "DDF08EE5F8131CD5AD357B2589490C4E"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "D2CD1FD3254BBE705D4E62AE25CD9951"
+				"size" "4787C9787AE5D6E18BF3AEBD40C3B2E9"
+				"download" "3AD9FCEE06E49208CDFA207DC25134D0"
+			}
+			"kalypso_hotifxprerelease"
+			{
+				"gid" "92E3B7A9A74AD672A1F79E8EFB6A4DCE"
+				"size" "E1AA87CB160F0424085F245E6D75AA3B"
+				"download" "523CC0C483645BF3FC879DC8AA517CF4"
+			}
+			"kalypso_qa"
+			{
+				"gid" "508DFF131990A7D2295E4630F0064617"
+				"size" "96596C4248A0EB3AEAD341A9B0517D1C"
+				"download" "2D531FDC11411EBB9E3E6DE61CB5B007"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "E1DE1DB501126F986E4E1B528B62FE04"
+				"size" "1A2676DF7478E62088A58F4B08261E5D"
+				"download" "63DC93E81250B43D99C9C97F56F0DCB1"
+			}
+			"ext_qa"
+			{
+				"gid" "5E4F768E9796426E06959F6F72435298"
+				"size" "4C6DD3DE05D0C8ECA91A459C0F0E270C"
+				"download" "7C28D0A8C6B8F28EC4BF1F2CAC893CE7"
+			}
+			"legacy"
+			{
+				"gid" "0041C9F948CB819F4F56DBA2949F7B21"
+				"size" "195C35CA9311CA387AA54CEF841A1166"
+				"download" "C2522D0B1F51C84459898E0063305507"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "91D1B4E42554521A398887A3CFB269E3"
+				"size" "D3C4A0F94E1E865AF21105A1CFB76D2F"
+				"download" "3F346901F5CE8ADCE0A011CB73D5C642"
+			}
+			"patch_1.0.2"
+			{
+				"gid" "2B41C2E315786F1A739B2A163867319C"
+				"size" "6FBE0EC8EB3C39CF00CEAF2A45E67599"
+				"download" "4B58BFC18A946ED8C01AB4A0AD43C845"
+			}
+			"patch_1.2"
+			{
+				"gid" "25081C40A95F81080E851F1868102439"
+				"size" "523A329973CC01CCDB126951A38DD650"
+				"download" "93DC58D033E8940680E8778C15357156"
+			}
+			"patch_1.3"
+			{
+				"gid" "C92D2DFAB8A323FC53C3C4EBDDA02BDE"
+				"size" "3D9A7C2629BC5210E1FF4912804A67A2"
+				"download" "6F017A596102DE69D4C2F38AEAA7F476"
+			}
+			"patch_1.4"
+			{
+				"gid" "0A7556023317007016E08021EA3C4A62"
+				"size" "1ED457FE920544A0C699B9125CD99531"
+				"download" "07114E5C395DF97EDE8A3E2300A7469F"
+			}
+			"patch_1.5"
+			{
+				"gid" "65DF54E4181D3DDA55CF050C4FA7F9B7"
+				"size" "DA2806A42725B427DC124FACB29AFECF"
+				"download" "1C6C04D560C0769A4F09A8031AF0FB33"
+			}
+		}
+	}
+	"2517380"
+	{
+		"dlcappid" "2517380"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2267651845224266543"
+				"size" "6347670116"
+				"download" "6302398704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "8F8A667DD03EF2167CDD09C521D88639"
+				"size" "43D4BF22D78E1E8FBE491001BDC0F948"
+				"download" "7A6D7E46B4B35CA0227FA72C3C7AE2FE"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "7621CD8B807F178684E4ECD71A24F443"
+				"size" "ABAD6E64683573AD7BAAB6C7560C7CC3"
+				"download" "B8CD50CF9108256722E6FD31D50C75FF"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "8A94F6CE08382A97DF45CEB210E25DBB"
+				"size" "B997B0B1305991BFF796BB6641E5B2CB"
+				"download" "0B1BDFE519568CB0F50CCDF48B4B0567"
+			}
+			"gm_internal"
+			{
+				"gid" "51FACDC353C76BEF81C3BA07E0DA5443"
+				"size" "1226CBC3D4D906014E731B58C442DA98"
+				"download" "A82BBAD07C8F26D96CF4AABB5E8003BB"
+			}
+			"gm_last_stable"
+			{
+				"gid" "C8F09FA3084AD077CFDDD3CC073F2BC2"
+				"size" "037E22824EB4E2E043E894A66303C6B3"
+				"download" "F02FB59B8450202F21518A7AC7042477"
+			}
+			"gm_writingbull"
+			{
+				"gid" "F329DC6F1A1448FFCDBF4EDB9DC10294"
+				"size" "F7677DE5001F0EEC394A5ADF90D1F909"
+				"download" "016C68F1392EA14C2522BCACBFB76A93"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "FBCCD8AE9A72BFDFD15B6BE52FF448AD"
+				"size" "8EE9E4EB7FF3236B5680F11BE690ABC1"
+				"download" "171532373B67AC7194DBA930020CA9D9"
+			}
+			"kalypso_qa"
+			{
+				"gid" "CA77BE26E0DE7631E5704422AACA4F3C"
+				"size" "35BFE0EFE35F634E387A90B0FBEB8055"
+				"download" "D8D5F07185D878C9ECF77C26B331CD09"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "BB76F25077A74ACAABCEFCD4A60BC22F"
+				"size" "FE05A4C1A95384283E39307D3584445C"
+				"download" "5CE7CEBCBD35CCD68A335B460A57828B"
+			}
+			"ext_qa"
+			{
+				"gid" "A51FC84C17C0E03D6B05D6A56F305596"
+				"size" "1F342BA1FB2A4A19FC9BE94F44ECE12E"
+				"download" "10D4B4B0A427104E4A507DEA41F7994C"
+			}
+			"patch_1.0.0"
+			{
+				"gid" "1803813E39EFD910D316B06D14B79448"
+				"size" "2FB811885BC104F66646AE421911F942"
+				"download" "CD09AB41D908499A4CF5CA561FC43198"
+			}
+			"patch_1.2"
+			{
+				"gid" "191286F65D2732B2B7B6EB866127E8EC"
+				"size" "1D2555DE9A32680CB167A08DAB8FAC52"
+				"download" "D52CFC402E4D83BAF803BFA73AD8F769"
+			}
+			"patch_1.3"
+			{
+				"gid" "0FB3D0C798399F13FC90283677529F70"
+				"size" "F9FEDA38F84959287D085329DC1B931D"
+				"download" "65AD84348698B602A60F4C3B6B643A7F"
+			}
+			"patch_1.4"
+			{
+				"gid" "B5FCF5AC52F7170237957A5AEE0CDF39"
+				"size" "D39D881AF9CF627755D9242F8740D5D1"
+				"download" "EC98437AFB2FCBFB7FAA160B0FA2F831"
+			}
+			"patch_1.5"
+			{
+				"gid" "46304B66ACB7BD2910920D4D57CF0FCA"
+				"size" "117BA47BAAF790C57920BB6522A5CCEA"
+				"download" "9E3A47D00370B3D0BE12378966A5F852"
+			}
+		}
+	}
+	"2677560"
+	{
+		"dlcappid" "2677560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "87889739002220544"
+				"size" "7451818814"
+				"download" "7425202224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "3BEABAD6C033DEE7D55887550E719391"
+				"size" "75920B919304BACE75F9DF0341C4A303"
+				"download" "B8E32EAEB39A99E7D335ABB3AF97DAF6"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "CC192A8D3D14E97AE3633117A9510FD4"
+				"size" "49A5AF43E56D59C375179C00DAD65BEC"
+				"download" "D4D784EB86BA1A945221BB777647BA9F"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "6EBA6873B7899A6BA60592DAEF79E4D1"
+				"size" "BD24F0ACA97058804DD1C4E46E0174F4"
+				"download" "56FE87458995C9EF1C6D1111E00126D8"
+			}
+			"gm_internal"
+			{
+				"gid" "BE579135CAC9C3DE6E2BA9F0719355C3"
+				"size" "B203FCC499A7F03819BC624F4EC3A197"
+				"download" "3327222661CE65F46B417CD0C6DC510F"
+			}
+			"gm_last_stable"
+			{
+				"gid" "1A62D41ECB51C92A4FB96EC719D636E9"
+				"size" "B06C7DDCB9A62D6605D6B45FBF0C273F"
+				"download" "C9AF3912D19C0B8D82F33D5F47698373"
+			}
+			"gm_writingbull"
+			{
+				"gid" "A9FECCC01956E1BF1AF08198CD3C80D0"
+				"size" "B373C71597D07259AE8E080E4F16C8EA"
+				"download" "82CB2CEB5064C61BA59E0790FE6C797B"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "59CC98F16608445CCA3D03D05A92D555"
+				"size" "257D871A6D30CAC5997E04EFB29F4C40"
+				"download" "D3BE9A43779A517362738AD0194AA3EC"
+			}
+			"kalypso_qa"
+			{
+				"gid" "FCA16DD462D75E092E3B6E980E564B40"
+				"size" "662BD770BAA187270231AFD3310F9BDB"
+				"download" "1CC37813EF1A59F76CD53890B022EBBE"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "B4FE2E319978AF60C6AE8A60B9873624"
+				"size" "4C5141C1C47F2222AE26CA5089368CEB"
+				"download" "FB8A48A81CC63100DB6C3A9227140C37"
+			}
+			"ext_qa"
+			{
+				"gid" "CED3A54F678519036714687EFE1B1A08"
+				"size" "A76CBFC6AF3AA1AF01AE35197CE9958F"
+				"download" "EC2C17B070EC1D65AE33A1701B4DEE52"
+			}
+			"patch_1.3"
+			{
+				"gid" "C51B3378D2B2367C881EE56E33892512"
+				"size" "C467FB30A0FE28A0498BA10B1CB0AA96"
+				"download" "D648D6DCAA375E79267D511D423402C6"
+			}
+			"patch_1.4"
+			{
+				"gid" "E95D04D4DB09F57AE3B16F72DF338950"
+				"size" "29554E68AA250D308F62F57549A6A738"
+				"download" "693D48346EDAA6669C9BBCBF49310D2C"
+			}
+			"patch_1.5"
+			{
+				"gid" "E1F5805C0CC99D259461B156F373E083"
+				"size" "5E8F73EDF26537C28DB63CC61DC38633"
+				"download" "7D808686336C9348648E81DF6FD2BF96"
+			}
+		}
+	}
+	"2677570"
+	{
+		"dlcappid" "2677570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5598070904130471900"
+				"size" "5453117218"
+				"download" "5429194752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "A4FAD1C715AE10BB7B3A546FBAE295D3"
+				"size" "CAEC136F50CE48D54EACAB07D81042C4"
+				"download" "7DFD9AF8D81A7F9212F249E7F3A67F82"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "A5325EB5AF1CBDF5D2140AEBB1FDCFC6"
+				"size" "9858B671A02C5E9760C19AB947C9E1EF"
+				"download" "93FA2B60F196A482A1F49657F7AA3B7B"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "221119527D13081C00ABCE04703ADDE5"
+				"size" "CFC0AF57AC1DD4F4A2C996AE4729637F"
+				"download" "4D83119078633C748692C01FA2C6C7A9"
+			}
+			"gm_internal"
+			{
+				"gid" "942B4551285CA679DDBF35E574292137"
+				"size" "4AAC2125DBFE212BCCAB4C8201445D1B"
+				"download" "C8CFFFD26FAF4E6ABD12E52D0E2FA4A0"
+			}
+			"gm_last_stable"
+			{
+				"gid" "57DA7B5C59133229AE26940752597977"
+				"size" "3E133BEE3D4CE61487306E8D1E60ADBE"
+				"download" "1FD5663256B5AA5FBC9EE696C8E74CC6"
+			}
+			"gm_writingbull"
+			{
+				"gid" "8E6C3B5EE526DAB10CB0150FAF22E207"
+				"size" "7FAC8C3116EBBB41567A7B738E7FD3F1"
+				"download" "0B1CFB2A7D075473EEB4737187B34B83"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "D017C87BB973321EEC59D94610C3924F"
+				"size" "0E6226BBAEFBF7290D8ECD523E435629"
+				"download" "C2EE776CAFE0C5CDAE73243537AABD42"
+			}
+			"kalypso_qa"
+			{
+				"gid" "D7C328998395B0C2B86567DE68483AE4"
+				"size" "DBE26C9C9F239E39F42DDEB37EA8A68E"
+				"download" "0EEDE95E973DAED547263849A75B66D0"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "925ED58AA801CC6631291D78680CAA91"
+				"size" "4BEB9E263F28C30938AF36230A25415F"
+				"download" "2468C09BD66FDBAB9DE415A796F2F5AC"
+			}
+			"ext_qa"
+			{
+				"gid" "8FA2DBC387C03A5B7AD951A1E516DBE3"
+				"size" "ED57B90F72212090214B022F371B11BB"
+				"download" "7A574C0E59B9F77DBA428C2F6C925AF3"
+			}
+			"patch_1.3"
+			{
+				"gid" "7E06356DB2E935B4E711AE36216364CF"
+				"size" "E1FBF1700732126C1AD5DC1CB9D0754D"
+				"download" "77C1414A433722317520C5A6CC519F9A"
+			}
+			"patch_1.4"
+			{
+				"gid" "C7B8DDDC06FADDC2D93D4AE7DB7CAC46"
+				"size" "66F9AA0EE7243E826B7C847C1A9FAD88"
+				"download" "DD58924F22016B62C9714E52CF33574F"
+			}
+			"patch_1.5"
+			{
+				"gid" "1A2B5D06FCFA0476EF18F7FD65ADF335"
+				"size" "870013D04C1323EE709D76AB5577A79A"
+				"download" "8E3D26AC12D5CE35376C75FBD011507C"
+			}
+		}
+	}
+	"2677580"
+	{
+		"dlcappid" "2677580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8862555025654155088"
+				"size" "144162606"
+				"download" "145060336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "0C7F97DE8F87DD4F488E5B8982115DFC"
+				"size" "AFC11420F6C94B2BCA3AEDAEB7D74DC7"
+				"download" "5D71C63EA56F6BEEFCC30628B9A5F054"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "3E7C4D077EE02CFEA6AB28B2F84577DC"
+				"size" "AF38206BE132D6D4A063DF4BFACA20E6"
+				"download" "7A465F27D4B926EE0D7AF30F148C0FE9"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "D14DCB12BB5DCB07FBCF2F0F28045949"
+				"size" "D28D2BCFE155D084151A71A56D5C54E6"
+				"download" "AED1E98B60AB4D2620CB555DADED0B2D"
+			}
+			"gm_internal"
+			{
+				"gid" "0CDFC72DB0149611A0857ED69E78BE6F"
+				"size" "069BE8941AD6AC48F9074240B9A34301"
+				"download" "8A4DCCF284369D955DC667456A4D6462"
+			}
+			"gm_last_stable"
+			{
+				"gid" "BCC4C3AB1B93E2C1DFD8273C63E6A25A"
+				"size" "019A8BD98E6CF54CCE2E13FD45A92285"
+				"download" "A3F18A99BB6804E50D61D067583A650D"
+			}
+			"gm_writingbull"
+			{
+				"gid" "AAED96084168154DF50EBC892F936DA8"
+				"size" "7C0535DA0E8EF91DBD61DEF8D7E7B285"
+				"download" "2705CA7510B63E4162B8F441512123E5"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "ECD9DF1DC26DAD38D3EC45D7700BD838"
+				"size" "AB648F43398F6FFB5B453FDDAE4A185D"
+				"download" "C75B06C11EEEE4EB03BB4B624BFE0A4B"
+			}
+			"kalypso_qa"
+			{
+				"gid" "39D7646C6F55A0E14888E3F47E554282"
+				"size" "509CE7BD1B20184D3FD7AD30EBC65EEA"
+				"download" "12B0E9460B94482C8109A10783151ACF"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "BCFECD94DD539D3C59C1917BEFDCA38D"
+				"size" "17A0656EB5174F611FFE11F46B833F63"
+				"download" "8F3144FC6EC17E88A4F1FCF865EA8BDC"
+			}
+			"ext_qa"
+			{
+				"gid" "276FC86B859FFA304AB506E8B2065648"
+				"size" "CB08832112B9D618123B8CF8986560E6"
+				"download" "DBCC772FA4E41E053F1200C182EF335A"
+			}
+			"patch_1.3"
+			{
+				"gid" "DA6757AD8EF01735BE81D344753FA706"
+				"size" "163792057E0A637D681732DD5E5B951B"
+				"download" "1E03DFE2A62FB69FEB42D1A937C58FB3"
+			}
+			"patch_1.4"
+			{
+				"gid" "985485A15B18246DDB7DC1F22710E48E"
+				"size" "E48B97DC2A6700A7D692C2DC6C52DE13"
+				"download" "0BE20451E44584E3D4FCE65853AB9EB4"
+			}
+			"patch_1.5"
+			{
+				"gid" "4765EED3BD7680BB50041C45F09EF1E7"
+				"size" "9DA306D3F0E3F37B6788D54A59C12E84"
+				"download" "6490308D7035E091FC2FD3F5892EE6BF"
+			}
+		}
+	}
+	"2677590"
+	{
+		"dlcappid" "2677590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7628595501941950686"
+				"size" "99838541"
+				"download" "100328480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "37D951D126483D4B6B1F36FF2B747785"
+				"size" "C1C4D8F9823DBB02F6EF0B60F07CDF1D"
+				"download" "DF7F106B3101303534C270A2AD714673"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "49B06A32C44433D9AA75C3CB87D8ABB4"
+				"size" "DAD79ADEC73D75F64D654E07BA2BDBE4"
+				"download" "085935723C736435F7761803D10C38F7"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "59D596C6162CD4FC8D850CCDBC25743D"
+				"size" "3E9C0B8212BEFD505B2E7F5CE1A5ADFE"
+				"download" "D2AAA2264934711090D55244FEDFF509"
+			}
+			"gm_internal"
+			{
+				"gid" "7691473A764EE760AF0222AB25AEBA1D"
+				"size" "F9EFC60657EA8D8C29A6A207AC5B96FE"
+				"download" "0B802A36C2683ED2FA03BAD0B1F91BBC"
+			}
+			"gm_last_stable"
+			{
+				"gid" "A0A621F7D0582CF8BC6E65BF2DFA0C07"
+				"size" "6F43AB2C5C20B4669D43E661D3E1C67B"
+				"download" "38F80D9E45D11D5359BF8CC057D95DD4"
+			}
+			"gm_writingbull"
+			{
+				"gid" "0C139E2AC69FFF71E801444F2BBCB351"
+				"size" "F59BAF6A13EAE873993FEE45CD084F78"
+				"download" "F554C13F27C95B9137BE37D0793A5002"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "96B1CC540B925380DA628678DE593914"
+				"size" "C90F627BD89581A8AC5F9A1D2155C403"
+				"download" "4E1CF1C6A123C5B530312AA912A0BAFA"
+			}
+			"kalypso_qa"
+			{
+				"gid" "0FF542EB28ECE71C202A169425DB31C9"
+				"size" "E6CFD48C72488DD77959366FBD021604"
+				"download" "0FA5807C214790EBAF3008D53450D4D3"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "10CB1195CCE9848576A6473A8217988B"
+				"size" "45967867A67BF36F713552D358AD3B65"
+				"download" "316D4D9DF6F19C2A149708F6FC6C4A6F"
+			}
+			"ext_qa"
+			{
+				"gid" "624D395D05CBC2BDAEF50DA1D1250B28"
+				"size" "991D73CAE3D5B505077258FCD936EF2C"
+				"download" "CC27B09F47B2867B7EFEA511101126F1"
+			}
+			"patch_1.3"
+			{
+				"gid" "AECE1FB836A46E6C27CE905B994481B8"
+				"size" "91E424A8365BEEB0AE0B0059D77EAC52"
+				"download" "467F0B7F41D88FB220D9684B2F23317D"
+			}
+			"patch_1.4"
+			{
+				"gid" "49965F8779E20A985BCE1988A9F56EC7"
+				"size" "A2A3AF09809A981F85DBDF9D1EB4156D"
+				"download" "40BA77846717B5E9447C11ECE4979DCF"
+			}
+			"patch_1.5"
+			{
+				"gid" "8714C6E5A7D7CF100397DBB1EFCB4657"
+				"size" "955D826E6476E32E53E67458E430159F"
+				"download" "107FB8D208D7BE1AE9A1CCB2CA664DC7"
+			}
+		}
+	}
+	"2677600"
+	{
+		"dlcappid" "2677600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4623165322415047586"
+				"size" "88656525"
+				"download" "89065536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gm_current_patch"
+			{
+				"gid" "451096E6B7019E7FBF80F2853FE775FF"
+				"size" "6DA5C0EE9AF258DE81539E0C8706D408"
+				"download" "0E65157F3BC25499503904A37BC57435"
+			}
+			"patch_1.5_hotfix_1"
+			{
+				"gid" "54DEBF5A3F87C3174A1315F06B51F3B7"
+				"size" "5357D5F225B2E82EF161131BE8D5FD10"
+				"download" "318977465606B8E8234D81698D9EC496"
+			}
+			"patch_1.5_hotfix_2"
+			{
+				"gid" "BDE9045D3B471C23364CE3BB0080AD22"
+				"size" "3724B928263353F9E084EA2CF255A536"
+				"download" "29346EF4C6B6A217C80A2AEECA87D13E"
+			}
+			"gm_internal"
+			{
+				"gid" "A46E09C7B099384D993AF69E5FD47AFE"
+				"size" "4EC95105981DBE365FC8EB08E59B78B0"
+				"download" "0F7A5E20566533B0D7AB61F619EBF60C"
+			}
+			"gm_last_stable"
+			{
+				"gid" "0DF76318D918E2DE262991B502A2330C"
+				"size" "A959C1088FE35CBC1D895442A90F50A8"
+				"download" "C23CB90E4EDA655429957332B375F88C"
+			}
+			"gm_writingbull"
+			{
+				"gid" "68AA90F7CB34F7FD623B2E2AF9E0A234"
+				"size" "012646D4D51C2D6C4CB9C38313F412A9"
+				"download" "062920BE844A689F0D992F1FDE086A43"
+			}
+			"kalypso_capturing"
+			{
+				"gid" "A55970DF931F5DE7700184E5AF4215A2"
+				"size" "D5DA99B654C43FF10D48797DA0B92229"
+				"download" "FC5AF198F2CBB807160CCCE7F08B7A14"
+			}
+			"kalypso_qa"
+			{
+				"gid" "2E01F61AA1FA646FCBE7514ABB4FAA79"
+				"size" "793026E02189535BE50933E89904166B"
+				"download" "9F2C2925B4D75A6AAEB57BAD40F6B62C"
+			}
+			"kalypso_qa2"
+			{
+				"gid" "D4B0C00ABB9252C47A0B02BA0403FC0F"
+				"size" "15F7ADB286EBC41439A8470940F7AA42"
+				"download" "20FA9B41C882C661FDE8B0D2B0962F38"
+			}
+			"ext_qa"
+			{
+				"gid" "D693F59DA9EC0A40B6A20D8E98C0510D"
+				"size" "B2A61EB070C395F5381B21FDD468752C"
+				"download" "024868B3F8A37DD201B1A9552A815E21"
+			}
+			"patch_1.3"
+			{
+				"gid" "FBFC8BD89E56F99F8F2373A4B4979B38"
+				"size" "3C28C4FE909C60A9001A13B9332D2AC0"
+				"download" "EF65FEDE3B3AC9A1B0B91B4639F11EA2"
+			}
+			"patch_1.4"
+			{
+				"gid" "F61262EA3592013B60C40F6BE8E1906A"
+				"size" "757164737556C21BB630A51600BA4CCD"
+				"download" "78174A7EE9EE64D74EDA1AB4B1A58CC3"
+			}
+			"patch_1.5"
+			{
+				"gid" "8543DBD7554118AAF5C4F70D17D04047"
+				"size" "A11E1D5A53933DF7F442ED578CE7484A"
+				"download" "7DE07E55B4BAB013BBECD74F5F272554"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16381624"
+			"timeupdated" "1731581887"
+		}
+		"gm_current_patch"
+		{
+			"buildid" "16404928"
+			"pwdrequired" "1"
+			"timeupdated" "1731581909"
+		}
+		"patch_1.5_hotfix_1"
+		{
+			"buildid" "16080676"
+			"pwdrequired" "1"
+			"timeupdated" "1731504680"
+		}
+		"patch_1.5_hotfix_2"
+		{
+			"buildid" "16381624"
+			"pwdrequired" "1"
+			"timeupdated" "1731504660"
+		}
+		"gm_internal"
+		{
+			"buildid" "16401094"
+			"pwdrequired" "1"
+			"timeupdated" "1731556766"
+		}
+		"gm_last_stable"
+		{
+			"buildid" "15313404"
+			"pwdrequired" "1"
+			"timeupdated" "1723210216"
+		}
+		"gm_writingbull"
+		{
+			"buildid" "15909529"
+			"pwdrequired" "1"
+			"timeupdated" "1728646628"
+		}
+		"kalypso_capturing"
+		{
+			"buildid" "15911248"
+			"pwdrequired" "1"
+			"timeupdated" "1728284395"
+		}
+		"kalypso_hotifxprerelease"
+		{
+			"buildid" "11308317"
+			"pwdrequired" "1"
+			"timeupdated" "1684999969"
+		}
+		"kalypso_qa"
+		{
+			"buildid" "15909529"
+			"pwdrequired" "1"
+			"timeupdated" "1728297454"
+		}
+		"kalypso_qa2"
+		{
+			"buildid" "15663146"
+			"pwdrequired" "1"
+			"timeupdated" "1726069544"
+		}
+		"ext_qa"
+		{
+			"buildid" "15792892"
+			"pwdrequired" "1"
+			"timeupdated" "1727098447"
+		}
+		"legacy"
+		{
+			"buildid" "11308317"
+			"pwdrequired" "1"
+			"timeupdated" "1686323803"
+		}
+		"patch_1.0.0"
+		{
+			"buildid" "14170620"
+			"pwdrequired" "1"
+			"timeupdated" "1714037766"
+		}
+		"patch_1.0.2"
+		{
+			"buildid" "11378268"
+			"pwdrequired" "1"
+			"timeupdated" "1686584261"
+		}
+		"patch_1.2"
+		{
+			"buildid" "13379301"
+			"pwdrequired" "1"
+			"timeupdated" "1714031054"
+		}
+		"patch_1.3"
+		{
+			"buildid" "14262574"
+			"pwdrequired" "1"
+			"timeupdated" "1715085183"
+		}
+		"patch_1.4"
+		{
+			"buildid" "15149886"
+			"pwdrequired" "1"
+			"timeupdated" "1721999034"
+		}
+		"patch_1.5"
+		{
+			"buildid" "15909529"
+			"pwdrequired" "1"
+			"timeupdated" "1728646605"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "8588886016"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26191307"
+"_sha" "5ed2b9a636206cfa331d0b219aee32d93c6a507b"
+"_size" "48093"
