@@ -109,6 +109,78 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"french" "library_600x900_french.jpg"
+				"dutch" "library_600x900_dutch.jpg"
+				"german" "library_600x900_german.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"portuguese" "library_600x900_portuguese.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"polish" "library_600x900_polish.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"dutch" "library_600x900_dutch_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"portuguese" "library_600x900_portuguese_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"french" "library_hero_french.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"french" "library_hero_french_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.16150526760366"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"french" "logo_french.png"
+				"dutch" "logo_dutch.png"
+				"german" "logo_german.png"
+				"italian" "logo_italian.png"
+				"portuguese" "logo_portuguese.png"
+				"spanish" "logo_spanish.png"
+				"polish" "logo_polish.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"french" "logo_french_2x.png"
+				"dutch" "logo_dutch_2x.png"
+				"german" "logo_german_2x.png"
+				"italian" "logo_italian_2x.png"
+				"portuguese" "logo_portuguese_2x.png"
+				"spanish" "logo_spanish_2x.png"
+				"polish" "logo_polish_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1699375941"
 	"associations"
 	{
@@ -138,6 +210,7 @@
 		"category_46" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -221,7 +294,7 @@
 		"6" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -293,9 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "5078330887875675046"
-				"size" "35146433367"
-				"download" "33911095456"
+				"gid" "6518975674253788186"
+				"size" "37956849197"
+				"download" "36613866368"
 			}
 		}
 		"encryptedmanifests"
@@ -318,12 +391,6 @@
 				"size" "18CCB2A7364CBC8E4D6073B86C961A49"
 				"download" "043EBF91BC7481EBB292D79A3C4A3157"
 			}
-			"pendulo"
-			{
-				"gid" "395156B320D8B90C14FED72854E97204"
-				"size" "69AC34BB40151A058EF5D004C5D86618"
-				"download" "B19FEB3C1D831AB3A75B0575E394AAA6"
-			}
 			"plqa"
 			{
 				"gid" "289F488540F02DD4345526A0F1D9E79B"
@@ -342,17 +409,23 @@
 				"size" "D09D39C2ECDC3729C8927910FA857A3D"
 				"download" "48C82A512E0C849D8ED3D0B3E34FC02B"
 			}
-			"test"
-			{
-				"gid" "122A8BFAD57CF480DEE91D16ACB93C75"
-				"size" "EC854BC9B79A172E7C1212F465E8FCB5"
-				"download" "82054A159D7D2F5E509E961313DA6865"
-			}
 			"testwithoutdebug"
 			{
 				"gid" "9A5FD7DB84538065ECC60341EBC7AD5C"
 				"size" "BE19C86FF8B8E0507C83892CCCBD2551"
 				"download" "212CB6CCDB64C1361BA71757611A7EC7"
+			}
+			"pendulo"
+			{
+				"gid" "C8C0C95F0A990CD10824C9914D24CEF8"
+				"size" "68660D9931972A2D8BB3D70600499CE2"
+				"download" "BD389E92605552D96B8B553ECF53903D"
+			}
+			"test"
+			{
+				"gid" "882CB98A848CCAA3B48BDD7C20EF26EA"
+				"size" "976FFB4F207027298594C469E0CFA1CD"
+				"download" "2994B829744680B806F146159C9D26ED"
 			}
 		}
 	}
@@ -360,8 +433,8 @@
 	{
 		"public"
 		{
-			"buildid" "14110639"
-			"timeupdated" "1713879904"
+			"buildid" "15982486"
+			"timeupdated" "1728980714"
 		}
 		"demo"
 		{
@@ -381,12 +454,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1691510669"
 		}
-		"pendulo"
-		{
-			"buildid" "14110639"
-			"pwdrequired" "1"
-			"timeupdated" "1713535712"
-		}
 		"plqa"
 		{
 			"buildid" "12366840"
@@ -405,17 +472,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1690793071"
 		}
-		"test"
-		{
-			"buildid" "14110639"
-			"pwdrequired" "1"
-			"timeupdated" "1713536387"
-		}
 		"testwithoutdebug"
 		{
 			"buildid" "12710371"
 			"pwdrequired" "1"
 			"timeupdated" "1700058852"
+		}
+		"pendulo"
+		{
+			"buildid" "15982486"
+			"pwdrequired" "1"
+			"timeupdated" "1728487793"
+		}
+		"test"
+		{
+			"buildid" "15982486"
+			"pwdrequired" "1"
+			"timeupdated" "1728489465"
 		}
 	}
 }
@@ -440,6 +513,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23267127"
-"_sha" "fe32186aad23b35590a7b74c9dc3884b312ba706"
-"_size" "9044"
+"_change_number" "25890080"
+"_sha" "926d147e0d8573670a246ca2bda56fc2a0c6005a"
+"_size" "10921"
