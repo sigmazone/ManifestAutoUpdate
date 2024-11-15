@@ -1,7 +1,7 @@
 "appid" "1321120"
 "common"
 {
-	"name" "末路调色板"
+	"name" "Matsuro Palette"
 	"type" "Game"
 	"releasestate" "released"
 	"logo" "6e6ae274065a5f3c349535a6b673dc39116a5bd2"
@@ -10,36 +10,50 @@
 	"clienticon" "f98dedf2081e6808f32e02c7123cc10813d62f5d"
 	"clienttga" "52049f8329b3dc57704c29dc51d2a5d485cb3153"
 	"oslist" "windows"
-	"osarch" ""
+	"osarch" "64"
 	"osextended" ""
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
+		"french" "1"
 		"koreana" "1"
 		"schinese" "1"
 		"japanese" "1"
 	}
+	"name_localized"
+	{
+		"schinese" "末路调色板"
+		"koreana" "저주소녀 아틀리에"
+		"japanese" "まつろぱれっと"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
-		"koreana" "capsule_231x87_koreana.jpg"
-		"russian" "capsule_231x87_russian.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "53d850dfbbfbab7c65bb4ab86b633759da7ce556/capsule_231x87_japanese.jpg"
+		"koreana" "bd0d2a4c15bbec41e8120e31bf9485702a979559/capsule_231x87_koreana.jpg"
+		"schinese" "19ebbdee2e5f215894537b9b7d7cec432d544dca/capsule_231x87_schinese.jpg"
+		"english" "6cda52e97a4715117374ff0478685e8953cbbe31/capsule_231x87.jpg"
+		"german" "6cda52e97a4715117374ff0478685e8953cbbe31/capsule_231x87_german.jpg"
+		"french" "6cda52e97a4715117374ff0478685e8953cbbe31/capsule_231x87_french.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"japanese" "header_japanese.jpg"
 		"koreana" "header_koreana.jpg"
-		"russian" "header_russian.jpg"
 		"schinese" "header_schinese.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
-		"library_hero" "en"
-		"library_logo" "en"
+		"library_capsule" "ko,zh-cn,ja,en,de,fr"
+		"library_hero" "en,ko,ja,zh-cn,de,fr"
+		"library_hero_blur" "en,ko,ja,zh-cn,de,fr"
+		"library_logo" "en,ja,ko,zh-cn,de,fr"
+		"library_header" "en,zh-cn,ko,ja,de,fr"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -53,14 +67,54 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"koreana" "4db86f0dc09ce78193f307866bb85c1325a85f85/library_600x900_koreana.jpg"
+				"schinese" "c2ea84935f6eaac8b9bbba505252295a781f93f6/library_600x900_schinese.jpg"
+				"japanese" "39050eea2b9ef257b29c656905a1c0cea02861c9/library_600x900_japanese.jpg"
+				"english" "433ff200d0ec056440480a95e0cc09a7cb8af5d2/library_600x900.jpg"
+				"german" "433ff200d0ec056440480a95e0cc09a7cb8af5d2/library_600x900_german.jpg"
+				"french" "433ff200d0ec056440480a95e0cc09a7cb8af5d2/library_600x900_french.jpg"
+			}
+			"image2x"
+			{
+				"koreana" "4db86f0dc09ce78193f307866bb85c1325a85f85/library_600x900_koreana_2x.jpg"
+				"schinese" "c2ea84935f6eaac8b9bbba505252295a781f93f6/library_600x900_schinese_2x.jpg"
+				"japanese" "39050eea2b9ef257b29c656905a1c0cea02861c9/library_600x900_japanese_2x.jpg"
+				"english" "433ff200d0ec056440480a95e0cc09a7cb8af5d2/library_600x900_2x.jpg"
+				"german" "433ff200d0ec056440480a95e0cc09a7cb8af5d2/library_600x900_german_2x.jpg"
+				"french" "433ff200d0ec056440480a95e0cc09a7cb8af5d2/library_600x900_french_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero.jpg"
+				"koreana" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_koreana.jpg"
+				"japanese" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_japanese.jpg"
+				"schinese" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_schinese.jpg"
+				"german" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_german.jpg"
+				"french" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_french.jpg"
+			}
+			"image2x"
+			{
+				"english" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_2x.jpg"
+				"koreana" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_koreana_2x.jpg"
+				"japanese" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_japanese_2x.jpg"
+				"schinese" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_schinese_2x.jpg"
+				"german" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_german_2x.jpg"
+				"french" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_french_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_blur.jpg"
+				"koreana" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_blur_koreana.jpg"
+				"japanese" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_blur_japanese.jpg"
+				"schinese" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_blur_schinese.jpg"
+				"german" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_blur_german.jpg"
+				"french" "ce36b888ab9f1222fd9909252c064203ed88c1cf/library_hero_blur_french.jpg"
 			}
 		}
 		"library_logo"
@@ -73,11 +127,46 @@
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "b605fe14db222e18826493fbb0417da04087aa79/logo.png"
+				"japanese" "10f78f60ee77394cc4edbc0f13e9f7965f39dae7/logo_japanese.png"
+				"koreana" "7cafb882f0c9a550e86e64aad715255c562dc460/logo_koreana.png"
+				"schinese" "a6cc2d8478ae22ee74425d52f9cecc3ebebf98f6/logo_schinese.png"
+				"german" "b605fe14db222e18826493fbb0417da04087aa79/logo_german.png"
+				"french" "b605fe14db222e18826493fbb0417da04087aa79/logo_french.png"
+			}
+			"image2x"
+			{
+				"japanese" "10f78f60ee77394cc4edbc0f13e9f7965f39dae7/logo_japanese_2x.png"
+				"english" "b605fe14db222e18826493fbb0417da04087aa79/logo_2x.png"
+				"koreana" "7cafb882f0c9a550e86e64aad715255c562dc460/logo_koreana_2x.png"
+				"schinese" "a6cc2d8478ae22ee74425d52f9cecc3ebebf98f6/logo_schinese_2x.png"
+				"german" "b605fe14db222e18826493fbb0417da04087aa79/logo_german_2x.png"
+				"french" "b605fe14db222e18826493fbb0417da04087aa79/logo_french_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "443487469c17b0919ad1dfc975316eee70f29ae3/library_header.jpg"
+				"schinese" "7c99719e204fb92d321791723032fb8228f2aac0/library_header_schinese.jpg"
+				"koreana" "6b7ef5afb8b81a29aa816cc30497af7f190a8248/library_header_koreana.jpg"
+				"japanese" "bac842548bfe90ed46e28f036fa34f99817d81da/library_header_japanese.jpg"
+				"german" "443487469c17b0919ad1dfc975316eee70f29ae3/library_header_german.jpg"
+				"french" "443487469c17b0919ad1dfc975316eee70f29ae3/library_header_french.jpg"
+			}
+			"image2x"
+			{
+				"english" "443487469c17b0919ad1dfc975316eee70f29ae3/library_header_2x.jpg"
+				"schinese" "7c99719e204fb92d321791723032fb8228f2aac0/library_header_schinese_2x.jpg"
+				"koreana" "6b7ef5afb8b81a29aa816cc30497af7f190a8248/library_header_koreana_2x.jpg"
+				"japanese" "bac842548bfe90ed46e28f036fa34f99817d81da/library_header_japanese_2x.jpg"
+				"german" "443487469c17b0919ad1dfc975316eee70f29ae3/library_header_german_2x.jpg"
+				"french" "443487469c17b0919ad1dfc975316eee70f29ae3/library_header_french_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1708317161"
+	"store_asset_mtime" "1731026531"
 	"associations"
 	{
 		"0"
@@ -88,23 +177,23 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "SleepingMuseum"
+			"name" "KEMCO"
 		}
 	}
-	"primary_genre" "23"
+	"primary_genre" "25"
 	"genres"
 	{
 		"0" "25"
 		"1" "4"
 		"2" "23"
-		"3" "3"
-		"4" "28"
+		"3" "28"
 	}
 	"category"
 	{
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -129,6 +218,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1602727679"
 	"community_visible_stats" "1"
@@ -136,11 +235,26 @@
 	"gameid" "1321120"
 	"store_tags"
 	{
-		"0" "492"
-		"1" "21"
-		"2" "122"
-		"3" "597"
-		"4" "599"
+		"0" "21"
+		"1" "1667"
+		"2" "1698"
+		"3" "4726"
+		"4" "5716"
+		"5" "5608"
+		"6" "1742"
+		"7" "5984"
+		"8" "597"
+		"9" "3799"
+		"10" "6971"
+		"11" "11014"
+		"12" "1738"
+		"13" "492"
+		"14" "3834"
+		"15" "4486"
+		"16" "1664"
+		"17" "4145"
+		"18" "6815"
+		"19" "3871"
 	}
 	"review_score" "8"
 	"review_percentage" "98"
@@ -148,8 +262,8 @@
 "extended"
 {
 	"developer" "SleepingMuseum"
-	"publisher" "SleepingMuseum"
-	"homepage" "https://sleepingmuseum.info/"
+	"publisher" "KEMCO"
+	"homepage" "https://www.kemco.jp/game/matsuro/ja/"
 }
 "config"
 {
@@ -166,32 +280,34 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
+	"baselanguages" "english,german,french,koreana,schinese,japanese"
 	"1321121"
 	{
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6895134298108455111"
-				"size" "279605856"
-				"download" "49577136"
+				"gid" "2542921721858963075"
+				"size" "424138252"
+				"download" "112944944"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "5F9CE57940BBD81587238016F611361F"
-				"size" "4C7D3C9667883A875FE7D93C01071CB2"
-				"download" "A0F3EEBD2D64D1283E4BD578FD4BCA3A"
+				"gid" "732FB77F4B48036F62DDA2F91BF612CF"
+				"size" "017A714920710CCDEC889E80248779E6"
+				"download" "37A0EBF17D53C03C95717306BCFABEEE"
 			}
 			"legacy"
 			{
@@ -201,19 +317,25 @@
 			}
 		}
 	}
-	"baselanguages" "english,koreana,schinese,japanese"
+	"1321122"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "5556323"
-			"timeupdated" "1600326153"
+			"buildid" "16403059"
+			"timeupdated" "1731629827"
 		}
 		"beta"
 		{
-			"buildid" "15648205"
+			"buildid" "16403059"
 			"pwdrequired" "1"
-			"timeupdated" "1725955688"
+			"timeupdated" "1731572583"
 		}
 		"legacy"
 		{
@@ -232,7 +354,7 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "SleepingMuseum/matsuro"
+			"path" "SleepingMuseum/Matsuro Palette"
 			"pattern" "*.*"
 			"platforms"
 			{
@@ -242,3 +364,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26202823"
+"_sha" "f36d4c53d070fd4aa1075557079175da19354b41"
+"_size" "10045"
