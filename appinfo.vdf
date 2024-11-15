@@ -16,9 +16,9 @@
 		"thai" "ห้าหัวใจใต้หลังคาเดียวกัน"
 		"brazilian" "Cinco Corações, Um Teto Cheio de Amor"
 	}
-	"oslist" "windows"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"icon" "a4fbeee384f812169f0d358d20a3dd7072104b59"
 	"clienttga" "6e50ff235fec525414a4456a1a089a610bc74b93"
 	"clienticon" "0735d42997bb9336566d0110f2343b26c786e206"
@@ -26,10 +26,16 @@
 	"languages"
 	{
 		"english" "1"
+		"french" "1"
 		"koreana" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
 		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"indonesian" "1"
 	}
 	"content_descriptors"
 	{
@@ -232,11 +238,11 @@
 	{
 		"0" "9551"
 		"1" "18594"
-		"2" "4947"
-		"3" "3799"
-		"4" "12095"
-		"5" "4182"
-		"6" "3839"
+		"2" "12095"
+		"3" "4947"
+		"4" "3799"
+		"5" "3839"
+		"6" "4182"
 		"7" "6426"
 		"8" "6971"
 		"9" "11014"
@@ -268,37 +274,78 @@
 		"0"
 		{
 			"executable" "MilkGame.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "MilkGame.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "MilkGame.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
 		}
 	}
 	"uselaunchcommandline" "1"
 }
 "depots"
 {
-	"baselanguages" "english,koreana,schinese"
+	"baselanguages" "english,french,koreana,schinese,tchinese,russian,thai,japanese,portuguese,indonesian"
 	"3021101"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "771639817545104210"
-				"size" "33906761500"
-				"download" "26978993392"
+				"gid" "5621510138639771109"
+				"size" "36765758040"
+				"download" "26908043600"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"3021102"
+	{
+		"config"
 		{
-			"review"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "4F39EA5123599D87DE69F84D4D148E45"
-				"size" "81FD4F1D73F25FC8E886CB365D992628"
-				"download" "D536615358E26BFA66EFC53276F4B0D0"
+				"gid" "883075133683650252"
+				"size" "36783041285"
+				"download" "26913806624"
 			}
-			"test_qa"
+		}
+	}
+	"3021103"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "B88580DD32FF60D201110921CC4C7FC5"
-				"size" "184C7B7F9F084AD14B82F08D689CB260"
-				"download" "72D0BDEBE303DD33A663FEB7747171CB"
+				"gid" "418799458368900850"
+				"size" "10777995971"
+				"download" "7661422544"
 			}
 		}
 	}
@@ -306,22 +353,11 @@
 	{
 		"public"
 		{
-			"buildid" "16324342"
-			"timeupdated" "1730968694"
-		}
-		"review"
-		{
-			"buildid" "16033232"
-			"pwdrequired" "1"
-			"timeupdated" "1728896524"
-		}
-		"test_qa"
-		{
-			"buildid" "16324342"
-			"pwdrequired" "1"
-			"timeupdated" "1730965815"
+			"buildid" "16401081"
+			"timeupdated" "1731634557"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -366,6 +402,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26085737"
-"_sha" "fca565fd59e2590b62bcb8dd3431e4a55c52cb30"
-"_size" "7685"
+"_change_number" "26206286"
+"_sha" "ed1b3f951861504e122f342b50dc8fe42b7a2c00"
+"_size" "8038"
