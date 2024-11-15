@@ -198,7 +198,7 @@
 {
 	"developer" "PhillyGames"
 	"publisher" "PhillyGames"
-	"listofdlc" "1385850"
+	"listofdlc" "1385850,3169990"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -238,13 +238,14 @@
 "depots"
 {
 	"baselanguages" "english"
+	"hasdepotsindlc" "0"
 	"1358251"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4425844014755489088"
+				"gid" "3292884553172540444"
 				"size" "5011341496"
 				"download" "4842985184"
 			}
@@ -259,6 +260,31 @@
 			}
 		}
 	}
+	"1358252"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7920955957010170742"
+				"size" "5074078399"
+				"download" "4860831344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "5614D6A8B2A9E874C76A9349C058F27B"
+				"size" "4D449FD74F89F67A2C4253E3F5C2A988"
+				"download" "50564CCBB28AACA924A1DD3E653D89EC"
+			}
+		}
+	}
 	"1385850"
 	{
 		"dlcappid" "1385850"
@@ -266,18 +292,18 @@
 		{
 			"public"
 			{
-				"gid" "5087233850430329513"
-				"size" "11313232"
-				"download" "10727760"
+				"gid" "8888856415849209222"
+				"size" "25773745"
+				"download" "24440592"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "BFB027962F54C6C86C20F9EFED819158"
-				"size" "1B5532BC9A3211E51C649759488E261D"
-				"download" "D9A828B214739FC6EB4BEE7E0DB85CBC"
+				"gid" "1370224443AF55E5B59607D675FEBEE4"
+				"size" "0AE2F9FB85340C072B87332EA3BD35F4"
+				"download" "54138E5B290BD1865603D22B942574F2"
 			}
 		}
 	}
@@ -286,14 +312,20 @@
 		"dlcappid" "3169990"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "7662012409463469317"
+				"size" "11490506757"
+				"download" "11178985952"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "0F4F9264BB134FEC23F6049728339AC8"
-				"size" "18D55686BE6746FEE99EBD45BCFDC1EB"
-				"download" "8F2946AABE611653D7825BEFF3CB27B0"
+				"gid" "63A46AB956B00904B67DDD1E0FF166CC"
+				"size" "08D7391A7C747DAD474F6BA75EF419CA"
+				"download" "CC230B6225DE75672875DF5E8A54FFE7"
 			}
 		}
 	}
@@ -301,14 +333,18 @@
 	{
 		"public"
 		{
-			"buildid" "5371989"
-			"timeupdated" "1596585037"
+			"buildid" "16420864"
+			"timeupdated" "1731677678"
 		}
 		"development"
 		{
-			"buildid" "15843276"
+			"buildid" "16420864"
 			"pwdrequired" "1"
-			"timeupdated" "1727390925"
+			"timeupdated" "1731677401"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26212719"
+"_sha" "cc16f9e1155d75c30d83b8995fa74fb7a6327712"
+"_size" "6335"
