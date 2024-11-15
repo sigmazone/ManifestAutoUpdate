@@ -36,9 +36,16 @@
 		"brazilian" "1"
 		"bulgarian" "1"
 	}
-	"oslist" "macos,windows,linux"
+	"oslist" "windows,macos,linux"
 	"linuxclienticon" "4a75609ae32a548e85ec58ced4b17ae38f1547ea"
-	"type" "game"
+	"osarch" ""
+	"osextended" ""
+	"type" "Tool"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -104,6 +111,44 @@
 			"height_pct" "30"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "30"
+			}
+		}
+	}
 	"store_asset_mtime" "1666824170"
 	"associations"
 	{
@@ -147,6 +192,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -229,31 +275,7 @@
 	"metacritic_score" "90"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/half-life-2-episode-two\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
-	"community_hub_visible" "1"
 	"gameid" "420"
-	"store_tags"
-	{
-		"0" "1663"
-		"1" "19"
-		"2" "3942"
-		"3" "4182"
-		"4" "1774"
-		"5" "1742"
-		"6" "3839"
-		"7" "1693"
-		"8" "21"
-		"9" "1673"
-		"10" "4166"
-		"11" "1659"
-		"12" "15954"
-		"13" "5030"
-		"14" "1756"
-		"15" "3835"
-		"16" "4242"
-		"17" "1664"
-		"18" "1667"
-		"19" "3859"
-	}
 	"review_score" "9"
 	"review_percentage" "97"
 }
@@ -451,9 +473,9 @@
 		{
 			"public"
 			{
-				"gid" "6174575029933153671"
-				"size" "3197069373"
-				"download" "1917360864"
+				"gid" "3948453396516064"
+				"size" "3174829548"
+				"download" "1914052656"
 			}
 			"beta"
 			{
@@ -466,6 +488,12 @@
 				"gid" "7240365789913596100"
 				"size" "3177402019"
 				"download" "1920597648"
+			}
+			"steam_legacy"
+			{
+				"gid" "6174575029933153671"
+				"size" "3197069373"
+				"download" "1917360864"
 			}
 		}
 	}
@@ -495,6 +523,12 @@
 				"size" "451577384"
 				"download" "326567152"
 			}
+			"steam_legacy"
+			{
+				"gid" "3785722811354167350"
+				"size" "451577384"
+				"download" "326500720"
+			}
 		}
 	}
 	"422"
@@ -522,6 +556,12 @@
 				"gid" "2463829692526548946"
 				"size" "450682288"
 				"download" "336727824"
+			}
+			"steam_legacy"
+			{
+				"gid" "3441685239460551354"
+				"size" "450682288"
+				"download" "336658896"
 			}
 		}
 	}
@@ -551,6 +591,12 @@
 				"size" "198621491"
 				"download" "182954512"
 			}
+			"steam_legacy"
+			{
+				"gid" "1912720665726462040"
+				"size" "198621491"
+				"download" "182881088"
+			}
 		}
 	}
 	"424"
@@ -579,6 +625,12 @@
 				"size" "456982804"
 				"download" "337724144"
 			}
+			"steam_legacy"
+			{
+				"gid" "1258244556687904014"
+				"size" "456982804"
+				"download" "337649744"
+			}
 		}
 	}
 	"hasdepotsindlc" "0"
@@ -586,8 +638,8 @@
 	{
 		"public"
 		{
-			"buildid" "12694563"
-			"timeupdated" "1700189214"
+			"buildid" "16425447"
+			"timeupdated" "1731708021"
 		}
 		"beta"
 		{
@@ -600,6 +652,12 @@
 			"buildid" "392288"
 			"description" "The previous public build"
 			"timeupdated" "1569534544"
+		}
+		"steam_legacy"
+		{
+			"buildid" "12694563"
+			"description" "Pre-20th Anniversary Build"
+			"timeupdated" "1731707988"
 		}
 	}
 }
@@ -623,62 +681,7 @@
 		}
 	}
 }
-"sysreqs"
-{
-	"macos"
-	{
-		"supported" "1"
-		"wants_fast_gpu" "1"
-		"intel900" "warn"
-		"intelx3100" "warn"
-		"8086"
-		{
-			"27a6" "warn"
-			"2a02" "warn"
-		}
-		"10de"
-		{
-			"009d" "deny"
-			"0391" "deny"
-			"0393" "deny"
-			"0395" "deny"
-		}
-	}
-	"macos104"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos105"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos1058"
-	{
-		"supported" "1"
-		"1002"
-		{
-			"7109" "warn"
-			"7142" "warn"
-			"7146" "warn"
-			"7187" "warn"
-			"71c0" "warn"
-			"71c5" "warn"
-			"71de" "warn"
-			"7210" "warn"
-			"7240" "warn"
-			"7249" "warn"
-			"7291" "warn"
-		}
-	}
-	"macos106"
-	{
-		"supported" "0"
-		"os_min" "macos1063"
-	}
-}
 "_missing_token" "False"
-"_change_number" "21373678"
-"_sha" "20b17718d2f57f5f5f3cc064fc653babc43b6cae"
-"_size" "11269"
+"_change_number" "26220942"
+"_sha" "801ffb5a1ce0eeef6bdb391b3ae8f20c5bf23030"
+"_size" "11529"
