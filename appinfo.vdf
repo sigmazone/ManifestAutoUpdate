@@ -60,7 +60,6 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
-	"metacritic_name" "Dealer\'s Life"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -82,7 +81,45 @@
 			"height_pct" "69.0305977730283"
 		}
 	}
-	"store_asset_mtime" "1660129510"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.88644284317991"
+				"height_pct" "69.0305977730283"
+			}
+		}
+	}
+	"store_asset_mtime" "1683191499"
 	"associations"
 	{
 		"0"
@@ -204,13 +241,13 @@
 		"19" "3916"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
 	"developer" "Abyte Entertainment"
 	"publisher" "Abyte Entertainment"
-	"homepage" "https://abyteentertainment.com/dealers-life-news/"
+	"homepage" "https://abyteentertainment.com/dealers-life/"
 }
 "config"
 {
@@ -252,24 +289,24 @@
 		{
 			"public"
 			{
-				"gid" "5122778645984072457"
-				"size" "116796414"
-				"download" "59065712"
+				"gid" "6501194546978141265"
+				"size" "117164983"
+				"download" "59855904"
 			}
 			"beta"
 			{
-				"gid" "5122778645984072457"
-				"size" "116796414"
-				"download" "59065712"
+				"gid" "6501194546978141265"
+				"size" "117164983"
+				"download" "59855904"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "8097D70EC75426A17876C4E3B4779C64"
-				"size" "43FF99E6279F1DC0DCA917DE39706E1A"
-				"download" "B57E89FF2289FD55592F7B9F302F66D9"
+				"gid" "C09A90F7054156CACFB6B970D2638B7E"
+				"size" "AED52F5B957A98C6F1AE4F606920FE57"
+				"download" "A75F2EB3ED30A8BA122A215317E88303"
 			}
 		}
 	}
@@ -277,20 +314,20 @@
 	{
 		"public"
 		{
-			"buildid" "13543039"
-			"timeupdated" "1710411649"
+			"buildid" "15637714"
+			"timeupdated" "1731606979"
 		}
 		"alpha"
 		{
-			"buildid" "13543039"
+			"buildid" "15637714"
 			"pwdrequired" "1"
-			"timeupdated" "1708691668"
+			"timeupdated" "1725881345"
 		}
 		"beta"
 		{
-			"buildid" "13543039"
+			"buildid" "15637714"
 			"description" "Public Beta"
-			"timeupdated" "1710411270"
+			"timeupdated" "1727361236"
 		}
 	}
 }
@@ -323,6 +360,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22759646"
-"_sha" "1a01acbc0fc704524fe985b030b77962f1f2744d"
-"_size" "6001"
+"_change_number" "26197926"
+"_sha" "9c40584a9d3f0880f5c949e367e79301ce9f38d4"
+"_size" "6518"
