@@ -91,6 +91,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -122,6 +123,13 @@
 			"image2x"
 			{
 				"english" "77b057c52f8f859d7bdcec8cc6283ee8f7123841/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "77b057c52f8f859d7bdcec8cc6283ee8f7123841/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -299,7 +307,7 @@
 	{
 		"0"
 		{
-			"executable" "launcher/Launcher.exe"
+			"executable" "Infection Free Zone.exe"
 			"type" "default"
 			"config"
 			{
@@ -308,9 +316,9 @@
 			}
 			"description_loc"
 			{
-				"english" "Play Launcher"
+				"english" "Play"
 			}
-			"description" "Play Launcher"
+			"description" "Play"
 		}
 		"1"
 		{
@@ -368,6 +376,15 @@
 			}
 			"description" "Play Launcher"
 		}
+		"5"
+		{
+			"executable" "Infection Free Zone.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "experimental"
+			}
+		}
 	}
 }
 "depots"
@@ -382,21 +399,21 @@
 		{
 			"public"
 			{
-				"gid" "6718599325784451400"
-				"size" "5863915496"
-				"download" "3543452128"
+				"gid" "1959811593379168203"
+				"size" "5880456668"
+				"download" "3567640704"
 			}
 			"open_beta"
 			{
-				"gid" "5156682143428839286"
-				"size" "5845773277"
-				"download" "3555734064"
+				"gid" "3307091152785422696"
+				"size" "5899785692"
+				"download" "3573737184"
 			}
 			"previous"
 			{
-				"gid" "5350448773245513165"
-				"size" "5866026845"
-				"download" "3541799840"
+				"gid" "6718599325784451400"
+				"size" "5863915496"
+				"download" "3543452128"
 			}
 		}
 		"encryptedmanifests"
@@ -421,9 +438,9 @@
 			}
 			"development"
 			{
-				"gid" "B4424527A66C27EFFC2715B6E1CE5620"
-				"size" "4FE7D07F7E0C20B726058360A18C2DE0"
-				"download" "DD0EA6CB758240B916FE00E94BDD336B"
+				"gid" "D5BF1373DF32E8A26B5724C001A889D3"
+				"size" "F7398FAE000B666A2EB4CCCB3D1DD775"
+				"download" "4C4DFB35E9BD359452C70B83130A1E3F"
 			}
 			"experimental"
 			{
@@ -439,9 +456,9 @@
 			}
 			"internal"
 			{
-				"gid" "AAF4437531ED012F6B6F43DBA68345DC"
-				"size" "45B4F65FEAE64C7D7969CC407DBDB645"
-				"download" "0997E0F5F425300F47F2BF0A610C0D9D"
+				"gid" "97513BEBB86A36DF862155271AAA0E72"
+				"size" "9B9E07300C5BDC4669B46E4BEC4C731A"
+				"download" "AF0972103A7AEFCB6747369D670A40F0"
 			}
 			"launcher"
 			{
@@ -451,9 +468,9 @@
 			}
 			"testing"
 			{
-				"gid" "A3C360C1045F5C146E6FDCE7C6000F89"
-				"size" "6BF66B438FD1D28CA25070A779765E22"
-				"download" "2096CC7F918BB8C82666B6F14AC79A7A"
+				"gid" "0799AD55FB229D22EDFE0744D347004B"
+				"size" "66C881B8D9D5EA3D22EEFA0498D22B84"
+				"download" "BD46B6D6BE5C0E0A8D1F9A7B3796EDA4"
 			}
 		}
 	}
@@ -462,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "16297960"
-			"timeupdated" "1730905442"
+			"buildid" "16406519"
+			"timeupdated" "1731689749"
 		}
 		"last_with_fps_ok"
 		{
@@ -485,9 +502,9 @@
 		}
 		"development"
 		{
-			"buildid" "16295635"
+			"buildid" "16406519"
 			"pwdrequired" "1"
-			"timeupdated" "1730776282"
+			"timeupdated" "1731689408"
 		}
 		"experimental"
 		{
@@ -503,9 +520,9 @@
 		}
 		"internal"
 		{
-			"buildid" "16309150"
+			"buildid" "16414538"
 			"pwdrequired" "1"
-			"timeupdated" "1730861958"
+			"timeupdated" "1731639592"
 		}
 		"launcher"
 		{
@@ -515,21 +532,21 @@
 		}
 		"open_beta"
 		{
-			"buildid" "16300897"
+			"buildid" "16420371"
 			"description" "New builds still in testing"
-			"timeupdated" "1730907234"
+			"timeupdated" "1731688735"
 		}
 		"previous"
 		{
-			"buildid" "16250669"
+			"buildid" "16297960"
 			"description" "previous default build"
-			"timeupdated" "1730905336"
+			"timeupdated" "1731696216"
 		}
 		"testing"
 		{
-			"buildid" "16300897"
+			"buildid" "16420371"
 			"pwdrequired" "1"
-			"timeupdated" "1730811350"
+			"timeupdated" "1731675118"
 		}
 	}
 }
@@ -570,6 +587,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26074002"
-"_sha" "e958655672b46d6ef4aea4f8244233c6dd38b02e"
-"_size" "10899"
+"_change_number" "26217677"
+"_sha" "b91a578e26e452f52ca59038adfa338a917060da"
+"_size" "11192"
