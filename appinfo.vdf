@@ -1,0 +1,701 @@
+"appid" "2701660"
+"common"
+{
+	"name" "DRAGON QUEST III HD-2D Remake"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"clienticon" "8f7023bd7b2ae8d13a7f7398ee4d7085b7080b9d"
+	"clienttga" "e9b3694cdca58985d89c6fc62c33391eb4e452d7"
+	"name_localized"
+	{
+		"english" "DRAGON QUEST III HD-2D Remake"
+		"japanese" "ドラゴンクエストIII　そして伝説へ…"
+		"koreana" "드래곤 퀘스트 III HD-2D Remake"
+		"tchinese" "勇者鬥惡龍III HD-2D Remake"
+		"schinese" "勇者斗恶龙III HD-2D Remake"
+	}
+	"icon" "2d394c4bf506e45881d88e88eb494b18b5c2540b"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2701660_eula_0"
+			"name" "DRAGON QUEST III HD-2D Remake EULA"
+			"url" "https://store.steampowered.com//eula/2701660_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1725667200"
+		"tested_build_id" "15313637"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,zh-tw,ja,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,ko,zh-tw,ja,zh-cn"
+		"library_header" "en,ko,zh-tw,ja,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"koreana" "library_header_koreana.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731319454"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "ARTDINK"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dragon Quest"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731603376"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2701660"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "3964"
+		"3" "4182"
+		"4" "4325"
+		"5" "1684"
+		"6" "5379"
+		"7" "5708"
+		"8" "4975"
+		"9" "4085"
+		"10" "21"
+		"11" "4853"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://dragonquest.square-enix-games.com/games/en-us/dragon-quest-123-hd2d-remakes/"
+	"listofdlc" "2875360,2915510,2915520"
+}
+"config"
+{
+	"installdir" "DRAGON QUEST III HD-2D Remake"
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "denuvo"
+			}
+		}
+		"1"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+		}
+		"2"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development_weekly"
+			}
+		}
+		"3"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "rating"
+			}
+		}
+		"4"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "shipping"
+			}
+		}
+		"5"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "shipping_weekly"
+			}
+		}
+		"6"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "test"
+			}
+		}
+		"7"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "test_weekly"
+			}
+		}
+		"9"
+		{
+			"executable" "DQIIIHD2DRemake.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "summer_game_fest"
+			}
+		}
+		"11"
+		{
+			"executable" "Nicola.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "virtual_keyboard_test"
+			}
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"3142627356"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,denuvo,development,development_weekly,shipping,shipping_weekly,test,test_weekly,rating,summer_game_fest,tgs_shipping,virtual_keyboard_test,shipping_test,release"
+			"use_action_block" "false"
+		}
+		"3142637886"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,denuvo,development,development_weekly,shipping,shipping_weekly,test,test_weekly,rating,summer_game_fest,tgs_shipping,virtual_keyboard_test,shipping_test,release"
+			"use_action_block" "false"
+		}
+		"3142643834"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,denuvo,development,development_weekly,shipping,shipping_weekly,test,test_weekly,rating,summer_game_fest,tgs_shipping,virtual_keyboard_test,shipping_test,release"
+			"use_action_block" "false"
+		}
+		"3219043452"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,denuvo,development,development_weekly,shipping,shipping_weekly,test,test_weekly,rating,summer_game_fest,tgs_shipping,virtual_keyboard_test,shipping_test,release"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2701661"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3074585177756258222"
+				"size" "16847111096"
+				"download" "15914986576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"denuvo"
+			{
+				"gid" "F56B922FA58A05B0CBD61CF9A03E0527"
+				"size" "FDF236B55A0C91382D38B2204EA41CB6"
+				"download" "A3469831A0A24FD7D83EEC0A0C0C11F2"
+			}
+			"development"
+			{
+				"gid" "A1222CD7220ACAD0F4D4AF4B5C04F691"
+				"size" "E86CD08BAC5CBA07CC679C415A8330B9"
+				"download" "B14142F2D700A5B1562188AAA6E2D66A"
+			}
+			"development_weekly"
+			{
+				"gid" "70ACB3997C46143702DB32E42B1952C6"
+				"size" "C99161053F167860968733023A30B308"
+				"download" "79C5E96AD34C0235EC04405D58D2605B"
+			}
+			"shipping"
+			{
+				"gid" "84C6A6610BFF32863FD5AF400CFC2CE1"
+				"size" "D8B7F22C8FEE7AC3FD4866D445CFA48D"
+				"download" "F8E8B43DBAA89BF4416B3827F82063C6"
+			}
+			"shipping_weekly"
+			{
+				"gid" "31D8EBACC83A859703040805663B9329"
+				"size" "113256E399EBB95F2D23FBF7949FA8B2"
+				"download" "79D81C1A258DCFED6E25E2B49BE9C842"
+			}
+			"shipping_without_denuvo"
+			{
+				"gid" "4C29A79A66C2B98516980C92C495E8B8"
+				"size" "DF76FEBE29E28932EFD701C877E7FCEB"
+				"download" "60B43D5C1456B7BA123C6F28957F7C4F"
+			}
+			"test"
+			{
+				"gid" "3E5FF1247424B3305435B7E93A89DCCE"
+				"size" "19C683ED103BFC6D9380CD3149193948"
+				"download" "8D09A1764683432F64681260B094CA56"
+			}
+			"test_weekly"
+			{
+				"gid" "3C1A122592289B36BFA8DBA07243803E"
+				"size" "E760C01D1F6C3C9FA969D240CE2C64D9"
+				"download" "D3C403426B0D2A0F227568943C4C2609"
+			}
+			"rating"
+			{
+				"gid" "BAEAC6697E905BE436B8B2ED0B67B459"
+				"size" "8F42F437FEC9349E4FCD8923CF0706FE"
+				"download" "BA1A4E1E2F675B87D683F4533A70EA44"
+			}
+			"summer_game_fest"
+			{
+				"gid" "31E1AC87C62A96EBCA51A063EA659544"
+				"size" "B185607E8C831314E6D17F1D9F5DB1BC"
+				"download" "49E33690536CCD057BC3403BB0312925"
+			}
+			"tgs_shipping"
+			{
+				"gid" "CB0A21B89006BCCE8E5EA95CD7FA2B09"
+				"size" "92BFD5DAF3C849513074EFD34164E955"
+				"download" "E1469AA92893E017364EBBB28A8D5595"
+			}
+			"virtual_keyboard_test"
+			{
+				"gid" "118C4F440DC74B537B50AAE291961501"
+				"size" "D3E3A0E9CB2A112896F7AABEE179350E"
+				"download" "E0F33DA8DF7B49C387AF3E0A196785F5"
+			}
+			"shipping_test"
+			{
+				"gid" "FACE86616831FDE1CCFE85F4DC5E3CDF"
+				"size" "C50794383335F1EE2F03085381ADBEE8"
+				"download" "F6251CDBAE9383B2856461EAE8B4BCDC"
+			}
+			"release"
+			{
+				"gid" "5BE6525E9FE1791772E7AB812E47070F"
+				"size" "150A3B1091F02FBB2A2867A669D3D3D4"
+				"download" "BC0E64235A3848009961C073A9564DBB"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16379014"
+			"timeupdated" "1731501053"
+		}
+		"denuvo"
+		{
+			"buildid" "16379014"
+			"pwdrequired" "1"
+			"timeupdated" "1731418410"
+		}
+		"development"
+		{
+			"buildid" "15304343"
+			"pwdrequired" "1"
+			"timeupdated" "1723120196"
+		}
+		"development_weekly"
+		{
+			"buildid" "15304343"
+			"pwdrequired" "1"
+			"timeupdated" "1723168806"
+		}
+		"shipping"
+		{
+			"buildid" "16379014"
+			"pwdrequired" "1"
+			"timeupdated" "1731418373"
+		}
+		"shipping_weekly"
+		{
+			"buildid" "16379014"
+			"pwdrequired" "1"
+			"timeupdated" "1731418395"
+		}
+		"shipping_without_denuvo"
+		{
+			"buildid" "15723335"
+			"pwdrequired" "1"
+			"timeupdated" "1726539055"
+		}
+		"test"
+		{
+			"buildid" "15310666"
+			"pwdrequired" "1"
+			"timeupdated" "1723155253"
+		}
+		"test_weekly"
+		{
+			"buildid" "15310682"
+			"pwdrequired" "1"
+			"timeupdated" "1723155354"
+		}
+		"rating"
+		{
+			"buildid" "14387772"
+			"pwdrequired" "1"
+			"timeupdated" "1715855680"
+		}
+		"summer_game_fest"
+		{
+			"buildid" "14516591"
+			"pwdrequired" "1"
+			"timeupdated" "1716885556"
+		}
+		"tgs_shipping"
+		{
+			"buildid" "15157749"
+			"pwdrequired" "1"
+			"timeupdated" "1721959787"
+		}
+		"virtual_keyboard_test"
+		{
+			"buildid" "15071989"
+			"pwdrequired" "1"
+			"timeupdated" "1721286054"
+		}
+		"shipping_test"
+		{
+			"buildid" "15270560"
+			"pwdrequired" "1"
+			"timeupdated" "1722907142"
+		}
+		"release"
+		{
+			"buildid" "15313637"
+			"pwdrequired" "1"
+			"timeupdated" "1723177996"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/DRAGON QUEST III HD-2D Remake/Steam/{64BitSteamID}"
+			"pattern" "Capture*.sav"
+			"recursive" "1"
+		}
+		"8"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/DRAGON QUEST III HD-2D Remake/Steam/{64BitSteamID}"
+			"pattern" "*SaveData*.sav"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/DRAGON QUEST III HD-2D Remake/Steam/{64BitSteamID}"
+			"pattern" "SystemData_0.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26202915"
+"_sha" "8bff13d8e8da2ea729892b7a3e0a3a95eca1b547"
+"_size" "14911"
