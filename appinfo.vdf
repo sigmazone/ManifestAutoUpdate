@@ -40,9 +40,18 @@
 		"vietnamese" "1"
 		"latam" "1"
 	}
-	"oslist" "macos,windows,linux"
+	"oslist" "windows,macos,linux"
 	"linuxclienticon" "4a75609ae32a548e85ec58ced4b17ae38f1547ea"
 	"type" "Game"
+	"osarch" ""
+	"osextended" ""
+	"timeline_marker_updated" "1731709465"
+	"timeline_marker_svg" "ebea7de6e6ce132f4c24b698f70f1d87e0b979e1/markers.svg"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -109,7 +118,45 @@
 			"height_pct" "34"
 		}
 	}
-	"store_asset_mtime" "1682697176"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57"
+				"height_pct" "34"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1731706396"
 	"associations"
 	{
 		"0"
@@ -153,6 +200,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -240,6 +288,7 @@
 	"metacritic_score" "96"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/half-life-2\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "220"
 	"store_tags"
@@ -295,11 +344,12 @@
 		"0"
 		{
 			"executable" "hl2.exe"
-			"arguments" "-game hl2 -steam"
+			"arguments" "-steam -game hl2_complete"
 			"workingdir" "bin"
 			"config"
 			{
 				"oslist" "windows"
+				"betakey" "default"
 			}
 		}
 		"1"
@@ -314,10 +364,52 @@
 		"2"
 		{
 			"executable" "hl2.sh"
-			"arguments" "-game hl2 -steam"
+			"arguments" "-steam -game hl2_complete"
 			"config"
 			{
 				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "hl2.exe"
+			"arguments" "-steam -game hl2"
+			"workingdir" "bin"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "steam_legacy"
+			}
+		}
+		"4"
+		{
+			"executable" "hl2.sh"
+			"arguments" "-steam -game hl2"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "steam_legacy"
+			}
+		}
+		"5"
+		{
+			"executable" "hl2.exe"
+			"arguments" "-steam -game hl2_complete"
+			"workingdir" "bin"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "test"
+			}
+		}
+		"6"
+		{
+			"executable" "hl2.sh"
+			"arguments" "-steam -game hl2_complete"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "test"
 			}
 		}
 	}
@@ -343,6 +435,7 @@
 {
 	"overridescddb" "1"
 	"markdlcdepots" "1"
+	"hasdepotsindlc" "1"
 	"233"
 	{
 		"systemdefined" "1"
@@ -350,9 +443,9 @@
 		{
 			"public"
 			{
-				"gid" "139290177754532669"
-				"size" "2942466811"
-				"download" "1745902272"
+				"gid" "2365211273562785593"
+				"size" "3218145447"
+				"download" "1906901056"
 			}
 			"beta"
 			{
@@ -371,6 +464,21 @@
 				"gid" "4309659028384983956"
 				"size" "2900331322"
 				"download" "1738051584"
+			}
+			"steam_legacy"
+			{
+				"gid" "139290177754532669"
+				"size" "2942466811"
+				"download" "1745902272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "093141D646AF9335DD9050FB831AF0D7"
+				"size" "4E51957B625DE41CC7A94757A4FACD96"
+				"download" "2309A9E8E188517F1F1FF246CF0DD8C8"
 			}
 		}
 	}
@@ -403,6 +511,21 @@
 				"size" "3175"
 				"download" "944"
 			}
+			"steam_legacy"
+			{
+				"gid" "488462887721122399"
+				"size" "3175"
+				"download" "944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "61A9CE38FDDAE3281E0CB3A27F6ABA8D"
+				"size" "DB19E01D6374BBD127EADD665F5637EF"
+				"download" "C515936880087F3EEB63824947A3A31F"
+			}
 		}
 	}
 	"221"
@@ -412,9 +535,9 @@
 		{
 			"public"
 			{
-				"gid" "3666218991449795038"
-				"size" "3677260606"
-				"download" "2097118976"
+				"gid" "1812034529581610235"
+				"size" "5436077255"
+				"download" "2752778304"
 			}
 			"beta"
 			{
@@ -434,6 +557,21 @@
 				"size" "3634368320"
 				"download" "2089211312"
 			}
+			"steam_legacy"
+			{
+				"gid" "3666218991449795038"
+				"size" "3677260606"
+				"download" "2097118976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "5E8AE0F3FF3CD1038ECA6543D340EA67"
+				"size" "B18266F0409C2CA0E11E68DB623DEB58"
+				"download" "209797F0D873AAB846BCC7F3BD37B436"
+			}
 		}
 	}
 	"222"
@@ -447,9 +585,9 @@
 		{
 			"public"
 			{
-				"gid" "474913530500547761"
-				"size" "153820545"
-				"download" "64016576"
+				"gid" "3452699681743720827"
+				"size" "333388210"
+				"download" "205483056"
 			}
 			"beta"
 			{
@@ -469,6 +607,21 @@
 				"size" "151590259"
 				"download" "70634368"
 			}
+			"steam_legacy"
+			{
+				"gid" "474913530500547761"
+				"size" "153820545"
+				"download" "64016576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "C3B09201E035FACC06E82FD88AF5F31B"
+				"size" "1BCC73010124143852EFF86D27B2A567"
+				"download" "806DD395BA5A93C25559A1CABABE5CD0"
+			}
 		}
 	}
 	"223"
@@ -482,9 +635,9 @@
 		{
 			"public"
 			{
-				"gid" "1404563906941563189"
-				"size" "107055827"
-				"download" "36020848"
+				"gid" "8156823353042524103"
+				"size" "313216456"
+				"download" "181278864"
 			}
 			"beta"
 			{
@@ -504,6 +657,21 @@
 				"size" "112971049"
 				"download" "41514064"
 			}
+			"steam_legacy"
+			{
+				"gid" "1404563906941563189"
+				"size" "107055827"
+				"download" "36020848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "FEBDC0A4A298A4F86BE0DE68DD78D66A"
+				"size" "BD8931A6346BBC3DEFE6528DF82F753E"
+				"download" "2A07037E2B561A51ED7634168B95EA61"
+			}
 		}
 	}
 	"224"
@@ -517,9 +685,9 @@
 		{
 			"public"
 			{
-				"gid" "5699984820642974318"
-				"size" "142488759"
-				"download" "52997488"
+				"gid" "4196623816179087509"
+				"size" "336947578"
+				"download" "194418560"
 			}
 			"beta"
 			{
@@ -538,6 +706,21 @@
 				"gid" "131314261636096115"
 				"size" "139051323"
 				"download" "56088848"
+			}
+			"steam_legacy"
+			{
+				"gid" "5699984820642974318"
+				"size" "142488759"
+				"download" "52997488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "39F1188406A72B789E49253A6D5E6374"
+				"size" "00C790B5EF194AEC0E51CC9965881C2B"
+				"download" "03A6480B61EE973D842731EF200382C3"
 			}
 		}
 	}
@@ -573,6 +756,21 @@
 				"size" "815201947"
 				"download" "707366560"
 			}
+			"steam_legacy"
+			{
+				"gid" "1805911430347137415"
+				"size" "815201947"
+				"download" "706746416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "78858AC1317CCB7216AB87777E48A861"
+				"size" "03C91FEF0502D736687FCBE3497242E9"
+				"download" "7820EE8C82A3C5AEA0173CEBBB4CC99F"
+			}
 		}
 	}
 	"226"
@@ -606,6 +804,21 @@
 				"gid" "550330392501765894"
 				"size" "767863769"
 				"download" "659322512"
+			}
+			"steam_legacy"
+			{
+				"gid" "2714357289061426116"
+				"size" "767863769"
+				"download" "658763808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "3D5F721B7584BD4F91469A29DE698554"
+				"size" "B276015F3D57B2463993D7A04E84817D"
+				"download" "758B8F798E5BCED34D00492AE9C2F86F"
 			}
 		}
 	}
@@ -641,6 +854,21 @@
 				"size" "766271181"
 				"download" "646634144"
 			}
+			"steam_legacy"
+			{
+				"gid" "7050670928848178928"
+				"size" "766271181"
+				"download" "646144000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "708DBA7AEDFB1D0B9522AA11167CAD9D"
+				"size" "B663F17F8F48016652C16AB426685E04"
+				"download" "B609D45E033EAE76A03781D1E2CF097C"
+			}
 		}
 	}
 	"228"
@@ -674,6 +902,21 @@
 				"gid" "9073472945077735952"
 				"size" "768779276"
 				"download" "653223040"
+			}
+			"steam_legacy"
+			{
+				"gid" "6436857496404272512"
+				"size" "768779276"
+				"download" "652717808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "F5D9B717D1F52911F827A9220869147A"
+				"size" "4164FA09ABEF5277908E3B91DF205857"
+				"download" "7CF42345C49525D2B675D4B58EABB462"
 			}
 		}
 	}
@@ -709,6 +952,21 @@
 				"size" "770717838"
 				"download" "617134352"
 			}
+			"steam_legacy"
+			{
+				"gid" "8840945565145076094"
+				"size" "770717838"
+				"download" "616690080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "7B75C0F999D02DD99436CB37C2704C55"
+				"size" "BF245F528EDC2484833FE2B4F14DD416"
+				"download" "943D72040DB82BD56A00BF1AF003040E"
+			}
 		}
 	}
 	"230"
@@ -742,6 +1000,21 @@
 				"gid" "5515501408802750713"
 				"size" "720479895"
 				"download" "612041824"
+			}
+			"steam_legacy"
+			{
+				"gid" "6084315296130989856"
+				"size" "720479895"
+				"download" "611625920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "327DCAED93FEEE9B09D9669132B65297"
+				"size" "06AADC8CFD55B693A5687967FF0EFFAF"
+				"download" "4B6F0D98B4CCFFCA7662729525C23F57"
 			}
 		}
 	}
@@ -777,6 +1050,21 @@
 				"size" "777664596"
 				"download" "652618464"
 			}
+			"steam_legacy"
+			{
+				"gid" "6094809064806846880"
+				"size" "777664596"
+				"download" "652136960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "3E1CF0923B8FB823C3A36C8C1546AD2B"
+				"size" "0021CC366A73FECE5EB0771E419072DD"
+				"download" "F4F0616F4FE2755DE54559621DB7F359"
+			}
 		}
 	}
 	"232"
@@ -811,15 +1099,233 @@
 				"size" "768973777"
 				"download" "661844640"
 			}
+			"steam_legacy"
+			{
+				"gid" "5674666767121162923"
+				"size" "768973777"
+				"download" "661302656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "B8ADEA19C63C76BCAE20B900BBC3408A"
+				"size" "FEFE49480CEC9EADBBF75073A28B0781"
+				"download" "0FE36B75F94E7FF98B8577B5AF2588DB"
+			}
 		}
 	}
-	"hasdepotsindlc" "1"
+	"389"
+	{
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"381"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"382"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"383"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"384"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"385"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"386"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"387"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"388"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"380"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "380"
+		"sharedinstall" "2"
+	}
+	"420"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "420"
+		"sharedinstall" "2"
+	}
+	"421"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"depotfromapp" "420"
+		"sharedinstall" "2"
+	}
+	"422"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"depotfromapp" "420"
+		"sharedinstall" "2"
+	}
+	"423"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"depotfromapp" "420"
+		"sharedinstall" "2"
+	}
+	"424"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"depotfromapp" "420"
+		"sharedinstall" "2"
+	}
+	"340"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"341"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"342"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"343"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"344"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"345"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"346"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"347"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"348"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"depotfromapp" "340"
+		"sharedinstall" "2"
+	}
+	"workshopdepot" "220"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12694556"
-			"timeupdated" "1700189132"
+			"buildid" "16426261"
+			"timeupdated" "1731710546"
 		}
 		"beta"
 		{
@@ -839,84 +1345,53 @@
 			"description" "The previous public build"
 			"timeupdated" "1569534543"
 		}
+		"steam_legacy"
+		{
+			"buildid" "12694556"
+			"description" "Pre-20th Anniversary Build"
+			"timeupdated" "1731706655"
+		}
+		"test"
+		{
+			"buildid" "16426261"
+			"pwdrequired" "1"
+			"timeupdated" "1731710250"
+		}
 	}
 }
 "ufs"
 {
-	"quota" "104857600"
-	"maxnumfiles" "100"
-	"ignoreexternalfiles" "0"
+	"quota" "304857600"
+	"maxnumfiles" "1000"
 	"savefiles"
 	{
 		"1"
 		{
 			"root" "gameinstall"
 			"path" "hl2/save"
-			"pattern" "*.sav"
-			"siblings" "tga"
-			"platforms"
-			{
-				"1" "all"
-			}
+			"pattern" "*.*"
 		}
-	}
-}
-"sysreqs"
-{
-	"macos"
-	{
-		"supported" "1"
-		"wants_fast_gpu" "1"
-		"intel900" "warn"
-		"intelx3100" "warn"
-		"8086"
+		"2"
 		{
-			"27a6" "warn"
-			"2a02" "warn"
+			"root" "gameinstall"
+			"path" "episodic/save"
+			"pattern" "*.*"
 		}
-		"10de"
+		"3"
 		{
-			"009d" "deny"
-			"0391" "deny"
-			"0393" "deny"
-			"0395" "deny"
+			"root" "gameinstall"
+			"path" "ep2/save"
+			"pattern" "*.*"
 		}
-	}
-	"macos104"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos105"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos1058"
-	{
-		"supported" "1"
-		"1002"
+		"4"
 		{
-			"7109" "warn"
-			"7142" "warn"
-			"7146" "warn"
-			"7187" "warn"
-			"71c0" "warn"
-			"71c5" "warn"
-			"71de" "warn"
-			"7210" "warn"
-			"7240" "warn"
-			"7249" "warn"
-			"7291" "warn"
+			"root" "gameinstall"
+			"path" "lostcoast/save"
+			"pattern" "*.*"
 		}
-	}
-	"macos106"
-	{
-		"supported" "0"
-		"os_min" "macos1063"
 	}
 }
 "_missing_token" "False"
-"_change_number" "21155549"
-"_sha" "628e100116196ce8fb2ea53232edfbe043554245"
-"_size" "15569"
+"_change_number" "26220942"
+"_sha" "7c3c60fb1c2d005a87bc1e0b25175750568fbe64"
+"_size" "23886"
