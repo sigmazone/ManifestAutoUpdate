@@ -1,0 +1,198 @@
+"appid" "217180"
+"common"
+{
+	"name" "Transcripted Alienware Demo"
+	"section_type" "ownersonly"
+	"type" "Demo"
+	"logo" "ccc13fcaad0ee02b20006827ffd5ada96fe06da7"
+	"logo_small" "ccc13fcaad0ee02b20006827ffd5ada96fe06da7_thumb"
+	"icon" "3cb73a8c8abf7797f229f62e9f503e225d93c2e3"
+	"clienttga" "286b47a16ff22a1815144a72854e2cc8ed1bad17"
+	"clienticon" "ded3c7aa63ab592e94e235e4971c497218303c0b"
+	"clienticns" "92c82b1bdf347c65a1ffe58077189826b0c32dcd"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"czech" "1"
+	}
+	"oslist" "windows,macos"
+	"community_visible_stats" "1"
+	"gameid" "217180"
+	"exfgls" "6"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ValveTestApp217180"
+	"homepage" ""
+	"icon" ""
+	"languages" "english,german,french,italian,spanish,czech,polish,russian"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"validoslist" "windows,macos"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "transcripted_ademo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Transcripted.exe"
+			"description" "Basic Win Launch"
+			"workingdir" "."
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Transcripted.app"
+			"description" "Basic Mac OSX Launch"
+			"workingdir" "."
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"installscriptsignature" "99287b50cd0a26e143f084e0e962eedec5584e86dca02e085fe219c34efa60c9ed8632a22014ae0fb80f68c4252c6d1f7a8a10117337d668ce67f7c98e547445e346125a3733f2e96558b8617ac1f542798830c1bb4a75a36014177d4fc949029ae806b446e8602931ad68112126c56c4d45b1e2b88abaa6fa6d0cca0866bb6d"
+	"installscriptoverride" "1"
+}
+"install"
+{
+	"registry"
+	{
+		"hkey_local_machine\\software\\alkemi\\transcripted"
+		{
+			"string"
+			{
+				"install_path" "%INSTALLDIR%"
+				"exe_path" "%INSTALLDIR%\\Transcripted.exe"
+			}
+		}
+	}
+	"run process"
+	{
+		"visual c++ 2010 sp1 redistributable package (x86)"
+		{
+			"process 1" "%INSTALLDIR%\\vcredist_x86.exe"
+			"command 1" "/q:a"
+			"description" "Visual C++ 2010 SP1 Redistributable Package (x86)"
+			"nocleanup" "1"
+			"ignoreexitcode" "1"
+		}
+		"directx"
+		{
+			"process 1" "%INSTALLDIR%\\DirectX_Redist\\DXSETUP.exe"
+			"description" "DirectX"
+			"command 1" "/silent"
+			"nocleanup" "1"
+			"ignoreexitcode" "1"
+		}
+	}
+}
+"depots"
+{
+	"217181"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4848529239063373529"
+				"size" "884420690"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "F496233D7FCE42F6BF691480B883ED3C"
+				"size" "EEC57489D13C655E81CED6A9CF3B48C4"
+				"download" "1958D3C75368C8A3AE3B9B104F8A9971"
+			}
+			"dev"
+			{
+				"gid" "CC12090FEB300DEB740EB2DDAE0DCBD2"
+				"size" "6325C739ABA0CBD7515FEFD6BE510CA2"
+				"download" "342F115E6E33F75A106CBFF27CDFABC1"
+			}
+		}
+	}
+	"217182"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "38611192178466819"
+				"size" "883343362"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "9B647290B71CF2F6B9D4C2A2A3EEB473"
+				"size" "1CAD3FB5FC9ABA6357607B517EE6F04D"
+				"download" "1958D3C75368C8A3AE3B9B104F8A9971"
+			}
+			"dev"
+			{
+				"gid" "46B4A0EA4741D59F486C8A9B8669D8C1"
+				"size" "948BED40C30F75F150BF828F49F094BC"
+				"download" "342F115E6E33F75A106CBFF27CDFABC1"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,spanish,czech,polish,russian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12612"
+		}
+		"debug"
+		{
+			"buildid" "12612"
+			"pwdrequired" "1"
+		}
+		"dev"
+		{
+			"buildid" "12612"
+			"pwdrequired" "1"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "69678d3ab0ea9680534e722e5e89bec77c219f1b"
+"_size" "4015"
