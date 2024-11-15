@@ -8,7 +8,7 @@
 	"logo_small" "dd3ada61e68c08243e6cf64b120d75f1dface5b1"
 	"name" "Half-Life 2: Deathmatch"
 	"clienticns" "7ed8afafaa686cd5d69151ae5290707313efd44e"
-	"oslist" "macos,windows,linux"
+	"oslist" "windows,macos,linux"
 	"linuxclienticon" "e60aa12d2f74ea482f41e7abb9ac4eed2331de08"
 	"releasestate" "released"
 	"languages"
@@ -40,7 +40,14 @@
 		"greek" "1"
 		"ukrainian" "1"
 	}
+	"osarch" ""
+	"osextended" ""
 	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -110,6 +117,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "36.78640153944838"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1568756407"
 	"associations"
 	{
@@ -136,6 +185,7 @@
 		"category_16" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -167,7 +217,7 @@
 		"15" "21"
 		"16" "1756"
 		"17" "4182"
-		"18" "5348"
+		"18" "4667"
 		"19" "3843"
 	}
 	"review_score" "8"
@@ -240,6 +290,36 @@
 	}
 	"steamvrsupport" "1"
 	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"12000011321"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dummy_kludge,prerelease"
+			"use_action_block" "false"
+		}
+		"12000011320"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dummy_kludge,prerelease"
+			"use_action_block" "false"
+		}
+		"12000011324"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dummy_kludge,prerelease"
+			"use_action_block" "false"
+		}
+		"12000011323"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dummy_kludge,prerelease"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
 }
 "depots"
 {
@@ -250,9 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "1700097421443197544"
-				"size" "2929578360"
-				"download" "1760174752"
+				"gid" "6062259914147187680"
+				"size" "3052953823"
+				"download" "1793879856"
 			}
 			"prerelease"
 			{
@@ -278,7 +358,7 @@
 		{
 			"public"
 			{
-				"gid" "2909718736535203058"
+				"gid" "3819643336630980180"
 				"size" "825728"
 				"download" "43024"
 			}
@@ -310,9 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "7182904708520697775"
-				"size" "129089583"
-				"download" "53862336"
+				"gid" "3885755940714913874"
+				"size" "293184321"
+				"download" "109540656"
 			}
 			"prerelease"
 			{
@@ -342,9 +422,9 @@
 		{
 			"public"
 			{
-				"gid" "1100769364994475803"
-				"size" "75481337"
-				"download" "21786576"
+				"gid" "7975694277620604106"
+				"size" "66765227"
+				"download" "15910848"
 			}
 			"prerelease"
 			{
@@ -374,9 +454,9 @@
 		{
 			"public"
 			{
-				"gid" "8751923425137362848"
-				"size" "85339667"
-				"download" "30458848"
+				"gid" "3846815528006080671"
+				"size" "153310142"
+				"download" "50108736"
 			}
 			"prerelease"
 			{
@@ -405,9 +485,9 @@
 		{
 			"public"
 			{
-				"gid" "5452253894472573318"
-				"size" "47205"
-				"download" "14144"
+				"gid" "7768366331652052321"
+				"size" "48700"
+				"download" "13200"
 			}
 			"prerelease"
 			{
@@ -432,8 +512,8 @@
 	{
 		"public"
 		{
-			"buildid" "6935373"
-			"timeupdated" "1625257865"
+			"buildid" "16349104"
+			"timeupdated" "1731708316"
 		}
 		"dummy_kludge"
 		{
@@ -448,44 +528,7 @@
 		}
 	}
 }
-"sysreqs"
-{
-	"macos"
-	{
-		"supported" "1"
-		"wants_fast_gpu" "1"
-		"intel900" "warn"
-		"intelx3100" "warn"
-		"8086"
-		{
-			"27a6" "warn"
-			"2a02" "warn"
-		}
-		"10de"
-		{
-			"009d" "deny"
-			"0391" "deny"
-			"0393" "deny"
-			"0395" "deny"
-		}
-	}
-	"macos104"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos105"
-	{
-		"supported" "0"
-		"os_min" "macos1058"
-	}
-	"macos106"
-	{
-		"supported" "0"
-		"os_min" "macos1063"
-	}
-}
 "_missing_token" "False"
-"_change_number" "20463396"
-"_sha" "ff729e00551dac8fd2338ec39840131ab0e37952"
-"_size" "10711"
+"_change_number" "26220942"
+"_sha" "f51b1b3ba0627444e5651a2cb82a58f4ec095943"
+"_size" "11813"
