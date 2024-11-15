@@ -1,0 +1,517 @@
+"appid" "1840800"
+"common"
+{
+	"name" "Headquarters: World War II"
+	"type" "Game"
+	"logo" "32cf96d9d4c6be8eb35274d206c837a1aeebccfa"
+	"logo_small" "32cf96d9d4c6be8eb35274d206c837a1aeebccfa_thumb"
+	"icon" "48c383683117ac3673038da569eae4462bfe9d5b"
+	"clienttga" "e8764bfa24b2d388e7ef079dc1ca5cadd4b4f891"
+	"clienticon" "f251a70161328def549a3f3524fb1d07603305ac"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1840800_eula_0"
+			"name" "Headquarters: World War II EULA"
+			"url" "https://store.steampowered.com//eula/1840800_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"ukrainian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1713571200"
+		"tested_build_id" "14021374"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "69.96285894723567"
+			"height_pct" "76.49006622516555"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "69.96285894723567"
+				"height_pct" "76.49006622516555"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730980398"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Starni Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Headquarters World War II"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712844000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1840800"
+	"store_tags"
+	{
+		"0" "1775"
+		"1" "14139"
+		"2" "21725"
+		"3" "4684"
+		"4" "1741"
+		"5" "1678"
+		"6" "17305"
+		"7" "1770"
+		"8" "17389"
+		"9" "9"
+		"10" "13276"
+		"11" "4191"
+		"12" "3859"
+		"13" "3987"
+		"14" "4325"
+		"15" "599"
+		"16" "4150"
+		"17" "4168"
+		"18" "11104"
+		"19" "7423"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Starni Games"
+	"publisher" "Slitherine Ltd."
+	"homepage" "https://www.slitherine.com/game/headquarters-world-war-ii"
+	"gamemanualurl" "https://store.steampowered.com/manual/1840800/"
+	"listofdlc" "3047640,3295310"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Headquarters - World War II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launcher"
+			}
+			"description" "Launcher"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1840801"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5912839550767060381"
+				"size" "28339738601"
+				"download" "13501061392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamdeck"
+			{
+				"gid" "AE5061E2EE90DC31043EEF1491482FBF"
+				"size" "1902A6A776B945ED038AB608772A5ABC"
+				"download" "C6AF629812A8EB25040DF73BED9E7E9F"
+			}
+			"devint"
+			{
+				"gid" "70A4BC896142FEF48FCB67210B4A9F85"
+				"size" "A66D75F343E9B04FE1233948236433BB"
+				"download" "0AF6C20544D16BCEFE616A1BEE6B4073"
+			}
+			"devtest"
+			{
+				"gid" "BC64CD96059B7E397C4C8B9B9CD4005E"
+				"size" "F994BEF2027E988B95DD830A53243B7F"
+				"download" "387C58FE1A8394C4BDC46418D36A44E2"
+			}
+			"marketing"
+			{
+				"gid" "190E332135A5B2201AA94B33475BD397"
+				"size" "77688BBA2C0E140D01B8B53ECB4D961F"
+				"download" "6D562B8C0D4AF88A81BD90FF4B487511"
+			}
+			"presspreview"
+			{
+				"gid" "656A3BE3802857EF749E82989F29E508"
+				"size" "D376C025F5A026C300FD1A52A5A4FD2C"
+				"download" "52E39E0B824C83165A34346427871EE5"
+			}
+		}
+	}
+	"1840802"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2685180216830564835"
+				"size" "42166830"
+				"download" "35061424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamdeck"
+			{
+				"gid" "6C4335545ABBB2EB89F8A6F696AAC7C2"
+				"size" "FE04D7BFAB454D422BEC3F082944ABBF"
+				"download" "7C9A33FD685A46D6E5988116A1D056B3"
+			}
+			"devint"
+			{
+				"gid" "B33493E83B6532BED1E181544F856AB9"
+				"size" "2EE8C319895B82C1D90D4AABD9EEE927"
+				"download" "EBF5431880AEB9DE63F0459204515432"
+			}
+			"devtest"
+			{
+				"gid" "C254224AB02605744F76E394C6432EF4"
+				"size" "CD9D3BE00DD90DC513A792DD1E004E01"
+				"download" "A8F9A2788ED0DA18B2DE53AA7FA17F29"
+			}
+			"marketing"
+			{
+				"gid" "278A985689E5CC8AE78348952A1264FF"
+				"size" "7653DAE826EC8F4E426D84C8EC18AF51"
+				"download" "2D5E80CB81954A2CDD3BC1ED01F5C429"
+			}
+			"presspreview"
+			{
+				"gid" "59775235B7E9CE073DF79208BC43BE98"
+				"size" "159626EAA11A11FADD070E11EAA88543"
+				"download" "42CF119CAF35EC521F6CFDD5F2A43E34"
+			}
+		}
+	}
+	"3047640"
+	{
+		"dlcappid" "3047640"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1884716969509465332"
+				"size" "2793068094"
+				"download" "1514983200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "2C730C6B5078EAD832C700F3F88E2B31"
+				"size" "60EF1291E6382544F82C9124EB36EFEB"
+				"download" "199192942E3DFD7C0C9E7110398A0F9D"
+			}
+			"marketing"
+			{
+				"gid" "790FCB2041AE215671B4138713670346"
+				"size" "734E99E28A26B4C7B83D117CC9486542"
+				"download" "734E99E28A26B4C7B83D117CC9486542"
+			}
+			"presspreview"
+			{
+				"gid" "6D90D21B4E79E4B9D17FAC92F3377153"
+				"size" "799363F8C941F3D9AF2944BEDCB6343E"
+				"download" "012073CCA85A16C67A70DD65EA6F84B2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15847939"
+			"timeupdated" "1727433105"
+		}
+		"steamdeck"
+		{
+			"buildid" "13846534"
+			"pwdrequired" "1"
+			"timeupdated" "1711457953"
+		}
+		"devint"
+		{
+			"buildid" "14870976"
+			"pwdrequired" "1"
+			"timeupdated" "1719591047"
+		}
+		"devtest"
+		{
+			"buildid" "15847939"
+			"pwdrequired" "1"
+			"timeupdated" "1727427080"
+		}
+		"marketing"
+		{
+			"buildid" "15600975"
+			"pwdrequired" "1"
+			"timeupdated" "1725527278"
+		}
+		"presspreview"
+		{
+			"buildid" "15543789"
+			"pwdrequired" "1"
+			"timeupdated" "1725967935"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "StarniGames/HQWWII/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26151295"
+"_sha" "37b32976922af479120ee074edfa68c485044001"
+"_size" "9744"
