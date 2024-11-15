@@ -39,6 +39,55 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1730764800"
+		"tested_build_id" "16247918"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "Gori: Cuddly Carnage"
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -139,7 +188,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725612228"
+	"store_asset_mtime" "1730370429"
 	"associations"
 	{
 		"0"
@@ -333,19 +382,13 @@
 		{
 			"public"
 			{
-				"gid" "3428953815576200938"
-				"size" "9639339383"
-				"download" "9069601952"
+				"gid" "3038959275478678369"
+				"size" "9639336327"
+				"download" "9069500528"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"chroma"
-			{
-				"gid" "EFD445C1A88138CE6BC0EE5518B53059"
-				"size" "108A28268F6264F7C6632C8B7B409F9D"
-				"download" "C7E2E11AC7CC53D720D7567CCC6E7359"
-			}
 			"debug"
 			{
 				"gid" "C2311A9438802F7E724B1A079E3DB46D"
@@ -354,9 +397,9 @@
 			}
 			"devbranch"
 			{
-				"gid" "5AA76B25BB567DBE19133B836C66F7DF"
-				"size" "6FB62A532E538045EABDCE8B8A068263"
-				"download" "B5AD031DDFEC91D926A12B99CB74A5B1"
+				"gid" "83A3E79FC2F6BF97A4F1F59F475E79B8"
+				"size" "95DE8DAEA83DA96B2A20F10037B406BF"
+				"download" "740D6AF24039C96BBA40DA4EE694B239"
 			}
 			"experimental"
 			{
@@ -377,14 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "16148693"
-			"timeupdated" "1729756868"
-		}
-		"chroma"
-		{
-			"buildid" "16164974"
-			"pwdrequired" "1"
-			"timeupdated" "1729771898"
+			"buildid" "16362601"
+			"timeupdated" "1731344470"
 		}
 		"debug"
 		{
@@ -394,9 +431,9 @@
 		}
 		"devbranch"
 		{
-			"buildid" "16164974"
+			"buildid" "16416503"
 			"pwdrequired" "1"
-			"timeupdated" "1729771011"
+			"timeupdated" "1731655334"
 		}
 		"experimental"
 		{
@@ -427,6 +464,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25876939"
-"_sha" "8ceada597e96990cd3e4150e41ebd4274405166e"
-"_size" "8478"
+"_change_number" "26207179"
+"_sha" "cf72fc58dcfd65ade05835e38cde8f90a39dc65a"
+"_size" "9431"
