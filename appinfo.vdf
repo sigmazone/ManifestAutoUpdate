@@ -34,6 +34,7 @@
 	}
 	"restricted_countries" "CN,DE"
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -203,13 +204,13 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
 		"category_22" "1"
 		"category_15" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -263,7 +264,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1725030157"
+	"steam_release_date" "1731605462"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2892310"
@@ -288,10 +289,10 @@
 		"16" "4667"
 		"17" "3942"
 		"18" "19"
-		"19" "493"
+		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -310,8 +311,15 @@
 			{
 				"oslist" "windows"
 			}
+			"description_loc"
+			{
+				"english" "Play GIRLDIVERS (Keyboard & Mouse)"
+			}
+			"description" "Play GIRLDIVERS (Keyboard & Mouse)"
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -321,18 +329,18 @@
 		{
 			"public"
 			{
-				"gid" "2185012889880440834"
-				"size" "5327581105"
-				"download" "600167136"
+				"gid" "2455682250156841603"
+				"size" "6002088273"
+				"download" "607639184"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"developer"
+			"beta"
 			{
-				"gid" "C128B70148C183E51852CB5E73183464"
-				"size" "7A39D47AE6DA1C3B0BBA8D88F8622611"
-				"download" "5F58037A7599D09AEEAA20CD79840050"
+				"gid" "4DED071B6D32FD5286E31EE3F523A790"
+				"size" "86C377C9BD8079A6CDEA54086F53D6DA"
+				"download" "7D1A83BC4FB61DCB30C5CECD55CD77C5"
 			}
 		}
 	}
@@ -340,14 +348,18 @@
 	{
 		"public"
 		{
-			"buildid" "16000969"
-			"timeupdated" "1728603570"
+			"buildid" "16396936"
+			"timeupdated" "1731605349"
 		}
-		"developer"
+		"beta"
 		{
-			"buildid" "15986042"
+			"buildid" "16396936"
 			"pwdrequired" "1"
-			"timeupdated" "1728509017"
+			"timeupdated" "1731527785"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26217464"
+"_sha" "8ef2c23553b21d6cb45d31e1f57bb2eb5128677d"
+"_size" "7949"
