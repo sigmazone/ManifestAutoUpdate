@@ -10,6 +10,7 @@
 	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"openxrsupport" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -155,6 +156,7 @@
 		"category_58" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -844,6 +846,28 @@
 				"oslist" "linux"
 			}
 		}
+		"4"
+		{
+			"executable" "POOLS.exe"
+			"arguments" "VR_enabled"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "internal"
+			}
+		}
+		"5"
+		{
+			"executable" "POOLS.exe"
+			"arguments" "VR_enabled"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "vr-beta-public"
+			}
+		}
 	}
 }
 "depots"
@@ -859,24 +883,30 @@
 		{
 			"public"
 			{
-				"gid" "3612147640412000492"
-				"size" "4058428005"
-				"download" "1888307712"
+				"gid" "393774907841433594"
+				"size" "4146889452"
+				"download" "1887247312"
+			}
+			"14.6.24"
+			{
+				"gid" "3410095994343535477"
+				"size" "2016619545"
+				"download" "907984000"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "780B5D3622D62910BC77E68A8FBDA833"
-				"size" "12DA0799FA8E0DFE329B676FEF4D4556"
-				"download" "5C4DB795DCB5B886D9AF5AA004B11271"
+				"gid" "DA072AB4FBB704507FB90E6BB4307152"
+				"size" "72189893195622501FCAE70B8D3EF942"
+				"download" "BDDE485DE49ECF1C1A58B8146BA43AE2"
 			}
 			"vr-beta-public"
 			{
-				"gid" "F60A9C03ADA77EFD8F2DCAC5AAB7C5C3"
-				"size" "341BCD7E6D2763FAA782712B7A947792"
-				"download" "96C08A09EB86BF4FC06DB3B3FBF99E19"
+				"gid" "2C8003DE82714342A76C368B0CA3681E"
+				"size" "FDD0D2785B34DEAD6DB8FDBBEAA78DA0"
+				"download" "93A494445D2ECD503B7D045D4B25C16C"
 			}
 		}
 	}
@@ -890,18 +920,24 @@
 		{
 			"public"
 			{
-				"gid" "4312092240051217460"
-				"size" "4038656582"
-				"download" "1846456544"
+				"gid" "4013972799309788375"
+				"size" "4199859107"
+				"download" "1898566544"
+			}
+			"14.6.24"
+			{
+				"gid" "6552084072648259899"
+				"size" "2015850379"
+				"download" "896730240"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "BF0D6DF0BBF4359143E441247ACC814E"
-				"size" "8A7179DD9195BF50B2B828E2422B0295"
-				"download" "A7BB30FCA339B8C9D88250DD3A9528C6"
+				"gid" "D4B83D0085F4343F49C38172DF9DA8AB"
+				"size" "ABF2A108F97D7909ACC4D7BF18A7AC02"
+				"download" "4D121A45F3C9595AF384F22C99F1EA30"
 			}
 			"vr-beta-public"
 			{
@@ -921,24 +957,30 @@
 		{
 			"public"
 			{
-				"gid" "772095125203406013"
-				"size" "4166541093"
-				"download" "1864040704"
+				"gid" "4450683051954261861"
+				"size" "4301776268"
+				"download" "1899262320"
+			}
+			"14.6.24"
+			{
+				"gid" "3590174018601143663"
+				"size" "2167247950"
+				"download" "914348336"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "AF18FBC4BAA2A1568087BC9C81E3DCB4"
-				"size" "9100AF599DB29FA15454FDBEB916256B"
-				"download" "7B44EB328915D8658849C0FB14792848"
+				"gid" "DB51DF0FDB5B21F2C5A824D6D990EEA6"
+				"size" "D1F8439743D2AEF71D03E6BE3F2A4E81"
+				"download" "9512227C23819C3096C85740BD824D62"
 			}
 			"vr-beta-public"
 			{
-				"gid" "E38690B74E3F1E4C8FFBB8B29F50F7EF"
-				"size" "A1B58B34AEF994E2C882EDFDBDA818F2"
-				"download" "D07A2642F19885303E8892313C7D2C27"
+				"gid" "8BADF7117D3CBE275F426FB333C67807"
+				"size" "BE0B692D039830181267AB8FCBA67AFF"
+				"download" "2CAD94632F27C1A4E247BC83B12E4EC9"
 			}
 		}
 	}
@@ -946,20 +988,26 @@
 	{
 		"public"
 		{
-			"buildid" "16177521"
-			"timeupdated" "1729845121"
+			"buildid" "16408244"
+			"timeupdated" "1731659371"
+		}
+		"14.6.24"
+		{
+			"buildid" "14736392"
+			"description" "Older build 14.6.24"
+			"timeupdated" "1730609952"
 		}
 		"internal"
 		{
-			"buildid" "16177521"
+			"buildid" "16408244"
 			"pwdrequired" "1"
-			"timeupdated" "1729844951"
+			"timeupdated" "1731599337"
 		}
 		"vr-beta-public"
 		{
-			"buildid" "16179206"
+			"buildid" "16264961"
 			"pwdrequired" "1"
-			"timeupdated" "1729852919"
+			"timeupdated" "1730470087"
 		}
 	}
 }
@@ -1004,6 +1052,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25894478"
-"_sha" "6818a2461925d65d16b9a02ad746ff7b9faf84e5"
-"_size" "16863"
+"_change_number" "26219305"
+"_sha" "946078aed342932695e5ec66dadebd492c592098"
+"_size" "17731"
