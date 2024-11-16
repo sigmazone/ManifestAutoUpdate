@@ -323,6 +323,7 @@
 	}
 	"steamdecktouchscreen" "1"
 	"steamconfigurator3rdpartynative" "65535"
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -347,15 +348,15 @@
 		{
 			"public"
 			{
-				"gid" "4562919961335462215"
-				"size" "1864728979"
-				"download" "539177968"
+				"gid" "4521168647271870286"
+				"size" "1864567459"
+				"download" "539133552"
 			}
 			"publictest"
 			{
-				"gid" "3570415968063154177"
-				"size" "1864746051"
-				"download" "539180960"
+				"gid" "4521168647271870286"
+				"size" "1864567459"
+				"download" "539133552"
 			}
 		}
 		"encryptedmanifests"
@@ -408,11 +409,17 @@
 				"size" "7945F80B784BFB6FBF0D87DA861EE884"
 				"download" "C3CA8FCEDE3711E1265053D5FB9733A6"
 			}
+			"apple_silicon_testing"
+			{
+				"gid" "DBB492058F88E42CDEFFA4656C60124D"
+				"size" "4C9C4DA599A60925B9527CBC534962B4"
+				"download" "49C556B3C3683B591EA71CD195925896"
+			}
 			"devtest"
 			{
-				"gid" "ADA250CF2B632767364FB2FC6D3AAB98"
-				"size" "64DCF2D0A2BCFF4A1BD699BAF4CC4696"
-				"download" "0B2BC8D9B75465A843C91311E28D9E4A"
+				"gid" "BB8D2AA630B73138446A33C7ABF5A710"
+				"size" "65BDAB87E99F23A87ED21A34A9AA4011"
+				"download" "C8E2958A0506B8D1925AD547A8A759A0"
 			}
 			"loc_testing"
 			{
@@ -440,15 +447,15 @@
 		{
 			"public"
 			{
-				"gid" "73098686911463316"
-				"size" "1878588544"
-				"download" "542237952"
+				"gid" "1798808721578283613"
+				"size" "1878427024"
+				"download" "542201120"
 			}
 			"publictest"
 			{
-				"gid" "8227568503155995284"
-				"size" "1878605616"
-				"download" "542247424"
+				"gid" "1798808721578283613"
+				"size" "1878427024"
+				"download" "542201120"
 			}
 		}
 		"encryptedmanifests"
@@ -501,11 +508,17 @@
 				"size" "585B9F8972C29970FD4CE2C1532FB6B3"
 				"download" "1FFC9F61B54940DF785CBAB5EF2C80EE"
 			}
+			"apple_silicon_testing"
+			{
+				"gid" "BD79AD2869483E61D126065DFE84A635"
+				"size" "23B73D816F45FA656B150BAE66DA01A2"
+				"download" "BB4DA41D62200A459545B1FC9CB09E13"
+			}
 			"devtest"
 			{
-				"gid" "7B88E5A1E92A0D405235415963DB16C0"
-				"size" "75659139F7D4CAED2D39C8E390B841F0"
-				"download" "AB509E810536A1ED0CA14DD30540BF33"
+				"gid" "30B345B9FA23903E519CB81BF5410E0E"
+				"size" "AFC32101F046066670862AB7E7A15794"
+				"download" "564D0AC8B1548F016E61C248F1610CF5"
 			}
 			"loc_testing"
 			{
@@ -526,8 +539,8 @@
 	{
 		"public"
 		{
-			"buildid" "16242174"
-			"timeupdated" "1730319652"
+			"buildid" "16425028"
+			"timeupdated" "1731705718"
 		}
 		"ancient1"
 		{
@@ -577,11 +590,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1694149325"
 		}
+		"apple_silicon_testing"
+		{
+			"buildid" "11730154"
+			"pwdrequired" "1"
+			"timeupdated" "1730765840"
+		}
 		"devtest"
 		{
-			"buildid" "16261504"
+			"buildid" "16425028"
 			"pwdrequired" "1"
-			"timeupdated" "1730443196"
+			"timeupdated" "1731700969"
 		}
 		"loc_testing"
 		{
@@ -591,9 +610,9 @@
 		}
 		"publictest"
 		{
-			"buildid" "16256480"
+			"buildid" "16425028"
 			"description" "Public Test Branch"
-			"timeupdated" "1730406962"
+			"timeupdated" "1731705731"
 		}
 		"test_steaminput"
 		{
@@ -604,6 +623,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26002143"
-"_sha" "ade0887614e377c54a62e0153eadef37649d8c25"
-"_size" "12347"
+"_change_number" "26219658"
+"_sha" "145759fb065f8f5cdda869e30c33b34b34b96a28"
+"_size" "12871"
