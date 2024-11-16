@@ -1,0 +1,397 @@
+"appid" "2389040"
+"common"
+{
+	"name" "ShapeHero Factory"
+	"type" "Game"
+	"icon" "d27d0614a6379348cd3801a0513116437cc9f1d1"
+	"clienticon" "650da9a259333937f4c9166785455a67f6e5af9c"
+	"clienttga" "3f372a9cac21f7403a6c38cdb5413154c2ec9056"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "ShapeHero Factory / シェイプヒーローファクトリー"
+		"schinese" "ShapeHero Factory 涂鸦英雄工厂"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "0c08f1984bdd37bc8c09079d68736071cdad1dcc/capsule_231x87_schinese.jpg"
+		"tchinese" "3c3aa59eab6ece354d5f4e20473d54deab651bb7/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_hero_blur" "zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "91.61816065192085"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "b006de29d18f26af287d7a2d2a0bfc10d0a2d390/library_600x900_schinese.jpg"
+				"tchinese" "fe1ab40a363f78c34e5921352222f77e3c482cbd/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "b006de29d18f26af287d7a2d2a0bfc10d0a2d390/library_600x900_schinese_2x.jpg"
+				"tchinese" "fe1ab40a363f78c34e5921352222f77e3c482cbd/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "4da219da76b80e88359db7bec4260c38d75ee1fd/library_hero_schinese.jpg"
+				"tchinese" "4da219da76b80e88359db7bec4260c38d75ee1fd/library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "4da219da76b80e88359db7bec4260c38d75ee1fd/library_hero_schinese_2x.jpg"
+				"tchinese" "4da219da76b80e88359db7bec4260c38d75ee1fd/library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "4da219da76b80e88359db7bec4260c38d75ee1fd/library_hero_blur_schinese.jpg"
+				"tchinese" "4da219da76b80e88359db7bec4260c38d75ee1fd/library_hero_blur_tchinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "9e45e2c20cba4407970d9bb4709f7790c3a4aa86/logo_schinese.png"
+				"tchinese" "c1453b5214661073a330949501589dd43621fd72/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "9e45e2c20cba4407970d9bb4709f7790c3a4aa86/logo_schinese_2x.png"
+				"tchinese" "c1453b5214661073a330949501589dd43621fd72/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "91.61816065192085"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "10a1cbd1c291502ba513848ae94cd6ba75ef9363/library_header_schinese.jpg"
+				"tchinese" "bfb62ade59109184c7fbfe1dd3292af7e7115da8/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "10a1cbd1c291502ba513848ae94cd6ba75ef9363/library_header_schinese_2x.jpg"
+				"tchinese" "bfb62ade59109184c7fbfe1dd3292af7e7115da8/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730963265"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Asobism.Co.,Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Asobism.Co.,Ltd"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730854815"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2389040"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "1645"
+		"2" "255534"
+		"3" "3959"
+		"4" "8945"
+		"5" "4975"
+		"6" "4726"
+		"7" "1643"
+		"8" "1684"
+		"9" "599"
+		"10" "4885"
+		"11" "9"
+		"12" "1084988"
+		"13" "1716"
+		"14" "1664"
+		"15" "1702"
+		"16" "4166"
+		"17" "4791"
+		"18" "6276"
+		"19" "32322"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Asobism.Co.,Ltd"
+	"publisher" "Asobism.Co.,Ltd"
+}
+"config"
+{
+	"installdir" "ShapeHero Factory"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShapeHeroFactory.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian"
+	"2389041"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1717353049194673876"
+				"size" "733640665"
+				"download" "341406096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "775319A04ED130EF6BD9A4D1453BB124"
+				"size" "86FD05AD0F8F4E3E78A22D6056B54D3F"
+				"download" "061E9402FEAE0A7D80BE6B3E1FBC4A70"
+			}
+			"early-dev"
+			{
+				"gid" "95A10E0163F84DF306E660A6AAAD51DB"
+				"size" "F1E2D9B4C5DBDCB6F53900469D3ACE41"
+				"download" "584C28AD3F1B1D2769879FC326D2FA8B"
+			}
+			"show_ver"
+			{
+				"gid" "616E0C91EE81E966D592CA32CA71C16D"
+				"size" "1FC6A6AE6EE8DEFC187985A78663DEE9"
+				"download" "2E5C79FBE49F7B4CE92116B9A2877E9C"
+			}
+			"staging"
+			{
+				"gid" "C675C87636D21866AFC40B0BD8C3908F"
+				"size" "D10E3CF0A4B7FFE21CA00AADCCE2FC41"
+				"download" "B0CF2C14CBEAC4E31D6864665ABC4AC4"
+			}
+			"tgs_event"
+			{
+				"gid" "6DA7766A5EBEEAC0B41B8C0E7C62BD1A"
+				"size" "676851235C166ACEF640795BD62D4ABC"
+				"download" "DB8F5CEAA57F3C2DC83EBEA3494C0468"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16417345"
+			"timeupdated" "1731664941"
+		}
+		"debug"
+		{
+			"buildid" "16417389"
+			"pwdrequired" "1"
+			"timeupdated" "1731660781"
+		}
+		"early-dev"
+		{
+			"buildid" "16261536"
+			"pwdrequired" "1"
+			"timeupdated" "1730454177"
+		}
+		"show_ver"
+		{
+			"buildid" "16362954"
+			"pwdrequired" "1"
+			"timeupdated" "1731314149"
+		}
+		"staging"
+		{
+			"buildid" "16417345"
+			"pwdrequired" "1"
+			"timeupdated" "1731660610"
+		}
+		"tgs_event"
+		{
+			"buildid" "15805640"
+			"pwdrequired" "1"
+			"timeupdated" "1727166505"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2097152"
+	"maxnumfiles" "256"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Asobism/ShapeHero Factory/playerPrefs{64BitSteamID}/"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Asobism/ShapeHero Factory/playerPrefs{64BitSteamID}/"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26209407"
+"_sha" "07014558375b5882a72c80e93dc78bc90dc6b9be"
+"_size" "8193"
