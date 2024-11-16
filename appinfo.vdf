@@ -25,6 +25,16 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2083210_eula_0"
+			"name" "Super Woden GP 2 EULA"
+			"url" "https://store.steampowered.com//eula/2083210_eula_0"
+			"version" "3"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -93,6 +103,47 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "48.24970828471412"
 			"height_pct" "98.10021372595583"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.24970828471412"
+				"height_pct" "98.10021372595583"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1708034115"
@@ -257,7 +308,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -302,18 +353,18 @@
 		{
 			"public"
 			{
-				"gid" "444311605646242443"
-				"size" "2416949403"
-				"download" "451211456"
+				"gid" "2975137389445182873"
+				"size" "2429309944"
+				"download" "453180640"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"labeta"
 			{
-				"gid" "888F6AF185897E92072F14C89A1C4443"
-				"size" "B501AC76B84C231808D0B3A5747B5968"
-				"download" "A519C88B2F79A89DC1CE025FC51895A7"
+				"gid" "07AD1ABB06486A26CFA8179E7EFD53C8"
+				"size" "2568003C7A20B52D0DBFCE1DEFD02FB0"
+				"download" "DF8E26B8997429E0FED9E9EC20B39CD5"
 			}
 		}
 	}
@@ -327,18 +378,18 @@
 		{
 			"public"
 			{
-				"gid" "6549946053779638824"
-				"size" "2428092012"
-				"download" "454709968"
+				"gid" "1299165507262096610"
+				"size" "2439292004"
+				"download" "456294000"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"labeta"
 			{
-				"gid" "B64BFEE3B01BFEB810390669B7F94257"
-				"size" "9BA0A38325B135CAC99545DBA709E7A9"
-				"download" "EA1F9130D66B1E9EA022C3ABDB857D2A"
+				"gid" "D83A29F36DCBCC5961FBA33018E2D450"
+				"size" "39059A3831AE708853581E6D9D016914"
+				"download" "C172E7337193D0B52B783D06ECD2DE7C"
 			}
 		}
 	}
@@ -346,14 +397,14 @@
 	{
 		"public"
 		{
-			"buildid" "15300698"
-			"timeupdated" "1723103113"
+			"buildid" "16284308"
+			"timeupdated" "1730709526"
 		}
 		"labeta"
 		{
-			"buildid" "15300698"
+			"buildid" "16284308"
 			"pwdrequired" "1"
-			"timeupdated" "1723102240"
+			"timeupdated" "1730703726"
 		}
 	}
 }
@@ -405,55 +456,7 @@
 	}
 	"sync_while_suspended" "1"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#map" "Main map"
-				"#racemenu" "Race menu"
-				"#invitation" "Invitation menu"
-				"#racinginvitation" "Racing in an Invitation event"
-				"#racingrally" "Racing: Rally"
-				"#racingweekend" "Racing: Weekend"
-				"#racingleague" "Racing: Championship"
-				"#racingtimetrial" "Racing: Timetrial"
-				"#racingdrift" "Racing: Drift"
-				"#racingarcadestage" "Racing: Arcade"
-				"#carshop" "Car dealer"
-				"#garage" "Exploring the garage"
-				"#workshop" "Workshop"
-				"#timetrial" "Timetrial menu"
-				"#stats" "Consulting the statistics"
-				"#arcade" "Menu: Arcade"
-				"#racinglocalmulti" "Racing: Local multiplayer"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#map" "En el mapa"
-				"#racemenu" "Menú de carreras"
-				"#invitation" "Menú de Invitacion"
-				"#racinginvitation" "Compitiendo en un evento de invitación"
-				"#racingrally" "Corriendo un rally"
-				"#racingweekend" "Participando en un fin de semana"
-				"#racingleague" "Participando en un campeonato"
-				"#racingtimetrial" "Compitiendo en Time Trial"
-				"#racingdrift" "Haciendo drift"
-				"#racingarcadestage" "Compitiendo en modo Arcade"
-				"#carshop" "Concesionario"
-				"#garage" "Explorando el garaje"
-				"#workshop" "En el taller"
-				"#timetrial" "Menú de Timetrial"
-				"#stats" "Consultando sus estadísiticas"
-				"#arcade" "Menu: Arcade"
-				"#racinglocalmulti" "Compitiendo en multijugador local"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26033765"
+"_sha" "123863253fe5b9c6ff912b46b09b0e2d84457ebc"
+"_size" "7741"
