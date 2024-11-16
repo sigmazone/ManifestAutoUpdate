@@ -220,7 +220,7 @@
 		"19" "13276"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -267,36 +267,88 @@
 		{
 			"public"
 			{
-				"gid" "640411186062866400"
-				"size" "3102869220"
-				"download" "2910627744"
+				"gid" "2795094036479063161"
+				"size" "3832364274"
+				"download" "3645622848"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"cooptest"
+			{
+				"gid" "7E8274FC54B3CB76230E21A3D608B03B"
+				"size" "0887AA46D8BB360E403452397072CC6F"
+				"download" "4CF1DC2A3AA957C6FA8CFF76180AF6E7"
+			}
 			"majorupdate1test"
 			{
 				"gid" "D02F14189B0A967EE815A2298E2811D0"
 				"size" "F8A146FF55DF58C1756CC49BC15BC60B"
 				"download" "9325A31EEBA6C5CEA1047E7A35595167"
 			}
+			"pearlharbor"
+			{
+				"gid" "AD5015DDA41A9A2385A446E85EDE0014"
+				"size" "CF4DBB2B16B627C569BDCED3505701C9"
+				"download" "E5E15B02F10CDA84F1DCB364198B9067"
+			}
 		}
 	}
 	"2390482"
 	{
 	}
+	"2962360"
+	{
+		"dlcappid" "2962360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1279919502734037509"
+				"size" "1246959172"
+				"download" "1244671232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cooptest"
+			{
+				"gid" "046F42908CFDD17378DA521B2E8B84AF"
+				"size" "7E1885D4382A6CFCDFD1CE42F9E5A5F4"
+				"download" "9A3CCF4D9CC0C8A70C569CC9AD68B8EE"
+			}
+			"pearlharbor"
+			{
+				"gid" "4B91D8CC9DD3E74538E41EB8657BE05C"
+				"size" "3BEFD85691EF676FAC3C6D797B057119"
+				"download" "13E52874955519C0F255F490C965B497"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15420488"
-			"timeupdated" "1724141975"
+			"buildid" "16421178"
+			"timeupdated" "1731679180"
+		}
+		"cooptest"
+		{
+			"buildid" "16420653"
+			"pwdrequired" "1"
+			"timeupdated" "1731676399"
 		}
 		"majorupdate1test"
 		{
 			"buildid" "14391242"
 			"pwdrequired" "1"
 			"timeupdated" "1715872448"
+		}
+		"pearlharbor"
+		{
+			"buildid" "16396004"
+			"pwdrequired" "1"
+			"timeupdated" "1731521815"
 		}
 	}
 }
@@ -315,3 +367,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26213097"
+"_sha" "944e6f0e845f32c52b7f94b89b3ef7ffd5fdf497"
+"_size" "6009"
