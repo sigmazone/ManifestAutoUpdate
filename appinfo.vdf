@@ -248,7 +248,7 @@
 		"17" "1720"
 	}
 	"review_score" "5"
-	"review_percentage" "69"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -298,15 +298,15 @@
 		{
 			"public"
 			{
-				"gid" "2532798683716523302"
-				"size" "1421155770"
-				"download" "333237152"
+				"gid" "7199126413449182880"
+				"size" "1422179826"
+				"download" "333266496"
 			}
 			"preview"
 			{
-				"gid" "2532798683716523302"
-				"size" "1421155770"
-				"download" "333237152"
+				"gid" "7199126413449182880"
+				"size" "1422179826"
+				"download" "333266496"
 			}
 		}
 		"encryptedmanifests"
@@ -349,9 +349,9 @@
 			}
 			"internaltest"
 			{
-				"gid" "0CAE1936E1AAD5E167DB13BEDCD3A658"
-				"size" "88188B2AAAEEDF83B74830618D02F737"
-				"download" "4C80093A9CF79ED36C6EB1AFFC0481DF"
+				"gid" "4ACC85BF0227A1883BBE4F10CC7B56C1"
+				"size" "120DCB24A0DA25D13DA0A1578826DEFD"
+				"download" "383D5923DA8B83C883778758D812507E"
 			}
 			"ttowntwo"
 			{
@@ -439,8 +439,8 @@
 	{
 		"public"
 		{
-			"buildid" "16288962"
-			"timeupdated" "1730737252"
+			"buildid" "16409608"
+			"timeupdated" "1731607372"
 		}
 		"creatorsamongus"
 		{
@@ -480,15 +480,15 @@
 		}
 		"internaltest"
 		{
-			"buildid" "15728669"
+			"buildid" "16409608"
 			"pwdrequired" "1"
-			"timeupdated" "1726575033"
+			"timeupdated" "1731607056"
 		}
 		"preview"
 		{
-			"buildid" "16288962"
+			"buildid" "16409608"
 			"description" "Public testing version"
-			"timeupdated" "1730737272"
+			"timeupdated" "1731607347"
 		}
 		"ttowntwo"
 		{
@@ -500,10 +500,8 @@
 }
 "ufs"
 {
-	"quota" "100000000000"
+	"quota" "5000000000"
 	"maxnumfiles" "10000"
-	"ignoreexternalfiles" "1"
-	"hidecloudui" "1"
 	"savefiles"
 	{
 		"0"
@@ -520,9 +518,16 @@
 			"pattern" "*.meta"
 			"recursive" "1"
 		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Headup/Tinkertown/map"
+			"pattern" "*"
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26040141"
-"_sha" "bd1f80b6dc742d58c6b19a6d796f72d27b23ed2d"
-"_size" "10157"
+"_change_number" "26205566"
+"_sha" "a305b2ba9101bedb79f826d5f407930c97a4ae30"
+"_size" "10231"
