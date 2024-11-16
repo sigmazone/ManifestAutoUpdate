@@ -1,0 +1,796 @@
+"appid" "2213190"
+"common"
+{
+	"name" "DEATH NOTE Killer Within"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2213190_eula_1"
+			"name" "DEATH NOTE Killer Within EULA"
+			"url" "https://store.steampowered.com//eula/2213190_eula_1"
+			"version" "1"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "b662be3c3932ce47771821cc1c04a5566359d2f8"
+	"clienttga" "5b5c35cfe83689be2caf8c76c085b68f2c8172c7"
+	"icon" "769fc8d1b263069f3b43664fa234b3eabc8746ae"
+	"name_localized"
+	{
+		"latam" "DEATH NOTE Asesino Interior"
+		"tchinese" "DEATH NOTE 暗影任務"
+		"schinese" "DEATH NOTE 暗影任务"
+		"koreana" "DEATH NOTE 킬러 위딘"
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729900800"
+		"tested_build_id" "15174777"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "901bf3da0db62321a5235834363d15dd00fc7b30/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.162542001141418"
+			"height_pct" "96.87470482352833"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "a575ced34caff11c33d2e107c98491bc994c08c3/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "a575ced34caff11c33d2e107c98491bc994c08c3/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "d63e5dc0383f79db57f302cfcce33d564436ae20/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "d63e5dc0383f79db57f302cfcce33d564436ae20/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d63e5dc0383f79db57f302cfcce33d564436ae20/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.162542001141418"
+				"height_pct" "96.87470482352833"
+			}
+			"image"
+			{
+				"english" "2a981adf4edfcb78b1b22a6fa97ae5d1fcb8ee94/logo.png"
+			}
+			"image2x"
+			{
+				"english" "2a981adf4edfcb78b1b22a6fa97ae5d1fcb8ee94/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1cd7f67db664c94d237b64ec19609143e42b00aa/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730590325"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Grounding Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730825973"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2213190"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "9"
+		"2" "24003"
+		"3" "4791"
+		"4" "9204"
+		"5" "6052"
+		"6" "5186"
+		"7" "4342"
+		"8" "745697"
+		"9" "3859"
+		"10" "1662"
+		"11" "1708"
+		"12" "1775"
+		"13" "4085"
+		"14" "4747"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Grounding Inc."
+	"publisher" "Bandai Namco Entertainment Inc."
+	"listofdlc" "2950900,2950910,2950920,2950930,2950940,2950950,2950960,2950970,2950980,2950990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DEATH NOTE Killer Within"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DEATH NOTE Killer Within.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese"
+	"2213191"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5853774626442800340"
+				"size" "2021297662"
+				"download" "1042747520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build-review"
+			{
+				"gid" "231DBE85B2FF56C7F13918056C0C980D"
+				"size" "08917DA6E2CAB877A5B4CED3E2E363CD"
+				"download" "90529F369B815842EAAADD921C668A24"
+			}
+			"compat"
+			{
+				"gid" "C9044E38CBA1FFF9A62C357F1D4D6AC5"
+				"size" "D023E3318A697B452C00FDE808E87038"
+				"download" "6E7F6D725E65A142570E86B6C2A20B73"
+			}
+			"development"
+			{
+				"gid" "EC857742187828992D7F54DE8D2292CF"
+				"size" "C42B09445861E8793DDB1E612A86899E"
+				"download" "47D5821911F4271359B8BC11BFFE34ED"
+			}
+			"dogfood"
+			{
+				"gid" "8D33A4CB34E76886CBCBE031014A6328"
+				"size" "F125E4119421C40F84727141B9A70802"
+				"download" "7987BD2B07BF857CD45ED1ED1CDDD77D"
+			}
+			"master"
+			{
+				"gid" "24F11D31DA87463831A014895A697442"
+				"size" "D282D7458F0BCC4605837F29AA4D8CE3"
+				"download" "FFFA3863127DE86CB773C59A2EA742E2"
+			}
+			"master-patch"
+			{
+				"gid" "8FE5567C09455A22A12D25D2A5964AFF"
+				"size" "9D01087D0DF67B193CCAD67B8F5A4438"
+				"download" "6B7EDEB4BEA88626CB7C4F32492381E8"
+			}
+			"master-patch-2"
+			{
+				"gid" "7F98EE872034777662194BF21B29343F"
+				"size" "6D038CCBBC6E6AD75D19F7BA7EC6818F"
+				"download" "DCA58C3101CA5DF2B445C4417F456257"
+			}
+			"master-ver1"
+			{
+				"gid" "5EB22BC61566D02465F932BD9A514E12"
+				"size" "8590FB92F06C772D845D38B1682ABFD7"
+				"download" "EB73077729E363B031774FA7A0A96C0D"
+			}
+			"master-ver2"
+			{
+				"gid" "18CD78F837694495DAE35D9A02FA3CBD"
+				"size" "9D4D08B6EDF3090FA8A8EDC68C461F58"
+				"download" "45857284B06EA9CAC485FAEDF0F78A99"
+			}
+			"master-ver3"
+			{
+				"gid" "4F5F6FD3C954CC7B8A4F584CF3604807"
+				"size" "9D443AAAFEA89AE753FD5F57280B7D3A"
+				"download" "99035B4F75A2EE27F1AA991FE6782A2C"
+			}
+			"master-ver4"
+			{
+				"gid" "D007987697C3762FC36F6F2F1C99F5D0"
+				"size" "797296F30A45E395F44291E7285C9205"
+				"download" "C9A1BD7FEF277966D6D04377142915CF"
+			}
+			"master-ver5"
+			{
+				"gid" "A28E616418C1843B42005A6D4997B8AA"
+				"size" "647FE6508275CED226DB72C6A6DFFECC"
+				"download" "4C42ECED36325B10E984703C18A4E42A"
+			}
+			"qa-debug"
+			{
+				"gid" "BD66EE22E7A6E1E9655F43CBFA112574"
+				"size" "C2115E0A280643BA38A186388004AE46"
+				"download" "B241B480292BD07BE029CC5C45BE3C34"
+			}
+			"qa-debug-ver1"
+			{
+				"gid" "710076F729D5213B78771521B951FFC4"
+				"size" "59B9EF3D2450119794D36044AB4F37D7"
+				"download" "2490BB8E94FB1579D88ABDB44A08A395"
+			}
+			"qa-debug-ver2"
+			{
+				"gid" "9CA1EF7DBD71C2D156F7B6D270C93FC6"
+				"size" "A436824A956CBC731396D1B20DEE73F1"
+				"download" "4669312A465F1BAEB1365512F1E58832"
+			}
+			"qa-debug-ver3"
+			{
+				"gid" "184E7001E957F66463F3E09A32D93217"
+				"size" "D8F7DFDED1F673EBD595670961C151FE"
+				"download" "6A5E0F6965FAB295D7132E492B27FC5E"
+			}
+			"qa-debug-ver4"
+			{
+				"gid" "A16DFC555B1F0ABB670ABD58EA103578"
+				"size" "F616138B3DAFD71869374C601DCA5850"
+				"download" "99E29EB5E5C618259EED2964B297E9A6"
+			}
+			"qa-debug-ver5"
+			{
+				"gid" "853EDE4CFB53C7F87EB4185D4BDEF833"
+				"size" "AEF845BAE438E2A1040BC0EC1BC69FC2"
+				"download" "EACC68E2165E57E33933D08BD33CD4A3"
+			}
+			"qa-release"
+			{
+				"gid" "96D2CF53A45286D4E078F1E221794BFB"
+				"size" "230E9BB7F448DADB33AB54ACF12D294B"
+				"download" "3959C197A324DC67391901FEAB86D6A4"
+			}
+			"qa-release-ver1"
+			{
+				"gid" "7227CABB9DA35D7EFF634474743E0DBB"
+				"size" "1C7A6C6625B48937224B19BD0AFFC2D6"
+				"download" "0EB8D46A642AE65B3D92EE6AD387FF73"
+			}
+			"qa-release-ver2"
+			{
+				"gid" "3CD7811F12545FB43128BCAD9EFA2383"
+				"size" "D55FAFD510F356CA1C6B603A12B40D5A"
+				"download" "B6AB9F2FA448875F887E16A0A2D503E5"
+			}
+			"qa-release-ver3"
+			{
+				"gid" "1CFAAAA52DD2187808277EC9E6FDA3A3"
+				"size" "D3AD3F9CACC960E5071C0EA62158139D"
+				"download" "2DE4A2FBE16DE80B663C95328759C5C2"
+			}
+			"qa-release-ver4"
+			{
+				"gid" "1CE3BBB4E61B4F0DF5933385CDB361A8"
+				"size" "16FDCFAE5CD938ED2232499C89BC5092"
+				"download" "93CC009D1AB23165BE87A27E484353B1"
+			}
+			"qa-release-ver5"
+			{
+				"gid" "DF58653E097895D13ED9810765BE03EE"
+				"size" "A60DB3F9CE141AF318A1231C948CFB61"
+				"download" "651C0F4801BA1E4FAA8C998088F33EDA"
+			}
+		}
+	}
+	"2213193"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6378792401053022168"
+				"size" "5570"
+				"download" "2288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compat"
+			{
+				"gid" "DD9677E1F482820CDA4B641FD41393D0"
+				"size" "AD7940D08D6877B84536E44C0C283F12"
+				"download" "52856D16F01D5F7002CE2536F82EE1EF"
+			}
+			"development"
+			{
+				"gid" "370551F5260E9E1FFA19C7E2E62D7B53"
+				"size" "419CF0ECBD0B657244E153CBA0EE1665"
+				"download" "337B8CF9C61C29E89E9301FC63B37494"
+			}
+			"dogfood"
+			{
+				"gid" "2A488DFD1B61A470DC11CC1932048F4D"
+				"size" "88C655FA4484F59F795F9FFC667373BC"
+				"download" "1C2F0DD44D151A7EFD7F19C4EA044684"
+			}
+			"master"
+			{
+				"gid" "19FBF4529A72A7E777856FD7639F4CF8"
+				"size" "6E3D655DCDDECC1876C0F9A6BAD9B6D0"
+				"download" "8B954492DBB089B44D439FEFDC876B19"
+			}
+			"master-patch"
+			{
+				"gid" "54E44B4FB016D070546EAD3E96F9EE75"
+				"size" "25646CED765FE04A45269A149C0D0EE1"
+				"download" "73F5D9C42F662BC0B5192DD462350BD7"
+			}
+			"master-patch-2"
+			{
+				"gid" "5984554ECEBA7BD95C90749E3F166079"
+				"size" "64A6CF777F933C2D854C76CBDCB3C31A"
+				"download" "D12F8F70B77D3CC4456BAACA2921A6D7"
+			}
+			"master-ver1"
+			{
+				"gid" "1086F5A8DD77D8E93EAC3D7E04CC6D38"
+				"size" "377F08744B65A1259A288EB9E50ED2DA"
+				"download" "D781D1FE9843923569D9D4F1CF29A970"
+			}
+			"master-ver2"
+			{
+				"gid" "65EFCBAB57675EB544794085A20CB338"
+				"size" "366BEF0BF347759EB03A279114C2B1F8"
+				"download" "541D27A19F2F1618AA40E9C25A67F3ED"
+			}
+			"master-ver3"
+			{
+				"gid" "ED3E08198C0B2607BC2EE49975C7F6F9"
+				"size" "45745326FBD5F1DB22D40F3B415974FA"
+				"download" "7E89836A1296F7CEFAD5F3706918E49A"
+			}
+			"master-ver4"
+			{
+				"gid" "ABF4543549886E3EB891B9F2807775B3"
+				"size" "A27103608670697ACC4CE4F794D3C08A"
+				"download" "F743D2F351BB60090B274370C391A31D"
+			}
+			"master-ver5"
+			{
+				"gid" "BBD01EB980D03F38FFC5C6995BA075CE"
+				"size" "2DCF10072D9BD1040EFDF52DB4B0ED64"
+				"download" "BEA3E4477F5FD20EC049D591631CF4A1"
+			}
+			"qa-debug"
+			{
+				"gid" "926421BEBD801B280834439CF69198E6"
+				"size" "B36CD13FAE660090D923CF8129FAF41D"
+				"download" "F1ABD6CEF1B832BE4B70028A746C7F4F"
+			}
+			"qa-debug-ver1"
+			{
+				"gid" "060571C9636770C1BF04BCC65AFBBA35"
+				"size" "924C79C855739021AD18CE4756EE7123"
+				"download" "CDFA398B23BACEBBF9D38D6533D9C019"
+			}
+			"qa-debug-ver2"
+			{
+				"gid" "E52F65788ED02271FB7C0769B8FFE222"
+				"size" "212DE5178D2FA8745A632B684E47FAA5"
+				"download" "2844987A1A70988A9004D70935B007FA"
+			}
+			"qa-debug-ver3"
+			{
+				"gid" "5C790FD6753A9B6FB6BDEF587FEEE79E"
+				"size" "A64C0FE9FB754D96322D0F73793A35FD"
+				"download" "381E84DDAEE058793B4D784BA1213BCC"
+			}
+			"qa-debug-ver4"
+			{
+				"gid" "0C50B0087773451F09399532726CFF76"
+				"size" "344CAF387FCA4FE996C0EDB386B7FAC4"
+				"download" "03C3FA287C79AC0372D3C1FE39EBEBD8"
+			}
+			"qa-debug-ver5"
+			{
+				"gid" "0A5EC888CEB994BF323392D76D5F9ABD"
+				"size" "AF734A70A1321F47CE3C653965AB07A7"
+				"download" "5F5E3686C9F443B1CA3457B8E833F1C5"
+			}
+			"qa-release"
+			{
+				"gid" "D38BA6136E170DE9AF2E9389C4077D3A"
+				"size" "0C147F4A0CBC353D9B61ADF9030EC8C4"
+				"download" "F84D7B664696F7C5B777633B249FF952"
+			}
+			"qa-release-ver1"
+			{
+				"gid" "B4635976F72BC22DC35B41D202C36AD4"
+				"size" "3B4B86BA7B6A60309DB31142C53BCB39"
+				"download" "E42D8A204C06216D37FDF85F36DA88F6"
+			}
+			"qa-release-ver2"
+			{
+				"gid" "963FBE395DDCEE56FDDC72304DBF06BF"
+				"size" "B66A9F622D7511519057E38891154111"
+				"download" "6B912E8C5FFF9649C0AF22FA42F7E893"
+			}
+			"qa-release-ver3"
+			{
+				"gid" "270C26D7621A86FFAF424D1C46FDCE5A"
+				"size" "A47E30530BE27B7FBA2EEFAFAF5730BE"
+				"download" "570902B529B3BBA7CFEECDC44DB885EF"
+			}
+			"qa-release-ver4"
+			{
+				"gid" "25584D20F9709247CAF7D2DF185EF063"
+				"size" "CA3921BBEE79338C14A4D17C022DB2F6"
+				"download" "B22F5D9D9EAAD86A8508043B5657C69E"
+			}
+			"qa-release-ver5"
+			{
+				"gid" "1B01A0A83C9390B1A177838904015EA1"
+				"size" "02E50F2821DBCBABC9C1081A822A984C"
+				"download" "FDC46FA33354E3B57992C421ED109B37"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16162154"
+			"timeupdated" "1730790811"
+		}
+		"build-review"
+		{
+			"buildid" "11073438"
+			"pwdrequired" "1"
+			"timeupdated" "1682307509"
+		}
+		"compat"
+		{
+			"buildid" "14180543"
+			"pwdrequired" "1"
+			"timeupdated" "1714099147"
+		}
+		"development"
+		{
+			"buildid" "16428842"
+			"pwdrequired" "1"
+			"timeupdated" "1731735875"
+		}
+		"dogfood"
+		{
+			"buildid" "15207329"
+			"pwdrequired" "1"
+			"timeupdated" "1722394471"
+		}
+		"master"
+		{
+			"buildid" "15174777"
+			"pwdrequired" "1"
+			"timeupdated" "1722122131"
+		}
+		"master-patch"
+		{
+			"buildid" "15817093"
+			"pwdrequired" "1"
+			"timeupdated" "1727235330"
+		}
+		"master-patch-2"
+		{
+			"buildid" "16162154"
+			"pwdrequired" "1"
+			"timeupdated" "1729757083"
+		}
+		"master-ver1"
+		{
+			"buildid" "16430210"
+			"pwdrequired" "1"
+			"timeupdated" "1731754714"
+		}
+		"master-ver2"
+		{
+			"buildid" "15173704"
+			"pwdrequired" "1"
+			"timeupdated" "1722105535"
+		}
+		"master-ver3"
+		{
+			"buildid" "15173093"
+			"pwdrequired" "1"
+			"timeupdated" "1722096844"
+		}
+		"master-ver4"
+		{
+			"buildid" "15172437"
+			"pwdrequired" "1"
+			"timeupdated" "1722087995"
+		}
+		"master-ver5"
+		{
+			"buildid" "15166415"
+			"pwdrequired" "1"
+			"timeupdated" "1722020271"
+		}
+		"qa-debug"
+		{
+			"buildid" "15988486"
+			"pwdrequired" "1"
+			"timeupdated" "1728526029"
+		}
+		"qa-debug-ver1"
+		{
+			"buildid" "16427854"
+			"pwdrequired" "1"
+			"timeupdated" "1731723062"
+		}
+		"qa-debug-ver2"
+		{
+			"buildid" "16432844"
+			"pwdrequired" "1"
+			"timeupdated" "1731792996"
+		}
+		"qa-debug-ver3"
+		{
+			"buildid" "16432262"
+			"pwdrequired" "1"
+			"timeupdated" "1731784265"
+		}
+		"qa-debug-ver4"
+		{
+			"buildid" "16431668"
+			"pwdrequired" "1"
+			"timeupdated" "1731775050"
+		}
+		"qa-debug-ver5"
+		{
+			"buildid" "16431065"
+			"pwdrequired" "1"
+			"timeupdated" "1731765400"
+		}
+		"qa-release"
+		{
+			"buildid" "15945540"
+			"pwdrequired" "1"
+			"timeupdated" "1728225939"
+		}
+		"qa-release-ver1"
+		{
+			"buildid" "16299677"
+			"pwdrequired" "1"
+			"timeupdated" "1730805042"
+		}
+		"qa-release-ver2"
+		{
+			"buildid" "16277318"
+			"pwdrequired" "1"
+			"timeupdated" "1730597316"
+		}
+		"qa-release-ver3"
+		{
+			"buildid" "16276294"
+			"pwdrequired" "1"
+			"timeupdated" "1730580284"
+		}
+		"qa-release-ver4"
+		{
+			"buildid" "16275084"
+			"pwdrequired" "1"
+			"timeupdated" "1730561758"
+		}
+		"qa-release-ver5"
+		{
+			"buildid" "16268326"
+			"pwdrequired" "1"
+			"timeupdated" "1730487515"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BANDAI NAMCO Entertainment/DEATH NOTE Killer Within"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26229130"
+"_sha" "1f8749a386557995060bb27794578dbc5e2a9903"
+"_size" "17844"
