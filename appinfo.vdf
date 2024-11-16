@@ -39,6 +39,50 @@
 	"clienttga" "30bbae36964edc3f89be7fb28c33b0ab046384a8"
 	"icon" "dcbca804ca20e91dfdc41454912d7c77c09dc6e8"
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1730505600"
+		"tested_build_id" "16082826"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -285,7 +329,7 @@
 		"18" "1743"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -294,7 +338,7 @@
 	"developer" "AHEARTFULOFGAMES"
 	"publisher" "Outright Games Ltd."
 	"homepage" "https://outrightgames.com/games/teenage-mutant-ninja-turtles-mutants-unleashed/"
-	"listofdlc" "2885730,2885740,2885790"
+	"listofdlc" "2885730,2885740,2885750,2885790"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -322,9 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "4664800408606719803"
-				"size" "28858938490"
-				"download" "11077406480"
+				"gid" "4189835269948426428"
+				"size" "28858974756"
+				"download" "11077415824"
 			}
 		}
 		"encryptedmanifests"
@@ -349,9 +393,9 @@
 			}
 			"testbuilds"
 			{
-				"gid" "F0380211616A2B13BA53D142BF37869F"
-				"size" "7F56EBE009334B934E0225C5993C9FF4"
-				"download" "FE1A7AE00B5CDB7E920655C8B354C484"
+				"gid" "72A1C8851599B63DAA5A1F6E01DC2DFF"
+				"size" "3B99938DAFB59F19D23C8F3D3502CAB4"
+				"download" "E98C0FED0EE30C1B5482E82FA0267755"
 			}
 		}
 	}
@@ -360,8 +404,8 @@
 	{
 		"public"
 		{
-			"buildid" "16235426"
-			"timeupdated" "1730451392"
+			"buildid" "16331150"
+			"timeupdated" "1731662912"
 		}
 		"aheartfulinternal"
 		{
@@ -383,9 +427,9 @@
 		}
 		"testbuilds"
 		{
-			"buildid" "16235426"
+			"buildid" "16331150"
 			"pwdrequired" "1"
-			"timeupdated" "1730286548"
+			"timeupdated" "1731001840"
 		}
 	}
 }
@@ -498,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26012265"
-"_sha" "2311d5a7cc5fcdc5d212f23c0f1ebf5011e4ee9d"
-"_size" "9884"
+"_change_number" "26208899"
+"_sha" "6f75b4f2adda84511c4986c03f0f5341ec42a0f8"
+"_size" "10990"
