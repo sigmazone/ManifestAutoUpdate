@@ -86,6 +86,52 @@
 			"height_pct" "90.27486295367375"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "90.27486295367375"
+			}
+		}
+	}
 	"store_asset_mtime" "1703748930"
 	"associations"
 	{
@@ -98,6 +144,11 @@
 		{
 			"type" "publisher"
 			"name" "BokiBoki Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "BokiBoki Game"
 		}
 	}
 	"primary_genre" "23"
@@ -135,6 +186,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1681263189"
 	"community_hub_visible" "1"
@@ -157,8 +213,8 @@
 		"13" "492"
 		"14" "6650"
 		"15" "1684"
-		"16" "4182"
-		"17" "6971"
+		"16" "6971"
+		"17" "4182"
 	}
 	"review_score" "7"
 	"review_percentage" "80"
@@ -255,12 +311,32 @@
 			}
 		}
 	}
+	"2332815"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2578973130663750148"
+				"size" "607123889"
+				"download" "423814544"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11018872"
-			"timeupdated" "1681721818"
+			"buildid" "16402472"
+			"timeupdated" "1731568202"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26188948"
+"_sha" "ffb222356ac592f4a95bf1bd076c2405eddfccfb"
+"_size" "5841"
