@@ -18,6 +18,7 @@
 	"languages"
 	{
 		"english" "1"
+		"french" "1"
 		"schinese" "1"
 		"japanese" "1"
 	}
@@ -187,6 +188,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1712847920"
 	"community_visible_stats" "1"
@@ -216,7 +222,7 @@
 		"19" "9551"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -236,55 +242,20 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,japanese"
+	"baselanguages" "english,french,schinese,japanese"
 	"2353701"
 	{
 		"config"
 		{
-			"language" "english"
 			"oslist" "windows"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5498047992256724913"
-				"size" "3356906999"
-				"download" "532318496"
-			}
-		}
-	}
-	"2353702"
-	{
-		"config"
-		{
-			"language" "schinese"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "1712358855385561168"
-				"size" "3434126135"
-				"download" "544693616"
-			}
-		}
-	}
-	"2353703"
-	{
-		"config"
-		{
-			"language" "japanese"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "7965956755215327363"
-				"size" "3441600399"
-				"download" "546294096"
+				"gid" "260419270463329236"
+				"size" "4248954424"
+				"download" "604451968"
 			}
 		}
 	}
@@ -292,12 +263,12 @@
 	{
 		"public"
 		{
-			"buildid" "16113259"
-			"timeupdated" "1729431600"
+			"buildid" "16217719"
+			"timeupdated" "1730189381"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25808083"
-"_sha" "b2c364909ccfeaf75027d7be05ec58aff510436e"
-"_size" "5049"
+"_change_number" "26117053"
+"_sha" "9a5f70a369a921ee72c740c66899aeb0a23ca31e"
+"_size" "4652"
