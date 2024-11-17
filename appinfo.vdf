@@ -26,6 +26,35 @@
 		"4" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1727395200"
+		"tested_build_id" "15646746"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -181,34 +210,34 @@
 	"store_tags"
 	{
 		"0" "4345"
-		"1" "6650"
-		"2" "1667"
-		"3" "7208"
-		"4" "12095"
-		"5" "9130"
-		"6" "4064"
+		"1" "3799"
+		"2" "6650"
+		"3" "1667"
+		"4" "7208"
+		"5" "12095"
+		"6" "9130"
 		"7" "24904"
-		"8" "122"
-		"9" "6971"
-		"10" "4604"
-		"11" "3978"
-		"12" "21"
-		"13" "5611"
-		"14" "4182"
-		"15" "3799"
+		"8" "4604"
+		"9" "4064"
+		"10" "5363"
+		"11" "5611"
+		"12" "6971"
+		"13" "3978"
+		"14" "21"
+		"15" "4182"
 		"16" "1698"
 		"17" "599"
 		"18" "379975"
-		"19" "5363"
+		"19" "122"
 	}
 	"review_score" "5"
-	"review_percentage" "69"
+	"review_percentage" "63"
 }
 "extended"
 {
 	"developer" "渡里laboratory"
 	"publisher" "072 Project"
-	"homepage" "https://072project.com/"
+	"homepage" "https://072project.com/\?source=steam_sera&amp;utm_source=steam&amp;utm_medium=sera&amp;utm_campaign=store_link"
 }
 "config"
 {
@@ -324,3 +353,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26129653"
+"_sha" "d07271899c19a8f491dc20a0f8550d187f3a32a5"
+"_size" "6556"
