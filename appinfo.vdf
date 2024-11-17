@@ -1,0 +1,207 @@
+"appid" "1062260"
+"common"
+{
+	"name" "末法仙路"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "af642393dabfdadf9683ec744ee0654c163796ab"
+	"clienttga" "5b6f38ec76bad1e1c59920dd002899b458ef2d04"
+	"icon" "cc0d64b55f56a6c4a8e366adacb86ba301d56e48"
+	"logo" "3ee1428b89c9addce460f1710aa735bf1d4401a3"
+	"logo_small" "3ee1428b89c9addce460f1710aa735bf1d4401a3_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"metacritic_name" "末法仙路"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_b293691a1549efcb46885bdecd67ac57c67ef2d8.jpg"
+	"store_asset_mtime" "1568299025"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "麟湾工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "麟湾工作室"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1561020540"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1062260"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "9"
+		"2" "122"
+		"3" "599"
+		"4" "492"
+		"5" "597"
+	}
+	"review_score" "5"
+	"review_percentage" "43"
+}
+"extended"
+{
+	"developer" "麟湾工作室"
+	"publisher" "麟湾工作室"
+}
+"config"
+{
+	"installdir" "mfxl"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mfxl.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Mfxl.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"1062261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "556032182059125767"
+				"size" "234521332"
+				"download" "163382784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "3CA0A1CDDD24090F9FE474FD50551A69"
+				"size" "55CF8B004D8872746643C038A6DD4A3C"
+				"download" "FF4C6639C3877548933DE1C29CB28730"
+			}
+		}
+	}
+	"1062262"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8931924348924300106"
+				"size" "222651667"
+				"download" "159832608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "12FBACD921840F7579C3F3B52A209025"
+				"size" "D1F55B6FF86B51100C8F91CAA8632D37"
+				"download" "C1250AD4FD5BB97077CB15291AEEFD8B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4453394"
+			"timeupdated" "1575623797"
+		}
+		"test"
+		{
+			"buildid" "3998843"
+			"pwdrequired" "1"
+			"timeupdated" "1566214780"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Linbay/Mfxl/save"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Linbay/Mfxl/save"
+			"pattern" "*.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "c1b341ad040d440c062ed71cf015c411544ab947"
+"_size" "3389"
