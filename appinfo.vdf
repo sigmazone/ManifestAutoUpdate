@@ -30,6 +30,7 @@
 		"spanish" "1"
 		"schinese" "1"
 		"russian" "1"
+		"japanese" "1"
 		"polish" "1"
 	}
 	"name_localized"
@@ -37,6 +38,8 @@
 		"schinese" "龙女：烈焰之令"
 		"tchinese" " 龍女：烈焰之令"
 	}
+	"metacritic_name" "The Dragoness: Command of the Flame"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -56,6 +59,48 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "59.06645551195315"
 			"height_pct" "92.861568967654"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.06645551195315"
+				"height_pct" "92.861568967654"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1690553577"
@@ -89,6 +134,11 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -121,8 +171,14 @@
 		{
 			"supported" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1662019322"
+	"metacritic_score" "59"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-dragoness-command-of-the-flame\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1413580"
@@ -191,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "5411635407056974317"
-				"size" "16353870820"
-				"download" "7933283968"
+				"gid" "2056247311303772774"
+				"size" "16371181136"
+				"download" "7941840544"
 			}
 		}
 		"encryptedmanifests"
@@ -222,8 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "9991457"
-			"timeupdated" "1669899377"
+			"buildid" "13381066"
+			"timeupdated" "1713343673"
 		}
 		"alpha"
 		{
@@ -246,6 +302,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21420683"
-"_sha" "0bd72f802525fa6c57df2f0759388fd6bf56c005"
-"_size" "4277"
+"_change_number" "25598910"
+"_sha" "4e1b14720848f7a99ac6c155c693f13679c79cc7"
+"_size" "5308"
