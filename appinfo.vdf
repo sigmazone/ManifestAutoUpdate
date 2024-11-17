@@ -1,0 +1,341 @@
+"appid" "788420"
+"common"
+{
+	"name" "Potion Explosion"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"clienttga" "ef98a54d26aa17ab3459be74ba505ccc3cf08cf1"
+	"clienticon" "4b0a0d97bc8f326e3a0ae4664d9a68da0e2fde99"
+	"icon" "bbfdeba98a24ed5e4b648d4a806151e3b77633e6"
+	"logo" "8490b4169904ec9e0e636c354683c3212845e6fb"
+	"logo_small" "8490b4169904ec9e0e636c354683c3212845e6fb_thumb"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"metacritic_name" "Potion Explosion"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "81.80129855548009"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "81.80129855548009"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1576162866"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio Clangore"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Horrible Guild"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_27" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1526457997"
+	"community_hub_visible" "1"
+	"gameid" "788420"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "9"
+		"2" "1770"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Studio Clangore"
+	"publisher" "Horrible Guild"
+	"homepage" "https://www.horribleguild.com/potion-explosion-digital/"
+	"listofdlc" "789170"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Potion Explosion"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PotionExplosion.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "PotionExplosion.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "PotionExplosion.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"788421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7884390602590738687"
+				"size" "231754492"
+				"download" "128317024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devs"
+			{
+				"gid" "00B1EC14F1DDC7C93B2C07F167EDA9AE"
+				"size" "4E3F37ABAFE96E2F66922958E31B9B04"
+				"download" "5597CB389B1065B5B00C9D936DCBF4F0"
+			}
+			"onlinetest"
+			{
+				"gid" "AD5E77C7A412EE24CF2E4C4ABFA620A2"
+				"size" "075A6494BB73283F233384DC41D73082"
+				"download" "0AE5EAC5D05C38B6D8C30CD144B812CF"
+			}
+			"experimental"
+			{
+				"gid" "198C3F95CBE94628FC6EF4C737AEF3AE"
+				"size" "C1D347A0FE0415F0BEC5A94D509AFF4D"
+				"download" "8C829E4BB60D0EBF544993FC4A139DAD"
+			}
+		}
+	}
+	"788422"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5921761642746978648"
+				"size" "487918868"
+				"download" "163226976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devs"
+			{
+				"gid" "A73D5CAF267888CF5812C32C975C2E8A"
+				"size" "6CEF1474C2E18CEAF9FA3A628DB44164"
+				"download" "E2010DCE007EDB3ACC7EA93F7EE40D6D"
+			}
+			"onlinetest"
+			{
+				"gid" "AF0977544EC8C990DAD448C58CD03BD8"
+				"size" "468454BF8386F40EC6972F320C66BE94"
+				"download" "604CEDF2DAF9EB39F0CF0C8FBB21307D"
+			}
+			"experimental"
+			{
+				"gid" "68509C5DF35DE34317A1D189F35C063E"
+				"size" "14B8E292714B5E28D78D9098DEE0173C"
+				"download" "9C0912C31C817C251EB10620A0CE85BD"
+			}
+		}
+	}
+	"788423"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9078910770700830136"
+				"size" "392712396"
+				"download" "75946176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devs"
+			{
+				"gid" "ADEE2F146EB779C749E07C9B3F00A3EC"
+				"size" "BF3DB777859240D14EF3F2A29E550DFF"
+				"download" "7E6942D18B15A2D003FE78F8BD5132CB"
+			}
+			"onlinetest"
+			{
+				"gid" "ED5F27D12B59CC2538F286D70E89FD39"
+				"size" "EEB7AFD89CA4501C3C1D29AE60F0D8B5"
+				"download" "8FA864F2C9045392030CFDEC113C0348"
+			}
+			"experimental"
+			{
+				"gid" "88AD7E5EF074D8B591D83FA999C61931"
+				"size" "B4E0AAC5F9B2560978CCC8EE4F333A23"
+				"download" "9054C8815986118BD3ADE6E3B420B462"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15094161"
+			"timeupdated" "1721898116"
+		}
+		"devs"
+		{
+			"buildid" "2858317"
+			"pwdrequired" "1"
+			"timeupdated" "1706090168"
+		}
+		"onlinetest"
+		{
+			"buildid" "11761501"
+			"pwdrequired" "1"
+			"timeupdated" "1690185208"
+		}
+		"experimental"
+		{
+			"buildid" "15094161"
+			"pwdrequired" "1"
+			"timeupdated" "1721424415"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26109133"
+"_sha" "887f424372c8153048b2faf0312d26b97782c311"
+"_size" "5943"
