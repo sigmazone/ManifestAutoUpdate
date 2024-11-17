@@ -1,0 +1,857 @@
+"appid" "2229940"
+"common"
+{
+	"name" "[REDACTED]"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "3e5c588054e5eb6e40b39a0071c6fdec5fb65fb4"
+	"clienttga" "6c1cf0b105642b32527604c38ea6f947a7bd6e82"
+	"clienticon" "97214edd1ff4bc6fbeaadf161f6227b8bd57b5a0"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2229940_eula_0"
+			"name" "[REDACTED] EULA"
+			"url" "https://store.steampowered.com//eula/2229940_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1729814400"
+		"tested_build_id" "16102229"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.03659563007104"
+			"height_pct" "87.84619557846194"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.03659563007104"
+				"height_pct" "87.84619557846194"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730429099"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Striking Distance Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KRAFTON, Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_60" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730087156"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2229940"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4637"
+		"2" "1646"
+		"3" "3959"
+		"4" "1720"
+		"5" "4026"
+		"6" "1774"
+		"7" "4106"
+		"8" "1716"
+		"9" "4191"
+		"10" "1751"
+		"11" "5851"
+		"12" "19995"
+		"13" "5923"
+		"14" "7481"
+		"15" "19"
+		"16" "4252"
+		"17" "3942"
+		"18" "1719"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Striking Distance Studios"
+	"publisher" "KRAFTON, Inc."
+}
+"config"
+{
+	"installdir" "Redacted"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Redacted.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+			"description_loc"
+			{
+				"english" "Retail Build"
+			}
+			"description" "Retail Build"
+		}
+		"1"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "titanium"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"2"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "jupiter"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"3"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "phosphorus"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"4"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mars"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"5"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mercury"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"6"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "neptune"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"7"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "pluto"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"8"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "saturn"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"9"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "venus"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"10"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "lanthanum"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"11"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "kentaurus"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"12"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cobalt"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"13"
+		{
+			"executable" "Redacted.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "iridium"
+			}
+			"description_loc"
+			{
+				"english" "Retail Build"
+			}
+			"description" "Retail Build"
+		}
+		"14"
+		{
+			"executable" "Redacted.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "proxima"
+			}
+			"description_loc"
+			{
+				"english" "Retail Build"
+			}
+			"description" "Retail Build"
+		}
+		"15"
+		{
+			"executable" "Redacted.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "vanadium"
+			}
+			"description_loc"
+			{
+				"english" "Retail Build"
+			}
+			"description" "Retail Build"
+		}
+		"16"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "palladium"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+		"17"
+		{
+			"executable" "Redacted.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "thulium"
+			}
+			"description_loc"
+			{
+				"english" "Retail Build"
+			}
+			"description" "Retail Build"
+		}
+		"18"
+		{
+			"executable" "Phoenix.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "lithium"
+			}
+			"description_loc"
+			{
+				"english" "Non-Shipping Build"
+			}
+			"description" "Non-Shipping Build"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,schinese,japanese,brazilian,latam"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2229942"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9037005965868947942"
+				"size" "10475735321"
+				"download" "9867197984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"jupiter"
+			{
+				"gid" "816B9C3A9C3C41C4907EFDE78A81FF4C"
+				"size" "135C4ECEA22729A8D0B369594B6D797F"
+				"download" "BBD0B638FBE334A6F98D995F881EB5C8"
+			}
+			"lithium"
+			{
+				"gid" "82130A2D47F8E1D996C2015245224BEA"
+				"size" "13CA233F657A6E8268FABD2D5ED0C159"
+				"download" "5FE2A54A0DB1165F67CCB18FC0EBF01D"
+			}
+			"palladium"
+			{
+				"gid" "CE0B899E5963F7918BE4DFC8BD0F536A"
+				"size" "150129EEA2CE4FF4250000B98A545764"
+				"download" "B12FC0C9763BC3866E77A456F531EF60"
+			}
+			"thulium"
+			{
+				"gid" "F3A9D038D3521D64E5E0B0A3CB58962D"
+				"size" "1949D0E6A3DD2124A536586D71FE9604"
+				"download" "E5794F254B87BFC36F75387508868ACA"
+			}
+			"phosphorus"
+			{
+				"gid" "847C527B7E659722449743CF024264BF"
+				"size" "6475ACF11E04D55E02952085183F4AD8"
+				"download" "C47798FB05BD63B5F8026C7F7D4C8110"
+			}
+			"mars"
+			{
+				"gid" "2B603F4B1A0673A3DB7E1C106146EF3D"
+				"size" "8689FF05C3E725E1778CFEF3C8F6C485"
+				"download" "7D68850538CF4A21DE0AF1E48C021B8E"
+			}
+			"mercury"
+			{
+				"gid" "E6CA513E60462522338B3D627ED068BC"
+				"size" "9200E681C71F08E81BED5E53570CAC74"
+				"download" "76DD93AD3C26C5DE24A5C620FEAD8515"
+			}
+			"neptune"
+			{
+				"gid" "734571D3385313DF7CC08D27A48F3011"
+				"size" "777D9D77F3A09D3B1DB3537629EF6B3B"
+				"download" "56E597BC810B91B04820ECF809DC0320"
+			}
+			"pluto"
+			{
+				"gid" "5D311C6EF3B7DE1C030C05EAB8F311E6"
+				"size" "37AD37989BD02680D1EA7E5C58D20792"
+				"download" "6D272375463243097EEBF2B86AEEC628"
+			}
+			"saturn"
+			{
+				"gid" "58ADA0E4E6C8365C014E731D801570AB"
+				"size" "11FB8581AC485B375B6E5B51199A51F3"
+				"download" "FFE767DA47E377DDA9D267B7F85179FE"
+			}
+			"venus"
+			{
+				"gid" "13BD43E234270AE0A8D207BBA362EFAD"
+				"size" "3864CACD40CE1F48DA628639F923902E"
+				"download" "88BEA3A03F36B95A774955DC3290DB04"
+			}
+			"lanthanum"
+			{
+				"gid" "E73896E73DED9B4F2B52858C5C480956"
+				"size" "FC9F3904ECD122782292E3332AA3C4C7"
+				"download" "3CB319C14EA832E74202B63DA0E880D5"
+			}
+			"iridium"
+			{
+				"gid" "78A7AA44F928692D5B624D098C05F7EE"
+				"size" "5741470CB201A950F5CF1D3507C09D31"
+				"download" "6CF0EC38D7D08120D0009C6C1E595301"
+			}
+			"titanium"
+			{
+				"gid" "7C9CB4E9A55181DAEB61144C5713B0FB"
+				"size" "657DDCCAAB1D6CBEA469893AEEA877C8"
+				"download" "E85FA1685F88CA8D9409116991DBFFE0"
+			}
+			"vanadium"
+			{
+				"gid" "989A74FD5A8215A6AA4A756B71FB07F6"
+				"size" "D3144BC9C032781059CCB8186C29DE1F"
+				"download" "06BD9D5C06C7BC9C41CC9D198B17C296"
+			}
+			"cobalt"
+			{
+				"gid" "D45D499447E2E86E299E774913C66341"
+				"size" "41CA0F3AA6C5770F6FD8593FD2A9E097"
+				"download" "B273023BE2F0D9119E281AD8CD60CF6F"
+			}
+			"kentaurus"
+			{
+				"gid" "265274A8016E01661F7CCB215BA00361"
+				"size" "534AE9EC7532862877BA4B7DB4A8CBA1"
+				"download" "7B988BD9E16ECB5A37C63D007959F740"
+			}
+			"proxima"
+			{
+				"gid" "C1C4FAE96244D00F051E115BDE0D44DA"
+				"size" "68C48051924CE63F7D72F142EE39F055"
+				"download" "22A875C41D1299BC497AD95BD0364211"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16243490"
+			"timeupdated" "1730334136"
+		}
+		"jupiter"
+		{
+			"buildid" "13828045"
+			"pwdrequired" "1"
+			"timeupdated" "1711145918"
+		}
+		"lithium"
+		{
+			"buildid" "16413634"
+			"pwdrequired" "1"
+			"timeupdated" "1731633040"
+		}
+		"palladium"
+		{
+			"buildid" "15422880"
+			"pwdrequired" "1"
+			"timeupdated" "1724087921"
+		}
+		"thulium"
+		{
+			"buildid" "16395606"
+			"pwdrequired" "1"
+			"timeupdated" "1731519368"
+		}
+		"phosphorus"
+		{
+			"buildid" "16395599"
+			"pwdrequired" "1"
+			"timeupdated" "1731519349"
+		}
+		"mars"
+		{
+			"buildid" "13437269"
+			"pwdrequired" "1"
+			"timeupdated" "1707773573"
+		}
+		"mercury"
+		{
+			"buildid" "13572025"
+			"pwdrequired" "1"
+			"timeupdated" "1709011373"
+		}
+		"neptune"
+		{
+			"buildid" "14176885"
+			"pwdrequired" "1"
+			"timeupdated" "1714072313"
+		}
+		"pluto"
+		{
+			"buildid" "14014335"
+			"pwdrequired" "1"
+			"timeupdated" "1712780877"
+		}
+		"saturn"
+		{
+			"buildid" "13583527"
+			"pwdrequired" "1"
+			"timeupdated" "1709089477"
+		}
+		"venus"
+		{
+			"buildid" "13437219"
+			"pwdrequired" "1"
+			"timeupdated" "1707773145"
+		}
+		"lanthanum"
+		{
+			"buildid" "16412534"
+			"pwdrequired" "1"
+			"timeupdated" "1731625463"
+		}
+		"iridium"
+		{
+			"buildid" "16243490"
+			"pwdrequired" "1"
+			"timeupdated" "1730328665"
+		}
+		"titanium"
+		{
+			"buildid" "16427969"
+			"pwdrequired" "1"
+			"timeupdated" "1731724448"
+		}
+		"vanadium"
+		{
+			"buildid" "16427962"
+			"pwdrequired" "1"
+			"timeupdated" "1731724375"
+		}
+		"cobalt"
+		{
+			"buildid" "16243419"
+			"pwdrequired" "1"
+			"timeupdated" "1730328682"
+		}
+		"kentaurus"
+		{
+			"buildid" "16240704"
+			"pwdrequired" "1"
+			"timeupdated" "1730309877"
+		}
+		"proxima"
+		{
+			"buildid" "15285422"
+			"pwdrequired" "1"
+			"timeupdated" "1723003464"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Redacted\\Saved\\SaveGames"
+			"pattern" "BevSave*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26228722"
+"_sha" "43cc8bbce93008e37138d9ed9b65ecbbc6cf2cf6"
+"_size" "15882"
