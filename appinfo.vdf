@@ -1,0 +1,288 @@
+"appid" "2289560"
+"common"
+{
+	"name" "从0开始的VUP生活"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "cf5935cb6d4521b0c384e530f8a34c15e6731a60"
+	"clienttga" "dec94a04de725c497f59f0e70cb07a60e5b7b6ae"
+	"clienticon" "de3396eed753959efd0dd6e026106808a3651149"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "15.600760820303023"
+			"height_pct" "46.50223658051692"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.600760820303023"
+				"height_pct" "46.50223658051692"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729772391"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stone Lake"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stone Lake"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730438913"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2289560"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3964"
+		"2" "5923"
+		"3" "10397"
+		"4" "16689"
+		"5" "4136"
+		"6" "4434"
+		"7" "10235"
+		"8" "3799"
+		"9" "3871"
+		"10" "4085"
+		"11" "4726"
+		"12" "5984"
+		"13" "1719"
+		"14" "6971"
+		"15" "4004"
+		"16" "1742"
+		"17" "5608"
+		"18" "122"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Stone Lake"
+	"publisher" "Stone Lake"
+}
+"config"
+{
+	"installdir" "re0vuplife"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "vupgame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamcontrollertouchtemplateindex" "9"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "4"
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"2289562"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7303224409504217362"
+				"size" "1039519518"
+				"download" "801571120"
+			}
+			"v1.0.12:grabkeno,kissallday"
+			{
+				"gid" "7709274228193275307"
+				"size" "1039518859"
+				"download" "801571584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"pre-patch"
+			{
+				"gid" "FCAB7F2E7C4674F7AE532B21014013F0"
+				"size" "EEA8CC2333B282B6B7C77970D0733F0D"
+				"download" "4933FFB8AD1E1FCCC71FF9F02433ED2C"
+			}
+			"test"
+			{
+				"gid" "D8F2F720B3A14C784DD03730578EBE35"
+				"size" "7E5EBEEA08603EFEE56BA5932916B33F"
+				"download" "69B39707F735C8B80AE1839F4EE0B147"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16377404"
+			"timeupdated" "1731481706"
+		}
+		"pre-patch"
+		{
+			"buildid" "16377404"
+			"pwdrequired" "1"
+			"timeupdated" "1731409502"
+		}
+		"test"
+		{
+			"buildid" "15885674"
+			"pwdrequired" "1"
+			"timeupdated" "1727769592"
+		}
+		"v1.0.12:grabkeno,kissallday"
+		{
+			"buildid" "16351194"
+			"description" "一杯茶一只猫，抓着坷诺亲一天"
+			"timeupdated" "1731481649"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "314572800"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "vupgame/Local Storage/leveldb"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "26170230"
+"_sha" "250c5154ca90388860d13d83d851620ba92d03c1"
+"_size" "5030"
