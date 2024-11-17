@@ -1,0 +1,962 @@
+"appid" "2158030"
+"common"
+{
+	"name" "RetroRealms"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"clienticon" "7ee269e8e412359903ff5e8e4d5b3e6afe45eb6e"
+	"clienttga" "6c0fbce72a17228e6339733a95bf7ba23bce8641"
+	"icon" "9af6bf3431fc94afcbc9210e2c4d2c8f54764f17"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1729641600"
+		"tested_build_id" "15988016"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "3fe53ccaa22fff342be0225034e4231a0e6d8c0a/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.372093023255815"
+			"height_pct" "20.020162808015627"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "430d0eb2daeb1a062cb4218108f5629a0dbb9815/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "430d0eb2daeb1a062cb4218108f5629a0dbb9815/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "168389357b0c0e1d3027e04147485c934080d8ca/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "168389357b0c0e1d3027e04147485c934080d8ca/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "168389357b0c0e1d3027e04147485c934080d8ca/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.372093023255815"
+				"height_pct" "20.020162808015627"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "370e97e7fe9456cd5713106a0727db208bafdc93/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "370e97e7fe9456cd5713106a0727db208bafdc93/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729722687"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "WayForward Technologies"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Boss Team Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "RetroRealms"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729234800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2158030"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "1625"
+		"3" "1646"
+		"4" "3871"
+		"5" "3964"
+		"6" "1667"
+		"7" "6691"
+		"8" "4345"
+		"9" "4667"
+		"10" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "WayForward Technologies"
+	"publisher" "Boss Team Games"
+	"homepage" "https://retrorealmsgame.com/"
+	"listofdlc" "2833010,2833020,2833030,2833040"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "RetroRealms"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "RetroRealms.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"2158031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1308711197815513062"
+				"size" "1296806863"
+				"download" "591158912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arcsystem"
+			{
+				"gid" "3EA44A572F49EDDCCFA45F09E14D990C"
+				"size" "EFDEBB3A4BC811485F4B95ED69C6F448"
+				"download" "D87C738BC8A41A4E3B6E56190C6FC2C8"
+			}
+			"epic"
+			{
+				"gid" "33E5433BC1FFD7A964997578CE8BFC32"
+				"size" "2013272EE231A8480D73C5837446643D"
+				"download" "F5DB7BB8513BF5EAE190D38813B092FB"
+			}
+			"microsoft"
+			{
+				"gid" "0DCD5A5EC4923FB30EEF0764932920BD"
+				"size" "8CFF8CF2300B6F8C79B2613876C57BF7"
+				"download" "594D797991534E4B7A1000506532B927"
+			}
+			"milestone"
+			{
+				"gid" "88D4AE1579DF8530F70A6A99DDB48B5D"
+				"size" "4B464EE8489D858C6927C0D6B845717E"
+				"download" "7A996EA23362FEE54AD5734ACC9451B9"
+			}
+			"production1a"
+			{
+				"gid" "C25789EA0CC3F2F24C61DD1D449AC937"
+				"size" "FADFFA052D2976303D54905CA944FA32"
+				"download" "42F26F629A81C6A8AB9A2FE276557386"
+			}
+			"sony"
+			{
+				"gid" "E6CA4C8BF5BEF50490ADC61FC5FCC377"
+				"size" "72D448B37AFF18C2689B9B34FC84447C"
+				"download" "C237FAA1427BE10CAF300F5E84DF75A7"
+			}
+			"test2"
+			{
+				"gid" "70F3AEEAB00C48E56E39EA191925C0EA"
+				"size" "8C4F18B683DDE9398B7ECC289FC21A24"
+				"download" "BEFF17E62BD9D93B24E01FEC65F81C45"
+			}
+			"bossteam"
+			{
+				"gid" "79D778E01C4D57E94190658855AA4C44"
+				"size" "C8BDABA7F794872C0CDC032A5F6626B4"
+				"download" "869C12B008F4CED4081C3F4E775F3021"
+			}
+			"compass"
+			{
+				"gid" "B501C3829932CE1DEDF5F7639D126A4A"
+				"size" "7628401136BC5B131423ECA71DE7C226"
+				"download" "E78E8D6691630579803865ED4643D889"
+			}
+			"development"
+			{
+				"gid" "BB5F4A5872EE6C8831F91B1E48C5DD1E"
+				"size" "4D15B30B4300B6D4292ACEF48B0B4ADE"
+				"download" "889C59A34311E1F1EEC0F56D54A77673"
+			}
+			"final"
+			{
+				"gid" "CFB05337F38F08DBAD93C165376DBD32"
+				"size" "4BDB56482DD8144E9A025D3A7F08A435"
+				"download" "144B039CBF564760F44B29CAE2AE38C6"
+			}
+			"h2interactive"
+			{
+				"gid" "E0127EB22B9F471648A0C3DB6F41CDC8"
+				"size" "066B7364E6FD26450CC91B3CB347E7AE"
+				"download" "126145092A35F0F5C3762E1175D26570"
+			}
+			"h2interactive2"
+			{
+				"gid" "022D98D559BAE05FEBB6E69EE003AFC4"
+				"size" "21C4E679142C79397D43514A02318B2B"
+				"download" "6C736252471C4FF059DD99E3E8490710"
+			}
+			"lionsgate"
+			{
+				"gid" "5DBCA14C798209FAFF6237B2C7A70218"
+				"size" "BE3123C63CBC932A34C7DAE3867CCC13"
+				"download" "2C6FCA8F898BEC2E5600A54EAE6D39A7"
+			}
+			"nighthawk"
+			{
+				"gid" "80FCB0717FFDDF1FF7BBBE3B63E9BB68"
+				"size" "AE9A188986796CFAEA06DF17AB1477D2"
+				"download" "EACB103FED227606E7786C8151BB1B57"
+			}
+			"patch"
+			{
+				"gid" "3038BF45660787B69C22DE5F46AF6F9A"
+				"size" "ECE79BF794418EA82A6130BBB2E91612"
+				"download" "6EF6AE32ECE4B8804B8EA3C0749A5524"
+			}
+			"review"
+			{
+				"gid" "1B4726B9B0B18840F23C16266750A4BD"
+				"size" "EB0AD0DC9C79E33743DBAB2D1CC526D5"
+				"download" "FFCA0CCF6170AFDA71A61A27BD50837A"
+			}
+			"showdemo"
+			{
+				"gid" "44C40A6F414731F8C5F92D2E8C3C01EA"
+				"size" "6B49D9521DBF8CF489251D3539B66F9A"
+				"download" "4F1E5A16E11F5B6A75B4556598E23C74"
+			}
+			"tbpr"
+			{
+				"gid" "03DC9166A2DFA89C4B89348867B0293D"
+				"size" "DD6081914FDA0F3DF4076E021C49C652"
+				"download" "65E706961536B96D3AA34CA7C513DA78"
+			}
+			"test1"
+			{
+				"gid" "407BB5195BE1FAE44B496CFFB0F60150"
+				"size" "81E0751BF439DB48B86C9195F2E1F6C3"
+				"download" "BFF646CEEF1F33B9DABFA503FCED0288"
+			}
+		}
+	}
+	"2833010"
+	{
+		"dlcappid" "2833010"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8185943769362587327"
+				"size" "619299696"
+				"download" "93740464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"milestone"
+			{
+				"gid" "5959E568B723E60CEFBF62F2DCFB50BD"
+				"size" "6A1D1F93350639565F3018A793302095"
+				"download" "314E0A442C98761EEDA370A6AEA311E2"
+			}
+			"bossteam"
+			{
+				"gid" "6CF819AE57058098E0EA4414DE5D21DD"
+				"size" "3D5879A4482DCC83097826212C340258"
+				"download" "5F247AF3062C30CFC34D696BBF30E2EA"
+			}
+			"compass"
+			{
+				"gid" "FBE2FC896522616525E78197DD18C88E"
+				"size" "2058502C314EBB88E8BF21F0B02BA35C"
+				"download" "6B0E394B380EF114C17E18A1A0607875"
+			}
+			"development"
+			{
+				"gid" "67C56082F02016B16211E7877E06A39A"
+				"size" "44964BA4B7648F99D57D22D4986148B4"
+				"download" "075361EA19804685082798E9328EA240"
+			}
+			"final"
+			{
+				"gid" "674AD562B79038820F05D33F225E70FE"
+				"size" "96E2E0898868D9B27DBBAE677919B7DB"
+				"download" "347D2815D87754F711BFFD4BF69E023A"
+			}
+			"h2interactive"
+			{
+				"gid" "2FE98916361911336E670EEEDE596E14"
+				"size" "B4117B802F213F540417D81943CE80C9"
+				"download" "F3D4AF367AB7CD48F8FCECFA4323BB3F"
+			}
+			"h2interactive2"
+			{
+				"gid" "748C0EF2C4AAB642DAD3CE503C6397CE"
+				"size" "B2DBD45A8BB7EFFEEDC1B3C494239BFD"
+				"download" "2CFD6DA4AC60AE8C411C1956AED86E27"
+			}
+			"lionsgate"
+			{
+				"gid" "840EF7FE7CD0AE09FE323402C49B4088"
+				"size" "8B5FB221E0B1E86BEB606F360FC1425B"
+				"download" "C29085D62C41450E083AC97900A83748"
+			}
+			"nighthawk"
+			{
+				"gid" "7DA3A26A77D2890DF9BCEB7FD4B168F6"
+				"size" "29EB5038EFD83C214F9B8259C72C7E02"
+				"download" "65079EB582D03BD708E26B9A06923A2A"
+			}
+			"patch"
+			{
+				"gid" "5C2837C6D650813B736719DFF6B0B22E"
+				"size" "401125120F2DF0CC9AB290BB45455CF8"
+				"download" "2973484EEC2E0EA68C6778C48569FED0"
+			}
+			"review"
+			{
+				"gid" "B7AD7340C335A23B9ED03D0F06640A1F"
+				"size" "E1B13BF62B9222EF944401E09C35100C"
+				"download" "870FCB50983DC328D6088A5CB3E28DF7"
+			}
+			"showdemo"
+			{
+				"gid" "125506AB3FF4F3C2D6A6609ED47C1678"
+				"size" "F1590B69C8A4845ECDFF14CFFC8D268F"
+				"download" "96705191F5876C3EC2B48589349287DF"
+			}
+			"tbpr"
+			{
+				"gid" "06CF2BA7FA41730D9F90BED893AA951E"
+				"size" "07323C64F6088B9BB50A4D00C2ED00CE"
+				"download" "D8BEF5551CC1AE9EB4F78925324D8280"
+			}
+			"test1"
+			{
+				"gid" "879E41AD3CCF54F36DD0B44051CB4847"
+				"size" "DC70AB90AC7A9CCE694A93DC74B286F5"
+				"download" "DFBE48317784E53E80AFCB95146FA906"
+			}
+		}
+	}
+	"2833030"
+	{
+		"dlcappid" "2833030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5732302805062981911"
+				"size" "15941312"
+				"download" "885424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"milestone"
+			{
+				"gid" "8C1B08C60AA34F79405E435D6158F14D"
+				"size" "B5302B54972FC839935C853EEABD13A6"
+				"download" "B6F253EA6F845AB5461AB5A88AA4958A"
+			}
+			"bossteam"
+			{
+				"gid" "EE2AB1C159572975CA794C46AC8B3DF5"
+				"size" "C304253E060DD6E3E48E65DAABB214D4"
+				"download" "76BA5C86F5608CED53A5AAB309AEEED8"
+			}
+			"compass"
+			{
+				"gid" "5329BB7F45AD7D13951576D76DF9E505"
+				"size" "D8B3739237CAB16CED8529816ADF9BAE"
+				"download" "CED1B7EA987B286DDD8B66335AC056E7"
+			}
+			"development"
+			{
+				"gid" "5338882C97FBBD37F4FB0AD62C612E33"
+				"size" "EE5962E72DEB4A60B745D06D016E9F8B"
+				"download" "6D8120DE3A47B314F0AEF09BC0F3C51F"
+			}
+			"final"
+			{
+				"gid" "57DAC9D40FDA77952F246E7F4D91A65A"
+				"size" "E09C0E7D1E71C7C3D3C9BF58A7F5BE34"
+				"download" "AD31968ED6C02D20985240E7E1A8BFEA"
+			}
+			"h2interactive"
+			{
+				"gid" "E033ECC2AB29C3A4015FF53241D5F7D3"
+				"size" "346B9DB8DE5E049931861D63C043F89F"
+				"download" "FB0D5F187C4C212A256EA1BC0C329E52"
+			}
+			"h2interactive2"
+			{
+				"gid" "24CA3BAB2EAC078C6C834466917D53B7"
+				"size" "5BC5EF0E294A51CEEDF07D8DF358784C"
+				"download" "342314BC0AB5FBDEFBACF0C731E25141"
+			}
+			"lionsgate"
+			{
+				"gid" "AD8B7A3F54E2188AB6B7347EEBE2CD30"
+				"size" "772FC27EFC105ECF84B645A0F454C074"
+				"download" "E2BEC129C9A659D1935B5771B1C350C7"
+			}
+			"nighthawk"
+			{
+				"gid" "F0ABEFCCF0203B34BCCF235A3A681093"
+				"size" "CC8E4C6710F74C18292A7A5F2D73C48E"
+				"download" "44DB82469A2FDD6A3C66DD594239DF1E"
+			}
+			"patch"
+			{
+				"gid" "DC7E7644E51760D593BCFDAFCE1444BF"
+				"size" "2D028F741884125CBAA3AD8293D3316C"
+				"download" "D46525ED98BEF0BBB7AA16387B65D2E3"
+			}
+			"review"
+			{
+				"gid" "919A650CB2960B9DA543BF62F632C76D"
+				"size" "8A2D2C4B468EF6C937E0B156E2A5460E"
+				"download" "7814361DEC6101ED1F8E51D666D0B976"
+			}
+			"showdemo"
+			{
+				"gid" "99968DB2A5B4F23E0562325FDF133206"
+				"size" "09FDF8849CED11BFE20F6C49FF2A2BA7"
+				"download" "257A5A0255B56250BF8BAE49928080DB"
+			}
+			"tbpr"
+			{
+				"gid" "70F7A4853D7A7E93398AEFB84731F009"
+				"size" "82253CB8AEEC608728B6F74CD20010B2"
+				"download" "5093C94E6648A356B0F6B1F752156755"
+			}
+			"test1"
+			{
+				"gid" "A1082075CEA23BD1D3801E2CA718D540"
+				"size" "D43610360CCF62D851084F812F3D668F"
+				"download" "794224F9887A9970D6D14565F01D9BA9"
+			}
+		}
+	}
+	"2833020"
+	{
+		"dlcappid" "2833020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3909325543427312920"
+				"size" "616176912"
+				"download" "132125056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"milestone"
+			{
+				"gid" "2AAE40F9DA691C3CB48E1AB26C45B40E"
+				"size" "B66901E05B702EBF10F3979E36B23217"
+				"download" "5E8EAB81BBE340D7D4A9CE26E809A718"
+			}
+			"bossteam"
+			{
+				"gid" "B72160C97B5B83A19A0AAC36B0EC784F"
+				"size" "2DF654627D1140049A133EB66AD0922C"
+				"download" "8E14F049AF5A3CBF7CBA810854909C81"
+			}
+			"compass"
+			{
+				"gid" "C4EE6677391B3BE638086D49B048932F"
+				"size" "BF398FE7FDC1D0EA6A9171F741B883BA"
+				"download" "DA874BCEA4F8FF7C0F026219B39C1533"
+			}
+			"development"
+			{
+				"gid" "45E45922A6AFEDE12157D49D6EBFCB34"
+				"size" "6200FDD990085611E7C2E962F949683E"
+				"download" "140F6F385BE4C0439B7146B4D67A6431"
+			}
+			"final"
+			{
+				"gid" "67FD1152EA3F65ACA38C57CBE63CA96B"
+				"size" "C9876B1210237A4AE66A104163C2A7B4"
+				"download" "213FE4A70E6CA6D8EEDAE319DFD612AF"
+			}
+			"h2interactive"
+			{
+				"gid" "A87E193C2992B6329F325B99F513E9C4"
+				"size" "42F38D6CB12EBD0B808812687A2A0336"
+				"download" "0E247CB37A47AA3DD130E1133129F923"
+			}
+			"h2interactive2"
+			{
+				"gid" "E92C63C942840EB32994623683FC37B0"
+				"size" "C5AE9361465858D70FAD6F1AAFEEBBE1"
+				"download" "8E1CAA64B253DF410A7795340D05888A"
+			}
+			"lionsgate"
+			{
+				"gid" "5EC263F99A4499B4751AA89F1D495814"
+				"size" "C200F2A59019A87C59B498890E7B7BFB"
+				"download" "4680C4A90C83E7A158FEFB6D8D8ECC03"
+			}
+			"nighthawk"
+			{
+				"gid" "168F8A9F766339337AA4235E52D90AEE"
+				"size" "856A45D56F6D87039A51B73A57C0E9B1"
+				"download" "E621B0D544045448741DE930D2C80802"
+			}
+			"patch"
+			{
+				"gid" "F62211F76B31176C883D6A199243C9ED"
+				"size" "202D24CF98CB9DE1DA16E20D21EE5F87"
+				"download" "666A6CE807F2F7C2A02A2D0E677A53F3"
+			}
+			"review"
+			{
+				"gid" "4E6C1E356E54675E332DC96A714382A1"
+				"size" "1FC933A695507EC7235F22A6DA955105"
+				"download" "81D6C5D697DADB05F775E6353DE9EFF4"
+			}
+			"showdemo"
+			{
+				"gid" "85A290E61979763FCF7D081125983458"
+				"size" "31DD837AFF46040B465988D70A4AC34D"
+				"download" "4AE96E1E975D64FF0C05AA8C22B54816"
+			}
+			"tbpr"
+			{
+				"gid" "0B755CF17B97557240C6E3124320EDC0"
+				"size" "3494D8A83AE8FBA65560EC0DFCD9E97B"
+				"download" "7F1F9B02FDB785980CDFF1BC5689C258"
+			}
+			"test1"
+			{
+				"gid" "4600FCF42FEC2C3E4B1AB00A43B3E4EB"
+				"size" "4CF432923FE4BF7A2EDD86C78BBD42D7"
+				"download" "C7C28D6680604AB73A93D81C0663D89E"
+			}
+		}
+	}
+	"2833040"
+	{
+		"dlcappid" "2833040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6391627613312579946"
+				"size" "26795760"
+				"download" "1223552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"milestone"
+			{
+				"gid" "BBD8D641147E758AEAE2DA641E8A510F"
+				"size" "3A19B43EBB21DC9D0D6B62254EF48BAA"
+				"download" "0DF76BA8B0259097B04E5276B6662AC2"
+			}
+			"bossteam"
+			{
+				"gid" "4A08FA7619AE15404DEA7E7900F0F34C"
+				"size" "A10CC5A76F477285381417164838BD70"
+				"download" "6B2C7B152FEE45773793815F43D598FA"
+			}
+			"compass"
+			{
+				"gid" "69A42B339AF41C1E900CF39B8A3AB1BB"
+				"size" "0613340EDE9FEFD5885EB9A8994BEC44"
+				"download" "82F090A9352126820F6046C009009C3B"
+			}
+			"development"
+			{
+				"gid" "1637191C487409B1B481717AEEA4FF42"
+				"size" "DFB054E51304F098DB7FEE394634BB3F"
+				"download" "1D0AD05FE21A92C71DF5396B14F54E96"
+			}
+			"final"
+			{
+				"gid" "50C46B5D549CBFDD3CD74B45EA1B7BA9"
+				"size" "7FCB6C5517DF269B50AAE2B4E1D0886A"
+				"download" "ACC820E733ABEB5BD1F955DEBAC5105B"
+			}
+			"h2interactive"
+			{
+				"gid" "8A85DE1C6CFE049AAB6BEB187F9184EF"
+				"size" "6FE08A08F5403E7121779CA45436A60C"
+				"download" "34A30FEC6D35FC6BBF07F8D3DCF5C8EB"
+			}
+			"h2interactive2"
+			{
+				"gid" "6B6B440BFDBB9ABE20659D4CAB5864CE"
+				"size" "F642D39AF75307AC33257C0DCF594D83"
+				"download" "341F70FB5C463F114F6D40872C83D14B"
+			}
+			"lionsgate"
+			{
+				"gid" "03F2D0305F81F11177ABFCF46C868D32"
+				"size" "FD2AAF11AEAD7B6E7D29608B6F3FD2CE"
+				"download" "9ABCF9212F7261E46A90CBDEC6835ADA"
+			}
+			"nighthawk"
+			{
+				"gid" "4C752A86E7ABF3F8AF4CED0546F80263"
+				"size" "76B78BBA307B3341AE4640A005628DF3"
+				"download" "1DA8D5C0A32A2B5B6377374AEE792FF7"
+			}
+			"patch"
+			{
+				"gid" "71BA003334BD0BF159A7B074179187C3"
+				"size" "0B553B4400E59CBFCAB02750B202E559"
+				"download" "3ECC3A50AC2EE819F007418610EB7B84"
+			}
+			"review"
+			{
+				"gid" "C0774CD310A91607EB9F0D23EE53BF75"
+				"size" "58CB7E3D82B467EBB3EAEA8B8E791F5B"
+				"download" "70660919C5C1F36FC586CDA5356A44C7"
+			}
+			"showdemo"
+			{
+				"gid" "3729437E8B238AA8AA341A13DF50714E"
+				"size" "A1B2A008E56FF3E128C50E1AD9AD056D"
+				"download" "31DEE9D25CFAB3B735F0513667BA5A3A"
+			}
+			"tbpr"
+			{
+				"gid" "19C336610256835652A1021E04A0A7F8"
+				"size" "CF8D0D3477790E99A0C4CF2721730D61"
+				"download" "CD9353B99A1E2FC9472BDDB0B23D87EA"
+			}
+			"test1"
+			{
+				"gid" "D07AD64A82C4B91B6A18B7AC2F5DE941"
+				"size" "93A83FA0698738D97874FE196D533D26"
+				"download" "141115827E071AEF757F21E5072418C1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16184248"
+			"timeupdated" "1730132630"
+		}
+		"arcsystem"
+		{
+			"buildid" "12615980"
+			"pwdrequired" "1"
+			"timeupdated" "1699046604"
+		}
+		"epic"
+		{
+			"buildid" "12616714"
+			"pwdrequired" "1"
+			"timeupdated" "1699054677"
+		}
+		"microsoft"
+		{
+			"buildid" "12618281"
+			"pwdrequired" "1"
+			"timeupdated" "1699079008"
+		}
+		"milestone"
+		{
+			"buildid" "14077914"
+			"pwdrequired" "1"
+			"timeupdated" "1713325017"
+		}
+		"production1a"
+		{
+			"buildid" "11415746"
+			"pwdrequired" "1"
+			"timeupdated" "1686154185"
+		}
+		"sony"
+		{
+			"buildid" "12035657"
+			"pwdrequired" "1"
+			"timeupdated" "1692994731"
+		}
+		"test2"
+		{
+			"buildid" "12221823"
+			"pwdrequired" "1"
+			"timeupdated" "1695097242"
+		}
+		"bossteam"
+		{
+			"buildid" "14981757"
+			"pwdrequired" "1"
+			"timeupdated" "1720560204"
+		}
+		"compass"
+		{
+			"buildid" "14152607"
+			"pwdrequired" "1"
+			"timeupdated" "1713917521"
+		}
+		"development"
+		{
+			"buildid" "15937846"
+			"pwdrequired" "1"
+			"timeupdated" "1728107886"
+		}
+		"final"
+		{
+			"buildid" "16397464"
+			"pwdrequired" "1"
+			"timeupdated" "1731531602"
+		}
+		"h2interactive"
+		{
+			"buildid" "15741410"
+			"pwdrequired" "1"
+			"timeupdated" "1727110565"
+		}
+		"h2interactive2"
+		{
+			"buildid" "15741410"
+			"pwdrequired" "1"
+			"timeupdated" "1727201534"
+		}
+		"lionsgate"
+		{
+			"buildid" "14525172"
+			"pwdrequired" "1"
+			"timeupdated" "1716934057"
+		}
+		"nighthawk"
+		{
+			"buildid" "14525809"
+			"pwdrequired" "1"
+			"timeupdated" "1716938626"
+		}
+		"patch"
+		{
+			"buildid" "15974476"
+			"pwdrequired" "1"
+			"timeupdated" "1728437697"
+		}
+		"review"
+		{
+			"buildid" "16399120"
+			"pwdrequired" "1"
+			"timeupdated" "1731543359"
+		}
+		"showdemo"
+		{
+			"buildid" "15386915"
+			"pwdrequired" "1"
+			"timeupdated" "1723757004"
+		}
+		"tbpr"
+		{
+			"buildid" "14526407"
+			"pwdrequired" "1"
+			"timeupdated" "1716943101"
+		}
+		"test1"
+		{
+			"buildid" "15923477"
+			"pwdrequired" "1"
+			"timeupdated" "1728002257"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WayForward Technologies/RetroRealms/_savedata"
+			"pattern" "save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26184104"
+"_sha" "a01cb2333432761d985f3ffdce6a9861c3c4d6a4"
+"_size" "22015"
