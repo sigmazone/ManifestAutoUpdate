@@ -1,0 +1,234 @@
+"appid" "1056050"
+"common"
+{
+	"name" "LONGING RING OF ESCA"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "61e096c8ca09e8139ff0568cdb22d786ea0e72a8"
+	"clienttga" "ccacf5f96eac50389f4a3c2885d27c0f4095cd4b"
+	"icon" "0cc53de42d887f608543ec29a00004f56fca6986"
+	"logo" "f56ad3697c7e7238b50a8a0326028c136d28401d"
+	"logo_small" "f56ad3697c7e7238b50a8a0326028c136d28401d_thumb"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "5"
+		"3" "4"
+	}
+	"restricted_countries" "CN,DE"
+	"metacritic_name" "LONGING RING OF ESCA"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.40210659067925"
+			"height_pct" "96.26323439296785"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.40210659067925"
+				"height_pct" "96.26323439296785"
+			}
+		}
+	}
+	"store_asset_mtime" "1711482390"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flower games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Flower games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WASABI entertainment"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1565858557"
+	"community_hub_visible" "1"
+	"gameid" "1056050"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "12095"
+		"2" "6650"
+		"3" "122"
+		"4" "7208"
+		"5" "4085"
+		"6" "5577"
+		"7" "9130"
+		"8" "4434"
+		"9" "4726"
+		"10" "24904"
+	}
+	"review_score" "5"
+	"review_percentage" "46"
+}
+"extended"
+{
+	"developer" "Flower games"
+	"publisher" "Flower games"
+}
+"config"
+{
+	"installdir" "LONGING RING OF ESCA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,japanese"
+	"1056051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3228224282912631938"
+				"size" "341260376"
+				"download" "322366512"
+			}
+		}
+	}
+	"1056052"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2511157752540398676"
+				"size" "338583161"
+				"download" "319674064"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4114114"
+			"timeupdated" "1674175927"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "*.rvdata2"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "*.rvdata"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25591087"
+"_sha" "684e1eb3f63cb3d60c7814609ca4831b696fd8e5"
+"_size" "3625"
