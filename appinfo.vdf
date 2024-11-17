@@ -1,0 +1,325 @@
+"appid" "1836420"
+"common"
+{
+	"name" "Monster Girl Invasion RPG"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"logo" "fe8781c1e2a92d77dceb0be2449351c598d2f004"
+	"logo_small" "fe8781c1e2a92d77dceb0be2449351c598d2f004_thumb"
+	"clienticon" "b37b341bed1b9dfd963fb15731b59823a4fc3de8"
+	"clienttga" "11c1f8b15b2f3c29cbe2e979f3f5941bf8ac553c"
+	"icon" "9f22293c4a461f45a50cf0104143d1833f1243a5"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681776000"
+		"tested_build_id" "10698948"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1643599861"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MGGEDev"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MGGEDev"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1647662326"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1836420"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "4434"
+		"2" "122"
+		"3" "9130"
+		"4" "4085"
+		"5" "6650"
+		"6" "10695"
+		"7" "493"
+		"8" "3871"
+		"9" "1684"
+		"10" "4325"
+		"11" "3916"
+		"12" "4182"
+		"13" "5577"
+	}
+	"review_score" "7"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "MGGEDev"
+	"publisher" "MGGEDev"
+	"homepage" "https://monstergirlinvasion.com"
+}
+"config"
+{
+	"installdir" "Monster Girl Invasion RPG"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"arguments" "--in-process-gpu"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Game.app"
+			"arguments" "--in-process-gpu"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1836421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1968628389723830930"
+				"size" "866773212"
+				"download" "613216544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtesting"
+			{
+				"gid" "9C4E7B163DED6C598C7AF361E3853B81"
+				"size" "DD8AB39C508CB873C48F09B20E7854C1"
+				"download" "E2ACF8D54BDB9C5A2958EEC667C087DA"
+			}
+			"patronbeta"
+			{
+				"gid" "60016EB2E6BC51B2D0EE967AC38473A7"
+				"size" "FE4983D4417093A4763735A772962EC8"
+				"download" "372BAB65C984DF529D4C2F1CA5288C0E"
+			}
+		}
+	}
+	"1836422"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7392483662734512968"
+				"size" "976997517"
+				"download" "645652624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtesting"
+			{
+				"gid" "E2A9D93842FF806F2037DBC63896A707"
+				"size" "F2F1EAC1036D5EF32F491B0F458CF10C"
+				"download" "FD6500D7C507553ABA062E3F1C7C96A8"
+			}
+			"patronbeta"
+			{
+				"gid" "D69101DB1BEFE16AE7C1049CAA627CE8"
+				"size" "18359918848958FC57A44292882E9E6C"
+				"download" "5374FE3C1AB10C07BE56AF58E26A618A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16033301"
+			"timeupdated" "1728893807"
+		}
+		"devtesting"
+		{
+			"buildid" "16033301"
+			"pwdrequired" "1"
+			"timeupdated" "1728893635"
+		}
+		"patronbeta"
+		{
+			"buildid" "16033301"
+			"pwdrequired" "1"
+			"timeupdated" "1728893870"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.rmmzsave"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25703358"
+"_sha" "11afa83bd8908a6c5592965f8489dc2d8e11b206"
+"_size" "5782"
