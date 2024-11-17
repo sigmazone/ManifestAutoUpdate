@@ -17,11 +17,68 @@
 		"japanese" "旧市場シミュレーター"
 		"koreana" "옛날 재래시장 시뮬레이터"
 	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
 	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729296000"
+		"tested_build_id" "15990093"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "764e8d315bb5781861b15a1393fbc18b0604ed0d/capsule_231x87.jpg"
+		"english" "ebfdacdd607ae888c6c237d2738f50b33e659afc/capsule_231x87.jpg"
 		"schinese" "75b700455e1cb81916ac3029037be1965a8e4556/capsule_231x87_schinese.jpg"
 		"tchinese" "ad0c375f6cbe30a4aa79ed6488402be735ab3435/capsule_231x87_tchinese.jpg"
 		"japanese" "f8279237f28790e0b0e2c1ec630e4e69200003aa/capsule_231x87_japanese.jpg"
@@ -132,7 +189,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728731899"
+	"store_asset_mtime" "1731626952"
 	"associations"
 	{
 		"0"
@@ -246,27 +303,27 @@
 	{
 		"0" "599"
 		"1" "10235"
-		"2" "12472"
-		"3" "3843"
+		"2" "3843"
+		"3" "12472"
 		"4" "9204"
 		"5" "8945"
 		"6" "3834"
 		"7" "3839"
 		"8" "4191"
-		"9" "4252"
-		"10" "22602"
+		"9" "22602"
+		"10" "4252"
 		"11" "4166"
 		"12" "4695"
-		"13" "4172"
-		"14" "1685"
-		"15" "3859"
+		"13" "1685"
+		"14" "3859"
+		"15" "4172"
 		"16" "6276"
 		"17" "3968"
 		"18" "4202"
 		"19" "4520"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -293,9 +350,18 @@
 		{
 			"public"
 			{
-				"gid" "6950889239279715100"
-				"size" "1048818570"
-				"download" "271785856"
+				"gid" "6631138771813268839"
+				"size" "1073078282"
+				"download" "277225360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta1"
+			{
+				"gid" "5788C36272DAF06322D58CD8458CB84E"
+				"size" "A9BE9B36EE0F4076830DFC15D9AA1BEE"
+				"download" "DAB465E97736E6EF376A61268BC39D5A"
 			}
 		}
 	}
@@ -303,8 +369,18 @@
 	{
 		"public"
 		{
-			"buildid" "15990093"
-			"timeupdated" "1728539147"
+			"buildid" "16431497"
+			"timeupdated" "1731772159"
+		}
+		"beta1"
+		{
+			"buildid" "16426171"
+			"pwdrequired" "1"
+			"timeupdated" "1731709033"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26227099"
+"_sha" "2408b2cf3938540ce41a7b396fbaf102135b7e4d"
+"_size" "7972"
