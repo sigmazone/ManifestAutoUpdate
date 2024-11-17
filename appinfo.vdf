@@ -97,6 +97,55 @@
 			"height_pct" "79.86165739861656"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.2809817190183"
+				"height_pct" "79.86165739861656"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1709763116"
 	"associations"
 	{
@@ -875,237 +924,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#playing" "Playing Battlefront Classic Collection"
-				"#inmenus" "In Menus"
-				"#galacticconquest" "Playing Galactic Conquest"
-				"#campaign" "Playing {#Campaign_%campaign%}"
-				"#inaction" "Playing Instant Action"
-				"#campaign_custom" "Custom Campaign"
-				"#campaign_cw" "Clone Wars Campaign"
-				"#campaign_gcw" "Galactic Civil War Campaign"
-				"#campaign_rote" "Rise of the Empire"
-				"#mission_custom" "Custom mission"
-				"#mission_nab1c_h" "The Battle of Naboo"
-				"#mission_nab2c_h" "Rebellion in Theed"
-				"#mission_kas1c_h" "Aggressive Negotiations"
-				"#mission_geo1r_h" "The Battle of Geonosis"
-				"#mission_kam1c_h" "Assault on Kamino"
-				"#mission_rhn1r_h" "Mountaintop Defenses"
-				"#mission_kas2c_h" "The Battle of Kashyyyk"
-				"#mission_tat1i_h" "Desert Extermination"
-				"#mission_tat2i_h" "Siege of Mos Eisley"
-				"#mission_rhn2a_h" "Sabotage at Rhen Var"
-				"#mission_yav2i_h" "Assault on Yavin 4"
-				"#mission_yav1i_h" "The Fall of Yavin 4"
-				"#mission_hot1i_h" "The Battle of Hoth"
-				"#mission_bes2a_h" "Liberation of Cloud City"
-				"#mission_bes1a_h" "Battle in the Clouds"
-				"#mission_end1a_h" "The Battle of Endor"
-				"#mission_geo1c_c" "Attack of the Clones"
-				"#mission_myg1c_c" "Amongst the Ruins"
-				"#mission_spa2c_c" "A Desperate Rescue"
-				"#mission_fel1c_c" "Heart of Darkness"
-				"#mission_spa3c_c" "First Line of Defence"
-				"#mission_kas2c_c" "A Line in the Sand"
-				"#mission_uta1c_c" "Underground Ambush"
-				"#mission_cor1c_c" "Operation: Knightfall"
-				"#mission_nab2g_c" "Imperial Diplomacy"
-				"#mission_spa4g_c" "Preventive Measures"
-				"#mission_mus1c_c" "Tying up Loose Ends"
-				"#mission_kam1c_c" "Changing of The Guard"
-				"#mission_dea1g_c" "Prison Break"
-				"#mission_pol1g_c" "Birth of the Rebellion"
-				"#mission_tan1g_c" "Recovering the Plans"
-				"#mission_spa1g_c" "Vader\'s Fist Strikes Back"
-				"#mission_yav1g_c" "Revenge of the Empire"
-				"#mission_hot1g_c" "Our Finest Hour"
-				"#planet_custom" "Custom planet"
-				"#planet_bes" "Bespin"
-				"#planet_end" "Endor"
-				"#planet_geo" "Geonosis"
-				"#planet_hot" "Hoth"
-				"#planet_kam" "Kamino"
-				"#planet_kas" "Kashyyyk"
-				"#planet_nab" "Naboo"
-				"#planet_rhn" "Rhen Var"
-				"#planet_tat" "Tatooine"
-				"#planet_yav" "Yavin 4"
-				"#planet_cor" "Coruscant"
-				"#planet_dag" "Dagobah"
-				"#planet_dea" "Death Star"
-				"#planet_fel" "Felucia"
-				"#planet_mus" "Mustafar"
-				"#planet_myg" "Mygeeto"
-				"#planet_pol" "Polis Massa"
-				"#planet_tan" "Tantive IV"
-				"#planet_uta" "Utapau"
-				"#planet_spa" "Space"
-				"#map_bf1_custom" "Custom map"
-				"#map_bf1_bes1" "{#Planet_bes}: Platforms"
-				"#map_bf1_bes2" "{#Planet_bes}: Cloud City"
-				"#map_bf1_end1" "{#Planet_end}: Bunker"
-				"#map_bf1_geo1" "{#Planet_geo}: Spire"
-				"#map_bf1_hot1" "{#Planet_hot}: Echo Base"
-				"#map_bf1_kam1" "{#Planet_kam}: Tipoca"
-				"#map_bf1_kas1" "{#Planet_kas}: Islands"
-				"#map_bf1_kas2" "{#Planet_kas}: Docks"
-				"#map_bf1_nab1" "{#Planet_nab}: Plains"
-				"#map_bf1_nab2" "{#Planet_nab}: Theed"
-				"#map_bf1_rhn1" "{#Planet_rhn}: Harbour"
-				"#map_bf1_rhn2" "{#Planet_rhn}: Citadel"
-				"#map_bf1_tat1" "{#Planet_tat}: Dune Sea"
-				"#map_bf1_tat2" "{#Planet_tat}: Mos Eisley"
-				"#map_bf1_tat3" "{#Planet_tat}: Jabba\'s Palace"
-				"#map_bf1_yav1" "{#Planet_yav}: Temple"
-				"#map_bf1_yav2" "{#Planet_yav}: Arena"
-				"#map_bf2_custom" "{#Map_bf1_custom}"
-				"#map_bf2_bes2" "{#Map_bf1_bes2}"
-				"#map_bf2_cor1" "{#Planet_cor}: Jedi Temple"
-				"#map_bf2_dag1" "{#Planet_dag}: Swamp"
-				"#map_bf2_dea1" "{#Planet_dea}: Interior"
-				"#map_bf2_end1" "{#Map_bf1_end1}"
-				"#map_bf2_fel1" "{#Planet_fel}: Marshland"
-				"#map_bf2_geo1" "{#Planet_geo}: Dust Plains"
-				"#map_bf2_hot1" "{#Map_bf1_hot1}"
-				"#map_bf2_kam1" "{#Planet_kam}: Cloning Facility"
-				"#map_bf2_kas2" "{#Planet_kas}: Beachhead"
-				"#map_bf2_mus1" "{#Planet_mus}: Refinery"
-				"#map_bf2_myg1" "{#Planet_myg}: War-Torn City"
-				"#map_bf2_nab2" "{#Map_bf1_nab2}"
-				"#map_bf2_pol1" "{#Planet_pol}: Medical Facility"
-				"#map_bf2_tan1" "{#Planet_tan}: Interior"
-				"#map_bf2_tat2" "{#Map_bf1_tat2}"
-				"#map_bf2_tat3" "{#Map_bf1_tat3}"
-				"#map_bf2_uta1" "{#Planet_uta}: Sinkhole"
-				"#map_bf2_yav1" "{#Map_bf1_yav1}"
-				"#map_bf2_yav2" "{#Map_bf1_yav2}"
-				"#map_bf2_spa1" "{#Planet_spa} {#Planet_yav}"
-				"#map_bf2_spa2" "{#Planet_spa} {#Planet_cor}"
-				"#map_bf2_spa3" "{#Planet_spa} {#Planet_kas}"
-				"#map_bf2_spa4" "{#Planet_spa} {#Planet_mus}"
-				"#map_bf2_spa6" "{#Planet_spa} {#Planet_myg}"
-				"#map_bf2_spa7" "{#Planet_spa} {#Planet_fel}"
-				"#map_bf2_spa8" "{#Planet_spa} {#Planet_hot}"
-				"#map_bf2_spa9" "{#Planet_spa} {#Planet_nab}"
-				"#mode_custom" "Custom mode"
-				"#mode_galcon" "Galactic Conquest"
-				"#mode_con" "Conquest"
-				"#mode_ass" "Assault"
-				"#mode_eli" "Hero Assault"
-				"#mode_ctf" "Capture The Flag"
-				"#mode_1flag" "{#Mode_ctf}"
-				"#mode_hunt" "Hunt"
-				"#mode_xl" "XL"
-				"#mode_uber" "Uber"
-				"#faction_custom" "Custom faction"
-				"#faction_republic" "Republic"
-				"#faction_cis" "CIS"
-				"#faction_rebels" "Rebels"
-				"#faction_empire" "Empire"
-				"#faction_heroes" "Heroes"
-				"#faction_villains" "Villains"
-				"#faction_ewoks" "Ewoks"
-				"#faction_geonosians" "Geonosians"
-				"#faction_wampas" "Wampas"
-				"#faction_wookiees" "Wookiees"
-				"#faction_gungan" "Gungan"
-				"#faction_jawas" "Jawas"
-				"#faction_tusken" "Tusken"
-				"#faction_acklays" "Acklays"
-				"#faction_gammoreans" "Gammoreans"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#playing" "Joue à Battlefront Classic Collection"
-				"#inmenus" "Dans les menus"
-				"#galacticconquest" "Joue à Assaut galactique"
-				"#campaign" "Joue à {#Campaign_%campaign%}"
-				"#inaction" "Joue à Action Instantanée"
-				"#campaign_cw" "la campagne Guerre des clones"
-				"#campaign_gcw" "la campagne Guerre civile galactique"
-				"#campaign_rote" "Rise of the Empire"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#playing" "Gioca Battlefront Classic Collection"
-				"#inmenus" "Nei menu"
-				"#galacticconquest" "Gioca Conquista galattica"
-				"#campaign" "Gioca {#Campaign_%campaign%}"
-				"#inaction" "Gioca Azione istantanea"
-				"#campaign_cw" "la campagna Guerre dei cloni"
-				"#campaign_gcw" "la campagna Guerra civile galattica"
-				"#campaign_rote" "Ascesa dell\'Impero"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#playing" "Spielt Battlefront Classic Collection"
-				"#inmenus" "In Menüs"
-				"#galacticconquest" "Spielt Galactic Conquest"
-				"#campaign" "Spielt {#Campaign_%campaign%}"
-				"#inaction" "Spielt Instant Action"
-				"#campaign_cw" "die Klonkriegs-Kampagne"
-				"#campaign_gcw" "die Galaktische Bürgerkriegskampagne"
-				"#campaign_rote" "Rise of the Empire"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#playing" "Jugando a Battlefront Classic Collection"
-				"#inmenus" "En los menús"
-				"#galacticconquest" "Jugando a Asalto Galáctico"
-				"#campaign" "Jugando a {#Campaign_%campaign%}"
-				"#inaction" "Jugando a Acción Instantánea"
-				"#campaign_cw" "la campaña Guerras Clon"
-				"#campaign_gcw" "la campaña Guerra Civil Galáctica"
-				"#campaign_rote" "El Auge del Imperio"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#playing" "Играет в Battlefront Classic Collection"
-				"#inmenus" "В меню"
-				"#galacticconquest" "Играет в режим «Захват галактики»"
-				"#campaign" "Играет в {#Campaign_%campaign%}"
-				"#inaction" "Играет в режим «Сразу В Бой»"
-				"#campaign_cw" "кампанию «Войны клонов»"
-				"#campaign_gcw" "кампанию «Галактическая гражданская война»"
-				"#campaign_rote" "режим «Восхождение Империи»"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#playing" "正在游玩前线经典集合"
-				"#inmenus" "位于菜单"
-				"#galacticconquest" "正在游玩征战银河"
-				"#campaign" "正在游玩{#Campaign_%campaign%}"
-				"#inaction" "正在游玩即时行动"
-				"#campaign_cw" "克隆人战争战役"
-				"#campaign_gcw" "银河内战战役"
-				"#campaign_rote" "帝国崛起"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "02492d58b634b3bfe0a18fef49489e8df4f5a065"
+"_size" "19159"
