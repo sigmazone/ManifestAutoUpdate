@@ -1,0 +1,521 @@
+"appid" "685240"
+"common"
+{
+	"name" "Paradiddle"
+	"type" "Game"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "576bcc24b290c05eddeeec5fee55d5a678431b83"
+	"clienttga" "a14d2a124bf6d2ed917f9efcd3a23dfac7b9e4a3"
+	"icon" "c609e04c2d235e313b8ce1dd85e64ec6bb1b0963"
+	"logo" "6493d0b976074747fbf20541d7cfc9f54bde3088"
+	"logo_small" "6493d0b976074747fbf20541d7cfc9f54bde3088_thumb"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"metacritic_name" "Paradiddle"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.415303433961036"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "57.415303433961036"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1715396909"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Emre Tanirgan"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Emre Tanirgan"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_52" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1667374187"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "685240"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "1621"
+		"2" "1752"
+		"3" "1027"
+		"4" "599"
+		"5" "4711"
+		"6" "1036"
+		"7" "87"
+		"8" "492"
+		"9" "597"
+		"10" "3810"
+		"11" "493"
+		"12" "4182"
+		"13" "9204"
+		"14" "3934"
+		"15" "4175"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Emre Tanirgan"
+	"publisher" "Emre Tanirgan"
+	"homepage" "http://paradiddleapp.com"
+	"listofdlc" "3134110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Paradiddle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Paradiddle.exe"
+			"type" "vr"
+		}
+		"2"
+		{
+			"executable" "Paradiddle.exe"
+			"type" "othervr"
+		}
+		"3"
+		{
+			"executable" "Paradiddle.exe"
+			"arguments" "-hmd=SteamVR"
+			"description" "Paradiddle in Forced OpenVR"
+			"type" "vr"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "685240"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"685241"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5321475941554322462"
+				"size" "2104649508"
+				"download" "1844643216"
+			}
+			"pre-v1"
+			{
+				"gid" "1199194038194020389"
+				"size" "1538281729"
+				"download" "1401937088"
+			}
+			"prev_version"
+			{
+				"gid" "3220905495098627522"
+				"size" "2066575316"
+				"download" "1806720656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alex_test"
+			{
+				"gid" "D7ACD18D34A874E28CA02B089D482D40"
+				"size" "2375B326BB764D3555736748122D39E6"
+				"download" "0F1BD53F1487E9AE649B17592904FBAE"
+			}
+			"audiodebug"
+			{
+				"gid" "97114CC089C25F19FAB40FC79B4093CE"
+				"size" "9B459D44E4AE2DE2C335BB3C859EBB00"
+				"download" "3F9AFA814107F99B0A11811F925D9B1C"
+			}
+			"debugchannel02"
+			{
+				"gid" "A30625F3AE47CD8B8F314E55F8DA5EDB"
+				"size" "8049CDF98FB8AF20B61FA7A4E4B86732"
+				"download" "44CD62806BB782E45E2077F782F4E3FD"
+			}
+			"dev_testing"
+			{
+				"gid" "5C94979078C4BB8CDB095727CFDACEB8"
+				"size" "827AF9D989FB91E5EA78C4787486B0C4"
+				"download" "943EA4076B5DED4AA5FC02A06B2F9137"
+			}
+			"perftesting-devbuild"
+			{
+				"gid" "A849B7B7FE4F7B9D9387806E9D1D6586"
+				"size" "A0D57E26601F38560F04E11171F37080"
+				"download" "7F8AA0DF4954A21BD575122C6BAE9C4A"
+			}
+			"perftesting-shipbuild"
+			{
+				"gid" "4605E6E0B778E2BA33B2046C3AFCF9D2"
+				"size" "C9A24E46580698FE08905F328249C37E"
+				"download" "C4F916B13CA6A7565881CFD097824C55"
+			}
+			"perftesting-testbuild"
+			{
+				"gid" "50C63E842431D68C077E1DC304DCBEA6"
+				"size" "FF9E280FA20CF9CD0065741EE75DAF3A"
+				"download" "C15FDEE88B4DD6F9F2260314C4A5A60E"
+			}
+			"quest_store_alpha"
+			{
+				"gid" "11E33C63271FE0C4F8B463E9AAFE3912"
+				"size" "138B9C605656734A1559411C24D1FA56"
+				"download" "4EAB7AD46B916EF65187637EB49C218B"
+			}
+			"quest_store_preview"
+			{
+				"gid" "04650E8F710866F80C7CF84C24C801B8"
+				"size" "6EFDBB8669EC888262FAEA539804EAD6"
+				"download" "F30027C956453B4E3C3E8546219B407F"
+			}
+			"queststorepreview"
+			{
+				"gid" "5ECAE4FB2BCAAC39C8803385E15F59F4"
+				"size" "03A8F8B3E5B40360ADFC355D3E5B0D59"
+				"download" "6ACD2F14D09DF087C12A981748D226B2"
+			}
+			"thumbsticktest"
+			{
+				"gid" "207A9644681FFC7B0F9C05FDB544A45F"
+				"size" "2ADC8E3A251958DBFA6A9E83BD2B03D5"
+				"download" "0D954B26E2C8B15DD1086DF7AED6157E"
+			}
+			"2dmode"
+			{
+				"gid" "59771DCFAFE597DB824E5FF59666047B"
+				"size" "70AEF247DBCFF4FF092266097659237F"
+				"download" "C015EAB4EA1D4FFC468659DF1714078F"
+			}
+			"publishreadybackup"
+			{
+				"gid" "6C3FA17F80188FB2968049C25F445BA9"
+				"size" "C74FD6B84E009A07577F31126F7EFA70"
+				"download" "23823A3036B70BCE30C93E20F07F9569"
+			}
+			"steamvrdebugging"
+			{
+				"gid" "614C36F7668620A32F8C7E57B2F1B791"
+				"size" "FFD541B22E5D6DA8F93071E5A9BDBAD5"
+				"download" "C225AF5E7EDBD45C3406D54B35240F86"
+			}
+		}
+	}
+	"2854960"
+	{
+		"dlcappid" "2854960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "205865514031993597"
+				"size" "312389913"
+				"download" "309550656"
+			}
+			"prev_version"
+			{
+				"gid" "205865514031993597"
+				"size" "312389913"
+				"download" "309550656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugchannel02"
+			{
+				"gid" "D6AF81A3EBB2C7F7913212AFB4962378"
+				"size" "B613C97740DBCF6361B2CFF6782994CF"
+				"download" "ADA8A94FE0A0965560C0E667DF03EC1C"
+			}
+			"dev_testing"
+			{
+				"gid" "B26A372DBB464B579F3F985783AA308C"
+				"size" "9EC40FEF56C335B2BBB38BBA91E0949B"
+				"download" "1B4F2184CBA55391D7AEFE66EB7B7399"
+			}
+			"quest_store_alpha"
+			{
+				"gid" "8A8331FA909C9864505545EF4F3E159B"
+				"size" "EE8907BDD8E8B7B521013250D600307C"
+				"download" "5A5F07F5387F85BCD040F4F62C8177E3"
+			}
+			"publishreadybackup"
+			{
+				"gid" "D50D2910311FFB11AAA30A55914B6E43"
+				"size" "5F91735F7F324F0CFC89C4FFCFEF94B7"
+				"download" "3B9BDCD9DF8E1DA6CB8E36251C1C9AEC"
+			}
+			"steamvrdebugging"
+			{
+				"gid" "0D0E0552667EFC6C686F9EE4CE2B7171"
+				"size" "E31707674C4C47F97ED2CEDFBA2707B1"
+				"download" "E31707674C4C47F97ED2CEDFBA2707B1"
+			}
+		}
+	}
+	"3134110"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6479802668892895696"
+				"size" "468165427"
+				"download" "469616768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publishreadybackup"
+			{
+				"gid" "74C3E9B7D9B96D808DB22CD12DCB4707"
+				"size" "104360278242B475C83453FAE9F48E46"
+				"download" "E6FEC5BDB932E0AE171B82132418ECBF"
+			}
+			"steamvrdebugging"
+			{
+				"gid" "3A8B719A70540D62AAD7CA3406C82E1C"
+				"size" "19A5C38FED3C76943D9C9F7C96099D7C"
+				"download" "D0AE51E2B72A1A407BC592A5582380ED"
+			}
+		}
+		"dlcappid" "3134110"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15296179"
+			"timeupdated" "1723075994"
+		}
+		"alex_test"
+		{
+			"buildid" "7081652"
+			"pwdrequired" "1"
+			"timeupdated" "1682708908"
+		}
+		"audiodebug"
+		{
+			"buildid" "13039437"
+			"pwdrequired" "1"
+			"timeupdated" "1703413441"
+		}
+		"debugchannel02"
+		{
+			"buildid" "13952355"
+			"pwdrequired" "1"
+			"timeupdated" "1712251859"
+		}
+		"dev_testing"
+		{
+			"buildid" "13564514"
+			"pwdrequired" "1"
+			"timeupdated" "1708953363"
+		}
+		"perftesting-devbuild"
+		{
+			"buildid" "11158726"
+			"pwdrequired" "1"
+			"timeupdated" "1683235460"
+		}
+		"perftesting-shipbuild"
+		{
+			"buildid" "11158777"
+			"pwdrequired" "1"
+			"timeupdated" "1683235867"
+		}
+		"perftesting-testbuild"
+		{
+			"buildid" "11158750"
+			"pwdrequired" "1"
+			"timeupdated" "1683235694"
+		}
+		"pre-v1"
+		{
+			"buildid" "8594234"
+			"description" "Reverts the app back to the 2 year old version before V1. For testing purposes."
+			"timeupdated" "1668137727"
+		}
+		"quest_store_alpha"
+		{
+			"buildid" "13647650"
+			"pwdrequired" "1"
+			"timeupdated" "1709656428"
+		}
+		"quest_store_preview"
+		{
+			"buildid" "12643084"
+			"pwdrequired" "1"
+			"timeupdated" "1699382844"
+		}
+		"queststorepreview"
+		{
+			"buildid" "12643084"
+			"pwdrequired" "1"
+			"timeupdated" "1699427228"
+		}
+		"thumbsticktest"
+		{
+			"buildid" "14028097"
+			"pwdrequired" "1"
+			"timeupdated" "1712875855"
+		}
+		"2dmode"
+		{
+			"buildid" "14234719"
+			"pwdrequired" "1"
+			"timeupdated" "1714584202"
+		}
+		"prev_version"
+		{
+			"buildid" "14420399"
+			"description" "Roll back to the previous version."
+			"timeupdated" "1723505520"
+		}
+		"publishreadybackup"
+		{
+			"buildid" "15296179"
+			"pwdrequired" "1"
+			"timeupdated" "1723067779"
+		}
+		"steamvrdebugging"
+		{
+			"buildid" "16383236"
+			"pwdrequired" "1"
+			"timeupdated" "1731441632"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000000"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "26163541"
+"_sha" "dd223c410dfa2523f2fecba0720fd33e69e18362"
+"_size" "10433"
