@@ -1,0 +1,262 @@
+"appid" "2660250"
+"common"
+{
+	"name" "49 Keys"
+	"type" "Game"
+	"clienticon" "91c15c72479ed57a28e9a9ebbd20f16ea6e96708"
+	"clienttga" "37e29e690fcf59ea392cb8cf229fdd9c38151891"
+	"languages"
+	{
+		"english" "1"
+		"italian" "1"
+		"schinese" "1"
+	}
+	"icon" "edfc1d7b6879de2b040940b8cdcf4a3965bfc53e"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "四十九把钥匙"
+		"tchinese" "四十九把鑰匙"
+	}
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "81.54831199068686"
+			"height_pct" "68.23708122104627"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "81.54831199068686"
+				"height_pct" "68.23708122104627"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731553784"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Michele Buonanno"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Veronica Wu"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Fabio Porfidia"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "2P Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "2P Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731549592"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2660250"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "7432"
+		"2" "3952"
+		"3" "1664"
+		"4" "4604"
+		"5" "11014"
+		"6" "5716"
+		"7" "3834"
+		"8" "3799"
+		"9" "1698"
+		"10" "3871"
+		"11" "31275"
+		"12" "3987"
+		"13" "1667"
+		"14" "3854"
+		"15" "1710"
+		"16" "1742"
+		"17" "5094"
+		"18" "1714"
+		"19" "4172"
+	}
+	"review_score" "7"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Michele Buonanno"
+	"publisher" "2P Games"
+}
+"config"
+{
+	"installdir" "49 Keys"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "49 Keys.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2660251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7157035396773699552"
+				"size" "367563333"
+				"download" "143581792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16431530"
+			"timeupdated" "1731772732"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "2P Games/49 Keys/WADS"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26229684"
+"_sha" "242c8116a5f414d6a80457225115cea1d3d75860"
+"_size" "4060"
