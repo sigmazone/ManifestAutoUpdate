@@ -1,0 +1,386 @@
+"appid" "1530450"
+"common"
+{
+	"name" "Scramble: Battle of Britain"
+	"type" "Game"
+	"logo" "21246ee907fc1b1e07624f9d3b0b50915c7dfb31"
+	"logo_small" "21246ee907fc1b1e07624f9d3b0b50915c7dfb31_thumb"
+	"icon" "80db9c2302e1bcf91712471218e591b0f7b70345"
+	"clienticon" "1bb9adbe024499181f5b3423093e59f120e10c04"
+	"clienttga" "34036a506da32921957eca1d75933a06b227b87d"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1530450_eula_0"
+			"name" "Scramble: Battle of Britain EULA"
+			"url" "https://store.steampowered.com//eula/1530450_eula_0"
+			"version" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "e24b2f9104f4452577c9fff1c5820b24f4df896d/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.935483870967772"
+			"height_pct" "54.513888888888886"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "3fc1b6a5810ad6f33738b93e7fda00b4fa785cbc/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "3fc1b6a5810ad6f33738b93e7fda00b4fa785cbc/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "3d24df8509291386c11fed9fb1c24c187d8b17e8/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "3d24df8509291386c11fed9fb1c24c187d8b17e8/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "3d24df8509291386c11fed9fb1c24c187d8b17e8/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "f5d2a9ca2bcc6db80906c3ae4698d83f69bd9453/logo.png"
+			}
+			"image2x"
+			{
+				"english" "f5d2a9ca2bcc6db80906c3ae4698d83f69bd9453/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.935483870967772"
+				"height_pct" "54.513888888888886"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "5fe65218ff61eaf2f7801a611c4acab6f12a136e/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "5fe65218ff61eaf2f7801a611c4acab6f12a136e/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730367705"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slitherine Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730289361"
+	"community_hub_visible" "1"
+	"gameid" "1530450"
+	"store_tags"
+	{
+		"0" "15045"
+		"1" "1708"
+		"2" "4325"
+		"3" "1775"
+		"4" "9"
+		"5" "4150"
+		"6" "3859"
+		"7" "14139"
+		"8" "4191"
+		"9" "1741"
+		"10" "4175"
+		"11" "1678"
+		"12" "3993"
+		"13" "7481"
+		"14" "5711"
+		"15" "1685"
+		"16" "4182"
+		"17" "3843"
+		"18" "493"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Slitherine Ltd."
+	"publisher" "Slitherine Ltd."
+}
+"config"
+{
+	"installdir" "Scramble - Battle of Britain"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1530451"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3189334500897660550"
+				"size" "2649505423"
+				"download" "832289392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "6C9B784A71D1D9F416D773BFA13117BB"
+				"size" "CC6734247CBB3C087C3CFF034E16A9E7"
+				"download" "B064B9E486CE6F855CD37762FCFAD291"
+			}
+			"closedbeta"
+			{
+				"gid" "CD96C12E4D3DD583C2AF04B494FD2435"
+				"size" "51687C6A80A64883326DEA251C060722"
+				"download" "B1F435EB98E7091AD2537F0F66D526A3"
+			}
+			"devtest"
+			{
+				"gid" "C63BE9027EBBD8A3E658947FA3262AC0"
+				"size" "FD71F19996E4EEF933728262BA5CB635"
+				"download" "1186E2D76F4F207EFFAFB6A8DCB38EA2"
+			}
+			"external"
+			{
+				"gid" "FC498718B39C09FFE3756A75AF30CC17"
+				"size" "53ADEDF215BDAFA545D6CA99DD8C1FCA"
+				"download" "606DD4FAC6C6DCF635D9154047658B63"
+			}
+			"marketing_team"
+			{
+				"gid" "03E9D31338029197DFEA4E90A0D9DC7F"
+				"size" "A5ABDABB18B1476AF253943F81B56A52"
+				"download" "71D0AA0420E1AFAB5A174101773EF5F0"
+			}
+			"playtest"
+			{
+				"gid" "5F596EE5D18A9DB1396F1670DA66A35D"
+				"size" "3F70A0396B8F23A87D7D45E03717B58B"
+				"download" "FC365172AA208CA93E59B0BD13F92A84"
+			}
+			"unstable"
+			{
+				"gid" "9033060FB5F2E541A7133CC75A2A3056"
+				"size" "F03068B5A7823C39E5E0648387D3B3BD"
+				"download" "27040E7C53118C4CBE10F3BC5DFB205D"
+			}
+		}
+	}
+	"1530452"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3921609262937754880"
+				"size" "3159764"
+				"download" "1146880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "568FD0719AD10AD5A35AE9F3F570D032"
+				"size" "028CDFE2342AE68B90C0DBD819227AC7"
+				"download" "CA7D340D15262C801188F1EBEBE21524"
+			}
+			"closedbeta"
+			{
+				"gid" "8F3B9E2C2646C70CCD4D1E10BBB24412"
+				"size" "647A3BF9D6159E0B7AA887DAA5E8C7FF"
+				"download" "A2C9CA2D7EEBB133658E8502A246954F"
+			}
+			"devtest"
+			{
+				"gid" "C6D17F52B1ED9083A2789D15DBD8BEF6"
+				"size" "B5CBDD642910B20E7DA326709F861D17"
+				"download" "1B08BF33E2913236B345DFFA9B6C8866"
+			}
+			"external"
+			{
+				"gid" "B6C0C651756FF722680FACAA9B9B9B47"
+				"size" "4D9A353965F6DA7867F69EE5D8C3637F"
+				"download" "255966BE8BBE30727AAD190D43C86963"
+			}
+			"marketing_team"
+			{
+				"gid" "D22B4B9A956B45A684C88573B61AF1C9"
+				"size" "67E8A2571146523D672BE69CB703EC0A"
+				"download" "007515CB924C199C2AE13A76858FC1A1"
+			}
+			"playtest"
+			{
+				"gid" "22AC4AFF8D2C267935AEAF13A4A11469"
+				"size" "16CB773087A7706EED2BE6DAC87DD8B6"
+				"download" "9FD1365A3FD2F41C0301978FBE2E2C13"
+			}
+			"unstable"
+			{
+				"gid" "69BA6B57FEA4BA07D593D6BF77E9CC01"
+				"size" "FCD73CCEDC0008616DDE4AF8243A9157"
+				"download" "9CDBF605F9A1EDCEB9BFFDABB21386D1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16239424"
+			"timeupdated" "1730306652"
+		}
+		"press"
+		{
+			"buildid" "14707207"
+			"pwdrequired" "1"
+			"timeupdated" "1719309341"
+		}
+		"closedbeta"
+		{
+			"buildid" "14241785"
+			"pwdrequired" "1"
+			"timeupdated" "1714664574"
+		}
+		"devtest"
+		{
+			"buildid" "16239424"
+			"pwdrequired" "1"
+			"timeupdated" "1730304363"
+		}
+		"external"
+		{
+			"buildid" "14241785"
+			"pwdrequired" "1"
+			"timeupdated" "1715266506"
+		}
+		"marketing_team"
+		{
+			"buildid" "16239424"
+			"pwdrequired" "1"
+			"timeupdated" "1730306519"
+		}
+		"playtest"
+		{
+			"buildid" "12827420"
+			"pwdrequired" "1"
+			"timeupdated" "1705017764"
+		}
+		"unstable"
+		{
+			"buildid" "16238689"
+			"pwdrequired" "1"
+			"timeupdated" "1730300945"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Slitherine/ScrambleBattleOfBritain"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26216580"
+"_sha" "a2ec73d430b0612f7ea0a5aa357345972c9e299d"
+"_size" "7690"
