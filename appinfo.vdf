@@ -1,0 +1,308 @@
+"appid" "2328540"
+"common"
+{
+	"name" "Incantation"
+	"type" "Game"
+	"name_localized"
+	{
+		"english" "Incantation"
+		"tchinese" "咒"
+		"schinese" "咒"
+		"japanese" "呪詛"
+		"thai" "มนตรา"
+		"koreana" "주"
+		"german" "Incantation"
+		"spanish" "Maleficio"
+		"russian" "Заклинание"
+		"brazilian" "Marcas da Maldição"
+		"polish" "Powrót klątwy"
+		"vietnamese" "Chú Nguyền"
+		"turkish" "Lanetli Sembol"
+		"romanian" "Incantație"
+		"french" "Incantation"
+		"italian" "Incantation"
+		"danish" "Incantation"
+		"dutch" "Incantation"
+		"norwegian" "Incantation"
+		"portuguese" "Marcas da Maldição"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "2fc5728099e42327eb575d31ac586afa3a9ca331"
+	"clienticon" "52f114211b9200bcd19e0d04694087f920047458"
+	"clienttga" "6472334d4d4942e4077c34c3edad3b7dc676bb00"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.2326524728159"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.2326524728159"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731900627"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SOFTSTAR ENTERTAINMENT"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SOFTSTAR ENTERTAINMENT"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731902029"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2328540"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "3839"
+		"2" "1667"
+		"3" "4106"
+		"4" "1721"
+		"5" "4191"
+		"6" "4182"
+		"7" "1742"
+		"8" "4064"
+		"9" "21"
+		"10" "7208"
+		"11" "5716"
+		"12" "19"
+		"13" "4667"
+		"14" "4345"
+		"15" "3859"
+		"16" "122"
+		"17" "4947"
+		"18" "4726"
+		"19" "1664"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "SOFTSTAR ENTERTAINMENT"
+	"publisher" "SOFTSTAR ENTERTAINMENT"
+	"homepage" "https://incantation.softstar.com.tw/"
+}
+"config"
+{
+	"installdir" "Incantation"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Incantation\\Binaries\\Win64\\Incantation-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2328541"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2485183427522193382"
+				"size" "4942090709"
+				"download" "4663472288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"lqa_branch"
+			{
+				"gid" "7BBA886D5AA182E5EB811B5F76467014"
+				"size" "D00F640DBEB6505167F5FE176799650D"
+				"download" "43C8C7CCC6E33393FC067404663D54DE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16419450"
+			"timeupdated" "1731670730"
+		}
+		"lqa_branch"
+		{
+			"buildid" "16176951"
+			"pwdrequired" "1"
+			"timeupdated" "1729842218"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Incantation/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26243312"
+"_sha" "65f28c71df13a42614b658262d35cb96cce73403"
+"_size" "5053"
