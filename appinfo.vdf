@@ -1,0 +1,437 @@
+"appid" "2510960"
+"common"
+{
+	"name" "Temtem: Swarm"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "2c0b326df6259d4410001caf9cdd03a7d812e3aa"
+	"clienttga" "27b38acfe4031995c01cfbe3852282b7eeb069e4"
+	"icon" "3596f0d8a892dafb3814cb8011411c9aacf4efee"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2510960_eula_0"
+			"name" "Temtem: Swarm EULA"
+			"url" "https://store.steampowered.com//eula/2510960_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1731369600"
+		"tested_build_id" "16176922"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "fa23b88cb733238327dc75acd4dcd381cc925d0e/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731516291"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crema"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "GGTech Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Crema"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Temtem"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_43" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1731517209"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2510960/announcements/detail/4467101633890746859"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2510960"
+	"store_tags"
+	{
+		"0" "1773"
+		"1" "4231"
+		"2" "4885"
+		"3" "42804"
+		"4" "3843"
+		"5" "3959"
+		"6" "122"
+		"7" "1716"
+		"8" "5851"
+		"9" "19"
+		"10" "4305"
+		"11" "5154"
+		"12" "4726"
+		"13" "4191"
+		"14" "1646"
+		"15" "4791"
+		"16" "597"
+		"17" "4182"
+		"18" "1685"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Crema"
+	"publisher" "Crema"
+	"homepage" "https://crema.gg/games/temtem-swarm/"
+}
+"config"
+{
+	"installdir" "TemtemSwarm"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TemtemSwarm.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1989609467"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,daily,internal"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2510961"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4477915956073850083"
+				"size" "7944409068"
+				"download" "1629529504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"daily"
+			{
+				"gid" "6FAF8B8A06BC2E90283403B48216FC33"
+				"size" "6B65F682DE46F4CE2D8A64929C6D6CB2"
+				"download" "65141C8A2680D4EF2A332CB14420FD5B"
+			}
+			"internal"
+			{
+				"gid" "64F48D673E7766916D53683CE61F6420"
+				"size" "88D0D6362378EEDFF5DDC8BC4C30D689"
+				"download" "D4CDB6DC1EB878A9CCE21280E9B7E087"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16396913"
+			"timeupdated" "1731528202"
+		}
+		"daily"
+		{
+			"buildid" "16428671"
+			"pwdrequired" "1"
+			"timeupdated" "1731733312"
+		}
+		"internal"
+		{
+			"buildid" "16396913"
+			"pwdrequired" "1"
+			"timeupdated" "1731527632"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "4"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "savegame.dat"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "settings.dat"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "savegame2.dat"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "savegame3.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26237245"
+"_sha" "e9d02c62d347db43e58cae56339076128936dccf"
+"_size" "7488"
