@@ -256,8 +256,7 @@
 		"10" "122"
 		"11" "4747"
 		"12" "21725"
-		"13" "3859"
-		"14" "19"
+		"13" "19"
 	}
 	"review_score" "6"
 	"review_percentage" "71"
@@ -317,36 +316,12 @@
 			"executable" "Launcher\\launcher.exe"
 			"arguments" "-steam_auto_login -game-50546=-crashdumpwatcher -game-50546=-review -game-50546=-noRedscreens"
 			"workingdir" "Launcher"
-			"type" "option3"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 				"betakey" "firaxis_qa, external_review, qa_b, qa_c, xsolla"
 			}
-			"description_loc"
-			{
-				"english" "Dio"
-			}
-			"description" "Dio"
-		}
-		"7"
-		{
-			"executable" "Launcher\\launcher.exe"
-			"arguments" "-steam_auto_login -game-50546=-crashdumpwatcher -game-50546=-review -game-50546=-noRedscreens"
-			"workingdir" "Launcher"
-			"type" "option2"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"betakey" "old,newtest"
-			}
-			"description_loc"
-			{
-				"english" "Mod Launcher"
-			}
-			"description" "Mod Launcher"
 		}
 		"8"
 		{
@@ -357,6 +332,7 @@
 			"config"
 			{
 				"osarch" "64"
+				"betakey" "newtest"
 			}
 			"description_loc"
 			{
@@ -364,7 +340,7 @@
 			}
 			"description" "2K Launcher"
 		}
-		"9"
+		"12"
 		{
 			"executable" "binaries\\Win64\\XCom.exe"
 			"arguments" "-steam_auto_login -game-50546=-crashdumpwatcher -game-50546=-review -game-50546=-noRedscreens"
@@ -373,8 +349,23 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "newtest"
 			}
+		}
+		"13"
+		{
+			"executable" "Launcher\\launcher.exe"
+			"arguments" "-steam_auto_login -game-50546=-crashdumpwatcher -game-50546=-review -game-50546=-noRedscreens"
+			"workingdir" "Launcher"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Open Mod Launcher"
+			}
+			"description" "Open Mod Launcher"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -1000,6 +991,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25376591"
-"_sha" "a6f39e8fc12f21481278fcfd9d380d848db60ffe"
-"_size" "21585"
+"_change_number" "26249998"
+"_sha" "07f31a8cdd2147d8f561cbf4b68f79e50f2752b1"
+"_size" "21426"
