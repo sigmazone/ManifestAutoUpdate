@@ -298,7 +298,7 @@
 	{
 		"0"
 		{
-			"executable" "launcher/Launcher.exe"
+			"executable" "Rustler.exe"
 			"config"
 			{
 				"oslist" "windows"
@@ -312,6 +312,20 @@
 			{
 				"oslist" "macos"
 			}
+		}
+		"2"
+		{
+			"executable" "launcher/Launcher.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "launcher"
+			}
+			"description_loc"
+			{
+				"english" "Play Launcher"
+			}
+			"description" "Play Launcher"
 		}
 	}
 }
@@ -328,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "5625927405834974752"
-				"size" "4879716562"
-				"download" "2108324992"
+				"gid" "9008460659851419504"
+				"size" "4794630374"
+				"download" "2075645168"
 			}
 			"open_fresh_build"
 			{
@@ -433,8 +447,8 @@
 	{
 		"public"
 		{
-			"buildid" "16315906"
-			"timeupdated" "1730906335"
+			"buildid" "15827620"
+			"timeupdated" "1732021501"
 		}
 		"gic_build"
 		{
@@ -499,6 +513,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26073758"
-"_sha" "cc330b1aa480f1723da74117cd4034bba0f2f3ec"
-"_size" "9403"
+"_change_number" "26261758"
+"_sha" "194abfaad916a3e787f5d2b9f25e2e9d59f70d30"
+"_size" "9630"
