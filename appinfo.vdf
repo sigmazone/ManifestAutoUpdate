@@ -74,6 +74,7 @@
 	{
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en,zh-cn"
+		"library_hero_blur" "en"
 		"library_logo" "en,zh-cn"
 		"library_header" "en,zh-cn"
 		"logo_position"
@@ -109,6 +110,13 @@
 			{
 				"english" "f4bb0a8d0681622f515108863531671f06065521/library_hero_2x.jpg"
 				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f4bb0a8d0681622f515108863531671f06065521/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -221,11 +229,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"dutch"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"japanese"
 		{
 			"supported" "true"
@@ -242,6 +245,21 @@
 			"subtitles" "true"
 		}
 		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -266,12 +284,12 @@
 		"10" "4026"
 		"11" "21"
 		"12" "16094"
-		"13" "3810"
-		"14" "19"
+		"13" "19"
+		"14" "3810"
 		"15" "6730"
-		"16" "493"
-		"17" "1697"
-		"18" "4182"
+		"16" "1697"
+		"17" "4182"
+		"18" "493"
 		"19" "492"
 	}
 	"review_score" "8"
@@ -312,7 +330,7 @@
 		}
 		"2"
 		{
-			"executable" "valheim.app"
+			"executable" "Valheim.app"
 			"type" "default"
 			"config"
 			{
@@ -372,9 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "7890609055808802603"
-				"size" "2340674812"
-				"download" "1238609856"
+				"gid" "7815399956763978340"
+				"size" "2340691335"
+				"download" "1238623424"
 			}
 			"default_preml"
 			{
@@ -384,9 +402,9 @@
 			}
 			"default_old"
 			{
-				"gid" "3817460037362211056"
-				"size" "2270649772"
-				"download" "1207319216"
+				"gid" "7890609055808802603"
+				"size" "2340674812"
+				"download" "1238609856"
 			}
 			"default_preal"
 			{
@@ -411,27 +429,27 @@
 			}
 			"experimental"
 			{
-				"gid" "A16E1001630BCB03B1257F5AA9C8AFEE"
-				"size" "F35F312EA890A8BD492EA3647F37AE13"
-				"download" "B08041C68D7A2357A385314DDB94B8A1"
+				"gid" "EE0EABB6D9E38FFE2C916971BEBA0EE5"
+				"size" "4D2EB1C196C2E6BD7AEC436DA82FB776"
+				"download" "FAA4007FFF22DB0984F4D5BFD1311BD2"
 			}
 			"internal-test"
 			{
-				"gid" "4130BF1091A6E6BF17484C20EDB93491"
-				"size" "121B404851EBC93DB623ECE82545FA50"
-				"download" "B2EEC2545A2CCDAC2717D31CF34DE26E"
+				"gid" "E7AFE6ECC1263C0FD9E8A72175520B71"
+				"size" "6CABA25AD055138B8AC32C7278AF5401"
+				"download" "EF2A5C59C33D011C7BE8C66E509F7568"
 			}
 			"public-test"
 			{
-				"gid" "1487CC7148B044B5C0FAEED5C4F4C0AD"
-				"size" "F214B5089455977B4734DB8BE9EF5037"
-				"download" "5F18643D6B05D40E1735699B7E61D668"
+				"gid" "38C1E3C715D0F20F525B5FB531AE05CB"
+				"size" "0BFCC2AA94F98C929FF0046D5A3D35F6"
+				"download" "2DDC9BFFCABAC320CF4470AE1A43A5E5"
 			}
 			"unstable"
 			{
-				"gid" "8690EF4E457C8C4ADCA2292944C8F6D2"
-				"size" "1D1C3E262E396BF7B1AF99CFBBD4D3D6"
-				"download" "7741ADC97BC486BE50D3BC4DD2B3FB33"
+				"gid" "6110C2B158856768B079B941E6C62D5A"
+				"size" "B734D6A8A5BA03E90F0E4FD0D648292F"
+				"download" "1B6C6CF27FECCE8FA547CE0E333C1886"
 			}
 		}
 	}
@@ -445,9 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "3208396899566460743"
-				"size" "2291035643"
-				"download" "1229731824"
+				"gid" "342753060102212408"
+				"size" "2291051126"
+				"download" "1229740864"
 			}
 			"default_preml"
 			{
@@ -457,9 +475,9 @@
 			}
 			"default_old"
 			{
-				"gid" "1718101728181327859"
-				"size" "2221131715"
-				"download" "1199531872"
+				"gid" "3208396899566460743"
+				"size" "2291035643"
+				"download" "1229731824"
 			}
 			"default_preal"
 			{
@@ -484,27 +502,27 @@
 			}
 			"experimental"
 			{
-				"gid" "3D66102B897EFC251CC63D8599D0A7D0"
-				"size" "7E5DAD2C4C14E559134E704B91EBA98E"
-				"download" "CC81A240EBC2B711F0961C73F8D56E0D"
+				"gid" "5E83267604A3BFB10C8E33220C01CF62"
+				"size" "939F58F7FD112376FC163B2527EA42ED"
+				"download" "3664F4DB648625CEEAC70741DAA6F63A"
 			}
 			"internal-test"
 			{
-				"gid" "596847BA20C88C6D7BF33F6EE8C5EC9C"
-				"size" "94BB123C2A0EB29632DD2DE6FF340832"
-				"download" "194D3298EFBCAE2CC567E0BB157A2CB4"
+				"gid" "5C88E2843B019953436AEAB0F92ABC8C"
+				"size" "E7429856E45E32D8277B98EACEE96EBC"
+				"download" "8E97E7C8B4FF51018629C842C2C0BAC1"
 			}
 			"public-test"
 			{
-				"gid" "F87E0E9592E55EF9EEA8359E17F67D99"
-				"size" "F07116CBC4215C4104E31D7773A10204"
-				"download" "99C6F55021E0B6862990F315C5F9C640"
+				"gid" "3508C44A4A7F02EF5A5E9D2E9A0E27FA"
+				"size" "2F76120CDBF1CBB398028610F8CA9387"
+				"download" "08295072D08244BB47AD99A25C1CC68E"
 			}
 			"unstable"
 			{
-				"gid" "E35695DDFAF13FBFAE5116EF02CAF8DA"
-				"size" "4A9E1A3727652067F329E721FFB72492"
-				"download" "5897FD4E8FD321E73B3B6AE30D8B4CAB"
+				"gid" "2913E086EB58FE934F3316D58425B96E"
+				"size" "F4C091C7751D0D83D117ECC92C7EF259"
+				"download" "DB64D47A1320059B39948CC669D71ECC"
 			}
 		}
 	}
@@ -518,9 +536,9 @@
 		{
 			"public"
 			{
-				"gid" "7132605340801306785"
-				"size" "2350558964"
-				"download" "1233964880"
+				"gid" "4112571468963837565"
+				"size" "2348753744"
+				"download" "1233691968"
 			}
 			"default_preml"
 			{
@@ -530,9 +548,9 @@
 			}
 			"default_old"
 			{
-				"gid" "3540458686177232597"
-				"size" "2280336222"
-				"download" "1203178976"
+				"gid" "7132605340801306785"
+				"size" "2350558964"
+				"download" "1233964880"
 			}
 			"default_preal"
 			{
@@ -557,27 +575,27 @@
 			}
 			"experimental"
 			{
-				"gid" "160C9C9E7BF8C846BA03EC861BA8B937"
-				"size" "145D2F5323B8A453EE3AF75ADF76A41C"
-				"download" "5323DC243703401324C66E88F764C661"
+				"gid" "EA8B0CE5C6F02E8242C097BF9935B798"
+				"size" "94386FACF9B705B8DD707BA9CB71F0C6"
+				"download" "16E39E512F186ED8EE5954D4D53C5BE1"
 			}
 			"internal-test"
 			{
-				"gid" "1591500507730E02B17F0A704B58928B"
-				"size" "C0F6D44B8A85E736C96181675DB0AB6B"
-				"download" "4C9EB135F35FE66A220EA5C072DD671D"
+				"gid" "E5402895C712DD7DBA10446F33F8D9D2"
+				"size" "66E666D8D8D1F3C808A717F958430024"
+				"download" "60BDB56502978B14C6A345A4D4702BCA"
 			}
 			"public-test"
 			{
-				"gid" "027B7E78D0DF6A51D6F6D572721F79CC"
-				"size" "6F3D384F02CCB14E5E64B16CFEBD5224"
-				"download" "21A11C6156E5E368144DDDF54B21B9B9"
+				"gid" "69D4DB3D21C0BEE6D6932DB79DBE090D"
+				"size" "4B92FF5062E678A3C3EE9456A6975B1C"
+				"download" "CB9B616853B999A7003ECA4DFC82BC79"
 			}
 			"unstable"
 			{
-				"gid" "73EBE3474B8C602EC72E3B932BB67CEA"
-				"size" "27AB16B365B14B65ACEA38B69407C8F5"
-				"download" "5BE387120AE1F57616822DBCEABD5891"
+				"gid" "C0C63BC11B8A97052ED1500BD4300C1A"
+				"size" "E736479EB46472F2E36F9BD531B1ED5E"
+				"download" "8CF3949164E3F9C950C1F5615E6A4847"
 			}
 		}
 	}
@@ -585,8 +603,8 @@
 	{
 		"public"
 		{
-			"buildid" "16223075"
-			"timeupdated" "1730274647"
+			"buildid" "16375457"
+			"timeupdated" "1732006974"
 		}
 		"default_preml"
 		{
@@ -602,9 +620,9 @@
 		}
 		"default_old"
 		{
-			"buildid" "15676521"
+			"buildid" "16223075"
 			"description" "Previous stable"
-			"timeupdated" "1730193590"
+			"timeupdated" "1732006883"
 		}
 		"default_preal"
 		{
@@ -620,9 +638,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "16217639"
+			"buildid" "16342543"
 			"pwdrequired" "1"
-			"timeupdated" "1730194292"
+			"timeupdated" "1731074277"
 		}
 		"internal-test"
 		{
@@ -632,15 +650,15 @@
 		}
 		"public-test"
 		{
-			"buildid" "16161828"
+			"buildid" "16375457"
 			"pwdrequired" "1"
-			"timeupdated" "1729771391"
+			"timeupdated" "1731498067"
 		}
 		"unstable"
 		{
-			"buildid" "16223075"
+			"buildid" "16375457"
 			"pwdrequired" "1"
-			"timeupdated" "1730215413"
+			"timeupdated" "1731399631"
 		}
 	}
 }
@@ -684,6 +702,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25965627"
-"_sha" "ce6eaae33fb57f2e8b7584b5bacff74f042eb66a"
-"_size" "13639"
+"_change_number" "26258274"
+"_sha" "f9927a67f773a3e0a67962e7238bc7cd7adc1c5c"
+"_size" "13950"
