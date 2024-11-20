@@ -18,7 +18,7 @@
 	"clienticon" "1e12deba7be4f7fb14913a0611e9424f57ae3938"
 	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" "macos64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -237,13 +237,17 @@
 		}
 		"1"
 		{
-			"executable" "Retro City Rampage.app/Contents/MacOS/Retro City Rampage"
-			"description" "Launch"
-			"workingdir" "Retro City Rampage.app"
+			"executable" "Retro City Rampage.app"
+			"type" "default"
 			"config"
 			{
 				"oslist" "macos"
 			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
 		}
 		"2"
 		{
@@ -298,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "8443365620313363244"
-				"size" "16410211"
-				"download" "9895904"
+				"gid" "6021387621738932364"
+				"size" "22532437"
+				"download" "15494912"
 			}
 		}
 	}
@@ -336,8 +340,8 @@
 	{
 		"public"
 		{
-			"buildid" "16415379"
-			"timeupdated" "1731646290"
+			"buildid" "16461385"
+			"timeupdated" "1732035862"
 		}
 	}
 }
@@ -347,6 +351,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26205762"
-"_sha" "8228c8852bb60bc2a726f429b28c85eab68c5c55"
-"_size" "5981"
+"_change_number" "26265410"
+"_sha" "3080343a3231db26731dc8e68cef602bf4d0356c"
+"_size" "6019"
