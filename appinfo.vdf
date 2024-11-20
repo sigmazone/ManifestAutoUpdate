@@ -47,6 +47,12 @@
 		"japanese" "BIOHAZARD 7 resident evil"
 		"koreana" "BIOHAZARD 7 resident evil"
 	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -96,6 +102,7 @@
 		}
 	}
 	"metacritic_name" "Resident Evil 7: biohazard"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -119,6 +126,50 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "15.49377949377947"
 			"height_pct" "20.1111107431812"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.49377949377947"
+				"height_pct" "20.1111107431812"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1582692054"
@@ -254,11 +305,11 @@
 		"1" "3978"
 		"2" "3839"
 		"3" "4182"
-		"4" "4166"
-		"5" "1659"
-		"6" "4345"
-		"7" "1721"
-		"8" "21978"
+		"4" "4345"
+		"5" "4166"
+		"6" "1659"
+		"7" "21978"
+		"8" "1721"
 		"9" "19"
 		"10" "4667"
 		"11" "1662"
@@ -471,6 +522,12 @@
 				"size" "B5EB9252BE5DD7D88E35C8C435264334"
 				"download" "434E6AD012F6034059213C3AE9875196"
 			}
+			"external_10"
+			{
+				"gid" "57EC46FC802A8BB085D1D930770CAB1E"
+				"size" "FFB594EDCF068A1E7608003093DF3833"
+				"download" "F2A446BE0F70996C61F7338DE7AEF091"
+			}
 		}
 	}
 	"418372"
@@ -611,6 +668,12 @@
 				"gid" "56E405DB5DA73F15C51F5DD9BE00B03B"
 				"size" "7A23D664A24094C1A681BFC52A2174B1"
 				"download" "D1E73D53CC08981B23516DFAFFBE5A55"
+			}
+			"external_10"
+			{
+				"gid" "02F00AF0FABA9583952AD28168B69264"
+				"size" "81C6E160E5697C90698A4831B21CC564"
+				"download" "81C6E160E5697C90698A4831B21CC564"
 			}
 		}
 	}
@@ -754,6 +817,12 @@
 				"size" "FE779D66D71A892852A674C868F61268"
 				"download" "16BE1FFB09921EE1EF985E04087EC0C2"
 			}
+			"external_10"
+			{
+				"gid" "1C1DF3EF9BFAD5FDB32EEE51361F034A"
+				"size" "FC4137359B24AA884495EF98E34B9693"
+				"download" "265B22DBB0B30358726320EEDE2E24D6"
+			}
 		}
 	}
 	"530590"
@@ -895,6 +964,12 @@
 				"gid" "9E46F666D3A5D2C44D2800F2B7CD3225"
 				"size" "A1C45B452A5FF6A7C25BB456664422EE"
 				"download" "3357482E4EEA4207DD74317CCE0E0B42"
+			}
+			"external_10"
+			{
+				"gid" "74BDCE7E64509645688904FCA74723CD"
+				"size" "52FAE0B97FB89121BE2B341D417AEB7E"
+				"download" "E8F163AC04938E1DC9BB74E06FEAA8D5"
 			}
 		}
 	}
@@ -1038,6 +1113,12 @@
 				"size" "1D6B13CA4A60D2372F537587FCC8230B"
 				"download" "0E1986B631F9DD296536968BCC9612A7"
 			}
+			"external_10"
+			{
+				"gid" "C826A06E0598774DC28F3553E7DC3AE1"
+				"size" "90A71F9B1B0586FA27A118D00E0CA6DB"
+				"download" "299B58BFFA8F9DBCBF084385D764B539"
+			}
 		}
 	}
 	"530592"
@@ -1179,6 +1260,12 @@
 				"gid" "03FFFF246A6D14ECCE370676233C3782"
 				"size" "59216D43175BF506B634BC56FC03612D"
 				"download" "D69FCE03AF2E8632AD53604DD30EA032"
+			}
+			"external_10"
+			{
+				"gid" "ED80F1193866E98A491E8FE2202FD576"
+				"size" "04A251540A988E01A807A2EC821261B7"
+				"download" "EEDB7E107D2AE98B9C8496509ED8A16A"
 			}
 		}
 	}
@@ -1322,6 +1409,12 @@
 				"size" "532AE3E027AD31F7176F7E428C7BAF88"
 				"download" "A3EDD0E47340AFAA4F9D3F3C8918C637"
 			}
+			"external_10"
+			{
+				"gid" "796888FE89C5645D99AD2335552A588D"
+				"size" "F9876CD38634519F9D67408B8559C3F7"
+				"download" "9907F5B4460155C32289C2948849868C"
+			}
 		}
 	}
 	"530594"
@@ -1463,6 +1556,12 @@
 				"gid" "5FE14D884311B221BFD57284074C0EE3"
 				"size" "3167CB8F6E631ECCB5DF1CC5DF9E72E0"
 				"download" "0CDC65C519FF89EFB24A3AC778521C57"
+			}
+			"external_10"
+			{
+				"gid" "1D235214F7AF428DD89633B76DC90325"
+				"size" "EF741536B2B651FE55EDD1B3886439A0"
+				"download" "55661F27B7E7D08E8BDE92DF151525B5"
 			}
 		}
 	}
@@ -1606,6 +1705,12 @@
 				"size" "38163D24D9A3B1268396A47C699289FC"
 				"download" "048FCC9D8735C4107E23C6C23766C053"
 			}
+			"external_10"
+			{
+				"gid" "0B6F971B84CF1E3131E09D7339D98241"
+				"size" "94B9CE8B70F0FB6D497BE71D8743A015"
+				"download" "0C49B811BBC018C20C0AF0F1CE2EEAD6"
+			}
 		}
 	}
 	"530596"
@@ -1747,6 +1852,12 @@
 				"gid" "865329685FF57E4F529A6B50323CA88A"
 				"size" "52BBF780B5D2D66C61FCEF4DE25F2723"
 				"download" "F0555B37CF324CB35DC0F5BEF9325A4A"
+			}
+			"external_10"
+			{
+				"gid" "D2965C82467A9037E501A75856A9095D"
+				"size" "BDC373DD513349BA8DF9B8247DFA6FAE"
+				"download" "E04FE124EF1D63DF251CD9DBA60CC313"
 			}
 		}
 	}
@@ -1890,6 +2001,12 @@
 				"size" "52BBF780B5D2D66C61FCEF4DE25F2723"
 				"download" "0D78F18415E013847F4F9988C9BA8BE0"
 			}
+			"external_10"
+			{
+				"gid" "D1B077F9435BA70CF9C57E6AFCAB08B4"
+				"size" "6613A2E6DAB4FB8D83E9B72A94DE5606"
+				"download" "056BE163BBD93DCC5501702EB5EA2604"
+			}
 		}
 	}
 	"530598"
@@ -2031,6 +2148,12 @@
 				"gid" "72776292209219E3A51F9B3E5DFE7206"
 				"size" "76BB5584C80FBD78915234D098519DDA"
 				"download" "9682686C8EC036E51FFB417471E443FA"
+			}
+			"external_10"
+			{
+				"gid" "08327ABBDAF2461E89A78E5432A8CD46"
+				"size" "EE50204D9A7953AF08E6454AB0AFA752"
+				"download" "1F2E696E9B9982CAAA11F1145DA4E754"
 			}
 		}
 	}
@@ -2174,6 +2297,12 @@
 				"size" "F83B4B711EB7C4368591366361D93359"
 				"download" "640F7C24298FDADE9E340019BDAEE0C0"
 			}
+			"external_10"
+			{
+				"gid" "53F2AB22DE0DB3EA736BD9A72D96A703"
+				"size" "00B2930BF0C8418EBA68860A42CF3932"
+				"download" "D56A8C7382D0013C738C24C80574789F"
+			}
 		}
 	}
 	"529930"
@@ -2309,6 +2438,12 @@
 				"gid" "7539FED23609F4E7E3D40E6A2DAA3E2A"
 				"size" "002D04E5C4E59AF5F0B73117AFAF003F"
 				"download" "E2E0465CDC9B8365D001B89636861CC5"
+			}
+			"external_10"
+			{
+				"gid" "987082BCFABCC326059245607CDF2F37"
+				"size" "5458E4F147465A2BE77919A890CC8A15"
+				"download" "E9C2016EDAAE3C442B92EA1B0F470E95"
 			}
 		}
 	}
@@ -2446,6 +2581,12 @@
 				"size" "C5069C6C9C677E6FD14FC3DD6877A450"
 				"download" "5C363E05FCEA929F9215D95E7857A1EA"
 			}
+			"external_10"
+			{
+				"gid" "671373E806776555190BCD3B4E325E50"
+				"size" "903BAC95435D085F6AA8E591E1FA1BFA"
+				"download" "7EDDFAA8C2F859E0ACD2328F6D5C1EC8"
+			}
 		}
 	}
 	"418373"
@@ -2581,6 +2722,12 @@
 				"gid" "84A434A410E201D07A10801618EF19E6"
 				"size" "36CF1ABD9002FD02F42F9EF6C28A2254"
 				"download" "7825A966CF26053D438504360EDFB47A"
+			}
+			"external_10"
+			{
+				"gid" "D42BCCE5E42EC0787BD0D2C0F33C8DCD"
+				"size" "5EB97A0AC7476DB17C4DE6E810C5058C"
+				"download" "0076813089E3D9FBB8D56D45055F7AC3"
 			}
 		}
 	}
@@ -2718,6 +2865,12 @@
 				"size" "4C131F44D3A92664FF4608FF679B27CE"
 				"download" "CBF39FBEB3FA951A85676F3582B657CD"
 			}
+			"external_10"
+			{
+				"gid" "D5ADD17EFC73E3DFDA5508C4FD29E768"
+				"size" "42C6F5AFA0FF7598D75F530C26C0CCEB"
+				"download" "AB47FB3D652CFD59A5E19005D467103E"
+			}
 		}
 	}
 	"418375"
@@ -2853,6 +3006,12 @@
 				"gid" "DAB7AE21DAB139613787B73448B243BF"
 				"size" "B1ECB88A01ECF66F72683E5C6EAB0BE8"
 				"download" "B090FA54FC4B10E5C375128A6CAC2A1B"
+			}
+			"external_10"
+			{
+				"gid" "2F16C08D305A618E7F5CD192C00583C8"
+				"size" "622C5837D3CAD7E8633EBC8F315B5369"
+				"download" "D14596D7CABA8B4F62E0F7D0A7E22B27"
 			}
 		}
 	}
@@ -2990,6 +3149,12 @@
 				"size" "5F1E893F91DDC3B4A0C0B5A262EE6FFE"
 				"download" "EF182CAE662F91B2B5A61CB980FC072B"
 			}
+			"external_10"
+			{
+				"gid" "A1AD1FD36C7A2860DABE3A3E9A8EB1E6"
+				"size" "4ADA889AE573E125C9CA8F647CFF69D5"
+				"download" "F505028DDCCDEB0D5A50492D758250F1"
+			}
 		}
 	}
 	"530611"
@@ -3119,6 +3284,12 @@
 				"gid" "440CC80F4758FDF763785EFDB9520457"
 				"size" "B7BEB90C9DFAFC87E89B11B05C42FB35"
 				"download" "32E25E1D31261FC2EAB9E1CB05C8F07A"
+			}
+			"external_10"
+			{
+				"gid" "11E09C79B6C1FF70C21D3305A25EF2B4"
+				"size" "73428263E5592BBED57A775BEB1045EB"
+				"download" "30FC49408F32265C447E464341D63628"
 			}
 		}
 	}
@@ -3250,6 +3421,12 @@
 				"size" "E2EF00C73CB323973DD4EE59A2561D0C"
 				"download" "E9470459B132C0CD5712134547766D28"
 			}
+			"external_10"
+			{
+				"gid" "F9ADDC4BA74BC961A6367BCBD905D653"
+				"size" "FAAF0BBBD44FECCF2481339423547F72"
+				"download" "368F56B144B433DEDAA01F958AF6C0FE"
+			}
 		}
 	}
 	"418377"
@@ -3380,6 +3557,12 @@
 				"size" "12266057C2D8FD616E035D3E934197BB"
 				"download" "B0A0C0AFB9E1FAD71CC04AC31126624F"
 			}
+			"external_10"
+			{
+				"gid" "B402629DEC701B3BDC8FBD79B68BD82E"
+				"size" "F1C6264A81F5594BC608A32925516F9E"
+				"download" "A140CA0F3AE908BCCAB2177E3298DF00"
+			}
 		}
 	}
 	"418378"
@@ -3509,6 +3692,12 @@
 				"gid" "BA4F23D2FC9E1BE82A04952804BEDC0C"
 				"size" "72569D02F03EB1F60AD2D069FD85F960"
 				"download" "09A9F6596AF74178A9BE34F6B5035D55"
+			}
+			"external_10"
+			{
+				"gid" "581689A9D6D1D9AAC5B071791EF5364B"
+				"size" "18A58F58B9FA26FB536447F4CBC84A05"
+				"download" "1FF849DF5C0770CF8944B5AD5567DF4F"
 			}
 		}
 	}
@@ -3657,6 +3846,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1621842371"
 		}
+		"external_10"
+		{
+			"buildid" "16076085"
+			"pwdrequired" "1"
+			"timeupdated" "1729142986"
+		}
 	}
 }
 "ufs"
@@ -3664,3 +3859,7 @@
 	"quota" "2147483647"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26252765"
+"_sha" "d2caf0bd602f94a8e4c053af69688158d23ba22f"
+"_size" "100726"
