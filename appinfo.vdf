@@ -14,10 +14,14 @@
 	"clienticns" "19432796bd4ec40f3817cfdbd30d547bc32c433a"
 	"osarch" ""
 	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1701475200"
+		"test_timestamp" "1705104000"
 		"tested_build_id" "10102354"
 		"tests"
 		{
@@ -52,9 +56,10 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-experimental"
+			"recommended_runtime" "proton-8.0RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "The Binding of Isaac Rebirth"
@@ -72,6 +77,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -79,7 +85,48 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1442271004"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722458407"
 	"associations"
 	{
 		"0"
@@ -119,6 +166,7 @@
 		"category_43" "1"
 		"category_44" "1"
 		"category_1" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -147,8 +195,8 @@
 		"8" "4182"
 		"9" "4342"
 		"10" "3871"
-		"11" "5708"
-		"12" "3841"
+		"11" "3841"
+		"12" "5708"
 		"13" "4345"
 		"14" "5125"
 		"15" "3959"
@@ -165,7 +213,7 @@
 	"developer" "Nicalis, Inc."
 	"publisher" "Nicalis, Inc."
 	"homepage" "http://www.bindingofisaac.com"
-	"listofdlc" "401920,570660,1426300"
+	"listofdlc" "401920,570660,1426300,3353470"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -258,9 +306,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "A06ECA5A5ACB9622DC41F97F32E9F711"
-				"size" "F538B762CC3020850605DFA8E6C7AFF3"
-				"download" "5956BC01527DDD03E8E1B4208150483E"
+				"gid" "B7D3B04BDC7DF6F9C380150404BB3474"
+				"size" "D52F6E01143E01C136D4E6B0C8E47657"
+				"download" "B8875C22F81C24B0AA4F2E290AE02E5C"
 			}
 			"repentance-online-coop"
 			{
@@ -273,6 +321,12 @@
 				"gid" "926D8271DBBC7A284BDED29A868AC16F"
 				"size" "4FC55456E867B35D3E4E414B48FA5053"
 				"download" "2C463686DD8B0540F242C254E4DDBEA7"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "9E291E4478FB6543C8BB964CF2002854"
+				"size" "F34E92C21BE82BFB3068DEAF2E37534D"
+				"download" "4BEC509463239D441881257391865F7F"
 			}
 		}
 	}
@@ -295,9 +349,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "943451DB2F6E99D5A1AEB6F77FE18A64"
-				"size" "735DE2CA93C14EE3935F83575E490A84"
-				"download" "471459E47ED62AFC97301312EB48EED1"
+				"gid" "C64801A2DC456170DAE212EC35030701"
+				"size" "14386707B73A998FBF22AD96CA7F7B99"
+				"download" "F33A5B73F61B9452F43F5E6B97C91C98"
 			}
 			"repentance-online-coop"
 			{
@@ -310,6 +364,12 @@
 				"gid" "14693E02B61B5DDB0ABDB9A2102EA9F4"
 				"size" "8D836992E391CC78BE9036EFEA2F82F7"
 				"download" "70683C441F258F2ADEC0EB74B9E47BDD"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "A85BB54167554B925F5C11EFDDD03FFC"
+				"size" "9B53AD60DA29B4A00FFA6C33D17417D1"
+				"download" "6ECA7C7C23EE1656E5E401F37EC28F08"
 			}
 		}
 	}
@@ -332,9 +392,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "A88D74CC4613B6636E5D15BB5CD30653"
-				"size" "FDB52808A5007FB4B588F55DB6F3AA9C"
-				"download" "006E927FA31F1378D1A64903B4D5F7D4"
+				"gid" "3E33F3AE2D7D4FA9CF6EF89DE1EA4B35"
+				"size" "2A4A2D4969EEFC0178136D9472F34082"
+				"download" "9160B4457E5F245873686165BE58DB95"
 			}
 			"repentance-online-coop"
 			{
@@ -347,6 +407,12 @@
 				"gid" "7FC95484BA49B2218C05B2FA2A107DB9"
 				"size" "0EDB27C2343A7EEE386B5638B82C1B95"
 				"download" "FB99798C084B673C473A26971245A519"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "94D44A7D4F9A5864FE064642F7CFC3EB"
+				"size" "1E23A064C72F79A12014AD33B3012248"
+				"download" "D28152D7EBF5B80CCC1671EF3E6DE28B"
 			}
 		}
 	}
@@ -374,9 +440,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "73AF170D6E1EEF5FDA56CF7029C2E03A"
-				"size" "D33F0C1520FA6DCB5FA1DFFAB6748BC9"
-				"download" "D4802002AC3A1AB9527CC5BF7A9269C4"
+				"gid" "F7555AE920D9E6A177BBE93FD2CCFCBB"
+				"size" "FE04D4AD58D467CD79C2EE496058784D"
+				"download" "EE52731F7EFEC0FEF53757F42295A255"
 			}
 			"repentance-online-coop"
 			{
@@ -389,6 +455,12 @@
 				"gid" "C9171EB3F1991BFEB6A88839500FD40A"
 				"size" "4E8DB4104A205267A6ACF83D51C7AD96"
 				"download" "83F8E5B81F52CA647C4B22AD847B01D4"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "A67068E4DF77BED4BC5BE9DA61386D1A"
+				"size" "AFF26AC7A3DB1D36450C76D7A697083A"
+				"download" "BF6B1EEBE2C183998DC29D4F1B1059E0"
 			}
 		}
 	}
@@ -412,9 +484,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "DB5DB46695B4AEC494F6FBDFD9472D95"
-				"size" "8AE97E95716BFD9F71E1B956DD32C4B8"
-				"download" "F04B5D80F0FF94D5370B0CC8906CDAB2"
+				"gid" "4F0C763CE8E93F4DABDC40B97A327E7E"
+				"size" "8AAE312F8D7DD755CFB9B594A9EEC2F6"
+				"download" "117A1D50F833098AAEA50CF3A58EEB9A"
 			}
 			"repentance-online-coop"
 			{
@@ -427,6 +499,12 @@
 				"gid" "460AC13F2B999A5169E012FB1D80D4FB"
 				"size" "0A2D05254A3174196B27E5700A314B5E"
 				"download" "EA9CDF5D6B0E0DA5366EDBC2D1912E49"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "90FA4407E1CA1C4F1B1C85DAC0781274"
+				"size" "FB2949A3C3F6DDEC7444753C9B3523B3"
+				"download" "F6AF136B3974C5619B7CA6E7BC000E63"
 			}
 		}
 	}
@@ -450,9 +528,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "22D4DEBDCBFA3033DF9582DA86FF9978"
-				"size" "4DF7A6A420CD1F777E8A9C10E3232023"
-				"download" "944CBF81FFA17C0D870D5D63B8341C60"
+				"gid" "81D82E0724CAA5740F5B73E5CA8FF90A"
+				"size" "1AD44A1A2DDC0A6F23B1D580E129D3E5"
+				"download" "FA634EBF92E935CDA744299C090CE5E1"
 			}
 			"repentance-online-coop"
 			{
@@ -465,6 +543,12 @@
 				"gid" "1BC487EE7D61B044FC575685B1830A00"
 				"size" "80E44CF4129D033683FA100C179F6A73"
 				"download" "75E501F466F78540C695A953E82F36C7"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "4D490BF7A111CD376EFF0AA026CD6FA7"
+				"size" "A40F0DA9A8C262EB50AC2996DF79515D"
+				"download" "497E3D725A72AABCB93984B4DBA61ECA"
 			}
 		}
 	}
@@ -488,9 +572,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "99E1857984CBC1B5C02D085D437903F6"
-				"size" "5AEAA0A0B0BC6F66BE1F1A63C7F693CF"
-				"download" "0773019B5F9143E9F07C4F92C787FD59"
+				"gid" "3166C113829C1A912C856F0D85F92A6D"
+				"size" "E742A137086ADFF1121D8E22049411D3"
+				"download" "866B4C499F5BF6BE8041CA2E7C044283"
 			}
 			"repentance-online-coop"
 			{
@@ -503,6 +587,12 @@
 				"gid" "FBE961D9AC3843A9891AD1529DDEED6A"
 				"size" "C1CC6E31A05D26CC6DBE3ABD494C3BFD"
 				"download" "5D5B0E00E5B50FB9464D1A811411D59C"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "BB643DAF1FB103D59DF6A6CE041F94FD"
+				"size" "788A2342253E7E4181392E8DD5148875"
+				"download" "52F3F9184B31C204A6EA6FF7C528AC0A"
 			}
 		}
 	}
@@ -526,9 +616,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "86EFFF315F047B206DF6D3986456B9C1"
-				"size" "8B4085BE467234D7F668FA1871463967"
-				"download" "C40CFF1601B5DDDFD83BFAC712EFC68E"
+				"gid" "8ABDD4316AEAE4006644A62ADE2FDFB4"
+				"size" "37DDD0C9FA20132DFD51F61164C7C99A"
+				"download" "41F1E51A57606A107E233692B17C4334"
 			}
 			"repentance-online-coop"
 			{
@@ -541,6 +631,12 @@
 				"gid" "B2C930E9FE420EF03044D07AEAD3B451"
 				"size" "26BECEB3446AA48E6D719ADF22B35464"
 				"download" "11E788BE1336B1E00981257D5544F8E8"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "47B4891E98E8E9C825DC13C75ECCB564"
+				"size" "19B4C896B89C09C998763766B91A305A"
+				"download" "1E79B7B58C654FC9AFD8B7D3007DBE4F"
 			}
 		}
 	}
@@ -564,9 +660,9 @@
 		{
 			"online-beta"
 			{
-				"gid" "2F7170BE2D1036FFA461243BCE09D691"
-				"size" "194D67558AC05CE492A858DB676E5016"
-				"download" "86A41ED6FF048FD1443F236014510304"
+				"gid" "521FB69227D9056FFC460030CD637A7D"
+				"size" "2D01321E8D964A631C19074F9AA1D598"
+				"download" "695AEABA3713DFB1E5C3359D05D89CCD"
 			}
 			"repentance-online-coop"
 			{
@@ -579,6 +675,12 @@
 				"gid" "7DEFFD945C129D696BF6F6DE8BE254F1"
 				"size" "5FF64022D6FE72CF2DD3F72A14B899D4"
 				"download" "27D98CD6D88007AD22F3211B7F8CA9CC"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "36B845044B5AB2ED04BD11449CB889EC"
+				"size" "7663562108DA69CBF8761F1225F1B33E"
+				"download" "34F964F80B298BD61692DED5CCD0F070"
 			}
 		}
 	}
@@ -602,21 +704,53 @@
 		{
 			"online-beta"
 			{
-				"gid" "0D2B5D37804F31B98A9D2351D278D188"
-				"size" "6E6EEA031961069336512AB182A303F5"
-				"download" "A9B1FA4560368A45333622BD9D9A8A22"
+				"gid" "E77409A549C816F5979233E1A58BF256"
+				"size" "30924E95D9C9294DC9BAFD8EE5DFD7DC"
+				"download" "037F28D002B670BB8FA025F6D3277E5F"
 			}
 			"repentance-online-coop"
 			{
-				"gid" "FE66DFDFB4BE9807DB4CAC8E53180051"
-				"size" "8AF3C4EC88ECBE3ECF2AA3CAFAB33016"
-				"download" "D4058192FE7C8806B4C9F0B69FE7FE57"
+				"gid" "FC257972F9F5E6523B8C050C58F2A384"
+				"size" "683E34E39FEA6A730E552F5EBCBFF2E3"
+				"download" "4DB85B179E9A17EC9B1DC1174D2DA24E"
 			}
 			"repentance-submission-staging"
 			{
-				"gid" "EFBCC1A3352B2A4F7C1C19CF8D38598C"
-				"size" "FC06A86560A5547BCAF4312E559E8B21"
-				"download" "346C41A477A8EA269863CE5617341453"
+				"gid" "57018516797C6DBA381A6CD90B15A2BE"
+				"size" "D3F7444F552FB641D20A1C8C43AB27B5"
+				"download" "6A44FBD50BF90BDB3FF1B421A06E93C3"
+			}
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "4C60997C119F93DAC237FAD1C763465C"
+				"size" "BE8450758A7604C11F8861F3BB15341F"
+				"download" "CC7B44E4D10B533689BD3C294E4C58BE"
+			}
+		}
+	}
+	"3353471"
+	{
+		"dlcappid" "3353470"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2187281789757649441"
+				"size" "687149190"
+				"download" "631125040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"repentance-plus-submisson-staging"
+			{
+				"gid" "AB62CA33FFC2E942BFF2F86D3F3C09EC"
+				"size" "26E00A49988E1ACA929F6054C0CF9364"
+				"download" "774C7A71FB75943614D0EAB06481B175"
 			}
 		}
 	}
@@ -625,26 +759,32 @@
 	{
 		"public"
 		{
-			"buildid" "10102354"
-			"timeupdated" "1679788062"
+			"buildid" "16466385"
+			"timeupdated" "1732069834"
 		}
 		"online-beta"
 		{
-			"buildid" "13081166"
+			"buildid" "13339906"
 			"pwdrequired" "1"
-			"timeupdated" "1704254803"
+			"timeupdated" "1706827291"
 		}
 		"repentance-online-coop"
 		{
-			"buildid" "13081166"
+			"buildid" "13420416"
 			"pwdrequired" "1"
-			"timeupdated" "1704251602"
+			"timeupdated" "1707528273"
 		}
 		"repentance-submission-staging"
 		{
-			"buildid" "10844114"
+			"buildid" "14117008"
 			"pwdrequired" "1"
-			"timeupdated" "1679623365"
+			"timeupdated" "1713580109"
+		}
+		"repentance-plus-submisson-staging"
+		{
+			"buildid" "16466385"
+			"pwdrequired" "1"
+			"timeupdated" "1732067645"
 		}
 	}
 }
@@ -654,6 +794,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "21740730"
-"_sha" "cf8d253acd22498b291c780414a1e6d99fe8b0f8"
-"_size" "13416"
+"_change_number" "26272265"
+"_sha" "4aadcbfde14a6d406d1b0d07c2dace865a8ac358"
+"_size" "16679"
