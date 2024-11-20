@@ -1,0 +1,560 @@
+"appid" "1432850"
+"common"
+{
+	"name" "Farewell North"
+	"type" "Game"
+	"logo" "46f58fc16039f0c66cca0e97c513931161ecbb3c"
+	"logo_small" "46f58fc16039f0c66cca0e97c513931161ecbb3c_thumb"
+	"icon" "321ac9dd37553e8a4d8e2038737863afb7684f0e"
+	"clienticon" "0036c5d353dcba011f07cda02b568fd6b35c3d07"
+	"clienttga" "12711a4916222e15f647da57ceb37e973fe1417d"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"clienticns" "5c8ba2f2ed2dc37537bbbfbc2915dfebbde2dcca"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1731628800"
+		"tested_build_id" "16248905"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
+	"metacritic_name" "Farewell North"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "698a56ed5e694af06f1a379027889577c58b4980/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "47.049178031291994"
+			"height_pct" "82.61950751603072"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "47.049178031291994"
+				"height_pct" "82.61950751603072"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731158660"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kyle Banks"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mooneye Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Mooneye"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1723816815"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/farewell-north\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1432850"
+	"store_tags"
+	{
+		"0" "4166"
+		"1" "21"
+		"2" "1638"
+		"3" "1742"
+		"4" "3834"
+		"5" "1654"
+		"6" "5608"
+		"7" "7208"
+		"8" "4252"
+		"9" "4305"
+		"10" "30358"
+		"11" "1697"
+		"12" "5350"
+		"13" "4342"
+		"14" "4106"
+		"15" "1695"
+		"16" "492"
+		"17" "4182"
+		"18" "597"
+		"19" "4145"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Kyle Banks"
+	"publisher" "Mooneye Studios"
+	"homepage" "https://farewell-north.com"
+}
+"config"
+{
+	"installdir" "Farewell North"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Farewell North.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Farewell North.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"1432851"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4486540761093411455"
+				"size" "3564942621"
+				"download" "1553283952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "5A78D0E89C18F663FBDB55D884CA5FE1"
+				"size" "BC3210587DA6E03EA6B371EA86C62B66"
+				"download" "31EB3E99DDD1A5EAB809514A082E50EE"
+			}
+			"test"
+			{
+				"gid" "651D32FD542D595C1A6170597A60DC2A"
+				"size" "95F141DC723ACA05CB5896E4E6A6F328"
+				"download" "BEC5E21F8E9572A9C2D23736A10F397A"
+			}
+		}
+	}
+	"1432853"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "169138895312723099"
+				"size" "3189508812"
+				"download" "1332689104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "F0EA44D46CD38EEA1B1423225CBFB495"
+				"size" "84FA261C4944B73A422CBAE486E508D3"
+				"download" "AA57C978421818A2D09E7B439E748F4C"
+			}
+			"test"
+			{
+				"gid" "FAE580383E887FA28C3C47D761277C0D"
+				"size" "E164B6F5EFE3E9345C8065E91B8A4FC4"
+				"download" "BAD99A37BB47605D8B3EE5E677CF02B4"
+			}
+		}
+	}
+	"1432852"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2895975053719954117"
+				"size" "3564756057"
+				"download" "1553734864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "73FD9D9DCF18CAE0BB6A6AE545C6BB18"
+				"size" "DAD39D6D42F1138229EBEDBC7926450B"
+				"download" "6952C91203620AB2C7EA3887BEF41FC0"
+			}
+			"test"
+			{
+				"gid" "1F31397046CC05BFCDC5ADA44E22217A"
+				"size" "6AAABE85A4A986FC778D7637E53D9146"
+				"download" "C5E1867872210BEE195E7A307CAD5E77"
+			}
+		}
+	}
+	"1432855"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2425059959613082032"
+				"size" "2192926302"
+				"download" "881925856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "7624A00BE1F2DC9416596D46EFECC36E"
+				"size" "917F77648BF3E6505E4323A611315B43"
+				"download" "74A50AFF2B2826FDC037E4A879FD45B9"
+			}
+			"test"
+			{
+				"gid" "E982BE4B3EE77C14D36D5C86AA7E876C"
+				"size" "CA5C5398F7F35EDAC2A122DB326E8D9D"
+				"download" "8D4EF98F325814EA5373D6C9F598FF7E"
+			}
+		}
+	}
+	"1432856"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3179337455509098168"
+				"size" "1674554306"
+				"download" "619820592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "9DE5165EA2FE900D292A0260BD7D63C7"
+				"size" "F86193DD5239BDEC30349BC1762BE2BB"
+				"download" "9D3463CE91C15AD5D5C953DC0433C5F3"
+			}
+			"test"
+			{
+				"gid" "E88C4F8FEFC037CBD65AC8291140D2E8"
+				"size" "D161C43AD7FF13DAB06D22B1742A046D"
+				"download" "231BA10168E4201F53368BAEDF62DCED"
+			}
+		}
+	}
+	"1432854"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "368260963110129265"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "E87F9C9A789D1827C35DDF1C1D066F9A"
+				"size" "FA7222A9145598D7F3899A307A4EB131"
+				"download" "FA7222A9145598D7F3899A307A4EB131"
+			}
+			"test"
+			{
+				"gid" "4585FEA43E198F8D1859948C7F6487ED"
+				"size" "608C5362987107856FBC6CAD2CF30EEE"
+				"download" "608C5362987107856FBC6CAD2CF30EEE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16248905"
+			"timeupdated" "1730364813"
+		}
+		"staging"
+		{
+			"buildid" "15833410"
+			"pwdrequired" "1"
+			"timeupdated" "1727337308"
+		}
+		"test"
+		{
+			"buildid" "15410534"
+			"pwdrequired" "1"
+			"timeupdated" "1723977599"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Kyle Banks/Farewell North/{64BitSteamID}/"
+			"pattern" "*.fn"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kyle Banks/Farewell North/{64BitSteamID}/"
+					"replace" ".config/unity3d/Kyle Banks/Farewell North/{64BitSteamID}/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "588efc2992710c35c7bbdb6d9985974dab548b4f"
+"_size" "10137"
