@@ -296,9 +296,21 @@
 		{
 			"public"
 			{
-				"gid" "8000006052564628912"
-				"size" "360518627"
-				"download" "184636672"
+				"gid" "968510135401439181"
+				"size" "359688419"
+				"download" "184183440"
+			}
+			"beta"
+			{
+				"gid" "3477543607291176159"
+				"size" "359690515"
+				"download" "184183504"
+			}
+			"experimental"
+			{
+				"gid" "8676332599352318592"
+				"size" "360515163"
+				"download" "184637472"
 			}
 			"legacy-beta180"
 			{
@@ -317,18 +329,6 @@
 				"gid" "8204162146670522312"
 				"size" "306145411"
 				"download" "140415040"
-			}
-			"beta"
-			{
-				"gid" "2897258709123126501"
-				"size" "360520723"
-				"download" "184639440"
-			}
-			"experimental"
-			{
-				"gid" "8676332599352318592"
-				"size" "360515163"
-				"download" "184637472"
 			}
 		}
 		"encryptedmanifests"
@@ -351,9 +351,21 @@
 		{
 			"public"
 			{
-				"gid" "2634202545885185871"
-				"size" "358351493"
-				"download" "183670576"
+				"gid" "7479466013874720844"
+				"size" "357509103"
+				"download" "183183792"
+			}
+			"beta"
+			{
+				"gid" "7831314835082800969"
+				"size" "357510743"
+				"download" "183183936"
+			}
+			"experimental"
+			{
+				"gid" "2517399262228277756"
+				"size" "358348365"
+				"download" "183671520"
 			}
 			"legacy-beta180"
 			{
@@ -373,18 +385,6 @@
 				"size" "303476922"
 				"download" "140579904"
 			}
-			"beta"
-			{
-				"gid" "4446964178535352787"
-				"size" "358354013"
-				"download" "183671968"
-			}
-			"experimental"
-			{
-				"gid" "2517399262228277756"
-				"size" "358348365"
-				"download" "183671520"
-			}
 		}
 		"encryptedmanifests"
 		{
@@ -401,8 +401,26 @@
 	{
 		"public"
 		{
-			"buildid" "15714858"
-			"timeupdated" "1726490129"
+			"buildid" "16473413"
+			"timeupdated" "1732112364"
+		}
+		"beta"
+		{
+			"buildid" "16459860"
+			"description" "Public testing branch"
+			"timeupdated" "1732027559"
+		}
+		"dev-only"
+		{
+			"buildid" "15716229"
+			"pwdrequired" "1"
+			"timeupdated" "1726497831"
+		}
+		"experimental"
+		{
+			"buildid" "15064813"
+			"description" "Experimental features, likely buggy and unstable!"
+			"timeupdated" "1721234136"
 		}
 		"legacy-beta180"
 		{
@@ -422,23 +440,6 @@
 			"description" "Archive version of .199"
 			"timeupdated" "1632658078"
 		}
-		"beta"
-		{
-			"buildid" "15716630"
-			"timeupdated" "1726500181"
-		}
-		"dev-only"
-		{
-			"buildid" "15716229"
-			"pwdrequired" "1"
-			"timeupdated" "1726497831"
-		}
-		"experimental"
-		{
-			"buildid" "15064813"
-			"description" "Experimental features, likely buggy and unstable!"
-			"timeupdated" "1721234136"
-		}
 	}
 }
 "ufs"
@@ -447,6 +448,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "25246184"
-"_sha" "01dde4db3a93f3f68a5d92bb69772efd9bf8d8b0"
-"_size" "7965"
+"_change_number" "26281129"
+"_sha" "45eaf39f18f53179df961ac85cf62d24f3048944"
+"_size" "8007"
