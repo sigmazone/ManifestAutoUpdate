@@ -27,7 +27,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -102,6 +101,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "80.81395348837209"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1683544974"
 	"associations"
 	{
@@ -141,6 +178,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -199,8 +237,8 @@
 		"1" "9"
 		"2" "10695"
 		"3" "1741"
-		"4" "4474"
-		"5" "6948"
+		"4" "6948"
+		"5" "4474"
 		"6" "14139"
 		"7" "21725"
 		"8" "4191"
@@ -320,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "7733077248859802103"
-				"size" "28442089861"
-				"download" "27065774256"
+				"gid" "7123983890343494925"
+				"size" "27634858566"
+				"download" "26944075024"
 			}
 		}
 		"encryptedmanifests"
@@ -369,12 +407,6 @@
 				"size" "8C508458DBCE21F6FAA91A3D054E3AF4"
 				"download" "28D60CF7E55E26BB208EE0C7736F13A9"
 			}
-			"full_test_dev"
-			{
-				"gid" "636DB5E818A80A6F80A80B1461DF4FEF"
-				"size" "9E4C5DFC0CAF50ADAB246C6ACBE4EE0F"
-				"download" "22FD262E6459BA5F173C84324452149F"
-			}
 			"internal"
 			{
 				"gid" "4A37505B412C8918A8E25BB8EEEC717B"
@@ -417,12 +449,6 @@
 				"size" "CB085536F728D9AE5D00DD6C7265A66F"
 				"download" "9B154DD216897314E05279652329DE79"
 			}
-			"testgate"
-			{
-				"gid" "04A0DA5ABF555EA5B672155B3F843CAD"
-				"size" "B659BDA2EE0FD14C079EE819D899CE48"
-				"download" "2ED20D3C6B59B5A14DF2F72D50CF2C6D"
-			}
 			"trailer_branch"
 			{
 				"gid" "870A8BA13841BAFA9A4D60E8566441B7"
@@ -453,14 +479,26 @@
 				"size" "8D18322E69BA5EC930853A27CEAEAF4D"
 				"download" "D20A5DCB9B0BF86BA156B0D43BB759F0"
 			}
+			"full_test_dev"
+			{
+				"gid" "57D72659CF8F73267B9547641F66FBBC"
+				"size" "900FAA89DDC883B87B7372279D8EA857"
+				"download" "3B4028A8DCD8043C179FB1BAF1C0BDB9"
+			}
+			"testgate"
+			{
+				"gid" "51986FC61F8A27BE7B045AAD2E5116F0"
+				"size" "17841AFD30636C20906AD01870A9D728"
+				"download" "EFC0B24FE268B775CDB43F514D5A7E9D"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "9291726"
-			"timeupdated" "1661857128"
+			"buildid" "16180202"
+			"timeupdated" "1732110871"
 		}
 		"baseline"
 		{
@@ -504,12 +542,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1660167225"
 		}
-		"full_test_dev"
-		{
-			"buildid" "9292420"
-			"pwdrequired" "1"
-			"timeupdated" "1660176233"
-		}
 		"internal"
 		{
 			"buildid" "7744520"
@@ -552,12 +584,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1660073447"
 		}
-		"testgate"
-		{
-			"buildid" "7702235"
-			"pwdrequired" "1"
-			"timeupdated" "1636729777"
-		}
 		"trailer_branch"
 		{
 			"buildid" "7779396"
@@ -587,6 +613,18 @@
 			"buildid" "8525795"
 			"pwdrequired" "1"
 			"timeupdated" "1649510909"
+		}
+		"full_test_dev"
+		{
+			"buildid" "16180108"
+			"pwdrequired" "1"
+			"timeupdated" "1729857783"
+		}
+		"testgate"
+		{
+			"buildid" "16180202"
+			"pwdrequired" "1"
+			"timeupdated" "1729858363"
 		}
 	}
 }
@@ -620,6 +658,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20545736"
-"_sha" "36304e9d49917844959bca7f173f62df97c00a6c"
-"_size" "12729"
+"_change_number" "26280643"
+"_sha" "d5dc14ea93a92f1d1ec125898271df2a4fa889d8"
+"_size" "13273"
