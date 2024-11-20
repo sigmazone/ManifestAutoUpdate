@@ -1,0 +1,392 @@
+"appid" "2013730"
+"common"
+{
+	"name" "Gourdlets"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "7548204f096243031e0998812339b248787ee057"
+	"clienttga" "3eb4fcf5a7c3c1934470b4d0264b262bd7da244f"
+	"clienticns" "a0479f919766479577201df3217c98019c2d31ac"
+	"clienticon" "f9099ca8a6e9e703fdd673a48cb19030834ddd9e"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728950400"
+		"tested_build_id" "15733920"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.62700228832952"
+			"height_pct" "57.59909998266723"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.62700228832952"
+				"height_pct" "57.59909998266723"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723735741"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AuntyGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Future Friends Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "AuntyGames"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1723738544"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2013730"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "4328"
+		"2" "1654"
+		"3" "599"
+		"4" "1643"
+		"5" "4726"
+		"6" "4305"
+		"7" "3964"
+		"8" "97376"
+		"9" "1695"
+		"10" "379975"
+		"11" "4166"
+		"12" "5125"
+		"13" "4182"
+		"14" "597"
+		"15" "5851"
+		"16" "492"
+		"17" "5350"
+		"18" "1638"
+		"19" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "AuntyGames"
+	"publisher" "Future Friends Games"
+	"homepage" "https://www.auntygames.com/"
+}
+"config"
+{
+	"installdir" "Gourdlets"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Gourdlets.app/Contents/MacOS/Gourdlets"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"1"
+		{
+			"executable" "windows.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "linux.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2013732"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4217051408642041264"
+				"size" "237481096"
+				"download" "170810640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"github_actions"
+			{
+				"gid" "03BB83F9127A67E56D3E6E29EBDA8E6A"
+				"size" "821ABC5E6F31577AC1D130A0B9C8EFCA"
+				"download" "80DD22EBF0E7A5F46048A5E870060CAD"
+			}
+			"newfeaturepreview"
+			{
+				"gid" "8E15E361CDE495B7985EF20FE18FB2DF"
+				"size" "15D1B126389F5B9FD62D878A1C8F5B7B"
+				"download" "234A598BDF8C2A15DE5DC2ADAA94F8A2"
+			}
+		}
+	}
+	"2013733"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "710830745449802079"
+				"size" "311162105"
+				"download" "186068880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"github_actions"
+			{
+				"gid" "B8326D15F0A197A5D29BF7DFAA53973B"
+				"size" "1845CBEA2BC2D09B15574B7CD8DDFACB"
+				"download" "6FFB4F0AC539E0E052BD2DB1E522491F"
+			}
+			"newfeaturepreview"
+			{
+				"gid" "053B57217157F9C8090D81D89FAD0990"
+				"size" "D2404D490729298446EB03E074A3C3AF"
+				"download" "25541975FCCD424682A31015C80822BF"
+			}
+		}
+	}
+	"2013734"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6079657517324673942"
+				"size" "231688480"
+				"download" "168619120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"github_actions"
+			{
+				"gid" "D2EA9A5F9BD741C73B9DEB44A96014EF"
+				"size" "96F741E6C88FB94304BC21C2764172C5"
+				"download" "CB98727F7E18671E14989DF13B4F884D"
+			}
+			"newfeaturepreview"
+			{
+				"gid" "27C50B4359B6CDF028475A7EC19D0C71"
+				"size" "D2538F5885C4A4403754F081A52000CA"
+				"download" "00565B24272FE53E4A1B442BEFAB52EA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16457250"
+			"timeupdated" "1732013807"
+		}
+		"github_actions"
+		{
+			"buildid" "16457250"
+			"pwdrequired" "1"
+			"timeupdated" "1732013746"
+		}
+		"newfeaturepreview"
+		{
+			"buildid" "15621510"
+			"pwdrequired" "1"
+			"timeupdated" "1725660745"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26259838"
+"_sha" "8730d17bece4ce38ab7636770ee5c8f9c9a236e9"
+"_size" "6967"
