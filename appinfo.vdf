@@ -143,7 +143,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1719412353"
+	"store_asset_mtime" "1732112286"
 	"associations"
 	{
 		"0"
@@ -232,8 +232,8 @@
 		"10" "1742"
 		"11" "9204"
 		"12" "3920"
-		"13" "87918"
-		"14" "5350"
+		"13" "5350"
+		"14" "87918"
 		"15" "15564"
 		"16" "1702"
 		"17" "4057"
@@ -248,7 +248,7 @@
 	"developer" "Gameloft"
 	"publisher" "Gameloft"
 	"homepage" "https://disneydreamlightvalley.com/"
-	"listofdlc" "2061640,2061641,2632050,2632060"
+	"listofdlc" "2061640,2061641,2632050,2632060,3259120"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -292,42 +292,54 @@
 		{
 			"public"
 			{
-				"gid" "6959830569640014359"
-				"size" "13636948698"
-				"download" "11640551888"
+				"gid" "7052135261869738004"
+				"size" "16797860719"
+				"download" "14301937120"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"develop"
 			{
-				"gid" "3656EE493719EC6E76FD76EE31934F5C"
-				"size" "0A28E9837189E81050EABC369FED28F8"
-				"download" "3F5C89DBF7BFAA9AF8B8AFC55C6CA8EE"
+				"gid" "A558A0079C66D68DA7D159D6B557C5E2"
+				"size" "CF89A463F3234DFD2E28759A74C64DAC"
+				"download" "09A6987BE63151137FD33A354DF67552"
 			}
 			"latest-qa-build"
 			{
-				"gid" "7AD3BF439D531015A881C868D8CA6420"
-				"size" "0616394C5A1C24A71526F36AA2BAE06A"
-				"download" "A34D5927A8C8F6E99935731A63B7A7B3"
+				"gid" "13B74DA12BED0CF76DDA51735AAC29B3"
+				"size" "B9C9CA5DE3836C7F21571C37542AA41C"
+				"download" "21F4393FF5FCEFA71CEEC383FB7F61F8"
 			}
 			"playtest"
 			{
-				"gid" "D3CB42FD128E4F0537ECD6996380FCBF"
-				"size" "09D71E2CE3240010EAA81F61A9825914"
-				"download" "5175967D4BE8E1DFC0CE47F56C057305"
+				"gid" "ECDAD03A1871143CBEABAB7FBA40641D"
+				"size" "D8430650566D61594849DE6C00A43744"
+				"download" "CD76FCC4AE54BEC4E35C05137E9881CC"
 			}
 			"qa-certification-branch"
 			{
-				"gid" "BEFEF1A05498BC0644005D11317CEE12"
-				"size" "3B6F34ADBC48A252E1E6C7EB29C06403"
-				"download" "FABB5D891D57B7E079F2AEFFC4F4D685"
+				"gid" "0FAE9ECF2636B9250E20A10EDD299389"
+				"size" "6BADA617C0BF1978DBE05C54BA1C6516"
+				"download" "EA76916B9A40E033093271C87499CB41"
 			}
 			"qa-compat-branch"
 			{
-				"gid" "AE633F2BEC57641CD776123D3D0BBA85"
-				"size" "EE57A0181AC9182B21339B05D8C4445D"
-				"download" "173610D651493666B19D3425BEFD24F0"
+				"gid" "436ABCC1D9994128C1B816B993A9F7D0"
+				"size" "C76145C93913FEEB25D52218396BBF8E"
+				"download" "B194351383C885E554D3A5E8A4065976"
+			}
+			"review"
+			{
+				"gid" "973A5276867E5C1C4288E5CE6968D76B"
+				"size" "BC61A5AAE5091A3D6823E8A16D3A149C"
+				"download" "82524B754FEF9BA371470393F6D835BF"
+			}
+			"review1"
+			{
+				"gid" "B83F5F98DCC928E1E2C4869DEAFE2C96"
+				"size" "E385E0628CDFAFE1BD5C7A24BA510851"
+				"download" "29898D234AABC48710AF3F60695F5F88"
 			}
 		}
 	}
@@ -347,42 +359,54 @@
 	{
 		"public"
 		{
-			"buildid" "15855710"
-			"timeupdated" "1728478837"
+			"buildid" "16348801"
+			"timeupdated" "1732111521"
 		}
 		"develop"
 		{
-			"buildid" "15976662"
+			"buildid" "16442313"
 			"pwdrequired" "1"
-			"timeupdated" "1728455239"
+			"timeupdated" "1731923116"
 		}
 		"latest-qa-build"
 		{
-			"buildid" "15856153"
+			"buildid" "16472753"
 			"pwdrequired" "1"
-			"timeupdated" "1727473866"
+			"timeupdated" "1732108627"
 		}
 		"playtest"
 		{
-			"buildid" "15956935"
+			"buildid" "16367528"
 			"pwdrequired" "1"
-			"timeupdated" "1728323888"
+			"timeupdated" "1732061986"
 		}
 		"qa-certification-branch"
 		{
-			"buildid" "15855710"
+			"buildid" "16466547"
 			"pwdrequired" "1"
-			"timeupdated" "1727470758"
+			"timeupdated" "1732068806"
 		}
 		"qa-compat-branch"
 		{
-			"buildid" "15609440"
+			"buildid" "15855710"
 			"pwdrequired" "1"
-			"timeupdated" "1726191935"
+			"timeupdated" "1732046282"
+		}
+		"review"
+		{
+			"buildid" "16369110"
+			"pwdrequired" "1"
+			"timeupdated" "1731350902"
+		}
+		"review1"
+		{
+			"buildid" "16397385"
+			"pwdrequired" "1"
+			"timeupdated" "1731530892"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25628641"
-"_sha" "b4dd6da39f7ff5d35232051c2009ce0d3c3194d3"
-"_size" "7021"
+"_change_number" "26281116"
+"_sha" "ffdbfc92ed3544b31f8e93d8a62655927e159a04"
+"_size" "7581"
