@@ -1,0 +1,393 @@
+"appid" "700030"
+"common"
+{
+	"name" "Life is Feudal: MMO"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "8cda3d2edb83730138a499c9c3a2cd3253b5732f"
+	"logo" "7c92701ec2c8543d1616570b8802c6ee1d56732a"
+	"logo_small" "7c92701ec2c8543d1616570b8802c6ee1d56732a_thumb"
+	"clienticon" "3f4a9598a7daec49d08510a08cda648cb84fc5d4"
+	"clienttga" "901be5b05bb57527320f4957a88941e05aa827e8"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "700030_eula_1"
+			"name" "Life is Feudal: MMO EULA"
+			"url" "https://store.steampowered.com//eula/700030_eula_1"
+			"version" "3"
+		}
+	}
+	"metacritic_name" "Life is Feudal: MMO"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37.9977531129684"
+			"height_pct" "73.00000077467699"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "37.9977531129684"
+				"height_pct" "73.00000077467699"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1716821644"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LTG"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LTG"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_36" "1"
+		"category_35" "1"
+		"category_1" "1"
+		"category_49" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1515776700"
+	"community_hub_visible" "1"
+	"gameid" "700030"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "1754"
+		"1" "1100689"
+		"2" "4172"
+		"3" "1775"
+		"4" "1662"
+		"5" "3987"
+		"6" "7332"
+		"7" "3810"
+		"8" "1697"
+		"9" "4695"
+		"10" "128"
+		"11" "1702"
+		"12" "599"
+		"13" "493"
+		"14" "1643"
+		"15" "19"
+		"16" "1695"
+		"17" "5711"
+		"18" "21"
+		"19" "122"
+	}
+	"review_score" "5"
+	"review_percentage" "40"
+}
+"extended"
+{
+	"developer" "LTG"
+	"publisher" "LTG"
+	"homepage" "https://lifeisfeudalmmo.com/"
+	"isfreeapp" "1"
+	"listofdlc" "706260,706261,706262"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Life is Feudal MMO"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launcher.exe"
+			"arguments" "-steam_auto_login"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"700031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2890587637260710899"
+				"size" "18474049499"
+				"download" "5711634784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "B3A0980C9DC2036502DEC7494AC8A36D"
+				"size" "65E78F0D0B27E82978C7F9FDDA452367"
+				"download" "9F2A2B4AE70073A4FBACB32D18226313"
+			}
+			"delta-test"
+			{
+				"gid" "49120025FD3263251C0B9BAFDE174F82"
+				"size" "3EE58C01941B4E383C72A2CBDF3BE5E9"
+				"download" "62AA8A1BFC6DA8D593373D9BA7B7062C"
+			}
+			"gamma-test"
+			{
+				"gid" "752686DF1465A60248704F9B7025B5A3"
+				"size" "B773F631862544F62AE0AF555FBC61C1"
+				"download" "190BD8EF0A6933A9EDB22C3FD168A78D"
+			}
+			"pressa"
+			{
+				"gid" "BC1D18DC21DD5D55D4C44ED6C521EFD6"
+				"size" "82CF59CD6D3F2716DB6EB1E65D2984B6"
+				"download" "E8038028BA3B0D0C9D2F8F7F92236AFA"
+			}
+		}
+	}
+	"706260"
+	{
+		"dlcappid" "706260"
+	}
+	"706261"
+	{
+		"dlcappid" "706261"
+	}
+	"706262"
+	{
+		"dlcappid" "706262"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16484676"
+			"timeupdated" "1732185722"
+		}
+		"beta"
+		{
+			"buildid" "4932298"
+			"pwdrequired" "1"
+			"timeupdated" "1587595213"
+		}
+		"delta-test"
+		{
+			"buildid" "15037552"
+			"pwdrequired" "1"
+			"timeupdated" "1721055897"
+		}
+		"gamma-test"
+		{
+			"buildid" "16484676"
+			"pwdrequired" "1"
+			"timeupdated" "1732185176"
+		}
+		"pressa"
+		{
+			"buildid" "16484805"
+			"pwdrequired" "1"
+			"timeupdated" "1732185671"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26296064"
+"_sha" "97dbe3e78b6e06d917e7d125493d688ac52f6fe7"
+"_size" "6264"
