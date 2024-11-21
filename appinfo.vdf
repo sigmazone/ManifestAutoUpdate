@@ -293,33 +293,33 @@
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollerconfigdetails"
 	{
-		"12000011321"
+		"3368336232"
 		{
-			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,dummy_kludge,prerelease"
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
 			"use_action_block" "false"
 		}
-		"12000011320"
+		"3368336427"
 		{
-			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,dummy_kludge,prerelease"
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
 			"use_action_block" "false"
 		}
-		"12000011324"
+		"3368336689"
 		{
-			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,dummy_kludge,prerelease"
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default"
 			"use_action_block" "false"
 		}
-		"12000011323"
+		"3368337726"
 		{
-			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,dummy_kludge,prerelease"
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default"
 			"use_action_block" "false"
 		}
 	}
 	"steamdecktouchscreen" "1"
-	"steamconfigurator3rdpartynative" "3"
+	"steamconfigurator3rdpartynative" "11"
 }
 "depots"
 {
@@ -330,19 +330,19 @@
 		{
 			"public"
 			{
-				"gid" "2822740441425028854"
-				"size" "3052953823"
-				"download" "1793879856"
+				"gid" "6505941761483987192"
+				"size" "3052958921"
+				"download" "1793880512"
 			}
 			"beta"
 			{
-				"gid" "2822740441425028854"
-				"size" "3052953823"
-				"download" "1793879856"
+				"gid" "6505941761483987192"
+				"size" "3052958921"
+				"download" "1793880512"
 			}
 			"previous_build"
 			{
-				"gid" "6008560204035933681"
+				"gid" "2822740441425028854"
 				"size" "3052953823"
 				"download" "1793879856"
 			}
@@ -396,21 +396,21 @@
 		{
 			"public"
 			{
-				"gid" "6957935849465041682"
+				"gid" "1049594648635401552"
 				"size" "265689089"
-				"download" "99343216"
+				"download" "99354384"
 			}
 			"beta"
 			{
-				"gid" "6957935849465041682"
+				"gid" "1049594648635401552"
 				"size" "265689089"
-				"download" "99343216"
+				"download" "99354384"
 			}
 			"previous_build"
 			{
-				"gid" "7977986672222166712"
-				"size" "265687553"
-				"download" "99295904"
+				"gid" "6957935849465041682"
+				"size" "265689089"
+				"download" "99343216"
 			}
 			"steam_legacy"
 			{
@@ -466,15 +466,15 @@
 		{
 			"public"
 			{
-				"gid" "3846815528006080671"
+				"gid" "3760418082858632025"
 				"size" "153310142"
-				"download" "50108736"
+				"download" "50109040"
 			}
 			"beta"
 			{
-				"gid" "3846815528006080671"
+				"gid" "3760418082858632025"
 				"size" "153310142"
-				"download" "50108736"
+				"download" "50109040"
 			}
 			"previous_build"
 			{
@@ -530,20 +530,20 @@
 	{
 		"public"
 		{
-			"buildid" "16438633"
-			"timeupdated" "1731894252"
+			"buildid" "16478333"
+			"timeupdated" "1732146824"
 		}
 		"beta"
 		{
-			"buildid" "16438633"
+			"buildid" "16478333"
 			"description" "upcoming fixes"
-			"timeupdated" "1731894271"
+			"timeupdated" "1732146288"
 		}
 		"previous_build"
 		{
-			"buildid" "16432110"
+			"buildid" "16438633"
 			"description" "the last released update"
-			"timeupdated" "1731894318"
+			"timeupdated" "1732146747"
 		}
 		"steam_legacy"
 		{
@@ -554,6 +554,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26237772"
-"_sha" "c340594cb898b741da42909f6e7b3530ba502b28"
-"_size" "12089"
+"_change_number" "26288721"
+"_sha" "08b8829a39d3cc072aee1d99ba9fcf009bb1d393"
+"_size" "11926"
