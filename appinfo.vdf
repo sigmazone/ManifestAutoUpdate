@@ -34,24 +34,24 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1709251200"
-		"tested_build_id" "13515279"
+		"test_timestamp" "1729900800"
+		"tested_build_id" "16145395"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"2"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"3"
 			{
@@ -59,11 +59,6 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
-			}
-			"5"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -78,8 +73,8 @@
 			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
-			"requires_internet_for_singleplayer" "1"
-			"recommended_runtime" "proton-9.0-1RC"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -300,7 +295,7 @@
 	{
 		"0"
 		{
-			"executable" "NWXClient.exe"
+			"executable" "NWX.exe"
 			"arguments" "-projectName flx-live -featureSet flighting"
 			"type" "default"
 			"config"
@@ -312,7 +307,7 @@
 		}
 		"1"
 		{
-			"executable" "NWXClient.exe"
+			"executable" "NWX.exe"
 			"arguments" "-projectName flx-ptr -featureSet flighting"
 			"type" "default"
 			"config"
@@ -327,7 +322,7 @@
 		}
 		"2"
 		{
-			"executable" "NWXClient.exe"
+			"executable" "NWX.exe"
 			"arguments" "-projectName flx-live -featureSet flighting"
 			"type" "default"
 			"config"
@@ -373,9 +368,9 @@
 		{
 			"public"
 			{
-				"gid" "3765350585907812720"
-				"size" "60430777073"
-				"download" "59368502928"
+				"gid" "6387209153750830978"
+				"size" "52205838985"
+				"download" "51133554080"
 			}
 			"nightingale-0.3.2"
 			{
@@ -383,20 +378,20 @@
 				"size" "53789597174"
 				"download" "52323012096"
 			}
+			"public-test-realm"
+			{
+				"gid" "7117214536844088220"
+				"size" "52205865457"
+				"download" "51134142112"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"live"
 			{
-				"gid" "30ABB351EDE8BBB15D50E23ED387CDD4"
-				"size" "642A470D4EF6AAAF11393CDE75454E2E"
-				"download" "EFD46740B08AC0C63D10F7BC33CA7DC2"
-			}
-			"public-test-realm"
-			{
-				"gid" "E105D9EE4BAE76F7FBE5B4CB5F64CCB2"
-				"size" "ED860C53E3331C63BBC14813B9DE9D92"
-				"download" "F8E70466BB20354431C8D5B3892B1F8A"
+				"gid" "0FCF0FAB77AEA527DBFF7D552EF0AF86"
+				"size" "C4247FAEF75E146351094B7C98472532"
+				"download" "0623573A68268DBA9C153B29E6F55E68"
 			}
 		}
 	}
@@ -404,14 +399,14 @@
 	{
 		"public"
 		{
-			"buildid" "16145395"
-			"timeupdated" "1729700752"
+			"buildid" "16476633"
+			"timeupdated" "1732140168"
 		}
 		"live"
 		{
-			"buildid" "16145395"
+			"buildid" "16476633"
 			"pwdrequired" "1"
-			"timeupdated" "1729654273"
+			"timeupdated" "1732129844"
 		}
 		"nightingale-0.3.2"
 		{
@@ -421,9 +416,9 @@
 		}
 		"public-test-realm"
 		{
-			"buildid" "16083798"
-			"pwdrequired" "1"
-			"timeupdated" "1729181072"
+			"buildid" "16417635"
+			"description" "Test branch for upcoming releases"
+			"timeupdated" "1731661821"
 		}
 	}
 }
@@ -443,6 +438,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25861368"
-"_sha" "1875eaa667dc2c9b06058dd565e58562fe1ce3d3"
-"_size" "8161"
+"_change_number" "26287633"
+"_sha" "c968c3e11d4915789bba89ebf9d407875796e23a"
+"_size" "7978"
