@@ -1,0 +1,867 @@
+"appid" "1858630"
+"common"
+{
+	"name" "SWORD ART ONLINE Fractured Daydream"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"koreana" "소드 아트 온라인 프랙처드 데이드림"
+		"schinese" "刀剑神域 碎梦边境"
+		"tchinese" "刀劍神域 碎夢邊境"
+		"japanese" "ソードアート・オンライン フラクチュアード デイドリーム"
+	}
+	"clienttga" "8c8645327e940e5d978cd0368e2bd7a5023aca6e"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1858630_eula_1"
+			"name" "SWORD ART ONLINE Fractured Daydream EULA"
+			"url" "https://store.steampowered.com//eula/1858630_eula_1"
+			"version" "1"
+		}
+	}
+	"clienticon" "431f1793438212212542992931f84b9b6d82eac7"
+	"icon" "caedb2803eac4ef546f3916051bd6a32c8c37a14"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729209600"
+		"tested_build_id" "15565965"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,ko,zh-tw,zh-cn"
+		"library_header" "en,ko,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.158872948550915"
+			"height_pct" "65.625"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "5e0a5c41e5d47e96aa04a6648f4b1d01b9c54c78/library_600x900.jpg"
+				"koreana" "4ff944b2b4e6faa935342fbbbf7aacd89f060fc5/library_600x900_koreana.jpg"
+				"tchinese" "f3eb9569d9a902af770d19662d02e7ca97297b6c/library_600x900_tchinese.jpg"
+				"schinese" "f3eb9569d9a902af770d19662d02e7ca97297b6c/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "5e0a5c41e5d47e96aa04a6648f4b1d01b9c54c78/library_600x900_2x.jpg"
+				"koreana" "4ff944b2b4e6faa935342fbbbf7aacd89f060fc5/library_600x900_koreana_2x.jpg"
+				"tchinese" "f3eb9569d9a902af770d19662d02e7ca97297b6c/library_600x900_tchinese_2x.jpg"
+				"schinese" "f3eb9569d9a902af770d19662d02e7ca97297b6c/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "5edbda0e44391fc4aa0816a3767a57ac7be4e15a/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "5edbda0e44391fc4aa0816a3767a57ac7be4e15a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "5edbda0e44391fc4aa0816a3767a57ac7be4e15a/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.158872948550915"
+				"height_pct" "65.625"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a82066661e1f0c2c472a66fef12a89580225a54a/library_header.jpg"
+				"koreana" "50310a994f0374168b062ae9fd23a32b38d45386/library_header_koreana.jpg"
+				"tchinese" "99fe2a7c152f7b5b2ba15dd05f11d7dcd200a184/library_header_tchinese.jpg"
+				"schinese" "99fe2a7c152f7b5b2ba15dd05f11d7dcd200a184/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "a82066661e1f0c2c472a66fef12a89580225a54a/library_header_2x.jpg"
+				"koreana" "50310a994f0374168b062ae9fd23a32b38d45386/library_header_koreana_2x.jpg"
+				"tchinese" "99fe2a7c152f7b5b2ba15dd05f11d7dcd200a184/library_header_tchinese_2x.jpg"
+				"schinese" "99fe2a7c152f7b5b2ba15dd05f11d7dcd200a184/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729661010"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dimps Corporation"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Sword Art Online"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727992800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1858630"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "4231"
+		"3" "3859"
+		"4" "597"
+		"5" "4085"
+		"6" "3843"
+		"7" "4182"
+		"8" "1646"
+		"9" "3814"
+		"10" "4191"
+		"11" "1684"
+		"12" "4608"
+		"13" "4057"
+		"14" "6730"
+		"15" "4747"
+		"16" "1742"
+		"17" "1754"
+		"18" "1695"
+		"19" "4434"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Dimps Corporation"
+	"publisher" "Bandai Namco Entertainment"
+	"homepage" "https://fd.sao-game.jp/"
+	"listofdlc" "2387391,2877820,2877830,2877840,2939660,2985460,3037280,3047110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SWORD ART ONLINE Fractured Daydream"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_protected_game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SAOFD Artbook and Soundtrack\\SAOFD Artbook and Soundtrack.exe"
+			"config"
+			{
+				"ownsdlc" "2387391"
+			}
+			"description_loc"
+			{
+				"english" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"german" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"french" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"italian" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"koreana" "소드 아트 온라인 프랙처드 데이드림 부록 미니 게임&디지털 아트북&사운드 트랙"
+				"spanish" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"schinese" "SWORD ART ONLINE 碎梦边境 数字美术书&数字原声带 附迷你游戏"
+				"tchinese" "SWORD ART ONLINE 碎夢邊境 數位美術書＆數位原聲帶 附迷你遊戲"
+				"russian" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"thai" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"japanese" "SWORD ART ONLINE Fractured Daydream ミニゲーム付きデジタルアートブック＆サウンドトラック"
+				"brazilian" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+				"latam" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+			}
+			"description" "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1858631"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1512440155788673842"
+				"size" "45037097424"
+				"download" "43837011552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"as_debug"
+			{
+				"gid" "40DF92B7F927ED9670EC280B7C9473AC"
+				"size" "B5FA1FCAFF7D02D33420626F5C6B4417"
+				"download" "B5FA1FCAFF7D02D33420626F5C6B4417"
+			}
+			"as_development"
+			{
+				"gid" "18B33AF722C9A13BA669479A8EF8B88D"
+				"size" "315346CC73E07F66DDE257B14E4CDA8F"
+				"download" "315346CC73E07F66DDE257B14E4CDA8F"
+			}
+			"as_release"
+			{
+				"gid" "1BC234E380F2492A9031AA8ABA5CF83F"
+				"size" "D9BE546823094DD1F53227F9DEBD7F81"
+				"download" "D9BE546823094DD1F53227F9DEBD7F81"
+			}
+			"build-review"
+			{
+				"gid" "CED93ADAF72A7CB01AB8C9618739BC22"
+				"size" "F4F1D0C7E012BFE3765741F56C79F09B"
+				"download" "01B44551B7DE3B1CE3F037EB385532D8"
+			}
+			"build-review-cbt"
+			{
+				"gid" "92088D7A5AEFF056A25604C52E727F84"
+				"size" "C122CED93EFD2B547C2D3F223A6F895B"
+				"download" "B1764B8C310BDB1AD7CAE04424A20383"
+			}
+			"compat"
+			{
+				"gid" "2BF294884AE04A20934C32C27C2D0788"
+				"size" "7789DFEB02D452F87F050B391F800546"
+				"download" "6F2619E35A547819252E1331C5AC6510"
+			}
+			"dev-release"
+			{
+				"gid" "82A7B68FA0392B1005E39E2318BD53C1"
+				"size" "ECD72AD14BC3269115A0CA3603B68C9D"
+				"download" "3B42D06BACE7AC4A326791257425E2DC"
+			}
+			"dev-release-cbt"
+			{
+				"gid" "352C5302A7A0C49EE4B4F7A09527F83E"
+				"size" "8427AC45041DB10459AA6CCAC15A4493"
+				"download" "2BD62177F5BC0C6444298A070752201F"
+			}
+			"dev-release-s1"
+			{
+				"gid" "196DDFC4C9F0802718FA2D5ABB96D5B9"
+				"size" "938AF25C1AB581CF9AAEF9347F0AB159"
+				"download" "59309A5CFB2D9D74FA4F08038C6C0342"
+			}
+			"dev-release-t1"
+			{
+				"gid" "8C66B6319F32A9BF7C631645CB4134B6"
+				"size" "35277554340F35237965D369B4A6DE6B"
+				"download" "6BCBB6EB41B23093CFD47DE22EE705BC"
+			}
+			"development"
+			{
+				"gid" "C3B53DD1FD71CCF6CA6AEB573A660703"
+				"size" "FEEF6A69EA864D7B705FE0C24A8B25B1"
+				"download" "84FCD512A10F57A2FAB9DAB15A6198ED"
+			}
+			"development-cbt"
+			{
+				"gid" "C5B42A83568B4CFCE0F1200F6D5ED517"
+				"size" "1B58DBE2C496680D0863F411227A0422"
+				"download" "179A5CA2C7A5B376524C9466FB72D53B"
+			}
+			"development-s1"
+			{
+				"gid" "DAF285BBDDC0AF3B167AB1B19066A571"
+				"size" "859C33F98B8B01A96625E751BB86E2ED"
+				"download" "B39203D3A48DF4A28DC40F21336BC38D"
+			}
+			"development-t1"
+			{
+				"gid" "F10FF87999CBE0D56ADDBB262F7B0B00"
+				"size" "0C46DE1FC0ED86F5F5CB41BD22FC9CB3"
+				"download" "673140E8B7444A1ED610B14EE14AE550"
+			}
+			"mc-debug"
+			{
+				"gid" "7ABEB9D9212B57B79CE90D9F9EF1530B"
+				"size" "FCD3ACB9AF3F0A3B038A3D2655F47FB8"
+				"download" "07C11B1E80D53A8D9AAA38A81035C880"
+			}
+			"mc-release"
+			{
+				"gid" "AF3604BC35C17033ACED0F457ECBC9AE"
+				"size" "A207889BF4F2E66D3F0BCCD0EF9908DA"
+				"download" "702CDE221A728FCC4DD0FC4A37CA18B1"
+			}
+			"press"
+			{
+				"gid" "3B9C000A4FE1B096BA15A3ED7BBB9C75"
+				"size" "5554D812C3B56A5B68856E12D39B9CD0"
+				"download" "5078809E84EEC9BF8DA5BB2DAC399E2F"
+			}
+			"qa-debug"
+			{
+				"gid" "D0CB285EDBDFDB55F1F02DB6B7CC44CA"
+				"size" "3071CE5206B86C27162FCA706409C42B"
+				"download" "10FEDEAE0EB5162ED49F8BF25CAE2E95"
+			}
+			"qa-debug-cbt"
+			{
+				"gid" "26FB473527C489D3473207E633047A2B"
+				"size" "72D5D940A6AF2AF0CA22DDF700102CB2"
+				"download" "E633A1CF15C70B7EC86D5964D3A8EAD0"
+			}
+			"qa-debug-s1"
+			{
+				"gid" "98A73C26654D66DFE78DE76647CBAF2D"
+				"size" "0B3DF08647ECC058A7C587D55EE21C94"
+				"download" "9E855C9FDE6C927CAA4448B29939F8CA"
+			}
+			"qa-release"
+			{
+				"gid" "1E24F7EE01EC6AC1A61F631D4D006212"
+				"size" "1A77CAE70D7110AEEFF4B2DC859589C9"
+				"download" "BB77EC59A37BC7AEB5EF03806FC0B829"
+			}
+			"qa-release-cbt"
+			{
+				"gid" "FA0325E36BB1451032C4E884C02D0EE5"
+				"size" "CAE1DEFD8E16571333A4627AD16CC5FE"
+				"download" "9CD87E2280162DF02B8D797338C0B65D"
+			}
+			"qa-release-expo"
+			{
+				"gid" "CDDAB87368BC6250C3199F6262659BF5"
+				"size" "F161E5F68E5D20D6F0C605595FD772B7"
+				"download" "BA852B224539386D61F7F450A076BA52"
+			}
+			"qa-release-s1"
+			{
+				"gid" "33BBAFDFE40272B050C2323B05F41529"
+				"size" "36B197780D0EEFBE980AA179DFBF232C"
+				"download" "A6580DC92D18F8E418FDA529A57124F3"
+			}
+		}
+	}
+	"1858632"
+	{
+	}
+	"2387391"
+	{
+		"dlcappid" "2387391"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7408737874369189412"
+				"size" "754366451"
+				"download" "641518096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"as_debug"
+			{
+				"gid" "6ED846146B3AB77BD35CB4CCC69E40F1"
+				"size" "A375C452E0BBD62819EEC731ED28CC3B"
+				"download" "7328445C652AFAE87EE3E2FCB1CC2AB3"
+			}
+			"as_development"
+			{
+				"gid" "197A4D8EDA711B17E017FADF95216D79"
+				"size" "E5323466DF99F24565C7BA25C622953F"
+				"download" "7324FDAD85899F9EEB12BF980A7520AC"
+			}
+			"as_release"
+			{
+				"gid" "3BEC77AEE5DA3917374757595EB15C25"
+				"size" "43C831A80EE71DF85A8AE18765CA29DF"
+				"download" "2730F1D95CC78074A613ECCE727CA424"
+			}
+			"dev-release-s1"
+			{
+				"gid" "3F4634ECFF6492E0341CF342781B3EA3"
+				"size" "5520B56AFDFF2D5F7CB428621DEF1E4D"
+				"download" "E2F8694DFC3D2DC10D6A67C6536B647E"
+			}
+			"dev-release-t1"
+			{
+				"gid" "0EFC1231C15D08BCDD23787B3407CCEF"
+				"size" "194643B637DBA228A485429CE6FBCF35"
+				"download" "54B1A03EFBE2DBBCF73ABC03299569DE"
+			}
+			"development-s1"
+			{
+				"gid" "0B72D9B844E70B01C71BDB0080061EE7"
+				"size" "516EB3C2DD79F862FF2FE3D7BC2DD272"
+				"download" "F007EE6B98A8D821D6E3F4D3533E6C86"
+			}
+			"development-t1"
+			{
+				"gid" "501B3C420A66464FDAE3B4E1F9181F42"
+				"size" "37405735D6B22DA82242EBC30D995446"
+				"download" "323FFAFC6AD090872A722258A37AC95F"
+			}
+			"press"
+			{
+				"gid" "41538DE451119426D526D884037ACDE3"
+				"size" "AFF2A21AEB35354DE89408D7B10F4FD1"
+				"download" "0F2AA168A70FF5A738274D3B54C584DA"
+			}
+			"qa-debug-s1"
+			{
+				"gid" "CEBA7E70A34DD70291BC1A6498EC5750"
+				"size" "6058E30ABF4635F430B9404026D67F16"
+				"download" "4E58DE6887755A6BC3794011750E2D1B"
+			}
+			"qa-release"
+			{
+				"gid" "99A7B4E77F8BAF04BA0C923EFC053C5D"
+				"size" "E4F9BB3C8A2F7AEA2817AAB23F32786D"
+				"download" "28B53E5554B07D121270786AE27200DC"
+			}
+			"qa-release-expo"
+			{
+				"gid" "4CDEFA55A2B395A53BAAB3BB60C8CCBD"
+				"size" "B8A1BF9B3D687140FA7E89C5D1551EDE"
+				"download" "9F9F5E055415FC5C6226F3B08B6B309F"
+			}
+			"qa-release-s1"
+			{
+				"gid" "A3F893354915FE41603647C138B303DD"
+				"size" "4E21DF275D40D9DD869C6EBAA7E373CC"
+				"download" "8656043E71EF6EA1B89551F624DE1164"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16328627"
+			"timeupdated" "1732158055"
+		}
+		"as_debug"
+		{
+			"buildid" "14621932"
+			"pwdrequired" "1"
+			"timeupdated" "1717653791"
+		}
+		"as_development"
+		{
+			"buildid" "14621932"
+			"pwdrequired" "1"
+			"timeupdated" "1717653812"
+		}
+		"as_release"
+		{
+			"buildid" "14621932"
+			"pwdrequired" "1"
+			"timeupdated" "1717653802"
+		}
+		"build-review"
+		{
+			"buildid" "15412499"
+			"pwdrequired" "1"
+			"timeupdated" "1724041384"
+		}
+		"build-review-cbt"
+		{
+			"buildid" "15216004"
+			"pwdrequired" "1"
+			"timeupdated" "1722479721"
+		}
+		"compat"
+		{
+			"buildid" "14350200"
+			"pwdrequired" "1"
+			"timeupdated" "1715609217"
+		}
+		"dev-release"
+		{
+			"buildid" "16474700"
+			"pwdrequired" "1"
+			"timeupdated" "1732118343"
+		}
+		"dev-release-cbt"
+		{
+			"buildid" "16358937"
+			"pwdrequired" "1"
+			"timeupdated" "1731264588"
+		}
+		"dev-release-s1"
+		{
+			"buildid" "16180306"
+			"pwdrequired" "1"
+			"timeupdated" "1729858902"
+		}
+		"dev-release-t1"
+		{
+			"buildid" "16328627"
+			"pwdrequired" "1"
+			"timeupdated" "1730989102"
+		}
+		"development"
+		{
+			"buildid" "16474797"
+			"pwdrequired" "1"
+			"timeupdated" "1732118890"
+		}
+		"development-cbt"
+		{
+			"buildid" "16358950"
+			"pwdrequired" "1"
+			"timeupdated" "1731264809"
+		}
+		"development-s1"
+		{
+			"buildid" "16179813"
+			"pwdrequired" "1"
+			"timeupdated" "1729856303"
+		}
+		"development-t1"
+		{
+			"buildid" "16328696"
+			"pwdrequired" "1"
+			"timeupdated" "1730989492"
+		}
+		"mc-debug"
+		{
+			"buildid" "14345761"
+			"pwdrequired" "1"
+			"timeupdated" "1715580802"
+		}
+		"mc-release"
+		{
+			"buildid" "15535764"
+			"pwdrequired" "1"
+			"timeupdated" "1725024057"
+		}
+		"press"
+		{
+			"buildid" "15565965"
+			"pwdrequired" "1"
+			"timeupdated" "1727223586"
+		}
+		"qa-debug"
+		{
+			"buildid" "16457020"
+			"pwdrequired" "1"
+			"timeupdated" "1732012528"
+		}
+		"qa-debug-cbt"
+		{
+			"buildid" "16323587"
+			"pwdrequired" "1"
+			"timeupdated" "1730970940"
+		}
+		"qa-debug-s1"
+		{
+			"buildid" "16328696"
+			"pwdrequired" "1"
+			"timeupdated" "1730989565"
+		}
+		"qa-release"
+		{
+			"buildid" "16457090"
+			"pwdrequired" "1"
+			"timeupdated" "1732012916"
+		}
+		"qa-release-cbt"
+		{
+			"buildid" "16323671"
+			"pwdrequired" "1"
+			"timeupdated" "1730970955"
+		}
+		"qa-release-expo"
+		{
+			"buildid" "15688423"
+			"pwdrequired" "1"
+			"timeupdated" "1726218050"
+		}
+		"qa-release-s1"
+		{
+			"buildid" "16328627"
+			"pwdrequired" "1"
+			"timeupdated" "1730989536"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SAOFD/Saved/SaveGames"
+			"pattern" "SaveGame.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SAOFD/Saved/SaveGames"
+			"pattern" "SaveGame_cbt.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SAOFD/Saved/SaveGames"
+			"pattern" "SaveGame_ont.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26290749"
+"_sha" "cf64a5f105fa7dc5e7cbcd76edcd4fab27cf8fbd"
+"_size" "20440"
