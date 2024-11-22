@@ -299,7 +299,7 @@
 	"developer" "Blackbird Interactive"
 	"publisher" "Gearbox Publishing"
 	"homepage" "https://homeworlduniverse.com"
-	"listofdlc" "2667180,2688040,2688050,2688060,2689700,2842180"
+	"listofdlc" "2667180,2667190,2667200,2688040,2688050,2688060,2689700,2842180"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -330,7 +330,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "qa_stable, shelf_testing, post_launch, raven_nightly, milestone30, milestone30_day0, day0_nightly, qa_stable_day0, qa_online, raven_loc, userrresearch, milestone31, milestone31_day0, hotfix_staging, amd_testing,  patch_1.11_test, patch_1.21_test, patch_1.3_test, acos_desync_fix"
+				"betakey" "qa_stable, shelf_testing, post_launch, raven_nightly, milestone30, milestone30_day0, day0_nightly, qa_stable_day0, qa_online, raven_loc, userrresearch, milestone31, milestone31_day0, hotfix_staging, amd_testing,  patch_1.11_test, patch_1.21_test, patch_1.3_test, acos_desync_fix, patch_1.22_test, gbx_rm_dev"
 			}
 			"description_loc"
 			{
@@ -346,7 +346,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "raven_nightly, milestone30, milestone30_day0, day0_nightly, milestone31, milestone31_day0, post_launch"
+				"betakey" "raven_nightly, milestone30, milestone30_day0, day0_nightly, milestone31, milestone31_day0, post_launch, gbx_rm_dev"
 			}
 			"description_loc"
 			{
@@ -362,7 +362,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "raven_nightly, day0_nightly"
+				"betakey" "raven_nightly, day0_nightly, gbx_rm_dev"
 			}
 			"description_loc"
 			{
@@ -482,6 +482,18 @@
 				"size" "73D6C95C36440974CC22FE85F82AEA2B"
 				"download" "67598F1486A747A51FFA4C111AF060F1"
 			}
+			"gbx_rm_dev"
+			{
+				"gid" "D892494C2C28AC5F29F5C07B8D44B7D1"
+				"size" "3E187DB0FD335D6566951143066030E2"
+				"download" "FC1D039C2E84E95F750AD2DC1D014116"
+			}
+			"gbx_rm_staging"
+			{
+				"gid" "249B4A68C06B9ED8CEAD34F9558972A9"
+				"size" "12D081059B45B32249651C9FF0736714"
+				"download" "41ECD071DA7475A048FAC965FB1EF6ED"
+			}
 			"hotfix_staging"
 			{
 				"gid" "D9E5692F242079C016B3FC3B0B36C0AF"
@@ -523,12 +535,6 @@
 				"gid" "A3ECA43BEF2C792F53170D8E16D1D50A"
 				"size" "9467BDACFE0F13C7537743F7A80D3237"
 				"download" "EE927C8B8BEBFF4619100611A098F642"
-			}
-			"patch_1.3_preview"
-			{
-				"gid" "E8C2366645EB15882A884A3CABC834DF"
-				"size" "853A6DE6C52F6425BA946FFA7E34A7D9"
-				"download" "B54259585BE538CF0D96085C1373F169"
 			}
 			"post_launch"
 			{
@@ -592,9 +598,9 @@
 		{
 			"public"
 			{
-				"gid" "1615239238877793090"
-				"size" "33261807192"
-				"download" "30062355888"
+				"gid" "4201919172140993228"
+				"size" "34030110773"
+				"download" "30702348992"
 			}
 		}
 		"encryptedmanifests"
@@ -607,9 +613,21 @@
 			}
 			"balancing_test"
 			{
-				"gid" "DFA1623B14817EC62F7584BFE08F37D2"
-				"size" "48ACADF11B97599AA5E4EF40F9BA893B"
-				"download" "437AF8C34244DB506E93F807194F165E"
+				"gid" "8CA632882AAAD5C0F94DE34CAA8B92DD"
+				"size" "E5B46A30EAF2DE7BDF20F1FDF84C7F48"
+				"download" "827FF6997EBF06D20A666F6AB05DCCA6"
+			}
+			"gbx_rm_dev"
+			{
+				"gid" "2AEDD9AC56502F6B452A96EB9EB951D6"
+				"size" "C7D945935115CE3AD5B89CCC7988D4DE"
+				"download" "0B3B9BD28B014A897D5D885F264233DA"
+			}
+			"gbx_rm_staging"
+			{
+				"gid" "3DA1C03C52772D04768AFE24CAB325D8"
+				"size" "0F6FD2B3620A1F1A2290794E9A22179D"
+				"download" "789521F09D23661E0E922616F708CA05"
 			}
 			"hotfix_staging"
 			{
@@ -653,23 +671,17 @@
 				"size" "C8BFF2248D26557AD63761767611023A"
 				"download" "2EE0DEFCFA666303484F4EC086B0410B"
 			}
-			"patch_1.3_preview"
-			{
-				"gid" "32187D6B5B315E1457C792405F342FE6"
-				"size" "9EA5370AABAB2DF88857E81F1F349840"
-				"download" "FD5386003B2AD8074096E1A1C2AC6DFE"
-			}
 			"post_launch"
 			{
-				"gid" "779E2E8F0E76C54F1034FC6C0D0337F8"
-				"size" "62F737F0C5F951F19DD20B19BC084EFB"
-				"download" "892C126CFE1B0E9AB8ACDEEECBAEFBE2"
+				"gid" "CD6EBE086DBA00520DA0533B427BA2E3"
+				"size" "BFB3C13C9CA7177B5F18EED5B0127AB8"
+				"download" "589C6B12A46FEBF17292949C66DA302E"
 			}
 			"post_launch_staging"
 			{
-				"gid" "2711B64F1FD779F298CC66AE720B6C97"
+				"gid" "5A41DBDDD0E76D35D68973B92D296674"
 				"size" "0CF9076B9BCFB03C8A328F0D273A86A1"
-				"download" "404441E907B316E12B9F6CEDD467C4E8"
+				"download" "8B54BFDD1EC1936F0642E76FC3DC103D"
 			}
 			"qa_online"
 			{
@@ -679,9 +691,9 @@
 			}
 			"qa_stable"
 			{
-				"gid" "4EE4D1AF46D7463D80077EED65A09419"
-				"size" "A22EDC4103A8DCB293D47A9BF7A4E32D"
-				"download" "0F4CA19F571B567B6BC2B915388FEF07"
+				"gid" "218D0481A72E0CCDE27AB805112C8AC7"
+				"size" "2A939B8EFFCEEEFD6B780127A9AB8706"
+				"download" "880176B52C2A341EFD474AE1F819784B"
 			}
 			"qa_stable_day0"
 			{
@@ -697,9 +709,9 @@
 			}
 			"raven_nightly"
 			{
-				"gid" "6BBE1076604D287479E22F6CD65230F2"
-				"size" "CDD14A64C396F9607627B0C1150AE021"
-				"download" "1DB824CD06794ECFD591AF7C0136FEB7"
+				"gid" "0021CBA58431198E71F31669E78A69EF"
+				"size" "78624C87449BDC69607320FE161509A7"
+				"download" "29BFF570D18BDDD67B787C87DE851D0C"
 			}
 			"release_1.0_test"
 			{
@@ -746,6 +758,18 @@
 				"size" "1DBFE710CA5B2EF364FA55E976E1E712"
 				"download" "080DB27B67A71E4ABA5D7B2FCEBD78D1"
 			}
+			"gbx_rm_dev"
+			{
+				"gid" "184A063A8F9196A2F41CAFCC2E982385"
+				"size" "2183BC9402498AFD54B9BE8BA86027DC"
+				"download" "B940CFD0D2B509654B5B6BD4FCA09F0C"
+			}
+			"gbx_rm_staging"
+			{
+				"gid" "15F77F4C1D3023608BCE65E33163DB9F"
+				"size" "430E87217AACDF5C18A96F0396B2650E"
+				"download" "628A8B022B3F8A21601F73C6DB27CF7F"
+			}
 			"hotfix_staging"
 			{
 				"gid" "438C279176C4CC96EBE534826178894A"
@@ -787,12 +811,6 @@
 				"gid" "F0ACBBB81A7C8A367D60AA7FF25E8653"
 				"size" "EC768CEC0D6FAC26D27811CBEE585473"
 				"download" "9A7BBD415B7BF07C49454AA7A12C97BA"
-			}
-			"patch_1.3_preview"
-			{
-				"gid" "4621A73C180C7D5DFFCC58CBA75D5EF7"
-				"size" "584AC9C81A82723FD615D74CE818F092"
-				"download" "7B9CA9F0AB65369E4AD3C35C694DAB18"
 			}
 			"post_launch"
 			{
@@ -842,8 +860,8 @@
 	{
 		"public"
 		{
-			"buildid" "16059645"
-			"timeupdated" "1729878692"
+			"buildid" "16247636"
+			"timeupdated" "1732211616"
 		}
 		"acos_desync_fix"
 		{
@@ -853,9 +871,21 @@
 		}
 		"balancing_test"
 		{
-			"buildid" "16075493"
+			"buildid" "16247636"
 			"pwdrequired" "1"
-			"timeupdated" "1729138208"
+			"timeupdated" "1730590222"
+		}
+		"gbx_rm_dev"
+		{
+			"buildid" "16344028"
+			"pwdrequired" "1"
+			"timeupdated" "1731081536"
+		}
+		"gbx_rm_staging"
+		{
+			"buildid" "16333205"
+			"pwdrequired" "1"
+			"timeupdated" "1731013205"
 		}
 		"hotfix_staging"
 		{
@@ -899,23 +929,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1729016698"
 		}
-		"patch_1.3_preview"
-		{
-			"buildid" "16075493"
-			"pwdrequired" "1"
-			"timeupdated" "1729800429"
-		}
 		"post_launch"
 		{
-			"buildid" "16184281"
+			"buildid" "16247902"
 			"pwdrequired" "1"
-			"timeupdated" "1729880087"
+			"timeupdated" "1730358399"
 		}
 		"post_launch_staging"
 		{
-			"buildid" "16183859"
+			"buildid" "16247636"
 			"pwdrequired" "1"
-			"timeupdated" "1729877697"
+			"timeupdated" "1730356111"
 		}
 		"qa_online"
 		{
@@ -925,9 +949,9 @@
 		}
 		"qa_stable"
 		{
-			"buildid" "16174400"
+			"buildid" "16258035"
 			"pwdrequired" "1"
-			"timeupdated" "1729823887"
+			"timeupdated" "1730414958"
 		}
 		"qa_stable_day0"
 		{
@@ -943,9 +967,9 @@
 		}
 		"raven_nightly"
 		{
-			"buildid" "16189413"
+			"buildid" "16481830"
 			"pwdrequired" "1"
-			"timeupdated" "1729922607"
+			"timeupdated" "1732166946"
 		}
 		"release_1.0_test"
 		{
@@ -988,6 +1012,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25907795"
-"_sha" "af116b4289bb1e523c395c197d8a88280c38cff4"
-"_size" "23662"
+"_change_number" "26303741"
+"_sha" "89df68c15692e08e8f0b5de7e4f01e4bd0c7c96d"
+"_size" "24354"
