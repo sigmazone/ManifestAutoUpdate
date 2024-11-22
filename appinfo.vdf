@@ -184,26 +184,26 @@
 		"0" "3834"
 		"1" "3839"
 		"2" "1667"
-		"3" "4106"
-		"4" "1721"
+		"3" "1721"
+		"4" "4106"
 		"5" "4191"
-		"6" "4182"
-		"7" "1742"
+		"6" "1742"
+		"7" "4182"
 		"8" "4064"
-		"9" "21"
-		"10" "7208"
+		"9" "7208"
+		"10" "21"
 		"11" "5716"
 		"12" "19"
 		"13" "4667"
 		"14" "4345"
 		"15" "3859"
-		"16" "122"
-		"17" "4947"
+		"16" "4947"
+		"17" "122"
 		"18" "4726"
 		"19" "1664"
 	}
-	"review_score" "6"
-	"review_percentage" "76"
+	"review_score" "5"
+	"review_percentage" "67"
 }
 "extended"
 {
@@ -225,6 +225,22 @@
 				"oslist" "windows"
 				"osarch" "64"
 			}
+		}
+		"1"
+		{
+			"executable" "Incantation\\Binaries\\Win64\\Incantation-Win64-Shipping.exe"
+			"arguments" "-dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 11"
+			}
+			"description" "with DirectX 11"
 		}
 	}
 }
@@ -254,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "2485183427522193382"
-				"size" "4942090709"
-				"download" "4663472288"
+				"gid" "7618530845009391682"
+				"size" "4942156761"
+				"download" "4663183360"
 			}
 		}
 		"encryptedmanifests"
@@ -267,20 +283,32 @@
 				"size" "D00F640DBEB6505167F5FE176799650D"
 				"download" "43C8C7CCC6E33393FC067404663D54DE"
 			}
+			"ss_rd_for_test"
+			{
+				"gid" "FAC5544C79AF88A6D54F80690E08ECAD"
+				"size" "920620AF36FD76C6452222FBCF46BD3C"
+				"download" "187D31405EDD78C94B25EF587D0731D2"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16419450"
-			"timeupdated" "1731670730"
+			"buildid" "16497551"
+			"timeupdated" "1732268488"
 		}
 		"lqa_branch"
 		{
 			"buildid" "16176951"
 			"pwdrequired" "1"
 			"timeupdated" "1729842218"
+		}
+		"ss_rd_for_test"
+		{
+			"buildid" "16497551"
+			"pwdrequired" "1"
+			"timeupdated" "1732265331"
 		}
 	}
 }
@@ -303,6 +331,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26243312"
-"_sha" "65f28c71df13a42614b658262d35cb96cce73403"
-"_size" "5053"
+"_change_number" "26314311"
+"_sha" "86bf68b5e4b2edc82c4fc298b02b62c012fc7057"
+"_size" "5664"
