@@ -124,6 +124,8 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -162,7 +164,7 @@
 		"19" "5613"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -189,9 +191,9 @@
 		{
 			"public"
 			{
-				"gid" "5408027429419282337"
-				"size" "32144904703"
-				"download" "29968822688"
+				"gid" "6812959860149833282"
+				"size" "32169264546"
+				"download" "29993445728"
 			}
 		}
 	}
@@ -199,19 +201,31 @@
 	{
 		"public"
 		{
-			"buildid" "16459565"
-			"timeupdated" "1732026348"
+			"buildid" "16485574"
+			"timeupdated" "1732189739"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "10000000"
-	"maxnumfiles" "1"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"quota" "550000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ShuiSiWei/Atonement/"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "26272130"
-"_sha" "3f2b483e75d4f1d3f445bd7581da8a4b0f6b2f9b"
-"_size" "3903"
+"_change_number" "26297127"
+"_sha" "4056e924489d926b0d702eddb422efe7f19f0b71"
+"_size" "4097"
