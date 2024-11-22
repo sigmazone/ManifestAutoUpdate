@@ -35,6 +35,50 @@
 		"4" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1730937600"
+		"tested_build_id" "16064868"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -204,22 +248,22 @@
 	"store_tags"
 	{
 		"0" "12095"
-		"1" "1666"
-		"2" "6650"
-		"3" "1716"
+		"1" "6650"
+		"2" "1666"
+		"3" "9130"
 		"4" "4085"
-		"5" "7208"
-		"6" "9130"
-		"7" "24904"
-		"8" "4182"
-		"9" "5611"
+		"5" "24904"
+		"6" "1716"
+		"7" "7208"
+		"8" "5611"
+		"9" "4182"
 		"10" "4667"
 		"11" "492"
 		"12" "9"
 		"13" "5030"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -246,9 +290,18 @@
 		{
 			"public"
 			{
-				"gid" "2868573039565423435"
-				"size" "600622816"
-				"download" "487220800"
+				"gid" "632561038438262191"
+				"size" "602299686"
+				"download" "487384960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "348205BBDEFEB406B25E8858D3C49C44"
+				"size" "907AC53C38E003808D3F16952E65E683"
+				"download" "307731C28183D549494F86AFD4568BEF"
 			}
 		}
 	}
@@ -257,8 +310,14 @@
 	{
 		"public"
 		{
-			"buildid" "16064868"
-			"timeupdated" "1729077476"
+			"buildid" "16483234"
+			"timeupdated" "1732179963"
+		}
+		"alpha"
+		{
+			"buildid" "16483234"
+			"pwdrequired" "1"
+			"timeupdated" "1732177154"
 		}
 	}
 }
@@ -277,6 +336,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25797593"
-"_sha" "9210ab023c6ea78e962e8c51ada0a561adae472c"
-"_size" "5344"
+"_change_number" "26294622"
+"_sha" "55199fc9a92d8ef53c95ef5efc6421c69c32f729"
+"_size" "6750"
