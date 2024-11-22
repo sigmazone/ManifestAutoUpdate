@@ -32,6 +32,7 @@
 	{
 		"library_capsule" "en,ru"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en,ru"
 		"library_header" "ru,en"
 		"logo_position"
@@ -62,9 +63,12 @@
 			{
 				"english" "7f5735cd3bc2fb3b99a9f0d3d1e4dc9e6011148f/library_hero.jpg"
 			}
-			"image2x"
+		}
+		"library_hero_blur"
+		{
+			"image"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "7f5735cd3bc2fb3b99a9f0d3d1e4dc9e6011148f/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -152,11 +156,11 @@
 	{
 		"0" "19"
 		"1" "1663"
-		"2" "1774"
-		"3" "3839"
+		"2" "3839"
+		"3" "1774"
 	}
 	"review_score" "5"
-	"review_percentage" "57"
+	"review_percentage" "58"
 }
 "extended"
 {
@@ -206,13 +210,18 @@
 	"12391"
 	{
 		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "8559636731228101772"
-				"size" "5504480767"
-				"download" "2521481488"
+				"gid" "14663160361503978"
+				"size" "5504480170"
+				"download" "2521480928"
 			}
 		}
 	}
@@ -227,13 +236,13 @@
 		{
 			"public"
 			{
-				"gid" "5129375326487143518"
-				"size" "5505202257"
-				"download" "2140884976"
+				"gid" "944275465434509948"
+				"size" "5505201660"
+				"download" "2140426496"
 			}
 		}
 	}
-	"12394"
+	"12399"
 	{
 		"config"
 		{
@@ -244,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "407316732525187302"
-				"size" "6863557393"
-				"download" "2576964304"
+				"gid" "2965997738143488091"
+				"size" "6863556796"
+				"download" "2575820336"
 			}
 		}
 	}
@@ -254,12 +263,12 @@
 	{
 		"public"
 		{
-			"buildid" "16300367"
-			"timeupdated" "1730808782"
+			"buildid" "16331346"
+			"timeupdated" "1731002688"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26061175"
-"_sha" "cdf9ac5c26cc2b4d3e618317075a87a189f852e6"
-"_size" "5249"
+"_change_number" "26145749"
+"_sha" "d71d88d795f53775e86ab7f5d5e89f27e9ff6a85"
+"_size" "5422"
