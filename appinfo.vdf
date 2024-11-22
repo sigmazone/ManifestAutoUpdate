@@ -45,7 +45,62 @@
 			"height_pct" "91.11267709350147"
 		}
 	}
-	"store_asset_mtime" "1717153147"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "30.603181761616455"
+				"height_pct" "91.11267709350147"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732177922"
 	"associations"
 	{
 		"0"
@@ -134,12 +189,13 @@
 		"19" "1625"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "88"
 }
 "extended"
 {
 	"developer" "FromDawn Games"
 	"publisher" "GRAVITY GAME ARISE Co., Ltd."
+	"homepage" "https://aeruta.startgravity.jp/"
 }
 "config"
 {
@@ -164,18 +220,24 @@
 		{
 			"public"
 			{
-				"gid" "110289439989291463"
-				"size" "463452510"
-				"download" "308610464"
+				"gid" "2177974938236177163"
+				"size" "1032348018"
+				"download" "289322688"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "E0EC954F3537F89B66367466994E1A45"
-				"size" "ACC35496892AE1ED7A7071C626508064"
-				"download" "8C636E7E3836F58D9D2488AC11EDE984"
+				"gid" "E34316EB91C9EBAA9638F494DBD16407"
+				"size" "879BAA6786DDE818CF766E68E8D39034"
+				"download" "1977DD3A6A6875733FB01B49FEB68D7D"
+			}
+			"internal"
+			{
+				"gid" "CAA744D8233F0A6FA9C04A55784B9209"
+				"size" "911C4F3F483660CDA213D8CB3091660D"
+				"download" "EB48EFF5299380DB3B2C6B50998DB4C6"
 			}
 		}
 	}
@@ -183,14 +245,20 @@
 	{
 		"public"
 		{
-			"buildid" "15108154"
-			"timeupdated" "1721639809"
+			"buildid" "16469587"
+			"timeupdated" "1732122037"
 		}
 		"devtest"
 		{
-			"buildid" "15108154"
+			"buildid" "16469587"
 			"pwdrequired" "1"
-			"timeupdated" "1721622482"
+			"timeupdated" "1732092400"
+		}
+		"internal"
+		{
+			"buildid" "16469587"
+			"pwdrequired" "1"
+			"timeupdated" "1732092422"
 		}
 	}
 }
@@ -212,3 +280,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26303629"
+"_sha" "1414790a3874c2a29cbbdb9099cc3240429a4cab"
+"_size" "5125"
