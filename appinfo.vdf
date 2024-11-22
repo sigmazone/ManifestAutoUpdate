@@ -259,8 +259,8 @@
 		"8" "3968"
 		"9" "9204"
 		"10" "4695"
-		"11" "4182"
-		"12" "8945"
+		"11" "8945"
+		"12" "4182"
 		"13" "492"
 		"14" "3810"
 		"15" "21"
@@ -320,6 +320,16 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3369509528"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
 }
 "depots"
 {
@@ -334,54 +344,72 @@
 		{
 			"public"
 			{
-				"gid" "7961178267502204327"
-				"size" "4399065417"
-				"download" "1960766784"
+				"gid" "9130134992671697065"
+				"size" "5102374413"
+				"download" "2214509072"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"buildbot-aco"
 			{
-				"gid" "B5BD74CDC89A53EA3920785A2ACF5F54"
-				"size" "F5F563BDF11E54216A1003995FC208DA"
-				"download" "96F78775FCF9B04782DBDE85EF02FE4A"
+				"gid" "166EFFDC8677AD33C643A26FB946C40C"
+				"size" "CB0554A2629D8C2E1F2378338A3C8076"
+				"download" "5FA62517F7175C835970C42118F7F733"
 			}
 			"buildbot-dragos"
 			{
-				"gid" "6BFA0DE82D1CB2E9833B8B231D366299"
-				"size" "B68B6EE8606785C8EDFA391D740D0BFA"
-				"download" "D8D2E200BB77812D09E610B6B9301EF7"
+				"gid" "887916CA01A4D3C8F331B61FA054EA37"
+				"size" "CF9E864A3E42043D70185294594FC3EA"
+				"download" "3C32EF837F45BEE26F4F040C0CEFE79A"
 			}
 			"buildbot-dvbot"
 			{
-				"gid" "72E46FBB4AC511580BB6FBF8FCC2E8C8"
-				"size" "15604C3A29E4BF024B2B95A88F2881AA"
-				"download" "A8555C3BA8466B0A653343D97793A6A5"
+				"gid" "408475BCB7C197EC8609E77B34D10F24"
+				"size" "DA3E7F2E0460AC65FCE73145CDFA0AA6"
+				"download" "604C89BFD8A318DBEE9F429222F7BD00"
+			}
+			"buildbot-nenad"
+			{
+				"gid" "1A397A3C706459CA4575A40FE732B15A"
+				"size" "2305F4552604296DA76F50625F039546"
+				"download" "553C6C6655E38A912C3D3F906A0B8AA2"
+			}
+			"buildbot-nikola"
+			{
+				"gid" "6F25EF8E7F253C082F49496E2D10228C"
+				"size" "FF2DA4BBB7B41094F6D32C7DE0430440"
+				"download" "3F1762EBC6A86DDEEEF6CF855BA7F892"
 			}
 			"buildbot-sloba"
 			{
-				"gid" "A299A0FBCF38C9987BE1D3A2E5ECA213"
-				"size" "689841ABB74BBB0086E55E02B7FD87FD"
-				"download" "3284F5F28404ED1637C4637277ED0DCB"
+				"gid" "084465F3F48D24E9015072F5EAB887B1"
+				"size" "8A349DF9C18C0535156FEC979C1F608B"
+				"download" "1C21F1639473AE0F52D4FCA7B926536E"
+			}
+			"buildbot-vlada"
+			{
+				"gid" "97D34E44713C5FC958993FAE179F5DD1"
+				"size" "98F74F01DB06838C1680A4E667C2F46F"
+				"download" "26A729A480CC63AC0974839173F7F1D7"
 			}
 			"buildbot-zeibach"
 			{
-				"gid" "743215BB653F1DED59E4DAB47B7D1B7C"
-				"size" "B1A4C81D20112E939680912439410061"
-				"download" "AF3ECB3D855F78B4468B5BC962254F2C"
+				"gid" "24536ADB3CC15067A96201B18CB9C15B"
+				"size" "C52ECFD0ABDB97808C800C4E9EA18695"
+				"download" "E5D3CE78ADC98C125AD10FEAF2B1F907"
 			}
 			"closed-beta-s2"
 			{
-				"gid" "82134C3BEFAF8939A2A4B6E1A200CFDE"
-				"size" "74AC86012D477BF88D1B2D661D32AE46"
-				"download" "2569310FD80A50A00CBCD9D15481E6F3"
+				"gid" "9F17DF323786662536918BC5FE2113F5"
+				"size" "93CBE2DCDC7D16AE280E42A0DA59EA1C"
+				"download" "0C1706C9B26448EE069FDC45F15E652B"
 			}
 			"nightly"
 			{
-				"gid" "FFC310A09057B91096276AB2B2426C86"
-				"size" "C124A318F53AA9F720DAD0544711B739"
-				"download" "C72CA7FE91DA0C9755A41359B8B9EBA5"
+				"gid" "D42E10B5E635E5748F22ACB65A8DBC25"
+				"size" "B615757BB9DA2D6E4C245B8D78B61EFF"
+				"download" "D2281712A27110A753D9469331FAFA8F"
 			}
 		}
 	}
@@ -421,11 +449,29 @@
 				"size" "467BEDC55CA42610C2B6A87FBABDAB67"
 				"download" "467BEDC55CA42610C2B6A87FBABDAB67"
 			}
+			"buildbot-nenad"
+			{
+				"gid" "7155B45CF39DC14FD9AB859875344EDF"
+				"size" "97571D626441F258333A9491E1CFE645"
+				"download" "97571D626441F258333A9491E1CFE645"
+			}
+			"buildbot-nikola"
+			{
+				"gid" "0FE93CBC7F7C1F8E34C03D41079989D5"
+				"size" "645FD06A72CC9093C8F8505F786A1D5A"
+				"download" "645FD06A72CC9093C8F8505F786A1D5A"
+			}
 			"buildbot-sloba"
 			{
 				"gid" "F2CF6BD44020E157FD0670F1DB15BFDC"
 				"size" "20A302A758DF8F414508BCEB6B5C34FF"
 				"download" "20A302A758DF8F414508BCEB6B5C34FF"
+			}
+			"buildbot-vlada"
+			{
+				"gid" "B249A54904637241F88481890EAF47EC"
+				"size" "CAF938D1E18C461658F4DA5BB777EE43"
+				"download" "CAF938D1E18C461658F4DA5BB777EE43"
 			}
 			"buildbot-zeibach"
 			{
@@ -452,50 +498,68 @@
 	{
 		"public"
 		{
-			"buildid" "13435302"
-			"timeupdated" "1707872691"
+			"buildid" "16489935"
+			"timeupdated" "1732213029"
 		}
 		"buildbot-aco"
 		{
-			"buildid" "15276340"
+			"buildid" "16463229"
 			"pwdrequired" "1"
-			"timeupdated" "1722945488"
+			"timeupdated" "1732045804"
 		}
 		"buildbot-dragos"
 		{
-			"buildid" "15580579"
+			"buildid" "16486155"
 			"pwdrequired" "1"
-			"timeupdated" "1725383214"
+			"timeupdated" "1732192175"
 		}
 		"buildbot-dvbot"
 		{
-			"buildid" "15842975"
+			"buildid" "16495565"
 			"pwdrequired" "1"
-			"timeupdated" "1727388563"
+			"timeupdated" "1732249736"
+		}
+		"buildbot-nenad"
+		{
+			"buildid" "16105926"
+			"pwdrequired" "1"
+			"timeupdated" "1729326926"
+		}
+		"buildbot-nikola"
+		{
+			"buildid" "16489935"
+			"pwdrequired" "1"
+			"timeupdated" "1732211200"
 		}
 		"buildbot-sloba"
 		{
-			"buildid" "15217929"
+			"buildid" "16427850"
 			"pwdrequired" "1"
-			"timeupdated" "1722459691"
+			"timeupdated" "1731861213"
+		}
+		"buildbot-vlada"
+		{
+			"buildid" "16324824"
+			"pwdrequired" "1"
+			"timeupdated" "1730969020"
 		}
 		"buildbot-zeibach"
 		{
-			"buildid" "15069332"
+			"buildid" "16474368"
 			"pwdrequired" "1"
-			"timeupdated" "1721264689"
+			"timeupdated" "1732116676"
 		}
 		"closed-beta-s2"
 		{
-			"buildid" "15154966"
+			"buildid" "16489935"
 			"pwdrequired" "1"
-			"timeupdated" "1721945738"
+			"timeupdated" "1732215697"
 		}
 		"nightly"
 		{
-			"buildid" "15789839"
+			"buildid" "16480868"
 			"pwdrequired" "1"
-			"timeupdated" "1727056775"
+			"timeupdated" "1732158486"
 		}
 	}
 }
@@ -547,3 +611,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26310683"
+"_sha" "c6e5d25193c61ebfaae609ad91d30ae244206b0f"
+"_size" "11865"
