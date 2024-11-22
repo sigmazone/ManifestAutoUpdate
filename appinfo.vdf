@@ -76,6 +76,55 @@
 	"osextended" ""
 	"icon" "c4ac0e964ac3391e1c842a4f732d95ccd2227d26"
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1731974400"
+		"tested_build_id" "16256429"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "2"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -328,8 +377,8 @@
 		"0" "4106"
 		"1" "7208"
 		"2" "1697"
-		"3" "4821"
-		"4" "1695"
+		"3" "1695"
+		"4" "4821"
 		"5" "3835"
 		"6" "19"
 		"7" "1742"
@@ -344,10 +393,10 @@
 		"16" "3993"
 		"17" "4182"
 		"18" "122"
-		"19" "6276"
+		"19" "44868"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -434,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "8982954234592631655"
-				"size" "111057682760"
-				"download" "89925808800"
+				"gid" "8787362398314612141"
+				"size" "111059033845"
+				"download" "89934333216"
 			}
 		}
 		"encryptedmanifests"
@@ -449,33 +498,33 @@
 			}
 			"amd_1"
 			{
-				"gid" "F83DD491AAD639D4500AAC12264E3DFB"
-				"size" "DF0C60F0C4A1D51D33019BA650D7B61C"
-				"download" "BD66ADE9469176A8788CF96F0B220C70"
+				"gid" "251D6642FC193BB46F26202FBF138A69"
+				"size" "88A5F0340C4C5EE327DFBAD6C6E7F285"
+				"download" "1E3BE84EC7DE496A13F1A399830DBB06"
 			}
 			"gg_dev"
 			{
-				"gid" "F4A88302712C56549A261F021484830C"
-				"size" "6361EEF4A4BCBCB5CA283D87F75580DA"
-				"download" "640208AA9F088D7612F698AA870D8AB6"
+				"gid" "890BBA6FB8B6614F0A49EDD41E623203"
+				"size" "349CD4ECF5100F3F8A40D30F62DE9EB8"
+				"download" "31AD0E709ACB4F70B27156226AEDE31E"
 			}
 			"intel"
 			{
-				"gid" "9F0EC56EAB56135D72667C8D164DC7C0"
-				"size" "C5F73F62C6FAA7C7C68CC595A967C177"
-				"download" "EF29E0714A6DFCB735BD4058C274191B"
+				"gid" "2E281A8BF754639BE53BCE7FCB1080CA"
+				"size" "DB8DBA95ACE3AE71D266E1E258E695A5"
+				"download" "A76D2E00236B6CC0C2D5B0517EB47B23"
 			}
 			"latest_dev"
 			{
-				"gid" "42DE52080591412B14682ED588895149"
-				"size" "6401BAA683F676E07C01A1D9EB4136F2"
-				"download" "F64E7C01C95F5DBBE29CE3C217C986AD"
+				"gid" "89A4788943D3329C360A2032BB2AF860"
+				"size" "0F41AC14C0E60DDDC66D62E1770451B2"
+				"download" "2359D6CBB41B9DFE73E9DB88A601C288"
 			}
 			"latest_release"
 			{
-				"gid" "9E3AC5E074D575F83C5E49B4B0CAFC0E"
-				"size" "0233C3ACA154F95603565A6E4A56ED8A"
-				"download" "EED8CFC877BE2AA9C225F7E83981842B"
+				"gid" "B0EC6883161605EB41A26326F99D4982"
+				"size" "14638BEB9F7F4F825534D4EAA0D31B0A"
+				"download" "0DB2711B9A115238F17C53C80CEB348C"
 			}
 			"nixxes_ut"
 			{
@@ -485,9 +534,9 @@
 			}
 			"nvidia"
 			{
-				"gid" "35B2556DBAF3FA911C0DA6B72B9D84E1"
-				"size" "8CCDDD46C8A3B0282E1C142CC1D8A8C4"
-				"download" "57A0FF84B889E57808960525C59EB511"
+				"gid" "7FB9BA6FDB0FA2C8ACC3F036FDA3078F"
+				"size" "787065AC5409028AE021B18B2A58D09D"
+				"download" "DAFFC5DAA55421D886E7747E01A0ACEF"
 			}
 			"pathfinder_test"
 			{
@@ -503,15 +552,15 @@
 			}
 			"psqa_dev_1"
 			{
-				"gid" "21D0393E0882FED191BD0CB0014E7477"
-				"size" "6B383F48C10C537AB65B5723E2994EC1"
-				"download" "23B32F7043FDB4CFB6219DAB8624DA1E"
+				"gid" "ECA3DF4FD74A81BD6EB09F30B1F6210A"
+				"size" "75DC87FE8EFE280B1FAAC9C13AE85CC6"
+				"download" "3772E9D361FD600E092E4224E9F59CEB"
 			}
 			"psqa_dev_2"
 			{
-				"gid" "C67D936FC327AB327590C619BD0A4B3B"
-				"size" "337479AC00BA4CBCEB1D01DCC6780C80"
-				"download" "CFCD9BEEFE68B55DEA5FD92D43E417AB"
+				"gid" "2F1B1541240038F70A904C321B6A3F5A"
+				"size" "3E50337A5D6A9A33781D850E05E1F6CB"
+				"download" "043D52CDA4192A03599117798975157B"
 			}
 			"psqa_perf"
 			{
@@ -521,15 +570,15 @@
 			}
 			"psqa_sub_1"
 			{
-				"gid" "268A9B0A5FEF16EE18D7F213D5317207"
-				"size" "CC42E3B5042A33EEBE610D2D92370286"
-				"download" "B4FF58BA7BFCAF3BDC3891854BD5DB40"
+				"gid" "DB90B84EE9F02EFD923E621B45D74B0F"
+				"size" "FD7296D560791BA67A71AD587B729509"
+				"download" "5BFEFCB16FE70CF314FBB9016F925B22"
 			}
 			"psqa_sub_2"
 			{
-				"gid" "EB6545799432F357A8F0D338C70A735B"
-				"size" "DF7421D2675CBB47E983AB4B8D5C738D"
-				"download" "A8D54D28A0ECDBF30210FBE5EB0B479E"
+				"gid" "38A01EA2BB9DC3BB502064DAF5DCE897"
+				"size" "7C0440262DBF1DF58BA7DB6DA81BBA29"
+				"download" "ECF534D81652D74E49E0BE1F00846A1C"
 			}
 			"qa_dev"
 			{
@@ -556,9 +605,9 @@
 		{
 			"public"
 			{
-				"gid" "5091418099871552915"
-				"size" "589448124"
-				"download" "466224144"
+				"gid" "8218152414554162427"
+				"size" "589461320"
+				"download" "466228608"
 			}
 		}
 		"encryptedmanifests"
@@ -571,33 +620,33 @@
 			}
 			"amd_1"
 			{
-				"gid" "45CC48185C87EC50B8F1C9882B01D1E7"
-				"size" "4888EA64C767EB908D3B29F6C58DF822"
-				"download" "DD1A96B20047AAAA3E0A17D6CBDFE051"
+				"gid" "E65243A469DA381BE2BE95B82DD02DA2"
+				"size" "93EE731B46C4490C79CAC9ED52613FDD"
+				"download" "5A0B5A9652EBE02053B5FB3CC527FACA"
 			}
 			"gg_dev"
 			{
-				"gid" "7685CA261FD58BDEA8FF0A50CF00A6A7"
-				"size" "FB0F97277A0B09E2733DF540066C1BCF"
-				"download" "D0C50B7863136C4C63E656BFC78E0F63"
+				"gid" "938FE9C4BD69E5C20D5FD08AD897EA55"
+				"size" "049C4B61F4784614947778763F235E35"
+				"download" "2C36371625A593E3EC2763FB4B10414D"
 			}
 			"intel"
 			{
-				"gid" "D5252A6B85C2CF69C8E4B6FBD6762FFF"
-				"size" "0AD847A091C4D5182AA0A8DF4D37D25E"
-				"download" "804531E6A13EFE57FA21E75471AE35E1"
+				"gid" "87E5974353892D32B7D6F4C94EEDAA34"
+				"size" "9A44685E3E076EE17DB9FAD4F73C2AFE"
+				"download" "829266FEAF986E023D0C7798FDC5926E"
 			}
 			"latest_dev"
 			{
-				"gid" "53ECED05F66691B5DF4C8D12643EBD8E"
-				"size" "E67DC64D4C1FEDAAF0E5E69772CDBF94"
-				"download" "2FA644FB9D2A1C994AAA1F4627EFBC30"
+				"gid" "2F94084D7420F650F3C93A7164DBE926"
+				"size" "B9C82ECC6EB9393F57C26CE1E1566A6F"
+				"download" "AD409F488B1217BC06401F4E5052E16E"
 			}
 			"latest_release"
 			{
-				"gid" "9FE32C7BC5A1DD85DBA2B1E08F74D155"
+				"gid" "D1BB6982709415AAB651600C46E058BE"
 				"size" "0BD7F047AB30CCC5D38DDE01637CD165"
-				"download" "1B515D2F37A94C82AE757D057BDD246E"
+				"download" "E2FFF86F60D3EA81E21A693B23D4AEA2"
 			}
 			"nixxes_ut"
 			{
@@ -607,9 +656,9 @@
 			}
 			"nvidia"
 			{
-				"gid" "4604E6D2AF4DFE6CBB7AE1E82B8B3DC0"
-				"size" "E71E33536CA89282EA74B4848639AEBA"
-				"download" "DA13C58691E381B53ADCE5D52538DA65"
+				"gid" "11A0387A8A825CBAD997A105266FDF76"
+				"size" "177D289EA139CD6C1369B4D2FC8EF00A"
+				"download" "45CA5C933B813C5B21DCA835A03DF586"
 			}
 			"pathfinder_test"
 			{
@@ -625,15 +674,15 @@
 			}
 			"psqa_dev_1"
 			{
-				"gid" "C667223C2228DD63D3393690BBDB8C1B"
-				"size" "F45795048C27005EDBA1E4B9D2C7CF93"
-				"download" "695BD2B404491795898BB163D2FD5834"
+				"gid" "414325BFED605BE9EA95E9C24D8DE114"
+				"size" "1B924AF7E025D1FB340F7E89692B009F"
+				"download" "A755B0D131883ED8671E5724F38B746B"
 			}
 			"psqa_dev_2"
 			{
-				"gid" "4C973C03B3BDB302487648A9DCF737DA"
-				"size" "68AA43AAF9ED153699F05C179AAFE6D1"
-				"download" "6016C715BF761D9AC66B2913F6489D92"
+				"gid" "188A4DC0AC3ED7143A7E786FECA3117D"
+				"size" "73F6455B5D1ABA3B36572A5425D3C15C"
+				"download" "110038D4D64DD4E69E8B9A3FB96F76E2"
 			}
 			"psqa_perf"
 			{
@@ -643,15 +692,15 @@
 			}
 			"psqa_sub_1"
 			{
-				"gid" "312E8F098B2CD02B5D56A69B044BAECF"
-				"size" "B8D3E04A053ADC1CD6B7DB0955EB0E8B"
-				"download" "1C1EF06BE4969BE2905C43F15473B747"
+				"gid" "CEBA3178B1F8013164E32B0443A80DDD"
+				"size" "C903297F3E46394B42C86D12422C0682"
+				"download" "4B6F7C950439EF98CE03F93797CA921E"
 			}
 			"psqa_sub_2"
 			{
-				"gid" "4E343E279E496604C59209E17EDBB780"
-				"size" "22F6C7D637D4160261BEEEF966A28B0F"
-				"download" "147E7538F6C2CB1D88E156DFCD083B2F"
+				"gid" "635BAE93E0A301773AAA3D3B3DB35FC4"
+				"size" "75C8D3F200E0EE3A45A6A8FA50826F00"
+				"download" "895489E569E78E430E9CE72BEF9FEFE5"
 			}
 			"qa_dev"
 			{
@@ -679,9 +728,9 @@
 		{
 			"public"
 			{
-				"gid" "8505898983612459235"
-				"size" "45339320582"
-				"download" "22319794656"
+				"gid" "3717229991004728116"
+				"size" "45376631313"
+				"download" "22328135824"
 			}
 		}
 		"encryptedmanifests"
@@ -694,33 +743,33 @@
 			}
 			"amd_1"
 			{
-				"gid" "CE581B2E81029C88611813352E793F65"
-				"size" "E52520771422173C516B8DE766499ECC"
-				"download" "262750F711651243B7A72B2E69AE589F"
+				"gid" "AE47624B4F4F058A27232B88B41A36D0"
+				"size" "74B28D3BA14D9479E47394DF178E66C3"
+				"download" "7CC6441B49415F3CA4AFE3697A23579F"
 			}
 			"gg_dev"
 			{
-				"gid" "3A93B8B2FCFCBF2777F4071486F8B63D"
-				"size" "DAFCCE558F91D1BE3E0E210D35B621DE"
-				"download" "532A65F74CFCF7E38682D94BBE61FA65"
+				"gid" "D0D09DEAEE929509DC6C7B91D7957B4C"
+				"size" "51C6B334F112BEA6F761E49FF03E1034"
+				"download" "116DEA5829FE253DB5514C5F7D9A39CA"
 			}
 			"intel"
 			{
-				"gid" "A75DFE9843B944651C9C80AE89D99BAE"
-				"size" "962DDFC9A9880BC45FB88E4D6C107FC4"
-				"download" "3F0A9B7EAFCBA9D2A8EA6A50465EF4DB"
+				"gid" "B7030D767D765275183A5AD628435494"
+				"size" "CB725B3357211ECD9EE277FDDED3556C"
+				"download" "9B3909A7CA62006F9D855E76DDCC5C8C"
 			}
 			"latest_dev"
 			{
-				"gid" "AFF634CD8D30EF4F109B1F8D739B9A5A"
-				"size" "BA17F030DDEC396ECF0400DF941F8E93"
-				"download" "41B15660AD8DB3CDC33DEDBB391F6F48"
+				"gid" "3492497788E796A72A0A6D42C8EBCC95"
+				"size" "363321A4D88E48F42948006F37A3C6AC"
+				"download" "7CBA6CB6D3531F8A0295F2FE16B73801"
 			}
 			"latest_release"
 			{
-				"gid" "5E4A64905F602023BA3CDFA58D7FF342"
-				"size" "A44167B6097DD7E1B489A317967B9F89"
-				"download" "FCF3931E024DC0136A424F1560FFC453"
+				"gid" "9001BD51B68FCF2B294248C8544E8D3F"
+				"size" "682F49DFF4AE4679CDB3EB9D762E3012"
+				"download" "3BA30350E1FBBD70B35F9CD35544076B"
 			}
 			"nixxes_ut"
 			{
@@ -730,9 +779,9 @@
 			}
 			"nvidia"
 			{
-				"gid" "765E778A4CF223D94C0FCAC5769D0AF1"
-				"size" "256E99F56C11724F21D729BC19B2593E"
-				"download" "D9CD07E81A21A90D49242A9DAF60658E"
+				"gid" "6E5D38795E3FB6A7FC34701961EF845A"
+				"size" "E6A335296A4E4FB33F5FE082A0E9318D"
+				"download" "5F331F500FFBD7E383E1804C7FFAF0D1"
 			}
 			"pathfinder_test"
 			{
@@ -748,15 +797,15 @@
 			}
 			"psqa_dev_1"
 			{
-				"gid" "7A1779A36F8A75187F9A1CC87F3B58E7"
-				"size" "62B7AC7458E59FF2AD3BC485FC977581"
-				"download" "DE59F78CA2E37D04044858503DE153F6"
+				"gid" "A6823207DD75D902E1DFECF3B75E22CB"
+				"size" "13A53A0BB07B896C7DC1679B3A7F02AA"
+				"download" "5A912560403D1C43C05BCAB90763CC9D"
 			}
 			"psqa_dev_2"
 			{
-				"gid" "B78A956B74915B934601D780EEA81D48"
-				"size" "16EE2C6CF240B4EB5C5EC4832D7BAF53"
-				"download" "5166237D25E433E377A2078A50D11017"
+				"gid" "10BD092F48EAD4E27CF23F528336080C"
+				"size" "57CF92E76E83EDE8FFF3044AF02F937D"
+				"download" "4C40A0B2AC6CDCA323D79B8A5693C049"
 			}
 			"psqa_perf"
 			{
@@ -766,15 +815,15 @@
 			}
 			"psqa_sub_1"
 			{
-				"gid" "270C760CA2D829F5AEACFE3961F45D72"
-				"size" "7D4A2556161B6C5AE7D141C145E24564"
-				"download" "4286940E1CDB9471A662B2AB5415FD2E"
+				"gid" "DE1AF164F4339B0D427F99B4FF72B4CF"
+				"size" "B79CB1E6BCEF1D5018EB6C25266076D7"
+				"download" "7A2277F9B61946155DB0051D800A9692"
 			}
 			"psqa_sub_2"
 			{
-				"gid" "CDFE7979D09404F98518AB7B7B288819"
-				"size" "998853BBCD7FD7ED2F960F8D1AE39628"
-				"download" "F95E823A6860B346ADA9691F3838E4F7"
+				"gid" "1E77B4B6212B30E6A015E15AC6B35853"
+				"size" "74125FC85CF0C37947DB85155A15A27D"
+				"download" "7A89994EC1F37F866A57906B06E8AD02"
 			}
 			"qa_dev"
 			{
@@ -2269,8 +2318,8 @@
 	{
 		"public"
 		{
-			"buildid" "16371584"
-			"timeupdated" "1731592718"
+			"buildid" "16479780"
+			"timeupdated" "1732197062"
 		}
 		"age_rating"
 		{
@@ -2280,33 +2329,33 @@
 		}
 		"amd_1"
 		{
-			"buildid" "16314124"
+			"buildid" "16479780"
 			"pwdrequired" "1"
-			"timeupdated" "1730985162"
+			"timeupdated" "1732178465"
 		}
 		"gg_dev"
 		{
-			"buildid" "16371584"
+			"buildid" "16479780"
 			"pwdrequired" "1"
-			"timeupdated" "1731401072"
+			"timeupdated" "1732177830"
 		}
 		"intel"
 		{
-			"buildid" "16314124"
+			"buildid" "16479780"
 			"pwdrequired" "1"
-			"timeupdated" "1730985184"
+			"timeupdated" "1732178479"
 		}
 		"latest_dev"
 		{
-			"buildid" "16427613"
+			"buildid" "16494171"
 			"pwdrequired" "1"
-			"timeupdated" "1731720335"
+			"timeupdated" "1732238437"
 		}
 		"latest_release"
 		{
-			"buildid" "16427402"
+			"buildid" "16492750"
 			"pwdrequired" "1"
-			"timeupdated" "1731718710"
+			"timeupdated" "1732228386"
 		}
 		"nixxes_ut"
 		{
@@ -2316,9 +2365,9 @@
 		}
 		"nvidia"
 		{
-			"buildid" "16314124"
+			"buildid" "16479780"
 			"pwdrequired" "1"
-			"timeupdated" "1730985229"
+			"timeupdated" "1732178441"
 		}
 		"pathfinder_test"
 		{
@@ -2334,15 +2383,15 @@
 		}
 		"psqa_dev_1"
 		{
-			"buildid" "16321431"
+			"buildid" "16479991"
 			"pwdrequired" "1"
-			"timeupdated" "1730985372"
+			"timeupdated" "1732178511"
 		}
 		"psqa_dev_2"
 		{
-			"buildid" "16271280"
+			"buildid" "16427613"
 			"pwdrequired" "1"
-			"timeupdated" "1730706233"
+			"timeupdated" "1731923893"
 		}
 		"psqa_perf"
 		{
@@ -2352,15 +2401,15 @@
 		}
 		"psqa_sub_1"
 		{
-			"buildid" "16371584"
+			"buildid" "16479780"
 			"pwdrequired" "1"
-			"timeupdated" "1731401047"
+			"timeupdated" "1732177602"
 		}
 		"psqa_sub_2"
 		{
-			"buildid" "16359831"
+			"buildid" "16473014"
 			"pwdrequired" "1"
-			"timeupdated" "1731322730"
+			"timeupdated" "1732112235"
 		}
 		"qa_dev"
 		{
@@ -2395,6 +2444,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26222141"
-"_sha" "756044d8a0cfcd9e398335d261e4ed22a083245d"
-"_size" "59685"
+"_change_number" "26308782"
+"_sha" "577a05055282b0e048b2567081d61b72314a733c"
+"_size" "60916"
