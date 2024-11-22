@@ -7,9 +7,16 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
 		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
 	}
 	"icon" "ef0ebba33846d4cd494377d68bb34d63a15d79df"
 	"clienticon" "f2a01d42fc4986699276105483af1b14bbe77c10"
@@ -38,8 +45,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1729123200"
-		"tested_build_id" "15134494"
+		"test_timestamp" "1731542400"
+		"tested_build_id" "16166281"
 		"tests"
 		{
 			"0"
@@ -73,7 +80,7 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-2RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -94,18 +101,20 @@
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn,zh-tw,ja"
-		"library_hero" "en"
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en,ja,zh-cn,zh-tw,ko"
+		"library_hero_blur" "ja,en,zh-cn,zh-tw,ko"
 		"library_logo" "en,zh-cn,zh-tw,ja"
-		"library_header" "en,zh-cn,zh-tw,ja"
+		"library_header" "en,zh-cn,zh-tw,ja,ko"
 		"logo_position"
 		{
-			"pinned_position" "BottomCenter"
-			"width_pct" "68.09954751131221"
-			"height_pct" "67.3611111111111"
+			"pinned_position" "BottomLeft"
+			"width_pct" "68.81060116354233"
+			"height_pct" "96.52777777777777"
 		}
 	}
 	"library_assets_full"
@@ -114,28 +123,49 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-				"schinese" "library_600x900_schinese.jpg"
-				"tchinese" "library_600x900_tchinese.jpg"
-				"japanese" "library_600x900_japanese.jpg"
+				"english" "fcf0a3f0c7a4afb5638b6a622573028d89a5c606/library_600x900.jpg"
+				"schinese" "58a4c4cfc074070707f8b5207d63b544014158ce/library_600x900_schinese.jpg"
+				"tchinese" "dfee9bbbdd6658a101115a0ecaa197e356e53126/library_600x900_tchinese.jpg"
+				"japanese" "d1ef22dda3efb57a915eb7397e657fa3a153e61d/library_600x900_japanese.jpg"
+				"koreana" "a3d4e26a64a7313b16481608f1511329fd7a2633/library_600x900_koreana.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
-				"schinese" "library_600x900_schinese_2x.jpg"
-				"tchinese" "library_600x900_tchinese_2x.jpg"
-				"japanese" "library_600x900_japanese_2x.jpg"
+				"english" "fcf0a3f0c7a4afb5638b6a622573028d89a5c606/library_600x900_2x.jpg"
+				"schinese" "58a4c4cfc074070707f8b5207d63b544014158ce/library_600x900_schinese_2x.jpg"
+				"tchinese" "dfee9bbbdd6658a101115a0ecaa197e356e53126/library_600x900_tchinese_2x.jpg"
+				"japanese" "d1ef22dda3efb57a915eb7397e657fa3a153e61d/library_600x900_japanese_2x.jpg"
+				"koreana" "a3d4e26a64a7313b16481608f1511329fd7a2633/library_600x900_koreana_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero.jpg"
+				"japanese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_japanese.jpg"
+				"schinese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_schinese.jpg"
+				"tchinese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_tchinese.jpg"
+				"koreana" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_koreana.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_2x.jpg"
+				"japanese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_japanese_2x.jpg"
+				"schinese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_schinese_2x.jpg"
+				"tchinese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_tchinese_2x.jpg"
+				"koreana" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_koreana_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"japanese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_blur_japanese.jpg"
+				"english" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_blur.jpg"
+				"schinese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_blur_schinese.jpg"
+				"tchinese" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_blur_tchinese.jpg"
+				"koreana" "a0b292ab9bb801e1ab77e9b3759daffb59c2474a/library_hero_blur_koreana.jpg"
 			}
 		}
 		"library_logo"
@@ -156,23 +186,32 @@
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomCenter"
-				"width_pct" "68.09954751131221"
-				"height_pct" "67.3611111111111"
+				"pinned_position" "BottomLeft"
+				"width_pct" "68.81060116354233"
+				"height_pct" "96.52777777777777"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"schinese" "library_header_schinese.jpg"
-				"tchinese" "library_header_tchinese.jpg"
-				"japanese" "library_header_japanese.jpg"
+				"english" "14319cd829f6e8fccab27e5ebe4ff27563a40b35/library_header.jpg"
+				"schinese" "e457d6d0b8bd31d8f9234ea931e53643f69461c1/library_header_schinese.jpg"
+				"tchinese" "ae5554deefec7d69463c392e1fb1425d5d16986b/library_header_tchinese.jpg"
+				"japanese" "fae7c895cbbca4700c09ba298cc1593de2deb30f/library_header_japanese.jpg"
+				"koreana" "f3e8504325d6c74d1cda6b0c6063babe6319f9fb/library_header_koreana.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "fae7c895cbbca4700c09ba298cc1593de2deb30f/library_header_japanese_2x.jpg"
+				"koreana" "f3e8504325d6c74d1cda6b0c6063babe6319f9fb/library_header_koreana_2x.jpg"
+				"schinese" "e457d6d0b8bd31d8f9234ea931e53643f69461c1/library_header_schinese_2x.jpg"
+				"tchinese" "ae5554deefec7d69463c392e1fb1425d5d16986b/library_header_tchinese_2x.jpg"
+				"english" "14319cd829f6e8fccab27e5ebe4ff27563a40b35/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729613240"
+	"store_asset_mtime" "1732209250"
 	"associations"
 	{
 		"0"
@@ -234,6 +273,51 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1716821690"
 	"community_visible_stats" "1"
@@ -263,7 +347,7 @@
 		"19" "4604"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -313,11 +397,17 @@
 		}
 		"encryptedmanifests"
 		{
-			"crash-fix"
+			"press-preview"
 			{
-				"gid" "DB464B2B0CE8F57E50A7986EFD658D64"
-				"size" "B08B123F05B9CC482F38120C42058094"
-				"download" "7CDEC667B1E325A73C233CF26801BE4F"
+				"gid" "96127E7A6F4F8BE034CAB2C10F3AF000"
+				"size" "F54ED7454547859D8AF09F31CDC63BE1"
+				"download" "09230FBF7B54E7EDFB7CF4A3D7B89227"
+			}
+			"technical-private-beta"
+			{
+				"gid" "20CC8E96FE09692CC90AAB1CA4921EB8"
+				"size" "7A836F4632BB0BE501047B6FB91B4EB9"
+				"download" "6AABA1FC4BCD29EAB7295F66AA413262"
 			}
 			"internal"
 			{
@@ -331,12 +421,6 @@
 				"size" "AA14BF727DB126F896A8BDC863A61308"
 				"download" "D0DA69DE4ED32C7EF89EEA8A8F45AC97"
 			}
-			"steamdeckcertification"
-			{
-				"gid" "91F08A4D21E7644BB9FF4D5C22383B47"
-				"size" "4FB73B08ABAB08EAC19B8D2E0C232F02"
-				"download" "9227B69DA42CDDE104D337D41CA6191A"
-			}
 		}
 	}
 	"2717882"
@@ -349,9 +433,9 @@
 		{
 			"public"
 			{
-				"gid" "4635741789069910970"
-				"size" "1273659222"
-				"download" "925954960"
+				"gid" "968094391543580210"
+				"size" "1670371708"
+				"download" "1222835392"
 			}
 			"publictestversion"
 			{
@@ -362,29 +446,29 @@
 		}
 		"encryptedmanifests"
 		{
-			"crash-fix"
+			"press-preview"
 			{
-				"gid" "A62AB13845766CA78195DAF05267D43E"
-				"size" "9A55DB4491466B5703D0CC4313166E09"
-				"download" "61F2C8AB4AF6A485BBB3081845CBE373"
+				"gid" "B7390E7563F9623A14C9F4C54AE29B00"
+				"size" "46D042E242690D471C55951EB11F80AA"
+				"download" "BCA2A6DC330F4F89C72D1E95BF9C4E0C"
+			}
+			"technical-private-beta"
+			{
+				"gid" "F03E221A4BE27010EF882F3A0BF6CE6C"
+				"size" "FCB70157A43DD4B7BBF373276A34A902"
+				"download" "4E4550A0BA96A3DE7728B3CCD6D0AA44"
 			}
 			"internal"
 			{
-				"gid" "485E28CA4546B614382259D29A1B4AD2"
-				"size" "4A65B379F0680E9A6FC4B234C0DACB53"
-				"download" "450189A5DA4524CB7999EE705F651FBA"
+				"gid" "C55ACF6FD164EB2E348B6385DDBB714D"
+				"size" "3F6D436538E2823E73EEED775B9E6B6A"
+				"download" "B52EBCDF6AF824D8A812E8E55612644C"
 			}
 			"internal-bis"
 			{
-				"gid" "35F3846B44A67FD7D6AAB3C969006D81"
-				"size" "C3339BA3809090030B0F36FE703951F0"
-				"download" "C21B65685E3781375B182E7CB2BE118F"
-			}
-			"steamdeckcertification"
-			{
-				"gid" "CCF07EAC1B8EDFB35FBC008CA521B0C2"
-				"size" "7BB701C551A244858474C9C7E12EC1E8"
-				"download" "878C909C1198577D67AE9C0879106F25"
+				"gid" "5200891A01EE9B572CBFB86FB6E6364A"
+				"size" "B4F579548E17991EB1F409378F1CB90A"
+				"download" "ABF2C4ACEA99FB5D7B584564BF4D03D6"
 			}
 		}
 	}
@@ -392,32 +476,32 @@
 	{
 		"public"
 		{
-			"buildid" "16166281"
-			"timeupdated" "1729777709"
+			"buildid" "16486328"
+			"timeupdated" "1732213234"
 		}
-		"crash-fix"
+		"press-preview"
 		{
-			"buildid" "15772627"
+			"buildid" "16407637"
 			"pwdrequired" "1"
-			"timeupdated" "1726846573"
+			"timeupdated" "1731596218"
+		}
+		"technical-private-beta"
+		{
+			"buildid" "16461229"
+			"pwdrequired" "1"
+			"timeupdated" "1732034671"
 		}
 		"internal"
 		{
-			"buildid" "16164220"
+			"buildid" "16486328"
 			"pwdrequired" "1"
-			"timeupdated" "1729767108"
+			"timeupdated" "1732193031"
 		}
 		"internal-bis"
 		{
-			"buildid" "16062614"
+			"buildid" "16485633"
 			"pwdrequired" "1"
-			"timeupdated" "1729066442"
-		}
-		"steamdeckcertification"
-		{
-			"buildid" "15134494"
-			"pwdrequired" "1"
-			"timeupdated" "1721898127"
+			"timeupdated" "1732189743"
 		}
 		"publictestversion"
 		{
@@ -442,6 +526,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25877583"
-"_sha" "5165d013a72ecdafde09a9365c1334a6aefde02f"
-"_size" "8991"
+"_change_number" "26303872"
+"_sha" "84348da2556b36227c222b7e38da3034969b0741"
+"_size" "12376"
