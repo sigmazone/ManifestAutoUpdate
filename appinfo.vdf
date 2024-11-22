@@ -105,6 +105,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -120,22 +121,29 @@
 		{
 			"image"
 			{
-				"english" "3cfff6e7620fc0bb11ab9edcac725e6eb627ebbe/library_600x900.jpg"
+				"english" "e242f9b7e5b930085abe5c8a91c6c9e8e7f8ed45/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "3cfff6e7620fc0bb11ab9edcac725e6eb627ebbe/library_600x900_2x.jpg"
+				"english" "e242f9b7e5b930085abe5c8a91c6c9e8e7f8ed45/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "0cbb9dd9f210e4014cf5d79ad198da910abf37c4/library_hero.jpg"
+				"english" "d633b29780870f2a19c3b3d77d858f6d55cb85cb/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "0cbb9dd9f210e4014cf5d79ad198da910abf37c4/library_hero_2x.jpg"
+				"english" "d633b29780870f2a19c3b3d77d858f6d55cb85cb/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d633b29780870f2a19c3b3d77d858f6d55cb85cb/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -148,7 +156,7 @@
 			}
 			"image"
 			{
-				"english" "539df8882afd74d491d1c11e0e74d7c936769a7e/logo.png"
+				"english" "dc6eed8e43e7085330ce966a2f3e534b8f21d02d/logo.png"
 			}
 			"image2x"
 			{
@@ -163,7 +171,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728991171"
+	"store_asset_mtime" "1732134076"
 	"associations"
 	{
 		"0"
@@ -299,14 +307,15 @@
 		"8" "4182"
 		"9" "3878"
 		"10" "4175"
-		"11" "597"
-		"12" "1685"
+		"11" "1685"
+		"12" "597"
 		"13" "3843"
 		"14" "1775"
 		"15" "4747"
 		"16" "1756"
 		"17" "5055"
 		"18" "19"
+		"19" "6650"
 	}
 	"review_score" "5"
 	"review_percentage" "67"
@@ -624,9 +633,9 @@
 		{
 			"public"
 			{
-				"gid" "1994734816853925969"
+				"gid" "1538819730436684373"
 				"size" "21613373890"
-				"download" "17894056736"
+				"download" "17894060880"
 			}
 		}
 		"encryptedmanifests"
@@ -639,21 +648,21 @@
 			}
 			"dev_qa"
 			{
-				"gid" "9DABA15ACA402E91C11D90DED711F41F"
-				"size" "112379794EDC2732E1F68401B99832C9"
-				"download" "14F3BEA0EFDAD63EB9BBBCAF12C566BA"
+				"gid" "242E16904F22D6793FA02234E0AFDC85"
+				"size" "CB914674D65D0F98C1202A3C1EB53330"
+				"download" "D1A1666C1FE91DFEF801D6251EF4EBB1"
 			}
 			"devcheck"
 			{
-				"gid" "D109D1028B9F609F79D440A91803A928"
-				"size" "7232265850D1A602B78322314D045528"
-				"download" "6D651629A1781D53709811898F8F5E07"
+				"gid" "9B7DD2E020B618E5101BBA8C66DFF112"
+				"size" "0D7F678E1F3A676770B3EE6136C03987"
+				"download" "B44268E8DFD52CC9FF34617243C14098"
 			}
 			"eacc"
 			{
-				"gid" "567CF36BC5F7EF63D30571B58C5E15FE"
+				"gid" "F68A14B5F03629AE117FC52955D5E5EB"
 				"size" "57CCA9363AFF64423EBF18CB29DF4933"
-				"download" "B863439BF64217D1291A0DF918FCA024"
+				"download" "4A338AE8E19AED266098BDEC60B00563"
 			}
 			"external_ihv"
 			{
@@ -663,15 +672,21 @@
 			}
 			"external_intel"
 			{
-				"gid" "D6B74EED25CDB48F645EC82FD61C8914"
-				"size" "50F3B720F541044386664D579A4BA46A"
-				"download" "11B4E0C6DF1C80A15157F573C379610F"
+				"gid" "4EE26F8CFD1646C258D2C6646A3B0463"
+				"size" "17130B4B73E0B99D1517B36ED6656161"
+				"download" "4C010B48A856D713445FDFE4D0394705"
 			}
 			"f1_em"
 			{
 				"gid" "04E91510C079826FB885808E24A7C7E8"
 				"size" "034E98473F7F4C7D59F1F8197944E96B"
 				"download" "FF1356F5689B16614BC5C4A8E0B76A36"
+			}
+			"f1_sim_racing"
+			{
+				"gid" "A27DC6DC16469D094C98A9673975EBD5"
+				"size" "CE6DB051063969085F6F89FD44B8F1D4"
+				"download" "9C6E663F455C2BE93A5A1FFE02B2630C"
 			}
 			"qv_day0"
 			{
@@ -687,9 +702,9 @@
 			}
 			"qv_esports"
 			{
-				"gid" "E8CBD5C103A21B9B42A69483F7FD4487"
-				"size" "4841264338E161B20AA1BA539EDB7DF6"
-				"download" "20D96821870137F2497A226E81EFF75B"
+				"gid" "09DB1059DDE023A9C5067E5C1F33ABAC"
+				"size" "523451723C3EDDB3DD966C612F9DAB6D"
+				"download" "04ADC38C2A50EE8EB345F38E47E91F3C"
 			}
 			"qv_midseason2"
 			{
@@ -711,9 +726,9 @@
 			}
 			"qv_midseason4"
 			{
-				"gid" "768F63116FF2DBD96E9F6A78F4407E12"
-				"size" "25600225F816180C09A43CE41F739052"
-				"download" "33AA5383FA940F0F403D37BE42D1912E"
+				"gid" "B9FD5DAF42B515C39B2A2FCB98CD0F5E"
+				"size" "2AA4B903BC100798309BE40E54C7920B"
+				"download" "540ADE3ABFB55F060DDB88F2C2006C52"
 			}
 			"qv_nx"
 			{
@@ -757,11 +772,17 @@
 				"size" "3C85A0BEADD7672EBB07C5191D8C763F"
 				"download" "2BD186A2263BB43A3E633EF0F800D5BE"
 			}
+			"qv_season4hf"
+			{
+				"gid" "E8058DACCF9E81B1AB3E11E42809217D"
+				"size" "6DDE6209F07AC1076DB140FE02B09C5B"
+				"download" "A09CC03B8A898CE0BFDDA5ECBC8D4926"
+			}
 			"qv_testbranch"
 			{
-				"gid" "1A387B59FDF4A25B9411E440A6AF8B16"
-				"size" "CFA0714692D67D33C6CE3D6B9FBC7D1C"
-				"download" "49C6DBF7F85B68832A7F97DE79D2D23A"
+				"gid" "76491ABDD4E6917CEE73C056A4A59BDD"
+				"size" "4AA07E5DA6300560992E52C1FA6704DB"
+				"download" "8FDBCF755C40724C00469CD168B03034"
 			}
 			"qv_week3"
 			{
@@ -849,6 +870,12 @@
 				"size" "5FA922140F053006FD905399B9C596B2"
 				"download" "1DA633F199EABADAFA9CFF0ED81026FD"
 			}
+			"f1_sim_racing"
+			{
+				"gid" "788B8F7EABE7FA8A39F2412C6617ED4D"
+				"size" "7EF8E7A85E485A7434428241277344B2"
+				"download" "2ADD5A9F75591FD6DE110A52C08440D6"
+			}
 			"qv_day0"
 			{
 				"gid" "07D40DE61DB35381CC027F305633B564"
@@ -863,9 +890,9 @@
 			}
 			"qv_esports"
 			{
-				"gid" "1DE26FB374ECAA4241D5F1F2B0791513"
+				"gid" "8039C92CC3562C2C01BBBE4BA21548D7"
 				"size" "F1FB39E7AB5E97CF34E93CBAEEC6E46B"
-				"download" "BCED65BC38F6FFE7B70B75C79A45E869"
+				"download" "ACC5A5AB30611504BC936D2B5469B087"
 			}
 			"qv_midseason2"
 			{
@@ -933,6 +960,12 @@
 				"size" "D3522A2883D5C6356CC4E4EE37720DB5"
 				"download" "2F38A2E16EFB360F9E2901E292BB740B"
 			}
+			"qv_season4hf"
+			{
+				"gid" "C6905E6891E704C44047B707E6D66B1E"
+				"size" "5DF0B79ADBF818BD541436FE6CADFBBD"
+				"download" "158FC91574E6EE147AE354686AF200E0"
+			}
 			"qv_testbranch"
 			{
 				"gid" "E1AF82A3BB01AA4DC00B4A1A0CB1AD93"
@@ -991,13 +1024,13 @@
 			}
 			"dev_qa"
 			{
-				"gid" "7EB7C0AAC1417D2F803722499B57E28A"
+				"gid" "4AD71651C6297A26192F3F5374BDC3A8"
 				"size" "9B4928F6F564065BEABB11E05F7D3F0C"
 				"download" "5B19D48C1D3B631FF251A135F331A287"
 			}
 			"devcheck"
 			{
-				"gid" "B5D22794D89A897E9D50CAE1D74391CA"
+				"gid" "79495121C4410186B6FBEFF50B74FD1B"
 				"size" "211A753161A964DD83FDB40957EA9C0A"
 				"download" "BB25F2A107053C3084E8872F7CEB9965"
 			}
@@ -1015,7 +1048,7 @@
 			}
 			"external_intel"
 			{
-				"gid" "C949251DA8A0907D31AF268A5BDE07C1"
+				"gid" "C935120A53B0B50642E43B1463254D8E"
 				"size" "2BED1842523B1D66001323EA30CE37C9"
 				"download" "9E001EA8C0E38DDBB36ADAA83FE6254C"
 			}
@@ -1024,6 +1057,12 @@
 				"gid" "C94E0837C53FE7EFC215767703F63066"
 				"size" "3289EADC94B9258DBF174D8F831C1369"
 				"download" "A0A2D913DD15BE0640C46F3B69F46F56"
+			}
+			"f1_sim_racing"
+			{
+				"gid" "9B25F07DE396163546E3B94C3793BBFD"
+				"size" "C3C40F423E20D66E74E11D9C2D090D76"
+				"download" "5543082BB65D4AA52EE3456F2C1B7F7C"
 			}
 			"qv_day0"
 			{
@@ -1039,9 +1078,9 @@
 			}
 			"qv_esports"
 			{
-				"gid" "35BE09856D571006E7AAB88376B1E948"
+				"gid" "78713F4B3BF933D86C19B3C139AB24C5"
 				"size" "A42AA1A050D66EDD899E88BE4E255EE2"
-				"download" "306B7FDCBECAFDBF2F52D986A173C3AF"
+				"download" "083B5D24922E32CA659CAB1E5F3E909A"
 			}
 			"qv_midseason2"
 			{
@@ -1063,7 +1102,7 @@
 			}
 			"qv_midseason4"
 			{
-				"gid" "7E1D10DC9B323F7EE7266F95EB89B71E"
+				"gid" "4B8723AAAD39A2917B6D29FA552629B0"
 				"size" "A56568762B1871183624026486D4F5DE"
 				"download" "0655E30AE2777D5F841D0858FD879368"
 			}
@@ -1109,6 +1148,12 @@
 				"size" "002DE15140F3216BF3B914E99D31B49A"
 				"download" "6F2E09959BD71E997286CB65930FE112"
 			}
+			"qv_season4hf"
+			{
+				"gid" "071D900E6366AEBF87738DE1C6545E5D"
+				"size" "196E328C16C64E0EDDAD0A0F9D807C44"
+				"download" "40C3D6F0AF6BD5FA1CDCE108368494A4"
+			}
 			"qv_testbranch"
 			{
 				"gid" "F27FD3155D111BFA9DC4E0A3A8717326"
@@ -1152,9 +1197,9 @@
 		{
 			"public"
 			{
-				"gid" "7783785334899219214"
-				"size" "645706861"
-				"download" "408642320"
+				"gid" "7755665321838201364"
+				"size" "621693549"
+				"download" "393735600"
 			}
 		}
 		"encryptedmanifests"
@@ -1167,21 +1212,21 @@
 			}
 			"dev_qa"
 			{
-				"gid" "458C2990AEDFCFF4CF6985C27DBA1DBB"
-				"size" "72C4D5AE3BD52790EA30B8D4173FB229"
-				"download" "776ACD6021D919D5AEF79B9B000F45C9"
+				"gid" "90E5348FEF98D2C3E853BAC598F30098"
+				"size" "F2418490D95BAAF802F47364FCAD89E8"
+				"download" "B76321B4A21F513A0529903BECE189C6"
 			}
 			"devcheck"
 			{
-				"gid" "CA172C6CFF492B8654DC1DDAFE628763"
-				"size" "989D457D5066F194DCDDACD0FC1C4F7E"
-				"download" "AD97770C5F4A9CC976E475ABD5CB25A5"
+				"gid" "D606E9F8FDB111F2B08E15A47C3C825D"
+				"size" "39234CC048855DAE71B1152DBD8DCAA9"
+				"download" "793EA8AF30275B8F09FBDAE1E4F9FC3B"
 			}
 			"eacc"
 			{
-				"gid" "3104C184450E78955F396C15584A5F46"
-				"size" "53209C8F3CC82CB661B0FA198ACE34C9"
-				"download" "68C8FA70C73FBD421033D0232E491227"
+				"gid" "5EFF9D624541AC239476564C307AF47B"
+				"size" "9215F21DF91807C37A9CCB2DE169F7D3"
+				"download" "14FA150719DD02B22E53B0573DEAD2D2"
 			}
 			"external_ihv"
 			{
@@ -1191,15 +1236,21 @@
 			}
 			"external_intel"
 			{
-				"gid" "CBB9DC8FF99436EBDEA4D80557B6022A"
-				"size" "2FA684176599C6F0B5147D2D00DAF8AD"
-				"download" "90A96AB5C53EAF5366C2F29F4FE9D376"
+				"gid" "37047754DFF89A6512BF33AABB2C4B12"
+				"size" "15B7738D19DC797C2D63742F40CC9362"
+				"download" "45EA698E903B6CCBC33E466CA471972E"
 			}
 			"f1_em"
 			{
 				"gid" "F7B929910A14C70F9AE8D4D6B12F54CA"
 				"size" "8A3E36754D30F6B9B726DEB48FA4EE57"
 				"download" "BA0801582ED06CFFF1BEC7DED5229EA7"
+			}
+			"f1_sim_racing"
+			{
+				"gid" "88F7857C69020E6B80D3FA8B22358513"
+				"size" "7D1C359924ED15BC228DDD1F5E3DA771"
+				"download" "63BD736D3B3B643E40223BE41544FBCC"
 			}
 			"qv_day0"
 			{
@@ -1215,9 +1266,9 @@
 			}
 			"qv_esports"
 			{
-				"gid" "A8A7456A07D436A5C51ACFE670393914"
-				"size" "15AD442F6902D3353E42EC0AB89B373F"
-				"download" "B1A8C303759C9E2566FF2A7A13E3501F"
+				"gid" "29756AA33A2C82106BF0DAA144F7BB38"
+				"size" "7F23E0BDF2BBB8088EB1A0D1080BD8A8"
+				"download" "A990F95BF5EBF95D0883DFE948561407"
 			}
 			"qv_midseason2"
 			{
@@ -1239,9 +1290,9 @@
 			}
 			"qv_midseason4"
 			{
-				"gid" "4F4EDEFD5FBBD20F007A2594A84A59A7"
-				"size" "4820CB8E1BED27FDB030A0DF346F5B61"
-				"download" "7E5E0AC3009D568C3DF26CEAE6AAA0DA"
+				"gid" "BECF82669B4EEF367CE412B43A0CD43E"
+				"size" "90F09AFD45E48291F3688739DA667039"
+				"download" "9AAAD51BB653B32F1D7D10255E5C4D3C"
 			}
 			"qv_nx"
 			{
@@ -1285,11 +1336,17 @@
 				"size" "45961E09B15A7214E9A450A7BAD668E7"
 				"download" "59CBAD8FD5C1234C7454FC25CCF8DAC0"
 			}
+			"qv_season4hf"
+			{
+				"gid" "3254C1996251CE83668AD014B385F88E"
+				"size" "A6840BEA6E00546741316B1E52CD59D3"
+				"download" "579DAE4407F63050FC9FB32E98D7738E"
+			}
 			"qv_testbranch"
 			{
-				"gid" "6165525982DC2AF0046C5CDDBA831B18"
-				"size" "3F9FD78920E0F69359E9383D272563C0"
-				"download" "748BC77A6C894DC36E7A65B07B4CB0C4"
+				"gid" "52B12B0EC9E28D5DD773135A831EE6B3"
+				"size" "755841AD8C6D07A7FEF15A3DFC1F9411"
+				"download" "24CC62007EFBBC91C9168A161E6A9DAA"
 			}
 			"qv_week3"
 			{
@@ -1343,15 +1400,15 @@
 			}
 			"dev_qa"
 			{
-				"gid" "9E9FCC4337AD56B35AC772AAAB3EAFAA"
-				"size" "B19B8A608A6F880B238113E7052C03A9"
-				"download" "E13D16197402E320C742238D89D92BB2"
+				"gid" "A77300506F36D45BBBAF4E5C731CC5AC"
+				"size" "17E1363AE42D6BCFFEA7682F676BC9A9"
+				"download" "F387FA0421FD2316DF4B2D6E5A440D88"
 			}
 			"devcheck"
 			{
-				"gid" "B708332A00EFF8225206B1A998C4CBFA"
-				"size" "162EBDC9A8BD5C80FDD564285F202F21"
-				"download" "6EE2530A54B1360121372230758B4786"
+				"gid" "E01883D614BF2B4A0485474F3507C9D7"
+				"size" "79FD664C3AD337EA6E1A58056650720A"
+				"download" "B1DACACE7AE562EC253D471FC2AB918A"
 			}
 			"eacc"
 			{
@@ -1367,15 +1424,21 @@
 			}
 			"external_intel"
 			{
-				"gid" "105ADB289F6C28B22C81EDD4E260D78D"
-				"size" "E177DC74B2A0978D8C804BB251913AF7"
-				"download" "1CF6EBAE6DA82CA66364A70E53EDD1A8"
+				"gid" "72C7A137CC4952186D4D0B8959021298"
+				"size" "1F3CD55C6455768CC34FC25287C1FEED"
+				"download" "6D4B57808AB26693A433E75EC0811A0B"
 			}
 			"f1_em"
 			{
 				"gid" "F12C25878325D4EC61BB0D4C3D868CE4"
 				"size" "45733AA8329CE85B75CF6484BAE67A73"
 				"download" "45733AA8329CE85B75CF6484BAE67A73"
+			}
+			"f1_sim_racing"
+			{
+				"gid" "1F1E3DD97E1A720C5D3DE471610C6EFE"
+				"size" "D983BB9B43B89B6CD14DF208245A1BC2"
+				"download" "D983BB9B43B89B6CD14DF208245A1BC2"
 			}
 			"qv_day0"
 			{
@@ -1391,9 +1454,9 @@
 			}
 			"qv_esports"
 			{
-				"gid" "3BC46AD8CB4339097E74E26699D9D911"
-				"size" "B6798D49D71C25B59554E0DE979BC991"
-				"download" "D5D91CFA7AACAEE3229EFA76B99D93A1"
+				"gid" "E11B7520B59DC4E610141AF987FF34DE"
+				"size" "5BAD455FF6FD994AF4D43F1BA91C6BFA"
+				"download" "5BAD455FF6FD994AF4D43F1BA91C6BFA"
 			}
 			"qv_midseason2"
 			{
@@ -1415,9 +1478,9 @@
 			}
 			"qv_midseason4"
 			{
-				"gid" "D1699A21A9E7F7735236B1EE7162C405"
-				"size" "038C7D6BC09D444C69D3A1AD050D0DB0"
-				"download" "E2D975A185E632C0124D287BD2D8C1EE"
+				"gid" "CD9ED91FDD02C7CEDBE63B74FF66DE06"
+				"size" "9821B1EE97C3BA294A84B665011C3B51"
+				"download" "14A6DAAE3C51C2465E93251E11CFE13A"
 			}
 			"qv_nx"
 			{
@@ -1461,11 +1524,17 @@
 				"size" "9684EFE791122023B9747F43C682E3C4"
 				"download" "752587774B6102F649E1C4DB7C487F29"
 			}
+			"qv_season4hf"
+			{
+				"gid" "349D1F8D7ADC3E232AE73714E48A9BD1"
+				"size" "DDED01502C0F89AE83782A07EC9D4F7C"
+				"download" "DDED01502C0F89AE83782A07EC9D4F7C"
+			}
 			"qv_testbranch"
 			{
-				"gid" "212A0674EEBD0F2A16DBF1E49219D287"
-				"size" "948A3711CA4A2B9D2B58F632536DAF93"
-				"download" "948A3711CA4A2B9D2B58F632536DAF93"
+				"gid" "B028A1FC300B2455FA21EC3DDB0B7EA7"
+				"size" "8B931AAFE72C0CB1F3F01D0D361E4FBC"
+				"download" "E2D94D54BD38F253E532E9FC3FCC5C94"
 			}
 			"qv_week3"
 			{
@@ -1519,15 +1588,15 @@
 			}
 			"dev_qa"
 			{
-				"gid" "4D8690C4175C2C1AF723811F4E8CDBCF"
-				"size" "F88FC851ADED529264F41EB9E7B52FA8"
-				"download" "E437ED2908767F9A6EC8AD0B9F496BEA"
+				"gid" "F76E88A7684FDC7053FA70FF8B313995"
+				"size" "3487E0D8BE5349A131EAF30AA66B018C"
+				"download" "A014D32C520CA0E6CCB5FB4E0D56524A"
 			}
 			"devcheck"
 			{
-				"gid" "8D633094BCDDFA4457EB78FBFE506EF9"
-				"size" "5096642A31F18F9C8101FB859478699C"
-				"download" "45DD97864C967903DA860BC0C23E02A9"
+				"gid" "B961229645079A814B838FD236779A24"
+				"size" "3FEB1927A27D61D8EC7C88FCCA0ED24A"
+				"download" "A6B7F9B2E384F060C4F283ED58392D90"
 			}
 			"eacc"
 			{
@@ -1543,15 +1612,21 @@
 			}
 			"external_intel"
 			{
-				"gid" "6E26A59631E6C1FA19BD180DAC5E1266"
-				"size" "0A504B1027312D42F6EE4682A6BC9B5F"
-				"download" "B44257BF08860C5E558F04109CF77BCE"
+				"gid" "16AEAB7CAB595D96E1BB228CC23211FF"
+				"size" "D3A5AA51120303CDBAD0998358B8B07C"
+				"download" "9615150039B50EA4D73A63301F3765F4"
 			}
 			"f1_em"
 			{
 				"gid" "6FDA7D77CA7D8376FF3A13B37C8029A2"
 				"size" "45733AA8329CE85B75CF6484BAE67A73"
 				"download" "45733AA8329CE85B75CF6484BAE67A73"
+			}
+			"f1_sim_racing"
+			{
+				"gid" "6861E673F7CC9E6E6C0C9F0842BDCFC6"
+				"size" "D983BB9B43B89B6CD14DF208245A1BC2"
+				"download" "D983BB9B43B89B6CD14DF208245A1BC2"
 			}
 			"qv_day0"
 			{
@@ -1567,9 +1642,9 @@
 			}
 			"qv_esports"
 			{
-				"gid" "9991C971F7AFF0FA2B97C6CF553F1E69"
-				"size" "2E8F931DD53BCC23E7C7060942992AC9"
-				"download" "9A528EFA6DE129A9D282A50D08B7D49E"
+				"gid" "487B8F57D5509A5AD1DB34833FC19BF8"
+				"size" "5BAD455FF6FD994AF4D43F1BA91C6BFA"
+				"download" "5BAD455FF6FD994AF4D43F1BA91C6BFA"
 			}
 			"qv_midseason2"
 			{
@@ -1591,9 +1666,9 @@
 			}
 			"qv_midseason4"
 			{
-				"gid" "8A299FF90C4C9FF4473A22091244AAC0"
-				"size" "552F9E699CC9B6AF46303A0D5B52A519"
-				"download" "9EB922990A37B03CF90277BECFEB67CE"
+				"gid" "E97B5D7A1B3956A170DB01B9D107E529"
+				"size" "7C8F87C9A7D150859D8997D403784474"
+				"download" "3939266B1C0FC6353F91097471CEA901"
 			}
 			"qv_nx"
 			{
@@ -1637,11 +1712,17 @@
 				"size" "47A95E4E63F3D8C0ED3CE77A317F4BAD"
 				"download" "4807B68E2D08A6345CD6B3370924B751"
 			}
+			"qv_season4hf"
+			{
+				"gid" "F9510E865F8B46E9BA026604BFB191F3"
+				"size" "DDED01502C0F89AE83782A07EC9D4F7C"
+				"download" "DDED01502C0F89AE83782A07EC9D4F7C"
+			}
 			"qv_testbranch"
 			{
-				"gid" "F5EFAEFDBFD43501DF3C9073EF44F05E"
-				"size" "948A3711CA4A2B9D2B58F632536DAF93"
-				"download" "948A3711CA4A2B9D2B58F632536DAF93"
+				"gid" "59EBE094CB0065D249E9BE265BE2A56B"
+				"size" "B700AE2F868844C224EBFA78EE6B471F"
+				"download" "D8902562DCC9F54B79BE936C45E74E21"
 			}
 			"qv_week3"
 			{
@@ -1673,8 +1754,8 @@
 	{
 		"public"
 		{
-			"buildid" "16327349"
-			"timeupdated" "1731323016"
+			"buildid" "16425414"
+			"timeupdated" "1732183202"
 		}
 		"external_fom"
 		{
@@ -1684,21 +1765,21 @@
 		}
 		"dev_qa"
 		{
-			"buildid" "16329401"
+			"buildid" "16470818"
 			"pwdrequired" "1"
-			"timeupdated" "1730992920"
+			"timeupdated" "1732099405"
 		}
 		"devcheck"
 		{
-			"buildid" "16303839"
+			"buildid" "16487261"
 			"pwdrequired" "1"
-			"timeupdated" "1730879025"
+			"timeupdated" "1732197832"
 		}
 		"eacc"
 		{
-			"buildid" "16327349"
+			"buildid" "16425414"
 			"pwdrequired" "1"
-			"timeupdated" "1731082904"
+			"timeupdated" "1732033646"
 		}
 		"external_ihv"
 		{
@@ -1708,15 +1789,21 @@
 		}
 		"external_intel"
 		{
-			"buildid" "16253655"
+			"buildid" "16487261"
 			"pwdrequired" "1"
-			"timeupdated" "1730389644"
+			"timeupdated" "1732198872"
 		}
 		"f1_em"
 		{
 			"buildid" "14629929"
 			"pwdrequired" "1"
 			"timeupdated" "1717746481"
+		}
+		"f1_sim_racing"
+		{
+			"buildid" "16420859"
+			"pwdrequired" "1"
+			"timeupdated" "1731682899"
 		}
 		"qv_day0"
 		{
@@ -1732,9 +1819,9 @@
 		}
 		"qv_esports"
 		{
-			"buildid" "16289405"
+			"buildid" "16463888"
 			"pwdrequired" "1"
-			"timeupdated" "1730735869"
+			"timeupdated" "1732091653"
 		}
 		"qv_midseason2"
 		{
@@ -1756,9 +1843,9 @@
 		}
 		"qv_midseason4"
 		{
-			"buildid" "16329401"
+			"buildid" "16470818"
 			"pwdrequired" "1"
-			"timeupdated" "1730993976"
+			"timeupdated" "1732102310"
 		}
 		"qv_nx"
 		{
@@ -1802,11 +1889,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730879854"
 		}
+		"qv_season4hf"
+		{
+			"buildid" "16425414"
+			"pwdrequired" "1"
+			"timeupdated" "1731927853"
+		}
 		"qv_testbranch"
 		{
-			"buildid" "16327349"
+			"buildid" "16390913"
 			"pwdrequired" "1"
-			"timeupdated" "1730982969"
+			"timeupdated" "1731498473"
 		}
 		"qv_week3"
 		{
@@ -1840,6 +1933,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26138500"
-"_sha" "3a5d42b8767528542e70b706df787778a0e63946"
-"_size" "43433"
+"_change_number" "26307958"
+"_sha" "047b866afec05b11b0d4903e11f0ebdb24e399c7"
+"_size" "45977"
