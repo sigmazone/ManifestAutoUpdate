@@ -12,33 +12,37 @@
 	"name_localized"
 	{
 		"schinese" "彼方的她-Aliya"
-		"english" "彼方的她-Aliya"
+		"english" "Aliya: Timelink"
 	}
 	"releasestate" "released"
 	"languages"
 	{
 		"english" "1"
+		"schinese" "1"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"schinese" "3aaf67ac42c9b36eba76a10be787ca4552f552f4/capsule_231x87_schinese.jpg"
+		"english" "71f183aba49703d666346339ca4b221b88966d57/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
+		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "zh-cn,en"
 		"library_hero" "en"
-		"library_logo" "en"
-		"library_header" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "100"
-			"height_pct" "100"
+			"width_pct" "17.794632438739796"
+			"height_pct" "41.24539074580706"
 		}
 	}
 	"library_assets_full"
@@ -47,50 +51,67 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"schinese" "927688ff24f1575094063feaa0ee364782212e00/library_600x900_schinese.jpg"
+				"english" "b68e8e891078e9aac323c01e65632c4b0aad2509/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"schinese" "927688ff24f1575094063feaa0ee364782212e00/library_600x900_schinese_2x.jpg"
+				"english" "b68e8e891078e9aac323c01e65632c4b0aad2509/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "1a12d3235ff74d783abc0e30e67fbef7451b4900/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "1a12d3235ff74d783abc0e30e67fbef7451b4900/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "1a12d3235ff74d783abc0e30e67fbef7451b4900/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
-			"logo_position"
-			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "100"
-				"height_pct" "100"
-			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "5339dc897d63c0ec95d1afa26e44536d0d76df31/logo.png"
+				"schinese" "c118eae7b5c2d0656a0f76b9e0a3ec993bd1ef57/logo_schinese.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "5339dc897d63c0ec95d1afa26e44536d0d76df31/logo_2x.png"
+				"schinese" "c118eae7b5c2d0656a0f76b9e0a3ec993bd1ef57/logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "17.794632438739796"
+				"height_pct" "41.24539074580706"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "42a60c07832c0941ab8672f5c1ca1548f5b70ff0/library_header.jpg"
+				"schinese" "fceaaebf0232e851b75e56c6da3500fcaf18e5f2/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "42a60c07832c0941ab8672f5c1ca1548f5b70ff0/library_header_2x.jpg"
+				"schinese" "fceaaebf0232e851b75e56c6da3500fcaf18e5f2/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1724307040"
+	"store_asset_mtime" "1732209581"
 	"associations"
 	{
 		"0"
@@ -124,6 +145,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1714048069"
 	"community_visible_stats" "1"
@@ -133,8 +159,8 @@
 	{
 		"0" "122"
 		"1" "11014"
-		"2" "24003"
-		"3" "3799"
+		"2" "3799"
+		"3" "24003"
 		"4" "6971"
 		"5" "1755"
 		"6" "3942"
@@ -172,41 +198,41 @@
 }
 "depots"
 {
-	"baselanguages" "schinese"
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "0"
 	"2704111"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4291249243153205385"
-				"size" "639305124"
-				"download" "147489344"
+				"gid" "4381777388638271983"
+				"size" "680795632"
+				"download" "160791824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "E445B7C628658A23FAD2BBE2D58D0EE7"
-				"size" "1A2A98701191F7CD519E7BE2776D8034"
-				"download" "BAAF61FC6B34A827F61DF9232C1D0F6D"
+				"gid" "9FF79AD3BDB5F98D39604675461A65EB"
+				"size" "C1E19EF73DBC8DEE5F2344C3732581E8"
+				"download" "628F2B25619F3140F9CB4CBD6CFE8554"
 			}
 		}
 	}
-	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15989144"
-			"timeupdated" "1728531417"
+			"buildid" "16488112"
+			"timeupdated" "1732204924"
 		}
 		"test"
 		{
-			"buildid" "15989144"
+			"buildid" "16488112"
 			"pwdrequired" "1"
-			"timeupdated" "1728531120"
+			"timeupdated" "1732201881"
 		}
 	}
 }
@@ -229,6 +255,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25640382"
-"_sha" "9efd7ce1e0770ba2c37b0b395765f2b8a5f600c6"
-"_size" "3586"
+"_change_number" "26302539"
+"_sha" "cf941bea825c8e887b21e8d41a43f9948b718551"
+"_size" "5001"
