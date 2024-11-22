@@ -11,7 +11,6 @@
 	"icon" "a7f8cfee6f21f7979c5205faa557254accc49bfe"
 	"name_localized"
 	{
-		"koreana" "태양 제국의 죄악 II"
 	}
 	"releasestate" "released"
 	"aicontenttype" "1"
@@ -82,7 +81,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726665385"
+	"store_asset_mtime" "1732211146"
 	"associations"
 	{
 		"0"
@@ -131,6 +130,7 @@
 		"category_27" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -191,8 +191,13 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1723723585"
+	"steam_release_date" "1723723560"
 	"community_hub_visible" "1"
 	"gameid" "1575940"
 	"store_tags"
@@ -202,8 +207,8 @@
 		"2" "1670"
 		"3" "1676"
 		"4" "3942"
-		"5" "3859"
-		"6" "4182"
+		"5" "4182"
+		"6" "3859"
 		"7" "1708"
 		"8" "1742"
 		"9" "1685"
@@ -226,6 +231,8 @@
 	"developer" "Ironclad Games Corporation"
 	"publisher" "Stardock Entertainment"
 	"homepage" "https://www.sinsofasolarempire2.com/"
+	"listofdlc" "3195270,3195280,3195290,3195300"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -243,7 +250,7 @@
 			"type" "option1"
 			"config"
 			{
-				"betakey" "test_dev"
+				"betakey" "scion_mvp"
 			}
 			"description_loc"
 			{
@@ -257,7 +264,7 @@
 			"type" "option1"
 			"config"
 			{
-				"betakey" "staging"
+				"betakey" "test_edition"
 			}
 			"description_loc"
 			{
@@ -309,21 +316,21 @@
 		{
 			"public"
 			{
-				"gid" "3530563343573513561"
-				"size" "13353317349"
-				"download" "6331520752"
+				"gid" "8139857420013478210"
+				"size" "14430590049"
+				"download" "6863861984"
 			}
 			"previous_version"
 			{
-				"gid" "1055869325709553898"
-				"size" "13221644423"
-				"download" "6297444768"
-			}
-			"test_edition"
-			{
 				"gid" "3530563343573513561"
 				"size" "13353317349"
 				"download" "6331520752"
+			}
+			"test_edition"
+			{
+				"gid" "8139857420013478210"
+				"size" "14430590049"
+				"download" "6863861984"
 			}
 		}
 		"encryptedmanifests"
@@ -342,33 +349,27 @@
 			}
 			"scion_mvp"
 			{
-				"gid" "301F89B07062DA18CC3B4DC987206383"
-				"size" "CDCD0A629BA07DB15BCFC99ECFC1718C"
-				"download" "50BD4FDEC8620371786739B6B564DD1D"
-			}
-			"staging"
-			{
-				"gid" "CD079BABC79279931B9DBCE9B3D86A91"
-				"size" "E70146ED5C3538457B2168D70630067F"
-				"download" "0315767ADC3F3B3291D0E158A26C3A70"
+				"gid" "E83697A994E26832DB9D2814A1BB79E5"
+				"size" "766A0C8239B15B0AB1FCD73BB25E2979"
+				"download" "0F6387316F73EB2BA2B8C727AB4904C5"
 			}
 			"test_dev"
 			{
-				"gid" "014F9C08539A506409E74DB5F6D76538"
-				"size" "CEBA70605CDB091BC419838931ECEA40"
-				"download" "B2EC42E672E678EEBA459B75F97A48B3"
+				"gid" "DB52AA9BC1384B90D289BE8B713BFD99"
+				"size" "1DFE6D5A3C0ABE199BFEAD137D02BB85"
+				"download" "706535BB48CE07B2EE55E247CFF40FBF"
 			}
 			"publishing"
 			{
-				"gid" "DF0B33E07FD32DBC1EC54D5E2DDA0B2C"
-				"size" "1610AFFE260D0DAA5D844808CC386CED"
-				"download" "6239EB8117D657CCA2BDFFE30CB4BC2F"
+				"gid" "E72370E37A9836C8D4BFA0377B2E4860"
+				"size" "6A6396852BE04C0FABE0F63CAA63C707"
+				"download" "8C226A42AE01CF74E6D5FB0F11FED9C0"
 			}
 			"marketing"
 			{
-				"gid" "FC9EEB6F48AE7366CF7873F5D6333312"
-				"size" "675FA308BF6CE1B4C00DC27C4E8117C1"
-				"download" "6BE530E5BB81FB6204C4AA91C070D342"
+				"gid" "4CC4DDCEA75CA4523F83B48E46F3ED49"
+				"size" "6C5537619DA034146F0FCAE742DC6873"
+				"download" "D8F40E10DBDBB582E482ECB632F92509"
 			}
 		}
 	}
@@ -418,12 +419,6 @@
 				"gid" "D865C3E226C41847A015BBF3DF131A2C"
 				"size" "8C692EBFDB042E3B14AED832A1FCF276"
 				"download" "FD26DACDC5C940D2751B102D3736ABD7"
-			}
-			"staging"
-			{
-				"gid" "6C575CC10D5D2F484E639A4FC128D966"
-				"size" "36048A86FB844A5717C13D7278BC58B6"
-				"download" "D663DA317741267F91EFBFADAD2C4F43"
 			}
 			"test_dev"
 			{
@@ -482,12 +477,6 @@
 				"size" "579C3CF24EDEB25140BA8BA38C3856A8"
 				"download" "4B8588A87557C932D100CB5012E38CAC"
 			}
-			"staging"
-			{
-				"gid" "14F94FE67118913FB0CECC8AF0485000"
-				"size" "1EB47820443842663FBAD6859635920E"
-				"download" "42BE4F34EEB5D5B67631FB69DCD4EB6F"
-			}
 			"test_dev"
 			{
 				"gid" "397BB470489C17256CBCA03060CE62E5"
@@ -512,8 +501,8 @@
 	{
 		"public"
 		{
-			"buildid" "15933417"
-			"timeupdated" "1728065538"
+			"buildid" "16474781"
+			"timeupdated" "1732197088"
 		}
 		"media"
 		{
@@ -529,45 +518,39 @@
 		}
 		"previous_version"
 		{
-			"buildid" "15537750"
+			"buildid" "15933417"
 			"description" "v28.3 Build"
-			"timeupdated" "1727715547"
+			"timeupdated" "1732197051"
 		}
 		"scion_mvp"
 		{
-			"buildid" "15933417"
+			"buildid" "16474781"
 			"pwdrequired" "1"
-			"timeupdated" "1728065501"
-		}
-		"staging"
-		{
-			"buildid" "15933422"
-			"pwdrequired" "1"
-			"timeupdated" "1728065319"
+			"timeupdated" "1732118792"
 		}
 		"test_dev"
 		{
-			"buildid" "15933422"
+			"buildid" "16474781"
 			"pwdrequired" "1"
-			"timeupdated" "1728065482"
+			"timeupdated" "1732118799"
 		}
 		"test_edition"
 		{
-			"buildid" "15933417"
+			"buildid" "16474781"
 			"description" "Try out new versions early"
-			"timeupdated" "1728065510"
+			"timeupdated" "1732120281"
 		}
 		"publishing"
 		{
-			"buildid" "15933417"
+			"buildid" "16474781"
 			"pwdrequired" "1"
-			"timeupdated" "1728065282"
+			"timeupdated" "1732118781"
 		}
 		"marketing"
 		{
-			"buildid" "15933422"
+			"buildid" "16344409"
 			"pwdrequired" "1"
-			"timeupdated" "1728065492"
+			"timeupdated" "1731083649"
 		}
 	}
 }
@@ -607,3 +590,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26302954"
+"_sha" "56b4e45edf1cbd1c7fc06e15619180222acf57ea"
+"_size" "11090"
