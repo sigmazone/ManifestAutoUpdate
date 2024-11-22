@@ -1,0 +1,332 @@
+"appid" "1054170"
+"common"
+{
+	"name" "Lair Land Story 蘭島物語/兰岛物语 レアランドストーリー"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "f963c506233524d86ee2a411324aad979b310897"
+	"logo_small" "f963c506233524d86ee2a411324aad979b310897_thumb"
+	"icon" "94230f23848e9b6ebc5c7122226811f7aeaabd3a"
+	"clienticns" "2cab1fa27f0a630a1e8e2d7b552b6fba757b0f3d"
+	"clienticon" "db0624aff781b865731bdf13f89c6f1d36700e25"
+	"clienttga" "f509120f5a37b33ec7574a9372e04da23766d27e"
+	"linuxclienticon" "398e5ebfe93c9b90881e7c3eaf9ce2b7d9f34134"
+	"osextended" ""
+	"metacritic_name" "蘭島物語/兰岛物语 レアランドストーリー"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "75.68273569223463"
+		}
+	}
+	"store_asset_mtime" "1561123894"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CIRCLE Ent."
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Initory Studios"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Arc System Works"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "CIRCLE Ent."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Lair Land Story"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1561100400"
+	"steam_release_date" "1561088483"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1054170"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "599"
+		"2" "9"
+		"3" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "CIRCLE Ent."
+	"publisher" "CIRCLE Ent."
+	"homepage" "https://afdian.net/@lairland2"
+	"listofdlc" "1118900,1132400"
+}
+"config"
+{
+	"installdir" "Lair Land Story Remake Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Lair Land Story Remake Edition.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Lair Land Story Remake Edition.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"1054171"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "105094304177680666"
+				"size" "2132061814"
+				"download" "1595926224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "B7BC57AA0C69812D1DF3BAF267F161A1"
+				"size" "8A0C2AEDDC6943B2B99CB218A1DCCCFD"
+				"download" "191E8098CBB7BD2DE865CFCC57FC2F15"
+			}
+			"test"
+			{
+				"gid" "ABDF7CD1D1DE1FD357628B0E4D9B5D44"
+				"size" "9B8971ACFB82DCCBB339E55B15F1D775"
+				"download" "42774580FDB82FDF9DFBDD4C2B773304"
+			}
+		}
+	}
+	"1054172"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6637087008233987473"
+				"size" "2193548250"
+				"download" "1600362848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "807B0CCA0CCFC25FF5F86AD4EE63F8FE"
+				"size" "E59C16F8F26E86B1AE1FF08FA3EFEFFD"
+				"download" "1749E880B25CA480BBED3C2EC653990B"
+			}
+			"test"
+			{
+				"gid" "F380C0440E401116A056F7426B3AF9A2"
+				"size" "93509F1EECB612800925512DADE90F74"
+				"download" "5C151A22E1AB27885458ABD9DC5AEE14"
+			}
+		}
+	}
+	"1118900"
+	{
+		"dlcappid" "1118900"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2202459169453775790"
+				"size" "283274765"
+				"download" "270621248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "CDFFCD89CF21044A5AEE3D8535F7929A"
+				"size" "AE5F0094113D4D015ED6DF39D2338782"
+				"download" "C2193E261FC00F44BF73C751516708C2"
+			}
+			"test"
+			{
+				"gid" "B3197A442B276A9C650D009F82067F8B"
+				"size" "205C2EF440BC7363541CEA1608A9CB31"
+				"download" "0E30BFAD55817243570E47E883E6C39E"
+			}
+		}
+	}
+	"1132400"
+	{
+		"dlcappid" "1132400"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9057511298497548995"
+				"size" "71513824"
+				"download" "71266832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "1BFA6D10B83E547D9EE332FFD48CA04A"
+				"size" "126F2AEF216C13D7EFFAF310A9E324CF"
+				"download" "112904F34FEC18AC45FDF4B26CE82D14"
+			}
+			"test"
+			{
+				"gid" "C3F0A5FAE57BE9094CAE4E41AA35C494"
+				"size" "1891A192382815E2FB0F10B2EC5DFDB4"
+				"download" "D4B539A2E454BA3D71088754DEC841E2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4450395"
+			"timeupdated" "1575288198"
+		}
+		"publictest"
+		{
+			"buildid" "4182374"
+			"pwdrequired" "1"
+			"timeupdated" "1572227142"
+		}
+		"test"
+		{
+			"buildid" "4450395"
+			"pwdrequired" "1"
+			"timeupdated" "1575281966"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "429916160"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "LairLandStorySave"
+			"pattern" "*.txt"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinMyDocuments"
+			"addpath" ""
+		}
+	}
+}
