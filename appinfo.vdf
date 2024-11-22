@@ -1,0 +1,470 @@
+"appid" "2701700"
+"common"
+{
+	"name" "Maestro"
+	"type" "Game"
+	"icon" "3281e96e3843beb9f743a662eef18b3a75380253"
+	"clienttga" "0fab31af408d13cbac225548a47f933f075c3a2a"
+	"clienticon" "26c28b5313215efb31027c67300caecb8487834b"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1730419200"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "2f9b1242c61fc17830d360037cfe296f94788120/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "cf7ab7876edce48d83a914e8514dc07e931437de/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "cf7ab7876edce48d83a914e8514dc07e931437de/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "86276bc44cca364d657192dc1f095f411b67508c/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "86276bc44cca364d657192dc1f095f411b67508c/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "86276bc44cca364d657192dc1f095f411b67508c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "776d64e2fd5dbe4382f1efe45a40e64aa6f7db62/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "776d64e2fd5dbe4382f1efe45a40e64aa6f7db62/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730977013"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Double Jack"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Double Jack"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1729611867"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2701700"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "1752"
+		"2" "1621"
+		"3" "597"
+		"4" "599"
+		"5" "5350"
+		"6" "4136"
+		"7" "12057"
+		"8" "5608"
+		"9" "4182"
+		"10" "7948"
+		"11" "9204"
+		"12" "1036"
+		"13" "3839"
+		"14" "4175"
+		"15" "1654"
+		"16" "3987"
+		"17" "4835"
+		"18" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Double Jack"
+	"publisher" "Double Jack"
+	"homepage" "https://maestro-game.com/"
+}
+"config"
+{
+	"installdir" "Maestro"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WindowsNoEditor/Maestro.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2701701"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8420999745221924679"
+				"size" "1917560022"
+				"download" "1765240528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_influencer"
+			{
+				"gid" "759E52286856BB7D231A69A0DD6B3835"
+				"size" "A1C401DDA83493DEBE49F68101EFACB6"
+				"download" "54A8D147A88079CD9E0651FFFBFB724A"
+			}
+			"developement_dlc"
+			{
+				"gid" "5D652BE2F2E085C71917008F4DFE4BD2"
+				"size" "E6ED9B06871EBCEF25EEEF5434F78C0C"
+				"download" "3F66D51EC99E88EE6DD4787C16E49909"
+			}
+		}
+	}
+	"3252040"
+	{
+		"dlcappid" "3252040"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"developement_dlc"
+			{
+				"gid" "42D8D3049097026B1D02A67E0C1132B5"
+				"size" "6F64CB231CBA894A30D14F56D8BD48F2"
+				"download" "6F64CB231CBA894A30D14F56D8BD48F2"
+			}
+			"development"
+			{
+				"gid" "250D1A2949685D6C3AB76F3C82272E48"
+				"size" "6F42C5818D89DF80AAB11B2F1465E97C"
+				"download" "DA94C36037D968B2FB4ACA611F15B837"
+			}
+		}
+	}
+	"2701702"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5036342786512978868"
+				"size" "2008704405"
+				"download" "1788502560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_influencer"
+			{
+				"gid" "988F8DEB5DE301B56946DA5E525530C3"
+				"size" "5D574FBC486241DF16D11D8063D5A2E2"
+				"download" "60230D509FC6B9F3775E7E6846A11729"
+			}
+			"developement_dlc"
+			{
+				"gid" "66ADD0B80E4ACBF5F6A6DEE305B8D8CE"
+				"size" "B88AF635ED324F987F4FCA5E5279C100"
+				"download" "22E6F309C77FFF89BEDEA822320DE521"
+			}
+			"development"
+			{
+				"gid" "DAB7D03A7B34AB50DBE6616871805C71"
+				"size" "1DE7D7808E60E0E3E05FCA71F98DCC62"
+				"download" "E62E73B839A992D0F4490360544533AC"
+			}
+		}
+	}
+	"3252046"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"beta_influencer"
+			{
+				"gid" "409B95F92ED3906F2CA2F1D69BBAA787"
+				"size" "2F1B1EDEE81A1DFD24750EE42735AB46"
+				"download" "9234875F2A791285E44AF74B14F3A0B4"
+			}
+		}
+	}
+	"3352570"
+	{
+		"dlcappid" "3352570"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "22853734255A370CF4D9E049D092F6F2"
+				"size" "C12A8CEDCD54D185620BC7F0FDD88542"
+				"download" "5BA38055E200A6A108BD61176094D707"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16138059"
+			"timeupdated" "1729608970"
+		}
+		"beta_influencer"
+		{
+			"buildid" "16138062"
+			"pwdrequired" "1"
+			"timeupdated" "1729608990"
+		}
+		"developement_dlc"
+		{
+			"buildid" "15918799"
+			"pwdrequired" "1"
+			"timeupdated" "1727973098"
+		}
+		"development"
+		{
+			"buildid" "16489767"
+			"pwdrequired" "1"
+			"timeupdated" "1732210386"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Maestro/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26302710"
+"_sha" "6837f604c73f932320e177c92a72748503fb7d9c"
+"_size" "8420"
