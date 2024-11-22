@@ -15,6 +15,35 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1730937600"
+		"tested_build_id" "15934304"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -153,7 +182,7 @@
 		"19" "21"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -260,15 +289,15 @@
 		{
 			"public"
 			{
-				"gid" "8087007370474868414"
-				"size" "179936936"
-				"download" "87752288"
+				"gid" "7221110831755053965"
+				"size" "180147160"
+				"download" "88094000"
 			}
 			"beta"
 			{
-				"gid" "8087007370474868414"
-				"size" "179936936"
-				"download" "87752288"
+				"gid" "7221110831755053965"
+				"size" "180147160"
+				"download" "88094000"
 			}
 		}
 	}
@@ -282,15 +311,15 @@
 		{
 			"public"
 			{
-				"gid" "8974617059828980294"
-				"size" "166781748"
-				"download" "83849120"
+				"gid" "238355866333988325"
+				"size" "166991956"
+				"download" "84193168"
 			}
 			"beta"
 			{
-				"gid" "8974617059828980294"
-				"size" "166781748"
-				"download" "83849120"
+				"gid" "238355866333988325"
+				"size" "166991956"
+				"download" "84193168"
 			}
 		}
 	}
@@ -304,15 +333,15 @@
 		{
 			"public"
 			{
-				"gid" "2716015118443653850"
-				"size" "261112741"
-				"download" "104845440"
+				"gid" "1611272753884760672"
+				"size" "261322949"
+				"download" "105197952"
 			}
 			"beta"
 			{
-				"gid" "2716015118443653850"
-				"size" "261112741"
-				"download" "104845440"
+				"gid" "1611272753884760672"
+				"size" "261322949"
+				"download" "105197952"
 			}
 		}
 	}
@@ -321,14 +350,14 @@
 	{
 		"public"
 		{
-			"buildid" "15934304"
-			"timeupdated" "1728084017"
+			"buildid" "16433961"
+			"timeupdated" "1732136713"
 		}
 		"beta"
 		{
-			"buildid" "15934304"
+			"buildid" "16433961"
 			"description" "for testing new patches"
-			"timeupdated" "1728071423"
+			"timeupdated" "1731811205"
 		}
 	}
 }
@@ -373,3 +402,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26286784"
+"_sha" "c1429bffe407c044398935d61ed18726801e62fd"
+"_size" "6774"
