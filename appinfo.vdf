@@ -5,7 +5,7 @@
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
-	"osarch" ""
+	"osarch" "64"
 	"osextended" "macos64,macosapplesilicon"
 	"clienticon" "e833a798d26a661c49b9cbccdd43431b28958130"
 	"clienttga" "f8d18f1462de4338a6ba83252dc392b1be3ea1a6"
@@ -28,32 +28,27 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1686614400"
-		"tested_build_id" "11398311"
+		"category" "3"
+		"test_timestamp" "1732060800"
+		"tested_build_id" "16448376"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
-			}
-			"1"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-			}
-			"2"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-			}
-			"3"
-			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
-			"4"
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -61,19 +56,22 @@
 		}
 		"configuration"
 		{
-			"supported_input" "other"
-			"requires_manual_keyboard_invoke" "1"
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -168,6 +166,11 @@
 		"category_23" "1"
 		"category_25" "1"
 		"category_17" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -290,6 +293,9 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchtemplateindex" "8"
 }
 "depots"
 {
@@ -305,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "1416914077422453655"
-				"size" "722849154"
-				"download" "585252640"
+				"gid" "3856414837738376679"
+				"size" "1136296550"
+				"download" "639247968"
 			}
 		}
 		"encryptedmanifests"
@@ -326,15 +332,15 @@
 			}
 			"cyber"
 			{
-				"gid" "2F51EC87F64B50EED078E4E2D214392E"
-				"size" "6EE5114D4C0B8D74555BACAFC3CAE8AC"
-				"download" "A7C560837E906A578A930008EE42D9F3"
+				"gid" "FDC36E8B5DBA8115AE49CE1B846BD62D"
+				"size" "DA6EE356D157D05F452E4ECA1A1D82D3"
+				"download" "DD560131E11E0DAD397696911EE8D803"
 			}
 			"devs"
 			{
-				"gid" "C33E3A38C7B9292DFD9510AA22DB9E93"
-				"size" "173D32002DE0F9E55AEF5FF65A3E6085"
-				"download" "61EBC495D8B3367D95CC2E84D547DE97"
+				"gid" "E505D3261207DAFC72AB3FD320A74A64"
+				"size" "E9A43E5644D92C69A1A7A927D5DB7AF2"
+				"download" "50701A2C45727E5A410EEF8FC053EFE4"
 			}
 			"public-test"
 			{
@@ -404,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "6610085641437464579"
-				"size" "748176723"
-				"download" "594027344"
+				"gid" "4937372728380168438"
+				"size" "945908250"
+				"download" "582033456"
 			}
 		}
 		"encryptedmanifests"
@@ -425,9 +431,9 @@
 			}
 			"cyber"
 			{
-				"gid" "F79255B658E714ADC18EE29105501211"
-				"size" "EF1F8D0C98682B61EFD83528ADB49817"
-				"download" "267F6405B5972601BFB6B7258E8CB5CE"
+				"gid" "40199E2C99421EA3226FEB64203BD25A"
+				"size" "D4189971899CF77931148B6591471705"
+				"download" "2D47354F71C06C170EED9FECD5BFB9E6"
 			}
 			"devs"
 			{
@@ -453,9 +459,9 @@
 		{
 			"public"
 			{
-				"gid" "3597590901225301797"
-				"size" "971314203"
-				"download" "565478064"
+				"gid" "6455796467339643487"
+				"size" "1100155992"
+				"download" "608258592"
 			}
 		}
 		"encryptedmanifests"
@@ -474,9 +480,9 @@
 			}
 			"cyber"
 			{
-				"gid" "9C7E986992472AABB3E6121207B2422B"
-				"size" "A45A1300D9D282F9ED35E1CBDBA32087"
-				"download" "B8264ED1A7832BB675629489A22F6C19"
+				"gid" "8BC5E2E6B73CC9B7086E6DC5622D8539"
+				"size" "F2E85C04FF638FA14C6B8F6205DD443D"
+				"download" "4A5132E7C2947FCD35E736D5B2E78865"
 			}
 			"devs"
 			{
@@ -496,8 +502,8 @@
 	{
 		"public"
 		{
-			"buildid" "13178897"
-			"timeupdated" "1705352799"
+			"buildid" "16461568"
+			"timeupdated" "1732119327"
 		}
 		"release"
 		{
@@ -513,15 +519,15 @@
 		}
 		"cyber"
 		{
-			"buildid" "15728583"
+			"buildid" "16461568"
 			"pwdrequired" "1"
-			"timeupdated" "1726574546"
+			"timeupdated" "1732036363"
 		}
 		"devs"
 		{
-			"buildid" "14957341"
+			"buildid" "16461591"
 			"pwdrequired" "1"
-			"timeupdated" "1720360719"
+			"timeupdated" "1732036448"
 		}
 		"public-test"
 		{
@@ -579,119 +585,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"french"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "Playing %campaign_level%"
-				"#status_mainmenu" "Menu principal"
-				"#status_sandbox" "Sandbox"
-				"#status_workshop" "Atelier"
-			}
-		}
-		"english"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Main Menu"
-				"#status_sandbox" "Sandbox"
-				"#status_workshop" "Workshop"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Menú principal"
-				"#status_sandbox" "Construcción libre"
-				"#status_workshop" "Workshop"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Hauptmenü"
-				"#status_sandbox" "Sandbox"
-				"#status_workshop" "Workshop"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "メニュー"
-				"#status_sandbox" "実験モード"
-				"#status_workshop" "ワークショップ"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "메인 메뉴"
-				"#status_sandbox" "샌드박스"
-				"#status_workshop" "창작마당"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "主菜单"
-				"#status_sandbox" "沙盘"
-				"#status_workshop" "创作室"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Menu principale"
-				"#status_sandbox" "Sandbox"
-				"#status_workshop" "Workshop"
-			}
-		}
-		"turkish"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Ana Menü"
-				"#status_sandbox" "Sandbox"
-				"#status_workshop" "Atölye"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Главное меню"
-				"#status_sandbox" "Песочница"
-				"#status_workshop" "Мастерская"
-			}
-		}
-		"portuguese"
-		{
-			"tokens"
-			{
-				"#playingcampaignlevel" "%campaign_level%"
-				"#status_mainmenu" "Menu principal"
-				"#status_sandbox" "Caixa de areia"
-				"#status_workshop" "Oficina"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26283017"
+"_sha" "5bbc8a1e86c888d40d7f8fbfff437d001ade375d"
+"_size" "11064"
