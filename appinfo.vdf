@@ -1,0 +1,747 @@
+"appid" "2948640"
+"common"
+{
+	"name" "The Jackbox Survey Scramble"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"icon" "bf35a88160e890906b9618ff3eebf05726ef5a21"
+	"clienttga" "c051361a63a43f7a42a5e788b72423d2b3b0fb75"
+	"clienticns" "9e17b705a798a23ae29de0d9caa03865e96a02b2"
+	"linuxclienticon" "ec72e7329a5783abe1ec144544aeac44b6d3fb59"
+	"clienticon" "9ef078a62aa1ce1624ccc9740dc3603958dbe1eb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1732060800"
+		"tested_build_id" "15913558"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "59e7681ecb89bfcd786c5e59443de4f819ca4e86/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "67.63763159417287"
+			"height_pct" "70.48731724522312"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "67.63763159417287"
+				"height_pct" "70.48731724522312"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728063670"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jackbox Games, Inc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Jackbox Games, Inc"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729746029"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2948640"
+	"store_tags"
+	{
+		"0" "10437"
+		"1" "9"
+		"2" "24003"
+		"3" "1775"
+		"4" "1770"
+		"5" "17389"
+		"6" "1773"
+		"7" "3871"
+		"8" "4136"
+		"9" "5711"
+		"10" "597"
+		"11" "4305"
+		"12" "4252"
+		"13" "5350"
+		"14" "1719"
+		"15" "4840"
+		"16" "1685"
+		"17" "3841"
+		"18" "7368"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Jackbox Games, Inc"
+	"publisher" "Jackbox Games, Inc"
+}
+"config"
+{
+	"installdir" "The Jackbox Survey Scramble"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "The Jackbox Survey Scramble.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Launcher.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "launch_mp.bat"
+			"arguments" "game/the-jackbox-survey-scramble"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "in The Jackbox Games Megapicker"
+			}
+			"description" "in The Jackbox Games Megapicker"
+		}
+		"4"
+		{
+			"executable" "The Jackbox Survey Scramble.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Standalone"
+			}
+			"description" "Standalone"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2948641"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9162109606760562736"
+				"size" "203445033"
+				"download" "192227296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"early"
+			{
+				"gid" "09F01F13ADE2C0D64FABD15587FF9D9F"
+				"size" "A9B950DFE4249747D4D4797C7A6F7D10"
+				"download" "E36191FD11E413BCB15B03BD1F663CC6"
+			}
+			"external"
+			{
+				"gid" "E3EADF3B8350CD7CD3CDDE03AFD88665"
+				"size" "F1B3FAB8FEEB617C7A52A9134BEDBF64"
+				"download" "6530FD7210F07A81968D70C42510B5E4"
+			}
+			"horizontal"
+			{
+				"gid" "E471F640E2005FE3BC2AF8FEAE5423EE"
+				"size" "512B20E5E7EBF8216B0CB6BDFEA464C5"
+				"download" "2FDEB3D80ED98C89A7B6486969548CF4"
+			}
+			"keywords"
+			{
+				"gid" "5B06D96D6D22C3138D0172CE6166AD69"
+				"size" "C2E53CAAFF558655A98FDAF175507CA8"
+				"download" "2B0AD5E063DB7A6AB58BCC1775877700"
+			}
+			"latest"
+			{
+				"gid" "DAF646E057F5ED95A15E6EECF18BD0A9"
+				"size" "8351C4B7A56EDEE66C08CD50D22FEAC1"
+				"download" "322361AF661A07DFC6A6899739641321"
+			}
+			"press"
+			{
+				"gid" "6B5D692667DC13F815DAE98F866A71E9"
+				"size" "1447A091AB2F770B0690A183D09CB3E3"
+				"download" "8FC94F0CE0A5477A9253C08E5A903EAB"
+			}
+			"rc274"
+			{
+				"gid" "B7187EB88C8316526EC8FDC12D4B6E47"
+				"size" "A229216816DD1729F0ECAB134BFF2C05"
+				"download" "A62551A03298DAC1B6CC61E5F0374CF5"
+			}
+			"submission"
+			{
+				"gid" "9376785287088D90FB7A6A6765A4E910"
+				"size" "66CD2E0167F0A0E57FAD461BD1878D3E"
+				"download" "E2A41B3006D8A1466AFCE624A99AE84C"
+			}
+			"surveyupdate"
+			{
+				"gid" "157D551CB0108B3AFC2A5F677DC7207D"
+				"size" "A6AD77ED8B2E69E1DB2F33602CD25C94"
+				"download" "E1A922B3E8315FFA72CFB5D0E4E5EC74"
+			}
+			"test"
+			{
+				"gid" "ADFFA9F0DD5ADE6BF63B438DD429B937"
+				"size" "7D6645B07CCB046365EE42A1DB8E2921"
+				"download" "0E4DD89677C4A312F3FABA80B3FBD8B0"
+			}
+		}
+	}
+	"2948642"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5126870668473386065"
+				"size" "22113856"
+				"download" "6280096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"early"
+			{
+				"gid" "9B31848DB8709659931BC1BF31F36EEF"
+				"size" "65B71563933BE770301C283EC28BCB48"
+				"download" "5AED7F2CE49A87C93C261AAE9C400774"
+			}
+			"external"
+			{
+				"gid" "69A8E38FB10A1C406D59D4FDFA06D8B4"
+				"size" "795E2DB049C4B5041AF662D2FDCCE346"
+				"download" "6EEB7F8FB845FEAF5466946B3CEFF211"
+			}
+			"horizontal"
+			{
+				"gid" "88554929A3E2E57BFB68301262C36D0D"
+				"size" "BB06B34311EE31374B95FC550C6E991D"
+				"download" "4EB41F61939B46BE113FCE28D547E591"
+			}
+			"keywords"
+			{
+				"gid" "B8935C0471AC1D6F14B91A538CD23E3C"
+				"size" "C8FAD268F9F14AE7BE50E9CF00CEDED6"
+				"download" "A6C71D84C8C31D468192D58BC5252AF1"
+			}
+			"latest"
+			{
+				"gid" "4209785BF94D7EDF067F0ED3E42763A9"
+				"size" "DDF04620F80B5F539409283DE2CB4AD5"
+				"download" "BA9C53E475B328769AA3A405987D789A"
+			}
+			"press"
+			{
+				"gid" "7CA0BBBE1BDC52FE8410B7726F420D31"
+				"size" "D7FA117404EB3E9C6CC0C3F92758898F"
+				"download" "E194C5304644246DF6CCD01D8FE89609"
+			}
+			"rc274"
+			{
+				"gid" "AEC605A14D75E1FADEBB65D790FAE910"
+				"size" "4DC3D0C43CF65701060DFB306D46E87F"
+				"download" "9B75DD7BFE3D4187B5F59057A75A43AA"
+			}
+			"submission"
+			{
+				"gid" "828AC72683F235E1869F6E81E80C665C"
+				"size" "C5BBA770FAFBD9B7B90C7EF410C61DD7"
+				"download" "CA5CC6C5561C2C4BE21BC0E511A33191"
+			}
+			"surveyupdate"
+			{
+				"gid" "69C0EF5F8E99B96FA25C893C133DE442"
+				"size" "2DF4BAB4113096961E814D41D63B298C"
+				"download" "5AADD1D8160F2B6C0AF69F0CB013805F"
+			}
+			"test"
+			{
+				"gid" "760F40B083F52718F01C4943A30A0BCB"
+				"size" "06818675BB7CA2AB8DBF5A1CD729CA12"
+				"download" "A2FA92E7B17167C1F22099BC5D137D4B"
+			}
+		}
+	}
+	"2948643"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7148267768176146453"
+				"size" "294722300"
+				"download" "202079264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"early"
+			{
+				"gid" "BA8111725724DB5435488F84FC313848"
+				"size" "42F4942AD1E9CC8F9A95246D8E0CBC14"
+				"download" "C4B458EA1E0CDACE1C334EF7A3D342F2"
+			}
+			"external"
+			{
+				"gid" "1584BD272A17EE073562B05DF964B9C1"
+				"size" "AA437444208F8574F9C41C768BD710CE"
+				"download" "C8C3E4EC735582E953F2A2FF7670E9B1"
+			}
+			"horizontal"
+			{
+				"gid" "CBDA6C38157D046D971D1C688585B611"
+				"size" "AED769E0F1C93FC1E079D2DA38D8E757"
+				"download" "E960F67F2F6EB5EE050B81BB402AB4CF"
+			}
+			"keywords"
+			{
+				"gid" "3BAE15096C7984CC4B9EC609B4BDEA70"
+				"size" "CE451CB13464165F31587215C9080064"
+				"download" "A6D9B59179E838604CFCE1C5222A3B1C"
+			}
+			"latest"
+			{
+				"gid" "1319BACCF658DCC61BD383438CEE4EEB"
+				"size" "012C8B558037AE4CB62BC76D859D7ED4"
+				"download" "6908E4F5F238829B5523A723BD64F7F2"
+			}
+			"press"
+			{
+				"gid" "3B43CAD7AA65AB548BB16EC5950E47AB"
+				"size" "00F719AB5FBF6E824CF8E49EC7D280AA"
+				"download" "639DD97295987C87AC523AF247F20D86"
+			}
+			"rc274"
+			{
+				"gid" "ED376750FE5A71ED869A78A9B0748FA7"
+				"size" "BBF81EC52671444CDE92025862DBF6EB"
+				"download" "B146A90E8AF111BC476B4827D91FBD41"
+			}
+			"submission"
+			{
+				"gid" "77178D3B09028E34346841EA3A445BAA"
+				"size" "B5BA7306210D0E25937E72127CC18A36"
+				"download" "DA7C5C2CF0758EA8FE62C2EC8499F2B8"
+			}
+			"surveyupdate"
+			{
+				"gid" "DBDC1623A8EEF2CA47BB93E5A54476ED"
+				"size" "E41BAB7CDEBECCEAA57A1B06858FA50F"
+				"download" "AA3160A7EDC17DCCB62623614C8584D9"
+			}
+			"test"
+			{
+				"gid" "6142206D7FCA7F2D2791DFB2ADAD0AB6"
+				"size" "FE3E50AF68E08BA0EA172F3FD22B2256"
+				"download" "D42854A62639565FBF704A5CC1ECEBEB"
+			}
+		}
+	}
+	"2948644"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7397305830971086640"
+				"size" "48269214"
+				"download" "13604080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"early"
+			{
+				"gid" "DC1002BE40DEF727C45D15F5167C9F8A"
+				"size" "AE17CB18E6167926894B45CA8E40CD6B"
+				"download" "F09D0ADDC9CDCE01216521E89E4C35E9"
+			}
+			"external"
+			{
+				"gid" "1EFAFDB722B0609BDC2D04A571A0ECFF"
+				"size" "0A5D7F44B29E71A60325EBFB666C27A3"
+				"download" "5DC859C3100E4E0313335A68AF412FB1"
+			}
+			"horizontal"
+			{
+				"gid" "3D2C746BF6FB8A8CF60CF4971D540808"
+				"size" "BB37E5C44C3587C664AC1D1A5AAD55F8"
+				"download" "042CBFE004FAFF72D168B519D6B47FE6"
+			}
+			"keywords"
+			{
+				"gid" "805AF4711720FB4DED920189D813530E"
+				"size" "2D2AFBB0869FE095848ACC0C86524CE6"
+				"download" "AD6DA08C3427D4E863D294C9A7021E32"
+			}
+			"latest"
+			{
+				"gid" "93F31C6F2EC9BA4EF5C704AEF30C1D1B"
+				"size" "AE5CD1E3FA9F759943BD56F2ACCC5DE5"
+				"download" "50215CEB3385261B351135DA9B3DA01B"
+			}
+			"press"
+			{
+				"gid" "141F5F659331E99DC5CE0FC5B4DE6809"
+				"size" "0DDBA82FF0D10C2C57A9BABE1E2FCBA9"
+				"download" "C24FFD943768C9C57A8819FF9BDC09F0"
+			}
+			"rc274"
+			{
+				"gid" "E86B0B48F42F226EF2459D14F9029559"
+				"size" "45C2F9322EA1FD256C7EB9F4CBC52D35"
+				"download" "D242B83E9DAA32779785423C9E161BCC"
+			}
+			"submission"
+			{
+				"gid" "E42BB131C0BB81F7FC7A4C9199114915"
+				"size" "A2F74032626409C18B179B460CEFE8E0"
+				"download" "8B612F4B96BA4978523342A74C9FE20D"
+			}
+			"surveyupdate"
+			{
+				"gid" "90F925C556067F0C253EA764DBC94E47"
+				"size" "10ADBE05462D308863F7991A8ACEB7F5"
+				"download" "77E039C3BF086F2DA280AE5F5B25E361"
+			}
+			"test"
+			{
+				"gid" "7B182EBE0EDC16F57590FCD61A7E2A50"
+				"size" "4C551CE8B62246271648456DA916805B"
+				"download" "A8F473D3A93C786945A4F7C503086934"
+			}
+		}
+	}
+	"2828508"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5145691608909662874"
+				"size" "2021"
+				"download" "848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"latest"
+			{
+				"gid" "1FC25D008C4B953A1D2980412CBF036F"
+				"size" "06EC9046EE96F095EBBBE3B533AAFAEF"
+				"download" "0B1C12755AF6A9599926C60B0C456301"
+			}
+		}
+		"depotfromapp" "2828500"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15913558"
+			"timeupdated" "1727978650"
+		}
+		"early"
+		{
+			"buildid" "15913558"
+			"pwdrequired" "1"
+			"timeupdated" "1729748612"
+		}
+		"external"
+		{
+			"buildid" "16215361"
+			"pwdrequired" "1"
+			"timeupdated" "1730221001"
+		}
+		"horizontal"
+		{
+			"buildid" "14971918"
+			"pwdrequired" "1"
+			"timeupdated" "1720575566"
+		}
+		"keywords"
+		{
+			"buildid" "16453271"
+			"pwdrequired" "1"
+			"timeupdated" "1732035355"
+		}
+		"latest"
+		{
+			"buildid" "16495106"
+			"pwdrequired" "1"
+			"timeupdated" "1732245853"
+		}
+		"press"
+		{
+			"buildid" "15913558"
+			"pwdrequired" "1"
+			"timeupdated" "1729748629"
+		}
+		"rc274"
+		{
+			"buildid" "15759492"
+			"pwdrequired" "1"
+			"timeupdated" "1726775216"
+		}
+		"submission"
+		{
+			"buildid" "15913558"
+			"pwdrequired" "1"
+			"timeupdated" "1727978272"
+		}
+		"surveyupdate"
+		{
+			"buildid" "16453271"
+			"pwdrequired" "1"
+			"timeupdated" "1732041429"
+		}
+		"test"
+		{
+			"buildid" "16453271"
+			"pwdrequired" "1"
+			"timeupdated" "1732035341"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "2"
+}
+"_missing_token" "False"
+"_change_number" "26310091"
+"_sha" "adf1c04ad7fe52faca0aa88db2c558b8f76bb6bc"
+"_size" "15516"
