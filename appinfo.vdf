@@ -1,0 +1,242 @@
+"appid" "2948790"
+"common"
+{
+	"name" "CROWDED. FOLLOWED."
+	"type" "Game"
+	"icon" "8a957251cb885d08af72703f0f2cd18c562a9baa"
+	"linuxclienticon" "cf51506a6d6961b4c24d9ecd631328e7ef2d5f94"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "2245366e42068c2908c7aa8e6cb06f1bdb2164e5"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727806004"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NIGHT DIAL"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Banshee Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729785195"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2948790"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "1721"
+		"2" "3978"
+		"3" "10808"
+		"4" "4064"
+		"5" "3839"
+		"6" "42089"
+		"7" "4004"
+		"8" "4182"
+		"9" "21"
+		"10" "4234"
+		"11" "3964"
+		"12" "4252"
+		"13" "8945"
+		"14" "3834"
+		"15" "19"
+		"16" "597"
+		"17" "5900"
+		"18" "4345"
+		"19" "4667"
+	}
+	"review_score" "8"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "NIGHT DIAL"
+	"publisher" "Banshee Games"
+}
+"config"
+{
+	"installdir" "CROWDED_FOLLOWED"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CROWDED_FOLLOWED.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2948791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5034900983200093665"
+				"size" "977411373"
+				"download" "620011312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "042DE393B225AE0D9AE12F8C89381148"
+				"size" "55FE159539AB44D63F2FD553B78FD62B"
+				"download" "74134B0AA8A687488551B2CFF2E3D031"
+			}
+			"testing"
+			{
+				"gid" "8A7C0F0F2E880AD857DD319E7BAE0977"
+				"size" "C9E12F8221DB238D83C5128C79E47F4A"
+				"download" "A8DBCC9E0003C0D092DD8A5EA171432D"
+			}
+		}
+	}
+	"2948792"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16155548"
+			"timeupdated" "1729772418"
+		}
+		"demo"
+		{
+			"buildid" "15744692"
+			"pwdrequired" "1"
+			"timeupdated" "1726674108"
+		}
+		"testing"
+		{
+			"buildid" "16155548"
+			"pwdrequired" "1"
+			"timeupdated" "1729710795"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26283926"
+"_sha" "d3a71161f44d12fa652a67225b055d9b41562503"
+"_size" "3815"
