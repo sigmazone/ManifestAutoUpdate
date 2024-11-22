@@ -134,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721086023"
+	"store_asset_mtime" "1729856176"
 	"associations"
 	{
 		"0"
@@ -243,6 +243,21 @@
 		"0"
 		{
 			"executable" "Sea Of Survivors.exe"
+			"description_loc"
+			{
+				"english" "Default"
+			}
+			"description" "Default"
+		}
+		"1"
+		{
+			"executable" "Sea Of Survivors.exe"
+			"arguments" "-force-d3d12"
+			"description_loc"
+			{
+				"english" "DX12 (Intel ARC)"
+			}
+			"description" "DX12 (Intel ARC)"
 		}
 	}
 }
@@ -254,15 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "7133479454329372802"
-				"size" "116650529"
-				"download" "53138000"
-			}
-			"dx12"
-			{
-				"gid" "4491731465452346593"
-				"size" "116768656"
-				"download" "53130736"
+				"gid" "343468682742764901"
+				"size" "173100969"
+				"download" "80947456"
 			}
 		}
 		"encryptedmanifests"
@@ -275,9 +284,9 @@
 			}
 			"playtest"
 			{
-				"gid" "CA62E33C0F1B0ABAFF019520104815AA"
-				"size" "82D153BADCE80EAAAE05F6D347B67EC2"
-				"download" "8DB584771FCF71F61140E8A2D1C085A9"
+				"gid" "7AC12B89074B669E85BAE0B29B8764E0"
+				"size" "C0BC6BC2FE55809DD809CC957C46A892"
+				"download" "528E75187670786E0891BD2589ED2BFB"
 			}
 		}
 	}
@@ -285,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "13853830"
-			"timeupdated" "1711438108"
+			"buildid" "16434998"
+			"timeupdated" "1731833131"
 		}
 		"devtest"
 		{
@@ -296,15 +305,9 @@
 		}
 		"playtest"
 		{
-			"buildid" "13853830"
+			"buildid" "16434998"
 			"pwdrequired" "1"
-			"timeupdated" "1716179514"
-		}
-		"dx12"
-		{
-			"buildid" "13969934"
-			"description" "Testing DX12 support"
-			"timeupdated" "1712365907"
+			"timeupdated" "1731833105"
 		}
 	}
 }
@@ -324,5 +327,15 @@
 				"1" "Windows"
 			}
 		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26231956"
+"_sha" "40ad320ff34b20703e99173221d1187ea6f2a680"
+"_size" "5807"
