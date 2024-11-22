@@ -39,11 +39,18 @@
 	}
 	"releasestate" "released"
 	"exfgls" "1"
+	"name_localized"
+	{
+		"schinese" "波斯王子：失落的王冠"
+		"tchinese" "《波斯王子：失落王冠》"
+		"japanese" "プリンス オブ ペルシャ 失われた王冠"
+		"koreana" "페르시아의 왕자: 잃어버린 왕관"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1722988800"
-		"tested_build_id" "14915569"
+		"test_timestamp" "1730160000"
+		"tested_build_id" "16167643"
 		"tests"
 		{
 			"0"
@@ -53,30 +60,25 @@
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"3"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"4"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
-			}
-			"5"
-			{
-				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
-			"6"
+			"5"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
@@ -85,7 +87,7 @@
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "1"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "1"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
@@ -304,17 +306,18 @@
 		"6" "21"
 		"7" "4106"
 		"8" "4231"
-		"9" "7481"
-		"10" "4305"
+		"9" "4305"
+		"10" "7481"
 		"11" "4252"
 		"12" "4166"
-		"13" "3993"
-		"14" "4182"
+		"13" "4182"
+		"14" "3993"
 		"15" "44868"
 		"16" "1646"
+		"17" "4853"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -369,9 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "2604945321660817219"
-				"size" "30442692435"
-				"download" "26422879600"
+				"gid" "6659967271958471993"
+				"size" "30687853334"
+				"download" "26673291056"
 			}
 			"local"
 			{
@@ -390,9 +393,9 @@
 			}
 			"devteam"
 			{
-				"gid" "2E189AFE41DE64DEAFFA69871A23E95D"
-				"size" "A87D0D7B7844397B0E946B1FFDB22792"
-				"download" "8F57D9ECFC1B7A42745D91BCC437F184"
+				"gid" "92CACCA55DA0121826CF323855028220"
+				"size" "1A3FEF4A5C0F26CF5A0B028FA55BB7DB"
+				"download" "728428C31831BE6D5A6ED29822173DD2"
 			}
 			"devteamdeluxeed"
 			{
@@ -408,9 +411,9 @@
 			}
 			"steamvalidation"
 			{
-				"gid" "34735E39EFF5846E72BF4E999EFC679F"
-				"size" "9CEA120ABDA5FB6E4A0B93BFA0B1D333"
-				"download" "B94F9EB97BA7A98A1680998E59B3442B"
+				"gid" "4BA8C704665E5AF61E0CC957F45D9243"
+				"size" "B5410F13C8020E77E9E44307C0901362"
+				"download" "F20E12218D197B12671E572BF4BB1CFC"
 			}
 		}
 	}
@@ -420,9 +423,9 @@
 		{
 			"public"
 			{
-				"gid" "6407822217219551890"
-				"size" "227545200"
-				"download" "229241360"
+				"gid" "6750736260530963906"
+				"size" "256391736"
+				"download" "258388880"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -431,8 +434,8 @@
 	{
 		"public"
 		{
-			"buildid" "15997460"
-			"timeupdated" "1729072240"
+			"buildid" "16249280"
+			"timeupdated" "1732098484"
 		}
 		"local"
 		{
@@ -449,9 +452,9 @@
 		}
 		"devteam"
 		{
-			"buildid" "15997460"
+			"buildid" "16249280"
 			"pwdrequired" "1"
-			"timeupdated" "1728578734"
+			"timeupdated" "1730366842"
 		}
 		"devteamdeluxeed"
 		{
@@ -467,13 +470,13 @@
 		}
 		"steamvalidation"
 		{
-			"buildid" "14915569"
+			"buildid" "16167643"
 			"pwdrequired" "1"
-			"timeupdated" "1722522720"
+			"timeupdated" "1729784242"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25749112"
-"_sha" "20db0284089b0b9829c8c85b6c94b30d3096e4c6"
-"_size" "8963"
+"_change_number" "26277597"
+"_sha" "14efcc4b707b3dd4744398fd846eada1f04215ac"
+"_size" "9116"
