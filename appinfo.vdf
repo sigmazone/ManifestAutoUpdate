@@ -1,0 +1,291 @@
+"appid" "2856450"
+"common"
+{
+	"name" "Dimensionals"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"icon" "20bbb4d246dd2e634629bb7aaf7c10f1980de2c9"
+	"clienticon" "ce94d8f7ae197ac3b6f4e5c1623a70e395562445"
+	"clienttga" "da7e0c405a2e813947c75ad2c633c3f5e432ec46"
+	"clienticns" "ce94d8f7ae197ac3b6f4e5c1623a70e395562445"
+	"linuxclienticon" "ce94d8f7ae197ac3b6f4e5c1623a70e395562445"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "萌护全宇宙 Dimensionals"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "9469b110c95d815fb60c49dcf8fb0bd544d58138/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.23716157451378"
+			"height_pct" "104.8609792486098"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "69b46f04c3d250de142ed3641092bd5bcb9b70eb/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "69b46f04c3d250de142ed3641092bd5bcb9b70eb/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.23716157451378"
+				"height_pct" "104.8609792486098"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732080869"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mino Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mino Games"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731945583"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2856450"
+	"store_tags"
+	{
+		"0" "3871"
+		"1" "597"
+		"2" "14139"
+		"3" "4325"
+		"4" "21"
+		"5" "1684"
+		"6" "122"
+		"7" "3959"
+		"8" "10695"
+		"9" "4711"
+		"10" "4026"
+		"11" "1677"
+		"12" "6426"
+		"13" "1720"
+		"14" "493"
+		"15" "1666"
+		"16" "5125"
+		"17" "1716"
+		"18" "1741"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Mino Games"
+	"publisher" "Mino Games"
+	"homepage" "https://www.dimensionals.com/"
+}
+"config"
+{
+	"installdir" "Dimensionals"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dimensionals.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Dimensionals.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2856451"
+	{
+	}
+	"2856452"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+			"osarch" "64"
+		}
+	}
+	"2856453"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5294403681627067400"
+				"size" "2863479837"
+				"download" "2031800048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-debug"
+			{
+				"gid" "11440F364F8230A5D0B6793C18003909"
+				"size" "1BF81F14298F59870A910A8D35879537"
+				"download" "36C1659F31505B0A6D88ECA8F81C7758"
+			}
+			"release-candidate"
+			{
+				"gid" "38ADF1C7B527E142E73D3C113D62902B"
+				"size" "7A85BD8E8E52028E53B5A3C9ECAB7E92"
+				"download" "DE1FFE9A21769F7AB5C906883C9B457A"
+			}
+		}
+	}
+	"2856454"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4037737414373882370"
+				"size" "2761141576"
+				"download" "2008539056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev-debug"
+			{
+				"gid" "D49D319DF03EFCCD2C55C18A6116AA43"
+				"size" "1E0FEABBF43060BEFBF8852DF8E5F51C"
+				"download" "848DCD75D643B5BF64B5EDAC2BD9E498"
+			}
+			"release-candidate"
+			{
+				"gid" "D82D6406A983B494738A1F11A0DAB4BD"
+				"size" "A5FDBF6FAD3EE065EDF359FA384ECC39"
+				"download" "1FDF0ADFB6380A5A7FCC9F63798A430F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16446162"
+			"timeupdated" "1731944848"
+		}
+		"dev-debug"
+		{
+			"buildid" "16368688"
+			"pwdrequired" "1"
+			"timeupdated" "1731348276"
+		}
+		"release-candidate"
+		{
+			"buildid" "16492611"
+			"pwdrequired" "1"
+			"timeupdated" "1732227434"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26306610"
+"_sha" "c48911b8d87371f23aa75d6157a4ae60a3f5dd0a"
+"_size" "5009"
