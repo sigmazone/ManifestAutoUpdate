@@ -25,24 +25,24 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1713484800"
-		"tested_build_id" "14011445"
+		"test_timestamp" "1729641600"
+		"tested_build_id" "16012049"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
 			}
 			"2"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"3"
 			{
@@ -50,11 +50,6 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"4"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-			}
-			"5"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -66,11 +61,11 @@
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "0"
+			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-1RC"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -148,7 +143,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728394516"
+	"store_asset_mtime" "1732209780"
 	"associations"
 	{
 		"0"
@@ -229,17 +224,17 @@
 	{
 		"0" "97376"
 		"1" "1654"
-		"2" "597"
-		"3" "87"
-		"4" "10235"
-		"5" "1621"
+		"2" "87"
+		"3" "597"
+		"4" "1621"
+		"5" "10235"
 		"6" "916648"
 		"7" "4747"
 		"8" "552282"
 		"9" "84"
 		"10" "4166"
-		"11" "3934"
-		"12" "4726"
+		"11" "4726"
+		"12" "3934"
 		"13" "4182"
 		"14" "4085"
 		"15" "615955"
@@ -256,7 +251,7 @@
 	"developer" "Mooncube Games"
 	"publisher" "Mooncube Games"
 	"homepage" "https://mooncubegames.com/"
-	"listofdlc" "2374850"
+	"listofdlc" "2374850,3210380"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -288,24 +283,24 @@
 		{
 			"public"
 			{
-				"gid" "303506373590088666"
-				"size" "4198717063"
-				"download" "1428433520"
+				"gid" "7048112724224000910"
+				"size" "2078997224"
+				"download" "1734956864"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "0B3419952651BB1F3C85084A8EDBF885"
-				"size" "C97AA1A4F3689769218900FF746A9462"
-				"download" "EF2B55D45195F27324F4ED21E11EA974"
+				"gid" "4D6D4AB15DC7BF18DEBBBCCABB4C6776"
+				"size" "F3A584ECBEFE823A7B8A989845BAEFF3"
+				"download" "A8C91EDB87910D004F0CA44C272027A7"
 			}
 			"development"
 			{
-				"gid" "3E92E207217291E98370243220EB9F75"
-				"size" "7D3AB438E483A5091B92292DA285CB40"
-				"download" "92C3512467A1933382E638DF5C77FDCF"
+				"gid" "5E9FD5678DD823BF7D19E85E00573068"
+				"size" "7816F89AB76F6C6CC0CAF4C1B3AB5D11"
+				"download" "151D9B511BA43285560FBDBDBB59A69A"
 			}
 		}
 	}
@@ -320,20 +315,20 @@
 	{
 		"public"
 		{
-			"buildid" "16012049"
-			"timeupdated" "1728663095"
+			"buildid" "16461350"
+			"timeupdated" "1732112656"
 		}
 		"beta"
 		{
-			"buildid" "16012049"
+			"buildid" "16461350"
 			"pwdrequired" "1"
-			"timeupdated" "1728663079"
+			"timeupdated" "1732035351"
 		}
 		"development"
 		{
-			"buildid" "16012049"
+			"buildid" "16461350"
 			"pwdrequired" "1"
-			"timeupdated" "1728663069"
+			"timeupdated" "1732035316"
 		}
 	}
 }
@@ -351,3 +346,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26302600"
+"_sha" "4a25804875f8dff9ec943006dbd3fa732e647280"
+"_size" "6117"
