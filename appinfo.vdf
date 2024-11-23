@@ -198,9 +198,11 @@
 		"11" "7368"
 		"12" "7481"
 		"13" "12095"
+		"14" "6650"
+		"15" "9130"
 	}
 	"review_score" "4"
-	"review_percentage" "30"
+	"review_percentage" "28"
 }
 "extended"
 {
@@ -213,16 +215,6 @@
 	"installdir" "The Jackbox Naughty Pack"
 	"launch"
 	{
-		"0"
-		{
-			"executable" "The Jackbox Naughty Pack.exe"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-		}
 		"1"
 		{
 			"executable" "The Jackbox Naughty Pack.app"
@@ -241,6 +233,37 @@
 				"oslist" "linux"
 				"osarch" "64"
 			}
+		}
+		"3"
+		{
+			"executable" "launch_mp.bat"
+			"arguments" "product/the-jackbox-naughty-pack"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "via The Jackbox Games Megapicker"
+			}
+			"description" "via The Jackbox Games Megapicker"
+		}
+		"4"
+		{
+			"executable" "The Jackbox Naughty Pack.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Standalone"
+			}
+			"description" "Standalone"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -276,9 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "6450665775722509549"
-				"size" "2227745541"
-				"download" "2183807328"
+				"gid" "2240226287267104517"
+				"size" "2480242513"
+				"download" "2430007984"
 			}
 		}
 		"encryptedmanifests"
@@ -315,9 +338,9 @@
 			}
 			"latest"
 			{
-				"gid" "2AB5936E843153E90AF13D6B962AF6E0"
-				"size" "D7E7FC761EF37453FDBAB617C537C39A"
-				"download" "1F084BBD4560AC1222F7AC1ADD141514"
+				"gid" "3BF9AAB14F7D1DB8D06CFAC4BD481218"
+				"size" "4F19FAD1BCFCE1D52B27AABF9E69658E"
+				"download" "A57A3F54300416992EC9AB1585823BCB"
 			}
 			"playtesting"
 			{
@@ -327,9 +350,9 @@
 			}
 			"press"
 			{
-				"gid" "5074791618CE21744995C8695DC4A5F5"
-				"size" "81319ECF6E52C1B7C70D1BAC372C1375"
-				"download" "9119DA427AE1D7C301D80C6837697471"
+				"gid" "2E41EFE7FDF00E124943F246460C6E72"
+				"size" "3C07BA11DE537020C12E2C5E1C000487"
+				"download" "081544237B89407A3B22DEFA0A55A84E"
 			}
 			"spicy"
 			{
@@ -339,9 +362,9 @@
 			}
 			"test"
 			{
-				"gid" "E7F1EB0DF440698B166729516454906C"
-				"size" "674092651286697D829121BDA14B2F7E"
-				"download" "91283477AF40D57B0D4A8F9480B68D8A"
+				"gid" "5FC4CB01A3D88C08C8B7905BECFAEAF7"
+				"size" "421B958BFE738CDE764839A0952DA0ED"
+				"download" "202F9D4C33001A06FC4ECEB55BBB30EE"
 			}
 		}
 	}
@@ -356,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "7672646612035349283"
-				"size" "22187072"
-				"download" "6437920"
+				"gid" "7848225704530979929"
+				"size" "22196288"
+				"download" "6441392"
 			}
 		}
 		"encryptedmanifests"
@@ -395,9 +418,9 @@
 			}
 			"latest"
 			{
-				"gid" "5B5C99E3D4C83B83193FB1A16D49DD58"
-				"size" "4E1B84416D33C3E61D4C8C2C1CF30EC7"
-				"download" "97D153EC1AF481B4EB1AD1BBD22FD178"
+				"gid" "1592912496B722915AF2680C32F3B50C"
+				"size" "D54A93A52730684D4662C5C94E7CAF93"
+				"download" "A3A91B64220216D071BCF59A61354FDA"
 			}
 			"playtesting"
 			{
@@ -407,9 +430,9 @@
 			}
 			"press"
 			{
-				"gid" "DB531CEFDF5BD6543657D3BECED69E80"
-				"size" "5291DFA3F5E0D367E3B2D2B74A5D2F96"
-				"download" "3F3FEF9660BE64C6D58FB57AEF7C7170"
+				"gid" "7C16D51DC87C5A7E78931BEA4F2640B1"
+				"size" "F42C40E91BE8D3F8A662D1082A471C37"
+				"download" "DC95DE6752F8C10BD3A19680DBEFFE69"
 			}
 			"spicy"
 			{
@@ -419,9 +442,9 @@
 			}
 			"test"
 			{
-				"gid" "264931C2A8B038C2298CD585BC540F70"
-				"size" "6735FBA3FA99968298436E25C3796887"
-				"download" "9314283B428E59F5DA90010259BBD9F5"
+				"gid" "70DF9AD5C6759B160521E309B925EDDF"
+				"size" "143CFE8F93380CE79AAF209CAF117736"
+				"download" "3B80AA0F4DDEFD49659BF218BE686481"
 			}
 		}
 	}
@@ -436,9 +459,9 @@
 		{
 			"public"
 			{
-				"gid" "7229597398236291018"
-				"size" "2269659239"
-				"download" "2193646864"
+				"gid" "2311297591208711045"
+				"size" "2596170046"
+				"download" "2511345984"
 			}
 		}
 		"encryptedmanifests"
@@ -475,9 +498,9 @@
 			}
 			"latest"
 			{
-				"gid" "433B360DC96D7D7F71520724E34EE08A"
-				"size" "E5624D95C14F8179B04001601EA3895F"
-				"download" "03C375914D65006DE2E6B8962D591F90"
+				"gid" "B676380AC6E5C4CF31EFF633EA766F1B"
+				"size" "13CFA44A681568A2A03EA5F072D5EC60"
+				"download" "86A9778A1727D56C839946B448689B5C"
 			}
 			"playtesting"
 			{
@@ -487,9 +510,9 @@
 			}
 			"press"
 			{
-				"gid" "A003630A8094F366ACC52F25B39E9E53"
-				"size" "BDDA82A2A5F9FECCAAC5C3793C4E9BC0"
-				"download" "C675A61B385E977E99C1CF7717061243"
+				"gid" "76C2262E7C07B991B5BAB935C30F5632"
+				"size" "2820A5FB8A6490EFA910943A4563D4B0"
+				"download" "175033460CB6D1A96CCB624FC6CD2C8E"
 			}
 			"spicy"
 			{
@@ -499,9 +522,9 @@
 			}
 			"test"
 			{
-				"gid" "0528B48E1D78813E5D342886E3340808"
-				"size" "44BBDD7AA3389850FF4F673F499BDB4B"
-				"download" "E03EC8602855CF12F381719C4C07AE94"
+				"gid" "E40CD868B205AAC71CDD61C8B0907359"
+				"size" "084282CFC567C21E7EA496747EE1E14E"
+				"download" "74B744B7E670F676B078C14CA12632AB"
 			}
 		}
 	}
@@ -516,9 +539,9 @@
 		{
 			"public"
 			{
-				"gid" "4577505816744026765"
-				"size" "47887143"
-				"download" "13143552"
+				"gid" "6537128837942331330"
+				"size" "48063671"
+				"download" "13225008"
 			}
 		}
 		"encryptedmanifests"
@@ -555,9 +578,9 @@
 			}
 			"latest"
 			{
-				"gid" "2883F1CB47E376F131F613F0B9B32D9F"
-				"size" "77020EE6358B1EE75637CCFACC6D7B00"
-				"download" "226810DD1B484FA5C6CB002E894D1114"
+				"gid" "0F0553A9DAEDDEA4A971173B59447BCF"
+				"size" "4CC3F04085E31D7BD1F284A1A8C34FC4"
+				"download" "FAF1E0E8F54CDDAD42791C7015A8E6FC"
 			}
 			"playtesting"
 			{
@@ -567,9 +590,9 @@
 			}
 			"press"
 			{
-				"gid" "50FA35E63F4B7E0E3805AA930FC4EA1F"
-				"size" "923262A58B38D7931B79A49C0658A03F"
-				"download" "33138D5624D1FBDE48F34C156B2FA0B9"
+				"gid" "0D7FD6F237279840B3831E53E192547F"
+				"size" "4AAD1D55CC91B98C3B4BC6001FA89979"
+				"download" "F3048CCF38732A0CADC86EECF29D67AA"
 			}
 			"spicy"
 			{
@@ -579,18 +602,40 @@
 			}
 			"test"
 			{
-				"gid" "10374596FB1F972BC14E867D7430133D"
-				"size" "156D01869A66A18A6CB9CC905C1A2F60"
-				"download" "14DC742D62F95CAF449892AFE7E25675"
+				"gid" "792E8D7B40FFD6679ED04468B2D7D030"
+				"size" "84DD7FA0D51FB16CF5F7173B54C080F6"
+				"download" "24E4D5E5137266435E396A803A26FA80"
 			}
 		}
+	}
+	"2828508"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5145691608909662874"
+				"size" "2021"
+				"download" "848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"latest"
+			{
+				"gid" "C794767A5F3968E35C54B0DC8E1D28BE"
+				"size" "9C3C8BA4377DCAB013FFBA54FC449682"
+				"download" "EC222622A97670C7E23A6A677BC17DAF"
+			}
+		}
+		"depotfromapp" "2828500"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15504696"
-			"timeupdated" "1724787592"
+			"buildid" "16364401"
+			"timeupdated" "1732288045"
 		}
 		"drawful3"
 		{
@@ -624,9 +669,9 @@
 		}
 		"latest"
 		{
-			"buildid" "15848920"
+			"buildid" "16499234"
 			"pwdrequired" "1"
-			"timeupdated" "1727432211"
+			"timeupdated" "1732274086"
 		}
 		"playtesting"
 		{
@@ -636,9 +681,9 @@
 		}
 		"press"
 		{
-			"buildid" "15504696"
+			"buildid" "16364401"
 			"pwdrequired" "1"
-			"timeupdated" "1724946320"
+			"timeupdated" "1731602421"
 		}
 		"spicy"
 		{
@@ -648,9 +693,9 @@
 		}
 		"test"
 		{
-			"buildid" "15361526"
+			"buildid" "16364401"
 			"pwdrequired" "1"
-			"timeupdated" "1723660840"
+			"timeupdated" "1731341811"
 		}
 	}
 }
@@ -659,3 +704,7 @@
 	"quota" "5000000"
 	"maxnumfiles" "2"
 }
+"_missing_token" "False"
+"_change_number" "26325585"
+"_sha" "1b8f88aaea361d65fe41f5deae7f75c81d0587d1"
+"_size" "14466"
