@@ -36,6 +36,55 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729296000"
+		"tested_build_id" "15928793"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -140,6 +189,11 @@
 		}
 		"3"
 		{
+			"type" "publisher"
+			"name" "ACG creator"
+		}
+		"4"
+		{
 			"type" "franchise"
 			"name" "Playmeow"
 		}
@@ -197,8 +251,8 @@
 	{
 		"0" "12095"
 		"1" "6650"
-		"2" "5611"
-		"3" "9130"
+		"2" "9130"
+		"3" "5611"
 		"4" "24904"
 		"5" "9551"
 		"6" "4305"
@@ -416,3 +470,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26240928"
+"_sha" "6d4d0a72020a7c9508f72b8800127ccaf3fe9981"
+"_size" "8619"
