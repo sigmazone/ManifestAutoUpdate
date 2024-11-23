@@ -1,0 +1,625 @@
+"appid" "431730"
+"common"
+{
+	"name" "Aseprite"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "da61bd2806f69205a97609dcdd4ca27df3baf800"
+	"clienticon" "a08332491434a26b15f7557375dba476903f935c"
+	"clienttga" "7d617741f391e831a3d23782bf776a0f2e06f5e3"
+	"eulas"
+	{
+	}
+	"logo" "0618b23a27c2835df0cdeeafd0ba8b0815f8c584"
+	"logo_small" "0618b23a27c2835df0cdeeafd0ba8b0815f8c584_thumb"
+	"clienticns" "aaccbc6e63c058f10589bf916ea517cfad493012"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1658534400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Aseprite"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "58"
+			"height_pct" "57"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "58"
+				"height_pct" "57"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1622056632"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "David Capello"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Igara Studio"
+		}
+	}
+	"primary_genre" "51"
+	"genres"
+	{
+		"0" "51"
+		"1" "53"
+		"2" "60"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"afrikaans"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1456144731"
+	"community_hub_visible" "1"
+	"gameid" "431730"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "84"
+		"2" "872"
+		"3" "8013"
+		"4" "13906"
+		"5" "3871"
+		"6" "87"
+		"7" "29482"
+		"8" "492"
+		"9" "4004"
+		"10" "4726"
+		"11" "4026"
+		"12" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "99"
+}
+"extended"
+{
+	"developer" "David Capello"
+	"publisher" "Igara Studio"
+	"homepage" "https://www.aseprite.org/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Aseprite"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "aseprite.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Aseprite.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "aseprite"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"431731"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8384087654713125666"
+				"size" "2404769"
+				"download" "665600"
+			}
+			"local"
+			{
+				"gid" "886184373538328658"
+				"size" "318320"
+				"download" "85984"
+			}
+			"v1.1.13"
+			{
+				"gid" "184525750437545412"
+				"size" "379562"
+				"download" "103120"
+			}
+			"v1.2.40"
+			{
+				"gid" "1194388439356041963"
+				"size" "625598"
+				"download" "136208"
+			}
+			"beta"
+			{
+				"gid" "1771529698373117293"
+				"size" "2407000"
+				"download" "665632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "E3649CE92CF46F4ED355E6C65F5B42C2"
+				"size" "3ED46B7FAF4B316A48FB0336EFA913E8"
+				"download" "0E150DF520760B051DEA6C762A7A684B"
+			}
+		}
+	}
+	"431732"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7701744652086539632"
+				"size" "2138"
+				"download" "544"
+			}
+			"local"
+			{
+				"gid" "5209197284764399525"
+				"size" "15468255"
+				"download" "4754864"
+			}
+			"v1.1.13"
+			{
+				"gid" "6212666809300349687"
+				"size" "19253679"
+				"download" "5785120"
+			}
+			"v1.2.40"
+			{
+				"gid" "7099995146261030793"
+				"size" "2138"
+				"download" "544"
+			}
+			"beta"
+			{
+				"gid" "7701744652086539632"
+				"size" "2138"
+				"download" "544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "2065EDDCC240CA59C106278524D0159A"
+				"size" "9AB99CAF7E61E0D69776AC4BDF81AF28"
+				"download" "F14DF826C25FE5ABAAA5150F7681B737"
+			}
+		}
+	}
+	"431733"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7918284624840646664"
+				"size" "60551553"
+				"download" "15251008"
+			}
+			"local"
+			{
+				"gid" "7936042541035091446"
+				"size" "13591449"
+				"download" "3502048"
+			}
+			"v1.1.13"
+			{
+				"gid" "1773656213536822879"
+				"size" "18078170"
+				"download" "4442256"
+			}
+			"v1.2.40"
+			{
+				"gid" "8347709943723827478"
+				"size" "52606079"
+				"download" "13296880"
+			}
+			"beta"
+			{
+				"gid" "868103323335085430"
+				"size" "84861498"
+				"download" "21045760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "206AD2E21B127F7E404E2C8F5EFB35E0"
+				"size" "55D17245C44D9AB50213BA898A3C3D6A"
+				"download" "B5F37ABBFE125AD436F29EF89D9D7A26"
+			}
+		}
+	}
+	"431734"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7181763772412951363"
+				"size" "23069106"
+				"download" "7038496"
+			}
+			"local"
+			{
+				"gid" "4073481587786254317"
+				"size" "8639337"
+				"download" "2738032"
+			}
+			"v1.1.13"
+			{
+				"gid" "8969613608873469253"
+				"size" "9829171"
+				"download" "3095824"
+			}
+			"v1.2.40"
+			{
+				"gid" "3951391715647334488"
+				"size" "21661392"
+				"download" "6615504"
+			}
+			"beta"
+			{
+				"gid" "3178046219782499750"
+				"size" "34659930"
+				"download" "10996880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "861A01F32A8ADB7D913616AD8FEBD6FA"
+				"size" "D431736E64EA4CC92A63A28AABCB4A80"
+				"download" "4D92DE190EC759AC31D21B0C3DC1DF32"
+			}
+		}
+	}
+	"431735"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6018337005999144503"
+				"size" "23763238"
+				"download" "7219664"
+			}
+			"local"
+			{
+				"gid" "8521202607706472752"
+				"size" "9405442"
+				"download" "2931504"
+			}
+			"v1.1.13"
+			{
+				"gid" "5496029634071786358"
+				"size" "10663069"
+				"download" "3288672"
+			}
+			"v1.2.40"
+			{
+				"gid" "7682213930007286114"
+				"size" "22578999"
+				"download" "6824000"
+			}
+			"beta"
+			{
+				"gid" "4114866126016242314"
+				"size" "35589334"
+				"download" "11198768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "2298034726DF136BE11D15F55C9878A2"
+				"size" "F673A497831E4E36D90A7E6A772DF196"
+				"download" "ACAC6E6CA6E01C5B79B838F3E161B857"
+			}
+		}
+	}
+	"431736"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9208726586698299150"
+				"size" "18950294"
+				"download" "6383136"
+			}
+			"v1.1.13"
+			{
+				"gid" "40821839114021638"
+				"size" "11714798"
+				"download" "3912800"
+			}
+			"v1.2.40"
+			{
+				"gid" "5054956218763952048"
+				"size" "17571814"
+				"download" "5967280"
+			}
+			"beta"
+			{
+				"gid" "2639424144862211947"
+				"size" "19856022"
+				"download" "6764112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "199A296751A6FA4434EB5FCE88BCDF6F"
+				"size" "EBFA6C19A106EF99C14F596221549B4D"
+				"download" "CC23DAFF51D2DD6F4C82F2ADBAFFCC75"
+			}
+		}
+	}
+	"431737"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9186106642355994590"
+				"size" "22440598"
+				"download" "7097936"
+			}
+			"v1.1.13"
+			{
+				"gid" "6248456252479497500"
+				"size" "15090926"
+				"download" "4768032"
+			}
+			"v1.2.40"
+			{
+				"gid" "55140703937159890"
+				"size" "20753894"
+				"download" "6623200"
+			}
+			"beta"
+			{
+				"gid" "8744579351968569354"
+				"size" "23447702"
+				"download" "7486192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devel"
+			{
+				"gid" "1E5D0DE6EA2B71F6C238639999D28D7F"
+				"size" "13E378F7111075D91881D09F7D733E64"
+				"download" "E66253DCDAE9C1E2FE8FF89688D5E1EB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16493837"
+			"timeupdated" "1732236163"
+		}
+		"local"
+		{
+			"buildid" "1070323"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1460476737"
+		}
+		"v1.1.13"
+		{
+			"buildid" "2160076"
+			"description" "OLD Aseprite v1.1.13 (supports WinXP)"
+			"timeupdated" "1506708391"
+		}
+		"v1.2.40"
+		{
+			"buildid" "9903855"
+			"description" "OLD Aseprite v1.2.40"
+			"timeupdated" "1701092319"
+		}
+		"beta"
+		{
+			"buildid" "16493849"
+			"description" "v1.3 Beta version - Preview new features"
+			"timeupdated" "1732236106"
+		}
+		"devel"
+		{
+			"buildid" "16493849"
+			"pwdrequired" "1"
+			"timeupdated" "1732235862"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26308314"
+"_sha" "889835adc19e5d692e177491bb4849d8f27eb402"
+"_size" "10502"
