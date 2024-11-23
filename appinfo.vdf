@@ -1,0 +1,710 @@
+"appid" "2652000"
+"common"
+{
+	"name" "The Jackbox Naughty Pack"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"icon" "8af903c0c58617a8968aded9800d728ddbada9a7"
+	"clienttga" "f834b28e30f0149561cff36cf6c1a9c9eac16d70"
+	"clienticns" "a542cd35357b4981f4594d62ed5ffe507b3c4627"
+	"linuxclienticon" "291b2a66429adb866d153e1dee6a05abc67ca19c"
+	"clienticon" "236558c893ee957d3c23d1cd4b29eb1002970a1b"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "69.32540169869795"
+			"height_pct" "69.09428059706678"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "69.32540169869795"
+				"height_pct" "69.09428059706678"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725161811"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jackbox Games, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Jackbox Games, Inc. "
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726117108"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2652000"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1719"
+		"2" "10397"
+		"3" "10437"
+		"4" "4252"
+		"5" "4195"
+		"6" "3871"
+		"7" "4136"
+		"8" "4305"
+		"9" "1775"
+		"10" "3859"
+		"11" "7368"
+		"12" "7481"
+		"13" "12095"
+		"14" "6650"
+		"15" "9130"
+	}
+	"review_score" "4"
+	"review_percentage" "28"
+}
+"extended"
+{
+	"developer" "Jackbox Games, Inc."
+	"publisher" "Jackbox Games, Inc. "
+	"homepage" "https://www.jackboxgames.com/"
+}
+"config"
+{
+	"installdir" "The Jackbox Naughty Pack"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "The Jackbox Naughty Pack.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Launcher.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "launch_mp.bat"
+			"arguments" "product/the-jackbox-naughty-pack"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "via The Jackbox Games Megapicker"
+			}
+			"description" "via The Jackbox Games Megapicker"
+		}
+		"4"
+		{
+			"executable" "The Jackbox Naughty Pack.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Standalone"
+			}
+			"description" "Standalone"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2652001"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2240226287267104517"
+				"size" "2480242513"
+				"download" "2430007984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"drawful3"
+			{
+				"gid" "8442AA4C5B578B0FE07C535DB15A0B0A"
+				"size" "DF3B3978DD2BEB89781BC2ADB6F39573"
+				"download" "219C0FE2B442776931E2A1E69FAC1933"
+			}
+			"fakinit2"
+			{
+				"gid" "F2D36FA89B0C11BF59B2B2C19E74C4B6"
+				"size" "3876DF33F98C2E05977FC52EE28F7CA7"
+				"download" "8932126F83FB309C1BDB5AF1972B910C"
+			}
+			"events"
+			{
+				"gid" "ACA62F4FE2DC8854168CCE6DBF5607B9"
+				"size" "7885C76D9773157A53D9D35EA37D39B2"
+				"download" "AD5FE67DBA98A772C3659500BDA5A04A"
+			}
+			"jnp_cap"
+			{
+				"gid" "8F54625DFD821A296A4F03602247730D"
+				"size" "B5093BA0B7D3BE96E31292FBFABBBAC9"
+				"download" "413A496BE3C48DA3D5DBC887FBA56A26"
+			}
+			"keywords"
+			{
+				"gid" "A1027A222F52ADF405BDE011194986BB"
+				"size" "58855FDF4DB1B553FA2F218BF08644AC"
+				"download" "357CE86160C90DFB6D8712904DB4D2A2"
+			}
+			"latest"
+			{
+				"gid" "3BF9AAB14F7D1DB8D06CFAC4BD481218"
+				"size" "4F19FAD1BCFCE1D52B27AABF9E69658E"
+				"download" "A57A3F54300416992EC9AB1585823BCB"
+			}
+			"playtesting"
+			{
+				"gid" "F61ADE21E5AABCCF22EBB90939030854"
+				"size" "3D51CBF3DF2BDA7C1423AC39FDABB2B0"
+				"download" "0D57A2DEF291EA679BB6ECDEA7D7C26E"
+			}
+			"press"
+			{
+				"gid" "2E41EFE7FDF00E124943F246460C6E72"
+				"size" "3C07BA11DE537020C12E2C5E1C000487"
+				"download" "081544237B89407A3B22DEFA0A55A84E"
+			}
+			"spicy"
+			{
+				"gid" "A13523EF5CE218C0987C896265043395"
+				"size" "AC9896F1DC3C3C99DEBF4ED44A9C1A26"
+				"download" "94F8D2BBAFD7188B7EB3638944101080"
+			}
+			"test"
+			{
+				"gid" "5FC4CB01A3D88C08C8B7905BECFAEAF7"
+				"size" "421B958BFE738CDE764839A0952DA0ED"
+				"download" "202F9D4C33001A06FC4ECEB55BBB30EE"
+			}
+		}
+	}
+	"2652002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7848225704530979929"
+				"size" "22196288"
+				"download" "6441392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"drawful3"
+			{
+				"gid" "FC7BFACE5FFD1998640424647EDA009A"
+				"size" "8ECE5A9DCFB48225663B6E77D2923DDB"
+				"download" "2F29402ACF8EE20D428B5CB48AD0FA83"
+			}
+			"fakinit2"
+			{
+				"gid" "9575C3994C7C4CD55892583C96A56F76"
+				"size" "897A5C8ACC59B369632637E9AE431AD3"
+				"download" "DC00F424F762304F59865D573BB207F2"
+			}
+			"events"
+			{
+				"gid" "87ED6A1E9CE6C032685DC1CD1725661F"
+				"size" "C54F6717C350868A487CD802D5FBE934"
+				"download" "9EF94E26032BD7EDFA07C32D6B2ABF25"
+			}
+			"jnp_cap"
+			{
+				"gid" "0D8011E1D7FCF7D8994520FBADEA633A"
+				"size" "CDB3CA4711195CE8490EF6FBAB11876E"
+				"download" "641D3EED1B2115CE562B023BB4D11A3D"
+			}
+			"keywords"
+			{
+				"gid" "EE4AF228581D3A7E45D7392544A6F9AB"
+				"size" "36FE231DFCD2B5D29033097243A86153"
+				"download" "63B7C629474F8319AA16E908474E299B"
+			}
+			"latest"
+			{
+				"gid" "1592912496B722915AF2680C32F3B50C"
+				"size" "D54A93A52730684D4662C5C94E7CAF93"
+				"download" "A3A91B64220216D071BCF59A61354FDA"
+			}
+			"playtesting"
+			{
+				"gid" "12946ADC79EC61B40F817B4D5ABC99E4"
+				"size" "E5988D930931C0775A69443CEAFA8CDC"
+				"download" "ECEA9EDDEE9E0AAB217C4675FA3CD233"
+			}
+			"press"
+			{
+				"gid" "7C16D51DC87C5A7E78931BEA4F2640B1"
+				"size" "F42C40E91BE8D3F8A662D1082A471C37"
+				"download" "DC95DE6752F8C10BD3A19680DBEFFE69"
+			}
+			"spicy"
+			{
+				"gid" "6AEDC096179022801A1DD310AB65E698"
+				"size" "DEA8C49965860F23521AA17F2C00E449"
+				"download" "C3A66F42A60046CB11042259100941E6"
+			}
+			"test"
+			{
+				"gid" "70DF9AD5C6759B160521E309B925EDDF"
+				"size" "143CFE8F93380CE79AAF209CAF117736"
+				"download" "3B80AA0F4DDEFD49659BF218BE686481"
+			}
+		}
+	}
+	"2652003"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2311297591208711045"
+				"size" "2596170046"
+				"download" "2511345984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"drawful3"
+			{
+				"gid" "E998937A28D04EAB7182A7B40BF41058"
+				"size" "7B2575C683D9FF9FAEDE7C7222BCB117"
+				"download" "CEECDCE763FDD56016E8F6BA0F407CD6"
+			}
+			"fakinit2"
+			{
+				"gid" "9DD1E797A3E868B1C938886BA53BEF9E"
+				"size" "AA2F9A26DC79F1A91E61F389CF4F7FEF"
+				"download" "9DAA08938B71421075806519D4AE3A64"
+			}
+			"events"
+			{
+				"gid" "5012C2067C1DCE7BEBBD65F289FB8E76"
+				"size" "C39C8CB669BEF74D3E4A3BB82B90BA6C"
+				"download" "07B097A2DE9C2DA48401AF585AEA3F1E"
+			}
+			"jnp_cap"
+			{
+				"gid" "A7C46E837BB0D57BDB88B2E97694EFD6"
+				"size" "0870BE3AC4BCDDCDA587A4283D844443"
+				"download" "0B4217AAE3598D09F66C1AD749F3F8A4"
+			}
+			"keywords"
+			{
+				"gid" "E55F10FB70F2877ED6C1FD2A07E3D753"
+				"size" "F96C2E6F0D59C606F78AE9F8DFB3C7B3"
+				"download" "FE70FA229BC8C72015A7200BE788617E"
+			}
+			"latest"
+			{
+				"gid" "B676380AC6E5C4CF31EFF633EA766F1B"
+				"size" "13CFA44A681568A2A03EA5F072D5EC60"
+				"download" "86A9778A1727D56C839946B448689B5C"
+			}
+			"playtesting"
+			{
+				"gid" "DEA32A53DF8E67A1B233301BA9D17D70"
+				"size" "FDD9FA968018AA4E4264C4A47DC546F7"
+				"download" "BF1CD49CC6D230E95502F5D84610A279"
+			}
+			"press"
+			{
+				"gid" "76C2262E7C07B991B5BAB935C30F5632"
+				"size" "2820A5FB8A6490EFA910943A4563D4B0"
+				"download" "175033460CB6D1A96CCB624FC6CD2C8E"
+			}
+			"spicy"
+			{
+				"gid" "1AA7FA72EDC30CF312BD6A2BBF321371"
+				"size" "0CF366AEDD16329DB4DC7A252EAF3529"
+				"download" "544EFBE3E8AEEAB1087F56C462E30DF4"
+			}
+			"test"
+			{
+				"gid" "E40CD868B205AAC71CDD61C8B0907359"
+				"size" "084282CFC567C21E7EA496747EE1E14E"
+				"download" "74B744B7E670F676B078C14CA12632AB"
+			}
+		}
+	}
+	"2652004"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6537128837942331330"
+				"size" "48063671"
+				"download" "13225008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"drawful3"
+			{
+				"gid" "E587040C6193BBFE65DA1CBAACEE701F"
+				"size" "06BFBEE4371E4E4F50B4007A4212ABDF"
+				"download" "E0449D5D2173DC5F4002E59467A221EE"
+			}
+			"fakinit2"
+			{
+				"gid" "B567C0EB9EF3A90CEA2064BB6BAA6CB0"
+				"size" "3EB435DAABA53B72501AEF622864BB9C"
+				"download" "412C8A329F9B60CEE0315E1C2D6FF3F1"
+			}
+			"events"
+			{
+				"gid" "8BE3C04EE8FBAECDB00ABA3EB5F7D2F0"
+				"size" "3FE3EA11725390503FA571D0A063303F"
+				"download" "9D48BFE1B4EB4075CBEBA0DEBEFAF085"
+			}
+			"jnp_cap"
+			{
+				"gid" "A32F2CA4B285AC51C0AAC2FCA3625C16"
+				"size" "D6BBB83EEF0B1E4F0E9395966CF8EA07"
+				"download" "DB4CB59F9D140B0CC23BCA34C1031DDE"
+			}
+			"keywords"
+			{
+				"gid" "A69C9D8376F6B53C157FBA6A9377C8B7"
+				"size" "1DF442D1D79D365BC044929FB112AFD1"
+				"download" "3B997A9ABB286A06CA040BEB2AE21B17"
+			}
+			"latest"
+			{
+				"gid" "0F0553A9DAEDDEA4A971173B59447BCF"
+				"size" "4CC3F04085E31D7BD1F284A1A8C34FC4"
+				"download" "FAF1E0E8F54CDDAD42791C7015A8E6FC"
+			}
+			"playtesting"
+			{
+				"gid" "301E110F68B63DD7D3FABAF061B8FAF5"
+				"size" "4CEC2D908E32661135B3B8BCF354E976"
+				"download" "DBB021F2D39706C34E2E1D9B3458C0AB"
+			}
+			"press"
+			{
+				"gid" "0D7FD6F237279840B3831E53E192547F"
+				"size" "4AAD1D55CC91B98C3B4BC6001FA89979"
+				"download" "F3048CCF38732A0CADC86EECF29D67AA"
+			}
+			"spicy"
+			{
+				"gid" "A72574C9BEF4E9FC8FC66DE87A50C6E1"
+				"size" "A8CC0BA90E0814050F17B3734B60E4BF"
+				"download" "E8F01E7E54C9376F17DF3EECB2A555C6"
+			}
+			"test"
+			{
+				"gid" "792E8D7B40FFD6679ED04468B2D7D030"
+				"size" "84DD7FA0D51FB16CF5F7173B54C080F6"
+				"download" "24E4D5E5137266435E396A803A26FA80"
+			}
+		}
+	}
+	"2828508"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5145691608909662874"
+				"size" "2021"
+				"download" "848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"latest"
+			{
+				"gid" "C794767A5F3968E35C54B0DC8E1D28BE"
+				"size" "9C3C8BA4377DCAB013FFBA54FC449682"
+				"download" "EC222622A97670C7E23A6A677BC17DAF"
+			}
+		}
+		"depotfromapp" "2828500"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16364401"
+			"timeupdated" "1732288045"
+		}
+		"drawful3"
+		{
+			"buildid" "13580121"
+			"pwdrequired" "1"
+			"timeupdated" "1709067800"
+		}
+		"fakinit2"
+		{
+			"buildid" "13463314"
+			"pwdrequired" "1"
+			"timeupdated" "1708032200"
+		}
+		"events"
+		{
+			"buildid" "15432760"
+			"pwdrequired" "1"
+			"timeupdated" "1724174074"
+		}
+		"jnp_cap"
+		{
+			"buildid" "14679251"
+			"pwdrequired" "1"
+			"timeupdated" "1718124449"
+		}
+		"keywords"
+		{
+			"buildid" "15041129"
+			"pwdrequired" "1"
+			"timeupdated" "1721081857"
+		}
+		"latest"
+		{
+			"buildid" "16499234"
+			"pwdrequired" "1"
+			"timeupdated" "1732274086"
+		}
+		"playtesting"
+		{
+			"buildid" "14301651"
+			"pwdrequired" "1"
+			"timeupdated" "1715186813"
+		}
+		"press"
+		{
+			"buildid" "16364401"
+			"pwdrequired" "1"
+			"timeupdated" "1731602421"
+		}
+		"spicy"
+		{
+			"buildid" "15535342"
+			"pwdrequired" "1"
+			"timeupdated" "1724956173"
+		}
+		"test"
+		{
+			"buildid" "16364401"
+			"pwdrequired" "1"
+			"timeupdated" "1731341811"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "2"
+}
+"_missing_token" "False"
+"_change_number" "26325585"
+"_sha" "1b8f88aaea361d65fe41f5deae7f75c81d0587d1"
+"_size" "14466"
