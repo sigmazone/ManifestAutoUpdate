@@ -35,8 +35,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
-		"test_timestamp" "1727913600"
-		"tested_build_id" "15849237"
+		"test_timestamp" "1730160000"
+		"tested_build_id" "16082357"
 		"tests"
 		{
 			"0"
@@ -50,7 +50,7 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
@@ -255,13 +255,13 @@
 		"2" "1667"
 		"3" "4166"
 		"4" "1742"
-		"5" "5186"
-		"6" "5708"
+		"5" "5708"
+		"6" "5186"
 		"7" "1756"
 		"8" "1697"
 		"9" "4182"
-		"10" "21"
-		"11" "6971"
+		"10" "6971"
+		"11" "21"
 		"12" "19"
 		"13" "3834"
 		"14" "4145"
@@ -271,8 +271,8 @@
 		"18" "1693"
 		"19" "4106"
 	}
-	"review_score" "8"
-	"review_percentage" "94"
+	"review_score" "9"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -521,6 +521,23 @@
 			}
 			"description" "Record PSO"
 		}
+		"14"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "old_edge"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
 	}
 }
 "depots"
@@ -549,9 +566,9 @@
 		{
 			"public"
 			{
-				"gid" "2022551810483856650"
-				"size" "36299444952"
-				"download" "35289851104"
+				"gid" "6030786832332563114"
+				"size" "36305516490"
+				"download" "35295566272"
 			}
 		}
 		"encryptedmanifests"
@@ -582,27 +599,33 @@
 			}
 			"bleeding_edge"
 			{
-				"gid" "28641EE06109426A7E2DE6DD6AC38C07"
-				"size" "0E9EBDC464BE4F39D8CAF156A78F8D40"
-				"download" "20B7318ED52EDC9E00E616ECDF463432"
+				"gid" "0A019347748F9989DA2CF075414D6847"
+				"size" "F61634E6E6ACF45AB3A5C9B926A626CF"
+				"download" "EABE7086C161C358AFEF584587237483"
 			}
 			"gpuvendor_intel"
 			{
-				"gid" "886DE211F947C2BFA98B503E1E99F49F"
-				"size" "83EE58CA192DD3D9CB975AFA616E2F20"
-				"download" "737754F298D133E200F8A5770825E33D"
+				"gid" "F25C961237F4B552AA8B0BC9A83A1175"
+				"size" "5CE72CC273BC9CEFC34AE50EE61AC7B2"
+				"download" "16175E31C72FAA14FB9114746C3FD137"
 			}
 			"gpuvendor_intel_old"
 			{
-				"gid" "A232705B7DC24318D1EBC1E4B11A2B0A"
-				"size" "591E610413E36F48395D1DEEBAFCDCED"
-				"download" "536DCF294639C3391BA96C9900F110BC"
+				"gid" "212EDC0D63B3F965F6B5281AA9B1897D"
+				"size" "C18784A2BDED79143EFDD632FB0C6CA0"
+				"download" "437F6198414143358977BB79344E98BB"
 			}
 			"gpuvendors"
 			{
-				"gid" "6D788C580533E9B51AEE16B8F6A2DFE8"
-				"size" "1CA40BF24B3E40B659BD77F7E505B770"
-				"download" "004FEFE891B91690758BD63587D2582B"
+				"gid" "7FBD1A0C079BC2962D73891630DB834B"
+				"size" "1FE20154898F78AC82D64DBA265C4DB0"
+				"download" "73D6F3364E8B8A37E6D9BA85D9DC7A6F"
+			}
+			"old_edge"
+			{
+				"gid" "66E88BD56A4AFDB70855FE359F50EBB1"
+				"size" "2817238EB1F88A317CEC806877922445"
+				"download" "E8C0D1FCA3FB874113AA55E77F825C73"
 			}
 			"partners_branch"
 			{
@@ -612,9 +635,9 @@
 			}
 			"pso_recorder"
 			{
-				"gid" "4A72C76E0AADDC95A8517BFC00E44B9C"
-				"size" "E88F75FE876D748556436C997AF5532C"
-				"download" "C9B49275E522951826507630130BB445"
+				"gid" "41228EEF0C21BF6318E4C6A8EB6284E3"
+				"size" "AC674E2FD9F60B35FF7AE6334653E125"
+				"download" "94385819BBF937291493BF7D9BFC5CE7"
 			}
 			"sh2_razer"
 			{
@@ -624,9 +647,9 @@
 			}
 			"stable_edge"
 			{
-				"gid" "AABF8C87BAF4B65E9C73B616E330D858"
-				"size" "6EA7BFB163E5901664770E05F5A9460F"
-				"download" "A9B715E9C8B8D37153E9593A83585DE5"
+				"gid" "E08DEB72FC2E2F4A1D182CDBAD62D2F3"
+				"size" "41315EEACAC0B5422E6D26F9C96FAABC"
+				"download" "F08B42F8B8543A1DD3D3F6862C66F28F"
 			}
 			"te_sr"
 			{
@@ -642,8 +665,8 @@
 	{
 		"public"
 		{
-			"buildid" "16168632"
-			"timeupdated" "1729854115"
+			"buildid" "16443373"
+			"timeupdated" "1732266040"
 		}
 		"bdg_edge"
 		{
@@ -671,27 +694,33 @@
 		}
 		"bleeding_edge"
 		{
-			"buildid" "16174593"
+			"buildid" "16507812"
 			"pwdrequired" "1"
-			"timeupdated" "1729825517"
+			"timeupdated" "1732330670"
 		}
 		"gpuvendor_intel"
 		{
-			"buildid" "16069967"
+			"buildid" "16408431"
 			"pwdrequired" "1"
-			"timeupdated" "1729102090"
+			"timeupdated" "1731602545"
 		}
 		"gpuvendor_intel_old"
 		{
-			"buildid" "15467225"
+			"buildid" "16217178"
 			"pwdrequired" "1"
-			"timeupdated" "1724395640"
+			"timeupdated" "1730185528"
 		}
 		"gpuvendors"
 		{
-			"buildid" "16069967"
+			"buildid" "16443373"
 			"pwdrequired" "1"
-			"timeupdated" "1729102074"
+			"timeupdated" "1732097604"
+		}
+		"old_edge"
+		{
+			"buildid" "16166280"
+			"pwdrequired" "1"
+			"timeupdated" "1730100255"
 		}
 		"partners_branch"
 		{
@@ -701,9 +730,9 @@
 		}
 		"pso_recorder"
 		{
-			"buildid" "16166280"
+			"buildid" "16443048"
 			"pwdrequired" "1"
-			"timeupdated" "1729777705"
+			"timeupdated" "1731927221"
 		}
 		"sh2_razer"
 		{
@@ -713,9 +742,9 @@
 		}
 		"stable_edge"
 		{
-			"buildid" "16168632"
+			"buildid" "16443373"
 			"pwdrequired" "1"
-			"timeupdated" "1729789172"
+			"timeupdated" "1731929769"
 		}
 		"te_sr"
 		{
@@ -744,6 +773,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25895045"
-"_sha" "dd8e23d690b637d87982d2fe90eb7facefd8f756"
-"_size" "14365"
+"_change_number" "26326852"
+"_sha" "3d8b6462b13b78e6f0fe2e1c6bdf86942b093026"
+"_size" "15003"
