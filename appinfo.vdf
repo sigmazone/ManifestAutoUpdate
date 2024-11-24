@@ -25,6 +25,7 @@
 		"russian" "Восточный фронт: Неизвестная война"
 		"french" "East Front: UberSoldier"
 		"german" "ÜberSoldier"
+		"tchinese" "UberSoldier 基因戰士"
 	}
 	"content_descriptors"
 	{
@@ -47,6 +48,7 @@
 	{
 		"library_capsule" "en,ru"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en,ru"
 		"library_header" "en,ru"
 		"logo_position"
@@ -80,6 +82,13 @@
 			"image2x"
 			{
 				"english" "f22a60184b73bea8171281b74c9e0bfa32ea59d4/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f22a60184b73bea8171281b74c9e0bfa32ea59d4/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -126,6 +135,11 @@
 			"type" "publisher"
 			"name" "Strategy First"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "ÜberSoldier"
+		}
 	}
 	"primary_genre" "1"
 	"genres"
@@ -168,6 +182,22 @@
 			"subtitles" "true"
 		}
 		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -226,6 +256,7 @@
 }
 "depots"
 {
+	"baselanguages" "english,german,french,italian,spanish,tchinese,russian,polish,czech"
 	"2905091"
 	{
 		"config"
@@ -236,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "3935295587647882312"
-				"size" "2033325680"
-				"download" "1951918352"
+				"gid" "5567166898089968500"
+				"size" "2033316701"
+				"download" "1951915680"
 			}
 		}
 	}
@@ -253,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "2910450870578356755"
-				"size" "2044107459"
-				"download" "1960281424"
+				"gid" "7393013930394503355"
+				"size" "2044095743"
+				"download" "1960278560"
 			}
 		}
 	}
@@ -287,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "3157777742484897724"
-				"size" "2032595016"
-				"download" "1951171296"
+				"gid" "5011856643750495048"
+				"size" "2032584814"
+				"download" "1951168544"
 			}
 		}
 	}
@@ -304,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "4470749620826853795"
-				"size" "2033661101"
-				"download" "1951968736"
+				"gid" "827769653707676053"
+				"size" "2033647551"
+				"download" "1951965856"
 			}
 		}
 	}
@@ -321,23 +352,73 @@
 		{
 			"public"
 			{
-				"gid" "9207711470532220631"
-				"size" "2034073949"
-				"download" "1952324848"
+				"gid" "1331224832333690102"
+				"size" "2034063809"
+				"download" "1952322192"
 			}
 		}
 	}
-	"baselanguages" "english,german,french,russian,polish,czech"
+	"2905097"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4793304775392437729"
+				"size" "2029580144"
+				"download" "1948117248"
+			}
+		}
+	}
+	"2905098"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7612322762198855473"
+				"size" "2033385168"
+				"download" "1951981712"
+			}
+		}
+	}
+	"2905099"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8140346721586643193"
+				"size" "2033339502"
+				"download" "1951866064"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15921455"
-			"timeupdated" "1728097974"
+			"buildid" "16410074"
+			"timeupdated" "1731609997"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25807550"
-"_sha" "44b1a587d57b957b47084a3eeae7080ecdb08fef"
-"_size" "6013"
+"_change_number" "26330252"
+"_sha" "7b791bd4ae23526f50dfad4b8ed2842fcfb4b8bd"
+"_size" "7250"
