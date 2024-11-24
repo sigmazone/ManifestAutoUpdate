@@ -16,6 +16,55 @@
 	{
 		"schinese" "挖矿大亨模拟器 Crypto Miner Tycoon Simulator"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728000000"
+		"tested_build_id" "15022943"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -308,18 +357,18 @@
 		{
 			"public"
 			{
-				"gid" "4372622315332645977"
-				"size" "332362281"
-				"download" "234361488"
+				"gid" "6712379488974901643"
+				"size" "332369353"
+				"download" "234363440"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "7AF9A05DC315FAEC504237D001D9F011"
-				"size" "3520E8077B381986D4A9F8C244EEFD30"
-				"download" "B7F568049EDED8921112BA373EEF9D36"
+				"gid" "E9C82ED9105F1E5C3975BB68FC291465"
+				"size" "183836E2CDFE839C7C03A41D28040584"
+				"download" "ABD41C5D0A2D0A4700FAD54DA04C24BA"
 			}
 		}
 	}
@@ -328,14 +377,14 @@
 	{
 		"public"
 		{
-			"buildid" "15022943"
-			"timeupdated" "1721304011"
+			"buildid" "16512218"
+			"timeupdated" "1732390450"
 		}
 		"testing"
 		{
-			"buildid" "15022943"
+			"buildid" "16512218"
 			"pwdrequired" "1"
-			"timeupdated" "1720872201"
+			"timeupdated" "1732390414"
 		}
 	}
 }
@@ -354,6 +403,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25020848"
-"_sha" "09b8f2d2be83fcdd56adc728be65fea592c0f1da"
-"_size" "5665"
+"_change_number" "26332464"
+"_sha" "71ada19bf50908d5c1cff1d4c1d22b6aaa361b49"
+"_size" "6900"
