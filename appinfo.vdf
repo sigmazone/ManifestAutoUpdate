@@ -1,0 +1,390 @@
+"appid" "1775490"
+"common"
+{
+	"name" "Slice & Dice"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"icon" "35899b487214251267c53841206a830bcdddce92"
+	"clienttga" "b5386bbfc77ccd718d1091527767590d8172ceb8"
+	"clienticns" "030e153d4442107239b7d4b61360a2d213581825"
+	"clienticon" "caab92e3cc4d62803304d520b31a3a26d0d8a747"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1712707200"
+		"tested_build_id" "13882139"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "93.26833826197858"
+			"height_pct" "49.290444654683064"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "93.26833826197858"
+				"height_pct" "49.290444654683064"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1710920049"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tann"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tann"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1710946638"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1775490"
+	"store_tags"
+	{
+		"0" "1741"
+		"1" "1716"
+		"2" "1720"
+		"3" "597"
+		"4" "122"
+		"5" "4046"
+		"6" "3959"
+		"7" "14139"
+		"8" "3964"
+		"9" "3871"
+		"10" "1684"
+		"11" "4236"
+		"12" "4057"
+		"13" "4172"
+		"14" "3993"
+		"15" "6276"
+		"16" "1669"
+		"17" "1759"
+		"18" "5125"
+		"19" "6730"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Tann"
+	"publisher" "Tann"
+}
+"config"
+{
+	"installdir" "Slice_n_Dice"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SliceAndDice.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SliceAndDice.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "SliceAndDice"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1775491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3828448958675911139"
+				"size" "157140525"
+				"download" "118820976"
+			}
+			"local"
+			{
+				"gid" "6618448620814073396"
+				"size" "191893918"
+				"download" "154119728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "DE036929892D9EC3053D9FE6A2610CD7"
+				"size" "27FA5A7752512A8E76045CB54A5A566A"
+				"download" "F5CE9B143F68DA07E9B01410A417A34A"
+			}
+		}
+	}
+	"1775492"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3177672382920142249"
+				"size" "182152189"
+				"download" "126045616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "0F1DCF2F698E9CB2C48670F9F1219F15"
+				"size" "DD009FB0A74CD98C5BDF7C53271CF231"
+				"download" "2D475B0FF006EDFDA8A418EB142047D9"
+			}
+		}
+	}
+	"1775493"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2233762194706757917"
+				"size" "171993206"
+				"download" "126737616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "1866005BC9C8B532704B1F8931CAD41A"
+				"size" "99B6A7CC305BF0BC1086F8D871F05E7E"
+				"download" "430C80F546F1855735EBC198514FF51C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16511246"
+			"timeupdated" "1732378890"
+		}
+		"local"
+		{
+			"buildid" "12416679"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1697050193"
+		}
+		"alpha"
+		{
+			"buildid" "16511246"
+			"pwdrequired" "1"
+			"timeupdated" "1732375088"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "5"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "SliceAndDice.app/Contents/Resources/"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "xsrvc.dll"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26331309"
+"_sha" "01a55dfa0849a30f3c112753b41c814ea9e384a3"
+"_size" "6610"
