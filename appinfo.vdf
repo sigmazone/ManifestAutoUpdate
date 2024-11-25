@@ -1,0 +1,404 @@
+"appid" "1812620"
+"common"
+{
+	"name" "DSX"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "2ac1496690a1e9e196afe2fffaba4bcdcb85fab1"
+	"clienttga" "801afa6197365e3e65c70f9748ce2d68977e043b"
+	"icon" "c15397ede3b9d401c5aebe556ef56194abb77cce"
+	"logo" "f415c5598cadf40037f2f24e1bf6f68785616055"
+	"logo_small" "f415c5598cadf40037f2f24e1bf6f68785616055_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1658534400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37.672811059907836"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "37.672811059907836"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1713410320"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Paliverse"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paliverse"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1656071154"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1812620"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "599"
+		"2" "7481"
+		"3" "87"
+		"4" "8013"
+		"5" "150626"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"disableoverlayinjection" "1"
+	"developer" "Paliverse"
+	"publisher" "Paliverse"
+	"listofdlc" "2345650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DSX"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DSX.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"workshopdepot" "1812620"
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1812621"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5830473345574929228"
+				"size" "394408373"
+				"download" "136624592"
+			}
+			"dsx_v3.1_beta"
+			{
+				"gid" "2976905397527177782"
+				"size" "434135541"
+				"download" "149258240"
+			}
+			"dsx_2.5.0"
+			{
+				"gid" "4756084215369874936"
+				"size" "45157473"
+				"download" "23540240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dsx_v3_beta_devteam"
+			{
+				"gid" "79972CB65AB1221E4EAFEA28CACDE212"
+				"size" "8895C22B7E57615C6EC8692B5167531D"
+				"download" "9DCD152A9C474DC28A0321D5698891C6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16518190"
+			"timeupdated" "1732486930"
+		}
+		"dsx_v3.1_beta"
+		{
+			"buildid" "16515750"
+			"description" "v3.1 Beta"
+			"timeupdated" "1732451287"
+		}
+		"dsx_v3_beta_devteam"
+		{
+			"buildid" "16515750"
+			"pwdrequired" "1"
+			"timeupdated" "1732450452"
+		}
+		"dsx_2.5.0"
+		{
+			"buildid" "13063683"
+			"description" "DSX v2.5.0"
+			"timeupdated" "1729893678"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "DSX_Cloud"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26340557"
+"_sha" "0f0f2de3aa187c8be3906b7a4e8599541980c300"
+"_size" "6426"
