@@ -26,7 +26,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "c524a0960b96a014467747f9924dae40378bd7e0/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -45,18 +45,60 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1700667681"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732459030"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "滕州市班家游戏工作室"
+			"name" "班超工作室"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "滕州市班家游戏工作室"
+			"name" "班超工作室"
 		}
 		"2"
 		{
@@ -138,23 +180,23 @@
 		"7" "3799"
 		"8" "4684"
 		"9" "21725"
-		"10" "9204"
-		"11" "379975"
-		"12" "4474"
-		"13" "3871"
-		"14" "3964"
-		"15" "4085"
-		"16" "4195"
-		"17" "31275"
-		"18" "4094"
-		"19" "4182"
+		"10" "379975"
+		"11" "4474"
+		"12" "3871"
+		"13" "3964"
+		"14" "4085"
+		"15" "4195"
+		"16" "31275"
+		"17" "4094"
+		"18" "4182"
+		"19" "599"
 	}
 }
 "extended"
 {
 	"deckresolutionoverride" "1600x900"
-	"developer" "滕州市班家游戏工作室"
-	"publisher" "滕州市班家游戏工作室"
+	"developer" "班超工作室"
+	"publisher" "班超工作室"
 	"listofdlc" "3044860"
 	"dlcavailableonstore" "1"
 }
@@ -206,9 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "4686912754348578112"
-				"size" "843892439"
-				"download" "665933600"
+				"gid" "1583368184218617308"
+				"size" "847270879"
+				"download" "668138880"
 			}
 			"fsyjz"
 			{
@@ -419,12 +461,35 @@
 			}
 		}
 	}
+	"2425742"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"fsyjz"
+			{
+				"gid" "83297740048815868"
+				"size" "847445275"
+				"download" "669219024"
+			}
+			"russian"
+			{
+				"gid" "83297740048815868"
+				"size" "847445275"
+				"download" "669219024"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14900898"
-			"timeupdated" "1719883623"
+			"buildid" "16515905"
+			"timeupdated" "1732452777"
 		}
 		"traditional"
 		{
@@ -446,3 +511,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26337800"
+"_sha" "37108d04d3ecb07fd61d10d451d93b24c008c196"
+"_size" "8274"
