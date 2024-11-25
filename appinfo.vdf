@@ -112,6 +112,44 @@
 			"height_pct" "35"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29"
+				"height_pct" "35"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1694450780"
 	"associations"
 	{
@@ -226,8 +264,8 @@
 		"0" "699"
 		"1" "1100687"
 		"2" "599"
-		"3" "21978"
-		"4" "3859"
+		"3" "3859"
+		"4" "21978"
 		"5" "1644"
 		"6" "4175"
 		"7" "701"
@@ -242,7 +280,7 @@
 		"16" "4166"
 		"17" "1669"
 		"18" "4026"
-		"19" "19"
+		"19" "1775"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
@@ -309,9 +347,9 @@
 		{
 			"public"
 			{
-				"gid" "2268109980264004896"
-				"size" "20239690998"
-				"download" "19642988672"
+				"gid" "2068742108547291708"
+				"size" "20255036382"
+				"download" "19657567456"
 			}
 		}
 		"encryptedmanifests"
@@ -324,15 +362,21 @@
 			}
 			"ks_beta_testing"
 			{
-				"gid" "ADF7FF8CDDE8FF756213ED4048BB36C9"
-				"size" "52705D166AE6D87B62E24E83BA4B701F"
-				"download" "08A51A60EDDA903E0FF5A66D92737766"
+				"gid" "B72476944BDBA47B5A3FC64492C5DA2D"
+				"size" "50C6C143245A943199F60B18D983635E"
+				"download" "2C4077F29ED2F1BF41548E17209D5392"
 			}
 			"ks_latest"
 			{
-				"gid" "813ECD591AF744AFEA6E6B40C86B4934"
-				"size" "A0F543EB77EA48157D6F40E1F141C1AD"
-				"download" "7004E6EBCFC92D9C68412E54033131BD"
+				"gid" "2D7CF641BA4C0B65E64F9C7479F26591"
+				"size" "1A7210F1D498B5E2603CB44572869F3D"
+				"download" "51AB2313A8FFDBA1F3D53CBF844D5A37"
+			}
+			"partners_stable"
+			{
+				"gid" "150BBB5A07E714E0AA258A94CCAA3D04"
+				"size" "B41E5A9D467EEC031A2E0934F5071788"
+				"download" "03CAFABEB47691C4554313A4F720BA24"
 			}
 		}
 	}
@@ -340,8 +384,8 @@
 	{
 		"public"
 		{
-			"buildid" "15516176"
-			"timeupdated" "1724853337"
+			"buildid" "16180418"
+			"timeupdated" "1732535459"
 		}
 		"nbaindy"
 		{
@@ -351,19 +395,25 @@
 		}
 		"ks_beta_testing"
 		{
-			"buildid" "15516176"
+			"buildid" "16180418"
 			"pwdrequired" "1"
-			"timeupdated" "1724836234"
+			"timeupdated" "1730123200"
 		}
 		"ks_latest"
 		{
-			"buildid" "15516176"
+			"buildid" "16180418"
 			"pwdrequired" "1"
-			"timeupdated" "1724838548"
+			"timeupdated" "1730123212"
+		}
+		"partners_stable"
+		{
+			"buildid" "16152325"
+			"pwdrequired" "1"
+			"timeupdated" "1729694319"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24976569"
-"_sha" "932b715f445c93a3412e8d04fd32b688dc22b701"
-"_size" "7103"
+"_change_number" "26347935"
+"_sha" "6fc6b28a22d5b6b4c2756a3ab23e87d58cbba74f"
+"_size" "7928"
