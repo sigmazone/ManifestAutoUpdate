@@ -74,17 +74,20 @@
 	{
 		"schinese" "capsule_231x87_schinese.jpg"
 		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en,zh-tw"
+		"library_header" "zh-cn,en,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -92,7 +95,61 @@
 			"height_pct" "44.432947019867555"
 		}
 	}
-	"store_asset_mtime" "1689685770"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "93.37431864803487"
+				"height_pct" "44.432947019867555"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1710226645"
 	"associations"
 	{
 		"0"
@@ -103,7 +160,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "663 Games"
+			"name" "Plaisir Games"
 		}
 	}
 	"primary_genre" "2"
@@ -118,6 +175,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -132,6 +190,16 @@
 			"subtitles" "true"
 		}
 		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -160,16 +228,17 @@
 		"14" "1741"
 		"15" "5379"
 		"16" "122"
-		"17" "493"
+		"17" "1666"
 		"18" "21"
+		"19" "32322"
 	}
-	"review_score" "8"
-	"review_percentage" "82"
+	"review_score" "6"
+	"review_percentage" "77"
 }
 "extended"
 {
 	"developer" "七颗枚"
-	"publisher" "663 Games"
+	"publisher" "Plaisir Games"
 	"homepage" "https://www.facebook.com/TheBookofWarriors"
 }
 "config"
@@ -211,18 +280,18 @@
 		{
 			"public"
 			{
-				"gid" "2892584028762294813"
-				"size" "2537197485"
-				"download" "297386672"
+				"gid" "4655695274434418576"
+				"size" "2577344604"
+				"download" "298826016"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"0.0.1"
 			{
-				"gid" "566E2B1177D037A03AC87F5625098F56"
-				"size" "CA4663185B2EC3060F1290FF4819C591"
-				"download" "625EE4557DFB5D236375896A2707C4C6"
+				"gid" "2ACB15CCEA61E7474EF73A1DF710B19D"
+				"size" "5C575854860A0113F82D30C888B5EA2F"
+				"download" "90B111FD211C7F883C4C7E3BB57EE6A9"
 			}
 		}
 	}
@@ -238,14 +307,14 @@
 	{
 		"public"
 		{
-			"buildid" "11936517"
-			"timeupdated" "1692012546"
+			"buildid" "16524399"
+			"timeupdated" "1732540525"
 		}
 		"0.0.1"
 		{
-			"buildid" "10322119"
+			"buildid" "16522052"
 			"pwdrequired" "1"
-			"timeupdated" "1692433892"
+			"timeupdated" "1732526956"
 		}
 	}
 }
@@ -276,6 +345,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21704203"
-"_sha" "bca79f849e1f167ad1eb3f09655247a39a19b399"
-"_size" "4911"
+"_change_number" "26349189"
+"_sha" "33cab8c8bda8ccac3305ed37ec1a7b17bc317d01"
+"_size" "6149"
