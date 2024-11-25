@@ -18,15 +18,35 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1727740800"
+		"category" "2"
+		"test_timestamp" "1731110400"
 		"tested_build_id" "15830601"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -187,7 +207,7 @@
 		"19" "4345"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -251,15 +271,15 @@
 		{
 			"public"
 			{
-				"gid" "1594874953829729288"
-				"size" "60943724377"
-				"download" "59217628176"
+				"gid" "7799521675689063823"
+				"size" "60943902051"
+				"download" "59218984960"
 			}
 			"beta"
 			{
-				"gid" "1594874953829729288"
-				"size" "60943724377"
-				"download" "59217628176"
+				"gid" "7799521675689063823"
+				"size" "60943902051"
+				"download" "59218984960"
 			}
 			"v1rollback"
 			{
@@ -273,14 +293,14 @@
 	{
 		"public"
 		{
-			"buildid" "16200316"
-			"timeupdated" "1730076711"
+			"buildid" "16517285"
+			"timeupdated" "1732477256"
 		}
 		"beta"
 		{
-			"buildid" "16200316"
+			"buildid" "16517285"
 			"description" "Untested, potentially buggy branch"
-			"timeupdated" "1730074262"
+			"timeupdated" "1732476326"
 		}
 		"v1rollback"
 		{
@@ -311,6 +331,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25923409"
-"_sha" "fea72f74f9f61f679eb6eb605a1e09731dd65f28"
-"_size" "5416"
+"_change_number" "26339639"
+"_sha" "4e2c23fd5a006866029041a53f13f74f1041ec80"
+"_size" "5913"
