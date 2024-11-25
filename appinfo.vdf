@@ -245,7 +245,7 @@
 {
 	"developer" "Eugen Systems"
 	"publisher" "Eugen Systems"
-	"listofdlc" "2978610,2978620,2978630,2978640,2978650,2981540,3017370,3025400,3261230,3309840"
+	"listofdlc" "2978610,2978620,2978630,2978640,2978650,2981540,3017370,3025400,3261230,3309840,3333270"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -304,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "130165893755872694"
-				"size" "41046933248"
-				"download" "34341962752"
+				"gid" "6922491373723832492"
+				"size" "42831621276"
+				"download" "35696495952"
 			}
 			"compat_save_older_than_110364"
 			{
@@ -320,6 +320,12 @@
 				"size" "55595923320"
 				"download" "46318260512"
 			}
+			"compat_138477"
+			{
+				"gid" "130165893755872694"
+				"size" "41046933248"
+				"download" "34341962752"
+			}
 			"compat_save_older_than_122779"
 			{
 				"gid" "8928887078388739384"
@@ -331,27 +337,21 @@
 		{
 			"compat_vip"
 			{
-				"gid" "5F6661238C3C2AB5F294AB835F046695"
-				"size" "C872443FCBB670880D7C84CE1672CE2A"
-				"download" "7B3089E59DD16F25A160168257544C26"
+				"gid" "821E54341D4002847285726A923E7317"
+				"size" "494E1BE7761C91E9F70244F031158616"
+				"download" "53F1203468761337F2F7E630986A4F1C"
 			}
 			"full_vip"
 			{
-				"gid" "8F69638802485F222F837878132F0EE8"
-				"size" "CD84CD82E03FBBF1EC74695DD3CD7625"
-				"download" "EC76F7D82534781243BE97688146919B"
+				"gid" "BE380C7E335E30AD4EA01F0A5354C395"
+				"size" "9D82A1D9938512CB1A89ECD3A9223704"
+				"download" "5A49C2334F336D7B81D74C886C5528E1"
 			}
 			"qa_test"
 			{
-				"gid" "EE610A0F41B94664272617CD672E74BB"
-				"size" "245A381EF64C34C47D6C2E6C46B6BA7C"
-				"download" "696B6C9BBECC8933E7427F00F837BC7B"
-			}
-			"qa_test_vip"
-			{
-				"gid" "F543CFB4669522AD71FB844B8722A03F"
-				"size" "D22263470F5421A0054063F39D817651"
-				"download" "5368BBFF69BFA0BD6FD4DA5050E26FEE"
+				"gid" "657486F77C248E0941ED4FFD5572C4C4"
+				"size" "D4CC5ED46342FBE98CD29544AAD9E4D9"
+				"download" "A812FFF3F2C99E10B3D2FC1D523E33D5"
 			}
 		}
 	}
@@ -359,8 +359,8 @@
 	{
 		"public"
 		{
-			"buildid" "16444100"
-			"timeupdated" "1732002588"
+			"buildid" "16522255"
+			"timeupdated" "1732529502"
 		}
 		"compat_save_older_than_110364"
 		{
@@ -374,6 +374,12 @@
 			"description" "Compatibility for saves and replays older than version 93194"
 			"timeupdated" "1679588606"
 		}
+		"compat_138477"
+		{
+			"buildid" "16444100"
+			"description" "Compatibility for mods based on version 138477, compatibility for saves and replays prior to or equal to 138477"
+			"timeupdated" "1732529539"
+		}
 		"compat_save_older_than_122779"
 		{
 			"buildid" "13893485"
@@ -382,27 +388,21 @@
 		}
 		"compat_vip"
 		{
-			"buildid" "15460641"
+			"buildid" "16469102"
 			"pwdrequired" "1"
-			"timeupdated" "1724747182"
+			"timeupdated" "1732292034"
 		}
 		"full_vip"
 		{
-			"buildid" "16342705"
+			"buildid" "16500091"
 			"pwdrequired" "1"
-			"timeupdated" "1731077095"
+			"timeupdated" "1732292051"
 		}
 		"qa_test"
 		{
-			"buildid" "16444100"
+			"buildid" "16522255"
 			"pwdrequired" "1"
-			"timeupdated" "1731933732"
-		}
-		"qa_test_vip"
-		{
-			"buildid" "16249252"
-			"pwdrequired" "1"
-			"timeupdated" "1731570971"
+			"timeupdated" "1732528234"
 		}
 	}
 }
@@ -412,6 +412,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26257378"
-"_sha" "16d3caf78131522ebaa8eee60072bbc40370bcb5"
-"_size" "8092"
+"_change_number" "26346554"
+"_sha" "a86ab9515d9d974464bfbf0fd9441c2ffb18a8ac"
+"_size" "8159"
