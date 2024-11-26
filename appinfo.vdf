@@ -1,0 +1,434 @@
+"appid" "2148970"
+"common"
+{
+	"name" "Skygard Arena"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "73c56c78d905a21aa18ec2334519edc9d903287d"
+	"clienticon" "2c02d5c7636900055bc943d206665f2237ca1aa0"
+	"clienttga" "21244b414d86baefef5ead275020a98926ecd226"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "acd1f63f7a6ac8e34a050bac3d42eb5d0cf46647/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.748560657545454"
+			"height_pct" "96.30087069591438"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "7bb096b890d13385ef3133c4acb74c97e86bcbaa/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "7bb096b890d13385ef3133c4acb74c97e86bcbaa/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "cfddaf479c8dd1d6957aa568f3c6c3b01a39d69b/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "cfddaf479c8dd1d6957aa568f3c6c3b01a39d69b/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "cfddaf479c8dd1d6957aa568f3c6c3b01a39d69b/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.748560657545454"
+				"height_pct" "96.30087069591438"
+			}
+			"image2x"
+			{
+				"english" "0f48a9e6ff1bfa52c7f063c436513ac3d41131d5/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "0f48a9e6ff1bfa52c7f063c436513ac3d41131d5/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "d258b69b9b8e71a91626c0f24bda16481f2f9ff0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "d258b69b9b8e71a91626c0f24bda16481f2f9ff0/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732028144"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gemelli Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gemelli Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731945618"
+	"community_hub_visible" "1"
+	"gameid" "2148970"
+	"store_tags"
+	{
+		"0" "21725"
+		"1" "14139"
+		"2" "9"
+		"3" "6730"
+		"4" "1775"
+		"5" "17305"
+		"6" "1741"
+		"7" "1708"
+		"8" "122"
+		"9" "1684"
+		"10" "4182"
+		"11" "493"
+		"12" "1677"
+		"13" "4325"
+		"14" "4747"
+		"15" "32322"
+		"16" "3859"
+		"17" "1742"
+		"18" "5851"
+		"19" "10695"
+	}
+	"review_score" "7"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Gemelli Games"
+	"publisher" "Gemelli Games"
+}
+"config"
+{
+	"installdir" "Skygard Arena"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SkygardArena.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ShardTactics.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ProjetArenaServer.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2148974"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "0A60D852D490D2EB7545FA092F868D74"
+				"size" "8B98967C0F99A4D7E110011D70624492"
+				"download" "0CB911758EEFB18097B10EEC065AA257"
+			}
+			"trailer"
+			{
+				"gid" "DACB7AB135582A9134CA9C0E234038D6"
+				"size" "DE839382D9BB682725DCAA46C7CD6037"
+				"download" "DABA776929DCE3CE107648D25BBF2E29"
+			}
+		}
+	}
+	"2148971"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8993413848893491865"
+				"size" "13953132466"
+				"download" "2822539280"
+			}
+			"offline_demo"
+			{
+				"gid" "876708269690010181"
+				"size" "3762512495"
+				"download" "875099968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "3B8B611EB4FA80FEDA823D6125FDAA93"
+				"size" "EA963FDA195B9AFE9EF04BF6217F2E0F"
+				"download" "E9F2DDE4DD30326D6F7AF24B66CD9067"
+			}
+			"prod_env"
+			{
+				"gid" "6D6DE7A8D152781E76740F62190CD916"
+				"size" "955D7747882323E1E74D75B8827E1EFB"
+				"download" "4EC04926112219F1A23366546A5854F1"
+			}
+			"staging"
+			{
+				"gid" "64B39728EFAE7F35CEF72BBE90B3F916"
+				"size" "D8C88F49DB09DB0AEFBD939A06E29E59"
+				"download" "FA5C4D3058AEF748C9C83F5F3DAFBD92"
+			}
+			"trailer"
+			{
+				"gid" "DBD351E5FF431662DE3626EE7358A238"
+				"size" "3B94B3AAF5DC14DD8561C782FEFFB561"
+				"download" "3C2F77507554E0297F03F43F3067C0ED"
+			}
+		}
+	}
+	"2148972"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5834534937905306330"
+				"size" "1886424843"
+				"download" "423379664"
+			}
+			"offline_demo"
+			{
+				"gid" "5834534937905306330"
+				"size" "1886424843"
+				"download" "423379664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "112B69B15B22EACF31284479C57074B8"
+				"size" "EACF1C81C2C7F078F3FE11975B7DF973"
+				"download" "A5250C3932400E124AD25778523E883A"
+			}
+			"prod_env"
+			{
+				"gid" "F3D51C489E9FBE0FD749B453A2B5A7D3"
+				"size" "74E136AE6B59790475B2DFA87019D384"
+				"download" "D102E69BCEB7E7C108198437D7629992"
+			}
+			"staging"
+			{
+				"gid" "DD4438816D48325D0A01A8997DCACF4A"
+				"size" "BEF9CB7C320A37F0957822E273DBC245"
+				"download" "73D1095144A25E9D226EE20BF2361C0E"
+			}
+			"trailer"
+			{
+				"gid" "4378D23A99630DA7577EA5FDD4E074D4"
+				"size" "4A43395C7BE29F9BCD1338C994343B29"
+				"download" "3CDCF1223CAE4DBDA1454BD6E1C55037"
+			}
+		}
+	}
+	"2148973"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1431651604908193162"
+				"size" "2122952698"
+				"download" "420564544"
+			}
+			"offline_demo"
+			{
+				"gid" "1431651604908193162"
+				"size" "2122952698"
+				"download" "420564544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "8199A5ED6E7C98FA4DFD98A65C5D1077"
+				"size" "57BC82CC444D27A6CEA4D17A92C6CFAB"
+				"download" "FBF84B5FD50D7FA513DBD9E670025502"
+			}
+			"prod_env"
+			{
+				"gid" "23343B8FDE25F035BFCC719F005F10DF"
+				"size" "8CE2117EEAF79C9FBA9DBAA97FE49C3C"
+				"download" "93479F5D2444634EC2435E72D440E46E"
+			}
+			"staging"
+			{
+				"gid" "65D129395E4D2AF34A756BFAB9E73B49"
+				"size" "E6546FD238F329E4F06A9AF8B6D13E5A"
+				"download" "F8DFF16D73E4ECADA36CA07A2DC55497"
+			}
+			"trailer"
+			{
+				"gid" "467899D0D38C8F0C5ECEA8A570730BB8"
+				"size" "9E26235FE219577EF508CA9C4FFAEFF3"
+				"download" "341079E9140F0375CD58E98D9C98C139"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16491399"
+			"timeupdated" "1732219425"
+		}
+		"community"
+		{
+			"buildid" "13467471"
+			"pwdrequired" "1"
+			"timeupdated" "1708018945"
+		}
+		"offline_demo"
+		{
+			"buildid" "12927587"
+			"description" "Offline demo"
+			"timeupdated" "1702286302"
+		}
+		"prod_env"
+		{
+			"buildid" "16491399"
+			"pwdrequired" "1"
+			"timeupdated" "1732219261"
+		}
+		"staging"
+		{
+			"buildid" "16527387"
+			"pwdrequired" "1"
+			"timeupdated" "1732556866"
+		}
+		"trailer"
+		{
+			"buildid" "16136182"
+			"pwdrequired" "1"
+			"timeupdated" "1729674590"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "\\GemelliGames\\SkygardArena"
+			"pattern" "*.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26353375"
+"_sha" "62b23feb25ffde41d05eb3434c2a1fca38e1ef6b"
+"_size" "8147"
