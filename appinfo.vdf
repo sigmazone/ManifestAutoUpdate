@@ -18,6 +18,7 @@
 		"0" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "7b610dfc0dff75b94510e7c6efc702c79ce16b7f/capsule_231x87.jpg"
@@ -122,6 +123,11 @@
 		"category_38" "1"
 		"category_27" "1"
 		"category_1" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -143,6 +149,7 @@
 		}
 	}
 	"steam_release_date" "1727974661"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/1564600/announcements/detail/4464851103138186305"
 	"community_hub_visible" "1"
 	"gameid" "1564600"
 	"store_tags"
@@ -211,6 +218,20 @@
 			}
 		}
 	}
+	"app_mappings"
+	{
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3371966689"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -225,15 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "7125763327118528603"
-				"size" "5384230913"
-				"download" "2346604080"
-			}
-			"0.9.8"
-			{
-				"gid" "5328292211644195139"
-				"size" "5383962449"
-				"download" "2346606976"
+				"gid" "3307221544814977762"
+				"size" "5402960434"
+				"download" "2348388064"
 			}
 		}
 	}
@@ -247,15 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "835386174598760137"
-				"size" "5286361553"
-				"download" "2322639920"
-			}
-			"0.9.8"
-			{
-				"gid" "3587998189276365941"
-				"size" "5286079529"
-				"download" "2322602976"
+				"gid" "4154075934296827335"
+				"size" "5304484569"
+				"download" "2324085968"
 			}
 		}
 	}
@@ -269,15 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "7584146626490588389"
-				"size" "5398205648"
-				"download" "2363387024"
-			}
-			"0.9.8"
-			{
-				"gid" "7864784273167438119"
-				"size" "5397773836"
-				"download" "2363330880"
+				"gid" "1255275376374941901"
+				"size" "5416661316"
+				"download" "2364825680"
 			}
 		}
 	}
@@ -285,18 +288,12 @@
 	{
 		"public"
 		{
-			"buildid" "16318945"
-			"timeupdated" "1730925334"
-		}
-		"0.9.8"
-		{
-			"buildid" "16228453"
-			"description" "Temporary branch with v0.9.8 build"
-			"timeupdated" "1730941068"
+			"buildid" "16508768"
+			"timeupdated" "1732343011"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26152825"
-"_sha" "23dc1b4a34f4134c8df58cd7e8cbec9b0008bfe3"
-"_size" "4870"
+"_change_number" "26353647"
+"_sha" "d26a0d5507b3e4572ff44fc4955bdf2d3f833673"
+"_size" "4917"
