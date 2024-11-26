@@ -139,8 +139,18 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "ACG creator"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "Playmeow"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "ACG creator"
 		}
 	}
 	"primary_genre" "23"
@@ -206,8 +216,8 @@
 		"18" "4182"
 		"19" "4231"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -229,6 +239,14 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "PCP.exe"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
 	}
 	"steamcontrollertemplateindex" "6"
 	"steamdecktouchscreen" "5"
@@ -236,6 +254,7 @@
 }
 "depots"
 {
+	"baselanguages" "english,tchinese"
 	"228989"
 	{
 		"config"
@@ -254,7 +273,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"baselanguages" "english,tchinese"
 	"2688651"
 	{
 		"config"
@@ -266,9 +284,27 @@
 		{
 			"public"
 			{
-				"gid" "374192245792595968"
-				"size" "3023685531"
-				"download" "2666013472"
+				"gid" "1997657025693815684"
+				"size" "2588518819"
+				"download" "2210702880"
+			}
+		}
+	}
+	"2688652"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "107417446265929676"
+				"size" "3023446435"
+				"download" "2664112192"
 			}
 		}
 	}
@@ -276,8 +312,8 @@
 	{
 		"public"
 		{
-			"buildid" "16046959"
-			"timeupdated" "1728968989"
+			"buildid" "16532915"
+			"timeupdated" "1732596001"
 		}
 	}
 }
@@ -302,6 +338,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25721785"
-"_sha" "3b22a362adca0b40e6eab83cb7ef8c8736577776"
-"_size" "5396"
+"_change_number" "26360584"
+"_sha" "cd1716192d66f12c990e70cbfd8a891e0bd1b8be"
+"_size" "5867"
