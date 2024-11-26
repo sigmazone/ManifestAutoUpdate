@@ -1,0 +1,140 @@
+"appid" "3058410"
+"common"
+{
+	"name" "Альтушка для скуфа: Ещё, ещё!"
+	"type" "DLC"
+	"parent" "2901520"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "An alt girl for skoof: More, more!"
+	}
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"store_asset_mtime" "1719814302"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Terletski Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "RIKANIMATION"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Terletski Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Альтушка для Скуфа"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1721811610"
+	"gameid" "3058410"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "597"
+		"2" "4345"
+		"3" "4667"
+		"4" "9130"
+		"5" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"dlcforappid" "2901520"
+	"mustownapptopurchase" "2901520"
+	"developer" "Terletski Games"
+	"publisher" "Terletski Games"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"3058410"
+	{
+		"dlcappid" "3058410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7518042180350825148"
+				"size" "1302453954"
+				"download" "1116114112"
+			}
+		}
+	}
+	"3058411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2036896922169625688"
+				"size" "1302453954"
+				"download" "1117339440"
+			}
+		}
+		"dlcappid" "3058410"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15745290"
+			"timeupdated" "1726677480"
+		}
+	}
+	"privatebranches" "1"
+}
