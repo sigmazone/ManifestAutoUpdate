@@ -107,6 +107,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"metacritic_name" "Mafia: Definitive Edition"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -277,6 +278,8 @@
 		}
 	}
 	"steam_release_date" "1600988400"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mafia-definitive-edition\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1030840"
@@ -294,8 +297,8 @@
 		"9" "5708"
 		"10" "4667"
 		"11" "1697"
-		"12" "1693"
-		"13" "4166"
+		"12" "4166"
+		"13" "1693"
 		"14" "5611"
 		"15" "1774"
 		"16" "6052"
@@ -310,6 +313,7 @@
 {
 	"developer" "Hangar 13"
 	"publisher" "2K"
+	"homepage" "https://mafia.2k.com/"
 	"listofdlc" "1316300"
 }
 "config"
@@ -430,7 +434,6 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "previewcode2,newtest"
 			}
 		}
 		"14"
@@ -456,10 +459,6 @@
 			"executable" "launcher.exe"
 			"arguments" "/steam /cloudSave"
 			"type" "option1"
-			"config"
-			{
-				"betakey" "post_release_update,newtest"
-			}
 			"description_loc"
 			{
 				"english" "Mafia: Definitive Edition Launcher"
@@ -496,6 +495,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
+				"betakey" "newtest"
 			}
 			"description_loc"
 			{
@@ -547,9 +547,9 @@
 		{
 			"public"
 			{
-				"gid" "1690568800389535452"
-				"size" "39009122117"
-				"download" "37239227520"
+				"gid" "2886022585972111903"
+				"size" "38908493117"
+				"download" "37139405344"
 			}
 		}
 		"encryptedmanifests"
@@ -608,12 +608,6 @@
 				"size" "FF5B28C2B42870F48C55812660A54AD8"
 				"download" "28F940A410069AD94582A7859A82B978"
 			}
-			"pc_review"
-			{
-				"gid" "6BEECA87008560F2315C0F39F8B4738C"
-				"size" "51D3713A0847FFA550603176CD3C4AAD"
-				"download" "7D7A6E343C14DAC4022262C3F15DCC9C"
-			}
 			"post_release_update"
 			{
 				"gid" "0C942577F96C1759176F8ECC3579124F"
@@ -634,9 +628,15 @@
 			}
 			"newtest"
 			{
-				"gid" "5C7536C4763B580C5D8ADCEE6008E5D0"
-				"size" "822E896DD0257E5CCD2FF1F47DC469C3"
-				"download" "A0B7C535CD6B28DA2DDB2045B8DDA4C9"
+				"gid" "D2E8944CD00372B13EC1F97359CD364D"
+				"size" "F7A896D80E86E26413CD197F39DC1AF6"
+				"download" "44823F423672AB588784B1F8D4A5AE97"
+			}
+			"pc_review"
+			{
+				"gid" "3EACEE4C7D1BD989FC257BD197B17425"
+				"size" "0DFB4EB7EE1E885D976B73A2D0D9383C"
+				"download" "1BA96C0B720D14A1DF4E63DAE4557847"
 			}
 		}
 	}
@@ -709,9 +709,9 @@
 		{
 			"public"
 			{
-				"gid" "1298223493515886904"
-				"size" "139408274"
-				"download" "135668816"
+				"gid" "5488617169383930545"
+				"size" "80"
+				"download" "128"
 			}
 		}
 		"encryptedmanifests"
@@ -754,9 +754,9 @@
 			}
 			"newtest"
 			{
-				"gid" "4B984FD6AE875653B048F10B654F281D"
-				"size" "A7193DF6B4CE5109F6E9DE818FDD9C5A"
-				"download" "A7193DF6B4CE5109F6E9DE818FDD9C5A"
+				"gid" "65E8A563BA23B0AF74FD07E7E5ABCFB6"
+				"size" "BE9056CCE5E183C6ABD21841F80F91D3"
+				"download" "1EC68AB23DE312D3E0F1CF95D1580596"
 			}
 		}
 		"depotfromapp" "1523210"
@@ -765,8 +765,8 @@
 	{
 		"public"
 		{
-			"buildid" "7368608"
-			"timeupdated" "1632416831"
+			"buildid" "16502642"
+			"timeupdated" "1732568745"
 		}
 		"age_rating"
 		{
@@ -822,12 +822,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1615610903"
 		}
-		"pc_review"
-		{
-			"buildid" "5530783"
-			"pwdrequired" "1"
-			"timeupdated" "1599817505"
-		}
 		"post_release_update"
 		{
 			"buildid" "5557489"
@@ -848,9 +842,15 @@
 		}
 		"newtest"
 		{
-			"buildid" "7368608"
+			"buildid" "16502642"
 			"pwdrequired" "1"
-			"timeupdated" "1725644521"
+			"timeupdated" "1732292441"
+		}
+		"pc_review"
+		{
+			"buildid" "16484850"
+			"pwdrequired" "1"
+			"timeupdated" "1732186945"
 		}
 		"autoupdater"
 		{
@@ -912,3 +912,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26355951"
+"_sha" "59a69f8408b368840bcee03dbd90f9e1faf9749f"
+"_size" "18544"
