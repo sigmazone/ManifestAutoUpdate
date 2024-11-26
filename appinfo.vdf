@@ -22,6 +22,22 @@
 			"version" "2"
 		}
 	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -75,7 +91,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "e0125bca0713c77bf1da9609654bcb8e39544a4b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -83,15 +99,16 @@
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn"
+		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "50"
-			"height_pct" "50"
+			"width_pct" "85.16483516483515"
+			"height_pct" "94.09602604096025"
 		}
 	}
 	"library_assets_full"
@@ -100,24 +117,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-				"schinese" "library_600x900_schinese.jpg"
+				"english" "f35c3e63a8256734e3d19d4633d82c78f11b01c4/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
-				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "f35c3e63a8256734e3d19d4633d82c78f11b01c4/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "045be49e904ba590c7fba9de96aae4b4523dd3a0/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "045be49e904ba590c7fba9de96aae4b4523dd3a0/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "045be49e904ba590c7fba9de96aae4b4523dd3a0/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -125,8 +147,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "50"
-				"height_pct" "50"
+				"width_pct" "85.16483516483515"
+				"height_pct" "94.09602604096025"
 			}
 			"image"
 			{
@@ -141,11 +163,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "643a0768af817ed3c184e14f065f20356ea02bba/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "643a0768af817ed3c184e14f065f20356ea02bba/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729259362"
+	"store_asset_mtime" "1732554245"
 	"associations"
 	{
 		"0"
@@ -169,7 +195,6 @@
 	{
 		"0" "1"
 		"1" "25"
-		"2" "70"
 	}
 	"category"
 	{
@@ -184,6 +209,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -250,7 +276,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1694102246"
+	"steam_release_date" "1732553961"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1063420"
@@ -269,13 +295,13 @@
 		"10" "492"
 		"11" "3834"
 		"12" "4106"
-		"13" "4295"
-		"14" "4305"
-		"15" "3942"
-		"16" "493"
+		"13" "4191"
+		"14" "4295"
+		"15" "4305"
+		"16" "3942"
 		"17" "15045"
 		"18" "4747"
-		"19" "3993"
+		"19" "4182"
 	}
 	"review_score" "8"
 	"review_percentage" "89"
@@ -285,6 +311,8 @@
 	"developer" "Hutlihut Games"
 	"publisher" "Focus Entertainment"
 	"homepage" "https://www.focus-entmt.com/games/void-crew"
+	"listofdlc" "2445890"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -313,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "8354186185941860223"
-				"size" "7116108678"
-				"download" "2576763536"
+				"gid" "4111089190420140269"
+				"size" "6526460717"
+				"download" "2513038160"
 			}
 		}
 		"encryptedmanifests"
@@ -334,27 +362,27 @@
 			}
 			"ab_development"
 			{
-				"gid" "73759D6766BAD4990097B27C146B0A0E"
-				"size" "219967FB26A7E7B1E1A3182E2872AAFF"
-				"download" "63780639ED72205711A5AD48D7487B65"
+				"gid" "2F8AA940B5B1B4BCBA28159DA0F81CAD"
+				"size" "337EBB99AF4AC69484BD183CD729EE2B"
+				"download" "057E9CA35A3B2FCE5BAC2094680E271F"
 			}
 			"ab_manual_request"
 			{
-				"gid" "86BED63498CE45AE50897D1562EB1141"
-				"size" "8EE20769D5BD20B82948C58480CB01BE"
-				"download" "1A013721DB799EC186470F7897731BCC"
+				"gid" "806E2112E5C5F307C6298B56E0CA1E2E"
+				"size" "5661DCEE4500333269471F6430155E2F"
+				"download" "404A669CFD2D553ECCBC77CF6800F067"
 			}
 			"ab_release_candidate"
 			{
-				"gid" "3DB6BB16341BBC13F4BEAAE28C49E358"
-				"size" "D6FCDE080170AD7D3D6C9FA00CB70DE8"
-				"download" "63B0019AFEB4F559F15F8ABBF2E64E73"
+				"gid" "07E9A5B3EC15C0DD881EFC3C4C57CF70"
+				"size" "A9FACE519D90E18B00D78403F1C317D6"
+				"download" "4D789D0F196117E5E003646931114F79"
 			}
 			"ab_staging"
 			{
-				"gid" "48A39CC82D800080D65F17685E6D7DC4"
-				"size" "CCC2D253786B24E9A1A9796D133D4189"
-				"download" "ED523AE82802C7B08880582A0FD445AB"
+				"gid" "8D51BBA9DD6DF210915F326C814E58BF"
+				"size" "1236045127AEF14BE356E6C13C90659F"
+				"download" "2009E7E2E786E63EDDF4798D14A57CFA"
 			}
 			"experimental"
 			{
@@ -370,15 +398,9 @@
 			}
 			"fe_hw"
 			{
-				"gid" "8C767194291080B2A33A15727E33F054"
-				"size" "EBD3712571B70B3CEEFEFD3E8880D369"
-				"download" "AC9F27C26A4474B739F2F5B903E3F946"
-			}
-			"fe_hw_2"
-			{
-				"gid" "CC96C1D5E771B86FFD4E90F362BC53CA"
-				"size" "122BD2781F7E69E9D1A9CD3DC5E74C0B"
-				"download" "CD5BC7859E3783C22B395C561E49C639"
+				"gid" "4638CAFA15A8D2594CAF01081DED2FE3"
+				"size" "C008A56AA73779FD3E4DD3BC089D2408"
+				"download" "2F8BE5481B3A5F950FECC8FF9B94649D"
 			}
 			"fe_video"
 			{
@@ -388,15 +410,15 @@
 			}
 			"focus_backup_dev"
 			{
-				"gid" "AC78DE544B1F21ECD6E69B92B81907EB"
-				"size" "F5D91942CE10648EB65F213795489E56"
-				"download" "1FFE14DBA8EB673AABFC5A3124391313"
+				"gid" "4AA510B13CD99EADD7AA60715F120CE9"
+				"size" "02E0753B128351E49527861A455DB159"
+				"download" "7178C2270C43A7B7E61411B9311F7334"
 			}
 			"focus_backup_rel"
 			{
-				"gid" "D2AF670F98AF0CD6B829219FA108CEE8"
-				"size" "53B666D83E0FFF280B522A02DEFC8CB3"
-				"download" "5FA5C8AEE67B83D1EDBAA0239E3FA00F"
+				"gid" "7004CBC382E6361AB24A90BB860B4319"
+				"size" "2B5D5D8EA3266EA12644CD5EE8A21810"
+				"download" "E545450BDFCE1A882A2D0E7F6F10725B"
 			}
 			"focus_lqa"
 			{
@@ -406,15 +428,15 @@
 			}
 			"focus_patch_candidate_dev"
 			{
-				"gid" "EB437D0E62B0E538A8329EFE402896DC"
-				"size" "7D20AD5B74E3D3564DD78683566FBBF2"
-				"download" "6CB148089F157CD529877E93ECB035D2"
+				"gid" "E4BD88864EC5C1D2A0A4674A7ADEC50A"
+				"size" "7C71F4A1150CE2D6F039A5FD08E71E04"
+				"download" "8C8252F4662FF72A0ECA14368D6CAE09"
 			}
 			"focus_patch_candidate_rel"
 			{
-				"gid" "84F060006BEE5DB9685D154E0C034A93"
-				"size" "E039A442D3D326C49DA587F010C34E8F"
-				"download" "9F87B767D6CFAB84F322B6A40C77F510"
+				"gid" "AB788D5D67D2C06F16BF5AFF122B22F6"
+				"size" "111C9CADDDAD985A17347F61C1EB588B"
+				"download" "28EAC58B4A738C8DAB5B45B79CF74DA7"
 			}
 			"focus_production"
 			{
@@ -424,15 +446,15 @@
 			}
 			"focus_update_candidate_dev"
 			{
-				"gid" "F95B08C8494FB2B237F3FDE8902C9C37"
-				"size" "C16398518B196DDBFFFF66FF7F521328"
-				"download" "E4535B73173091F4B65BE0D950E0BD7E"
+				"gid" "AA21B64F7E0F20392F258B2BB80038AC"
+				"size" "FAD52C3F5721B08B6966F67D4D221CFB"
+				"download" "009F8EDDDD4654A09FE27EA791BFACEE"
 			}
 			"focus_update_candidate_rel"
 			{
-				"gid" "BC48B616B22D273465623DDCA2945660"
-				"size" "CE3E64D6ABF42635E4F62DBBDD36C7FF"
-				"download" "FB897B3D894FA3408C89CC92945F7EB0"
+				"gid" "9140CF1E7C759D6ED1095C0C5D5C951A"
+				"size" "EEF338BA63388837CE97D7969FA2D162"
+				"download" "7267D6E3A269FDC705AD0340116242A0"
 			}
 			"hutlihut_custom"
 			{
@@ -448,15 +470,15 @@
 			}
 			"hutlihut_qa"
 			{
-				"gid" "C1F7CD71077BF6D92E17744E21781D42"
-				"size" "BB487C6E9B956C54556452C7FADA5893"
-				"download" "8B2B112E3A36FC5F5CEB54B9E983C0DE"
+				"gid" "D18228B02E30E65FE76C872204CF7EC5"
+				"size" "48DDF7E0010585484233164FF9D8C2AE"
+				"download" "9F97C98B29946D72DD1410128828E464"
 			}
 			"hutlihut_qa2"
 			{
-				"gid" "FBB2DB701D4B88A110822FFA2BB1347C"
-				"size" "A6A42768F731279883D5A8DDB0C80250"
-				"download" "6973518FB807F20317C094090EACD4DE"
+				"gid" "9764933FFC074E171256D4A32F5E36D6"
+				"size" "7344EBC03AB3C0FA34A818CF35847F98"
+				"download" "E3C30A71B02B9E9DFB5607CB4938A850"
 			}
 			"hutlihut_steamdeck"
 			{
@@ -470,8 +492,8 @@
 	{
 		"public"
 		{
-			"buildid" "16142976"
-			"timeupdated" "1729702530"
+			"buildid" "16445325"
+			"timeupdated" "1732553277"
 		}
 		"focus_live_dev"
 		{
@@ -487,27 +509,27 @@
 		}
 		"ab_development"
 		{
-			"buildid" "16181661"
+			"buildid" "16501923"
 			"pwdrequired" "1"
-			"timeupdated" "1729865700"
+			"timeupdated" "1732288522"
 		}
 		"ab_manual_request"
 		{
-			"buildid" "16125246"
+			"buildid" "16524573"
 			"pwdrequired" "1"
-			"timeupdated" "1729529756"
+			"timeupdated" "1732541284"
 		}
 		"ab_release_candidate"
 		{
-			"buildid" "16142976"
+			"buildid" "16445325"
 			"pwdrequired" "1"
-			"timeupdated" "1729637343"
+			"timeupdated" "1731940785"
 		}
 		"ab_staging"
 		{
-			"buildid" "16137774"
+			"buildid" "16445255"
 			"pwdrequired" "1"
-			"timeupdated" "1729607649"
+			"timeupdated" "1731940444"
 		}
 		"experimental"
 		{
@@ -523,15 +545,9 @@
 		}
 		"fe_hw"
 		{
-			"buildid" "15470120"
+			"buildid" "16234782"
 			"pwdrequired" "1"
-			"timeupdated" "1724741733"
-		}
-		"fe_hw_2"
-		{
-			"buildid" "14472189"
-			"pwdrequired" "1"
-			"timeupdated" "1717427895"
+			"timeupdated" "1730717073"
 		}
 		"fe_video"
 		{
@@ -541,15 +557,15 @@
 		}
 		"focus_backup_dev"
 		{
-			"buildid" "15823883"
+			"buildid" "16299157"
 			"pwdrequired" "1"
-			"timeupdated" "1727941948"
+			"timeupdated" "1730985229"
 		}
 		"focus_backup_rel"
 		{
-			"buildid" "15461775"
+			"buildid" "16299401"
 			"pwdrequired" "1"
-			"timeupdated" "1724848492"
+			"timeupdated" "1730985172"
 		}
 		"focus_lqa"
 		{
@@ -559,15 +575,15 @@
 		}
 		"focus_patch_candidate_dev"
 		{
-			"buildid" "16142101"
+			"buildid" "16369767"
 			"pwdrequired" "1"
-			"timeupdated" "1729667924"
+			"timeupdated" "1731401230"
 		}
 		"focus_patch_candidate_rel"
 		{
-			"buildid" "16142976"
+			"buildid" "16288227"
 			"pwdrequired" "1"
-			"timeupdated" "1729667935"
+			"timeupdated" "1730729712"
 		}
 		"focus_production"
 		{
@@ -577,15 +593,15 @@
 		}
 		"focus_update_candidate_dev"
 		{
-			"buildid" "16125193"
+			"buildid" "16445255"
 			"pwdrequired" "1"
-			"timeupdated" "1729580895"
+			"timeupdated" "1731941723"
 		}
 		"focus_update_candidate_rel"
 		{
-			"buildid" "16125246"
+			"buildid" "16445325"
 			"pwdrequired" "1"
-			"timeupdated" "1729580968"
+			"timeupdated" "1731941734"
 		}
 		"hutlihut_custom"
 		{
@@ -601,15 +617,15 @@
 		}
 		"hutlihut_qa"
 		{
-			"buildid" "16125193"
+			"buildid" "16341393"
 			"pwdrequired" "1"
-			"timeupdated" "1729529667"
+			"timeupdated" "1731067731"
 		}
 		"hutlihut_qa2"
 		{
-			"buildid" "16069112"
+			"buildid" "16377903"
 			"pwdrequired" "1"
-			"timeupdated" "1729244608"
+			"timeupdated" "1731412336"
 		}
 		"hutlihut_steamdeck"
 		{
@@ -620,6 +636,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25897790"
-"_sha" "3928d2c498ac2ff080909ab561c9779eb36ffb90"
-"_size" "12779"
+"_change_number" "26352641"
+"_sha" "14b1c09e69d276c8254d26baac15c2ab00792c5a"
+"_size" "13305"
