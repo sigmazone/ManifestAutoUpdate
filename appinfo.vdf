@@ -29,6 +29,10 @@
 		"brazilian" "1"
 		"bulgarian" "1"
 	}
+	"name_localized"
+	{
+		"schinese" "Roboquest (机械守护者)"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -82,10 +86,12 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "618b592eea186e7f5d4d14b380d541427f98d7c1/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
@@ -149,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723623994"
+	"store_asset_mtime" "1732720146"
 	"associations"
 	{
 		"0"
@@ -277,9 +283,9 @@
 		"14" "1759"
 		"15" "3859"
 		"16" "3839"
-		"17" "4305"
-		"18" "4182"
-		"19" "1716"
+		"17" "1716"
+		"18" "4305"
+		"19" "4182"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -339,42 +345,36 @@
 		{
 			"public"
 			{
-				"gid" "6363724331386019911"
-				"size" "5418910276"
-				"download" "5156052512"
+				"gid" "4964060979210007685"
+				"size" "5429654804"
+				"download" "5165775840"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"dev_crossnetwork"
-			{
-				"gid" "ECD4C03BD06DBF7744CB0E16FEBBC507"
-				"size" "68F526851D4EC4F64D17B7E1D5BCC300"
-				"download" "0366DB3F979CAD3A4090121602CA4AD8"
-			}
 			"gamescom"
 			{
 				"gid" "11EECA7E64C8E4B151A98299A3798FEE"
 				"size" "F920B32CA489673AC683A5D50AECEE0F"
 				"download" "4AF96666216A9B600C1734621DFB8718"
 			}
-			"rqdemo"
+			"dev_crossnetwork"
 			{
-				"gid" "8A29549CF3055B06A548984D7AD141BE"
-				"size" "0AC2D510F7B894BD1CB1B721BC309333"
-				"download" "86C5D0C036FE486BD5E7AE7F15B1C56F"
+				"gid" "3002ADBCAA99D4F07E57C84CCED9DEFE"
+				"size" "14D54E03F3A143E7E4444F3F003ED7D0"
+				"download" "F728F2D0F7E0FE83C2C67D4855959874"
 			}
 			"developer"
 			{
-				"gid" "FC5CBDCB14DBE31130DB3D2D9BBAD497"
-				"size" "C470EDE339D0F4B6D5FF74E5748775FC"
-				"download" "0EE9EDB30F2A4B9CD9514C097055AD22"
+				"gid" "81F2B40C51B472D8483DA7E90B8359EE"
+				"size" "20020036EE004A1CACCFBE3DF82CF538"
+				"download" "4D717B991A6C7D87BFAF16277BD8A737"
 			}
 			"playtest_council"
 			{
-				"gid" "CB621DE5CB271538D3C4505F641C8C17"
-				"size" "2FB74347E46C08B9C08CCEC9B76C477A"
-				"download" "AB8C34BD7BE91627FD3EF6871D0FF263"
+				"gid" "AD989E5C892A38706D68CC1FEF219978"
+				"size" "59FEEFC7467591D8FB410444AE07A044"
+				"download" "FD9B7B4D9882D87E45DFA46C8415ED5F"
 			}
 			"prerelease_cellsupdate_private"
 			{
@@ -388,17 +388,35 @@
 				"size" "9A99A780AA8BD58BE46EE428FFB9576C"
 				"download" "D8ADAE1383081699CEA04EDE02F9C785"
 			}
+			"prerelease_endlessupdate"
+			{
+				"gid" "C49A8654E87D32CA924F846467347607"
+				"size" "E3CA0557D424AA25AEBD54EE7939C1B3"
+				"download" "3EE3A593006A310AAF57CF69986DF559"
+			}
+			"prerelease_localization"
+			{
+				"gid" "CC844E1FBB34A98CE4AF392597058619"
+				"size" "71D0E251F34DB70FAEBE34C1897DD68B"
+				"download" "402B69B38074CA0EF73F3B0AB5A8F46A"
+			}
 			"prerelease_pingle"
 			{
-				"gid" "80134293CB637A2489E7F41CC3FCBC26"
-				"size" "EDBCC18D55E5694E3689CD3C6AC779B5"
-				"download" "B6ED203C002BE764ED108678F099AA34"
+				"gid" "A176626979EBA5E3B92748F71CDF0107"
+				"size" "355461EEAF6AF1A7DE108B8A8E44744D"
+				"download" "2DD06A30A15287F35C82AC3862A04294"
+			}
+			"rqdemo"
+			{
+				"gid" "3E6F7755BC53DD37C89A6AFA13BD1734"
+				"size" "F3C9CE0705418FB6A4758D4D0C2E1DA7"
+				"download" "D97588EE705CB9AD659D650FFCAA795F"
 			}
 			"staging"
 			{
-				"gid" "0C6109473F5459AACD56167F286568D7"
-				"size" "F2BE58D7D6D6E536017BC18A0ABB1236"
-				"download" "5E0F19B37EF7184725990C4443EA2ACD"
+				"gid" "2DE02B8B037B8BA1A4E85C65C3D9053D"
+				"size" "6FDADE869E9047725208ED518A8BC10E"
+				"download" "6D8023CF214C641EB9861679907C1752"
 			}
 		}
 	}
@@ -458,11 +476,29 @@
 				"size" "30BC976E26B8F4ADD08167079E21EDAE"
 				"download" "81882E3330F2DD47A70EC52919AA6F9E"
 			}
+			"prerelease_endlessupdate"
+			{
+				"gid" "42E1B1CD3D3C2B5A45E6B5E9A812C147"
+				"size" "83B0A629BDBC8257471EECD7F5EF09D0"
+				"download" "C6A5AD6AA05B4A9164C4B30E99D2F171"
+			}
+			"prerelease_localization"
+			{
+				"gid" "EE7F5F13280B4829E7B0717F10AC420C"
+				"size" "C34851DC1D2C8ACAB3B83E13CC0D6659"
+				"download" "C51BC5C82F2EFFF62C835D4A8C96FCFC"
+			}
 			"prerelease_pingle"
 			{
 				"gid" "43583BC536C1627F8354B314493B006C"
 				"size" "3176DE3FC2514B70D77231824B1B0A20"
 				"download" "3F9077894E4219FD62B2A8E94C632E91"
+			}
+			"rqdemo"
+			{
+				"gid" "A4DCED5B07AD430232CA944B0C7BB359"
+				"size" "88763F53FC356E50839B8B5C9817418B"
+				"download" "F4CD04FE5A51303F693660DE893F22D9"
 			}
 			"staging"
 			{
@@ -476,14 +512,8 @@
 	{
 		"public"
 		{
-			"buildid" "15450637"
-			"timeupdated" "1724332802"
-		}
-		"dev_crossnetwork"
-		{
-			"buildid" "13926766"
-			"pwdrequired" "1"
-			"timeupdated" "1712086078"
+			"buildid" "16526947"
+			"timeupdated" "1732716008"
 		}
 		"gamescom"
 		{
@@ -491,23 +521,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1697613311"
 		}
-		"rqdemo"
+		"dev_crossnetwork"
 		{
-			"buildid" "12491697"
+			"buildid" "16377830"
 			"pwdrequired" "1"
-			"timeupdated" "1697798244"
+			"timeupdated" "1731417720"
 		}
 		"developer"
 		{
-			"buildid" "15771334"
+			"buildid" "16326615"
 			"pwdrequired" "1"
-			"timeupdated" "1726840009"
+			"timeupdated" "1730985570"
 		}
 		"playtest_council"
 		{
-			"buildid" "15757432"
+			"buildid" "16526947"
 			"pwdrequired" "1"
-			"timeupdated" "1726755560"
+			"timeupdated" "1732563498"
 		}
 		"prerelease_cellsupdate_private"
 		{
@@ -521,17 +551,35 @@
 			"pwdrequired" "1"
 			"timeupdated" "1723032854"
 		}
+		"prerelease_endlessupdate"
+		{
+			"buildid" "16526947"
+			"pwdrequired" "1"
+			"timeupdated" "1732563488"
+		}
+		"prerelease_localization"
+		{
+			"buildid" "16290159"
+			"pwdrequired" "1"
+			"timeupdated" "1730740477"
+		}
 		"prerelease_pingle"
 		{
-			"buildid" "15100310"
+			"buildid" "16540929"
 			"pwdrequired" "1"
-			"timeupdated" "1721652511"
+			"timeupdated" "1732640031"
+		}
+		"rqdemo"
+		{
+			"buildid" "15950693"
+			"pwdrequired" "1"
+			"timeupdated" "1728290808"
 		}
 		"staging"
 		{
-			"buildid" "15450637"
+			"buildid" "16526947"
 			"pwdrequired" "1"
-			"timeupdated" "1724311994"
+			"timeupdated" "1732560061"
 		}
 	}
 }
@@ -583,3 +631,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26387878"
+"_sha" "91f7abe364f57309c08a62bb2504e2787406e248"
+"_size" "12413"
