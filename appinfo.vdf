@@ -13,8 +13,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1718236800"
-		"tested_build_id" "14530485"
+		"test_timestamp" "1729209600"
+		"tested_build_id" "15770432"
 		"tests"
 		{
 			"0"
@@ -40,7 +40,7 @@
 		}
 		"configuration"
 		{
-			"supported_input" "gamepad"
+			"supported_input" "other"
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
@@ -48,7 +48,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -56,13 +56,13 @@
 	}
 	"small_capsule"
 	{
-		"english" "d6bd770aa988ed32d6a1517e43443352a9afe5c6/capsule_231x87.jpg"
-		"french" "56234491fb962a1cc8897ae545bd1a545fda00e7/capsule_231x87_french.jpg"
-		"german" "1387ed1c5a813433fc1122434819969fbb432e6e/capsule_231x87_german.jpg"
-		"italian" "911692863124b224ced9e967d51e90d654391796/capsule_231x87_italian.jpg"
-		"brazilian" "f60f469e9f1836afbaf6b4576ff0b5b49427bea3/capsule_231x87_brazilian.jpg"
-		"spanish" "772b51ee58f63c1a85123da42f3b495d6f771e73/capsule_231x87_spanish.jpg"
-		"latam" "772b51ee58f63c1a85123da42f3b495d6f771e73/capsule_231x87_latam.jpg"
+		"english" "87412847a2606208b555314f0dceb6858fe5da9f/capsule_231x87.jpg"
+		"french" "1b9114171e4164a22a5e09d2d71dcf4672510ea4/capsule_231x87_french.jpg"
+		"german" "78f4e0acf47f91bf07cce989cd931af647dac281/capsule_231x87_german.jpg"
+		"italian" "c2911c8709f6e615d97b671d90a46f1d511d6436/capsule_231x87_italian.jpg"
+		"brazilian" "7f16a8b3f3bc9eab3695f5d64d03a82d9354109a/capsule_231x87_brazilian.jpg"
+		"spanish" "a4ce0a482b2d6b9f45eb9a68caec8281ed28ca17/capsule_231x87_spanish.jpg"
+		"latam" "a4ce0a482b2d6b9f45eb9a68caec8281ed28ca17/capsule_231x87_latam.jpg"
 	}
 	"header_image"
 	{
@@ -79,6 +79,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "UpperCenter"
@@ -127,8 +128,15 @@
 				"height_pct" "41.51555450011873"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ac622b0b45b9a5e3e03bb8727edef933bbbdd14c/library_header.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1727795945"
+	"store_asset_mtime" "1732550510"
 	"associations"
 	{
 		"0"
@@ -141,8 +149,13 @@
 			"type" "publisher"
 			"name" "Marmalade Game Studio Ltd"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Marmalade Game Studio Ltd"
+		}
 	}
-	"primary_genre" "4"
+	"primary_genre" "2"
 	"genres"
 	{
 		"0" "4"
@@ -198,26 +211,26 @@
 	"gameid" "2506480"
 	"store_tags"
 	{
-		"0" "14139"
-		"1" "3813"
-		"2" "1664"
-		"3" "6378"
-		"4" "5613"
-		"5" "8369"
-		"6" "1775"
-		"7" "1770"
-		"8" "1666"
-		"9" "17389"
-		"10" "1741"
-		"11" "9"
-		"12" "597"
-		"13" "599"
-		"14" "5350"
-		"15" "6129"
-		"16" "5716"
-		"17" "3859"
-		"18" "7368"
-		"19" "4182"
+		"0" "5613"
+		"1" "6378"
+		"2" "1770"
+		"3" "1664"
+		"4" "8369"
+		"5" "17389"
+		"6" "7368"
+		"7" "3859"
+		"8" "7178"
+		"9" "5716"
+		"10" "4711"
+		"11" "1741"
+		"12" "9"
+		"13" "5350"
+		"14" "6129"
+		"15" "4182"
+		"16" "597"
+		"17" "21"
+		"18" "4840"
+		"19" "4191"
 	}
 	"review_score" "8"
 	"review_percentage" "88"
@@ -227,7 +240,7 @@
 	"developer" "Marmalade Game Studio Ltd"
 	"publisher" "Marmalade Game Studio Ltd"
 	"homepage" "https://www.marmaladegamestudio.com"
-	"listofdlc" "2556790,2556800,2666740,2880150,3102720"
+	"listofdlc" "2556790,2556800,2666740,2880150,3102720,3252340"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -253,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "7592273234130367508"
-				"size" "1774005912"
-				"download" "1415854016"
+				"gid" "7915274743401629244"
+				"size" "2194804875"
+				"download" "1773559568"
 			}
 		}
 		"encryptedmanifests"
@@ -268,21 +281,21 @@
 			}
 			"development"
 			{
-				"gid" "6093BDFC0206967A903ECA5B3A26DF55"
-				"size" "2B6A9492FB37C80BA5515467C4DF041D"
-				"download" "69C343DCEC76DB00CEF95B9102FCEF65"
+				"gid" "8CC356179B5EE7A752F23C9DCAF1D645"
+				"size" "04FBDEA4DF3A186A3D87D2386B9325FB"
+				"download" "0240A0E269BF42311394C75984EB6530"
 			}
 			"hasbro"
 			{
-				"gid" "FD768661CBBCF64AB2C8E276953BE2A6"
-				"size" "7865769F2E5CC724A8572B9B3C567206"
-				"download" "C73A71934F5835B74710B9CEFD86FA89"
+				"gid" "A631170162A4D6B7D68F62991DCEF675"
+				"size" "FCCD62956B3D1E66325DE3519591ED56"
+				"download" "74F38026E103B9013CF6BD204F972E53"
 			}
 			"submission"
 			{
-				"gid" "C6BF7AF39AFA13822CC3121D1B9D33AE"
-				"size" "2C8772A1E36E3BCE92A01110EC82F45C"
-				"download" "86BBF0E76060B1C26F66409B3DC85FEE"
+				"gid" "E1469C75BF06E0702F1835052B29F20F"
+				"size" "F8D0FF3C00C3A8475A0EBCDD0638E56B"
+				"download" "07E1F866A6F7D10271B4F83D8029D0BB"
 			}
 		}
 	}
@@ -290,8 +303,8 @@
 	{
 		"public"
 		{
-			"buildid" "15770432"
-			"timeupdated" "1727793730"
+			"buildid" "16329507"
+			"timeupdated" "1732549378"
 		}
 		"external"
 		{
@@ -301,21 +314,21 @@
 		}
 		"development"
 		{
-			"buildid" "15757986"
+			"buildid" "16368233"
 			"pwdrequired" "1"
-			"timeupdated" "1726756362"
+			"timeupdated" "1731345523"
 		}
 		"hasbro"
 		{
-			"buildid" "14143785"
+			"buildid" "16069404"
 			"pwdrequired" "1"
-			"timeupdated" "1714126911"
+			"timeupdated" "1729159435"
 		}
 		"submission"
 		{
-			"buildid" "15770432"
+			"buildid" "16329507"
 			"pwdrequired" "1"
-			"timeupdated" "1726834645"
+			"timeupdated" "1730993390"
 		}
 	}
 }
@@ -334,3 +347,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26351694"
+"_sha" "6ec55df22e1b5f375f10788eeedf107b2a159e5b"
+"_size" "6977"
