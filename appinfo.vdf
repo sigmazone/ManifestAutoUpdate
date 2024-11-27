@@ -244,24 +244,24 @@
 		{
 			"public"
 			{
-				"gid" "4411637045891016181"
-				"size" "1142313363"
-				"download" "392203760"
+				"gid" "3449680693793585290"
+				"size" "1142321563"
+				"download" "392186416"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test_branch"
 			{
-				"gid" "F9EFF118B3293C64F81D046CCD5F65C7"
-				"size" "7F73F4323DD209A468639CB5656394B0"
-				"download" "0F18380525BA90CAE15EB2CC920234FF"
+				"gid" "FF8257CAD7B91707C6BB81117808017F"
+				"size" "F475DD3D973FA5520CFEBEB47073C4CC"
+				"download" "91EF8CB0424D0C3AD97A91AB824FB39F"
 			}
 			"vip_press"
 			{
-				"gid" "0C012F36E522F908165E26243C749A3E"
-				"size" "119A72591D1E12AE6B5B1E77EE9FBDF1"
-				"download" "BE10EB9CE0E203F9F0BA27EFFC0C7305"
+				"gid" "C92B277E5F6EAF603AD564F93C48CAFD"
+				"size" "ED3BF79D28B11BBFC454CF5A401C35DC"
+				"download" "A5D5990B146002962B22FFD92B181ECA"
 			}
 		}
 	}
@@ -269,24 +269,49 @@
 	{
 		"public"
 		{
-			"buildid" "16522617"
-			"timeupdated" "1732531191"
+			"buildid" "16550488"
+			"timeupdated" "1732702971"
 		}
 		"test_branch"
 		{
-			"buildid" "16522617"
+			"buildid" "16550488"
 			"pwdrequired" "1"
-			"timeupdated" "1732530267"
+			"timeupdated" "1732702474"
 		}
 		"vip_press"
 		{
-			"buildid" "16522617"
+			"buildid" "16550488"
 			"pwdrequired" "1"
-			"timeupdated" "1732531121"
+			"timeupdated" "1732702887"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Unleash the Giraffe\\SeersGambit\\SavedGames"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26350135"
-"_sha" "e204b98922df8303e2f7903e0fb55bb09e21b556"
-"_size" "5898"
+"_change_number" "26392398"
+"_sha" "94c78b83774dd58fc1ce66928636acbfcc762cd5"
+"_size" "6274"
