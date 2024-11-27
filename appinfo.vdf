@@ -1,0 +1,484 @@
+"appid" "1335830"
+"common"
+{
+	"name" "Len\'s Island"
+	"type" "Game"
+	"clienttga" "f2ea4f65c69448ca72ca8a7af545235fb77d5935"
+	"clienticon" "dea130990b088785e74af947082e3bb1f5a6a301"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "f403759b8f7928888829a2d23175f41f55861d8a"
+	"logo" "6d66f5a57a7ebb0c0d7695653c29ca19111142cb"
+	"logo_small" "6d66f5a57a7ebb0c0d7695653c29ca19111142cb_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695168000"
+		"tested_build_id" "12204809"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "40.896751962845485"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "40.896751962845485"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732023219"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flow Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Flow Studio"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1637942357"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1335830"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1720"
+		"2" "4520"
+		"3" "1662"
+		"4" "1643"
+		"5" "30358"
+		"6" "1695"
+		"7" "3810"
+		"8" "1702"
+		"9" "3834"
+		"10" "5716"
+		"11" "21"
+		"12" "493"
+		"13" "19"
+		"14" "3993"
+		"15" "4182"
+		"16" "7332"
+		"17" "6730"
+		"18" "5125"
+		"19" "4145"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Flow Studio"
+	"publisher" "Flow Studio"
+	"homepage" "https://www.lensisland.com/"
+}
+"config"
+{
+	"installdir" "Len\'s Island"
+	"steamcontrollertemplateindex" "2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Len\'s Island.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Len\'s Island.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1335831"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7883124806816022221"
+				"size" "4075173691"
+				"download" "2152420080"
+			}
+			"legacybranch"
+			{
+				"gid" "1417711526324644959"
+				"size" "2887459230"
+				"download" "799610304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch"
+			{
+				"gid" "AB717367A19E6C207D7E519E02E344A0"
+				"size" "EDA64C8B4EEDD844545903E6F2E0D8FF"
+				"download" "D73B4FF6F87A1196F4B0D0C2276FEA25"
+			}
+			"testbranch"
+			{
+				"gid" "3DC9743828EDA841C0760AD79023BEDD"
+				"size" "DF2EB82F265604655C3FE2770A6FAC64"
+				"download" "8B9E8857ABF14A6984B9D9391E2F17A3"
+			}
+			"bugbranch"
+			{
+				"gid" "3A2EBAEF5F78D8E507B7617A8AD00FC8"
+				"size" "6D9D6FE5C73501B2E964E65A68427054"
+				"download" "E4322ABABBEA761D96ED2C5F377E4DE8"
+			}
+			"alphabranch"
+			{
+				"gid" "2947874C716B92DB67D06E3699881E3A"
+				"size" "078A7350239D62A1838F4EB6DAAC1C44"
+				"download" "D25B3EDD7D91E8ED17C65E7428D20F70"
+			}
+			"betabranch"
+			{
+				"gid" "582F402931E3FAA93CDFEBB45D80DE53"
+				"size" "38312CE9A0AE25E43C23F1AFD893DCDE"
+				"download" "F9CA0B89C917B53672BB82C9888457DF"
+			}
+		}
+	}
+	"1335832"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8283078379131259062"
+				"size" "4112321887"
+				"download" "2159446912"
+			}
+			"legacybranch"
+			{
+				"gid" "3585282486280054515"
+				"size" "2914611508"
+				"download" "807673872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch"
+			{
+				"gid" "C5FE061FC6BF6C7F31D823535C0631F8"
+				"size" "FBEFE34A531F508181EC3B14311C6F6C"
+				"download" "6E03C8062EA002E168ECB19FFB27923A"
+			}
+			"testbranch"
+			{
+				"gid" "92C26DA3EB587F0FB3A7529FF9366F28"
+				"size" "18944BEED1A6F46FC66E5942C0689262"
+				"download" "472E7455ABB5211EE801B6D41ACD763D"
+			}
+			"bugbranch"
+			{
+				"gid" "D666E209201B0ABB8A3745F8A6FABAD9"
+				"size" "3BAC57D3D22C29A62FBB811221486FD8"
+				"download" "78E23F0809C93F9B04778B815CA163DF"
+			}
+			"alphabranch"
+			{
+				"gid" "C4679BAADFED3978E6B4FBCFB73EAD49"
+				"size" "26C340D5354B12641B3CA438B3228248"
+				"download" "FCB99F2B17B204990C1357C3E655683A"
+			}
+			"betabranch"
+			{
+				"gid" "0BCB257843D4A326D4AC3EFF6F2B9B1F"
+				"size" "424C3E09934D876C0E4AE16E971B94F1"
+				"download" "790D65DE2BF21815E458E8BB57D94EE0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16550109"
+			"timeupdated" "1732701946"
+		}
+		"devbranch"
+		{
+			"buildid" "16550109"
+			"pwdrequired" "1"
+			"timeupdated" "1732700393"
+		}
+		"testbranch"
+		{
+			"buildid" "15102639"
+			"pwdrequired" "1"
+			"timeupdated" "1721541205"
+		}
+		"bugbranch"
+		{
+			"buildid" "14184063"
+			"pwdrequired" "1"
+			"timeupdated" "1714126140"
+		}
+		"legacybranch"
+		{
+			"buildid" "8992030"
+			"description" "Old Legacy Version of Len\'s Island"
+			"timeupdated" "1671208971"
+		}
+		"alphabranch"
+		{
+			"buildid" "16549228"
+			"pwdrequired" "1"
+			"timeupdated" "1732695378"
+		}
+		"betabranch"
+		{
+			"buildid" "16067471"
+			"pwdrequired" "1"
+			"timeupdated" "1729089958"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Flow Studio/Len\'s Island/Steam/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Flow Studio/Len\'s Island/Steam/{64BitSteamID}"
+					"replace" "com.FlowStudio.LensIsland/Steam/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26389176"
+"_sha" "fbf613e96a512115ffce7a62a60df891e089cd19"
+"_size" "9100"
