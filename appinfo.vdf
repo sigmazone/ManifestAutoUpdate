@@ -91,7 +91,49 @@
 			"height_pct" "97.93450073553697"
 		}
 	}
-	"store_asset_mtime" "1700523294"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "54.163015594317415"
+				"height_pct" "97.93450073553697"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732664362"
 	"associations"
 	{
 		"0"
@@ -124,6 +166,7 @@
 		"category_52" "1"
 		"category_20" "1"
 		"category_54" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -197,15 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "5312220902343152184"
-				"size" "16006829918"
-				"download" "7320618928"
-			}
-			"beta"
-			{
-				"gid" "6478006095400140995"
-				"size" "15835844630"
-				"download" "7282851872"
+				"gid" "6920983089678768348"
+				"size" "16367250431"
+				"download" "7476444304"
 			}
 			"legacy"
 			{
@@ -218,6 +255,12 @@
 				"gid" "1245945571292849031"
 				"size" "12421805691"
 				"download" "5592919440"
+			}
+			"beta"
+			{
+				"gid" "1944481773172224165"
+				"size" "16341137139"
+				"download" "7355066368"
 			}
 		}
 		"encryptedmanifests"
@@ -258,6 +301,12 @@
 				"size" "8BD9D93BA873D4BFF00ACAA0EC42B607"
 				"download" "29D8C61975EB4D7EFDD0D5DC53E3F4F1"
 			}
+			"oldtest"
+			{
+				"gid" "E617C24127EE5EF711193D6820AFA31B"
+				"size" "9F7A8658B93CEAF2C7536BEFA8926CA1"
+				"download" "C73A89251B65DBFA636A3C8240BC8739"
+			}
 		}
 	}
 	"workshopdepot" "957790"
@@ -265,20 +314,14 @@
 	{
 		"public"
 		{
-			"buildid" "13766925"
-			"timeupdated" "1710687546"
+			"buildid" "16549789"
+			"timeupdated" "1732699230"
 		}
 		"alpha"
 		{
 			"buildid" "7156518"
 			"pwdrequired" "1"
 			"timeupdated" "1628424492"
-		}
-		"beta"
-		{
-			"buildid" "13378376"
-			"description" "current main beta for new WarDust"
-			"timeupdated" "1707207072"
 		}
 		"lastworkingbuild"
 		{
@@ -322,6 +365,18 @@
 			"pwdrequired" "1"
 			"timeupdated" "1651817933"
 		}
+		"beta"
+		{
+			"buildid" "16538971"
+			"description" "current main beta for new WarDust"
+			"timeupdated" "1732631044"
+		}
+		"oldtest"
+		{
+			"buildid" "6840986"
+			"pwdrequired" "1"
+			"timeupdated" "1718015240"
+		}
 	}
 }
 "ufs"
@@ -332,6 +387,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "22799481"
-"_sha" "71711334cf991e7bf9c22ba11750b0fb49bf8f14"
-"_size" "6455"
+"_change_number" "26382366"
+"_sha" "3a0cfd1005afb800480246c3de4ef1ce0b841f33"
+"_size" "7380"
