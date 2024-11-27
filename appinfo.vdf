@@ -1,0 +1,377 @@
+"appid" "2142790"
+"common"
+{
+	"name" "Fields of Mistria"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "b312f853807ee70dd58eb52fa0815ad53079de58"
+	"clienticon" "313699d322c8995d4ec8e601a4d4f18d004232af"
+	"icon" "a7d749ad644f89eaed4180d8f88e6256e5d3d509"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2142790_eula_0"
+			"name" "Fields of Mistria EULA"
+			"url" "https://store.steampowered.com//eula/2142790_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1724198400"
+		"tested_build_id" "15373679"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "c653e0ddd72698a03b70cd6c87221fc95ddec873/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.55531284131689"
+			"height_pct" "75.34722222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "382c0b0cca3c106195c81eb9e04097175b7e8af7/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "382c0b0cca3c106195c81eb9e04097175b7e8af7/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.55531284131689"
+				"height_pct" "75.34722222222223"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732653796"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NPC Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NPC Studio"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1722876506"
+	"community_hub_visible" "1"
+	"gameid" "2142790"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "87918"
+		"2" "9551"
+		"3" "599"
+		"4" "10235"
+		"5" "4947"
+		"6" "4520"
+		"7" "4726"
+		"8" "22602"
+		"9" "1654"
+		"10" "4085"
+		"11" "3810"
+		"12" "3964"
+		"13" "1695"
+		"14" "3871"
+		"15" "1702"
+		"16" "1643"
+		"17" "3920"
+		"18" "5981"
+		"19" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "NPC Studio"
+	"publisher" "NPC Studio"
+	"homepage" "https://fieldsofmistria.com"
+}
+"config"
+{
+	"installdir" "Fields of Mistria"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FieldsOfMistria.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "private"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3300973484"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2142791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7144256991808241816"
+				"size" "365447315"
+				"download" "185638560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-staging"
+			{
+				"gid" "55868D9A2EC60C7DBC4689F750FB1541"
+				"size" "CF75EE7A103F79B34F04B3B317852B4B"
+				"download" "FFDC6B2E00C4BCD0174E2EEFD0892F8A"
+			}
+			"jpn-testing"
+			{
+				"gid" "B7A00E94B524490337CC6F93AA117DC8"
+				"size" "C8207F1E62328ABD54B410ECA1E30BCF"
+				"download" "04E474E133423BC1CA121350C10F1A16"
+			}
+			"main"
+			{
+				"gid" "1BE738BA7CE87A5A1BF0E1EAE6814A40"
+				"size" "25EFB7037494CAF6663329B9AC4DD964"
+				"download" "694B5B8680B04CE837B4A6D164791BFF"
+			}
+			"old-version"
+			{
+				"gid" "26C80762B0F19DD0BB6B5C8DFEBAB1C4"
+				"size" "AAADDA3F058D910BB0B2619B71C0E8A4"
+				"download" "FBE587A2A2C2C20EEAB790E78635C50A"
+			}
+			"qa-testing"
+			{
+				"gid" "7848B7C307CD9FD8E771F4011814284C"
+				"size" "9DEA315886594894A25E66B211577F63"
+				"download" "F3469604C8D777C3147671210122DA21"
+			}
+			"v0.12"
+			{
+				"gid" "8FE1E681D5558F4E52FF601561BF715A"
+				"size" "335C2131C09DCF4C4A71D115C6E4D841"
+				"download" "7C85FCBA1D31EB95BA5309CBF7C8FD37"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16534646"
+			"timeupdated" "1732644616"
+		}
+		"default-staging"
+		{
+			"buildid" "16534646"
+			"pwdrequired" "1"
+			"timeupdated" "1732608952"
+		}
+		"jpn-testing"
+		{
+			"buildid" "16532357"
+			"pwdrequired" "1"
+			"timeupdated" "1732591406"
+		}
+		"main"
+		{
+			"buildid" "16543091"
+			"pwdrequired" "1"
+			"timeupdated" "1732651526"
+		}
+		"old-version"
+		{
+			"buildid" "15685723"
+			"pwdrequired" "1"
+			"timeupdated" "1731962070"
+		}
+		"qa-testing"
+		{
+			"buildid" "16383659"
+			"pwdrequired" "1"
+			"timeupdated" "1731444339"
+		}
+		"v0.12"
+		{
+			"buildid" "16534648"
+			"pwdrequired" "1"
+			"timeupdated" "1732609006"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FieldsOfMistria/saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26374009"
+"_sha" "cf1ff131eda6fc02da4a13e1ea0fd628b244d4ca"
+"_size" "6973"
