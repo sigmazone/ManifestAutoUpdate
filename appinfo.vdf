@@ -50,6 +50,7 @@
 		}
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "a191a502e4c2dece349ac68a46fe3b58b956b688/capsule_231x87.jpg"
@@ -150,6 +151,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -219,6 +221,8 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -241,21 +245,27 @@
 		{
 			"public"
 			{
-				"gid" "3835592302430325114"
-				"size" "290294426"
-				"download" "112816992"
+				"gid" "1543420690612773653"
+				"size" "287526903"
+				"download" "112402448"
 			}
 			"beta"
 			{
-				"gid" "3835592302430325114"
-				"size" "290294426"
-				"download" "112816992"
+				"gid" "1543420690612773653"
+				"size" "287526903"
+				"download" "112402448"
+			}
+			"experimental"
+			{
+				"gid" "856319565012595053"
+				"size" "287526163"
+				"download" "112402288"
 			}
 			"intel_mac"
 			{
-				"gid" "1040169267301625409"
-				"size" "588041076"
-				"download" "176733296"
+				"gid" "5606826433138422745"
+				"size" "294985429"
+				"download" "122338352"
 			}
 		}
 	}
@@ -269,21 +279,27 @@
 		{
 			"public"
 			{
-				"gid" "5351765045513180491"
-				"size" "321330779"
-				"download" "128153616"
+				"gid" "6261077230619911961"
+				"size" "318724215"
+				"download" "127969872"
 			}
 			"beta"
 			{
-				"gid" "5351765045513180491"
-				"size" "321330779"
-				"download" "128153616"
+				"gid" "6261077230619911961"
+				"size" "318724215"
+				"download" "127969872"
+			}
+			"experimental"
+			{
+				"gid" "4537864760663296667"
+				"size" "318723475"
+				"download" "127969776"
 			}
 			"intel_mac"
 			{
-				"gid" "5351765045513180491"
-				"size" "321330779"
-				"download" "128153616"
+				"gid" "7636170446161118428"
+				"size" "318736511"
+				"download" "127970528"
 			}
 		}
 	}
@@ -291,20 +307,30 @@
 	{
 		"public"
 		{
-			"buildid" "15590066"
-			"timeupdated" "1725477188"
+			"buildid" "16529438"
+			"timeupdated" "1732633582"
 		}
 		"beta"
 		{
-			"buildid" "15590066"
+			"buildid" "16529438"
 			"description" "testing branch"
-			"timeupdated" "1725452429"
+			"timeupdated" "1732569382"
+		}
+		"experimental"
+		{
+			"buildid" "16506919"
+			"description" "super top secret"
+			"timeupdated" "1732322021"
 		}
 		"intel_mac"
 		{
-			"buildid" "15615636"
+			"buildid" "16553293"
 			"description" "Builds for Intel Mac Users"
-			"timeupdated" "1725623003"
+			"timeupdated" "1732716339"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26386737"
+"_sha" "a991282fc1641a51cf582c78600afe45a3e1925a"
+"_size" "5793"
