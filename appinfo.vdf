@@ -1,0 +1,395 @@
+"appid" "1746030"
+"common"
+{
+	"name" "山河旅探 Murders on the Yangtze River"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"icon" "8cc7a3d8ddfbe56e9ecb769c506a652edf4b2b24"
+	"logo" "22368ea7e4a4f55a5ee0d33c13c53ca8a37f469f"
+	"logo_small" "22368ea7e4a4f55a5ee0d33c13c53ca8a37f469f_thumb"
+	"clienttga" "a840664d84d478ff314be07ceaf22a70b79e4024"
+	"clienticns" "df1ffb609aa2d923309ab0038eb56e584c2dd555"
+	"linuxclienticon" "ef5aa9d7d95b8c65698edabd56bc4de8fd555e75"
+	"clienticon" "8fd8c1de25003c1209aa72e48437c4504cfa0aba"
+	"name_localized"
+	{
+		"sc_schinese" "山河旅探"
+		"english" "Murders on the Yangtze River"
+		"tchinese" "山河旅探 Murders on the Yangtze River"
+		"schinese" "山河旅探 - Murders on the Yangtze River"
+	}
+	"releasestatesteamchina" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1746030_eula_0"
+			"name" "山河旅探 EULA"
+			"url" "https://store.steampowered.com//eula/1746030_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1708473600"
+		"tested_build_id" "13429405"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_hero_schinese_2x.jpg"
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727232347"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "OMEGAMES STUDIO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "OMEGAMES STUDIO"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "NPC Entertainment"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706683918"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1746030"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1664"
+		"2" "5613"
+		"3" "492"
+		"4" "1742"
+		"5" "3834"
+		"6" "5537"
+		"7" "5984"
+		"8" "5716"
+		"9" "8369"
+		"10" "6129"
+		"11" "3987"
+		"12" "3854"
+		"13" "122"
+		"14" "4182"
+		"15" "31275"
+		"16" "3839"
+		"17" "3916"
+		"18" "3871"
+		"19" "4305"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "OMEGAMES STUDIO"
+	"publisher" "OMEGAMES STUDIO"
+	"homepage" "https://resource.itaotuo.com/website/shanhelvtan/index.html"
+}
+"config"
+{
+	"installdir" "山河旅探"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "shanhelvtan.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "shanhelvtan.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"1746031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8285405556773859921"
+				"size" "6647210681"
+				"download" "5204843312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "CADEB289DBB3E8FD6DB947EEE8C8A6B7"
+				"size" "DA88D05894F432CCB8B31F5B79C17BE0"
+				"download" "E6AEEA37F7A0BBD70EC47610CDEEF8CD"
+			}
+			"test_branch"
+			{
+				"gid" "2448103E8BB6E6FD9FB81856327AA5E0"
+				"size" "ADB55EFD1B171FFB371832A9AD3ADCBD"
+				"download" "F184F31D880C133D6B99FC30378277BB"
+			}
+		}
+	}
+	"1746032"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6419634032717834803"
+				"size" "6647500071"
+				"download" "5216525168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "042DF4C269F5DC6A4FFFF94B652252C6"
+				"size" "8A83217754EE7B4F06A7C0D961FF86C9"
+				"download" "161EAD5E5E5E416E73D13F9CCBCB049C"
+			}
+			"test_branch"
+			{
+				"gid" "1B83D82D7AF641427136DBFEA3C20CC1"
+				"size" "454E3A8E1C9D5D25F679E41C12670682"
+				"download" "BB0FFCC9FDCBBBC96291CF5D9406A017"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16550633"
+			"timeupdated" "1732706701"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "13739098"
+			"pwdrequired" "1"
+			"timeupdated" "1710474866"
+		}
+		"test_branch"
+		{
+			"buildid" "16550633"
+			"pwdrequired" "1"
+			"timeupdated" "1732703200"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OMESCAPE/山河旅探/SaveData"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26384301"
+"_sha" "39ed82d1e57688968c641a9b0342bfa29a327c35"
+"_size" "7628"
