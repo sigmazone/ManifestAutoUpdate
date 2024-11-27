@@ -1,0 +1,568 @@
+"appid" "1522160"
+"common"
+{
+	"name" "Disney Epic Mickey: Rebrushed"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "ディズニー エピックミッキー：Rebrushed"
+	}
+	"icon" "03c8d248249dea6f586abccc161b837ae4fb5bea"
+	"clienticon" "dd5d7177a85b7b968f17623d143414b24da05ad3"
+	"clienttga" "7b259040fc0463c4a159b343dcf15b5e61605f1d"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1727136000"
+		"tested_build_id" "15745129"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Disney Epic Mickey: Rebrushed"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.229871645274216"
+			"height_pct" "70.51769175967704"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.229871645274216"
+				"height_pct" "70.51769175967704"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732279305"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Purple Lamp"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_60" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727182791"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/disney-epic-mickey-rebrushed\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1522160"
+	"store_tags"
+	{
+		"0" "4106"
+		"1" "5395"
+		"2" "5708"
+		"3" "5350"
+		"4" "4486"
+		"5" "3798"
+		"6" "4182"
+		"7" "3834"
+		"8" "5537"
+		"9" "4057"
+		"10" "4562"
+		"11" "1664"
+		"12" "1742"
+		"13" "1625"
+		"14" "4726"
+		"15" "1697"
+		"16" "3854"
+		"17" "4136"
+		"18" "6426"
+		"19" "6971"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Purple Lamp"
+	"publisher" "THQ Nordic"
+	"homepage" "https://epicmickey.thqnordic.com"
+	"listofdlc" "2791920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Disney Epic Mickey Rebrushed"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rebrushed.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3261649444"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,codebase_staging,demo_shipping,demo_staging,internal_evaluation,lqa_branch,mainline,mainline_shipping,marketing_partner,marketing_thq,mockreview,ms_day1_shipping,ms_day1_staging,ms_goldmaster,ms_goldmaster_shipping,ms_goldmaster_staging,partner,profiling,showbuild_shipping,showbuild_staging,testgate_shipping,ws_branch"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1522161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4220722103960183356"
+				"size" "28923761591"
+				"download" "28107860864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "4CAFA6D65E5903CE8D88B7312E8093C4"
+				"size" "DC23C57868F75D4E3BF62AA7CE6D3B95"
+				"download" "C9F8CEAC4EB05226B500670255AA82F8"
+			}
+			"lqa_branch"
+			{
+				"gid" "07C11E90CBE5A3F2B531DF027A2824F9"
+				"size" "CE8DF4F6A50C71FFDEC015EE91C4448C"
+				"download" "D3EE28B84203B58AE4112BF075F5B604"
+			}
+			"mainline"
+			{
+				"gid" "AAAE07F7B9333229A6310F4E56AA694F"
+				"size" "F77D51D1E4355CBD506C02A7B513CEFD"
+				"download" "C76CAB151FE9C77DB30878FC476B9506"
+			}
+			"mainline_shipping"
+			{
+				"gid" "8DE4507E0E12AB0FABC219D0D4B0DDBF"
+				"size" "FC0499E676E8CC53C4565D7896B26560"
+				"download" "5DEB9B5626D38A9478CEB80B744C4034"
+			}
+			"marketing_thq"
+			{
+				"gid" "385273A8C46DF6601007A237BB716F96"
+				"size" "88E9785CD0A5227C2A3B66DB026CBF08"
+				"download" "70379EA3D39D803D6748959E88238709"
+			}
+			"ms_day1_shipping"
+			{
+				"gid" "3D7154A65F83AAE0660F681C308D51A3"
+				"size" "E9E566CC81D309C2D7911294A4EFB2FC"
+				"download" "617F14B389ACDE44105A7024CA3CC123"
+			}
+			"ms_day1_staging"
+			{
+				"gid" "2F56711399D988429191C6305A94F6E1"
+				"size" "DCA81A6AF7923EF711C3A596D6C52057"
+				"download" "BB30749A9534BF27090BDF3422358038"
+			}
+			"next_patch_shipping"
+			{
+				"gid" "67733F3A388478657FAA2ADF6DF8FBC2"
+				"size" "AA4773D6B2A0D5FF1501123E4F1359CA"
+				"download" "4CD1EFE85C8233F8765C8237F840DFF0"
+			}
+			"next_patch_staging"
+			{
+				"gid" "48F4E103D3DFC6B3C2BE389191DCDD72"
+				"size" "80A673B3B31723DD3C3D561E9A8DF852"
+				"download" "17F05E823A21CF54A0803E8AB217F30F"
+			}
+			"next_patch_testing"
+			{
+				"gid" "E0773303C451160BD9036FF0F7D9A933"
+				"size" "4FF3016A8BDBAE94415CBB297D30BECA"
+				"download" "6809B11458CAB9851E7B00ECBAF8AD54"
+			}
+			"partner"
+			{
+				"gid" "D2BE2B147CB7DC3EFC98969188E5EDF5"
+				"size" "4E05429D9A96017414B2609279A1435F"
+				"download" "03A7D80AE4192C4080F1F904036B0721"
+			}
+			"profiling"
+			{
+				"gid" "DD143696335EFFCEDD3FDE86B94B60C4"
+				"size" "3FF1D1BE0E4B3628F9094F664A888F33"
+				"download" "6226F5C822DE2DE55B319D4BFFCFE7B0"
+			}
+			"testgate_shipping"
+			{
+				"gid" "58BA1D1B4049E7EB42A46A17E6495A98"
+				"size" "D1786CFB733F22A105742DCA1376F0B7"
+				"download" "0ADFB23FD7C841658F098F32CB5A5554"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16411061"
+			"timeupdated" "1732628971"
+		}
+		"baseline"
+		{
+			"buildid" "15258944"
+			"pwdrequired" "1"
+			"timeupdated" "1722887512"
+		}
+		"lqa_branch"
+		{
+			"buildid" "15560893"
+			"pwdrequired" "1"
+			"timeupdated" "1725290300"
+		}
+		"mainline"
+		{
+			"buildid" "16479575"
+			"pwdrequired" "1"
+			"timeupdated" "1732149302"
+		}
+		"mainline_shipping"
+		{
+			"buildid" "16479569"
+			"pwdrequired" "1"
+			"timeupdated" "1732149258"
+		}
+		"marketing_thq"
+		{
+			"buildid" "15122496"
+			"pwdrequired" "1"
+			"timeupdated" "1721733939"
+		}
+		"ms_day1_shipping"
+		{
+			"buildid" "15745129"
+			"pwdrequired" "1"
+			"timeupdated" "1726676551"
+		}
+		"ms_day1_staging"
+		{
+			"buildid" "15745139"
+			"pwdrequired" "1"
+			"timeupdated" "1726676608"
+		}
+		"next_patch_shipping"
+		{
+			"buildid" "16486716"
+			"pwdrequired" "1"
+			"timeupdated" "1732194947"
+		}
+		"next_patch_staging"
+		{
+			"buildid" "16411061"
+			"pwdrequired" "1"
+			"timeupdated" "1732109013"
+		}
+		"next_patch_testing"
+		{
+			"buildid" "16408625"
+			"pwdrequired" "1"
+			"timeupdated" "1731601422"
+		}
+		"partner"
+		{
+			"buildid" "16411061"
+			"pwdrequired" "1"
+			"timeupdated" "1732524519"
+		}
+		"profiling"
+		{
+			"buildid" "16328436"
+			"pwdrequired" "1"
+			"timeupdated" "1730988101"
+		}
+		"testgate_shipping"
+		{
+			"buildid" "14212397"
+			"pwdrequired" "1"
+			"timeupdated" "1714429899"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "recolored/Saved/{64BitSteamID}/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26367597"
+"_sha" "225d0152a142ff3280ef99c5131fc4461a85c5d0"
+"_size" "11118"
