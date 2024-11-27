@@ -155,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730192018"
+	"store_asset_mtime" "1730877592"
 	"associations"
 	{
 		"0"
@@ -182,6 +182,7 @@
 		"category_22" "1"
 		"category_15" "1"
 		"category_23" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -251,6 +252,7 @@
 	}
 	"steam_release_date" "1723092525"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2726870"
 	"store_tags"
@@ -297,6 +299,12 @@
 			{
 				"oslist" "windows"
 			}
+			"description_loc"
+			{
+				"english" "Default Launcher"
+				"schinese" "正常游玩"
+			}
+			"description" "Default Launcher"
 		}
 	}
 }
@@ -309,18 +317,24 @@
 		{
 			"public"
 			{
-				"gid" "6951766889614040519"
-				"size" "2808860913"
-				"download" "724852448"
+				"gid" "1672603007616646364"
+				"size" "1606836415"
+				"download" "518147760"
+			}
+			"alpha"
+			{
+				"gid" "7603640487207308068"
+				"size" "1846664863"
+				"download" "533140176"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"workshop"
 			{
-				"gid" "9188E5BB049C1772C87A9B93E7F27408"
-				"size" "AF171C92E766DB44E941254C072DBCCF"
-				"download" "D11A5DAEDE50D276B8BB0CC5994AB1B3"
+				"gid" "DD74F92BD41874573DD9AE23FC3DC7F9"
+				"size" "7312D02BD5A3E8BC93D9B059D5FD085B"
+				"download" "8F4B40919F27C7373D987823ED2AF9B9"
 			}
 		}
 	}
@@ -332,14 +346,20 @@
 	{
 		"public"
 		{
-			"buildid" "16282967"
-			"timeupdated" "1730688460"
+			"buildid" "16554213"
+			"timeupdated" "1732720617"
+		}
+		"alpha"
+		{
+			"buildid" "16552220"
+			"description" "alpha test branch"
+			"timeupdated" "1732711425"
 		}
 		"workshop"
 		{
-			"buildid" "16286181"
+			"buildid" "16298322"
 			"pwdrequired" "1"
-			"timeupdated" "1730717767"
+			"timeupdated" "1730798203"
 		}
 	}
 }
@@ -364,6 +384,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26035527"
-"_sha" "62382095404a897c50c48261124c4e0072b3ba74"
-"_size" "6396"
+"_change_number" "26388010"
+"_sha" "5aad9b204cf9c95d6cd67ad4f45bfe9100baabe0"
+"_size" "6814"
