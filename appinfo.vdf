@@ -1,0 +1,336 @@
+"appid" "2849680"
+"common"
+{
+	"name" "Utopia Must Fall"
+	"type" "Game"
+	"icon" "ea4eb267703cb049806460a500dc6d6ebfa21c41"
+	"clienticon" "0efa5d918731b7435c2bfa07f7bc04b943c55876"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macosapplesilicon"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1727136000"
+		"tested_build_id" "15590066"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "a191a502e4c2dece349ac68a46fe3b58b956b688/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "87.60186263096625"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "87.60186263096625"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725833493"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pixeljam"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pixeljam"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Pixeljam"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1725881870"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2849680"
+	"store_tags"
+	{
+		"0" "1773"
+		"1" "4255"
+		"2" "4885"
+		"3" "1645"
+		"4" "3959"
+		"5" "7332"
+		"6" "5125"
+		"7" "19995"
+		"8" "3942"
+		"9" "19"
+		"10" "5923"
+		"11" "3871"
+		"12" "1759"
+		"13" "1774"
+		"14" "4136"
+		"15" "4400"
+		"16" "4305"
+		"17" "4094"
+		"18" "4252"
+		"19" "1714"
+	}
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Pixeljam"
+	"publisher" "Pixeljam"
+	"homepage" "https://www.pixeljam.com"
+}
+"config"
+{
+	"installdir" "Utopia Must Fall"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Utopia Must Fall.app/Contents/MacOS/Utopia Must Fall"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"1"
+		{
+			"executable" "Utopia Must Fall.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2849681"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1543420690612773653"
+				"size" "287526903"
+				"download" "112402448"
+			}
+			"beta"
+			{
+				"gid" "1543420690612773653"
+				"size" "287526903"
+				"download" "112402448"
+			}
+			"experimental"
+			{
+				"gid" "856319565012595053"
+				"size" "287526163"
+				"download" "112402288"
+			}
+			"intel_mac"
+			{
+				"gid" "5606826433138422745"
+				"size" "294985429"
+				"download" "122338352"
+			}
+		}
+	}
+	"2849682"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6261077230619911961"
+				"size" "318724215"
+				"download" "127969872"
+			}
+			"beta"
+			{
+				"gid" "6261077230619911961"
+				"size" "318724215"
+				"download" "127969872"
+			}
+			"experimental"
+			{
+				"gid" "4537864760663296667"
+				"size" "318723475"
+				"download" "127969776"
+			}
+			"intel_mac"
+			{
+				"gid" "7636170446161118428"
+				"size" "318736511"
+				"download" "127970528"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16529438"
+			"timeupdated" "1732633582"
+		}
+		"beta"
+		{
+			"buildid" "16529438"
+			"description" "testing branch"
+			"timeupdated" "1732569382"
+		}
+		"experimental"
+		{
+			"buildid" "16506919"
+			"description" "super top secret"
+			"timeupdated" "1732322021"
+		}
+		"intel_mac"
+		{
+			"buildid" "16553293"
+			"description" "Builds for Intel Mac Users"
+			"timeupdated" "1732716339"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26386737"
+"_sha" "a991282fc1641a51cf582c78600afe45a3e1925a"
+"_size" "5793"
