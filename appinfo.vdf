@@ -10,6 +10,7 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"timeline_marker_updated" "1731923417"
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -204,6 +205,24 @@
 		"0"
 		{
 			"executable" "Feather Party.exe"
+			"description_loc"
+			{
+				"english" "Windows"
+			}
+			"description" "Windows"
+		}
+		"1"
+		{
+			"executable" "FeatherParty.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "macOS"
+			}
+			"description" "macOS"
 		}
 	}
 }
@@ -211,49 +230,85 @@
 {
 	"2300231"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4019576075954494314"
-				"size" "4982720131"
-				"download" "925251552"
+				"gid" "9104038130247784534"
+				"size" "5162314467"
+				"download" "951022224"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"closed-beta"
 			{
-				"gid" "5702479F9F421BA80B5828C66D1FF6CF"
-				"size" "B044BF24EE954D36E07A5C692FDE4B38"
-				"download" "A9C0616530DC4D4C5DDEFE0791D5991F"
+				"gid" "90DACF92681E26F76B94372BF5581462"
+				"size" "6C5DB4F6835DEE1DC9A6089DEC38BD67"
+				"download" "3FDCBA0DDD011BD9E602F3CD97117E0B"
 			}
 			"test-branch"
 			{
-				"gid" "9ABEF2490F34B802A5B87CB94C5ACE05"
-				"size" "EF570267E0E6A29938CB3781FE6C5177"
-				"download" "5EAB7F8C9CEE3C23FCD17539C3BCB9F2"
+				"gid" "59CCC1E991FF1D3E7232F951F5BB69F4"
+				"size" "CE65987312E29777B475D14867254707"
+				"download" "095EF6D4ED979A1378E5CFC61965FFBE"
 			}
 		}
 	}
+	"2300232"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7952110531585124028"
+				"size" "5086326841"
+				"download" "938137216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closed-beta"
+			{
+				"gid" "F33DA3502AC036867E43C0F7BCFEDDA9"
+				"size" "DC199292265FBD5FDF55CF510279E782"
+				"download" "89BA99EB591675DD4586ACC4FEEBFF7A"
+			}
+			"test-branch"
+			{
+				"gid" "17D207F374419069774A87B1E50DC5DF"
+				"size" "056D408DFC8FF374F5AF99632F8D58E9"
+				"download" "B8C9AF26F58C9DF8D09B27A864EAA9B6"
+			}
+		}
+	}
+	"baselanguages" "english"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16425768"
-			"timeupdated" "1731706390"
+			"buildid" "16552921"
+			"timeupdated" "1732714864"
 		}
 		"closed-beta"
 		{
-			"buildid" "16425768"
+			"buildid" "16552921"
 			"pwdrequired" "1"
-			"timeupdated" "1731706302"
+			"timeupdated" "1732714614"
 		}
 		"test-branch"
 		{
-			"buildid" "16425768"
+			"buildid" "16552921"
 			"pwdrequired" "1"
-			"timeupdated" "1731706309"
+			"timeupdated" "1732714271"
 		}
 	}
 }
@@ -272,6 +327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26219771"
-"_sha" "3ad6a3f9249a81b6cb748d46d40e300864a9094d"
-"_size" "4302"
+"_change_number" "26386345"
+"_sha" "e612c1a5e60dc843e37d505ea1bc1f38af8f41b6"
+"_size" "5286"
