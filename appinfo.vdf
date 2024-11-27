@@ -9,6 +9,7 @@
 	"icon" "0c956abc738a0c64d370658eb86569d692e1c4ef"
 	"clienttga" "a20220743cc9d8d4f4d4ef814ce405adbcd054d4"
 	"clienticon" "96b61c4b5d7dd0711f4632e39a0e9dc538771d04"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -74,6 +75,44 @@
 			"height_pct" "91.7944852073051"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.222034717456744"
+				"height_pct" "91.7944852073051"
+			}
+		}
+	}
 	"store_asset_mtime" "1561749966"
 	"associations"
 	{
@@ -85,7 +124,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Adult Swim Games"
+			"name" "Bitmap Bureau Ltd"
 		}
 	}
 	"primary_genre" "23"
@@ -149,7 +188,7 @@
 {
 	"developer" "Megadev"
 	"gamedir" "ValveTestApp224820"
-	"homepage" "http://games.adultswim.com/"
+	"homepage" "https://bitmapbureau.com/"
 	"icon" ""
 	"installscript" "SHODN.VDF"
 	"noservers" "0"
@@ -157,7 +196,7 @@
 	"state" "eStateAvailable"
 	"thirdpartycdkey" "1"
 	"visibleonlywhensubscribed" "1"
-	"publisher" "Adult Swim Games"
+	"publisher" "Bitmap Bureau Ltd"
 	"listofdlc" "238570"
 	"dlcavailableonstore" "1"
 }
@@ -186,18 +225,18 @@
 		{
 			"public"
 			{
-				"gid" "5851813884723596476"
-				"size" "86237571"
-				"download" "57210112"
+				"gid" "2918501450329595811"
+				"size" "86238568"
+				"download" "57201312"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "2A021061D55B84244D29358D248CF9DB"
-				"size" "A6E6F9455CDBF0F8FB8C7330A5A6367B"
-				"download" "4E61E4539E1ABBA7CF63EF4EA7B463C8"
+				"gid" "A0C056F7FD1EE454DA4AFE012B07169F"
+				"size" "6F903196ADA94ACE105EAE8AE96E45D9"
+				"download" "9AC5C7806F40643CB1EFFD5837FCCECB"
 			}
 		}
 	}
@@ -207,12 +246,14 @@
 	{
 		"public"
 		{
-			"buildid" "551573"
+			"buildid" "16541917"
+			"timeupdated" "1732645035"
 		}
 		"beta"
 		{
-			"buildid" "551573"
+			"buildid" "16541917"
 			"pwdrequired" "1"
+			"timeupdated" "1732644757"
 		}
 	}
 }
@@ -221,3 +262,7 @@
 	"quota" "100000000"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26372069"
+"_sha" "c740727baae6e356e3fa8af3ef458bb17fa3a5ff"
+"_size" "4991"
