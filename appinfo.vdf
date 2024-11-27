@@ -1,0 +1,440 @@
+"appid" "1649950"
+"common"
+{
+	"name" "News Tower"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "14dbb0f06cee2efd896f6e550c98c9cc674a9cc8"
+	"logo_small" "14dbb0f06cee2efd896f6e550c98c9cc674a9cc8_thumb"
+	"icon" "a114ebcf5ff986ec524711dc9478aa7c01c97636"
+	"clienttga" "941e569eda95a269f699aa6530fd9fe9f00e383c"
+	"clienticns" "2a9e30066d2eec20511b67d54ce026d63ced45e8"
+	"clienticon" "f02f82c84c710f8289bf794d4d21b5e4da43f3e5"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1649950_eula_0"
+			"name" "News Tower EULA"
+			"url" "https://store.steampowered.com//eula/1649950_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1708646400"
+		"tested_build_id" "13508647"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "15.635939323220583"
+			"height_pct" "17.929232961291873"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.635939323220583"
+				"height_pct" "17.929232961291873"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731935457"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sparrow Night"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Twin Sails Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1707831977"
+	"community_hub_visible" "1"
+	"gameid" "1649950"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "599"
+		"2" "9"
+		"3" "3810"
+		"4" "492"
+		"5" "3871"
+		"6" "8945"
+		"7" "4695"
+		"8" "1643"
+		"9" "16689"
+		"10" "4845"
+		"11" "1708"
+		"12" "6426"
+		"13" "3987"
+		"14" "1702"
+		"15" "4182"
+		"16" "1719"
+		"17" "13190"
+		"18" "4166"
+		"19" "493"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Sparrow Night"
+	"publisher" "Twin Sails Interactive"
+	"homepage" "https://sparrownight.com/"
+}
+"config"
+{
+	"installdir" "News Tower"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "News Tower.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "News Tower.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1649952"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1766306096685277636"
+				"size" "2127473521"
+				"download" "442733408"
+			}
+			"legacy"
+			{
+				"gid" "1945965351411080448"
+				"size" "2124426680"
+				"download" "441709056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"marketing"
+			{
+				"gid" "BE146AD20168E41832571896275D9EDD"
+				"size" "9875B2DEA22D571A3503197BED2A3315"
+				"download" "2CBC055F5FB5B3B65E6E5DC009B15442"
+			}
+			"develop"
+			{
+				"gid" "746C3D132C121A04C9A11D90A478E29E"
+				"size" "F9D485DB34E32C7DD44C00213B31AE41"
+				"download" "A4BE3ADA79C50AA96F1F4D31E592872B"
+			}
+			"qa_0"
+			{
+				"gid" "2E02B9EDFA05483DFB3F8F1F2593FE60"
+				"size" "FDB946B5204C3B34F6459E44036B5385"
+				"download" "7A949EC3F8106F71A19202ABC25C5AF6"
+			}
+			"qa_1"
+			{
+				"gid" "3471B030E7CBE45528F992679F67E713"
+				"size" "007046A09A11D805D906220AF102B8C0"
+				"download" "E5A75C5E8EA9D3C858BEAAEAB1FDEFC8"
+			}
+			"qa_2"
+			{
+				"gid" "4DA6ED9B897D82B65D2EEA03C4FCCEFB"
+				"size" "7EE7BF00A086F4340BC7C1564F34E82E"
+				"download" "8C8AF2F823FC91CB26A839C45A57C794"
+			}
+		}
+	}
+	"1649951"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3240843398914294968"
+				"size" "2553084271"
+				"download" "485968032"
+			}
+			"legacy"
+			{
+				"gid" "5560347169810507217"
+				"size" "2549863510"
+				"download" "484918832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "43DDB32F66B5AB234A9C28D31CE9A351"
+				"size" "B523C4DF2A2802BEF37695577F05FCAB"
+				"download" "417B2DC8AAE03115F2D4DD8D4E3ACC3D"
+			}
+			"qa_0"
+			{
+				"gid" "471ED22A99CCEF55E5FA39881540DEC5"
+				"size" "A7364F0FB4E54B8346B086AD2FC30857"
+				"download" "0381DE8BAFE25CBCB34003E589343A87"
+			}
+			"qa_1"
+			{
+				"gid" "077D4BB983E612C4BCBEA609DDCA9B72"
+				"size" "967E8321C6A9BE044AACCB4307F41A96"
+				"download" "5FC2BCF1AE34C2872280919882151934"
+			}
+			"qa_2"
+			{
+				"gid" "7524EB4865BAFDF237AAC079EE50F558"
+				"size" "FDE72F6CAC904020F320AD916C66EB11"
+				"download" "D639BE093EFBFC3CC1951FB85D0F6E61"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16499112"
+			"timeupdated" "1732635296"
+		}
+		"marketing"
+		{
+			"buildid" "12913331"
+			"pwdrequired" "1"
+			"timeupdated" "1702918530"
+		}
+		"develop"
+		{
+			"buildid" "16389619"
+			"pwdrequired" "1"
+			"timeupdated" "1731489125"
+		}
+		"legacy"
+		{
+			"buildid" "15900284"
+			"description" "Play the previous version of the game"
+			"timeupdated" "1732011673"
+		}
+		"qa_0"
+		{
+			"buildid" "16499112"
+			"pwdrequired" "1"
+			"timeupdated" "1732273414"
+		}
+		"qa_1"
+		{
+			"buildid" "16375895"
+			"pwdrequired" "1"
+			"timeupdated" "1731489217"
+		}
+		"qa_2"
+		{
+			"buildid" "16389619"
+			"pwdrequired" "1"
+			"timeupdated" "1731489143"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Sparrow Night/News Tower"
+			"pattern" "*.nt"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Sparrow Night/News Tower"
+			"pattern" "*.tsc"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Sparrow Night/News Tower"
+					"replace" "com.Sparrow-Night.News-Tower"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26381857"
+"_sha" "0ac82cdc80c1a857852d211701840f693e3256cf"
+"_size" "8278"
