@@ -16,6 +16,11 @@
 	{
 		"schinese" "Kingdoms Reborn 王国重生"
 	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -87,6 +92,48 @@
 			"pinned_position" "UpperCenter"
 			"width_pct" "68.90139399748395"
 			"height_pct" "78.25268416224371"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "68.90139399748395"
+				"height_pct" "78.25268416224371"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1709117900"
@@ -181,16 +228,16 @@
 		"10" "599"
 		"11" "493"
 		"12" "1775"
-		"13" "1676"
-		"14" "4182"
-		"15" "1643"
-		"16" "5125"
-		"17" "1695"
-		"18" "1662"
-		"19" "1666"
+		"13" "4182"
+		"14" "1643"
+		"15" "1676"
+		"16" "1695"
+		"17" "5125"
+		"18" "1666"
+		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -249,27 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "1849308876690562207"
-				"size" "3994245037"
-				"download" "3446657520"
-			}
-			"test_network_fix"
-			{
-				"gid" "5065430540933698511"
-				"size" "3986728365"
-				"download" "3444963632"
-			}
-			"test_network_fix_2"
-			{
-				"gid" "8621240784941586190"
-				"size" "3989036973"
-				"download" "3445653904"
-			}
-			"japan_release"
-			{
-				"gid" "6011702977255268653"
-				"size" "2752653392"
-				"download" "2303115472"
+				"gid" "2586726514997925264"
+				"size" "3649081269"
+				"download" "3117251136"
 			}
 			"old_patch_coop"
 			{
@@ -295,29 +324,23 @@
 				"size" "1804825304"
 				"download" "1593797968"
 			}
-			"special_test"
-			{
-				"gid" "4343140436482321115"
-				"size" "3696765769"
-				"download" "3158404848"
-			}
 			"stable"
 			{
-				"gid" "9165364669036750510"
-				"size" "3712673827"
-				"download" "3156464480"
+				"gid" "1849308876690562207"
+				"size" "3994245037"
+				"download" "3446657520"
 			}
 			"test"
 			{
-				"gid" "6764439408979854194"
-				"size" "4150137816"
-				"download" "3475890432"
+				"gid" "2586726514997925264"
+				"size" "3649081269"
+				"download" "3117251136"
 			}
 			"test2"
 			{
-				"gid" "3218304820121255506"
-				"size" "2901048321"
-				"download" "2439892160"
+				"gid" "3916270570694461114"
+				"size" "3643403557"
+				"download" "3116106032"
 			}
 		}
 		"encryptedmanifests"
@@ -348,21 +371,21 @@
 			}
 			"kingdomsreborn1"
 			{
-				"gid" "3BC713A3C6E65E9B31892763ABC220A1"
-				"size" "9BE7CFC440E1A00F3BCCE35C34A90948"
-				"download" "402270B71850AF5D976A734F4776A82E"
+				"gid" "E4C046D2DBCF2987EB6BD37039AEF27D"
+				"size" "02FBEBD4598465E904EDE8F428410182"
+				"download" "5543CA1A3B1305FA63A6CA8037EBE81C"
 			}
 			"kingdomsreborn2"
 			{
-				"gid" "F35F456B73FB36CBDE663578B7AE1EEC"
-				"size" "497030BC6D707A0BB0106F418A77A25C"
-				"download" "70CDA1AE05D122AC07C96651721EDF92"
+				"gid" "698276E6CA3BF23EFC6F2D308AB8829D"
+				"size" "40DE742FF5DAA935E96D6A1E7B067330"
+				"download" "78F9422814E2C0B50D43ABA73F9145F3"
 			}
 			"kingdomsreborn3"
 			{
-				"gid" "E412C4126B2084752DB20666ECE1AAA1"
-				"size" "14E93738685C8C553D0668B2603607A2"
-				"download" "21F07A025A55A390384037FD8F577907"
+				"gid" "1011E4ED73692289CEF6B0C1798056A8"
+				"size" "8E6360F86CCC9F2DEFB53571665B36B1"
+				"download" "EC78964D212814527DBEFABCC7CA5F6F"
 			}
 			"kingdomsreborn10"
 			{
@@ -406,20 +429,8 @@
 	{
 		"public"
 		{
-			"buildid" "14491079"
-			"timeupdated" "1716614897"
-		}
-		"test_network_fix"
-		{
-			"buildid" "14411139"
-			"description" "test_network_fix"
-			"timeupdated" "1716005146"
-		}
-		"test_network_fix_2"
-		{
-			"buildid" "14411766"
-			"description" "\t test_network_fix_2"
-			"timeupdated" "1716012904"
+			"buildid" "16550085"
+			"timeupdated" "1732708406"
 		}
 		"desynccheck18"
 		{
@@ -445,29 +456,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1684486827"
 		}
-		"japan_release"
-		{
-			"buildid" "11271959"
-			"description" "japan_release May 19 (Old UE version)"
-			"timeupdated" "1685693211"
-		}
 		"kingdomsreborn1"
 		{
-			"buildid" "14476941"
+			"buildid" "16416684"
 			"pwdrequired" "1"
-			"timeupdated" "1716519273"
+			"timeupdated" "1731657107"
 		}
 		"kingdomsreborn2"
 		{
-			"buildid" "14477427"
+			"buildid" "16327273"
 			"pwdrequired" "1"
-			"timeupdated" "1716522931"
+			"timeupdated" "1730981679"
 		}
 		"kingdomsreborn3"
 		{
-			"buildid" "14479790"
+			"buildid" "16415253"
 			"pwdrequired" "1"
-			"timeupdated" "1716539219"
+			"timeupdated" "1731645167"
 		}
 		"kingdomsreborn10"
 		{
@@ -511,29 +516,23 @@
 			"description" "Old Patch (Emirates)"
 			"timeupdated" "1671175234"
 		}
-		"special_test"
-		{
-			"buildid" "14324820"
-			"description" "special_test"
-			"timeupdated" "1715339488"
-		}
 		"stable"
 		{
-			"buildid" "13612802"
+			"buildid" "14491079"
 			"description" "stable (mostly the same as default branch)"
-			"timeupdated" "1709954538"
+			"timeupdated" "1716996933"
 		}
 		"test"
 		{
-			"buildid" "14481720"
+			"buildid" "16550085"
 			"description" "Latest Test Branch"
-			"timeupdated" "1716550193"
+			"timeupdated" "1732700263"
 		}
 		"test2"
 		{
-			"buildid" "12214527"
+			"buildid" "16327273"
 			"description" "2nd Latest Test Branch (if latest has issues)"
-			"timeupdated" "1696845809"
+			"timeupdated" "1731050395"
 		}
 		"testsavecrash"
 		{
@@ -571,6 +570,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23688245"
-"_sha" "4ae26ffbe5b59d24811023f91f38e8a25fab1e67"
-"_size" "11527"
+"_change_number" "26384745"
+"_sha" "d1860ae4ed0a35744c9e029f6feb123681e2c208"
+"_size" "11196"
