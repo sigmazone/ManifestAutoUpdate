@@ -42,6 +42,10 @@
 	{
 		"schinese" "罐舱逃生指南 Tin Can"
 	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -105,6 +109,40 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1674811026"
 	"associations"
 	{
@@ -140,7 +178,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
-		"category_53" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -208,11 +246,11 @@
 		"3" "492"
 		"4" "4175"
 		"5" "3942"
-		"6" "9"
-		"7" "3839"
+		"6" "3839"
+		"7" "9"
 		"8" "493"
-		"9" "16598"
-		"10" "4182"
+		"9" "4182"
+		"10" "16598"
 		"11" "4191"
 		"12" "8945"
 		"13" "9204"
@@ -224,7 +262,7 @@
 		"19" "1664"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -286,19 +324,13 @@
 		{
 			"public"
 			{
-				"gid" "2031868394448265087"
-				"size" "12099986436"
-				"download" "2056404752"
+				"gid" "8191744893714758082"
+				"size" "12024793311"
+				"download" "2100526128"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"beta"
-			{
-				"gid" "114E67719A83E68540CB778852D1143A"
-				"size" "369828F7CC4B87070CD186D76500E864"
-				"download" "7C4882A12586E6F48EFD64CF66DB8B54"
-			}
 			"djboucherie"
 			{
 				"gid" "9E496F28BAC8835868BF79030C241200"
@@ -359,17 +391,23 @@
 				"size" "9E37A88C30968FE963630CF61E1CBB2D"
 				"download" "E540F074526EB777C1389DAA07D34479"
 			}
-			"testing"
-			{
-				"gid" "8DF38EBAAE3FF468BA2606D8071B9AC3"
-				"size" "5C85F61E13FD7FB9B0F9942B39FC6E5B"
-				"download" "288970CAFFF40A2F8D9FAC94D48E246B"
-			}
 			"vrtesting"
 			{
 				"gid" "F4019CB427C2F799434A87842A47E51E"
 				"size" "F4073C33A8CE721464E3AA012E939718"
 				"download" "374D85C68B364E6F5AF9957314B49291"
+			}
+			"beta"
+			{
+				"gid" "64C38D047A9461E239B1EFAFB1AA200B"
+				"size" "C3E59473B5CB7A603F338A8910646F01"
+				"download" "798559C3BBCED096D9AE331E4F625F83"
+			}
+			"testing"
+			{
+				"gid" "9898739F8FFE4B607328BC92C20E6AB5"
+				"size" "3B58A8C45AF9FC19327CA2EBE09B30CC"
+				"download" "9BA1B39B1A24BFB6A7EFC11D672B228A"
 			}
 		}
 	}
@@ -386,14 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "10776404"
-			"timeupdated" "1697471199"
-		}
-		"beta"
-		{
-			"buildid" "10776404"
-			"pwdrequired" "1"
-			"timeupdated" "1697471211"
+			"buildid" "16542312"
+			"timeupdated" "1732647088"
 		}
 		"djboucherie"
 		{
@@ -455,21 +487,27 @@
 			"pwdrequired" "1"
 			"timeupdated" "1635792761"
 		}
-		"testing"
-		{
-			"buildid" "10776404"
-			"pwdrequired" "1"
-			"timeupdated" "1697471219"
-		}
 		"vrtesting"
 		{
 			"buildid" "7986027"
 			"pwdrequired" "1"
 			"timeupdated" "1641574677"
 		}
+		"beta"
+		{
+			"buildid" "16534497"
+			"pwdrequired" "1"
+			"timeupdated" "1732608439"
+		}
+		"testing"
+		{
+			"buildid" "16542312"
+			"pwdrequired" "1"
+			"timeupdated" "1732646789"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "21302476"
-"_sha" "822f5d63c44f647c0805ea9217cb33aa83d8143e"
-"_size" "9053"
+"_change_number" "26372557"
+"_sha" "a34bb9801cc29207b312722b2a27102e82bd4521"
+"_size" "9575"
