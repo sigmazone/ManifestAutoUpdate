@@ -124,7 +124,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1719853630"
+	"store_asset_mtime" "1732576624"
 	"associations"
 	{
 		"0"
@@ -142,7 +142,8 @@
 	"genres"
 	{
 		"0" "1"
-		"1" "2"
+		"1" "23"
+		"2" "2"
 	}
 	"category"
 	{
@@ -226,9 +227,9 @@
 		"14" "19"
 		"15" "3993"
 		"16" "6730"
-		"17" "17389"
-		"18" "11104"
-		"19" "4667"
+		"17" "492"
+		"18" "17389"
+		"19" "11104"
 	}
 	"review_score" "8"
 	"review_percentage" "86"
@@ -238,6 +239,8 @@
 	"developer" "Giant Flame"
 	"publisher" "PLA Studios"
 	"gamemanualurl" "https://store.steampowered.com/manual/1363740/"
+	"listofdlc" "2802940"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -280,18 +283,18 @@
 		{
 			"public"
 			{
-				"gid" "5661843825189824329"
-				"size" "7850131789"
-				"download" "5955273328"
+				"gid" "2400956915356907204"
+				"size" "9052263332"
+				"download" "6716238496"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"localisationtest"
 			{
-				"gid" "832E5058996F2BA483331D0D756987F6"
-				"size" "0BF543B2783E60DCE6D1D0D051A7B5C9"
-				"download" "B26545C51DEC894500D2B4B1D5C946E6"
+				"gid" "21081E7B51E37CC2B9BCD983EF8354F5"
+				"size" "9256FFE0FC9061FBB73DE8AE8C1A8465"
+				"download" "1E193742976D606E058CBE0F424E1857"
 			}
 			"notifications"
 			{
@@ -301,15 +304,21 @@
 			}
 			"publictest"
 			{
-				"gid" "B0AE78D6395D7049B73CE35ABBA51818"
-				"size" "579BB70C25EC1548711B4DF65CF379BF"
-				"download" "7C7A082B6AF6094689DDD1AA527AE55C"
+				"gid" "B05789B74A9661D2E7305DFAEE5C14FD"
+				"size" "876F027C51C2FFC61DAD7E43F65B8328"
+				"download" "813D874657285F17803CFEA67D9E7801"
 			}
 			"test"
 			{
-				"gid" "6C87DE9E921B1E6D052360BE99396CD1"
-				"size" "9654E849C8115ACEB832E5A357A005C6"
-				"download" "3554E0D64973144657F619488609F9FF"
+				"gid" "F907A0962CC0735FA83C77A4FD222102"
+				"size" "FE13249CCE2EDAC018A4AD3FD72C05E4"
+				"download" "3750ACE8773B47EA0AA068D3228D0BC6"
+			}
+			"usdlctest"
+			{
+				"gid" "7AD0A3F41E4CD5FDC044D1F721BC9A39"
+				"size" "9C5A056757EABE18C1BA4ECD8737B818"
+				"download" "AED38814A0A89FD4B7E0F84EB7210770"
 			}
 		}
 	}
@@ -325,11 +334,23 @@
 		}
 		"encryptedmanifests"
 		{
+			"localisationtest"
+			{
+				"gid" "31D413B4E1078FB2061E7A26D03FD1CA"
+				"size" "718F03AECBD17A5E7540E7D61FA41526"
+				"download" "20CE5F7DBA078A49F5E207D7E2630E14"
+			}
 			"notifications"
 			{
-				"gid" "E84A20EAC3EB9F9A94E14B296D40454B"
-				"size" "18A82F279A58BAE4459781F262D0504E"
-				"download" "B403507F274BF2325C22F77983A1B7E5"
+				"gid" "AC3803709CB04936B5E09AA322A08EBA"
+				"size" "560D40D4A4081656A4C40B41622B0758"
+				"download" "F9B518ACF1CE7A7A585A2B40AD926642"
+			}
+			"test"
+			{
+				"gid" "234BD16FA86B6FB47A49FBC9EEC3E0BC"
+				"size" "A49DD5EB604C97257E2A49D8E0077939"
+				"download" "B16284AEBB36C20BA1568F915E184D11"
 			}
 		}
 	}
@@ -337,32 +358,38 @@
 	{
 		"public"
 		{
-			"buildid" "15201092"
-			"timeupdated" "1722529454"
+			"buildid" "16524109"
+			"timeupdated" "1732543164"
 		}
 		"localisationtest"
 		{
-			"buildid" "15051730"
+			"buildid" "16529490"
 			"pwdrequired" "1"
-			"timeupdated" "1721146806"
+			"timeupdated" "1732569722"
 		}
 		"notifications"
 		{
-			"buildid" "15694123"
+			"buildid" "16513228"
 			"pwdrequired" "1"
-			"timeupdated" "1726248138"
+			"timeupdated" "1732406090"
 		}
 		"publictest"
 		{
-			"buildid" "15201092"
+			"buildid" "16524109"
 			"pwdrequired" "1"
-			"timeupdated" "1722353862"
+			"timeupdated" "1732569140"
 		}
 		"test"
 		{
-			"buildid" "15201092"
+			"buildid" "16524192"
 			"pwdrequired" "1"
-			"timeupdated" "1722353846"
+			"timeupdated" "1732539226"
+		}
+		"usdlctest"
+		{
+			"buildid" "16524109"
+			"pwdrequired" "1"
+			"timeupdated" "1732539246"
 		}
 	}
 }
@@ -407,3 +434,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26357292"
+"_sha" "677603527b263475c3f93ff4c4a2fd7f5796860c"
+"_size" "7888"
