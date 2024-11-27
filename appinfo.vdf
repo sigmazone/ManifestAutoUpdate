@@ -152,7 +152,7 @@
 	"developer" "SmileBoom Co.Ltd."
 	"publisher" "SmileBoom Co.Ltd."
 	"homepage" "https://rpgbakin.com/"
-	"listofdlc" "1946480,1952420,1952421,1952422,1952423,1952424,1952426,1952427,1952428,1952429,1952430,1952431,1952433,1952434,1952436,1952437,2133190,2339440,2401980,2401981,2401982,2641940,2641950,2644800,2715320,2715330,2715340,2726620,2928530,2928550,2928560,2996360,3046970,3078660,3106130,3118940,3150340,3150350,3224370"
+	"listofdlc" "1946480,1952420,1952421,1952422,1952423,1952424,1952426,1952427,1952428,1952429,1952430,1952431,1952433,1952434,1952436,1952437,2133190,2339440,2401980,2401981,2401982,2641940,2641950,2644800,2715320,2715330,2715340,2726620,2928530,2928550,2928560,2996360,3046970,3078660,3106130,3118940,3150340,3150350,3150370,3224360,3224370,3285270"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -201,9 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "7585540358231511578"
-				"size" "8149315628"
-				"download" "2120023776"
+				"gid" "2632131119779608567"
+				"size" "8174016405"
+				"download" "2127416464"
 			}
 			"ver1.0.15"
 			{
@@ -307,6 +307,12 @@
 				"size" "8146968062"
 				"download" "2119746400"
 			}
+			"ver1.12.0"
+			{
+				"gid" "7585540358231511578"
+				"size" "8149315628"
+				"download" "2120023776"
+			}
 			"ver1.9.0"
 			{
 				"gid" "7196924078208161470"
@@ -334,23 +340,17 @@
 				"size" "154E7D2CF159C48299F4576CFA53000A"
 				"download" "511940DE5E214A555518A922DCA86C20"
 			}
-			"bugfix"
-			{
-				"gid" "317B14D4849A855EF89CA7DAE9C7DFF6"
-				"size" "1EBE5A5C21A0E4DC4E9C9ED9B0AAC7CB"
-				"download" "F4E70339C3793AE3E0EB23073C8F9ED7"
-			}
 			"daily"
 			{
-				"gid" "31C7B874EC4B509E3CB98E6F67EBC443"
-				"size" "DFD48D1AACC8F21BA7F8BE6B4F1877FF"
-				"download" "8AA543BB22C2F55A21550F5BF6F65D90"
+				"gid" "640B24423E6A845A338556BC3397EE6D"
+				"size" "14866F19370CDFDBCE95205BD58AF335"
+				"download" "4D0DC052E02D9EAB84851CAF79CAEC14"
 			}
 			"test"
 			{
-				"gid" "E62B16C7C3BAB65C88BA19496F714ADC"
-				"size" "1FF7818C5AFE5264815A571189C479E4"
-				"download" "FFD3BBA90F650BFE02C8093DFDFDBE8F"
+				"gid" "EDFF576C23139E312B24FC8E9A7916D3"
+				"size" "923EB1D5E6F228CEA6EAD9D48B955F8F"
+				"download" "162F2A437FAAFDA5283B59DAEF5CCEA2"
 			}
 		}
 	}
@@ -358,8 +358,8 @@
 	{
 		"public"
 		{
-			"buildid" "16480040"
-			"timeupdated" "1732174729"
+			"buildid" "16538103"
+			"timeupdated" "1732669414"
 		}
 		"advanced"
 		{
@@ -457,23 +457,17 @@
 			"description" "ver1.8.1 rollback"
 			"timeupdated" "1713871415"
 		}
-		"bugfix"
-		{
-			"buildid" "16480040"
-			"pwdrequired" "1"
-			"timeupdated" "1732155263"
-		}
 		"daily"
 		{
-			"buildid" "16401421"
+			"buildid" "16538103"
 			"pwdrequired" "1"
-			"timeupdated" "1731562291"
+			"timeupdated" "1732627531"
 		}
 		"test"
 		{
-			"buildid" "16480040"
+			"buildid" "16538103"
 			"pwdrequired" "1"
-			"timeupdated" "1732152451"
+			"timeupdated" "1732626138"
 		}
 		"ver1.10.0"
 		{
@@ -492,6 +486,12 @@
 			"buildid" "15979226"
 			"description" "ver1.11.0 rollback"
 			"timeupdated" "1729216804"
+		}
+		"ver1.12.0"
+		{
+			"buildid" "16480040"
+			"description" "ver1.12.0 rollback"
+			"timeupdated" "1732669386"
 		}
 		"ver1.9.0"
 		{
@@ -515,6 +515,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26293512"
-"_sha" "46d03b454fff5471b1ffc2e169fb54febafa0e4c"
-"_size" "9848"
+"_change_number" "26377324"
+"_sha" "3fb38d35c4440342e387f2b942c12bc762d548b3"
+"_size" "9838"
