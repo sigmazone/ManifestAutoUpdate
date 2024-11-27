@@ -107,7 +107,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721012331"
+	"store_asset_mtime" "1729602034"
 	"associations"
 	{
 		"0"
@@ -244,6 +244,9 @@
 	"remoteplaytogethertestingbranches" "default,external_testing,steam_china_only"
 	"developer" "Liquid Meow"
 	"publisher" "Liquid Meow"
+	"homepage" "https://www.xiaohongshu.com/user/profile/5e23052e0000000001009667"
+	"listofdlc" "3345370"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -263,54 +266,59 @@
 }
 "depots"
 {
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
 	"2572561"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6941195570124880791"
-				"size" "2236701302"
-				"download" "1416133520"
+				"gid" "658266971841760800"
+				"size" "2357600720"
+				"download" "1310306528"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"external_testing"
 			{
-				"gid" "D93EA5A6FA2976BBB55093007706A048"
-				"size" "4C04AC592D865C281D01B0279006FC24"
-				"download" "33C441346CB598099DA65E4684BFFEC1"
+				"gid" "46F3535DF72788347B132B3D3C8105CD"
+				"size" "A3AA695EAA4ADDFE88E3DAAE59A19AB7"
+				"download" "4B54C43CB148E1D4026AA183D41273CC"
 			}
 			"steam_china_only"
 			{
-				"gid" "69A5FF0324D034389F5226A35EDB8222"
-				"size" "266E9217DFC97323458E7E87D54A50CF"
-				"download" "41893BA8984CE7B31C4ACCC9BD75FBBD"
+				"gid" "687B7AA29120626825E001869D7A387C"
+				"size" "7DB72CDE7A06F236838D4902C750E650"
+				"download" "9E65D083C5867C73522222E8D6599452"
 			}
 		}
 	}
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+	"3345370"
+	{
+		"dlcappid" "3345370"
+	}
+	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14945291"
-			"timeupdated" "1720196691"
+			"buildid" "16554031"
+			"timeupdated" "1732719829"
 		}
 		"external_testing"
 		{
 			"sc_schinese" "外部测试"
-			"buildid" "14945291"
+			"buildid" "16554031"
 			"pwdrequired" "1"
-			"timeupdated" "1720196667"
+			"timeupdated" "1732719867"
 		}
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "14939452"
+			"buildid" "16554031"
 			"pwdrequired" "1"
-			"timeupdated" "1720165010"
+			"timeupdated" "1732719854"
 		}
 	}
 }
@@ -341,6 +349,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25066470"
-"_sha" "702e6d44131c22f021a5e8c08001df45944fdc4d"
-"_size" "6273"
+"_change_number" "26387789"
+"_sha" "271b64f0172c77d209af6e5bf03428fb7cf525ee"
+"_size" "6477"
