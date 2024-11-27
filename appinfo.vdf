@@ -83,6 +83,40 @@
 			"height_pct" "35"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "47"
+				"height_pct" "35"
+			}
+		}
+	}
 	"store_asset_mtime" "1553506784"
 	"associations"
 	{
@@ -122,6 +156,7 @@
 		"category_30" "1"
 		"category_17" "1"
 		"category_9" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -150,8 +185,8 @@
 	{
 		"0" "3959"
 		"1" "42804"
-		"2" "3964"
-		"3" "1685"
+		"2" "1685"
+		"3" "3964"
 		"4" "122"
 		"5" "3859"
 		"6" "1720"
@@ -164,10 +199,10 @@
 		"13" "1646"
 		"14" "4791"
 		"15" "1716"
-		"16" "4182"
-		"17" "4885"
-		"18" "4231"
-		"19" "1684"
+		"16" "4885"
+		"17" "4182"
+		"18" "1684"
+		"19" "4231"
 	}
 	"review_score" "8"
 	"review_percentage" "87"
@@ -304,9 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "1939039533802692619"
-				"size" "31806184"
-				"download" "10983424"
+				"gid" "6255014959006692008"
+				"size" "31806696"
+				"download" "10982608"
 			}
 			"launch_build"
 			{
@@ -316,24 +351,24 @@
 			}
 			"public_beta_testing"
 			{
-				"gid" "1939039533802692619"
-				"size" "31806184"
-				"download" "10983424"
+				"gid" "6255014959006692008"
+				"size" "31806696"
+				"download" "10982608"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"betatesting"
 			{
-				"gid" "696A43091D4E0161AE44CBEB95D2EA5C"
-				"size" "3E4700BBA2694175315C9AE93F600F2C"
-				"download" "713CA7704586496620C51F4C4832CB52"
+				"gid" "6D62F48553E39A1B696D251B6860AC3C"
+				"size" "862F4E93689EA681D37CCC87624A2562"
+				"download" "65846535526BBA3E3E2D78D9176A3D15"
 			}
 			"testing"
 			{
-				"gid" "A1F9A5A19296C898406E6F9F67929A7F"
-				"size" "6247A89491F4F54FDD785ECB5E4BED61"
-				"download" "A9CE7F6C02D6EFE05459FFE1C8234BA4"
+				"gid" "5ABE8370FF7C6A4FA0BB6588CB75048E"
+				"size" "8E2F2FB03085C88E69AA932702665E74"
+				"download" "4F2876C674E9DD110411504A2C5DD2F9"
 			}
 		}
 	}
@@ -348,9 +383,9 @@
 		{
 			"public"
 			{
-				"gid" "3082374968312957695"
+				"gid" "4529580379229745017"
 				"size" "19720055"
-				"download" "5921712"
+				"download" "5921008"
 			}
 			"launch_build"
 			{
@@ -360,24 +395,24 @@
 			}
 			"public_beta_testing"
 			{
-				"gid" "3082374968312957695"
+				"gid" "4529580379229745017"
 				"size" "19720055"
-				"download" "5921712"
+				"download" "5921008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"betatesting"
 			{
-				"gid" "3263449210371ACE252ACF06E01626B1"
+				"gid" "91942455E7192C742581C7F83FB4C0EC"
 				"size" "B49A6561A72836A96E86E2F644C8F682"
-				"download" "E1D96F97841756146DF57B20C510C5C7"
+				"download" "F12FB9B969C33AF2A5B674FC3F8463EA"
 			}
 			"testing"
 			{
-				"gid" "D86F6A5D844A2747BFD8F03E1D4F007D"
+				"gid" "4778DB444462D99CC013895A858E6CF6"
 				"size" "AFF718E61EC7D64FE3B31D7B0AFA78BC"
-				"download" "B120CA76900C4A890B82F97D998CE82A"
+				"download" "C347EF22D679D1FE0598AF08F1597BDA"
 			}
 		}
 	}
@@ -392,9 +427,9 @@
 		{
 			"public"
 			{
-				"gid" "6716460885025870369"
+				"gid" "9036664422450468925"
 				"size" "20711158"
-				"download" "6260896"
+				"download" "6260128"
 			}
 			"launch_build"
 			{
@@ -404,24 +439,24 @@
 			}
 			"public_beta_testing"
 			{
-				"gid" "6716460885025870369"
+				"gid" "9036664422450468925"
 				"size" "20711158"
-				"download" "6260896"
+				"download" "6260128"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"betatesting"
 			{
-				"gid" "EC0BFED9FD6BB203CF2D54D9D1C3A67B"
+				"gid" "F2E4046C60A17B96469C7DA40008233E"
 				"size" "453700302905E1CF593AD0856D6D01D5"
-				"download" "5929513CD6D9C31107C45BF7DE729D33"
+				"download" "FA2A11D766C6A301090FF7C6E74B4B40"
 			}
 			"testing"
 			{
-				"gid" "9561701DA0580CD7CC70F3145CA1A8D8"
+				"gid" "553D928C710EC23AEC0F9DC2B3BFFF01"
 				"size" "4A3A2D6A8D77C0CE0414CB170852D6AC"
-				"download" "FE60B42AFF9DE9FE7B24F6E1CED028AA"
+				"download" "DB16F7331BD3B4178946C0C26D726BA7"
 			}
 		}
 	}
@@ -431,8 +466,8 @@
 	{
 		"public"
 		{
-			"buildid" "14160978"
-			"timeupdated" "1713986162"
+			"buildid" "16542047"
+			"timeupdated" "1732665821"
 		}
 		"launch_build"
 		{
@@ -442,21 +477,21 @@
 		}
 		"betatesting"
 		{
-			"buildid" "14160978"
+			"buildid" "16542047"
 			"pwdrequired" "1"
-			"timeupdated" "1713970434"
+			"timeupdated" "1732665781"
 		}
 		"public_beta_testing"
 		{
-			"buildid" "14160978"
+			"buildid" "16542047"
 			"description" "Public testing of early builds"
-			"timeupdated" "1713970654"
+			"timeupdated" "1732665792"
 		}
 		"testing"
 		{
-			"buildid" "14160978"
+			"buildid" "16542047"
 			"pwdrequired" "1"
-			"timeupdated" "1713986149"
+			"timeupdated" "1732645588"
 		}
 	}
 }
@@ -474,41 +509,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "In main menu"
-				"#status_intown" "In town"
-				"#status_indungeon" "Dungeon: Level %level% in {#Act_%act%} floor %floor%"
-				"#status_indungeon_ngp" "Dungeon: Level %level% in {#Act_%act%} floor %floor% (NG+%ngp%)"
-				"#status_inbossbattle" "Boss battle: Level %level% in {#Act_%act%}"
-				"#status_inbossbattle_ngp" "Boss battle: Level %level% in {#Act_%act%} (NG+%ngp%)"
-				"#status_inportallevel" "Portal: {#Act_%act%} to {#Act_%nextact%}"
-				"#status_inportallevel_ngp" "Portal: {#Act_%act%} to {#Act_%nextact%} (NG+%ngp%)"
-				"#status_inarena" "Arena: Wave %wave% / %totalwaves%"
-				"#act_1" "Mines"
-				"#act_2" "Prison"
-				"#act_3" "Armory"
-				"#act_4" "Archives"
-				"#act_5" "Chambers"
-				"#act_6" "Battlements"
-				"#act_7" "Top"
-				"#act_pop_1" "Desert"
-				"#act_pop_2" "Lower Pyramid"
-				"#act_pop_3" "Upper Pyramid"
-				"#act_mt_1" "Outer Halls"
-				"#act_mt_2" "Inner Halls"
-				"#act_mt_3" "Inner Sanctum"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23288144"
-"_sha" "6cb0b63747f0794666d38293780df5ac5f3ddc74"
-"_size" "9999"
+"_change_number" "26376318"
+"_sha" "df7490b9e33287fd94dab7f4f3ae5a25642ed9d8"
+"_size" "9396"
