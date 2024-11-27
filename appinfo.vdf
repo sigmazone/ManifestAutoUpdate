@@ -87,7 +87,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1684316877"
+	"store_asset_mtime" "1732612034"
 	"associations"
 	{
 		"0"
@@ -109,11 +109,13 @@
 	"primary_genre" "54"
 	"genres"
 	{
-		"0" "54"
-		"1" "56"
+		"0" "37"
+		"1" "54"
+		"2" "56"
 	}
 	"category"
 	{
+		"category_35" "1"
 	}
 	"supported_languages"
 	{
@@ -124,39 +126,49 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1642474862"
+	"steam_release_date" "1642474860"
 	"community_hub_visible" "1"
 	"gameid" "1847210"
 	"exfgls" "6"
 	"store_tags"
 	{
-		"0" "1036"
-		"1" "1445"
+		"0" "113"
+		"1" "1036"
+		"2" "1445"
+		"3" "6915"
+		"4" "19"
 	}
-	"review_score" "5"
-	"review_percentage" "65"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
 	"enablegameoverlayforapp" "1"
 	"developer" "北京彩蛋科技有限公司"
 	"publisher" "北京彩蛋科技有限公司"
-	"homepage" "https://space.bilibili.com/30572832/channel/collectiondetail\?sid=137045"
+	"homepage" "https://www.easteregg.cn"
+	"isfreeapp" "1"
 }
 "config"
 {
 	"installdir" "八卦掌六十四手（The 64 Hands of Bagua Zhang）"
 	"launch"
 	{
-		"0"
+		"1"
 		{
-			"executable" "BaguaZhang.exe"
+			"executable" "ShifuIos.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "Update on click this"
+				"schinese" "新版本用他"
+			}
+			"description" "Update on click this"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -168,6 +180,7 @@
 }
 "depots"
 {
+	"baselanguages" "schinese"
 	"228988"
 	{
 		"config"
@@ -192,40 +205,79 @@
 		{
 			"oslist" "windows"
 			"osarch" "64"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3830158598567147123"
-				"size" "1010655274"
-				"download" "714264736"
+				"gid" "1615647970308791133"
+				"size" "993337107"
+				"download" "838071408"
+			}
+			"test"
+			{
+				"gid" "1615647970308791133"
+				"size" "993337107"
+				"download" "838071408"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"steam_china_only"
 			{
-				"gid" "10368F2F6B0B5F3EB463F8E64C07A308"
-				"size" "917D5B3962AAA1FD2AC1DDAC2DD779A5"
-				"download" "F35C24A9A632E70D1BD6580E5792ACCE"
+				"gid" "066EAE4F2F98A5B5D6D96D46F6209DE2"
+				"size" "079E5F9EDEA24C8A1520C6C8FC574AF4"
+				"download" "ED728F8C08F4A1B7203FD9E2AE1CCF5C"
 			}
 		}
 	}
-	"baselanguages" "schinese"
+	"1847212"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "207382213114003104"
+				"size" "993339155"
+				"download" "838047344"
+			}
+			"test"
+			{
+				"gid" "207382213114003104"
+				"size" "993339155"
+				"download" "838047344"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11251034"
-			"timeupdated" "1684308897"
+			"buildid" "16468224"
+			"timeupdated" "1732081379"
+		}
+		"test"
+		{
+			"sc_schinese" "测试"
+			"buildid" "16468210"
+			"description" "测试"
+			"timeupdated" "1732081268"
 		}
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "10248158"
+			"buildid" "16467868"
 			"pwdrequired" "1"
-			"timeupdated" "1672761831"
+			"timeupdated" "1732079285"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26363472"
+"_sha" "1b3ad2ff97ed09fab9e3bd4f758333cdcc4ef1a9"
+"_size" "5212"
