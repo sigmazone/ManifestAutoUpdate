@@ -1,0 +1,756 @@
+"appid" "1875060"
+"common"
+{
+	"name" "Reus 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "7d9c87157f50a5ae8d3b652874ed6c22f2e4d475"
+	"clienticon" "c6b712b2736a393c6e6e42311266983d017e2af9"
+	"icon" "a7da96e540ed0afeaaed809f4fbb0746f34b81c1"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "造物主 2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717200000"
+		"tested_build_id" "14519042"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "8cbfb6eb800d81f97d72b7ea887da607d70eabb5/capsule_231x87.jpg"
+		"schinese" "0e1a11078b551814bb7aa09b5697215547086c92/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "19.48716487702788"
+			"height_pct" "99.30555555555557"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "19.48716487702788"
+				"height_pct" "99.30555555555557"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732290142"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Abbey Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Firesquid"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Firesquid"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Abbey Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716904682"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1875060"
+	"store_tags"
+	{
+		"0" "5300"
+		"1" "220585"
+		"2" "4328"
+		"3" "7332"
+		"4" "8945"
+		"5" "12472"
+		"6" "9"
+		"7" "3810"
+		"8" "1677"
+		"9" "30358"
+		"10" "10235"
+		"11" "599"
+		"12" "1654"
+		"13" "3871"
+		"14" "1643"
+		"15" "4182"
+		"16" "4305"
+		"17" "492"
+		"18" "21"
+		"19" "3834"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Abbey Games"
+	"publisher" "Firesquid"
+	"homepage" "https://firesquid.games/games/reus-2"
+	"listofdlc" "3010540,3333960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Reus2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Reus 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Reus 2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1875061"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2908026519542994798"
+				"size" "5435778618"
+				"download" "838308400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release00"
+			{
+				"gid" "9D1BDBD6CABA7E67EB0811B4B72DCA11"
+				"size" "2A7CA739156B55FB2694DAC014598BE0"
+				"download" "DF1D97D4731FF4A8B921FD60D4EDB1D4"
+			}
+			"release01"
+			{
+				"gid" "2D2129DF89344127E20CD124E93DD2FA"
+				"size" "E93D681CB5B8C3D0EC540DF723C1FE37"
+				"download" "8E6FE5AEC5BADB85C9C429A29E9FEB65"
+			}
+			"release02"
+			{
+				"gid" "402C87B52606309DC90FF351FAF5F435"
+				"size" "86DB46C1B714AEEE5F7511384B43979C"
+				"download" "46069CB68C18FD55074B3F924D0170AC"
+			}
+			"release03"
+			{
+				"gid" "1A19DDA509A41947DC452BA056BC537F"
+				"size" "0266FF72B6314BE459217C77C87EAC4B"
+				"download" "BB9A0B8D194C4D1554A4B4D6713F10DB"
+			}
+			"release04"
+			{
+				"gid" "1BD29C14D45894B24E67FA526B0D7F4F"
+				"size" "C8FC27218FDF622F4D447EBFDC05D794"
+				"download" "B960E75A303199E4506FF0B06B85F7E7"
+			}
+			"release05"
+			{
+				"gid" "2EDC1F61CC17EC1DBE9BA94343AD7E51"
+				"size" "C13F4BA1780CE12E6954F6FD4C3A4B04"
+				"download" "61F2C8E62291DDD9258486ECF431706A"
+			}
+			"release06"
+			{
+				"gid" "B2E4977D4780374376B0A56EEC5EED29"
+				"size" "A42E875266BF14BF4DBE42D968E9607B"
+				"download" "E9295DC7BF2AD4686A412CE2A93AB9AE"
+			}
+			"release07"
+			{
+				"gid" "880FBBD7FAF9515A7CA520559CFD75CB"
+				"size" "A03020D81F6382BCA4583B624F8D02D2"
+				"download" "4B5FA78B56C50126909956CBB24EFB92"
+			}
+			"release08"
+			{
+				"gid" "5802FE25136084B06971210627E6C5F5"
+				"size" "4CD02F245D7643CE543780943097EF0C"
+				"download" "4C14CA30D529EAE6AAF0A6282047C9B9"
+			}
+			"release09"
+			{
+				"gid" "D263FCD221B2BF86C87347F53B09D8D1"
+				"size" "68F694768A694A61C15E527354122048"
+				"download" "B162FE64691FCE300C8C7FA8070D8D02"
+			}
+			"release10"
+			{
+				"gid" "668734681A51F88138FBBB6340B3A6C3"
+				"size" "A417616EE1853DE30F95116641212086"
+				"download" "34B38ACAA16113B2FF6F3E8BFBCDDB97"
+			}
+			"release11"
+			{
+				"gid" "D05ADCFF924D147A1F2D24D2E1D9BE6D"
+				"size" "BC6B150FFFFD3261E79572C025250AC5"
+				"download" "CE8B8575BE1F68A769CDDA18EB579203"
+			}
+			"release12"
+			{
+				"gid" "728C4181064358C41BEB410BB9EBDA2C"
+				"size" "0FBA347791DB95C6E27ECF18C8AD3A4D"
+				"download" "9A259C218E8D3A8BB2168483E2EDBF2D"
+			}
+			"release13"
+			{
+				"gid" "C23C49D93BBB329A05FBF33693243495"
+				"size" "3ABDC5A9AC4C41EA670B192E9A9995D3"
+				"download" "83349FBCFE92FD0427844DCAE49138BE"
+			}
+			"release14"
+			{
+				"gid" "2A2466D8241FF19FC2C9B72F69970371"
+				"size" "552A30E902E50D2C6735672416B100C4"
+				"download" "A8BE32BC2AF1C39232B6DC486C9C2B3F"
+			}
+			"release15"
+			{
+				"gid" "6F487BD02619B79CEBA03A8B46066021"
+				"size" "B49159CD135425C52BD54F0BB6B1238F"
+				"download" "3EAFE667ED218BD9CFA1A0F9546B942E"
+			}
+			"audio"
+			{
+				"gid" "55AF20B8C0DEEDD8212D2ED8A910B70A"
+				"size" "9ADB0635E489BFA5E7C31AD765096091"
+				"download" "D111856BB29AB9AA8AA8150E6B7E2AD8"
+			}
+			"deux_master"
+			{
+				"gid" "C3880382EE00DA70BF03B5DE62A69051"
+				"size" "9ADC3AA0812E2E69B6C4DB90E7AA4F1A"
+				"download" "F48FE4160E4C0330C60E637049678610"
+			}
+			"fallback"
+			{
+				"gid" "BBC4B2F9CE581BA315174FD7EDCF3240"
+				"size" "76D524D26B92A6CB8CA3129E8F07F1CF"
+				"download" "5EF84CF6AD2C974694BD339DB0507ADB"
+			}
+			"trailer"
+			{
+				"gid" "61FCE139E80662A66DC79D5F41089412"
+				"size" "F021D2841DD77EFCFA2B0373AF54C5D0"
+				"download" "FCD4B868921AE218B3400DE6BBA9F34F"
+			}
+		}
+	}
+	"1875062"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1547374884775870861"
+				"size" "5461256320"
+				"download" "846472192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release07"
+			{
+				"gid" "B06466D0C6C3DE2447E10BCF47B2BB99"
+				"size" "EA8A8268E882AC8BE1B3515BB5A80D17"
+				"download" "E61C47BAA89F2C07006D20B7F3B63580"
+			}
+			"release08"
+			{
+				"gid" "066F592881B9F0D237548AF313E69F81"
+				"size" "A9EAB8DC72214399F21C6949DB246191"
+				"download" "0E222E20B15C559ED63D23C64E8D57CE"
+			}
+			"release09"
+			{
+				"gid" "ED33CCF4BE6C533F8883F6A66B631366"
+				"size" "FE8629B8BF7251477B0B3E4B5A18F0FF"
+				"download" "61141725219AF295BA49312570909C7B"
+			}
+			"release10"
+			{
+				"gid" "2FED1551DF9F6F93CA34F1CE80373924"
+				"size" "677EF629B0B3E1576A1B76F59870E3CE"
+				"download" "EC0ACA0AF3E460EF43370600216861B7"
+			}
+			"release11"
+			{
+				"gid" "1CDA19BBE07DFD3A7096D9B9DBA19F0E"
+				"size" "B95094A44BA39BD9DECB0AC1A54395B1"
+				"download" "3C7F494EE0DB4743C6364762BA56A2FA"
+			}
+			"release12"
+			{
+				"gid" "EE2733E58C270C4BA0F41A7583831B28"
+				"size" "A09E1A2BA80427FCA26A891216AB4DC5"
+				"download" "16C0F550C36A72FA2594A5BAC4A99276"
+			}
+			"release13"
+			{
+				"gid" "B294C3652C55411475DE2FFA1FD5DDA7"
+				"size" "DBE200CDCB88291332F6008FF3773396"
+				"download" "916A065EC6A28CBC3485F6D135C088A2"
+			}
+			"release14"
+			{
+				"gid" "4F145F509C6092DE7A2B85ED50C92E29"
+				"size" "B0F60357704F5EF73ECF741F7907F70E"
+				"download" "0473E8A79D1B6B1C2A6AB71C58818048"
+			}
+			"release15"
+			{
+				"gid" "40FBB79CB7AF6AA8F325EFD74ED6E75C"
+				"size" "1737663EE394BA64549C4945E985132E"
+				"download" "9F81296C596AF6C296FA967F65D952DA"
+			}
+			"audio"
+			{
+				"gid" "53F79A1D01B6F07BA0F88ABC54755449"
+				"size" "FF2DCF95D58DBBDD8FA6EA420A70544A"
+				"download" "2AB99FD730ECBE04AA18DC36D02C41FF"
+			}
+			"deux_master"
+			{
+				"gid" "42EEDC62E3108219042A8ED07B79F016"
+				"size" "12C7C18DBECD89EDB21F0F06F37F14E5"
+				"download" "FA950692A3939BCA65163CE596CD5C0D"
+			}
+			"fallback"
+			{
+				"gid" "7CCD30B41699196CC7DAE1BABCF95CA1"
+				"size" "9D4CBD9065DD36B29E29A40C4636E8DE"
+				"download" "06F3E41D13E8FA19A168C80CE2E34487"
+			}
+			"trailer"
+			{
+				"gid" "FFBF754F16E7216EBB21A96405A481F3"
+				"size" "52CA00DC96F236FBA8AB2F2CAD0015D4"
+				"download" "74F1B7CE2173794CC81006C02137C847"
+			}
+		}
+	}
+	"3010540"
+	{
+		"dlcappid" "3010540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3896516526556556967"
+				"size" "1736868590"
+				"download" "1554107456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio"
+			{
+				"gid" "C57B1CCC474B17A44E6D52E8DA4029E1"
+				"size" "14E5B2BA0DB8F2A2164BABFBEC9019F2"
+				"download" "CD14AE59EA053A58C991FAEBF0BC1F54"
+			}
+			"deux_master"
+			{
+				"gid" "8302226B30B4BB69EC9F4D38B8618C38"
+				"size" "CA7577A1B8FBD5EBDEF8DB37D1E4CD9D"
+				"download" "BDC38864029CA4FE958C663780B7A1BE"
+			}
+			"fallback"
+			{
+				"gid" "7CC408948EF01E3C9FD0CE8CE1ACA8E6"
+				"size" "8C17AF2163F5BA9F2E34938AC8DC649D"
+				"download" "6C0229E8D45B6BB637CB876707474F5D"
+			}
+			"trailer"
+			{
+				"gid" "1D917263F5E777A071FE3F8D79B0184E"
+				"size" "A2072EAFB187F1F27EAA3FB1D577689F"
+				"download" "95E7F148FC862338203FA5E2511D3D7D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16537865"
+			"timeupdated" "1732625965"
+		}
+		"release00"
+		{
+			"buildid" "8095972"
+			"pwdrequired" "1"
+			"timeupdated" "1656518322"
+		}
+		"release01"
+		{
+			"buildid" "8473042"
+			"pwdrequired" "1"
+			"timeupdated" "1656517980"
+		}
+		"release02"
+		{
+			"buildid" "9128071"
+			"pwdrequired" "1"
+			"timeupdated" "1657887220"
+		}
+		"release03"
+		{
+			"buildid" "9461255"
+			"pwdrequired" "1"
+			"timeupdated" "1665747950"
+		}
+		"release04"
+		{
+			"buildid" "9721562"
+			"pwdrequired" "1"
+			"timeupdated" "1665748043"
+		}
+		"release05"
+		{
+			"buildid" "10037731"
+			"pwdrequired" "1"
+			"timeupdated" "1669718919"
+		}
+		"release06"
+		{
+			"buildid" "10198954"
+			"pwdrequired" "1"
+			"timeupdated" "1671708767"
+		}
+		"release07"
+		{
+			"buildid" "10702418"
+			"pwdrequired" "1"
+			"timeupdated" "1678178898"
+		}
+		"release08"
+		{
+			"buildid" "10913992"
+			"pwdrequired" "1"
+			"timeupdated" "1680465506"
+		}
+		"release09"
+		{
+			"buildid" "11118001"
+			"pwdrequired" "1"
+			"timeupdated" "1682713838"
+		}
+		"release10"
+		{
+			"buildid" "11427464"
+			"pwdrequired" "1"
+			"timeupdated" "1686260928"
+		}
+		"release11"
+		{
+			"buildid" "11545478"
+			"pwdrequired" "1"
+			"timeupdated" "1687792462"
+		}
+		"release12"
+		{
+			"buildid" "12122267"
+			"pwdrequired" "1"
+			"timeupdated" "1694005554"
+		}
+		"release13"
+		{
+			"buildid" "12401443"
+			"pwdrequired" "1"
+			"timeupdated" "1696928550"
+		}
+		"release14"
+		{
+			"buildid" "12899954"
+			"pwdrequired" "1"
+			"timeupdated" "1701949575"
+		}
+		"release15"
+		{
+			"buildid" "13317497"
+			"pwdrequired" "1"
+			"timeupdated" "1706793249"
+		}
+		"audio"
+		{
+			"buildid" "16408643"
+			"pwdrequired" "1"
+			"timeupdated" "1732631069"
+		}
+		"deux_master"
+		{
+			"buildid" "16537865"
+			"pwdrequired" "1"
+			"timeupdated" "1732624762"
+		}
+		"fallback"
+		{
+			"buildid" "16505386"
+			"pwdrequired" "1"
+			"timeupdated" "1732625520"
+		}
+		"trailer"
+		{
+			"buildid" "16408643"
+			"pwdrequired" "1"
+			"timeupdated" "1732631131"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abbey Games/Reus 2"
+			"pattern" "profile_*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abbey Games/Reus 2"
+			"pattern" "install"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abbey Games/Reus 2"
+			"pattern" "*.mgs"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abbey Games/Reus 2"
+			"pattern" "*.deux"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Abbey Games/Reus 2"
+			"pattern" "metagamelog.txt"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Abbey Games/Reus 2"
+					"replace" "unity.Abbey Games.Reus 2"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26368098"
+"_sha" "ad1ecb451f41fb0bb7051b1a83c4e874bb7bd84a"
+"_size" "15622"
