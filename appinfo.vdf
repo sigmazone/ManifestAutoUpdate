@@ -1,0 +1,455 @@
+"appid" "1042420"
+"common"
+{
+	"name" "DayZ Experimental Server"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"parent" "1024020"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"clienttga" "e529b20af459d1307c2e885c68293ba137971ecc"
+	"clienticon" "f8c16699ed5ce1cc8aa9b15ed3fdd66553fce2bf"
+	"icon" "dadc80fcc935495943969e0d3cd90cae6c79d8ff"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1042420_eula_0"
+			"name" "Experimental Test Product Server EULA"
+			"url" "https://store.steampowered.com//eula/1042420_eula_0"
+		}
+	}
+	"logo" "a2ab55e66a8872c2f5aafae46db8372f03bd1ce8"
+	"logo_small" "a2ab55e66a8872c2f5aafae46db8372f03bd1ce8_thumb"
+	"releasestate" "released"
+	"osextended" ""
+	"associations"
+	{
+	}
+	"gameid" "1042420"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "DayZ Server Exp"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DayZServer_x64.exe"
+			"description" "Launch Server"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1042421"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "159228605277235310"
+				"size" "3567129885"
+				"download" "1242910608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimentalprep"
+			{
+				"gid" "497A5F72CFBD8B815E3118084077FCD0"
+				"size" "1BA5BA8168EDD60D7A29AE68DE0091B8"
+				"download" "970B7F731A29AA27BD4970A23895E030"
+			}
+			"internaldebug"
+			{
+				"gid" "C9C96DD54BE1B5BA1E6ECBBFE1BC4BA8"
+				"size" "EAB5E8236A6227AA76E6007683327D29"
+				"download" "5D5F345969B7742AC62142DE04D9321E"
+			}
+			"vehiclesim"
+			{
+				"gid" "C3E76FC1B24894B41354D68B9D09CB84"
+				"size" "25BC9764A3558B203F43B52BFF34D8FE"
+				"download" "E19561C5E5538A3A91C1C1F462AED798"
+			}
+			"xb1_release_test"
+			{
+				"gid" "5BDC10A42F253E8E8BFF92F0CDB93EEF"
+				"size" "8FD22B5F446D5CA67F99B85F7BC65F7C"
+				"download" "8FD22B5F446D5CA67F99B85F7BC65F7C"
+			}
+			"dlc_playtest"
+			{
+				"gid" "65B40E8BA9FC30BAF03630434900820B"
+				"size" "BC76FD70CCBE1BA7B181B09549DF67FF"
+				"download" "721BD7961C6C6B0C2DB7F3B1A4225759"
+			}
+			"experimental"
+			{
+				"gid" "9A41B9CB9BF415BC4960F813810D6BEC"
+				"size" "3699AAD9558D084F2526113A08CB40B2"
+				"download" "FA1292A0BAC25DB81A0AD8246FCD7F71"
+			}
+			"internalplaytest"
+			{
+				"gid" "879324E158CDAC57B40CFB41EB0E2A4A"
+				"size" "8C31C6041941853304F50953DA19D66A"
+				"download" "D1D1CE168881813C78D682D18466E6B9"
+			}
+			"release_test"
+			{
+				"gid" "3B41D80199036A367D58496DBC7A6DA8"
+				"size" "7868C3E77CD0E4B8B64925ABFA712FF7"
+				"download" "A951CDE98F2A9B96A3941EC389389CB5"
+			}
+			"test"
+			{
+				"gid" "DE59DC8F59BBA40A8E8931C77B358168"
+				"size" "ED0EB79F1B0996B6810246CA54B602F0"
+				"download" "312D27AEE5BA50C8B91CD15CFF6C6E1A"
+			}
+			"test2"
+			{
+				"gid" "B57D2A41FDCDDE8397E33C9C7C5804D8"
+				"size" "55686382493E6DEC5B155CDE19CFFF7E"
+				"download" "ADF351BBF8B01188A95A0E28927A1B85"
+			}
+		}
+	}
+	"1042422"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4314615479001073877"
+				"size" "80116416"
+				"download" "23575760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimentalprep"
+			{
+				"gid" "5E42D8A9B06BD8B8E88098EE45378315"
+				"size" "F5CCB644EB81983C871A235933AAC785"
+				"download" "E87D22C13AF2A6A7AAF376D42778CF9E"
+			}
+			"internaldebug"
+			{
+				"gid" "33471BF48B21FE23A38E2A5EAD65F094"
+				"size" "33D21125977B47A74FEBF61BFA931625"
+				"download" "E1DEC632B4B21F1134AB81A420CD2429"
+			}
+			"vehiclesim"
+			{
+				"gid" "AFA6D6D8EA637A885C2306D9FA6FFFD6"
+				"size" "F4786887CCAD388D381613577825CC3F"
+				"download" "23271B3A7413315FEF3281E75BBF5764"
+			}
+			"xb1_release_test"
+			{
+				"gid" "64E5AB67C4193F2735059B64C7D77B05"
+				"size" "8FD22B5F446D5CA67F99B85F7BC65F7C"
+				"download" "8FD22B5F446D5CA67F99B85F7BC65F7C"
+			}
+			"dlc_playtest"
+			{
+				"gid" "10766A399DD06EEDF6548D37CA60764F"
+				"size" "D8ACFC4E873D557323EFC1FFCBEC7682"
+				"download" "3335FA3559EDF0D006322D2343926D34"
+			}
+			"experimental"
+			{
+				"gid" "0F5A7F7120C1DDC9D83A4394ADF09FF5"
+				"size" "4BAB9E01C6F9AD6A7CC9BAAC7042B90A"
+				"download" "E1373B0B99D96CEAAE285AB8934FF427"
+			}
+			"internalplaytest"
+			{
+				"gid" "612BA835C1D9C627E88093F76B41096F"
+				"size" "1894A931A7C8DC8AF9A1D66C46AD1BC6"
+				"download" "1931AD08AF978A8AC7BE10063D8AD99C"
+			}
+			"release_test"
+			{
+				"gid" "6B401EE2808E823C63ED26F895D0AD52"
+				"size" "C5BCD4DCB4D480E5779624B8E8725F6A"
+				"download" "A2064CADDD200EE62B5D63DD216CF2F0"
+			}
+			"test"
+			{
+				"gid" "950BAEDCD9ACFF370FBD73160E7E3352"
+				"size" "128CA859EA96D42C6A92F22E3986DB57"
+				"download" "FC17B2D36C9AEDFDEA30A8FEF02FD450"
+			}
+			"test2"
+			{
+				"gid" "FCC0FB8DED2778EE9FDD9E262277CFF0"
+				"size" "BDEA33CFF345F3FCDA601A9A14994852"
+				"download" "7E806702BF843EBEE6E578F54A1A968B"
+			}
+		}
+	}
+	"1042423"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3203664087072083563"
+				"size" "42134000"
+				"download" "13193968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimentalprep"
+			{
+				"gid" "A551AB52F2D51180B3BAD5D24D9AF695"
+				"size" "4D4A3C1D06BBB3668034EEC2BE6D31D2"
+				"download" "3441FEDD0C9721E194A643778F44C272"
+			}
+			"internaldebug"
+			{
+				"gid" "E61BF3696C2DCFDF738A812B7F7FC885"
+				"size" "1272D07938E9E1523F7ABD0545C3920C"
+				"download" "1917751C0964C71C73704CF5B7B636E4"
+			}
+			"vehiclesim"
+			{
+				"gid" "48E8EDA4282C702DBD33A44C3159ED7C"
+				"size" "C81FC85D2E9D57D80CE18974A10A50E3"
+				"download" "144F7EF77023FE1ED7B69AEEA18C7E11"
+			}
+			"xb1_release_test"
+			{
+				"gid" "8802B0309603FF68944F1468833230BA"
+				"size" "8FD22B5F446D5CA67F99B85F7BC65F7C"
+				"download" "8FD22B5F446D5CA67F99B85F7BC65F7C"
+			}
+			"dlc_playtest"
+			{
+				"gid" "46D36AE87D109094609BF6338051ACC3"
+				"size" "DB5C62E5B3DC0696D0C3251B7D22245E"
+				"download" "1CED4E5B81F055A7C1B2429B724DCDBD"
+			}
+			"experimental"
+			{
+				"gid" "8DC8B9217D1D8DD23A1F27E51FAD224B"
+				"size" "CC26DA5647963D7179F448F4B1CC7B7C"
+				"download" "71FF685BD7254A22807D3B1097128815"
+			}
+			"internalplaytest"
+			{
+				"gid" "318390A7271C70039E9456FF4A932D1C"
+				"size" "3215B4E2AA8ECCE6A862BBF99045C987"
+				"download" "2C6DD1B76A8AE01016D2609269F3A6FA"
+			}
+			"release_test"
+			{
+				"gid" "DFD5DB41A2F38AE2063D8FF3A7CBD031"
+				"size" "CE3B6EBA71AE91A561D657892AC9B259"
+				"download" "F947516DF5358C8C2E4D375E1E252110"
+			}
+			"test"
+			{
+				"gid" "454CCCA995F07CE0E7D234B6617EB2E0"
+				"size" "1A6FEB4AA10FD793AF5DB37D2A7D5B84"
+				"download" "0751CAA4CB628F26CFD580D309ACFF56"
+			}
+			"test2"
+			{
+				"gid" "D32A7BCE5C31EEAA8715878D20D1B113"
+				"size" "E212F78AB109D8B5E8F6592670EC689F"
+				"download" "257DC45B4AE0D447D5829C37A78DCD9F"
+			}
+		}
+	}
+	"1042424"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1303274732421741974"
+				"size" "302933356"
+				"download" "11638304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimentalprep"
+			{
+				"gid" "C65C94A21ACC48352D38061376B1B37B"
+				"size" "B3090F90D86EFF1764FBDC889BCD2EF4"
+				"download" "B3090F90D86EFF1764FBDC889BCD2EF4"
+			}
+			"internaldebug"
+			{
+				"gid" "41554771DDF5B8415A603CF9CE8F2A9E"
+				"size" "066AB86B02FFD91851D79AAC358138C2"
+				"download" "60B41E3B2BB7A8652CF72BDE6F442858"
+			}
+			"vehiclesim"
+			{
+				"gid" "BCD61A1406973E497940B6E80E2492AB"
+				"size" "EC227AFD7310C257AA439C4A519F7D60"
+				"download" "3649C0B4EC1CC4ABA4B1406ACF69F335"
+			}
+			"dlc_playtest"
+			{
+				"gid" "053D9DC32A1BA4A1E1A9720AB3CB28D6"
+				"size" "26D0E1C927D64CC84EB20A45B8F7FF58"
+				"download" "E388A1C5E643A469A53AD43DE66C1A1C"
+			}
+			"experimental"
+			{
+				"gid" "F9F4FA32BD94434443FE32DDB6B9D59F"
+				"size" "49881DB09BF2838B721D091E3681C47C"
+				"download" "0EBD983C95D1CD6CE8AD0667971459C7"
+			}
+			"internalplaytest"
+			{
+				"gid" "9EE55245B92EAB6F06509F0B1E871269"
+				"size" "144AD6E656473074A20451A8FB99127C"
+				"download" "76A02DB8C529693190A72B69A05BAD76"
+			}
+			"release_test"
+			{
+				"gid" "56127BF3E2A10FE9DC1541FE782366A3"
+				"size" "05921C154AA37FAEB562BF1441F96620"
+				"download" "C2AE273274A12409F46408242CE6AB85"
+			}
+			"test"
+			{
+				"gid" "77A25C7B48943DFBBE9E2BC07AD3F331"
+				"size" "C85CB5CC0A519713693145FB35387EDE"
+				"download" "04190387EDA9B0C4521B6EF0D0844503"
+			}
+			"test2"
+			{
+				"gid" "D867E9BC09F39A9247FAF8BA5D2CAF67"
+				"size" "C97F5FEF995BE269E7A97E4B0AFD3953"
+				"download" "08B71DC3BF85658B3E8C977D49262748"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16380237"
+			"timeupdated" "1731424367"
+		}
+		"experimentalprep"
+		{
+			"buildid" "12770370"
+			"pwdrequired" "1"
+			"timeupdated" "1700652214"
+		}
+		"internaldebug"
+		{
+			"buildid" "12963901"
+			"pwdrequired" "1"
+			"timeupdated" "1702572118"
+		}
+		"vehiclesim"
+		{
+			"buildid" "11061206"
+			"pwdrequired" "1"
+			"timeupdated" "1682092618"
+		}
+		"xb1_release_test"
+		{
+			"buildid" "9747756"
+			"pwdrequired" "1"
+			"timeupdated" "1666115391"
+		}
+		"dlc_playtest"
+		{
+			"buildid" "15771000"
+			"pwdrequired" "1"
+			"timeupdated" "1726837873"
+		}
+		"experimental"
+		{
+			"buildid" "16377038"
+			"pwdrequired" "1"
+			"timeupdated" "1731411905"
+		}
+		"internalplaytest"
+		{
+			"buildid" "16377038"
+			"pwdrequired" "1"
+			"timeupdated" "1731407465"
+		}
+		"release_test"
+		{
+			"buildid" "16380237"
+			"pwdrequired" "1"
+			"timeupdated" "1731424209"
+		}
+		"test"
+		{
+			"buildid" "15727644"
+			"pwdrequired" "1"
+			"timeupdated" "1726570132"
+		}
+		"test2"
+		{
+			"buildid" "14156600"
+			"pwdrequired" "1"
+			"timeupdated" "1713946425"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26159430"
+"_sha" "b45098ccdd6c80705e040582592fd109fe0e5cc6"
+"_size" "10397"
