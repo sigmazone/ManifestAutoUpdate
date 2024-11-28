@@ -29,6 +29,50 @@
 		"japanese" "ルマ島"
 		"koreana" "루마섬"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1732752000"
+		"tested_build_id" "16539862"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -224,8 +268,8 @@
 		"9" "3834"
 		"10" "597"
 		"11" "1695"
-		"12" "3843"
-		"13" "4182"
+		"12" "4182"
+		"13" "3843"
 		"14" "3859"
 		"15" "4747"
 		"16" "1643"
@@ -234,7 +278,7 @@
 		"19" "1684"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -283,13 +327,19 @@
 		{
 			"public"
 			{
-				"gid" "4457076957810784380"
-				"size" "4087848708"
-				"download" "2065405344"
+				"gid" "245055616125421173"
+				"size" "4089392801"
+				"download" "2065934016"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"earlybirdtesting"
+			{
+				"gid" "FC6DC1C8D247A754D628F01BB4A62825"
+				"size" "976DE7E792D716376BE2189F3F7D2412"
+				"download" "0EE1D55BFF27ED564F749F13A02AFEED"
+			}
 			"staging"
 			{
 				"gid" "CE9D4515D720E3F15C0C086E0A08A5F1"
@@ -298,21 +348,21 @@
 			}
 			"testing"
 			{
-				"gid" "4D97EE3BBF6B52F7A63B7120D6D20756"
-				"size" "DA993327F243D3093E120A21E7CB4830"
-				"download" "742F935F5EFE69EAAC5A4F6337704E76"
+				"gid" "B9B16F3D578D996BA7FB288DE1564DDA"
+				"size" "C0F415E84A31898E8E6F532482033565"
+				"download" "976CC65CF22C488AC50FDF7AB03CA5B0"
 			}
 			"version_1_0_0_staging"
 			{
-				"gid" "4D2E2A86424A4BBED734A013E65A716C"
-				"size" "BD9583E09C3D3C5F5BFE95B384C1C5CF"
-				"download" "BCA965DC463FC39EA0FE090573085CB0"
+				"gid" "0FABDD95879CA8E6C17E67A8AEE11F95"
+				"size" "12F4476D03E8E1EF9C333B5C5E621F68"
+				"download" "9C3378ED2551FCB5AC55F1AC5BBEF052"
 			}
 			"version_1_0_0_testing"
 			{
-				"gid" "EDE90B9BD4D43AEAE82C28A72A3D5055"
-				"size" "DC606C623C6315B15A77CCA7F6630459"
-				"download" "08C3A085569792234C54B92C630725A1"
+				"gid" "4CD688FCCE640894BA2690AF08A48AEE"
+				"size" "24716F761BF6D8B857BB1E42FB152D41"
+				"download" "D422C5AE7FA110FE1C6B45452B99CC67"
 			}
 		}
 	}
@@ -320,8 +370,14 @@
 	{
 		"public"
 		{
-			"buildid" "16539862"
-			"timeupdated" "1732637062"
+			"buildid" "16565687"
+			"timeupdated" "1732809339"
+		}
+		"earlybirdtesting"
+		{
+			"buildid" "16565687"
+			"pwdrequired" "1"
+			"timeupdated" "1732794809"
 		}
 		"staging"
 		{
@@ -331,21 +387,21 @@
 		}
 		"testing"
 		{
-			"buildid" "16537467"
+			"buildid" "16549162"
 			"pwdrequired" "1"
-			"timeupdated" "1732622869"
+			"timeupdated" "1732694815"
 		}
 		"version_1_0_0_staging"
 		{
-			"buildid" "16539862"
+			"buildid" "16565687"
 			"pwdrequired" "1"
-			"timeupdated" "1732634669"
+			"timeupdated" "1732796828"
 		}
 		"version_1_0_0_testing"
 		{
-			"buildid" "16539425"
+			"buildid" "16565635"
 			"pwdrequired" "1"
-			"timeupdated" "1732632745"
+			"timeupdated" "1732794575"
 		}
 	}
 }
@@ -398,6 +454,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26369993"
-"_sha" "7a17752bad9f2f97a39400b3358b4cc4a3f65cf4"
-"_size" "7519"
+"_change_number" "26409227"
+"_sha" "1d7e35baeb5df1ce06d1412a6a8fabf1a8790b2b"
+"_size" "8910"
