@@ -102,6 +102,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1718183855"
 	"associations"
 	{
@@ -177,13 +219,13 @@
 		"10" "4136"
 		"11" "4726"
 		"12" "9"
-		"13" "1036"
-		"14" "3978"
-		"15" "5923"
-		"16" "1664"
-		"17" "1662"
-		"18" "5611"
-		"19" "1667"
+		"13" "5611"
+		"14" "1036"
+		"15" "3978"
+		"16" "5923"
+		"17" "1667"
+		"18" "1664"
+		"19" "1662"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -218,7 +260,7 @@
 		}
 		"2"
 		{
-			"executable" "chineseparentsgame.exe"
+			"executable" "game.exe"
 			"type" "default"
 			"config"
 			{
@@ -258,6 +300,15 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"baselanguages" "english,schinese,tchinese,japanese"
 	"hasdepotsindlc" "1"
 	"736191"
@@ -270,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "5542772300601384352"
-				"size" "837093785"
-				"download" "525605280"
+				"gid" "6962004590583979999"
+				"size" "834812581"
+				"download" "524353856"
 			}
 			"good_old_times"
 			{
@@ -351,9 +402,9 @@
 			}
 			"loctest"
 			{
-				"gid" "3EA47D7C779E1E930954D55A533150D2"
-				"size" "21E14D41DAFB010F8C84A3A01AD88694"
-				"download" "9542238E391487377FED13A1FCF1BE8C"
+				"gid" "B37ADC5716B69336149074725FFB0784"
+				"size" "1C7A041EAF168A672D7E89C0B2265211"
+				"download" "90B74B46D917E25260602C30D2F38FD1"
 			}
 		}
 	}
@@ -367,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "4504187533012076316"
-				"size" "595109883"
-				"download" "394223264"
+				"gid" "8003718820809386137"
+				"size" "590783992"
+				"download" "396729712"
 			}
 			"good_old_times"
 			{
@@ -448,9 +499,9 @@
 			}
 			"loctest"
 			{
-				"gid" "5558F5F84AD7F5611342B43148006FBA"
-				"size" "EF952E65BAEC62338E55AB9BAF2728E4"
-				"download" "CA8CC8C13D6D85D1B6EF37E65459A5EA"
+				"gid" "BB97F19A3CE738C8ECD53DF91A8B05D8"
+				"size" "0F2E80CE912573B39E98FDA4AA54497B"
+				"download" "2A1ACE1DA112B59B2F4A24CD0027A114"
 			}
 		}
 	}
@@ -465,9 +516,9 @@
 		{
 			"public"
 			{
-				"gid" "5603299113563883637"
-				"size" "159631180"
-				"download" "130162352"
+				"gid" "863066559203108615"
+				"size" "159631285"
+				"download" "130162368"
 			}
 		}
 		"encryptedmanifests"
@@ -504,9 +555,9 @@
 			}
 			"loctest"
 			{
-				"gid" "AB88DD9562B34396B16724239F786FC0"
-				"size" "2987FD61C611FB424175D642626BABC5"
-				"download" "E84DBABB31D24240740D32950F6A5A65"
+				"gid" "2B69A84D3E612D1351015361320219C6"
+				"size" "DB990E0BF1C93A22E00F013EAB5B9F5A"
+				"download" "1B4E331365158827A8A7C4C7A16D25F5"
 			}
 		}
 	}
@@ -521,9 +572,9 @@
 		{
 			"public"
 			{
-				"gid" "1252565771061063361"
-				"size" "127120237"
-				"download" "110132464"
+				"gid" "5362877922653257173"
+				"size" "127121654"
+				"download" "110132336"
 			}
 		}
 		"encryptedmanifests"
@@ -560,9 +611,9 @@
 			}
 			"loctest"
 			{
-				"gid" "D3C0F6F6AD128844230D1E0FDB0757F1"
-				"size" "34876CAEBBD1CA7686FEC28C66CC1B05"
-				"download" "C9FBF5B2C14B942FCBFD03AB3393449E"
+				"gid" "1FF98111F27EF763878DA6726521DC97"
+				"size" "1217DE5E068D3CF4D8666AC15C43F8A8"
+				"download" "54B5C45F399789BDFC73CCAB3D4883A0"
 			}
 		}
 	}
@@ -570,8 +621,8 @@
 	{
 		"public"
 		{
-			"buildid" "14950737"
-			"timeupdated" "1720254417"
+			"buildid" "16400822"
+			"timeupdated" "1732759775"
 		}
 		"censor"
 		{
@@ -647,9 +698,9 @@
 		}
 		"loctest"
 		{
-			"buildid" "14950737"
+			"buildid" "16400822"
 			"pwdrequired" "1"
-			"timeupdated" "1720253918"
+			"timeupdated" "1731554417"
 		}
 	}
 }
@@ -732,6 +783,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24259541"
-"_sha" "4fd3de574507a6402f12ccd41606a5084babfc72"
-"_size" "15249"
+"_change_number" "26397730"
+"_sha" "639e90125cca09e1fa3f2866f3335a4985428f90"
+"_size" "16058"
