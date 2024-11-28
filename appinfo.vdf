@@ -184,18 +184,18 @@
 	"store_tags"
 	{
 		"0" "14139"
-		"1" "1664"
-		"2" "1742"
-		"3" "1741"
+		"1" "1741"
+		"2" "1664"
+		"3" "1742"
 		"4" "1677"
 		"5" "4136"
 		"6" "4182"
-		"7" "17305"
-		"8" "1708"
+		"7" "1708"
+		"8" "17305"
 		"9" "21725"
 		"10" "122"
-		"11" "21"
-		"12" "4168"
+		"11" "4168"
+		"12" "21"
 		"13" "492"
 		"14" "5851"
 		"15" "5716"
@@ -261,6 +261,18 @@
 		{
 			"public"
 			{
+				"gid" "1710081409972884275"
+				"size" "2523431478"
+				"download" "1113040224"
+			}
+			"nextversion"
+			{
+				"gid" "1710081409972884275"
+				"size" "2523431478"
+				"download" "1113040224"
+			}
+			"oldversion"
+			{
 				"gid" "2626485505981881329"
 				"size" "2516370478"
 				"download" "1112234592"
@@ -270,9 +282,9 @@
 		{
 			"private-testing"
 			{
-				"gid" "662C2D56E56161A9E2481215719DF452"
-				"size" "BC7976992E6B5864FF75C83019D50184"
-				"download" "705E2C49DB8F78EB2398AE0751F55A71"
+				"gid" "9C4386F53A3298714F745284E977A4B7"
+				"size" "B1E96BD8FD673DEEA44CD9B60AEA5456"
+				"download" "ECA7629305022CA8A5742189EFB02420"
 			}
 		}
 	}
@@ -282,6 +294,18 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1180374840999261033"
+				"size" "1152776650"
+				"download" "396545616"
+			}
+			"nextversion"
+			{
+				"gid" "1180374840999261033"
+				"size" "1152776650"
+				"download" "396545616"
+			}
+			"oldversion"
 			{
 				"gid" "1180374840999261033"
 				"size" "1152776650"
@@ -305,14 +329,26 @@
 	{
 		"public"
 		{
+			"buildid" "16476256"
+			"timeupdated" "1732734894"
+		}
+		"nextversion"
+		{
+			"buildid" "16476256"
+			"description" "Test the next patch"
+			"timeupdated" "1732127517"
+		}
+		"oldversion"
+		{
 			"buildid" "15812766"
-			"timeupdated" "1727211116"
+			"description" "Previous major patch"
+			"timeupdated" "1732733324"
 		}
 		"private-testing"
 		{
-			"buildid" "15812766"
+			"buildid" "16476256"
 			"pwdrequired" "1"
-			"timeupdated" "1727204214"
+			"timeupdated" "1732127032"
 		}
 	}
 }
@@ -352,5 +388,69 @@
 				"1" "Windows"
 			}
 		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot2/"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot2/MissionCheckpoints/"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot3/"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot3/MissionCheckpoints/"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"7"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot4/"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot4/MissionCheckpoints/"
+			"pattern" "*.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26392522"
+"_sha" "2995ec8d4ebf480f8ae399c5e0429106c8c12623"
+"_size" "8729"
