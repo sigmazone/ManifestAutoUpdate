@@ -23,8 +23,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1731456000"
-		"tested_build_id" "16337398"
+		"test_timestamp" "1732665600"
+		"tested_build_id" "16479175"
 		"tests"
 		{
 			"0"
@@ -58,8 +58,8 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
-			"requires_h264" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -311,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "4749613566750724474"
-				"size" "2334824615"
-				"download" "2031263248"
+				"gid" "4065862597974416684"
+				"size" "2337895629"
+				"download" "2033990112"
 			}
 			"previous_version"
 			{
@@ -324,6 +324,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"bugtest"
+			{
+				"gid" "A16757C26C6E69F7F8BBD5B19905B2E6"
+				"size" "E7FD22F269289637F03453532A0C6F65"
+				"download" "62D0A26313D2BFF8A81D97DA29FA1CD0"
+			}
 			"closedbetatesting"
 			{
 				"gid" "63EB28408DC810FA584E9C3253CD0806"
@@ -332,9 +338,9 @@
 			}
 			"edgegap"
 			{
-				"gid" "1267E25CEFE6EC15D5E1DDF20C2077B8"
-				"size" "D23A3A3196FB607E9D84D165777BF182"
-				"download" "4302737969C7FC2DE5A1061101B8B06A"
+				"gid" "A61374CC068B0B49638BBDC778816673"
+				"size" "BFE57183A79714388D28C0753ABE8CA6"
+				"download" "52C10B759DF53E77B29BD9AA2CF8B884"
 			}
 			"empty"
 			{
@@ -350,9 +356,9 @@
 			}
 			"nightlybuilds"
 			{
-				"gid" "A23D0059A4DD8F79A08255DB6E29630C"
-				"size" "5D5D9FC780D6A20ED7374317EDB68340"
-				"download" "5FD09B4EE0AABBF85EEA5C04A7D6FC74"
+				"gid" "51EEB3A0E69B0BD82FA2BA2D75D264F9"
+				"size" "50BE02DB40BF454B64833CFC09D9D3DA"
+				"download" "A9F70910384738087E874D7E41152F9C"
 			}
 			"offbrand"
 			{
@@ -368,15 +374,15 @@
 			}
 			"release"
 			{
-				"gid" "442BF349926A8176DC7F9D65DBAD6C7C"
-				"size" "AC78A8FAF1F2DB537F22A091E81069CE"
-				"download" "BC66F422258640880CE778EDB84E9399"
+				"gid" "EB5A0176F2D79025D23D7175067544F0"
+				"size" "412A66D2785F6C72E6D56A2629ADCB85"
+				"download" "B43F1A8D7E5CD775991966CD747E4241"
 			}
 			"shippingnightly"
 			{
-				"gid" "9E590D4E5C6BF6CD5C3A6A6B685988A5"
-				"size" "07CC3B4F2BE111F53B7AC3C1B65F48FD"
-				"download" "9DB47B5F48B7D233EDA914CBF34456EA"
+				"gid" "5221CE5FE2C712024D919BD0730EED41"
+				"size" "2CD297BD9D3F8EA6AC21090D45E6CD83"
+				"download" "54A1A042F97F19C78BAF6A07C32874D1"
 			}
 			"trailerbranch"
 			{
@@ -386,15 +392,15 @@
 			}
 			"futurenightly"
 			{
-				"gid" "8B46F493768447716176E526670E0F81"
-				"size" "BC36518FEF0C6AE35C8A13EA346F5901"
-				"download" "ECFFDD9841D28641C760245BE09CB42E"
+				"gid" "B775FA08C497932CEA6AA9492C85CDC5"
+				"size" "1FF817DB7F47C0A56FABBF3A7153F0A8"
+				"download" "7280C0E0BBE635FFBF74369882278117"
 			}
 			"beta"
 			{
-				"gid" "EE6F6BED4D7941E6E926D0EF0A14011A"
-				"size" "1038EEC1F08B565E33AFBED0919EA2B6"
-				"download" "C677BFC968099916A1EB839601580888"
+				"gid" "E34C68184D1266E7BFFF04EA6D646CC1"
+				"size" "F4F81FD9AD74CCADE9BA4DEED0CE472A"
+				"download" "1A91717E25C0510F2C2476F0E5E84493"
 			}
 			"crashtesting"
 			{
@@ -440,9 +446,9 @@
 			}
 			"recording"
 			{
-				"gid" "E18079F8415CAE51107CC46A4B6ECAF6"
-				"size" "907AD96DCC41BDCADA628B646C66FE4B"
-				"download" "EDA54884EDF73A7FE41224C488E8E56D"
+				"gid" "CB64C3E1EC62B5EC40253EFAE8ADF1DB"
+				"size" "FCC7F65D1C78EA1614528DB09D3860CE"
+				"download" "579BF4A6C6856D341CED6BF764111295"
 			}
 			"shippingtests"
 			{
@@ -450,17 +456,11 @@
 				"size" "D75F108CBE1215976163D4365A0EA838"
 				"download" "3B0EDD42C12B821146C9CC02E9170DB7"
 			}
-			"uitesting"
-			{
-				"gid" "120D72CC8BF8237FBBE1AD0941B2E925"
-				"size" "57AE990CD32EA2FEE6D6376BA528E9CF"
-				"download" "B62F189CE5E09B8C4B3A7BBF0BE035FA"
-			}
 			"wiptesting"
 			{
-				"gid" "4BECBBB915F848B638DE944F9A8A361D"
-				"size" "F53835B2E9133E02B1C13404D33B0412"
-				"download" "7C2DDB651B59FCE430C59C44D18671E4"
+				"gid" "194062A6CD624BF4B0FE3E7AE5C0969A"
+				"size" "6CBB622CB0211453C8CC82639B8DA592"
+				"download" "E40F839363A7135BA1EC9567F37B26ED"
 			}
 		}
 	}
@@ -468,8 +468,14 @@
 	{
 		"public"
 		{
-			"buildid" "16479175"
-			"timeupdated" "1732158757"
+			"buildid" "16558838"
+			"timeupdated" "1732747646"
+		}
+		"bugtest"
+		{
+			"buildid" "16504223"
+			"pwdrequired" "1"
+			"timeupdated" "1732302306"
 		}
 		"closedbetatesting"
 		{
@@ -479,9 +485,9 @@
 		}
 		"edgegap"
 		{
-			"buildid" "16477073"
+			"buildid" "16544395"
 			"pwdrequired" "1"
-			"timeupdated" "1732135151"
+			"timeupdated" "1732661097"
 		}
 		"empty"
 		{
@@ -497,9 +503,9 @@
 		}
 		"nightlybuilds"
 		{
-			"buildid" "16480459"
+			"buildid" "16560594"
 			"pwdrequired" "1"
-			"timeupdated" "1732155439"
+			"timeupdated" "1732760716"
 		}
 		"offbrand"
 		{
@@ -521,15 +527,15 @@
 		}
 		"release"
 		{
-			"buildid" "16479175"
+			"buildid" "16564785"
 			"pwdrequired" "1"
-			"timeupdated" "1732146442"
+			"timeupdated" "1732790488"
 		}
 		"shippingnightly"
 		{
-			"buildid" "16480662"
+			"buildid" "16560776"
 			"pwdrequired" "1"
-			"timeupdated" "1732156895"
+			"timeupdated" "1732761992"
 		}
 		"trailerbranch"
 		{
@@ -539,15 +545,15 @@
 		}
 		"futurenightly"
 		{
-			"buildid" "16481216"
+			"buildid" "16561123"
 			"pwdrequired" "1"
-			"timeupdated" "1732161377"
+			"timeupdated" "1732764361"
 		}
 		"beta"
 		{
-			"buildid" "16477073"
+			"buildid" "16544395"
 			"pwdrequired" "1"
-			"timeupdated" "1732132797"
+			"timeupdated" "1732659595"
 		}
 		"crashtesting"
 		{
@@ -593,9 +599,9 @@
 		}
 		"recording"
 		{
-			"buildid" "15774791"
+			"buildid" "16544046"
 			"pwdrequired" "1"
-			"timeupdated" "1726859596"
+			"timeupdated" "1732657450"
 		}
 		"shippingtests"
 		{
@@ -603,17 +609,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1723144777"
 		}
-		"uitesting"
-		{
-			"buildid" "14811364"
-			"pwdrequired" "1"
-			"timeupdated" "1719170403"
-		}
 		"wiptesting"
 		{
-			"buildid" "16493532"
+			"buildid" "16501091"
 			"pwdrequired" "1"
-			"timeupdated" "1732233692"
+			"timeupdated" "1732284213"
 		}
 	}
 }
@@ -636,6 +636,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26307772"
-"_sha" "030d901b9a82bdac585bf3c9a283adc01554c374"
-"_size" "13074"
+"_change_number" "26403851"
+"_sha" "d46ecfa136c9b925c4e792c3728085532c46f073"
+"_size" "13075"
