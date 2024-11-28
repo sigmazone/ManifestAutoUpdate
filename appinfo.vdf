@@ -206,8 +206,8 @@
 		"1" "597"
 		"2" "3859"
 		"3" "1721"
-		"4" "3843"
-		"5" "1667"
+		"4" "1667"
+		"5" "3843"
 		"6" "3978"
 		"7" "3839"
 		"8" "3834"
@@ -242,14 +242,25 @@
 			"type" "option1"
 			"description_loc"
 			{
-				"english" "Backrooms Media"
+				"english" "Backrooms Media (DirectX12)"
 			}
-			"description" "Backrooms Media"
+			"description" "Backrooms Media (DirectX12)"
 		}
 		"1"
 		{
-			"executable" "BackroomsMediaBuilder\\BackroomsMediaBuilder.exe"
+			"executable" "BackroomsMedia.exe"
+			"arguments" "-dx11"
 			"type" "option2"
+			"description_loc"
+			{
+				"english" "Backrooms Media (DirectX11)"
+			}
+			"description" "Backrooms Media (DirectX11)"
+		}
+		"2"
+		{
+			"executable" "BackroomsMediaBuilder\\BackroomsMediaBuilder.exe"
+			"type" "option3"
 			"config"
 			{
 				"oslist" "windows"
@@ -305,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "5194904060217928566"
-				"size" "11214144107"
-				"download" "10073027056"
+				"gid" "6839244474069774782"
+				"size" "11052437817"
+				"download" "9910683456"
 			}
 		}
 		"encryptedmanifests"
@@ -326,9 +337,9 @@
 			}
 			"test"
 			{
-				"gid" "E5E2E1C74CEADD3AE47947535E0A9BF8"
-				"size" "55A4098768D06E4E69DB05CF488A1914"
-				"download" "0A5FF3AA9EA84080843E87FD5A78A267"
+				"gid" "7C7E44B8EAB67D5545C2BD69944866B0"
+				"size" "07CECFBB41E0738BD9AADA3831299D44"
+				"download" "4EC93145F90CCCB6009E1A65F9E2241D"
 			}
 			"video"
 			{
@@ -343,8 +354,8 @@
 	{
 		"public"
 		{
-			"buildid" "16165953"
-			"timeupdated" "1729783004"
+			"buildid" "16566122"
+			"timeupdated" "1732811837"
 		}
 		"gold"
 		{
@@ -360,9 +371,9 @@
 		}
 		"test"
 		{
-			"buildid" "16165953"
+			"buildid" "16566122"
 			"pwdrequired" "1"
-			"timeupdated" "1729776150"
+			"timeupdated" "1732796893"
 		}
 		"video"
 		{
@@ -379,6 +390,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25879184"
-"_sha" "6b23b7eb16f1a849944f57429fded936416c38e4"
-"_size" "6572"
+"_change_number" "26409498"
+"_sha" "0321348d873c41f43e89c4416cb8e26a38d47650"
+"_size" "6827"
