@@ -1,0 +1,160 @@
+"appid" "2844540"
+"common"
+{
+	"name" "JR EAST Train Simulator: Takasaki Line (Ueno to Takasaki) E233-3000 series"
+	"type" "DLC"
+	"parent" "2111630"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "JR東日本トレインシミュレータ: 高崎線 (上野 → 高崎) E233系3000番代 "
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_4d4e74caec9b51c6ab97be77d77189618e51d004.jpg"
+	"store_asset_mtime" "1724742332"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ONGAKUKAN Co.,Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "East Japan Railway Company"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "JR EAST Train Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709013527"
+	"gameid" "2844540"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1616"
+		"2" "1644"
+		"3" "10383"
+		"4" "5379"
+		"5" "1100687"
+		"6" "4175"
+		"7" "4182"
+		"8" "4821"
+		"9" "18594"
+	}
+}
+"extended"
+{
+	"dlcforappid" "2111630"
+	"mustownapptopurchase" "2111630"
+	"developer" "ONGAKUKAN Co.,Ltd."
+	"publisher" "East Japan Railway Company"
+	"homepage" "https://www.jreast.co.jp/simulator/"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2844541"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1534966295677171788"
+				"size" "521244912"
+				"download" "348655120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testplay"
+			{
+				"gid" "CB3142890CE1C87D97211AB662A0D198"
+				"size" "AC0ED534D40A139E017DF02141D71134"
+				"download" "55B8A85455145955BCBA694BDBE39359"
+			}
+		}
+		"dlcappid" "2844540"
+	}
+	"2844542"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "565356863892970318"
+				"size" "23678881120"
+				"download" "24002856736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testplay"
+			{
+				"gid" "1DE01C893982B1B212A23436C3658B3C"
+				"size" "629395A47392541BCD835D2955B46CBA"
+				"download" "019FDC1BE916C175E828642739E67254"
+			}
+		}
+		"dlcappid" "2844540"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16561079"
+			"timeupdated" "1732780260"
+		}
+		"testplay"
+		{
+			"buildid" "16561079"
+			"pwdrequired" "1"
+			"timeupdated" "1732764016"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26401227"
+"_sha" "a29566cfc7d51c07bec0cb92e53a88f7dc948dd6"
+"_size" "2823"
