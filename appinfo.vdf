@@ -1,0 +1,365 @@
+"appid" "2538370"
+"common"
+{
+	"name" "Long Story Short"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"clienttga" "ade502c849dc4b67410e8ce03d66fc0bee65fba5"
+	"clienticon" "e9a4f41bee0c1bbc438f76733f502e2080bcd40a"
+	"icon" "944cda6ed6b15553ff64a9e14d60b871105aaf95"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "67c1e701c08f6856e051d1d82db9e61246513672/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "dd22fd9404bf8818593b9ddebbb3440e64db0c89/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "dd22fd9404bf8818593b9ddebbb3440e64db0c89/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e611c2c423b6a892aead24325a50bb02cd2d7e7e/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "e611c2c423b6a892aead24325a50bb02cd2d7e7e/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729785590"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TTrickGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TTrickGames"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729792861"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2538370"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "5611"
+		"3" "492"
+		"4" "24904"
+		"5" "6426"
+		"6" "4191"
+		"7" "4947"
+		"8" "1719"
+		"9" "6971"
+		"10" "3799"
+		"11" "1742"
+		"12" "4136"
+		"13" "597"
+		"14" "4486"
+		"15" "5923"
+		"16" "5984"
+		"17" "4182"
+		"18" "9204"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "TTrickGames"
+	"publisher" "TTrickGames"
+}
+"config"
+{
+	"installdir" "Long Story Short"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "lss.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "lss.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "lss.AppImage"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2538371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7937132459277278381"
+				"size" "2525744666"
+				"download" "2358584144"
+			}
+			"local"
+			{
+				"gid" "4495000955844843689"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "7F0A465144009057655EE106C50D2B49"
+				"size" "0A99D5BB47EC0BFA27A39158407EC54E"
+				"download" "5C1EBF37D4BC35EF1875AAB54C52FB89"
+			}
+		}
+	}
+	"2538372"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6361798921941891274"
+				"size" "2526290923"
+				"download" "2353370848"
+			}
+			"local"
+			{
+				"gid" "8053122032191472104"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "83361186E8AF3A5EEE493C22629C66F1"
+				"size" "6A519F29B2243AC0984D4685453F98D2"
+				"download" "7F3A17CF0E7F095C9A88B5F2BA537067"
+			}
+		}
+	}
+	"2538373"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8683508829041305575"
+				"size" "2517277083"
+				"download" "2354562272"
+			}
+			"local"
+			{
+				"gid" "7952146957765109537"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "F68FEC1699ADF49F438402AD9444005E"
+				"size" "B6E3FB2CB9AA691B12ED264A150184C7"
+				"download" "2CEB10110C8709FC88E053C8C43C8DB9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16354036"
+			"timeupdated" "1731183353"
+		}
+		"local"
+		{
+			"buildid" "11933390"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1691967749"
+		}
+		"testing"
+		{
+			"buildid" "16354036"
+			"pwdrequired" "1"
+			"timeupdated" "1731183316"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "lss/saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "lss/saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "lss/saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26352859"
+"_sha" "ed984f16d26433333baa45043f0c006d6c644470"
+"_size" "5851"
