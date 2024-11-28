@@ -24,6 +24,7 @@
 		"polish" "1"
 		"arabic" "1"
 		"brazilian" "1"
+		"latam" "1"
 	}
 	"logo" "a0c71bb94ee30eca253ff18e953075c9ec40faf4"
 	"logo_small" "a0c71bb94ee30eca253ff18e953075c9ec40faf4_thumb"
@@ -154,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1718406826"
+	"store_asset_mtime" "1727239686"
 	"associations"
 	{
 		"0"
@@ -262,6 +263,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1625802960"
 	"metacritic_score" "82"
@@ -331,7 +337,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
 	"228988"
 	{
 		"config"
@@ -360,9 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "3616056287766069357"
-				"size" "28636042607"
-				"download" "17538772192"
+				"gid" "3780574772790497438"
+				"size" "28575455647"
+				"download" "17508498256"
 			}
 		}
 		"encryptedmanifests"
@@ -459,15 +465,15 @@
 			}
 			"dev_m"
 			{
-				"gid" "F3D6883C8B194DFF2F50F19DB95F1B98"
-				"size" "A6B8EC90B3E58FEA4D29F335D7FAECDC"
-				"download" "A83757BADC385176ABFA5BCD772F74D5"
+				"gid" "6EE0108B9522F2F9CB26F44E048CFF4A"
+				"size" "CDF8B3DC508814ED94B773D6DB1FC267"
+				"download" "C1560B59F999B85C1BF45AAF293A19E4"
 			}
 			"dev_q"
 			{
-				"gid" "AFD12B0536811E8F23556F532F96C0F9"
-				"size" "0F42325349923367A78592C391DD47E0"
-				"download" "E8C2ACA11B5A1F093A17AA61625B6162"
+				"gid" "AB6AA014C0C69A6FC2CA8B056157C68F"
+				"size" "A8D43404D6E99F2E568A8122A6A18353"
+				"download" "11C66D3E133B85910588249BDFAC4E15"
 			}
 			"m_storage_06"
 			{
@@ -483,9 +489,9 @@
 			}
 			"qa_m_02"
 			{
-				"gid" "2484649A646B40D0CB4EE434D4C7195C"
-				"size" "A48248F3AE19B97DCF6BD458D575E3F8"
-				"download" "9EA57D186F7A7AFF9A9A35FA4FA244FA"
+				"gid" "90554C4171F6052A3DE76E10D3B20F3A"
+				"size" "CA8E1CDB09864E7BB4985C25FFDA1A90"
+				"download" "889C023167A48DBA71EDCB2EB4828BE6"
 			}
 			"qa_q"
 			{
@@ -495,9 +501,9 @@
 			}
 			"qa_q_02"
 			{
-				"gid" "D7713329700593A011AE96DE7B0A336D"
-				"size" "0C8F96396D2FC1521E0391F4492049FE"
-				"download" "3189FBE1917F6AC1CBB6508ACF9A36B5"
+				"gid" "F127EE331812EF530980FE625582644E"
+				"size" "D145F2CEA59FAD7A5275FB444EF1B77E"
+				"download" "3BB4DCCAEEDCC1BC673CC16B567FAC4E"
 			}
 			"qa_s"
 			{
@@ -628,9 +634,9 @@
 			}
 			"dev_q"
 			{
-				"gid" "BDE52FE5C05967CE316B743A1630DC72"
+				"gid" "56B4B23CAC30AFAE632A4C28CA52CD95"
 				"size" "607BC0CD523FC2FFA7EE96D6E8CD245F"
-				"download" "03C25A30D15481C11CA2854EC83A69D3"
+				"download" "806C1B0CA0A0D7D0031A0FC5672EFEDE"
 			}
 			"m_storage_06"
 			{
@@ -652,15 +658,15 @@
 			}
 			"qa_q"
 			{
-				"gid" "783AB7D336DF64AB1662AC1C025DC49B"
+				"gid" "F654DB337DB629C73284BEDE586DDF53"
 				"size" "D7619762DB45870339BDD94517F19189"
-				"download" "EE371B8A062AACED4B2F68F494F28FC1"
+				"download" "18FBFC15E692EBB9D5E1770CD07D887F"
 			}
 			"qa_q_02"
 			{
-				"gid" "0F3F019E26DF7E509972159B2C9A7190"
+				"gid" "EF1A75E67A5EF77AB69DD3B4B7B0307C"
 				"size" "C5307575374D97ECAA722786A333B377"
-				"download" "C26C88B8D05E499903EC31A20D612C30"
+				"download" "652C946B12789991338628F3AE18262E"
 			}
 			"qa_s"
 			{
@@ -4304,8 +4310,8 @@
 	{
 		"public"
 		{
-			"buildid" "14387966"
-			"timeupdated" "1718252793"
+			"buildid" "16483253"
+			"timeupdated" "1732755658"
 		}
 		"d_develop"
 		{
@@ -4399,15 +4405,15 @@
 		}
 		"dev_m"
 		{
-			"buildid" "15724849"
+			"buildid" "16483253"
 			"pwdrequired" "1"
-			"timeupdated" "1726552634"
+			"timeupdated" "1732177222"
 		}
 		"dev_q"
 		{
-			"buildid" "15724102"
+			"buildid" "16482809"
 			"pwdrequired" "1"
-			"timeupdated" "1726545828"
+			"timeupdated" "1732174391"
 		}
 		"m_storage_06"
 		{
@@ -4423,21 +4429,21 @@
 		}
 		"qa_m_02"
 		{
-			"buildid" "15632148"
+			"buildid" "16483253"
 			"pwdrequired" "1"
-			"timeupdated" "1725948223"
+			"timeupdated" "1732183531"
 		}
 		"qa_q"
 		{
-			"buildid" "15724102"
+			"buildid" "15962860"
 			"pwdrequired" "1"
-			"timeupdated" "1726560419"
+			"timeupdated" "1728366680"
 		}
 		"qa_q_02"
 		{
-			"buildid" "15631731"
+			"buildid" "16482809"
 			"pwdrequired" "1"
-			"timeupdated" "1725948143"
+			"timeupdated" "1732180655"
 		}
 		"qa_s"
 		{
@@ -4458,3 +4464,7 @@
 	"quota" "100000000"
 	"maxnumfiles" "16"
 }
+"_missing_token" "False"
+"_change_number" "26397258"
+"_sha" "5a27639074cf18a6aad50e726cab53d7acfba147"
+"_size" "116959"
