@@ -17,12 +17,14 @@
 		"english" "1"
 		"german" "1"
 		"french" "1"
+		"italian" "1"
 		"koreana" "1"
 		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
 		"russian" "1"
 		"japanese" "1"
+		"polish" "1"
 		"brazilian" "1"
 	}
 	"content_descriptors"
@@ -225,6 +227,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1698156035"
 	"metacritic_score" "76"
@@ -286,9 +298,21 @@
 		{
 			"public"
 			{
-				"gid" "1986497197213509812"
-				"size" "25483691963"
-				"download" "7614268192"
+				"gid" "800087205275550907"
+				"size" "25476471187"
+				"download" "7611892064"
+			}
+			"opt1"
+			{
+				"gid" "5569952847073438430"
+				"size" "25492828227"
+				"download" "7618109712"
+			}
+			"opt2"
+			{
+				"gid" "4786916339548521867"
+				"size" "25492827691"
+				"download" "7618108960"
 			}
 			"previousversion"
 			{
@@ -307,9 +331,9 @@
 			}
 			"translationbuild"
 			{
-				"gid" "BF28B313ABE3A6BD0C4A94F96A014EDD"
-				"size" "AF4C116B2443FF19FE768810FB6C8183"
-				"download" "165EF4DD6B6DC3CB8276728B28D0BB0B"
+				"gid" "A26F5A49136B15389AB7AE9DC2024191"
+				"size" "C10812FCD1076C7CD68F31BB6C25CF03"
+				"download" "E1B66ECF775441420FD405D56AEE944E"
 			}
 		}
 	}
@@ -319,6 +343,18 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "3093673235454532849"
+				"size" "319415550"
+				"download" "314023264"
+			}
+			"opt1"
+			{
+				"gid" "3093673235454532849"
+				"size" "319415550"
+				"download" "314023264"
+			}
+			"opt2"
 			{
 				"gid" "3093673235454532849"
 				"size" "319415550"
@@ -351,14 +387,26 @@
 	{
 		"public"
 		{
-			"buildid" "15549849"
-			"timeupdated" "1725057556"
+			"buildid" "16448108"
+			"timeupdated" "1732563930"
 		}
 		"dlctest"
 		{
 			"buildid" "14091077"
 			"pwdrequired" "1"
 			"timeupdated" "1713410352"
+		}
+		"opt1"
+		{
+			"buildid" "15907212"
+			"description" "agressive optimizations for lvl 4"
+			"timeupdated" "1727898992"
+		}
+		"opt2"
+		{
+			"buildid" "15907141"
+			"description" "opt1+agressive culling"
+			"timeupdated" "1727898586"
 		}
 		"previousversion"
 		{
@@ -368,9 +416,9 @@
 		}
 		"translationbuild"
 		{
-			"buildid" "15656462"
+			"buildid" "16448108"
 			"pwdrequired" "1"
-			"timeupdated" "1726005055"
+			"timeupdated" "1731956343"
 		}
 	}
 }
@@ -428,3 +476,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26355001"
+"_sha" "4c477fdb54e083de7d1b7743a2dba2bdd7dabae1"
+"_size" "9053"
