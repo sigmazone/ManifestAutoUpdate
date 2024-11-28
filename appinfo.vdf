@@ -27,6 +27,7 @@
 		"polish" "1"
 		"arabic" "1"
 		"brazilian" "1"
+		"latam" "1"
 	}
 	"eulas"
 	{
@@ -174,7 +175,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1718356265"
+	"store_asset_mtime" "1727410797"
 	"associations"
 	{
 		"0"
@@ -280,6 +281,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1718337527"
 	"community_visible_stats" "1"
@@ -309,7 +315,7 @@
 		"19" "4325"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -372,9 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "3541766983959100130"
-				"size" "10632087251"
-				"download" "7927235552"
+				"gid" "7938508418241085763"
+				"size" "10170831715"
+				"download" "7652054496"
 			}
 		}
 		"encryptedmanifests"
@@ -441,9 +447,9 @@
 			}
 			"qa_m_b"
 			{
-				"gid" "B7A241383FE9A3984D39CD12D5B72D7B"
-				"size" "C24CF82D47F9D7D2A522B42D59BAD6FE"
-				"download" "13DEA1A48DA5570F6778D5DEEA23CA72"
+				"gid" "F88E05FCD1C6F6135FCD1055CA108997"
+				"size" "4F66248152F45E96702ED8D92D5A2808"
+				"download" "258D50DF8B7C0CFBA0A3B831F1D7B95E"
 			}
 			"qa_m_b_1"
 			{
@@ -453,9 +459,9 @@
 			}
 			"qa_q_b"
 			{
-				"gid" "6B19B5C9B5B4D48547F8486E7F97DB7E"
-				"size" "57FCAE355BEA7F239707605C6C4419DA"
-				"download" "F44659E5FD53B68970E88178F3221AE4"
+				"gid" "00C3C4104E0ADDEEB2B305D1D46D1938"
+				"size" "BFF5A8D3965B681F6DD2A99AF0A97064"
+				"download" "1990CB26225D0D72B1BD771679C8ED2C"
 			}
 			"qa_q_b_1"
 			{
@@ -471,13 +477,13 @@
 			}
 		}
 	}
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13629108"
-			"timeupdated" "1718329744"
+			"buildid" "16484822"
+			"timeupdated" "1732755624"
 		}
 		"dev_m_a"
 		{
@@ -541,9 +547,9 @@
 		}
 		"qa_m_b"
 		{
-			"buildid" "15416043"
+			"buildid" "16484822"
 			"pwdrequired" "1"
-			"timeupdated" "1724055176"
+			"timeupdated" "1732185806"
 		}
 		"qa_m_b_1"
 		{
@@ -553,9 +559,9 @@
 		}
 		"qa_q_b"
 		{
-			"buildid" "15385790"
+			"buildid" "16484661"
 			"pwdrequired" "1"
-			"timeupdated" "1724055194"
+			"timeupdated" "1732185231"
 		}
 		"qa_q_b_1"
 		{
@@ -576,3 +582,7 @@
 	"quota" "500000000"
 	"maxnumfiles" "500"
 }
+"_missing_token" "False"
+"_change_number" "26396963"
+"_sha" "85ebbcd6f2096b1e557df5441ff47048bae8b90a"
+"_size" "11379"
