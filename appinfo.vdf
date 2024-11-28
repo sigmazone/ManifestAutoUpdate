@@ -17,7 +17,10 @@
 	"languages"
 	{
 		"english" "1"
+		"spanish" "1"
 		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -97,7 +100,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728142795"
+	"store_asset_mtime" "1732252636"
 	"associations"
 	{
 		"0"
@@ -142,6 +145,26 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1728543107"
 	"community_visible_stats" "1"
@@ -155,11 +178,12 @@
 		"3" "4305"
 		"4" "3839"
 		"5" "32322"
-		"6" "4182"
-		"7" "492"
-		"8" "597"
-		"9" "1716"
-		"10" "1091588"
+		"6" "1091588"
+		"7" "1716"
+		"8" "4182"
+		"9" "492"
+		"10" "597"
+		"11" "7556"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -200,9 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "6123606978267512182"
-				"size" "4830148880"
-				"download" "451984864"
+				"gid" "2038497133934496410"
+				"size" "4830600227"
+				"download" "464131232"
 			}
 			"optimize"
 			{
@@ -215,15 +239,15 @@
 		{
 			"alpha"
 			{
-				"gid" "CBB2F09D27262CF2AD1689113A6F041E"
-				"size" "AED9EA3A55C69634465A4021B137FD4C"
-				"download" "358C4763BF5F89CEB6636108073BF951"
+				"gid" "269DDD4BA275050F276432682A33F70C"
+				"size" "5F8C3DA1CC1BAC37BB9F56621EB4845E"
+				"download" "13D80B884627CF5F47FDE0C11BD5AD3B"
 			}
 			"full-ver-qa"
 			{
-				"gid" "A735C7FDC992DE67F22CC4B7E501DF0A"
-				"size" "54214F4921DC82F578F8E06AC3CC6B5A"
-				"download" "8E2D64BA11AF1B6E911E026A0A79CA78"
+				"gid" "77314AECA6B1707DC6C2805303DB269F"
+				"size" "03A5706F46639E80263D7413420EF79D"
+				"download" "61C3650E06659E5D0B85181C19C90054"
 			}
 			"public-beta"
 			{
@@ -237,20 +261,20 @@
 	{
 		"public"
 		{
-			"buildid" "16246527"
-			"timeupdated" "1730347277"
+			"buildid" "16561495"
+			"timeupdated" "1732772685"
 		}
 		"alpha"
 		{
-			"buildid" "16246527"
+			"buildid" "16561495"
 			"pwdrequired" "1"
-			"timeupdated" "1730345534"
+			"timeupdated" "1732767757"
 		}
 		"full-ver-qa"
 		{
-			"buildid" "16031182"
+			"buildid" "16561495"
 			"pwdrequired" "1"
-			"timeupdated" "1728875829"
+			"timeupdated" "1732770800"
 		}
 		"optimize"
 		{
@@ -314,6 +338,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25982867"
-"_sha" "22f949731475f6649cb7a63ddcee8db2e97be9d8"
-"_size" "5502"
+"_change_number" "26400276"
+"_sha" "1a5990f8597d6c394d132e81ca11e217eb491ce3"
+"_size" "5858"
