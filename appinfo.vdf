@@ -88,6 +88,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -119,6 +120,13 @@
 			"image2x"
 			{
 				"english" "3959cc1e41c543a8001df938b98ded2ba66e2979/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "3959cc1e41c543a8001df938b98ded2ba66e2979/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -173,7 +181,8 @@
 	"genres"
 	{
 		"0" "1"
-		"1" "3"
+		"1" "23"
+		"2" "3"
 	}
 	"category"
 	{
@@ -184,6 +193,9 @@
 		"category_55" "1"
 		"category_56" "1"
 		"category_59" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -224,25 +236,25 @@
 	"store_tags"
 	{
 		"0" "1663"
-		"1" "1647"
-		"2" "4004"
-		"3" "1667"
-		"4" "1687"
-		"5" "3839"
-		"6" "122"
-		"7" "29482"
-		"8" "1774"
-		"9" "9204"
-		"10" "19"
-		"11" "4182"
-		"12" "3978"
-		"13" "4342"
-		"14" "7432"
-		"15" "9541"
-		"16" "6276"
-		"17" "4191"
-		"18" "4747"
-		"19" "8945"
+		"1" "1695"
+		"2" "1647"
+		"3" "1687"
+		"4" "122"
+		"5" "4004"
+		"6" "1667"
+		"7" "6691"
+		"8" "3839"
+		"9" "1774"
+		"10" "29482"
+		"11" "9204"
+		"12" "19"
+		"13" "4182"
+		"14" "3978"
+		"15" "6276"
+		"16" "4342"
+		"17" "7432"
+		"18" "1662"
+		"19" "9541"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -278,9 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "6905908301104782206"
-				"size" "4049069302"
-				"download" "1757423824"
+				"gid" "8295332997916742338"
+				"size" "4050424896"
+				"download" "1758023424"
 			}
 		}
 		"encryptedmanifests"
@@ -335,15 +347,15 @@
 			}
 			"debug"
 			{
-				"gid" "48B8B31563824B898806E333D71B135F"
-				"size" "92E7210131F1AD15726201E60878A266"
-				"download" "B419EFABCC9E966B1A7798803A234221"
+				"gid" "15491AF124A120273DD4178E9372BDF5"
+				"size" "BE8661586276F9CE73F3F49BCBEA9879"
+				"download" "386ABA623A795A6EA35E12DC0DFF9E37"
 			}
 			"experimental"
 			{
-				"gid" "36575D3E54E2E377A873AD146151A752"
-				"size" "24423D20DE3027923B7D85F21889CEB7"
-				"download" "A1AF3D5DFB91FE0A7C3127827D87ADE2"
+				"gid" "C7DB09E273FF0A4904F21DF8F182F65A"
+				"size" "09058F0680A04E4378501E154D867DC5"
+				"download" "894A4C4E1EF506F0A3063E04DD6329DE"
 			}
 			"laststable"
 			{
@@ -365,15 +377,15 @@
 			}
 			"shipping"
 			{
-				"gid" "4C9971F68B732C5708D5777F9E62A9CB"
-				"size" "E128AA5425D802C99F6FE2A7CDE15EEF"
-				"download" "02A89958C40B00237917503835DE74AC"
+				"gid" "3310F95D9BF5184397F48A2172BF5EE6"
+				"size" "6736B380C05C35C4B620A6B7ABDF2A89"
+				"download" "E2C00E16B9F06A938E9F18A4BE109D0D"
 			}
 			"testing"
 			{
-				"gid" "205D2C7ED109DA72562C8426E4DB6333"
-				"size" "844B0D31A417EDCD0C7C351BDAB34EAE"
-				"download" "C06C46BBAF40394FC9E2EBE3EB9D0468"
+				"gid" "DF3B506473E980C80998B7633DB3450D"
+				"size" "C3651B99E014A0D14FD9CDF7E0DC2F78"
+				"download" "C39D2B0F14AC2E433B90BA4DC77E5E0E"
 			}
 		}
 	}
@@ -381,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "16311070"
-			"timeupdated" "1730998502"
+			"buildid" "16529053"
+			"timeupdated" "1732730145"
 		}
 		"alfa"
 		{
@@ -434,15 +446,15 @@
 		}
 		"debug"
 		{
-			"buildid" "16310996"
+			"buildid" "16554683"
 			"pwdrequired" "1"
-			"timeupdated" "1730878644"
+			"timeupdated" "1732722769"
 		}
 		"experimental"
 		{
-			"buildid" "16191298"
+			"buildid" "16529053"
 			"pwdrequired" "1"
-			"timeupdated" "1729945410"
+			"timeupdated" "1732566829"
 		}
 		"laststable"
 		{
@@ -464,15 +476,15 @@
 		}
 		"shipping"
 		{
-			"buildid" "16311070"
+			"buildid" "16529053"
 			"pwdrequired" "1"
-			"timeupdated" "1730990001"
+			"timeupdated" "1732707367"
 		}
 		"testing"
 		{
-			"buildid" "16311070"
+			"buildid" "16525714"
 			"pwdrequired" "1"
-			"timeupdated" "1730879164"
+			"timeupdated" "1732547320"
 		}
 	}
 }
@@ -495,6 +507,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26093047"
-"_sha" "392ad5d0a8b5757684488de8413f74543ec4979a"
-"_size" "10164"
+"_change_number" "26399499"
+"_sha" "8f0d7d98a3742063ef8e90e6adbb2e9f82c0be87"
+"_size" "10410"
