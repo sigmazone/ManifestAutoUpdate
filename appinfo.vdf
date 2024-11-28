@@ -30,6 +30,48 @@
 			"height_pct" "63.51795353203474"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "63.51795353203474"
+			}
+		}
+	}
 	"store_asset_mtime" "1670502856"
 	"associations"
 	{
@@ -124,18 +166,24 @@
 		{
 			"public"
 			{
-				"gid" "6643265971990136556"
-				"size" "1046746531"
-				"download" "59301872"
+				"gid" "3895750213333065889"
+				"size" "1055150839"
+				"download" "61960160"
+			}
+			"debug"
+			{
+				"gid" "3895750213333065889"
+				"size" "1055150839"
+				"download" "61960160"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "6560D8816C09A82E110D1C00F06155B1"
-				"size" "3CC58DF34A9FF70110B19DB234B867ED"
-				"download" "75B9964FA0DFBFAB8015713A8D8634B9"
+				"gid" "46A8AAECD6A5A8E846DB49DF6F656D2E"
+				"size" "D234D8C399839B94D4D853F9CA9676D9"
+				"download" "0B7DCB7ED41CE8D88C9CB853A5E8CCC9"
 			}
 		}
 	}
@@ -153,20 +201,36 @@
 				"size" "1052987879"
 				"download" "59623152"
 			}
+			"debug"
+			{
+				"gid" "8499370740590997062"
+				"size" "1052987879"
+				"download" "59623152"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "10206115"
-			"timeupdated" "1671792788"
+			"buildid" "16550591"
+			"timeupdated" "1732702904"
+		}
+		"debug"
+		{
+			"buildid" "16301507"
+			"description" "CRUMB Debugging"
+			"timeupdated" "1730814485"
 		}
 		"internal"
 		{
-			"buildid" "10099035"
+			"buildid" "16301415"
 			"pwdrequired" "1"
-			"timeupdated" "1670433954"
+			"timeupdated" "1730814106"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26383322"
+"_sha" "9f9ed43cbcf3e3657eba5dbd8003cf03184a8d18"
+"_size" "3622"
