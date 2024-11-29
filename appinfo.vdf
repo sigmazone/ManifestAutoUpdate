@@ -99,6 +99,55 @@
 			"height_pct" "89.0613339626062"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "99.19106321215222"
+				"height_pct" "89.0613339626062"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1706099739"
 	"associations"
 	{
@@ -229,7 +278,7 @@
 		"19" "5125"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -285,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "659685426813918064"
-				"size" "6037820958"
-				"download" "2057464416"
+				"gid" "2532502267396813578"
+				"size" "6037825150"
+				"download" "2057491808"
 			}
 		}
 		"encryptedmanifests"
@@ -297,12 +346,6 @@
 				"gid" "FECDF25955BC697883B5BB94F1AC1B0F"
 				"size" "B253D19AA93CF9D80F4B8319F8B83E5F"
 				"download" "3B69A47983ACBB1A8097BCDCDB479739"
-			}
-			"bleedingedge"
-			{
-				"gid" "4CC345C8CC653E30A65C6C191808B6B6"
-				"size" "A57C937C43160D20F556EE113CF8E597"
-				"download" "D5E653C53E24E854D50786A9D2676E8A"
 			}
 			"dev_only"
 			{
@@ -340,6 +383,12 @@
 				"size" "4DAE9688A732689647CF3FB0B2DD3A4A"
 				"download" "02FB9C246D21A5C157D7D06F5D920377"
 			}
+			"bleedingedge"
+			{
+				"gid" "AEB9A18EC5B6F86FA7A04CBAA45FC522"
+				"size" "5A476EBA2C5CAFF07989332AA60ED6DD"
+				"download" "37D543C1F2A53889DA776371ABCBC845"
+			}
 		}
 	}
 	"1630610"
@@ -350,20 +399,14 @@
 	{
 		"public"
 		{
-			"buildid" "13537433"
-			"timeupdated" "1708649313"
+			"buildid" "16564792"
+			"timeupdated" "1732792291"
 		}
 		"beta"
 		{
 			"buildid" "11493855"
 			"pwdrequired" "1"
 			"timeupdated" "1686972849"
-		}
-		"bleedingedge"
-		{
-			"buildid" "13537433"
-			"pwdrequired" "1"
-			"timeupdated" "1708648104"
 		}
 		"dev_only"
 		{
@@ -401,6 +444,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1669073033"
 		}
+		"bleedingedge"
+		{
+			"buildid" "16564792"
+			"pwdrequired" "1"
+			"timeupdated" "1732790529"
+		}
 	}
 }
 "ufs"
@@ -418,6 +467,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22835832"
-"_sha" "68e415663e537aba69f4815c67b7eba150a5da66"
-"_size" "7853"
+"_change_number" "26404318"
+"_sha" "0ca3c2e830b3b2a95e0b773f32590a4cf1ac4c83"
+"_size" "8570"
