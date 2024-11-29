@@ -1,0 +1,574 @@
+"appid" "1394960"
+"common"
+{
+	"name" "Winter Survival"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a8ca94ef8cabdafc88ebc17b87bd3d2e38cea013"
+	"logo" "fac8fc76809a046721c34020078950ab88ced263"
+	"logo_small" "fac8fc76809a046721c34020078950ab88ced263_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "3da33bc539fd53e9dd23d4f13a20e246b9ecb9da"
+	"clienttga" "3e3d04b0543b0dbebcb58280b18d3f68d66bdfe5"
+	"name_localized"
+	{
+		"schinese" "Winter Survival - 冬日幸存者"
+		"tchinese" "Winter Survival - 冬日倖存者"
+		"japanese" "Winter Survival - ウィンター・サバイバル"
+		"koreana" "Winter Survival - 겨울 생존"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1716336000"
+		"tested_build_id" "13716797"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.18214811694328"
+			"height_pct" "67.50260560964668"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.18214811694328"
+				"height_pct" "67.50260560964668"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731089888"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DRAGO entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DRAGO entertainment"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "HeartBeat Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "DRAGO entertainment"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709747924"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1394960"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1100689"
+		"2" "3920"
+		"3" "1695"
+		"4" "3834"
+		"5" "4166"
+		"6" "4182"
+		"7" "3839"
+		"8" "7332"
+		"9" "21"
+		"10" "9564"
+		"11" "493"
+		"12" "1643"
+		"13" "3978"
+		"14" "1687"
+		"15" "19"
+		"16" "4106"
+		"17" "1702"
+		"18" "3810"
+		"19" "599"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "DRAGO entertainment"
+	"publisher" "DRAGO entertainment"
+	"homepage" "https://wintersurvivalthegame.com/"
+}
+"config"
+{
+	"installdir" "Winter Survival"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WSS.exe"
+			"arguments" "-Storefront=SteamOnlineSubsystem"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Winter Survival (DX12, SM6) - Default"
+			}
+			"description" "Winter Survival (DX12, SM6) - Default"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1394961"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4906061816352602101"
+				"size" "9248786625"
+				"download" "9061530016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"focus"
+			{
+				"gid" "5A94E3524035CC3260AA808D65355074"
+				"size" "1486BF1BC326BD7A2346013ACFF07228"
+				"download" "FF7828F45BA1DF2F9D27F6947015F8B2"
+			}
+			"marketing-branch"
+			{
+				"gid" "B8FA95A289CA602A0E1DE4DCDF0C6DBA"
+				"size" "F931A5B95321C27EADBF23F25347A921"
+				"download" "0031638332E878CFDAE07175C690945F"
+			}
+			"partners"
+			{
+				"gid" "A695A54D962011091B26876EB2399E27"
+				"size" "7798090068EFE3665F28CC0FD00FCF13"
+				"download" "6AB424022314AF3CF7A508CE6345A790"
+			}
+			"partners-shipping"
+			{
+				"gid" "1B7647CF40EE816FEE2913B651A9C458"
+				"size" "48220B4921AA9E662B9F7FEC3C65FF7B"
+				"download" "AA8CDBF4714C087EA4DB12D67B89867B"
+			}
+			"qa-indium-play"
+			{
+				"gid" "4A27093515AB641B1CFACDC4AF428D8D"
+				"size" "FC95B823905D0007ED71A571FABA5B6E"
+				"download" "240209287082F6AA724FBD6ABAF4802B"
+			}
+			"debug-branch"
+			{
+				"gid" "FC64AD96C3DCCB449071B8E3B6E7189D"
+				"size" "9EB241ED89EA415B7DEBF54C7EF3EED4"
+				"download" "4DAA858A1968B36EABCA2653049079CD"
+			}
+			"demo-branch"
+			{
+				"gid" "64A52EE4BF66946250F760910667D21A"
+				"size" "9805E5959F0DCE0393A3DF79AB1F97E0"
+				"download" "C87BB0B6270E215CBCA1FD6BB3578BBD"
+			}
+			"dev-branch"
+			{
+				"gid" "F27D5ABC7D2E39BEB4E17067B06CFD8B"
+				"size" "558F86C92FCD48CAEA02E265280D2E09"
+				"download" "A66CB3BB04C9C52EE25B6982E6BE3E8C"
+			}
+			"epic"
+			{
+				"gid" "712C36C3D51028FE914D2A22CB0EF4AF"
+				"size" "E1606CA106D49379B2B6709C23FAA1EC"
+				"download" "1D22F2CDE985D4FDB447A7BDA8E3CC4D"
+			}
+			"intel"
+			{
+				"gid" "450190FE78BA7A354479CC7D5E26CE61"
+				"size" "00C99CCCFA32D10B2FBEC81D1634F462"
+				"download" "F956DB8AA48E6B41EACFCCF2122D4FF7"
+			}
+			"leveldesign"
+			{
+				"gid" "E582788C1DAE05DC1E6D13D1A3CDC087"
+				"size" "B59677FF54C8C7983786651E4451294B"
+				"download" "27FB871AAEAA94026C6F01CB1B3BCD2E"
+			}
+			"nvidia"
+			{
+				"gid" "5F1E04EC3E8803B76BF97907C532C190"
+				"size" "D27DD2E0FB0B249CD2C626714CFB5E66"
+				"download" "258B6681F5130A66F863C6C24EC7D54A"
+			}
+			"playtesting"
+			{
+				"gid" "BC5CD042A956C0D117EEEA7A36D4F701"
+				"size" "7CE9B0EC057E752C8036B71F6573888E"
+				"download" "2B3F75EC169C4882442CDEF7FD6CEB5C"
+			}
+			"previous-active"
+			{
+				"gid" "864111C2FFC11D76D4889872EE610574"
+				"size" "0F73AFF96B0CF0DEB79DF8DE568046F9"
+				"download" "153EE1304403B3A8584BC5FFEED365BF"
+			}
+			"profiling"
+			{
+				"gid" "B5490910B94489254B6941CE07FA42B5"
+				"size" "5DD49737AA9AF4D4D142B89F25809B1D"
+				"download" "0BD0442E95592F0C22EF2F52F25C23A0"
+			}
+			"programmer"
+			{
+				"gid" "B83693792A2AA7F4974FAEF650CE4C71"
+				"size" "C00EA054078ABE24F1BEA37CE40C854D"
+				"download" "03A73258FD1121F9516E0B02AEAF6408"
+			}
+			"qa-branch"
+			{
+				"gid" "244EF99E29A5811FDA022687845898DF"
+				"size" "EA3017D6B290E803483373398681618C"
+				"download" "84A45173B8538588C71039E2833D20EB"
+			}
+			"shipping-branch"
+			{
+				"gid" "E167154AE7805AB816C6F31A2F40A434"
+				"size" "105C95CEDE3CFF13FE6481D23648DF19"
+				"download" "77F9CC7F3087D2E0D961D724D74D17C0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16525186"
+			"timeupdated" "1732728684"
+		}
+		"focus"
+		{
+			"buildid" "13893864"
+			"pwdrequired" "1"
+			"timeupdated" "1711713029"
+		}
+		"marketing-branch"
+		{
+			"buildid" "12605561"
+			"pwdrequired" "1"
+			"timeupdated" "1700474531"
+		}
+		"partners"
+		{
+			"buildid" "10308248"
+			"pwdrequired" "1"
+			"timeupdated" "1673601611"
+		}
+		"partners-shipping"
+		{
+			"buildid" "10307248"
+			"pwdrequired" "1"
+			"timeupdated" "1673601794"
+		}
+		"qa-indium-play"
+		{
+			"buildid" "13894646"
+			"pwdrequired" "1"
+			"timeupdated" "1711719232"
+		}
+		"debug-branch"
+		{
+			"buildid" "14942657"
+			"pwdrequired" "1"
+			"timeupdated" "1720181420"
+		}
+		"demo-branch"
+		{
+			"buildid" "16204229"
+			"pwdrequired" "1"
+			"timeupdated" "1730109799"
+		}
+		"dev-branch"
+		{
+			"buildid" "16568590"
+			"pwdrequired" "1"
+			"timeupdated" "1732809411"
+		}
+		"epic"
+		{
+			"buildid" "15147654"
+			"pwdrequired" "1"
+			"timeupdated" "1721989869"
+		}
+		"intel"
+		{
+			"buildid" "15147654"
+			"pwdrequired" "1"
+			"timeupdated" "1721989859"
+		}
+		"leveldesign"
+		{
+			"buildid" "16459754"
+			"pwdrequired" "1"
+			"timeupdated" "1732027023"
+		}
+		"nvidia"
+		{
+			"buildid" "15147654"
+			"pwdrequired" "1"
+			"timeupdated" "1721989885"
+		}
+		"playtesting"
+		{
+			"buildid" "15278941"
+			"pwdrequired" "1"
+			"timeupdated" "1723044162"
+		}
+		"previous-active"
+		{
+			"buildid" "15278941"
+			"pwdrequired" "1"
+			"timeupdated" "1729609641"
+		}
+		"profiling"
+		{
+			"buildid" "16567408"
+			"pwdrequired" "1"
+			"timeupdated" "1732807454"
+		}
+		"programmer"
+		{
+			"buildid" "15276700"
+			"pwdrequired" "1"
+			"timeupdated" "1722947470"
+		}
+		"qa-branch"
+		{
+			"buildid" "16525186"
+			"pwdrequired" "1"
+			"timeupdated" "1732544420"
+		}
+		"shipping-branch"
+		{
+			"buildid" "16442812"
+			"pwdrequired" "1"
+			"timeupdated" "1731925918"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "WSS/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26408816"
+"_sha" "01eef227fba0fc315d45d73876b8a8107fae03da"
+"_size" "11154"
