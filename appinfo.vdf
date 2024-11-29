@@ -56,6 +56,44 @@
 			"height_pct" "74.98163003324197"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "63.00761370944053"
+				"height_pct" "74.98163003324197"
+			}
+		}
+	}
 	"store_asset_mtime" "1703263704"
 	"associations"
 	{
@@ -187,6 +225,36 @@
 			"arguments" "-hmd=oculus"
 			"type" "othervr"
 		}
+		"2"
+		{
+			"executable" "Medieval.exe"
+			"arguments" "-hmd=steamvr -ini:Game:[SwordsmanSettings]:BetaBuild=True"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "media"
+			}
+			"description_loc"
+			{
+				"english" "Steam for Content Creation"
+			}
+			"description" "Steam for Content Creation"
+		}
+		"3"
+		{
+			"executable" "Medieval.exe"
+			"arguments" "-hmd=oculus -ini:Game:[SwordsmanSettings]:BetaBuild=True"
+			"type" "othervr"
+			"config"
+			{
+				"betakey" "media"
+			}
+			"description_loc"
+			{
+				"english" "Oculus for Content Creation"
+			}
+			"description" "Oculus for Content Creation"
+		}
 	}
 }
 "depots"
@@ -233,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "2604220615509371732"
-				"size" "8828856050"
-				"download" "8365137312"
+				"gid" "2912284763106419630"
+				"size" "8762160383"
+				"download" "8437882912"
 			}
 		}
 		"encryptedmanifests"
@@ -264,12 +332,6 @@
 				"size" "5E3DCB265342357E5A1263C3B1F4F214"
 				"download" "D9C2DC6D95860D8C468594FC90C87867"
 			}
-			"media"
-			{
-				"gid" "F3CB237CFFC12BF3B24ADC4CE9F9D03A"
-				"size" "E1CCA9CEEBAEEF5A1FB1333A9C914D69"
-				"download" "00BB6A0AF902B5B223ADD905D4C78C44"
-			}
 			"private"
 			{
 				"gid" "AF8667D3471F5E3EBB0C1B134AD181B8"
@@ -281,6 +343,12 @@
 				"gid" "7412CA522A1B1D92C79A02EA76DC064B"
 				"size" "AA32103B8A4417F5C28BD05A35CCBE37"
 				"download" "D11C193EA230739AA623AD1F5874578D"
+			}
+			"media"
+			{
+				"gid" "2BB5E2E380F49808A249BACD4366EF2B"
+				"size" "F91DAE7F7515BBC60D8366C46F995858"
+				"download" "225BA896BF1A6997E88E83299FA02542"
 			}
 			"oldest"
 			{
@@ -294,8 +362,8 @@
 	{
 		"public"
 		{
-			"buildid" "13756782"
-			"timeupdated" "1710533332"
+			"buildid" "16539909"
+			"timeupdated" "1732831247"
 		}
 		"beta"
 		{
@@ -321,12 +389,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1694092637"
 		}
-		"media"
-		{
-			"buildid" "13714415"
-			"pwdrequired" "1"
-			"timeupdated" "1710248952"
-		}
 		"private"
 		{
 			"buildid" "12810976"
@@ -339,6 +401,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1712594625"
 		}
+		"media"
+		{
+			"buildid" "16539909"
+			"pwdrequired" "1"
+			"timeupdated" "1732634950"
+		}
 		"oldest"
 		{
 			"buildid" "4456785"
@@ -347,3 +415,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26413178"
+"_sha" "3d51e5be3321612f316d37c41d0613d11aef15ba"
+"_size" "7369"
