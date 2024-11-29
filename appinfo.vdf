@@ -83,6 +83,68 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+				"german" "library_600x900_german.jpg"
+				"finnish" "library_600x900_finnish.jpg"
+				"russian" "library_600x900_russian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"finnish" "library_600x900_finnish_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"brazilian" "logo_brazilian.png"
+				"german" "logo_german.png"
+				"finnish" "logo_finnish.png"
+				"russian" "logo_russian.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"brazilian" "logo_brazilian_2x.png"
+				"german" "logo_german_2x.png"
+				"finnish" "logo_finnish_2x.png"
+				"russian" "logo_russian_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.1634504612789"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1645398015"
 	"associations"
 	{
@@ -97,11 +159,6 @@
 			"name" "Chris McFarland"
 		}
 		"2"
-		{
-			"type" "publisher"
-			"name" "Lightning Games"
-		}
-		"3"
 		{
 			"type" "franchise"
 			"name" "Tallowmere"
@@ -209,7 +266,7 @@
 		"19" "4840"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -312,19 +369,19 @@
 		{
 			"public"
 			{
-				"gid" "8749453794941608998"
-				"size" "214875411"
-				"download" "147503888"
+				"gid" "3109495219785996717"
+				"size" "214914434"
+				"download" "147513872"
+			}
+			"testing"
+			{
+				"gid" "3109495219785996717"
+				"size" "214914434"
+				"download" "147513872"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"dev-staging"
-			{
-				"gid" "985516E4D8D2BC43807B4707CBC67FC5"
-				"size" "308F3B0EC8ABD384B9B9070929B33420"
-				"download" "8D472979EFB6ADCD315DF3B4919C430D"
-			}
 			"lightning"
 			{
 				"gid" "22F2AC08F244BC63AD8804440D2AAB6C"
@@ -336,6 +393,12 @@
 				"gid" "75AFC81BAA75E75CA3F08B81A37BC445"
 				"size" "5551CF8EF483DA1A527D9AEF347F8430"
 				"download" "076B24A33813DCD70C3BA4D0B263FCFE"
+			}
+			"dev-staging"
+			{
+				"gid" "1107393611B57995F7C0C155CAC391FE"
+				"size" "2E73A87454C21A8D4D8685DE34944ED2"
+				"download" "A2EC9D78BA704820291DFC3B82506BF7"
 			}
 		}
 	}
@@ -350,19 +413,19 @@
 		{
 			"public"
 			{
-				"gid" "8859236462140876958"
-				"size" "209594723"
-				"download" "146139424"
+				"gid" "339761217394188984"
+				"size" "209637156"
+				"download" "146152768"
+			}
+			"testing"
+			{
+				"gid" "339761217394188984"
+				"size" "209637156"
+				"download" "146152768"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"dev-staging"
-			{
-				"gid" "196C65319441D76BE6C627C555258936"
-				"size" "1A96AEB9988C46D376675784B2369F95"
-				"download" "A82E807BBD4151CB5F8811AB14BFFC5E"
-			}
 			"lightning"
 			{
 				"gid" "4601B3ECD50AEC7AF94871971CC550BF"
@@ -374,6 +437,12 @@
 				"gid" "646DBA5B6DB109713676C84A8EB826AA"
 				"size" "AF0012A09116D18819F3F8DDBF9BB056"
 				"download" "87FF1ED13243B633685738E19D205E9E"
+			}
+			"dev-staging"
+			{
+				"gid" "8A9BA9613CC5F309E75485D6B4F84A47"
+				"size" "2EDCAFD1EF2C030BEE3EB5E8331F21A5"
+				"download" "31B756F9AA4E5F213F171ABE7C5A1F83"
 			}
 		}
 	}
@@ -388,19 +457,19 @@
 		{
 			"public"
 			{
-				"gid" "526191527085601576"
-				"size" "218478748"
-				"download" "147805520"
+				"gid" "3997207313212248263"
+				"size" "218519522"
+				"download" "147820704"
+			}
+			"testing"
+			{
+				"gid" "3997207313212248263"
+				"size" "218519522"
+				"download" "147820704"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"dev-staging"
-			{
-				"gid" "EB815518C1C54CAF53FA0B2552FB01B5"
-				"size" "9A4D6FBCFF93E765E02E712A6F114863"
-				"download" "AC4F2E09F0730D96D5A7FA4D86E61944"
-			}
 			"lightning"
 			{
 				"gid" "D10AF5402F0FC4D48D28F9D3C7717B66"
@@ -413,20 +482,20 @@
 				"size" "3D0A0F66A5FA5212485B3BE7494E6315"
 				"download" "F5C776EBAFAA704A489D9297A105EFD2"
 			}
+			"dev-staging"
+			{
+				"gid" "F7F9270815997DD0781A0FED0BA20797"
+				"size" "DB43E314DEC84899461FA0BD2FA33D4A"
+				"download" "A102625F572539A437EAC57D57CA910F"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12505855"
-			"timeupdated" "1698176205"
-		}
-		"dev-staging"
-		{
-			"buildid" "12505855"
-			"pwdrequired" "1"
-			"timeupdated" "1698005372"
+			"buildid" "16558371"
+			"timeupdated" "1732835250"
 		}
 		"lightning"
 		{
@@ -440,6 +509,18 @@
 			"pwdrequired" "1"
 			"timeupdated" "1702606362"
 		}
+		"dev-staging"
+		{
+			"buildid" "16558371"
+			"pwdrequired" "1"
+			"timeupdated" "1732744305"
+		}
+		"testing"
+		{
+			"buildid" "16558371"
+			"description" "Testing for upcoming versions."
+			"timeupdated" "1732744566"
+		}
 	}
 }
 "ufs"
@@ -447,269 +528,7 @@
 	"quota" "52428800"
 	"maxnumfiles" "100"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Menus"
-				"#singleplayer" "Single-player"
-				"#couchcoop" "Couch Co-op"
-				"#onlinecoop" "Online Co-op"
-				"#tallowmereskeep" "Tallowmere\'s Keep"
-				"#roomx" "Room %roomNumber%"
-				"#lamentingdeath" "Lamenting death in Room %roomNumber%"
-				"#configuringoptions" "Configuring options"
-				"#viewinghighscores" "Viewing high scores"
-				"#viewingachievements" "Viewing achievements"
-				"#browsingleaderboards" "Browsing leaderboards"
-				"#viewingtitlescreen" "Gazing at title screen"
-				"#selectingnewgame" "Contemplating a new run"
-				"#browsingsavedgames" "Browsing saved games"
-				"#browsingonlinegames" "Browsing online games"
-				"#settinguponlinegame" "Setting up online game"
-				"#viewinggameinfo" "Viewing game info"
-				"#readingversionnotes" "Reading version notes"
-				"#baskinginglory" "Basking in glory"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}：{%roomInfo%}"
-				"#mainmenu" "菜单"
-				"#singleplayer" "单人游戏"
-				"#couchcoop" "沙发合作"
-				"#onlinecoop" "在线合作"
-				"#tallowmereskeep" "Tallowmere的城堡"
-				"#roomx" "第%roomNumber%个房间"
-				"#lamentingdeath" "在房间%roomNumber%中哀悼死亡"
-				"#configuringoptions" "正在配置选项"
-				"#viewinghighscores" "正在查看高分榜"
-				"#viewingachievements" "正在查看成就"
-				"#browsingleaderboards" "正在浏览排行榜"
-				"#viewingtitlescreen" "正在盯着标题界面发呆"
-				"#selectingnewgame" "正在考虑开始新游戏"
-				"#browsingsavedgames" "正在浏览游戏存档"
-				"#browsingonlinegames" "正在浏览在线游戏"
-				"#settinguponlinegame" "正在创建在线游戏"
-				"#viewinggameinfo" "正在查看游戏信息"
-				"#readingversionnotes" "正在浏览版本说明"
-				"#baskinginglory" "沐浴荣耀"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Menus"
-				"#singleplayer" "Single-player"
-				"#couchcoop" "Multiplayer Local"
-				"#onlinecoop" "Multiplayer Online"
-				"#tallowmereskeep" "Posto da Tallowmere"
-				"#roomx" "Sala %roomNumber%"
-				"#lamentingdeath" "Lamentando a morte na sala %roomNumber%"
-				"#configuringoptions" "Configurando opções"
-				"#viewinghighscores" "Vendo recordes"
-				"#viewingachievements" "Vendo conquistas"
-				"#browsingleaderboards" "Navegando pelos recordes"
-				"#viewingtitlescreen" "Encarando o menu principal"
-				"#selectingnewgame" "Contemplando uma nova rodada"
-				"#browsingsavedgames" "Navegando nos jogos salvos"
-				"#browsingonlinegames" "Navegando nos jogos online"
-				"#settinguponlinegame" "Criando um jogo online"
-				"#viewinggameinfo" "Vendo as informações do jogo"
-				"#readingversionnotes" "Lendo as notas da versão"
-				"#baskinginglory" "Aproveitando a glória"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Menüs"
-				"#singleplayer" "Einzelspieler"
-				"#couchcoop" "Couch-Koop"
-				"#onlinecoop" "Online-Koop"
-				"#tallowmereskeep" "Tallowmeres Residenz"
-				"#roomx" "Raum %roomNumber%"
-				"#lamentingdeath" "Trauer um den Tod in Raum %roomNumber%"
-				"#configuringoptions" "Einstellungen bearbeiten"
-				"#viewinghighscores" "Höchstpunktzahlen anzeigen"
-				"#viewingachievements" "Errungenschaften anzeigen"
-				"#browsingleaderboards" "Rangliste anzeigen"
-				"#viewingtitlescreen" "Auf dem Startbildschirm betrachten"
-				"#selectingnewgame" "Einen neuen Run erwägen"
-				"#browsingsavedgames" "Gespeicherte Spiele anzeigen"
-				"#browsingonlinegames" "Onlinespiele anzeigen"
-				"#settinguponlinegame" "Onlinespiel erstellen"
-				"#viewinggameinfo" "Spielinformation anzeigen"
-				"#readingversionnotes" "Versionsnotizen lesen"
-				"#baskinginglory" "Im Ruhm aalen"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Menus"
-				"#singleplayer" "Solo"
-				"#couchcoop" "Co-op local"
-				"#onlinecoop" "Co-op en ligne"
-				"#tallowmereskeep" "Donjon de Tallowmere"
-				"#roomx" "Salle %roomNumber%"
-				"#lamentingdeath" "Deuil dans la salle %roomNumber%"
-				"#configuringoptions" "Configuration des options"
-				"#viewinghighscores" "Voir les meilleurs scores"
-				"#viewingachievements" "Voir les succès"
-				"#browsingleaderboards" "Parcourir les classements"
-				"#viewingtitlescreen" "Regarder l\'écran-titre"
-				"#selectingnewgame" "Comtempler une nouvelle partie"
-				"#browsingsavedgames" "Parcourir les parties sauvegardées"
-				"#browsingonlinegames" "Parcourir les parties en ligne"
-				"#settinguponlinegame" "Créer une partie en ligne"
-				"#viewinggameinfo" "Voir les infos de partie"
-				"#readingversionnotes" "Lire les notes de version"
-				"#baskinginglory" "Baignant dans la gloire"
-			}
-		}
-		"finnish"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Valikot"
-				"#singleplayer" "Yksinpeli"
-				"#couchcoop" "Paikallinen yhteistyöpeli"
-				"#onlinecoop" "Verkkoyhteistyöpeli"
-				"#tallowmereskeep" "Tallowmeren Torni"
-				"#roomx" "Huone %roomNumber%"
-				"#lamentingdeath" "Surukuolema huoneessa %roomNumber%"
-				"#configuringoptions" "Muokkaa asetuksia"
-				"#viewinghighscores" "Katsoo huipputuloksia"
-				"#viewingachievements" "Katsoo saavutuksia"
-				"#browsingleaderboards" "Selaa tulostaulukkoa"
-				"#viewingtitlescreen" "Tuijottaa aloitusnäyttöä"
-				"#selectingnewgame" "Harkitsee uutta peliä"
-				"#browsingsavedgames" "Selaa tallennettuha pelejä"
-				"#browsingonlinegames" "Selaa verkkopelejä"
-				"#settinguponlinegame" "Aloittamassa verkkopeliä"
-				"#viewinggameinfo" "Katsoo pelin tietoja"
-				"#readingversionnotes" "Lukee version tietoja"
-				"#baskinginglory" "Paistattelee loistossa"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "메뉴"
-				"#singleplayer" "싱글 플레이"
-				"#couchcoop" "카우치 Co-op"
-				"#onlinecoop" "온라인 Co-op"
-				"#tallowmereskeep" "탈로우메어의 저장함"
-				"#roomx" "%roomNumber%층"
-				"#lamentingdeath" "%roomNumber% 호실에서 애도하는 죽음"
-				"#configuringoptions" "옵션 구성"
-				"#viewinghighscores" "하이스코어 보기"
-				"#viewingachievements" "업적 보기"
-				"#browsingleaderboards" "리더보드 검색"
-				"#viewingtitlescreen" "메인 화면 응시"
-				"#selectingnewgame" "새로운 게임 고려 중"
-				"#browsingsavedgames" "저장된 게임 검색"
-				"#browsingonlinegames" "온라인 게임 검색"
-				"#settinguponlinegame" "온라인 게임 설정"
-				"#viewinggameinfo" "게임 정보 보기"
-				"#readingversionnotes" "버전 노트 읽기"
-				"#baskinginglory" "영광을 누리다"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Menus"
-				"#singleplayer" "Un jugador"
-				"#couchcoop" "Cooperativa de sofá"
-				"#onlinecoop" "Cooperativo en línea"
-				"#tallowmereskeep" "Fortaleza de Tallowmere"
-				"#roomx" "Sala %roomNumber%"
-				"#lamentingdeath" "Luto por la muerte en la sala %roomNumber%"
-				"#configuringoptions" "Configurando opciones"
-				"#viewinghighscores" "Ver puntuaciones altas"
-				"#viewingachievements" "Ver logros"
-				"#browsingleaderboards" "Navegar por tablas de clasificación"
-				"#viewingtitlescreen" "Mirando la pantalla de título"
-				"#selectingnewgame" "Contemplando una nueva carrera"
-				"#browsingsavedgames" "Navegando partidas guardadas"
-				"#browsingonlinegames" "Navegando juegos en línea"
-				"#settinguponlinegame" "Configurar juego en línea"
-				"#viewinggameinfo" "Ver información del juego"
-				"#readingversionnotes" "Leer notas de la versión"
-				"#baskinginglory" "Disfrutando de la gloria"
-			}
-		}
-		"latam"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Menus"
-				"#singleplayer" "Un jugador"
-				"#couchcoop" "Cooperativa de sofá"
-				"#onlinecoop" "Cooperativo en línea"
-				"#tallowmereskeep" "Fortaleza de Tallowmere"
-				"#roomx" "Sala %roomNumber%"
-				"#lamentingdeath" "Luto por la muerte en la sala %roomNumber%"
-				"#configuringoptions" "Configurando opciones"
-				"#viewinghighscores" "Ver puntuaciones altas"
-				"#viewingachievements" "Ver logros"
-				"#browsingleaderboards" "Navegar por tablas de clasificación"
-				"#viewingtitlescreen" "Mirando la pantalla de título"
-				"#selectingnewgame" "Contemplando una nueva carrera"
-				"#browsingsavedgames" "Navegando partidas guardadas"
-				"#browsingonlinegames" "Navegando juegos en línea"
-				"#settinguponlinegame" "Configurar juego en línea"
-				"#viewinggameinfo" "Ver información del juego"
-				"#readingversionnotes" "Leer notas de la versión"
-				"#baskinginglory" "Disfrutando de la gloria"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#gamesetupmode_roominfo" "{%gameSetupMode%}: {%roomInfo%}"
-				"#mainmenu" "Меню"
-				"#singleplayer" "Соло"
-				"#couchcoop" "Кооп"
-				"#onlinecoop" "Онлайн"
-				"#tallowmereskeep" "Цитадель Таллоумир"
-				"#roomx" "Комната № %roomNumber%"
-				"#lamentingdeath" "Траурная смерть в комнате № %roomNumber%"
-				"#configuringoptions" "Изменяет настройки"
-				"#viewinghighscores" "Просматривает рекорды"
-				"#viewingachievements" "Просматривает достижения"
-				"#browsingleaderboards" "Пролистывает таблицу лидеров"
-				"#viewingtitlescreen" "Прохлаждается в главном меню"
-				"#selectingnewgame" "Планирует новый забег"
-				"#browsingsavedgames" "Пролистывает сохраненные игры"
-				"#browsingonlinegames" "Пролистывает сетевые игры"
-				"#settinguponlinegame" "Настраивает сетевую игру"
-				"#viewinggameinfo" "Просматривает сведения об игре"
-				"#readingversionnotes" "Читает примечания к версии"
-				"#baskinginglory" "Купание в славе"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26413664"
+"_sha" "f7b57d02d2594b490608ba4a4c2a1bab47d9e9f2"
+"_size" "10846"
