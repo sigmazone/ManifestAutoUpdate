@@ -15,9 +15,54 @@
 	"osextended" ""
 	"clienticon" "3293b2c386ee3fc9a759f62b3854960949fdc8d4"
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1729209600"
+		"tested_build_id" "15381844"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "3"
+		}
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -120,7 +165,12 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "JAST"
+			"name" "るび様"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "rubisama"
 		}
 	}
 	"primary_genre" "4"
@@ -157,15 +207,16 @@
 		}
 	}
 	"steam_release_date" "1724407170"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2986260"
 	"store_tags"
 	{
 		"0" "3799"
 		"1" "9204"
-		"2" "379975"
-		"3" "597"
-		"4" "12095"
+		"2" "12095"
+		"3" "379975"
+		"4" "597"
 		"5" "3871"
 		"6" "1751"
 		"7" "4947"
@@ -177,9 +228,10 @@
 		"13" "1684"
 		"14" "4182"
 		"15" "9130"
+		"16" "6650"
 	}
-	"review_score" "8"
-	"review_percentage" "98"
+	"review_score" "9"
+	"review_percentage" "99"
 }
 "extended"
 {
@@ -212,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "4945946856090196784"
-				"size" "779837171"
-				"download" "593000416"
+				"gid" "8505323468764845353"
+				"size" "780477788"
+				"download" "592178640"
 			}
 		}
 	}
@@ -229,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "2817644709051891589"
-				"size" "780349978"
-				"download" "593554752"
+				"gid" "6104782243095604173"
+				"size" "780982864"
+				"download" "592733808"
 			}
 		}
 	}
@@ -246,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "7496875106852593058"
-				"size" "778308210"
-				"download" "592117056"
+				"gid" "7045867263811060612"
+				"size" "778941032"
+				"download" "590248080"
 			}
 		}
 	}
@@ -256,8 +308,8 @@
 	{
 		"public"
 		{
-			"buildid" "15381844"
-			"timeupdated" "1723726298"
+			"buildid" "16551470"
+			"timeupdated" "1732872539"
 		}
 	}
 }
@@ -275,3 +327,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26419534"
+"_sha" "40b50dcd72f92e3f614b1226dddf801175948134"
+"_size" "5827"
