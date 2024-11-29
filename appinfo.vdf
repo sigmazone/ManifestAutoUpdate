@@ -78,36 +78,45 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "46.27050523479581"
-			"height_pct" "71.21964679911697"
+			"width_pct" "45.49481034145386"
+			"height_pct" "76.4279801324503"
 		}
 	}
 	"library_assets_full"
 	{
 		"library_capsule"
 		{
-			"image2x"
-			{
-				"english" "library_600x900_2x.jpg"
-			}
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "6d6de29096285a15c2a57354ad77874d623ce9c7/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "6d6de29096285a15c2a57354ad77874d623ce9c7/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "e4b0eb0d8fc0f090d0abea46003d8bbabef6c7e3/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "e4b0eb0d8fc0f090d0abea46003d8bbabef6c7e3/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e4b0eb0d8fc0f090d0abea46003d8bbabef6c7e3/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -119,16 +128,27 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "46.27050523479581"
-				"height_pct" "71.21964679911697"
+				"width_pct" "45.49481034145386"
+				"height_pct" "76.4279801324503"
 			}
 			"image"
 			{
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f5b728dfaef114e772961e5e674cf5b29dc4a1e4/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f5b728dfaef114e772961e5e674cf5b29dc4a1e4/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1714978816"
+	"store_asset_mtime" "1727763730"
 	"associations"
 	{
 		"0"
@@ -273,7 +293,7 @@
 	"developer" "Passion Republic Games"
 	"publisher" "Passion Republic Games"
 	"homepage" "https://passionrepublicgames.com/"
-	"listofdlc" "2161720,2574860,2920450,3063700"
+	"listofdlc" "2161720,2574860,2920450,3063700,3279990"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -319,9 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "1633347082014501451"
-				"size" "11614196124"
-				"download" "10086565920"
+				"gid" "3076955452977756263"
+				"size" "12097380381"
+				"download" "10443407808"
 			}
 		}
 		"encryptedmanifests"
@@ -350,12 +370,6 @@
 				"size" "C49B0DBB8A8614765B27F563A84400B9"
 				"download" "A39E7E440E0ADB146661B7D45050D38B"
 			}
-			"gigabashmediainternalsafecheck"
-			{
-				"gid" "46CBF730F726A14B5E107AE79C31C097"
-				"size" "31469F400D2D775A46126CD8A8864496"
-				"download" "1807F5B5FD1EC7772BEC8B79ABFF6250"
-			}
 			"gigabashqaplaytest"
 			{
 				"gid" "83EBF01559EB04115D537BB7DE235E1B"
@@ -376,9 +390,9 @@
 			}
 			"gigabashdebugtest"
 			{
-				"gid" "2B473C46C03311FA12D8066301C35B28"
-				"size" "DF762FBED5EF7B1AAB79D898165C71B1"
-				"download" "032ECB91A336473CC03FAB91A52BF3C1"
+				"gid" "DF9D2637D6EC3D5F8C077B3DADBF3A21"
+				"size" "773320F9D0A57334D9C6DCD427D83A7F"
+				"download" "4DD43F16E00AC38FC98B78E05BDEA468"
 			}
 			"gigabashevent"
 			{
@@ -388,21 +402,27 @@
 			}
 			"gigabashinternalplaytest"
 			{
-				"gid" "D06E1B21165AC103CE4861C45A07ECB4"
-				"size" "D31ED69DEC3C794D515F0ED03F21CF34"
-				"download" "AB23F78031B3C2F9D216DAF5DA1487E1"
+				"gid" "D93E49C55BD506D29B15FD396EBC6BD1"
+				"size" "50B74AE23F06694D69B19A2E0B9EE947"
+				"download" "9CE0EE9CC24A68D1566B4C627D81A96A"
 			}
 			"gigabashmedia"
 			{
-				"gid" "E9EFE6530BD400F3E4F85D7C5B754B72"
-				"size" "50C85A51C8F33379B1522F2D6939B7FD"
-				"download" "CA0A095FDF762D306F6F4F99824ACB1B"
+				"gid" "DC49098783904384326002C5280989A5"
+				"size" "505201C05B7CAA565B6B1BC2EC1840E4"
+				"download" "F35944CCD46698D1E25737032E92246A"
+			}
+			"gigabashmediainternalsafecheck"
+			{
+				"gid" "FA81355B20C0C8A46A8393D8CE3840B0"
+				"size" "F2250A6B2CD82BF82617740BC5E76FF7"
+				"download" "8B5C44021413DFA097068B7CC9978B0D"
 			}
 			"gigabashmodtest"
 			{
-				"gid" "A9516AF5E92B0940C9EE8178B10BA35A"
-				"size" "F148BC92421126ADCC0C23CF4AAB5AF5"
-				"download" "A25694F1674D7FE993A55B6900EAC63A"
+				"gid" "9E183A365ADC77B6535589B806EA8E57"
+				"size" "1162D8BF26454114E60212FAC75BEEE9"
+				"download" "368293E1FE019247D0D379E9298C8187"
 			}
 			"gigabashumsunway"
 			{
@@ -417,8 +437,8 @@
 	{
 		"public"
 		{
-			"buildid" "15791336"
-			"timeupdated" "1727255430"
+			"buildid" "16471360"
+			"timeupdated" "1732847398"
 		}
 		"gigabashaudiotest"
 		{
@@ -444,12 +464,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1656582902"
 		}
-		"gigabashmediainternalsafecheck"
-		{
-			"buildid" "12589261"
-			"pwdrequired" "1"
-			"timeupdated" "1698816482"
-		}
 		"gigabashqaplaytest"
 		{
 			"buildid" "8268712"
@@ -470,9 +484,9 @@
 		}
 		"gigabashdebugtest"
 		{
-			"buildid" "15791336"
+			"buildid" "16471360"
 			"pwdrequired" "1"
-			"timeupdated" "1727074516"
+			"timeupdated" "1732101230"
 		}
 		"gigabashevent"
 		{
@@ -482,21 +496,27 @@
 		}
 		"gigabashinternalplaytest"
 		{
-			"buildid" "15752472"
+			"buildid" "16443932"
 			"pwdrequired" "1"
-			"timeupdated" "1726729118"
+			"timeupdated" "1731932839"
 		}
 		"gigabashmedia"
 		{
-			"buildid" "15490837"
+			"buildid" "16443932"
 			"pwdrequired" "1"
-			"timeupdated" "1724659740"
+			"timeupdated" "1731934632"
+		}
+		"gigabashmediainternalsafecheck"
+		{
+			"buildid" "16284681"
+			"pwdrequired" "1"
+			"timeupdated" "1730707857"
 		}
 		"gigabashmodtest"
 		{
-			"buildid" "15689282"
+			"buildid" "16117604"
 			"pwdrequired" "1"
-			"timeupdated" "1726222706"
+			"timeupdated" "1729483776"
 		}
 		"gigabashumsunway"
 		{
@@ -546,3 +566,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26415627"
+"_sha" "a2af9cb60a367a273c8d3cb6ee83affcbb9da731"
+"_size" "11308"
