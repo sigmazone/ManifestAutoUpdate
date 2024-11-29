@@ -59,6 +59,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -107,8 +108,19 @@
 				"english" "logo_2x.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "068f2ebb62e01a8e017d0244e37fde5b122c2614/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "068f2ebb62e01a8e017d0244e37fde5b122c2614/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1719401707"
+	"store_asset_mtime" "1730504248"
 	"associations"
 	{
 		"0"
@@ -134,6 +146,7 @@
 		"category_2" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -167,19 +180,19 @@
 		"4" "5395"
 		"5" "1664"
 		"6" "4036"
-		"7" "1100687"
-		"8" "19"
-		"9" "4136"
-		"10" "4182"
-		"11" "4175"
-		"12" "4191"
-		"13" "1697"
-		"14" "4878"
-		"15" "4026"
-		"16" "7332"
-		"17" "1616"
-		"18" "4172"
-		"19" "1625"
+		"7" "19"
+		"8" "4136"
+		"9" "4182"
+		"10" "4175"
+		"11" "4191"
+		"12" "1697"
+		"13" "4878"
+		"14" "4026"
+		"15" "7332"
+		"16" "1616"
+		"17" "4172"
+		"18" "1625"
+		"19" "493"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -232,15 +245,15 @@
 		{
 			"public"
 			{
-				"gid" "3039486674202159104"
-				"size" "8639152866"
-				"download" "2676309456"
+				"gid" "5418605917372340175"
+				"size" "8641646540"
+				"download" "2678072576"
 			}
 			"beta"
 			{
-				"gid" "3039486674202159104"
-				"size" "8639152866"
-				"download" "2676309456"
+				"gid" "8592607159760338306"
+				"size" "8642458136"
+				"download" "2678094224"
 			}
 			"legacy"
 			{
@@ -253,36 +266,37 @@
 		{
 			"internal_beta_0.3a"
 			{
-				"gid" "864A100259A23161E33D556712E2B29B"
-				"size" "49E5C18396E61226E3CD111AD837F8AA"
-				"download" "6360C1FC869EBDF63B928762FB4985A1"
+				"gid" "52B45A4E3D1E135CC4A0701D7D12A48B"
+				"size" "C5CEAAFE0BA9849062E7796258BC25A3"
+				"download" "4CD0AC4A6B7C059A7F74F9F832E0E50B"
 			}
 			"peatyturfbeta"
 			{
-				"gid" "1E217347524C3A77486C37F39422AB37"
-				"size" "47F484CC5C92DB2EFE47756961A9192B"
-				"download" "43CF6207ACD3B1E1F9454AA34D7A02B6"
+				"gid" "A40FCD0CE39359264E4E676A253B138E"
+				"size" "68F04E3B0A1F94B35D0697B198DE2010"
+				"download" "4982A9EC1743BCB2369780B77A6EFB1B"
 			}
 		}
 	}
+	"workshopdepot" "1800940"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16182393"
-			"timeupdated" "1729871941"
+			"buildid" "16413188"
+			"timeupdated" "1732728860"
 		}
 		"beta"
 		{
-			"buildid" "16182393"
+			"buildid" "16504387"
 			"description" "Public Beta Testing Branch"
-			"timeupdated" "1729870069"
+			"timeupdated" "1732350711"
 		}
 		"internal_beta_0.3a"
 		{
-			"buildid" "16052635"
+			"buildid" "16413188"
 			"pwdrequired" "1"
-			"timeupdated" "1730384183"
+			"timeupdated" "1731629986"
 		}
 		"legacy"
 		{
@@ -292,16 +306,16 @@
 		}
 		"peatyturfbeta"
 		{
-			"buildid" "15323913"
+			"buildid" "16504387"
 			"pwdrequired" "1"
-			"timeupdated" "1723240330"
+			"timeupdated" "1732305189"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "100000"
-	"maxnumfiles" "5000"
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
 	"savefiles"
 	{
 		"1"
@@ -310,9 +324,15 @@
 			"path" "The_Enjenir/Saved/GameSaves"
 			"pattern" "*.sav"
 		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "The_Enjenir/Saved/Workshop"
+			"pattern" "*.sav"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25990576"
-"_sha" "7ee673acd000191325a7899433cccb38ac0f0368"
-"_size" "5479"
+"_change_number" "26390510"
+"_sha" "572a6a52da43881a0be5ce59c7b4d685d0475e90"
+"_size" "5908"
