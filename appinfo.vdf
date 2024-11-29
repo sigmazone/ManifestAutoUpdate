@@ -90,7 +90,71 @@
 			"height_pct" "71.8747764808057"
 		}
 	}
-	"store_asset_mtime" "1708428144"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "71.8747764808057"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732742057"
 	"associations"
 	{
 		"0"
@@ -200,8 +264,8 @@
 		"18" "7332"
 		"19" "1684"
 	}
-	"review_score" "6"
-	"review_percentage" "72"
+	"review_score" "5"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -222,11 +286,6 @@
 			{
 				"oslist" "windows"
 			}
-			"description_loc"
-			{
-				"english" "We are only 10% complete of our vision. This build is just to let us have an erly store page steam, to get people can wishlist "
-			}
-			"description" "We are only 10% complete of our vision. This build is just to let us have an erly store page steam, to get people can wishlist "
 		}
 	}
 }
@@ -242,30 +301,18 @@
 		{
 			"public"
 			{
-				"gid" "4966440786221526540"
-				"size" "3787232442"
-				"download" "3252845552"
+				"gid" "818573019137826447"
+				"size" "4954081833"
+				"download" "4055697328"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"alpha"
-			{
-				"gid" "C7434E9BB8BC6D0B3420D1C7A6477D94"
-				"size" "9C2919F8FBC19B7C80D06BAC11F55BBF"
-				"download" "AF8573821A2D53F4C958FCAA14DDB8F8"
-			}
 			"alphadev"
 			{
 				"gid" "C9B63FB1EF1FE2053C76F9E0EC661AD7"
 				"size" "A6A997D3D987C08AC231DDF0173BE128"
 				"download" "8715BABF5E7A4823C7F9CA20FD58CA76"
-			}
-			"beta"
-			{
-				"gid" "913F12BACB9F499E9A556F943719AA0D"
-				"size" "45F59AB235265A746A4E5647D484CB2B"
-				"download" "9CC7A2EBD3FC4E25770B1710102EFB4F"
 			}
 			"formb"
 			{
@@ -291,32 +338,38 @@
 				"size" "647C3C1820A3E8BC66CA0522EA5C39C8"
 				"download" "FF3CA86409C5FB9304FFD2B5AF3AFC3B"
 			}
+			"alpha"
+			{
+				"gid" "D9550032EE511680D0F4D894CED9169E"
+				"size" "D77E56D49FDC66DE832BD1CA0FA93CF3"
+				"download" "DF8C53D0694619C5F9070D4FDDA3D548"
+			}
+			"beta"
+			{
+				"gid" "F17883B03ABBF376665098F458C3E0D9"
+				"size" "A02EF5BE86BCEDB61A38488817B88E9E"
+				"download" "C3603BA1EF21BAC89E28F984F0186C0F"
+			}
+			"ngtest"
+			{
+				"gid" "F45E8C4F12C64890D135AEC0CC5E7123"
+				"size" "4165FB9D856BD5E8FB5A401C666F1169"
+				"download" "D7087DB59F17993E097B27B679C9FE17"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13744381"
-			"timeupdated" "1710450627"
-		}
-		"alpha"
-		{
-			"buildid" "13744321"
-			"pwdrequired" "1"
-			"timeupdated" "1710449924"
+			"buildid" "16552841"
+			"timeupdated" "1732728497"
 		}
 		"alphadev"
 		{
 			"buildid" "13743306"
 			"pwdrequired" "1"
 			"timeupdated" "1710443413"
-		}
-		"beta"
-		{
-			"buildid" "13742738"
-			"pwdrequired" "1"
-			"timeupdated" "1710439617"
 		}
 		"formb"
 		{
@@ -342,12 +395,30 @@
 			"pwdrequired" "1"
 			"timeupdated" "1704729344"
 		}
+		"alpha"
+		{
+			"buildid" "14350778"
+			"pwdrequired" "1"
+			"timeupdated" "1715612022"
+		}
+		"beta"
+		{
+			"buildid" "15740610"
+			"pwdrequired" "1"
+			"timeupdated" "1726663207"
+		}
+		"ngtest"
+		{
+			"buildid" "16552841"
+			"pwdrequired" "1"
+			"timeupdated" "1732713955"
+		}
 	}
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "20000000"
+	"maxnumfiles" "1000"
 	"savefiles"
 	{
 		"0"
@@ -360,6 +431,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22790782"
-"_sha" "f9f0d9f2fc003704ffc6a910efc4f929f3241860"
-"_size" "7295"
+"_change_number" "26409212"
+"_sha" "d8edc348cdb03d97a697579db864a19b541d90b3"
+"_size" "8637"
