@@ -20,6 +20,35 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1731974400"
+		"tested_build_id" "16326304"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -164,7 +193,7 @@
 		"19" "3942"
 	}
 	"review_score" "8"
-	"review_percentage" "100"
+	"review_percentage" "98"
 }
 "extended"
 {
@@ -214,18 +243,18 @@
 		{
 			"public"
 			{
-				"gid" "758225507013668531"
-				"size" "26396120377"
-				"download" "10129000272"
+				"gid" "6393406587794331401"
+				"size" "26542740557"
+				"download" "10174850640"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "534331213D21D50D44BDF01299B15F17"
-				"size" "51B78F86B3E6AF56A86ECB0D2C84647E"
-				"download" "B18B4DC799414161CC7AC2B5CA95F9C4"
+				"gid" "D3924E4A242BE94151CC90743FF4D29C"
+				"size" "0C8A85C34FEF99AF8C90FEC93A266AA1"
+				"download" "F549DC87C229B5320FA01C87FF72C945"
 			}
 		}
 	}
@@ -233,18 +262,18 @@
 	{
 		"public"
 		{
-			"buildid" "16326304"
-			"timeupdated" "1730978948"
+			"buildid" "16575362"
+			"timeupdated" "1732881622"
 		}
 		"beta"
 		{
-			"buildid" "16326304"
+			"buildid" "16575362"
 			"pwdrequired" "1"
-			"timeupdated" "1730976890"
+			"timeupdated" "1732865950"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26088288"
-"_sha" "cb29afd549eff65f24f3f174e344b29a5ed8a7c0"
-"_size" "3828"
+"_change_number" "26421642"
+"_sha" "7c0708e7b590aee937103c3a84cbc11a6a8441a6"
+"_size" "4562"
