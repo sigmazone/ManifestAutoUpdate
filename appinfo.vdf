@@ -158,7 +158,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727486422"
+	"store_asset_mtime" "1729630828"
 	"associations"
 	{
 		"0"
@@ -257,8 +257,8 @@
 		"2" "599"
 		"3" "5055"
 		"4" "4191"
-		"5" "9204"
-		"6" "12472"
+		"5" "12472"
+		"6" "9204"
 		"7" "1775"
 		"8" "4747"
 		"9" "7481"
@@ -274,14 +274,14 @@
 		"19" "4840"
 	}
 	"review_score" "5"
-	"review_percentage" "56"
+	"review_percentage" "57"
 }
 "extended"
 {
 	"developer" "Visual Concepts"
 	"publisher" "2K"
 	"homepage" "https://www.nba2k.com/"
-	"listofdlc" "2974820,2974830,2974840,2974850,2975000,2975020,2982770,2982780,2982790,3107390,3261610,3261620"
+	"listofdlc" "2974820,2974830,2974840,2974850,2975000,2975010,2975020,2982770,2982780,2982790,3107390,3261610,3261620"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -291,7 +291,13 @@
 	{
 		"0"
 		{
-			"executable" "NBA2K25.exe"
+			"executable" "start_protected_game.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "Play NBA 2K25"
+			}
+			"description" "Play NBA 2K25"
 		}
 		"1"
 		{
@@ -299,13 +305,18 @@
 			"type" "default"
 			"config"
 			{
-				"betakey" "anticheat, silver2"
+				"betakey" "anticheat, silver2, silver"
 			}
+		}
+		"2"
+		{
+			"executable" "NBA2K25.exe"
+			"type" "default"
 			"description_loc"
 			{
-				"english" "Play NBA 2K25"
+				"english" "Play (offline only)"
 			}
-			"description" "Play NBA 2K25"
+			"description" "Play (offline only)"
 		}
 	}
 	"steamdecktouchscreen" "1"
@@ -340,9 +351,9 @@
 		{
 			"public"
 			{
-				"gid" "6357705776038764573"
-				"size" "146314336968"
-				"download" "139533085392"
+				"gid" "2694804165142507866"
+				"size" "149454492328"
+				"download" "142398809664"
 			}
 		}
 		"encryptedmanifests"
@@ -355,9 +366,9 @@
 			}
 			"anticheat"
 			{
-				"gid" "A30B74BAC2A276D96051FBD79CDB0197"
-				"size" "2DE31BC1170EE916CF52F4F1B71AEC85"
-				"download" "3CABFD5CCC60C4D3D898C5B86C9FCCBD"
+				"gid" "03703EE65DF202729E20C6E10EEB11F2"
+				"size" "71E9C23A9219B62005190B69BFA81A2C"
+				"download" "4B9E45A72A9C39325F73519BE38E33EA"
 			}
 			"devtest1"
 			{
@@ -385,15 +396,15 @@
 			}
 			"silver"
 			{
-				"gid" "218715B14A82BD871CAD1AF271BDC2BA"
-				"size" "8D821A1966F81031F7A27DD15CB213FC"
-				"download" "93911FC7F56FE1A9CFDBFD021A3C1E30"
+				"gid" "E31A6922846F542DD6910C3F32598CEC"
+				"size" "B5895EA18D6B2A508CD4639980D0B380"
+				"download" "6254BBA58C77EB2C807DCE1123B6BCCC"
 			}
 			"silver2"
 			{
-				"gid" "F9CEC0A9220683CCAFF3F96E3CFD978B"
-				"size" "5779573049AC8642344BF5478290CE4B"
-				"download" "6A35EE2D317AF932D8712AD4DC7A5DB6"
+				"gid" "5D6103E4922A2BED83CCD8A655C66111"
+				"size" "764660ED6EBDF3A7ACB41A1841C9ADDF"
+				"download" "67ECF7B1C88FE212E354E8579D29E60A"
 			}
 			"silvercompatrun"
 			{
@@ -422,13 +433,19 @@
 		{
 			"public"
 			{
-				"gid" "1078383813480654244"
-				"size" "1677278743"
-				"download" "1246639984"
+				"gid" "5851584071712106802"
+				"size" "1761902563"
+				"download" "1297583792"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"anticheat"
+			{
+				"gid" "B59BD7FFAE045A475D436D327A7334CC"
+				"size" "4F061CEE8AFD5ABE4DC446D186E0BCFF"
+				"download" "C1865FC5BA3BFD55B19BF7AEC597A3A1"
+			}
 			"devtest1"
 			{
 				"gid" "52D72AFB89EAD2373BA8282983FD41AD"
@@ -443,15 +460,30 @@
 			}
 			"silver"
 			{
-				"gid" "6A369EA61485A87E1BD477E1EB315CC2"
-				"size" "AB75D6FB475CD8140630C6A42CF05AFD"
-				"download" "E5362531A63245F928376D1CAD98D7C2"
+				"gid" "115005CEC7EEDE5E410C738E36F56B9F"
+				"size" "71944482469118DE6E9DCC8AD9F48A4E"
+				"download" "B45E5E51331F3E647BA3FB51AA58F546"
 			}
 			"silver2"
 			{
-				"gid" "3E29C3DC809B74FD864AE163875A2231"
-				"size" "A0CBCAAB1A20BC28C5440BC1A9E528EE"
-				"download" "FCB4EEFE9AB0999383374B7911F55902"
+				"gid" "5EB00DC426160A5C299ECA6CF539082D"
+				"size" "48F662CE966D70859E556A17167970BC"
+				"download" "84B4C527BE125C08000970C387398916"
+			}
+		}
+	}
+	"2878982"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"anticheat"
+			{
+				"gid" "A074A623720D085133805D1D4092C722"
+				"size" "20D1EFFFCF78FDB274CB004CF1845E22"
+				"download" "A11572F655105B59B52162DC12EA19B6"
 			}
 		}
 	}
@@ -459,8 +491,8 @@
 	{
 		"public"
 		{
-			"buildid" "16000206"
-			"timeupdated" "1729261299"
+			"buildid" "16502589"
+			"timeupdated" "1732894187"
 		}
 		"ager"
 		{
@@ -470,9 +502,9 @@
 		}
 		"anticheat"
 		{
-			"buildid" "15897758"
+			"buildid" "16546072"
 			"pwdrequired" "1"
-			"timeupdated" "1727887181"
+			"timeupdated" "1732671025"
 		}
 		"devtest1"
 		{
@@ -500,15 +532,15 @@
 		}
 		"silver"
 		{
-			"buildid" "16000206"
+			"buildid" "16502589"
 			"pwdrequired" "1"
-			"timeupdated" "1728594470"
+			"timeupdated" "1732292199"
 		}
 		"silver2"
 		{
-			"buildid" "16086375"
+			"buildid" "16530823"
 			"pwdrequired" "1"
-			"timeupdated" "1729195467"
+			"timeupdated" "1732579521"
 		}
 		"silvercompatrun"
 		{
@@ -531,6 +563,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "25788549"
-"_sha" "4656b1c948dba82ec834475b2b341b98cbc3cb7d"
-"_size" "10186"
+"_change_number" "26425059"
+"_sha" "0713dc3eefe5f73d4cd077fb4ccd9f20de695dac"
+"_size" "10850"
