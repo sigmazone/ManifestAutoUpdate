@@ -17,6 +17,55 @@
 		"japanese" "ダンジョンクロウラー幸運ウサギと魔法の爪"
 		"schinese" "抓抓地牢"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732752000"
+		"tested_build_id" "16484578"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -210,29 +259,29 @@
 	"gameid" "2356780"
 	"store_tags"
 	{
-		"0" "4711"
-		"1" "1091588"
-		"2" "16250"
-		"3" "5125"
+		"0" "1773"
+		"1" "4711"
+		"2" "1091588"
+		"3" "16250"
 		"4" "4325"
-		"5" "1773"
-		"6" "3871"
-		"7" "4004"
-		"8" "10808"
-		"9" "4604"
+		"5" "1716"
+		"6" "5125"
+		"7" "1741"
+		"8" "32322"
+		"9" "3968"
 		"10" "4726"
 		"11" "3959"
-		"12" "122"
-		"13" "4236"
-		"14" "1741"
-		"15" "1716"
-		"16" "9"
-		"17" "597"
-		"18" "32322"
-		"19" "3968"
+		"12" "7948"
+		"13" "4004"
+		"14" "9"
+		"15" "1720"
+		"16" "4026"
+		"17" "3871"
+		"18" "4252"
+		"19" "4236"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -290,18 +339,24 @@
 		{
 			"public"
 			{
-				"gid" "4895118627272238455"
-				"size" "758978805"
-				"download" "142358112"
+				"gid" "720330348916878560"
+				"size" "765378625"
+				"download" "147988720"
+			}
+			"testing"
+			{
+				"gid" "720330348916878560"
+				"size" "765378625"
+				"download" "147988720"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "5BEE307960647749F9E3DAA275EC4725"
-				"size" "9166AD6DB38A0691800B58840D822B2C"
-				"download" "7A001B3D14100355F10A97A539C9EDEE"
+				"gid" "D72D6B4969DB6141868425C9FDE514E7"
+				"size" "80B87116C5A0E8C6E0EC62A4A09284AE"
+				"download" "B30E8F93C10A570A5DA2F1DFBD3681ED"
 			}
 		}
 	}
@@ -316,18 +371,24 @@
 		{
 			"public"
 			{
-				"gid" "839571799473344517"
-				"size" "782746536"
-				"download" "149643728"
+				"gid" "3177698835012050503"
+				"size" "758297416"
+				"download" "145960496"
+			}
+			"testing"
+			{
+				"gid" "3177698835012050503"
+				"size" "758297416"
+				"download" "145960496"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "E41CB1951488F6230FD3A72466BA46C4"
-				"size" "0227AEE7805C5E6A41322BBEAFE4FC6C"
-				"download" "17633265BEE6BE7A6B32DE2F7BE7C801"
+				"gid" "6AF19D0CA86FBC85EA0CF8278A20A37B"
+				"size" "770EED2918DE427C99F1C2A97E313A79"
+				"download" "1DE22476F708E83DF548FDB261EF68FD"
 			}
 		}
 	}
@@ -342,18 +403,24 @@
 		{
 			"public"
 			{
-				"gid" "56826987487197169"
-				"size" "797955651"
-				"download" "141794960"
+				"gid" "1741527082861836032"
+				"size" "804355471"
+				"download" "147416832"
+			}
+			"testing"
+			{
+				"gid" "1741527082861836032"
+				"size" "804355471"
+				"download" "147416832"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "AF8D15A4A037CB1628D9A7E5CCD13E75"
-				"size" "805E578EF3778588D0CF365A639B9E9F"
-				"download" "E9BC6142C563EB521769CDC5467A319E"
+				"gid" "B323FE998000DFC2C87762B817180176"
+				"size" "49F7C18436FAA5CBAD504AF49FA439FC"
+				"download" "AA923FC888E5E6F318936AF22198C797"
 			}
 		}
 	}
@@ -361,14 +428,20 @@
 	{
 		"public"
 		{
-			"buildid" "16484578"
-			"timeupdated" "1732197895"
+			"buildid" "16575792"
+			"timeupdated" "1732869268"
 		}
 		"internal"
 		{
-			"buildid" "16501981"
+			"buildid" "16575792"
 			"pwdrequired" "1"
-			"timeupdated" "1732288898"
+			"timeupdated" "1732869069"
+		}
+		"testing"
+		{
+			"buildid" "16575792"
+			"description" "Test upcoming updates"
+			"timeupdated" "1732869075"
 		}
 	}
 }
@@ -427,6 +500,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26329033"
-"_sha" "1535e19dc157f39e81e5054f0774ec4f25fb545b"
-"_size" "7642"
+"_change_number" "26419402"
+"_sha" "db36f7302d213b575771a071a8110fbc9f64fd6a"
+"_size" "9313"
