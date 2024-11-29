@@ -1,0 +1,568 @@
+"appid" "2878980"
+"common"
+{
+	"name" "NBA 2K25"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "e709e4228df491bf0b2558df7b3a74d2a7867374"
+	"clienticon" "eb3ef1a727446edc18a91e03aaec7703f673e6e0"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2878980_eula_0"
+			"name" "NBA 2K25 EULA"
+			"url" "https://store.steampowered.com//eula/2878980_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"icon" "93a9446ae70548700f36ad84ff960908b8dda1ca"
+	"name_localized"
+	{
+		"schinese" "NBA 2K25"
+		"tchinese" "NBA 2K25"
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1728345600"
+		"tested_build_id" "15671202"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.17284820532531"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.17284820532531"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729630828"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Visual Concepts"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2K"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "NBA 2K"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_18" "1"
+		"category_60" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"full_audio" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1725422523"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2878980"
+	"store_tags"
+	{
+		"0" "701"
+		"1" "1746"
+		"2" "599"
+		"3" "5055"
+		"4" "4191"
+		"5" "12472"
+		"6" "9204"
+		"7" "1775"
+		"8" "4747"
+		"9" "7481"
+		"10" "5711"
+		"11" "32322"
+		"12" "4202"
+		"13" "1685"
+		"14" "3841"
+		"15" "7368"
+		"16" "3859"
+		"17" "3843"
+		"18" "4182"
+		"19" "4840"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "Visual Concepts"
+	"publisher" "2K"
+	"homepage" "https://www.nba2k.com/"
+	"listofdlc" "2974820,2974830,2974840,2974850,2975000,2975010,2975020,2982770,2982780,2982790,3107390,3261610,3261620"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "NBA 2K25"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_protected_game.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "Play NBA 2K25"
+			}
+			"description" "Play NBA 2K25"
+		}
+		"1"
+		{
+			"executable" "start_protected_game.exe"
+			"type" "default"
+			"config"
+			{
+				"betakey" "anticheat, silver2, silver"
+			}
+		}
+		"2"
+		{
+			"executable" "NBA2K25.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "Play (offline only)"
+			}
+			"description" "Play (offline only)"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "8"
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2878981"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2694804165142507866"
+				"size" "149454492328"
+				"download" "142398809664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ager"
+			{
+				"gid" "70420E668E38129F81F39A8AFAD7C77B"
+				"size" "1912966CFE9E49B193E624C5E4DD141E"
+				"download" "B80C834AA2338569F52D752A69934ED3"
+			}
+			"anticheat"
+			{
+				"gid" "03703EE65DF202729E20C6E10EEB11F2"
+				"size" "71E9C23A9219B62005190B69BFA81A2C"
+				"download" "4B9E45A72A9C39325F73519BE38E33EA"
+			}
+			"devtest1"
+			{
+				"gid" "C1AE8926881069EA8C7650FB2C896E0A"
+				"size" "7914301E6B84DF1EAA9F9D09CCC0CCEC"
+				"download" "A5AC4AF48D31D0F97DE1E763D46648E9"
+			}
+			"devtest2"
+			{
+				"gid" "99CF370E8292A981FBDCD5B5FF57A507"
+				"size" "16073930FCA2F7F6B65EFCAEC40BDB64"
+				"download" "3AAB29550A99581336C646061293621C"
+			}
+			"devtest3"
+			{
+				"gid" "C8F5635A8A75C9642155410063250620"
+				"size" "9A15BED81D9E7101FC6EDD3CF78C5261"
+				"download" "9A15BED81D9E7101FC6EDD3CF78C5261"
+			}
+			"protection"
+			{
+				"gid" "C859593E08ABB83DA63F18FEB3026B3A"
+				"size" "AD60B08659248A6B463B711FFF3A3F1D"
+				"download" "9C8C32DB070B77B1DAC404569370F594"
+			}
+			"silver"
+			{
+				"gid" "E31A6922846F542DD6910C3F32598CEC"
+				"size" "B5895EA18D6B2A508CD4639980D0B380"
+				"download" "6254BBA58C77EB2C807DCE1123B6BCCC"
+			}
+			"silver2"
+			{
+				"gid" "5D6103E4922A2BED83CCD8A655C66111"
+				"size" "764660ED6EBDF3A7ACB41A1841C9ADDF"
+				"download" "67ECF7B1C88FE212E354E8579D29E60A"
+			}
+			"silvercompatrun"
+			{
+				"gid" "0A7045FAAADFFF32AC70BCB8BE3E704A"
+				"size" "4D1A700AFA932BC60DBD8181F7734291"
+				"download" "814009F0B48C30FE64DD3546AF52FD23"
+			}
+			"submission"
+			{
+				"gid" "3D6683F9CC7F37685351B7B6C937B434"
+				"size" "17385952B17FE03D2DF844A2C22AA409"
+				"download" "C2F740344D5A8D997F9249115E0EB63E"
+			}
+		}
+	}
+	"3107390"
+	{
+		"dlcappid" "3107390"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"optionaldlc" "3107390"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5851584071712106802"
+				"size" "1761902563"
+				"download" "1297583792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"anticheat"
+			{
+				"gid" "B59BD7FFAE045A475D436D327A7334CC"
+				"size" "4F061CEE8AFD5ABE4DC446D186E0BCFF"
+				"download" "C1865FC5BA3BFD55B19BF7AEC597A3A1"
+			}
+			"devtest1"
+			{
+				"gid" "52D72AFB89EAD2373BA8282983FD41AD"
+				"size" "3920554A5BC9D4E7E32EFD4B9D5893C4"
+				"download" "B976A955B6ACC7178BB89F01510E6799"
+			}
+			"devtest2"
+			{
+				"gid" "056953102FF3F165366E48967DBA2DD6"
+				"size" "E0DB6C3F4D6427F7BA0C246728F5AF6F"
+				"download" "BC7ACE16DF2FEA09BAB3025FF06C39E9"
+			}
+			"silver"
+			{
+				"gid" "115005CEC7EEDE5E410C738E36F56B9F"
+				"size" "71944482469118DE6E9DCC8AD9F48A4E"
+				"download" "B45E5E51331F3E647BA3FB51AA58F546"
+			}
+			"silver2"
+			{
+				"gid" "5EB00DC426160A5C299ECA6CF539082D"
+				"size" "48F662CE966D70859E556A17167970BC"
+				"download" "84B4C527BE125C08000970C387398916"
+			}
+		}
+	}
+	"2878982"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"anticheat"
+			{
+				"gid" "A074A623720D085133805D1D4092C722"
+				"size" "20D1EFFFCF78FDB274CB004CF1845E22"
+				"download" "A11572F655105B59B52162DC12EA19B6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16502589"
+			"timeupdated" "1732894187"
+		}
+		"ager"
+		{
+			"buildid" "14746526"
+			"pwdrequired" "1"
+			"timeupdated" "1718907814"
+		}
+		"anticheat"
+		{
+			"buildid" "16546072"
+			"pwdrequired" "1"
+			"timeupdated" "1732671025"
+		}
+		"devtest1"
+		{
+			"buildid" "15910161"
+			"pwdrequired" "1"
+			"timeupdated" "1727919065"
+		}
+		"devtest2"
+		{
+			"buildid" "15895587"
+			"pwdrequired" "1"
+			"timeupdated" "1727826035"
+		}
+		"devtest3"
+		{
+			"buildid" "13684996"
+			"pwdrequired" "1"
+			"timeupdated" "1726086871"
+		}
+		"protection"
+		{
+			"buildid" "15018551"
+			"pwdrequired" "1"
+			"timeupdated" "1720818671"
+		}
+		"silver"
+		{
+			"buildid" "16502589"
+			"pwdrequired" "1"
+			"timeupdated" "1732292199"
+		}
+		"silver2"
+		{
+			"buildid" "16530823"
+			"pwdrequired" "1"
+			"timeupdated" "1732579521"
+		}
+		"silvercompatrun"
+		{
+			"buildid" "15897353"
+			"pwdrequired" "1"
+			"timeupdated" "1727886583"
+		}
+		"submission"
+		{
+			"buildid" "15336637"
+			"pwdrequired" "1"
+			"timeupdated" "1723486736"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "250"
+}
+"_missing_token" "False"
+"_change_number" "26425059"
+"_sha" "0713dc3eefe5f73d4cd077fb4ccd9f20de695dac"
+"_size" "10850"
