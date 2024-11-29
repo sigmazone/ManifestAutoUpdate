@@ -12,30 +12,51 @@
 	"releasestate" "released"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1651276800"
-		"tested_build_id" "8269080"
+		"category" "2"
+		"test_timestamp" "1732665600"
+		"tested_build_id" "15291643"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
 		"configuration"
 		{
-			"supported_input" "simultaneous_gamepad_mouse"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
-			"small_text" "0"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
-			"gamescope_frame_limiter_not_supported" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Planet Centauri"
@@ -98,7 +119,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1569186158"
+	"store_asset_mtime" "1732809101"
 	"associations"
 	{
 		"0"
@@ -292,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "1274767316768930668"
-				"size" "364149885"
-				"download" "251506400"
+				"gid" "6713729192550027518"
+				"size" "349050347"
+				"download" "238781120"
 			}
 			"0.11.8.2"
 			{
@@ -401,9 +422,9 @@
 		{
 			"public"
 			{
-				"gid" "5504141731600927953"
-				"size" "59088961"
-				"download" "8762704"
+				"gid" "9085673101384356070"
+				"size" "59103392"
+				"download" "8769392"
 			}
 			"0.11.8.2"
 			{
@@ -511,9 +532,9 @@
 		{
 			"public"
 			{
-				"gid" "192884717418839046"
-				"size" "26558704"
-				"download" "6153584"
+				"gid" "4104139096998183667"
+				"size" "26575088"
+				"download" "6155344"
 			}
 			"0.11.8.2"
 			{
@@ -727,7 +748,7 @@
 		{
 			"public"
 			{
-				"gid" "255479259930772272"
+				"gid" "7325961686810116597"
 				"size" "0"
 				"download" "0"
 			}
@@ -834,8 +855,8 @@
 	{
 		"public"
 		{
-			"buildid" "15291643"
-			"timeupdated" "1723047790"
+			"buildid" "16571860"
+			"timeupdated" "1732831514"
 		}
 		"0.11.8.2"
 		{
@@ -934,3 +955,7 @@
 	"quota" "1073741824"
 	"maxnumfiles" "10000"
 }
+"_missing_token" "False"
+"_change_number" "26413269"
+"_sha" "142bb0401e394a6473c7d78861a7ae82bf2a1cd2"
+"_size" "17070"
