@@ -18,15 +18,40 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1670025600"
-		"tested_build_id" "9932732"
+		"category" "2"
+		"test_timestamp" "1732665600"
+		"tested_build_id" "16516478"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -34,14 +59,15 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "0"
+			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-7.0-5"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -325,30 +351,30 @@
 		{
 			"public"
 			{
-				"gid" "6392228729364533259"
-				"size" "6973512350"
-				"download" "6546452064"
+				"gid" "903362977214977537"
+				"size" "6980347796"
+				"download" "6551206128"
 			}
 			"sacrificial"
 			{
-				"gid" "6392228729364533259"
-				"size" "6973512350"
-				"download" "6546452064"
+				"gid" "903362977214977537"
+				"size" "6980347796"
+				"download" "6551206128"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"closedbeta"
 			{
-				"gid" "55ACCFCF99ABE55601EE1D779CE17278"
-				"size" "E5CC9067D5C2320E7D0D4F133E12B7FD"
-				"download" "A1F3C692303BCCECCEA79E0325C7685F"
+				"gid" "8146C6F83EFEDA5CEE4227EE93D05510"
+				"size" "CD586BD6C42DFA6E04899E62CFFEFC48"
+				"download" "6A94D73DC559E77C0EBA7973212A6D9D"
 			}
 			"development"
 			{
-				"gid" "47D0575E99C1841C143C06933AD7F34E"
-				"size" "139F5D4D038215B2AB83C27B2807AB74"
-				"download" "633EDD5D9C18EAB3B42D068DBECE1C0A"
+				"gid" "7F064E4CC9A214F85C2CF4D9B2383065"
+				"size" "C24DEDF7B771F8BBABAA777C7D1432AB"
+				"download" "8DC085270D882CEA96E749B2132767C8"
 			}
 			"legacy"
 			{
@@ -358,9 +384,9 @@
 			}
 			"pre-release"
 			{
-				"gid" "CF280373851574E2529E3A948DAF48F5"
-				"size" "4A870FEC02822B07839173563049D905"
-				"download" "7D8B7D683ABBE597380D2810B7E601E6"
+				"gid" "6E3B297946E7D57B65373C0CA68E05B4"
+				"size" "A5740DC33471FDF2D82C6A9B2A4D2F81"
+				"download" "3602515378A38DAB69BBAE4DDA16BBDC"
 			}
 		}
 	}
@@ -368,20 +394,20 @@
 	{
 		"public"
 		{
-			"buildid" "16516478"
-			"timeupdated" "1732464901"
+			"buildid" "16572868"
+			"timeupdated" "1732841773"
 		}
 		"closedbeta"
 		{
-			"buildid" "16516478"
+			"buildid" "16572868"
 			"pwdrequired" "1"
-			"timeupdated" "1732464911"
+			"timeupdated" "1732841783"
 		}
 		"development"
 		{
-			"buildid" "16516478"
+			"buildid" "16572868"
 			"pwdrequired" "1"
-			"timeupdated" "1732461975"
+			"timeupdated" "1732841273"
 		}
 		"legacy"
 		{
@@ -391,15 +417,15 @@
 		}
 		"pre-release"
 		{
-			"buildid" "16516478"
+			"buildid" "16572868"
 			"pwdrequired" "1"
-			"timeupdated" "1732464918"
+			"timeupdated" "1732841792"
 		}
 		"sacrificial"
 		{
-			"buildid" "16516478"
+			"buildid" "16572868"
 			"description" "Experimental public test branch. Unstable! Report bugs on the official Discord! See #sacrificial-info"
-			"timeupdated" "1732464927"
+			"timeupdated" "1732841805"
 		}
 	}
 }
@@ -418,6 +444,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26338397"
-"_sha" "727e54ada324cafcdee40540e9bd1e3063156b0f"
-"_size" "7213"
+"_change_number" "26414552"
+"_sha" "cf03c7eb1636810ee207fd96385035c2c90cb148"
+"_size" "7872"
