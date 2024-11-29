@@ -291,16 +291,16 @@
 	"store_tags"
 	{
 		"0" "1695"
-		"1" "3835"
-		"2" "1663"
+		"1" "1663"
+		"2" "3835"
 		"3" "1662"
 		"4" "4166"
 		"5" "1774"
 		"6" "4182"
 		"7" "122"
 		"8" "3834"
-		"9" "19"
-		"10" "1742"
+		"9" "1742"
+		"10" "19"
 		"11" "3839"
 		"12" "3854"
 		"13" "6869"
@@ -311,8 +311,8 @@
 		"18" "4175"
 		"19" "4145"
 	}
-	"review_score" "6"
-	"review_percentage" "75"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -375,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "331041209591667933"
-				"size" "165898756478"
-				"download" "155335187360"
+				"gid" "3368685621888360188"
+				"size" "165911226706"
+				"download" "155342806000"
 			}
 		}
 		"encryptedmanifests"
@@ -387,6 +387,12 @@
 				"gid" "8ABD1D960DC07870892D22786028AC14"
 				"size" "A5BFD3F2651E84E332B119A98914D554"
 				"download" "EBC5F9A6EF29BB29B370321A5D984776"
+			}
+			"live_qa"
+			{
+				"gid" "07F3EC7F814B3909C3BAE801DCBFC063"
+				"size" "D90A29B533064797CC01746144123A5B"
+				"download" "694F8F1A0622D2ABC3B98C9031EA96E4"
 			}
 			"test_crypto"
 			{
@@ -414,21 +420,15 @@
 			}
 			"pre_cert"
 			{
-				"gid" "943E4FF554D868FA746785036A67521B"
-				"size" "D932EE634A16EA100E539297A967B04A"
-				"download" "D9E1E575E5350C73DE425680FC53C7F5"
+				"gid" "3FC0918489AB1DA24C4486EBD70321A9"
+				"size" "4808788FCBA64729270F52E1FD7D5A11"
+				"download" "15F7C76ABE43FD2FC1AC655ADE639D6F"
 			}
 			"purgatory"
 			{
-				"gid" "A237D7F577B7C78F851FF0EA0717CDF5"
-				"size" "88FDD24B8E0BA9F60909C67E720855D4"
-				"download" "0F6B9A2C0D8810FDAEAA416C7CD046FC"
-			}
-			"main"
-			{
-				"gid" "66F0232F80665B80173E06B81B51F869"
-				"size" "8F3E44B98B89FBC7BF45ED2A735971E9"
-				"download" "21B9E74509287AE85C685B0F40D6FFFC"
+				"gid" "699B02D4C70779E32430EC0C84E6DB13"
+				"size" "53D79C02F93283D2BC27572BBA0A11D0"
+				"download" "B014D1175DB4D19F5B3F4D88B8E0A744"
 			}
 			"partner_build"
 			{
@@ -450,15 +450,15 @@
 			}
 			"compliance_pcr"
 			{
-				"gid" "0416D11813286808B47E6F114AF56148"
-				"size" "2D6E2009FD4B9DAE9B53068CFCE78F88"
-				"download" "BA19666CC2C511253F2E6C9056D51D21"
+				"gid" "1A9F46BA79F0988BE60B7527F53F2A9D"
+				"size" "7C2C4679044E9CB938F1585890E7B235"
+				"download" "D6AB64F6D51C45365564DE4F50C8961F"
 			}
 			"release_candidate"
 			{
-				"gid" "431123DC391EE92E3A0637E9A08B4972"
-				"size" "3F4AFF40B1C333642D6946F4CD3CFD8A"
-				"download" "1F034A64318784BBE321512986A86A62"
+				"gid" "EA09DBEBA8A1AF824547A9FC0F1B08B3"
+				"size" "FB9D6F0DEE28E6BAD7114A1D0402049F"
+				"download" "6945A1857F221B2CFB909F10AFFE148F"
 			}
 			"geforcenow_test"
 			{
@@ -486,9 +486,9 @@
 			}
 			"nvidia_partner_build"
 			{
-				"gid" "879463F4DF70548238FF8BD4F083E97A"
-				"size" "3A61B3815878DCC0769888C163F64085"
-				"download" "4E3C1B833A34F4787FDA6CDEF8026D45"
+				"gid" "2D779A90899699EF4376FD1CB4C2BE02"
+				"size" "21EA81AC443FD4E15B8D98870454F26F"
+				"download" "D7917035A6867EEC5D5DDC4725346941"
 			}
 			"intel_partner_build"
 			{
@@ -535,14 +535,20 @@
 	{
 		"public"
 		{
-			"buildid" "16474540"
-			"timeupdated" "1732127720"
+			"buildid" "16574510"
+			"timeupdated" "1732888856"
 		}
 		"jury_member_b26ac11d"
 		{
 			"buildid" "16474540"
 			"pwdrequired" "1"
 			"timeupdated" "1732127785"
+		}
+		"live_qa"
+		{
+			"buildid" "16544867"
+			"pwdrequired" "1"
+			"timeupdated" "1732708049"
 		}
 		"test_crypto"
 		{
@@ -570,21 +576,15 @@
 		}
 		"pre_cert"
 		{
-			"buildid" "16468558"
+			"buildid" "16563165"
 			"pwdrequired" "1"
-			"timeupdated" "1732095698"
+			"timeupdated" "1732788868"
 		}
 		"purgatory"
 		{
-			"buildid" "16474540"
+			"buildid" "16502083"
 			"pwdrequired" "1"
-			"timeupdated" "1732118229"
-		}
-		"main"
-		{
-			"buildid" "16357589"
-			"pwdrequired" "1"
-			"timeupdated" "1731245833"
+			"timeupdated" "1732291182"
 		}
 		"partner_build"
 		{
@@ -606,15 +606,15 @@
 		}
 		"compliance_pcr"
 		{
-			"buildid" "16382020"
+			"buildid" "16574510"
 			"pwdrequired" "1"
-			"timeupdated" "1731443832"
+			"timeupdated" "1732873176"
 		}
 		"release_candidate"
 		{
-			"buildid" "16472457"
+			"buildid" "16569351"
 			"pwdrequired" "1"
-			"timeupdated" "1732106968"
+			"timeupdated" "1732813518"
 		}
 		"geforcenow_test"
 		{
@@ -642,9 +642,9 @@
 		}
 		"nvidia_partner_build"
 		{
-			"buildid" "16410829"
+			"buildid" "16562365"
 			"pwdrequired" "1"
-			"timeupdated" "1731614242"
+			"timeupdated" "1732788903"
 		}
 		"intel_partner_build"
 		{
@@ -703,6 +703,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26286166"
-"_sha" "e1970c0d02823c3c3b9553e9d944ab4414e6ef94"
-"_size" "13754"
+"_change_number" "26423403"
+"_sha" "116660ca5bcd4a3cf9a6a4816d0d0beb7a74970d"
+"_size" "13761"
