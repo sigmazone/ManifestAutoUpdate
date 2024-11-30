@@ -87,7 +87,45 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1704029741"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "39.347123464770505"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1732908092"
 	"associations"
 	{
 		"0"
@@ -160,11 +198,12 @@
 		"1" "599"
 		"2" "701"
 		"3" "21978"
-		"4" "492"
-		"5" "1100687"
+		"4" "1100687"
+		"5" "492"
 		"6" "19"
 		"7" "1644"
 		"8" "4175"
+		"9" "3859"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
@@ -175,7 +214,7 @@
 	"developer" "Reiza Studios"
 	"publisher" "Reiza Studios"
 	"homepage" "https://www.game-automobilista2.com/"
-	"listofdlc" "1261120,1377650,1386930,1386931,1386932,1392090,1392091,1392100,1648060,1648061,1648062,1648063,1648110,1655040,2238190,2461740,2518750,2697770,2697780,2697790,2697800"
+	"listofdlc" "1261120,1377650,1386930,1386931,1386932,1392090,1392091,1392100,1648060,1648061,1648062,1648063,1648110,1655040,2238190,2461740,2518750,2697770,2697780,2697790,2697800,3022980,3022990,3023000"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -251,11 +290,17 @@
 		{
 			"public"
 			{
+				"gid" "4972186527902317779"
+				"size" "134167874141"
+				"download" "66854929120"
+			}
+			"releasecandidate"
+			{
 				"gid" "5516446385310127519"
 				"size" "123720443666"
 				"download" "61815903968"
 			}
-			"releasecandidate"
+			"previousbuild"
 			{
 				"gid" "5516446385310127519"
 				"size" "123720443666"
@@ -272,9 +317,9 @@
 			}
 			"stagingtest"
 			{
-				"gid" "E87E8944A7E412FAE35D44F91B0F4DBE"
-				"size" "B1469C2E5F8A20A115E4F0E8A9501602"
-				"download" "9F10232230E2C66E55BBE19E7735C220"
+				"gid" "F11D01DDE718D086F49E2B03C18DAB74"
+				"size" "30A76FA95A8CB5CDCF32B6A62A4AC7C6"
+				"download" "5F4E0371DF59BAD213619E69F38131C7"
 			}
 		}
 	}
@@ -284,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "14036436"
-			"timeupdated" "1713013658"
+			"buildid" "16580541"
+			"timeupdated" "1732899959"
 		}
 		"estockbeta"
 		{
@@ -299,11 +344,17 @@
 			"description" "Pre-release build"
 			"timeupdated" "1712942949"
 		}
-		"stagingtest"
+		"previousbuild"
 		{
 			"buildid" "14036436"
+			"description" "previous official release"
+			"timeupdated" "1732899910"
+		}
+		"stagingtest"
+		{
+			"buildid" "16580541"
 			"pwdrequired" "1"
-			"timeupdated" "1712934737"
+			"timeupdated" "1732892642"
 		}
 	}
 }
@@ -315,6 +366,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "23143543"
-"_sha" "01aa0f66ba0f1169be24d4f514692bd930107b16"
-"_size" "5847"
+"_change_number" "26427812"
+"_sha" "3749a794d34767d67f23459a7bfe57dbce15bc13"
+"_size" "6693"
