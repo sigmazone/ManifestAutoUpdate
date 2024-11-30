@@ -312,7 +312,7 @@
 		"19" "4145"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -375,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "3368685621888360188"
-				"size" "165911226706"
-				"download" "155342806000"
+				"gid" "8609377637216293114"
+				"size" "166072712309"
+				"download" "155377826880"
 			}
 		}
 		"encryptedmanifests"
@@ -390,9 +390,9 @@
 			}
 			"live_qa"
 			{
-				"gid" "07F3EC7F814B3909C3BAE801DCBFC063"
-				"size" "D90A29B533064797CC01746144123A5B"
-				"download" "694F8F1A0622D2ABC3B98C9031EA96E4"
+				"gid" "4233F2A83F2930FB5172DC21FD3D7EB1"
+				"size" "BB29BFE4A536A0EDAA58527D7CAF595A"
+				"download" "5131FB3091700088329CF1AA93E314B8"
 			}
 			"test_crypto"
 			{
@@ -405,6 +405,12 @@
 				"gid" "532603D48E2882CED0BF384AEF85ACF4"
 				"size" "6F54140AB9B1C16FBF6CDBFB4CCE9F9C"
 				"download" "02AC1E0DE6B3516F9BF269392CFA09AF"
+			}
+			"goldfish"
+			{
+				"gid" "8BDA8D09DC1006B9EF4D91CC0E368344"
+				"size" "1239B38D30B7E5A5B80CA57D5CC43FD3"
+				"download" "1E67758B79ABDEF93A8D3A7BFBD7D9CA"
 			}
 			"media_member_32be10a7"
 			{
@@ -442,12 +448,6 @@
 				"size" "D1794FC80662780F2CC5F35921D20753"
 				"download" "DC6A404D04365FF2ACF5499266A3E219"
 			}
-			"apple_partner_build"
-			{
-				"gid" "61514AC27ABA38861F00386D619FF79B"
-				"size" "78DEA0962017BEE86E3F9D4A6365D5F8"
-				"download" "5F392FB829D1747983A8370A37BFBE75"
-			}
 			"compliance_pcr"
 			{
 				"gid" "1A9F46BA79F0988BE60B7527F53F2A9D"
@@ -456,9 +456,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "EA09DBEBA8A1AF824547A9FC0F1B08B3"
-				"size" "FB9D6F0DEE28E6BAD7114A1D0402049F"
-				"download" "6945A1857F221B2CFB909F10AFFE148F"
+				"gid" "1AABC43C86EB4B74EB4602F101BD9F7B"
+				"size" "7DB6CB26455F086A957B7E2FA16475A0"
+				"download" "F1DFF798E2A5A2B5317F557726750BE6"
 			}
 			"geforcenow_test"
 			{
@@ -471,12 +471,6 @@
 				"gid" "79C5524C80E2D99321A540F94758B7FA"
 				"size" "AF6FCB686D7BF054FE5182087294B2B7"
 				"download" "B70DD6036DC8262EE6C05C7F6775219A"
-			}
-			"amd_partner_build"
-			{
-				"gid" "9FEADF1383B5D77FA0907F78216C4E93"
-				"size" "A7825647B2AC76892BBAF0EC9A978A8A"
-				"download" "4E2182F42516A95FFB9EBCDADADA1F37"
 			}
 			"h2_partner_build"
 			{
@@ -535,8 +529,8 @@
 	{
 		"public"
 		{
-			"buildid" "16574510"
-			"timeupdated" "1732888856"
+			"buildid" "16586218"
+			"timeupdated" "1732966215"
 		}
 		"jury_member_b26ac11d"
 		{
@@ -546,9 +540,9 @@
 		}
 		"live_qa"
 		{
-			"buildid" "16544867"
+			"buildid" "16586218"
 			"pwdrequired" "1"
-			"timeupdated" "1732708049"
+			"timeupdated" "1732948865"
 		}
 		"test_crypto"
 		{
@@ -561,6 +555,12 @@
 			"buildid" "16468887"
 			"pwdrequired" "1"
 			"timeupdated" "1732095663"
+		}
+		"goldfish"
+		{
+			"buildid" "16584903"
+			"pwdrequired" "1"
+			"timeupdated" "1732948978"
 		}
 		"media_member_32be10a7"
 		{
@@ -598,12 +598,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1731429446"
 		}
-		"apple_partner_build"
-		{
-			"buildid" "16142482"
-			"pwdrequired" "1"
-			"timeupdated" "1729633787"
-		}
 		"compliance_pcr"
 		{
 			"buildid" "16574510"
@@ -612,9 +606,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16569351"
+			"buildid" "16588122"
 			"pwdrequired" "1"
-			"timeupdated" "1732813518"
+			"timeupdated" "1732975544"
 		}
 		"geforcenow_test"
 		{
@@ -627,12 +621,6 @@
 			"buildid" "16382704"
 			"pwdrequired" "1"
 			"timeupdated" "1731523702"
-		}
-		"amd_partner_build"
-		{
-			"buildid" "16410676"
-			"pwdrequired" "1"
-			"timeupdated" "1731613280"
 		}
 		"h2_partner_build"
 		{
@@ -703,6 +691,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26423403"
-"_sha" "116660ca5bcd4a3cf9a6a4816d0d0beb7a74970d"
-"_size" "13761"
+"_change_number" "26435061"
+"_sha" "814061403e646f708314e6dc883fb81ea12b9782"
+"_size" "13442"
