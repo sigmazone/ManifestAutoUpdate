@@ -83,7 +83,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727428104"
+	"store_asset_mtime" "1728466189"
 	"associations"
 	{
 		"0"
@@ -154,32 +154,34 @@
 	"gameid" "2147380"
 	"store_tags"
 	{
-		"0" "9"
-		"1" "122"
-		"2" "1741"
-		"3" "3942"
-		"4" "1684"
-		"5" "4325"
-		"6" "6815"
-		"7" "14139"
-		"8" "21"
-		"9" "3859"
-		"10" "1775"
-		"11" "4182"
-		"12" "4711"
-		"13" "5716"
-		"14" "17305"
-		"15" "4975"
-		"16" "4166"
-		"17" "14720"
-		"18" "1742"
-		"19" "3916"
+		"0" "1670"
+		"1" "7332"
+		"2" "21725"
+		"3" "4325"
+		"4" "3834"
+		"5" "122"
+		"6" "14139"
+		"7" "1775"
+		"8" "1741"
+		"9" "17305"
+		"10" "9"
+		"11" "4975"
+		"12" "492"
+		"13" "4115"
+		"14" "3854"
+		"15" "3942"
+		"16" "1742"
+		"17" "3841"
+		"18" "7368"
+		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "95"
 }
 "extended"
 {
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "developer-hidden"
 	"developer" "Oxymoron Games"
 	"publisher" "Oxymoron Games"
 	"homepage" "https://silenceofthesiren.com/"
@@ -236,18 +238,18 @@
 		{
 			"public"
 			{
-				"gid" "5732291269824558694"
-				"size" "3760721966"
-				"download" "1424216848"
+				"gid" "5186525037791958480"
+				"size" "3767317854"
+				"download" "1428199456"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer-hidden"
 			{
-				"gid" "56A50AB9FCC681C427DEBE03BCB22E44"
-				"size" "1D9407D8AE54A8883B94A0D8F0D09206"
-				"download" "AE4141B560C2E41E1D00BBB657982A60"
+				"gid" "4F9B54030E696483E4461D4C8B89C7DE"
+				"size" "5E43523CC841EFC125EFB5ABD1A4DAB9"
+				"download" "6855C9623BDE2DFD19F6983BB455B47B"
 			}
 		}
 	}
@@ -261,18 +263,18 @@
 		{
 			"public"
 			{
-				"gid" "3024703998164320621"
-				"size" "3830616402"
-				"download" "1431339360"
+				"gid" "2778400549524650948"
+				"size" "3836721042"
+				"download" "1435179488"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer-hidden"
 			{
-				"gid" "3788E3E2CE7BC36966C966E30F3AF3FA"
-				"size" "A066889FC8292CA27408AD1D073D0B5B"
-				"download" "F1C131422AB4C13390A9BBD2208E40CE"
+				"gid" "0C165B657345177169FF4D277FA18888"
+				"size" "3FCB75782A4EB400B8B1723EAAA10226"
+				"download" "53E4DB1EE7595D5D6E100CF7EF245D92"
 			}
 		}
 	}
@@ -280,14 +282,45 @@
 	{
 		"public"
 		{
-			"buildid" "15903574"
-			"timeupdated" "1727954381"
+			"buildid" "16300121"
+			"timeupdated" "1730812296"
 		}
 		"developer-hidden"
 		{
-			"buildid" "15903574"
+			"buildid" "16300121"
 			"pwdrequired" "1"
-			"timeupdated" "1727878944"
+			"timeupdated" "1730807026"
 		}
 	}
 }
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Oxymoron Games/Silence of the Siren/Saves"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26367970"
+"_sha" "76fe33018c95701f2e787c35f6c0371189d1c458"
+"_size" "5287"
