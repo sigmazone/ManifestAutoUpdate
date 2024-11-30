@@ -1,0 +1,408 @@
+"appid" "300840"
+"common"
+{
+	"name" "JUJU"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "a8f8710f779689d96c32a55008b0b45a6e831f85"
+	"logo_small" "a8f8710f779689d96c32a55008b0b45a6e831f85_thumb"
+	"icon" "236c091c23ca344641210dac26777fa3b8df6982"
+	"clienttga" "eb841c4a3cc25d24f9b5d4109fc91a5dbd7c8dd4"
+	"clienticon" "a790ba517fae2064f241b4d8eebb8a832fa49335"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"portuguese" "1"
+		"polish" "1"
+	}
+	"metacritic_name" "JUJU"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_dba50840750d9da8f11ad059565d24ea247b0eae.jpg"
+	"store_asset_mtime" "1418222697"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flying Wild Hog"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Flying Wild Hog"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "1418198400"
+	"steam_release_date" "1418230800"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/juju\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "300840"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "597"
+		"2" "21"
+		"3" "492"
+		"4" "1625"
+		"5" "5350"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Flying Wild Hog"
+	"publisher" "Flying Wild Hog"
+	"homepage" "http://www.jujuandpeyo.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "JUJU"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries/Win32/PCLauncher.exe"
+			"description" "Launch"
+			"workingdir" "Binaries/Win32"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,russian,portuguese,polish"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"300841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2971042538965993902"
+				"size" "4252525716"
+				"download" "322299670576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "08FC39EA3CC44CE7A948AF9A65E50591"
+				"size" "41FE9D939E4DED098D973C343944F27F"
+				"download" "68FD8F1098220ED19A33235D2B82982E"
+			}
+			"preview"
+			{
+				"gid" "251E80E73BA767D6031B2A6EF8CAFAD8"
+				"size" "FEE63C3482CD75BCCA46851283B1F1C0"
+				"download" "EC58F8F3651A24CF30525B81CEE0ED3C"
+			}
+			"shield"
+			{
+				"gid" "7D01ACDB76DC1CA0005B92ADB19DBD36"
+				"size" "342C27CB9DC8D9E035587931539B8CAC"
+				"download" "2A572499C3B86BF30C7219737D86E64C"
+			}
+		}
+	}
+	"300842"
+	{
+	}
+	"300845"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"shield"
+			{
+				"gid" "4D0A99FC0184D11F82DAF58E540BAAE4"
+				"size" "E8691C6E756C895D7B2C08C7D256862C"
+				"download" "277EF96917E85C61BA6E45A6E3B3AAD4"
+			}
+		}
+	}
+	"334730"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7623947615137277505"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "4F9132F3D2EE1F0E84D84EBC0764AADD"
+				"size" "803D31C54D1097C5CF6C761C3DA5AE4E"
+				"download" "803D31C54D1097C5CF6C761C3DA5AE4E"
+			}
+			"shield"
+			{
+				"gid" "CC4F1F05B2E4FC582265CC55739FC554"
+				"size" "A3D4491F8F42578439BAF3A59B10BFD9"
+				"download" "A3D4491F8F42578439BAF3A59B10BFD9"
+			}
+		}
+		"dlcappid" "334730"
+	}
+	"334720"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1401984801510555381"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "BBC21015C901FABBC001A360A489BA92"
+				"size" "803D31C54D1097C5CF6C761C3DA5AE4E"
+				"download" "803D31C54D1097C5CF6C761C3DA5AE4E"
+			}
+			"shield"
+			{
+				"gid" "425948ECFA1D28E390BD9850E6347EA0"
+				"size" "A3D4491F8F42578439BAF3A59B10BFD9"
+				"download" "A3D4491F8F42578439BAF3A59B10BFD9"
+			}
+		}
+		"dlcappid" "334720"
+	}
+	"300843"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3779186393085301748"
+				"size" "536850410"
+				"download" "1019137768817"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "0990C5A70C07C6AE4DF03DBF6BB13DCC"
+				"size" "038C132663E4751AD110091F4676E598"
+				"download" "FB32E4EC130FE1A6F0A27AAB487A527F"
+			}
+			"shield"
+			{
+				"gid" "056FF08B0B52AEC561045379F31D7B4F"
+				"size" "225ADAF0906C58B89A158AA6F10DF536"
+				"download" "EBD5AE4C3BE50AEBFE10147C60148462"
+			}
+		}
+	}
+	"300844"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7376143192600538045"
+				"size" "83254363"
+				"download" "144729623992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "C2BC25FDB75E5DD970CD6D804257EBAF"
+				"size" "FB9E8300A8B6A0188A216D1949F1FAFF"
+				"download" "3285405721F7188F8EB0577BA9B2F177"
+			}
+			"shield"
+			{
+				"gid" "1E6EE9260F99C5ACBF52277F0CE4D059"
+				"size" "69032C834E72646F02FB57F571D6A5BD"
+				"download" "10D1EEB11D345B86AF27C0A23CF1F9F4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "471250"
+		}
+		"internal"
+		{
+			"buildid" "471250"
+			"pwdrequired" "1"
+		}
+		"preview"
+		{
+			"buildid" "432890"
+			"pwdrequired" "1"
+		}
+		"shield"
+		{
+			"buildid" "752101"
+			"pwdrequired" "1"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/JUJU/B1Game/SaveData"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "7a70c851035bb8dd2dcf4233c49807f1c7b78c0c"
+"_size" "7114"
