@@ -202,7 +202,7 @@
 			"name" "Hooded Horse"
 		}
 	}
-	"primary_genre" "28"
+	"primary_genre" "2"
 	"genres"
 	{
 		"0" "28"
@@ -313,6 +313,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1718899544"
 	"metacritic_score" "81"
@@ -326,23 +331,23 @@
 		"0" "9"
 		"1" "599"
 		"2" "4328"
-		"3" "1662"
-		"4" "8945"
-		"5" "12472"
-		"6" "7332"
-		"7" "220585"
-		"8" "1643"
-		"9" "1669"
-		"10" "4364"
-		"11" "3810"
-		"12" "3987"
-		"13" "1676"
+		"3" "7332"
+		"4" "12472"
+		"5" "4364"
+		"6" "1643"
+		"7" "3810"
+		"8" "3987"
+		"9" "4695"
+		"10" "8945"
+		"11" "1695"
+		"12" "220585"
+		"13" "1662"
 		"14" "4182"
-		"15" "6426"
-		"16" "4166"
-		"17" "4853"
-		"18" "7107"
-		"19" "26921"
+		"15" "1669"
+		"16" "4711"
+		"17" "7107"
+		"18" "1676"
+		"19" "1670"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -411,9 +416,9 @@
 		{
 			"public"
 			{
-				"gid" "9196591612566492986"
-				"size" "9331424248"
-				"download" "2963258400"
+				"gid" "5670655216659034696"
+				"size" "9333218183"
+				"download" "2963781872"
 			}
 			"oldversion_0.8.2.x"
 			{
@@ -480,15 +485,15 @@
 			}
 			"test_internal"
 			{
-				"gid" "32B3657FCD11F3969C638966881EE948"
-				"size" "D3048A5FDF76B2D565E023FBE00F4516"
-				"download" "5B19482803A49AE58F29A3B5AF28ABDD"
+				"gid" "8D4BE2BACD9222EECB1C61E7BB8896B4"
+				"size" "21F0C57062E951DEFA41E3928358835A"
+				"download" "A665DC33AE6EF11C6467C08DC82D31C6"
 			}
 			"test_top_secret"
 			{
-				"gid" "5DAF5B32A66BC2DDD1EC6EE2C38D0F09"
-				"size" "0E0EEF1190EB4B14C623DF917D68A3B9"
-				"download" "962A38E7C9E2CCFE7982E388F6938529"
+				"gid" "DEC95EDA7C21FF5665D971246A4EB526"
+				"size" "FC1DEE06D3736E19A639E55642920A6A"
+				"download" "8EE00178F568885653F98EA4A938892F"
 			}
 		}
 	}
@@ -578,12 +583,56 @@
 			}
 		}
 	}
+	"3334790"
+	{
+		"dlcappid" "3334790"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"test_internal"
+			{
+				"gid" "75EE3F1BD0AAF4143B7992E666B8F67F"
+				"size" "41D5A4F0DF07430CD601FE16C8971908"
+				"download" "09BA0EC291816497FA6D507BCA4B56D6"
+			}
+			"test_top_secret"
+			{
+				"gid" "1823E970823EB667D1CF3DA433C265E0"
+				"size" "F9F4CA0DD035690292B165CE67E930DF"
+				"download" "18A7B4EDA5A0760598C6CFDF7C9084EF"
+			}
+		}
+	}
+	"3333420"
+	{
+		"dlcappid" "3333420"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"test_internal"
+			{
+				"gid" "5AA2C97FA0BF04B00102A1F8AC18440D"
+				"size" "BF14B744555EDEB62465CA82418B09CA"
+				"download" "359662A43A4C21B805858DD43F8E6210"
+			}
+			"test_top_secret"
+			{
+				"gid" "3EC65A2E7C2EE03646104D11263D0025"
+				"size" "316B0486FA9860E29B62D372A2E48386"
+				"download" "3DD846B2AD9EEFB35A65CF42FFC25D54"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15277314"
-			"timeupdated" "1724330454"
+			"buildid" "15729707"
+			"timeupdated" "1732903365"
 		}
 		"oldversion_0.8.2.x"
 		{
@@ -647,15 +696,15 @@
 		}
 		"test_internal"
 		{
-			"buildid" "15729707"
+			"buildid" "16583540"
 			"pwdrequired" "1"
-			"timeupdated" "1726580569"
+			"timeupdated" "1732914609"
 		}
 		"test_top_secret"
 		{
-			"buildid" "15729707"
+			"buildid" "16583540"
 			"pwdrequired" "1"
-			"timeupdated" "1726580576"
+			"timeupdated" "1732914600"
 		}
 	}
 }
@@ -674,3 +723,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26428717"
+"_sha" "adaed30665006845a632a7389ae1becced401822"
+"_size" "14922"
