@@ -57,6 +57,7 @@
 		"greek" "Biped"
 		"latam" "Biped"
 		"vietnamese" "Biped"
+		"sc_schinese" "知只大冒险"
 	}
 	"eulas"
 	{
@@ -200,7 +201,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726159912"
+	"store_asset_mtime" "1727345903"
 	"associations"
 	{
 		"0"
@@ -340,13 +341,13 @@
 		"3" "1685"
 		"4" "6129"
 		"5" "19"
-		"6" "597"
-		"7" "3859"
+		"6" "3859"
+		"7" "597"
 		"8" "7368"
 		"9" "3968"
 		"10" "1695"
-		"11" "8122"
-		"12" "4136"
+		"11" "4136"
+		"12" "8122"
 		"13" "492"
 		"14" "4726"
 		"15" "4036"
@@ -385,7 +386,7 @@
 		"2060604419"
 		{
 			"controller_type" "controller_mobile_touch"
-			"enabled_branches" "default,betterping,leveleditor,local,releasecandidate,steam_china_dev,steam_china_only,test"
+			"enabled_branches" "default,steam_china_only"
 			"use_action_block" "false"
 		}
 	}
@@ -393,7 +394,7 @@
 	{
 		"steam_china_enable_duration_control" "1"
 	}
-	"steamdecktouchscreen" "1"
+	"steamdecktouchscreen" "0"
 	"steamconfigurator3rdpartynative" "65535"
 	"steamcontrollertemplateindex" "4"
 }
@@ -431,9 +432,9 @@
 		{
 			"public"
 			{
-				"gid" "8285139969703821239"
-				"size" "5157653208"
-				"download" "2133470000"
+				"gid" "6509945418138815626"
+				"size" "4559387132"
+				"download" "1580071872"
 			}
 			"betterping"
 			{
@@ -446,9 +447,9 @@
 		{
 			"releasecandidate"
 			{
-				"gid" "E59549C74579BE3A49F731E94F861A91"
-				"size" "0E8612C3D810078504A98693BB83DACC"
-				"download" "2C80AE523E7397A6688D2529CF3BDE2E"
+				"gid" "AB0F20834D9A8427F102B179D886E3F7"
+				"size" "CE1DF26BE599C2DEF965DE6F663F8A50"
+				"download" "ED971BE203CEBBABE61778CFBDF6BEC7"
 			}
 			"steam_china_only"
 			{
@@ -458,9 +459,9 @@
 			}
 			"test"
 			{
-				"gid" "A42B3DC40FB37B5C4FDE5B573713EBB2"
-				"size" "1223800728115D6B278C758951C7875B"
-				"download" "010F09AE6925FEBF38ADB4B6A8C54E17"
+				"gid" "813EC62EEDDEBA625535C0F9C2BF0650"
+				"size" "89960E1A2662523B593727EF42AEE36D"
+				"download" "E3977392353F2D06DE4815FF799382DE"
 			}
 		}
 	}
@@ -514,8 +515,8 @@
 	{
 		"public"
 		{
-			"buildid" "15744682"
-			"timeupdated" "1726674062"
+			"buildid" "16581518"
+			"timeupdated" "1732898300"
 		}
 		"betterping"
 		{
@@ -525,9 +526,9 @@
 		}
 		"releasecandidate"
 		{
-			"buildid" "15690884"
+			"buildid" "15744682"
 			"pwdrequired" "1"
-			"timeupdated" "1726674032"
+			"timeupdated" "1732898274"
 		}
 		"steam_china_only"
 		{
@@ -538,9 +539,9 @@
 		}
 		"test"
 		{
-			"buildid" "15427179"
+			"buildid" "16554293"
 			"pwdrequired" "1"
-			"timeupdated" "1724110156"
+			"timeupdated" "1732720954"
 		}
 	}
 }
@@ -564,6 +565,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25282110"
-"_sha" "3ba1939097895b87d9342f4b2cc6049562d7300b"
-"_size" "11205"
+"_change_number" "26425845"
+"_sha" "66f0c8ca2609d1ab749f6922ee6ad1e81cdc8730"
+"_size" "11174"
