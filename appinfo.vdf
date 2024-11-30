@@ -30,6 +30,35 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1731456000"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -97,7 +126,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730998804"
+	"store_asset_mtime" "1732789317"
 	"associations"
 	{
 		"0"
@@ -219,7 +248,7 @@
 		"19" "3934"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -227,7 +256,7 @@
 	"developer" "Vertigo Games"
 	"publisher" "Vertigo Games"
 	"homepage" "https://metroawakening.com/"
-	"listofdlc" "2841920,2841940"
+	"listofdlc" "2841920,2841930,2841940"
 }
 "config"
 {
@@ -263,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "5369290241992769637"
-				"size" "30116353171"
-				"download" "27154447168"
+				"gid" "1816483753787173300"
+				"size" "30131919452"
+				"download" "27173795456"
 			}
 		}
 		"encryptedmanifests"
@@ -320,21 +349,21 @@
 			}
 			"jenkins"
 			{
-				"gid" "0DB032F86D28C78D48BF6DF4E2F8D850"
-				"size" "CA48FD55598FE4E8A76B4D81980FD9BC"
-				"download" "E4BEE41A3E9AEA818197D782CDEC866C"
+				"gid" "718996802FBFFAE12E01AD25E62F4998"
+				"size" "6CA8CC0B6376F9FE78A23570F235A1D9"
+				"download" "DEAE89F37A4F2C3B24AE25A6909892F9"
 			}
 			"jenkins_nightly"
 			{
-				"gid" "4BA314BE72CA46C692E02F2BC28AF22C"
-				"size" "1192C96FF56B01EDA94BE81EDF9B16CC"
-				"download" "5C44151B48A98C83444BCA021504086E"
+				"gid" "1E8DF1D8173FDB03139CC2D63CE5D6C5"
+				"size" "498844B67DA368D28231589BD31A197E"
+				"download" "D9BF2369738A70588FC25181A23DBD51"
 			}
 			"jenkins_nightly_shipping"
 			{
-				"gid" "8C84959C043AA0BDAA0068EBB292AD33"
-				"size" "9C5C486F723CF785DFD228F38D3A98A2"
-				"download" "B571376E3CA07BE3B44C7FAB9A9D9789"
+				"gid" "D4A10757545CE19E49F058C48DAE46F5"
+				"size" "796A57AA0393BBDFBCA8C5FB5FE3E9D1"
+				"download" "C6850145B48B04BBAAB48F0C8AC5B0E6"
 			}
 			"marketing_stable"
 			{
@@ -380,8 +409,8 @@
 	{
 		"public"
 		{
-			"buildid" "16423315"
-			"timeupdated" "1731694840"
+			"buildid" "16542382"
+			"timeupdated" "1732701877"
 		}
 		"reviews"
 		{
@@ -433,21 +462,21 @@
 		}
 		"jenkins"
 		{
-			"buildid" "16422898"
+			"buildid" "16541825"
 			"pwdrequired" "1"
-			"timeupdated" "1731688014"
+			"timeupdated" "1732644269"
 		}
 		"jenkins_nightly"
 		{
-			"buildid" "16422842"
+			"buildid" "16541742"
 			"pwdrequired" "1"
-			"timeupdated" "1731687669"
+			"timeupdated" "1732643824"
 		}
 		"jenkins_nightly_shipping"
 		{
-			"buildid" "16423315"
+			"buildid" "16542382"
 			"pwdrequired" "1"
-			"timeupdated" "1731690387"
+			"timeupdated" "1732647172"
 		}
 		"marketing_stable"
 		{
@@ -494,6 +523,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26217360"
-"_sha" "a41b879edf638645ad95f3609b66355dc1868589"
-"_size" "8964"
+"_change_number" "26413352"
+"_sha" "cb54fd96a4848c13cc0aa52931092a0d8a53c978"
+"_size" "9700"
