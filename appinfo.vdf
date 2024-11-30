@@ -1,0 +1,1509 @@
+"appid" "1385510"
+"common"
+{
+	"name" "Back 4 Blood Beta"
+	"type" "Game"
+	"releasestate" "released"
+	"exfgls" "1"
+	"section_type" "ownersonly"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "ced140f69b589a85e1f6ebd5121311d17559bd23"
+	"clienttga" "3dafbbb2220586be6cbaa5a910ea694846e276cd"
+	"icon" "4a2e853e7098bb0ebe637107e8180084a3117184"
+	"logo" "a449d5516da1e1d96d811dea70a7bd499951eceb"
+	"logo_small" "a449d5516da1e1d96d811dea70a7bd499951eceb_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1385510_eula_1"
+			"name" "Back 4 Blood Beta EULA"
+			"url" "https://store.steampowered.com//eula/1385510_eula_1"
+			"version" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "47.610800759747015"
+			"height_pct" "70.83251214615312"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "47.610800759747015"
+				"height_pct" "70.83251214615312"
+			}
+		}
+	}
+	"store_asset_mtime" "1627400028"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Turtle Rock Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " Warner Bros. Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1628190000"
+	"gameid" "1385510"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1659"
+		"2" "19"
+		"3" "1663"
+		"4" "1774"
+		"5" "4345"
+		"6" "1685"
+		"7" "4667"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "Turtle Rock Studios"
+	"publisher" " Warner Bros. Games"
+	"homepage" "https://back4blood.com/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Back4BloodBeta"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+		}
+		"1"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi-Win64-Test.exe"
+			"arguments" "Gobi -SaveToUserDir"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Test"
+			}
+			"description" "Test"
+		}
+		"6"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi-Win64-Shipping.exe"
+			"arguments" "Gobi -SaveToUserDir"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Shipping"
+			}
+			"description" "Shipping"
+		}
+		"7"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi-Win64-Shipping.exe"
+			"arguments" "Gobi -SaveToUserDir -taskman"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Shipping + Taskman"
+			}
+			"description" "Shipping + Taskman"
+		}
+		"12"
+		{
+			"executable" "Gobi\\Binaries\\Win64\\Gobi.exe"
+			"arguments" "Gobi -SaveToUserDir -NOSCREENMESSAGES"
+			"description" "Development"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+		}
+		"13"
+		{
+			"executable" "Back4Blood.exe"
+			"arguments" "-taskman"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Retail + Taskman"
+			}
+			"description" "Retail + Taskman"
+		}
+		"14"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "early-access"
+			}
+		}
+		"15"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "latest-live"
+			}
+		}
+		"16"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "playtest"
+			}
+		}
+		"17"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "latest-staging"
+			}
+		}
+		"18"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "latest-milestone"
+			}
+		}
+		"19"
+		{
+			"executable" "Gobi.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Development with EasyAntiCheat"
+			}
+			"description" "Development with EasyAntiCheat"
+		}
+		"20"
+		{
+			"executable" "Gobi-Win64-Test.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Test with EasyAntiCheat"
+			}
+			"description" "Test with EasyAntiCheat"
+		}
+		"21"
+		{
+			"executable" "Gobi-Win64-Debug.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1416103"
+			}
+			"description_loc"
+			{
+				"english" "Debug with EasyAntiCheat"
+			}
+			"description" "Debug with EasyAntiCheat"
+		}
+		"23"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "intel"
+			}
+		}
+		"24"
+		{
+			"executable" "Back4Blood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "amd-distro"
+			}
+		}
+		"25"
+		{
+			"executable" "Back4Blood.exe"
+			"arguments" "ExecCmds=\"-ATUINENV=QUA\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "tg-pvp-playtest"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1385511"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9193127894195839951"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "009C9659C3722AE8C747085D9E7F66B9"
+				"size" "E98AAC6DED9488ABDCE999E838D79963"
+				"download" "518E302B089195EAC6D654601F6E4EA5"
+			}
+			"analytics"
+			{
+				"gid" "5CEDCA64F1F26061B94E9CF206F1BB24"
+				"size" "103FADFF31687B23C0760AA4C66ADA46"
+				"download" "D6D64E9654F32880BD640A7A24C7DE92"
+			}
+			"desert-lab"
+			{
+				"gid" "7060617B2EF112F4EF507BD8936DA451"
+				"size" "A8681BFF69BA5ED007968790C06A2BCD"
+				"download" "BA5BBF0F472FDFD826AC4A2380D5DA4C"
+			}
+			"intel"
+			{
+				"gid" "9A16A9264D7E9CD8414683007D28D55E"
+				"size" "7498FDB5D35E42CF9C70F75E2B4E4D67"
+				"download" "EF40A54E7478BA247AC91A36217C90DB"
+			}
+			"latest-live"
+			{
+				"gid" "54D83452844929831ECE3F05794B48BF"
+				"size" "7B163928A26C3BDFEA779124F340F327"
+				"download" "81918B8E82BDE8D8FBBBC7CADE2B4456"
+			}
+			"latest-milestone"
+			{
+				"gid" "F96343A41AE5F062F17889AB2301BF8B"
+				"size" "BD8A7809A8BA1027591F9FD4C5E14BE9"
+				"download" "8E6A89A44FACD822794EC3DDF481C2C4"
+			}
+			"latest-staging"
+			{
+				"gid" "AF16D94F8CC5C637A0EA5E307A81A17B"
+				"size" "ADE3705EB98EED5147CA0C98C580899B"
+				"download" "5CB4A1D75DA5D009B0EB88F916BD5DE7"
+			}
+			"nvidia"
+			{
+				"gid" "3F4A55F546EB302B6FBC106304F1DBB2"
+				"size" "408C5961AED0B0F8C12B292324A762DF"
+				"download" "CB63AB62CC7DC826671406B58009F718"
+			}
+			"playtest"
+			{
+				"gid" "AECE175B23EEFB3D73D9AEF3E8A64545"
+				"size" "9485D0E490853948F61A8CB17314B53C"
+				"download" "8AB0FDB1E1C03880E7FD3A9ED47CFCB9"
+			}
+			"qabranch"
+			{
+				"gid" "EB2165CCE88BD7BF0A57B78B42BD1637"
+				"size" "4D91156AEA7EC980E4B8E4E12C783869"
+				"download" "60D10093D55F328F1A77486E0E3B1D5A"
+			}
+			"test1"
+			{
+				"gid" "91722DD434E35B80063042B5CBDEE40F"
+				"size" "881A789BAD9013E2C9A1581598B539B8"
+				"download" "6BF8040BFE1F0CB58C285A7AB577B7F9"
+			}
+		}
+	}
+	"1416102"
+	{
+		"dlcappid" "1416102"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8577576256087880054"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "978C2EC866DF754B3A562FE617266AD7"
+				"size" "E53BFF881DADA9BA8C893D27144A77BA"
+				"download" "F54196655F30A66B467662FE88BC294A"
+			}
+			"analytics"
+			{
+				"gid" "084F5BFBE5BEFFB3336356116E2FCAA4"
+				"size" "FDD417530BFC1EFE6268C01D00EA3EA2"
+				"download" "8E22113D5370CCF75C6278E0F0EDFDCE"
+			}
+			"desert-lab"
+			{
+				"gid" "D1F431E3FCDD8182EFF38F0B9ADFACE8"
+				"size" "B4E2D28BDDFB47E88EF3C6CAED769481"
+				"download" "136429FADB38A565AEBC49AEE7B2998D"
+			}
+			"intel"
+			{
+				"gid" "F33A58F3EC675A4673C48B7692140E6B"
+				"size" "AEB24209686A4A9EF43DAAEC81EBEA19"
+				"download" "C0D78DEAFE3E58B789EED2E936EC15E4"
+			}
+			"latest-live"
+			{
+				"gid" "816F50A0DA9AF8F5892BB840E23E300F"
+				"size" "F7851177A1296EF2780185D936265E61"
+				"download" "79623502066023BB81F8588BD19E1FED"
+			}
+			"latest-milestone"
+			{
+				"gid" "60CFF3C36DECA03E9E8526378AF6BE03"
+				"size" "25D85A43564FD30D06F4CDA0E8AA1BD1"
+				"download" "2BB9384B2884CE8FCB4B6EF8552B4493"
+			}
+			"latest-staging"
+			{
+				"gid" "883CAE8D970DEA288FF9343F7CA48A78"
+				"size" "084E14C6AA6C54F326085C2AFFFAED06"
+				"download" "5FDC69357E65594A4B3B64DFF0617E35"
+			}
+			"nvidia"
+			{
+				"gid" "5F232FFE34D7D7F895A743F7D07B90F8"
+				"size" "E74357671DA4EB682E458FD4D56C3A19"
+				"download" "6A4D0042274BE1F8C3B1650CE6A06F55"
+			}
+			"playtest"
+			{
+				"gid" "1708CFA1802280DDB9C60C50DB907402"
+				"size" "0562EEEE9302B7A629BC88E003FFE75E"
+				"download" "A3EC2361F66E88C1720B72CADE973CCC"
+			}
+			"qabranch"
+			{
+				"gid" "BD9F2585C1CAE3106A1BE2DCECBD76B2"
+				"size" "B7B2DB11FC25EB0C0DB7CD6B42ADC197"
+				"download" "2BE2EED9FD4D1EEF81B92AB087E8BFBA"
+			}
+			"test1"
+			{
+				"gid" "FBDF7C711B3D2E4F9171A537BD7AE422"
+				"size" "2A1091DAB3181791F9CCFF6F6A771EFA"
+				"download" "082FF23FEDA2B307EAE1F1FB90FF0FA9"
+			}
+		}
+	}
+	"1416101"
+	{
+		"dlcappid" "1416101"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "524817515887364035"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "5560B7F9A862DE151E152B9025662124"
+				"size" "D100DCC026E19FEECA22D8AFD9C8D6C4"
+				"download" "D100DCC026E19FEECA22D8AFD9C8D6C4"
+			}
+			"analytics"
+			{
+				"gid" "6ADC58F8C74096C4592331133BBF4D3A"
+				"size" "DFE2DCD506748E455F42BF2B2FEC0512"
+				"download" "DFE2DCD506748E455F42BF2B2FEC0512"
+			}
+			"desert-lab"
+			{
+				"gid" "89344C1C321B02C4D19223DBFCCA1156"
+				"size" "A81AEC85E28914122662652492667086"
+				"download" "A81AEC85E28914122662652492667086"
+			}
+			"intel"
+			{
+				"gid" "569D4720671F81A9B0B77E2B1056F2C4"
+				"size" "FC3C78DA34603E20035F5EB6F90166F6"
+				"download" "FC3C78DA34603E20035F5EB6F90166F6"
+			}
+			"latest-live"
+			{
+				"gid" "BA5F37C66C4BA68B1B5C592D301AFB39"
+				"size" "F0B6F6304077F5C48F290B4214EA88C2"
+				"download" "F0B6F6304077F5C48F290B4214EA88C2"
+			}
+			"latest-milestone"
+			{
+				"gid" "90ADADB327BA524F2577EFD8354A240F"
+				"size" "F2B71F869BAA9EF11FC7C77476CA1A24"
+				"download" "F2B71F869BAA9EF11FC7C77476CA1A24"
+			}
+			"latest-staging"
+			{
+				"gid" "9441A9D50DDB016716B048A8CA27AE92"
+				"size" "D39CC5BA2E79F403F22FA43038BA3956"
+				"download" "D39CC5BA2E79F403F22FA43038BA3956"
+			}
+			"nvidia"
+			{
+				"gid" "5BDE52127DE5A6A69F1BC1AA0C224B22"
+				"size" "ED6A8F5C394A592DDFA4D994EEF5D986"
+				"download" "ED6A8F5C394A592DDFA4D994EEF5D986"
+			}
+			"playtest"
+			{
+				"gid" "AAE59F2BC555F0BFF132D8002FDD5DFC"
+				"size" "00F854D0237D667E8605388E0056BF2D"
+				"download" "00F854D0237D667E8605388E0056BF2D"
+			}
+			"qabranch"
+			{
+				"gid" "B227868B377D3FD8643E2D7F3DC7F644"
+				"size" "479D348F437FC27AA27465A119119B74"
+				"download" "479D348F437FC27AA27465A119119B74"
+			}
+			"test1"
+			{
+				"gid" "D0EA8A2E00CCFD8110B0C154F5A2C849"
+				"size" "3F2A3FCE7F2F37E7F410EA78B9803AFD"
+				"download" "3F2A3FCE7F2F37E7F410EA78B9803AFD"
+			}
+		}
+	}
+	"1416100"
+	{
+		"dlcappid" "1416100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4113863931990225966"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "64BF63DC893F7D053E85D18C4F7CFFE7"
+				"size" "D100DCC026E19FEECA22D8AFD9C8D6C4"
+				"download" "D100DCC026E19FEECA22D8AFD9C8D6C4"
+			}
+			"analytics"
+			{
+				"gid" "31327D055E001C1F6A89883AAF4086BD"
+				"size" "DFE2DCD506748E455F42BF2B2FEC0512"
+				"download" "DFE2DCD506748E455F42BF2B2FEC0512"
+			}
+			"desert-lab"
+			{
+				"gid" "9AFE0DC35A1C1E0E9231D581892C265E"
+				"size" "A81AEC85E28914122662652492667086"
+				"download" "A81AEC85E28914122662652492667086"
+			}
+			"intel"
+			{
+				"gid" "A1B933EEDAB12912B01159857C21E2D8"
+				"size" "FC3C78DA34603E20035F5EB6F90166F6"
+				"download" "FC3C78DA34603E20035F5EB6F90166F6"
+			}
+			"latest-live"
+			{
+				"gid" "EB5D739A33218447C66E6D6FC7180546"
+				"size" "F0B6F6304077F5C48F290B4214EA88C2"
+				"download" "F0B6F6304077F5C48F290B4214EA88C2"
+			}
+			"latest-milestone"
+			{
+				"gid" "C1E8662B6250807144E2481905F4C94D"
+				"size" "F2B71F869BAA9EF11FC7C77476CA1A24"
+				"download" "F2B71F869BAA9EF11FC7C77476CA1A24"
+			}
+			"latest-staging"
+			{
+				"gid" "2C454D046BBC1526D53CC29B7F2D3BB5"
+				"size" "D39CC5BA2E79F403F22FA43038BA3956"
+				"download" "D39CC5BA2E79F403F22FA43038BA3956"
+			}
+			"nvidia"
+			{
+				"gid" "C062AED724DD26225B317AD591845AD1"
+				"size" "ED6A8F5C394A592DDFA4D994EEF5D986"
+				"download" "ED6A8F5C394A592DDFA4D994EEF5D986"
+			}
+			"playtest"
+			{
+				"gid" "74A1B66327E0D2268692771CE99F0C89"
+				"size" "00F854D0237D667E8605388E0056BF2D"
+				"download" "00F854D0237D667E8605388E0056BF2D"
+			}
+			"qabranch"
+			{
+				"gid" "5952B2F4ABBF84D5E5FA2DFC606D78B4"
+				"size" "479D348F437FC27AA27465A119119B74"
+				"download" "479D348F437FC27AA27465A119119B74"
+			}
+			"test1"
+			{
+				"gid" "9A319718EC315F0741DB0033FF91CD54"
+				"size" "3F2A3FCE7F2F37E7F410EA78B9803AFD"
+				"download" "3F2A3FCE7F2F37E7F410EA78B9803AFD"
+			}
+		}
+	}
+	"1416103"
+	{
+		"dlcappid" "1416103"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6462879220948965296"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "9FA66E347D76EDDD56A20A227BF2D87D"
+				"size" "A2FA5341728870663EE66A22ADDB61CB"
+				"download" "7A1728F3DCD6E80AFFDE4F8754513395"
+			}
+			"analytics"
+			{
+				"gid" "339645A8A56F7392FCDD98C150A2CB58"
+				"size" "ED6C4077BFF684CE28D70054B18E5CF4"
+				"download" "FE50C75FA92EB4FF1BC1D69987985D50"
+			}
+			"desert-lab"
+			{
+				"gid" "EA42900923BE8F7A67870BEF187D46DC"
+				"size" "C140C639AAD580E6AB0530679F78AFA1"
+				"download" "DC09DF1AC913A67E066B730FE694AF25"
+			}
+			"intel"
+			{
+				"gid" "87AD0F24B9E922ADDA40CE921AB18AD9"
+				"size" "DF84F2FC4E99850F6600617D4514BF53"
+				"download" "98FF118B5CB02C459E290DBA9EDB6B74"
+			}
+			"latest-live"
+			{
+				"gid" "B58C934C3141A47E85100CD229612ADB"
+				"size" "145C52DEE0818ED272AAC2071AC9F11E"
+				"download" "DBD12676929F3612BFC39F386923F95C"
+			}
+			"latest-milestone"
+			{
+				"gid" "487DAEF3B2695E34151844FF406E4470"
+				"size" "AE1783B8A823AEB1C4D3DA8F9AEF9928"
+				"download" "AFB75DC18D0430B46F3558ECA0AB02D3"
+			}
+			"latest-staging"
+			{
+				"gid" "040147D19C9A1A24552412C1854460C8"
+				"size" "F2AF813942D8E89176C1050A132EED6F"
+				"download" "527A109FFB1758EC6820F774C2F5EC9C"
+			}
+			"nvidia"
+			{
+				"gid" "9D15D2EE2EE7A57F1CA7741C9D607DE6"
+				"size" "3E30C790D81F99987794C3A00C082457"
+				"download" "16412B455C52152E1982A50C960DAC0B"
+			}
+			"playtest"
+			{
+				"gid" "BCDAAECC7211BD89DCFD83A87C0CCE3F"
+				"size" "F1FA693545524D5DD5E62013F86BCE45"
+				"download" "512F2A3458D5135249135FD0AFF44F33"
+			}
+			"qabranch"
+			{
+				"gid" "0847E6FE2424010BBEC183D1128DCBF3"
+				"size" "05DC633665998D1A0550D423B7672277"
+				"download" "0129658859A8B40C39C29936AB2987A5"
+			}
+			"test1"
+			{
+				"gid" "D3987DB17F54711821D6C8C62C97C4A8"
+				"size" "6BDE40BB171FC8B02883E5306DE36BF5"
+				"download" "4BEA261D0DCC698110DF2E3FE266B1E2"
+			}
+		}
+	}
+	"1385512"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1146241131107038058"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "30BB068C18909064D2F1B17AEDE75F95"
+				"size" "EFC79942350688E00A5C6B5C1F99A905"
+				"download" "00E5F3A1A5B091DFF9C87800C058A0F6"
+			}
+			"analytics"
+			{
+				"gid" "35562D3B2C161274D69A9AAD7D7278EA"
+				"size" "8F109158096DDB3884D7293713652A02"
+				"download" "2FF58FCCB34B7798A5D5F78C24D7BF38"
+			}
+			"desert-lab"
+			{
+				"gid" "7C6F7665A963E07B68DACBD35FF78B77"
+				"size" "48CEFD40A87E131EC4B1705145A7284E"
+				"download" "BCD9F423D25147D46BC169F9290357A4"
+			}
+			"intel"
+			{
+				"gid" "0F9B91E1D2C7E3196A1DA63DE89CF0CE"
+				"size" "E29C693605D7F66250DADA01B999254B"
+				"download" "0C88743CEE106D135053567BBFB0A9BF"
+			}
+			"latest-live"
+			{
+				"gid" "47AADAA572973DFD3F0AF4882B480308"
+				"size" "549E733A4D03D5DDC27EE435CFFDD92D"
+				"download" "43DBEB7CB1C2BA769CFEBB8A1C40C7DB"
+			}
+			"latest-milestone"
+			{
+				"gid" "C6A457888A017D5667E9039F0B39D9A8"
+				"size" "BCEB1D421D112C038D6E53FB2BEA02E8"
+				"download" "C9B45A3C098E39FEEC86917A5853C871"
+			}
+			"latest-staging"
+			{
+				"gid" "FFBE8852B9F1DA09E70887D89F578E51"
+				"size" "A9FF0D73DD72EE9269FC555D567A8AA3"
+				"download" "D76329BE86B0DA52A7BE71CE84FE5CCF"
+			}
+			"nvidia"
+			{
+				"gid" "0F32F6545D5D5F3691C3918681F86FF3"
+				"size" "37BBF3CD7AA6C9CED1B965049FB6FD5D"
+				"download" "1805D87F675E9C79CF8CF478931AC743"
+			}
+			"playtest"
+			{
+				"gid" "39EFB5AF56F1E450408F60C30BEC8E53"
+				"size" "88402DD9783C82BBE956E6CC0255DA46"
+				"download" "7E941222EAF3F043FD6F2DDBD7792D54"
+			}
+			"qabranch"
+			{
+				"gid" "3F900A3BE983262CD50E6B99EF2001FE"
+				"size" "69389AAF51103D7C21262F13F5C2F999"
+				"download" "AFC99513AFAD662D2F4F326CAC8F8915"
+			}
+			"test1"
+			{
+				"gid" "7250507F5F91B8DF4BA1E4F22484A2AC"
+				"size" "503A0571C66DDC9AF326F7C8EAB96C20"
+				"download" "73D89FF48D2749088D025505DE3CDAAD"
+			}
+		}
+	}
+	"1385513"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1565729570313568816"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "194DA44DF2550148C8AFA8C042E3F348"
+				"size" "D44D6012D4CC0DE27FDB92CC4826F7F5"
+				"download" "6ED18545EA40C7EB193634126E98A8C6"
+			}
+			"analytics"
+			{
+				"gid" "09778BD76E7A24701962FA93BDAC1079"
+				"size" "F9DEC82C22B73A561902726700F47C56"
+				"download" "4FC3237FA460CBBA8D5AD77C333278FF"
+			}
+			"desert-lab"
+			{
+				"gid" "05C2BBCB4B4839C41B6FA560015EEF2D"
+				"size" "8CECAB6346E90214F81696E4629929BC"
+				"download" "DA1028DAC474DBDDA07FFC95E529F5FF"
+			}
+			"intel"
+			{
+				"gid" "6FE6F068D4A08391DE9F08A1314F86EC"
+				"size" "72076D5318A7B53639DD6825F9B2EDB0"
+				"download" "499A94495DE781350059DAE742D8F1D9"
+			}
+			"latest-live"
+			{
+				"gid" "B93DC1274F46D72283C9B313D4FC4491"
+				"size" "3DCF0FA3CD95AACA110850545C794037"
+				"download" "F558F13503B34ABB6FD3F3848BAA1E95"
+			}
+			"latest-milestone"
+			{
+				"gid" "4C4301B84D1290E5B03ABF3FF304EA24"
+				"size" "6EC8601FFE6856B62D24F03889C6FEF8"
+				"download" "BA915D179902BCB3ABBD9A39A2E75C5D"
+			}
+			"latest-staging"
+			{
+				"gid" "284C07B6802D31BE516756CE7087A902"
+				"size" "9EB5327C8CE2D0F187E43F4044E98D8A"
+				"download" "14D7BD87ABAB2F41D43AC2BB0418FC09"
+			}
+			"nvidia"
+			{
+				"gid" "E812A2A3C3DC732320B56136E768271E"
+				"size" "6E5FB9D293E8D87AC394FC115874570F"
+				"download" "98B068EE3605921CD0A2F830B9174EED"
+			}
+			"playtest"
+			{
+				"gid" "66259A2125453BF3D938DA7FAFE39CE1"
+				"size" "0C6B00247F41BCDC8E5BDE6D9C8240B2"
+				"download" "01D3C68B2BBDA4F4E83F1A63DB3FFACA"
+			}
+			"qabranch"
+			{
+				"gid" "16D7B84D8D336C1565DC9FE2CF8C0BA3"
+				"size" "4C6C95808F83428D73D0D56551D9B22C"
+				"download" "C109C00C0103D423FD91E9591AB2FFB4"
+			}
+			"test1"
+			{
+				"gid" "0BF95CC2F2723BB131AA2C9F95C9B0C8"
+				"size" "50A852F70FC56B958F8E399724F862D7"
+				"download" "D2EDC1443A4AC547417668CB2D0A066F"
+			}
+		}
+	}
+	"1385514"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5000344591286204230"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "CC92F9A2A87961E243E775BF8B7E84A6"
+				"size" "7CF61F96A5146345DA203F0856FD89DC"
+				"download" "CE478BCA51517050CF49B1D0C1A05365"
+			}
+			"analytics"
+			{
+				"gid" "F114E3E9E6CFE8EFB2624207F450C358"
+				"size" "14C07387A6D852EF575DAC57010EB5F2"
+				"download" "EB9840DEBBC79A28B4272B1E0FFB9814"
+			}
+			"desert-lab"
+			{
+				"gid" "1C4D09388CA687F505C7941B44F8EE3F"
+				"size" "58FCFF904ED25110D6D46BDD474CEB15"
+				"download" "B7473394E53E9DFD6F18906C4762CEEA"
+			}
+			"intel"
+			{
+				"gid" "E0390C6E14419518C07EEDC59A9A7342"
+				"size" "F941A3298329EB3845E59F1D4455E70E"
+				"download" "2A389BE1A9C0CCF126E98FD280A1D0EB"
+			}
+			"latest-live"
+			{
+				"gid" "B88E5FAF10ABF1C8B31DEE95F88790E6"
+				"size" "0FFC44FEC8DDA4010A21D34256DBD335"
+				"download" "0F8EBA09A7554ABD210CEC5B6175599D"
+			}
+			"latest-milestone"
+			{
+				"gid" "93D723534DDF05D32B97289600D8D923"
+				"size" "FBC34D5C72FE858856DA8E060F7B2E2C"
+				"download" "94DC47F90BC7E30BA79B8676671CABDA"
+			}
+			"latest-staging"
+			{
+				"gid" "CC040E943A21F248C97F5E1D203962AD"
+				"size" "C345E98C9D219E9ED43509F85265E70E"
+				"download" "105D1D035E2A5000F8822871899BCC3A"
+			}
+			"nvidia"
+			{
+				"gid" "3F3B5A0C7770E4B125A4708E68DCA40C"
+				"size" "F7FEA909E548B405632FF1537B630951"
+				"download" "E0F72773EA9577AB5F9D42D20AE48170"
+			}
+			"playtest"
+			{
+				"gid" "C4C20E2DDDA04D7B2598239823E01A27"
+				"size" "A201094DCA974A42FF49C2CDD1226B1C"
+				"download" "96729C06C430CABCDDD8A267E11BD961"
+			}
+			"qabranch"
+			{
+				"gid" "BF02953B495D9DA16A5F06160337D683"
+				"size" "636DBB43CD8D9B89C01A82879AEEBBB4"
+				"download" "9D937E2BC11583F2512507249FBA86F7"
+			}
+			"test1"
+			{
+				"gid" "31FDA40C04311FF898DB6C2B2F618D86"
+				"size" "2F38A0B035536A00E8BCF4BAFA0009D8"
+				"download" "B04F5DC843EE14285FE16B135BA980B7"
+			}
+		}
+	}
+	"1385515"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1856977654932367115"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "93E8B85AF77E30EF91F6F112023750C2"
+				"size" "A35F362A709BBE5812956BE9CD2A4BE3"
+				"download" "A93800A62B853D3D490B869084D1D697"
+			}
+			"analytics"
+			{
+				"gid" "6FE2F09E0FD77AF0BDB0A0CA92244A40"
+				"size" "A17F5403EF339D3348DC052BF9895CF3"
+				"download" "F29BD4972C4C91EB484DF91824CBF6ED"
+			}
+			"desert-lab"
+			{
+				"gid" "7BCE1BE7FDF197A653B42960D9098961"
+				"size" "A67D5A388DA3D0EF99E6691A46BAC1F2"
+				"download" "F74CFA0FD1E49F2BA0A704DF18070439"
+			}
+			"intel"
+			{
+				"gid" "2B0E24F258235900E779E6C3D6767AAD"
+				"size" "0FA732A25D44093DEE12D41C2D671A9D"
+				"download" "343F5B0C48EAA55413BE6A3794B3DDB3"
+			}
+			"latest-live"
+			{
+				"gid" "08C16F2DF1CFBAC600664FBEA080E4D7"
+				"size" "07EA9A4E74565A9827D401E6B6A04621"
+				"download" "32F24F175BFB629B4F21819E143B35AD"
+			}
+			"latest-milestone"
+			{
+				"gid" "91999FC85FFDE3C768C51C596CA1C6EF"
+				"size" "4AAEF466D9FBBA7F27685A74C4D02130"
+				"download" "20F37B963521D01DBF23400D161D0836"
+			}
+			"latest-staging"
+			{
+				"gid" "9CCF7A5E4BB7BD2C5CA43B6FF1B0D529"
+				"size" "E675C8EFECCBDD1545336490D6334D28"
+				"download" "4C6F64666FF06F0AFC1660286DC889B7"
+			}
+			"nvidia"
+			{
+				"gid" "11158A1BFC291FA6635633BA2156D980"
+				"size" "0EF94914B0F1C95FE6977B44F68E6CAE"
+				"download" "6D91E5DF928CC7AD30B44092568D02E0"
+			}
+			"playtest"
+			{
+				"gid" "3BD85D642D3CAEF6423447B8042B144F"
+				"size" "3CB53434E1BFEC9DF3990C6A296085B2"
+				"download" "B3C771CB6B9B315519E1633D183D6C6B"
+			}
+			"qabranch"
+			{
+				"gid" "A2D3345865E452B7DA55F0CCAEE25B96"
+				"size" "D6F4D6EE92A24D111DDFE9259571F2BA"
+				"download" "E9B242FF2958A03E979B06D3AA110C0E"
+			}
+			"test1"
+			{
+				"gid" "7490AFCB78FECC1F6ACED4667FC496F4"
+				"size" "216B241FCFA24EBBB9D6597DE1E57D15"
+				"download" "72D53A8E403ECBF60D327ED7CA5AD50D"
+			}
+		}
+	}
+	"1385516"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5654703247212653713"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "C0992C69BCC6A05590CD51ABFC0EA160"
+				"size" "391C72E79DB377244124C65C063A583B"
+				"download" "0055A3988E30ABB1219EE17ADBF7D128"
+			}
+			"analytics"
+			{
+				"gid" "739F639812E98E703D4DDF777445A1C2"
+				"size" "77C3ADCB3D34A421F6BA896C03CB956F"
+				"download" "ED1C8751AC2E73BC2277D4448E4E48F2"
+			}
+			"desert-lab"
+			{
+				"gid" "84DDA335AB44084FF7D67A56248FA410"
+				"size" "9FCCB26C0EF8C2C17BA8081F47489FEB"
+				"download" "DC12521BE15AB5D7BE2C6B40E6167007"
+			}
+			"intel"
+			{
+				"gid" "351474F6A24C8499C57D4BEE4E7C4D3C"
+				"size" "9D9D63763B3EAAAADA53BB260218F9C9"
+				"download" "92D69B9E8AE2991CF48033AA9F783103"
+			}
+			"latest-live"
+			{
+				"gid" "527FC7D8771DC6568D00DBEC819FA7C9"
+				"size" "58B792DA1E6F7D80872699326B14F537"
+				"download" "805DE6775D176963AB910EEC1DF75A85"
+			}
+			"latest-milestone"
+			{
+				"gid" "4E75BF808BB317DAF99321B538F6E1F2"
+				"size" "90F92C9AEE5A1A6BFAF136EB2193E58C"
+				"download" "952EFE983FE110ABC559C821C6A7D9F1"
+			}
+			"latest-staging"
+			{
+				"gid" "BEA21E5844CB1F22157F8FBB51A74A62"
+				"size" "D7B4305EF18F1CD3DA3C5777E78F86E2"
+				"download" "DA06AD5728F888E796CB0001708A4D01"
+			}
+			"nvidia"
+			{
+				"gid" "6EADDCAAEC5DC1A5CEC686F212710585"
+				"size" "504902D8C373C6A40481B08E5805A8B7"
+				"download" "637A45E485AE1970AC829A43D5136AD9"
+			}
+			"playtest"
+			{
+				"gid" "27B80CDB2238BBD214167826059D442D"
+				"size" "8D4E327A10D53B4B29339131F784ABB3"
+				"download" "9816F3BCC5ADB55E89CF8DA21F892351"
+			}
+			"qabranch"
+			{
+				"gid" "788114E85920E3D98975FD372D777BAF"
+				"size" "BDEA6965D5B1F6AD13876D1BD5BE0FA9"
+				"download" "7FAC1CB97C51F5B5AAC45023A5DAD999"
+			}
+			"test1"
+			{
+				"gid" "CCA5395EB6E63A7DE2A7B35D03F9F673"
+				"size" "59380E21C697F8885D09CF305B76707B"
+				"download" "2E883F2A691F5B5422706E01B196C8C7"
+			}
+		}
+	}
+	"1385517"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9086306953208278569"
+				"size" "14"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd-distro"
+			{
+				"gid" "29864A07644E04432416A158323B50C6"
+				"size" "6ABE117F74A1EA192F7B9F9C9817F18E"
+				"download" "27EC4E4A2D3D86C58453B027F228EE9D"
+			}
+			"analytics"
+			{
+				"gid" "2C50AC9ADD21D219D8F25B2A66796B59"
+				"size" "F2A40CC9417EF920EF188408819F6F56"
+				"download" "0D82C5A4B4D06E0C232614CD4B10DEC6"
+			}
+			"desert-lab"
+			{
+				"gid" "6A6F0316A7585E34EF805094E16D8FE8"
+				"size" "DDE54F6939ECDE6A1D7D636F83D27DA2"
+				"download" "EB90DB21182A988F8C17F31FCE799227"
+			}
+			"intel"
+			{
+				"gid" "2D9EB5C74DEE78BE107BA5959160FD64"
+				"size" "0E8A0BB58331C977B373DEC56C4812AE"
+				"download" "16C46E1398A0F6151E70BDD91800B223"
+			}
+			"latest-live"
+			{
+				"gid" "F5267A4B5A16475C24B68A05B36EF875"
+				"size" "BCE70EF44FF17898A2056B7E52976A04"
+				"download" "E09F0FB5C418DA1391CE1DFCB08AD6BE"
+			}
+			"latest-milestone"
+			{
+				"gid" "F7A0325BFC8CFD95BD16453EBA5CEF80"
+				"size" "E1E6E3DEDE02703D600B47297B0E8555"
+				"download" "19C0170F063F1441058FD42FE82DBB08"
+			}
+			"latest-staging"
+			{
+				"gid" "22059BFF95C1E745A417990283DFAE2F"
+				"size" "75A889A91525D2FBD7BD9C1C993A844A"
+				"download" "E70DB6831F1BD5E203858B26BE9572B5"
+			}
+			"nvidia"
+			{
+				"gid" "E6E6CBB67BACABA83D556B86DEEFB750"
+				"size" "ED86B65B999FCC707735053518F15410"
+				"download" "62B77DD25C4EB3BA62247DE87FFAF367"
+			}
+			"playtest"
+			{
+				"gid" "D1FDCB882CB567169319A80A1AC31864"
+				"size" "38DCE1A745249134515A023B4B54F482"
+				"download" "626079C44EF96EF41576F440133E396A"
+			}
+			"qabranch"
+			{
+				"gid" "0ED344D3E0840F63A62FA0DB370C6AED"
+				"size" "BED00416BACB980960A854836778C087"
+				"download" "CD63568E015A024516D0C6C37B85894A"
+			}
+			"test1"
+			{
+				"gid" "6C11D02614B01AA683BA8E0513D898BF"
+				"size" "A6E8C2A0A5DEC2CFC4C3FF61B90F5138"
+				"download" "2C5C2CA21A42C5A6764BFB28B43063D3"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7213200"
+			"timeupdated" "1629338789"
+		}
+		"amd-distro"
+		{
+			"buildid" "7019508"
+			"pwdrequired" "1"
+			"timeupdated" "1627509920"
+		}
+		"analytics"
+		{
+			"buildid" "6893567"
+			"pwdrequired" "1"
+			"timeupdated" "1624038685"
+		}
+		"desert-lab"
+		{
+			"buildid" "7019508"
+			"pwdrequired" "1"
+			"timeupdated" "1627319566"
+		}
+		"intel"
+		{
+			"buildid" "7019508"
+			"pwdrequired" "1"
+			"timeupdated" "1627322883"
+		}
+		"latest-live"
+		{
+			"buildid" "7166315"
+			"pwdrequired" "1"
+			"timeupdated" "1628594248"
+		}
+		"latest-milestone"
+		{
+			"buildid" "7019508"
+			"pwdrequired" "1"
+			"timeupdated" "1626192725"
+		}
+		"latest-staging"
+		{
+			"buildid" "6901466"
+			"pwdrequired" "1"
+			"timeupdated" "1624191874"
+		}
+		"nvidia"
+		{
+			"buildid" "6976614"
+			"pwdrequired" "1"
+			"timeupdated" "1625610254"
+		}
+		"playtest"
+		{
+			"buildid" "6976614"
+			"pwdrequired" "1"
+			"timeupdated" "1625608776"
+		}
+		"qabranch"
+		{
+			"buildid" "6976614"
+			"pwdrequired" "1"
+			"timeupdated" "1625588966"
+		}
+		"test1"
+		{
+			"buildid" "7166315"
+			"pwdrequired" "1"
+			"timeupdated" "1630081310"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Back4BloodBeta/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26375805"
+"_sha" "2a7679031fc3a8e53e21bafec1c6bf64c42ef845"
+"_size" "33693"
