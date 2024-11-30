@@ -78,9 +78,9 @@
 	}
 	"small_capsule"
 	{
-		"schinese" "capsule_231x87_schinese.jpg"
-		"english" "capsule_231x87.jpg"
-		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"english" "b43e122cefea2a22b69903ad87d42e98d4ac44ef/capsule_231x87.jpg"
+		"schinese" "9d26153a55162690721c8b89059a2751bfd51111/capsule_231x87_schinese.jpg"
+		"sc_schinese" "9d26153a55162690721c8b89059a2751bfd51111/capsule_231x87_sc_schinese.jpg"
 	}
 	"header_image"
 	{
@@ -92,12 +92,12 @@
 	{
 		"library_capsule" "en,zh-cn,zh-xc"
 		"library_hero" "en"
-		"library_logo" "en,zh-cn,zh-xc"
+		"library_logo" "zh-xc,zh-cn,en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "38.12664907651712"
-			"height_pct" "64.58333333333334"
+			"width_pct" "63.44753589098619"
+			"height_pct" "58.50401725639199"
 		}
 	}
 	"library_assets_full"
@@ -129,18 +129,24 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "38.12664907651712"
-				"height_pct" "64.58333333333334"
+				"width_pct" "63.44753589098619"
+				"height_pct" "58.50401725639199"
 			}
 			"image"
 			{
-				"english" "logo.png"
-				"schinese" "logo_schinese.png"
 				"sc_schinese" "logo_sc_schinese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1702624179"
+	"store_asset_mtime" "1730445857"
 	"associations"
 	{
 		"0"
@@ -211,7 +217,7 @@
 		"16" "493"
 		"17" "492"
 		"18" "1676"
-		"19" "3859"
+		"19" "597"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -254,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "8682508222535117582"
-				"size" "4529807487"
-				"download" "1549892032"
+				"gid" "4776649641063207219"
+				"size" "4535404801"
+				"download" "1551893488"
 			}
 			"0.4.11"
 			{
@@ -314,9 +320,9 @@
 			}
 			"0.10.x"
 			{
-				"gid" "8682508222535117582"
-				"size" "4529807487"
-				"download" "1549892032"
+				"gid" "4776649641063207219"
+				"size" "4535404801"
+				"download" "1551893488"
 			}
 			"previous-version"
 			{
@@ -347,15 +353,21 @@
 			}
 			"close-test-2024"
 			{
-				"gid" "C858476165A784AD6764BA5E9D490CD1"
-				"size" "5574A5B94432C1DF7EA9C720551534D8"
-				"download" "F95A58C5A004205AF51D42404C3199EA"
+				"gid" "ED5FC11FB14A8CB0791A7CA3800E5DA2"
+				"size" "23E17C0669A1DDAB6A4C0D763D0EE579"
+				"download" "4EFF6EA42786731AA375888A422AF7A9"
+			}
+			"lqa-internal"
+			{
+				"gid" "1F76DFFB431E89730622A3B98978A390"
+				"size" "A1A6BD816B555CFA31BA3CD082C50EAD"
+				"download" "E45FE264ADF7A298F0510F9E04B76748"
 			}
 			"upload-check"
 			{
-				"gid" "3926AE3E859A734DA21C0A396655DAB8"
-				"size" "CAD22D502B6945F91810B33E58B7D6C5"
-				"download" "984A9A41A24702735BD95C4675A522C6"
+				"gid" "5D0FAC259C1CDF63C529C0B36CDA0304"
+				"size" "ABA139008042FEE6CE8D51289DAAF1E8"
+				"download" "DA1C59CF8CA044DB4171B1F923FBDFC1"
 			}
 		}
 	}
@@ -368,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "15530865"
-			"timeupdated" "1724932913"
+			"buildid" "16587578"
+			"timeupdated" "1732969961"
 		}
 		"0.4.11"
 		{
@@ -453,15 +465,21 @@
 		}
 		"0.10.x"
 		{
-			"buildid" "15530865"
+			"buildid" "16587578"
 			"description" "DSP Alpha 0.10 latest"
-			"timeupdated" "1724932925"
+			"timeupdated" "1732969914"
 		}
 		"close-test-2024"
 		{
-			"buildid" "15518755"
+			"buildid" "15530865"
 			"pwdrequired" "1"
-			"timeupdated" "1724851097"
+			"timeupdated" "1732019067"
+		}
+		"lqa-internal"
+		{
+			"buildid" "16489482"
+			"pwdrequired" "1"
+			"timeupdated" "1732208771"
 		}
 		"previous-version"
 		{
@@ -472,9 +490,9 @@
 		}
 		"upload-check"
 		{
-			"buildid" "15530865"
+			"buildid" "16587578"
 			"pwdrequired" "1"
-			"timeupdated" "1724931293"
+			"timeupdated" "1732967701"
 		}
 	}
 }
@@ -501,6 +519,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24993012"
-"_sha" "0b5ec73d2ba994502f28ce760fef408748b57bb7"
-"_size" "10060"
+"_change_number" "26434519"
+"_sha" "fdba63a977ff21efe9b63280e764e8f01c341f50"
+"_size" "10611"
