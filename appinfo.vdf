@@ -1,0 +1,364 @@
+"appid" "2409360"
+"common"
+{
+	"name" "Pixel Cafe"
+	"type" "Game"
+	"icon" "8d1ef53645f48f76c974e4d0221a62505506e132"
+	"clienticon" "7750fb1fdc6878dc9bc0df3b192b279b41b62b8f"
+	"clienttga" "54a43dd706b917937a566510941c77819e5b13a2"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1706659200"
+		"tested_build_id" "13258911"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.49299770172857"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "36.49299770172857"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1699527593"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Baltoro Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Baltoro Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1701331241"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2409360"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "16689"
+		"2" "1742"
+		"3" "3799"
+		"4" "7208"
+		"5" "4845"
+		"6" "1702"
+		"7" "12472"
+		"8" "10235"
+		"9" "1773"
+		"10" "3920"
+		"11" "3871"
+		"12" "1654"
+		"13" "7481"
+		"14" "7250"
+		"15" "5094"
+		"16" "597"
+		"17" "6426"
+		"18" "599"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Baltoro Games"
+	"publisher" "Baltoro Games"
+	"homepage" "https://baltorogames.com/pixelcafe"
+}
+"config"
+{
+	"installdir" "Pixel Cafe"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pixel Cafe.exe"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2409361"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7379679864427959431"
+				"size" "1276984642"
+				"download" "347845024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"console_enabled"
+			{
+				"gid" "EA88B15FB2A2DEB17DDA078D9FBAB8F4"
+				"size" "FA10CA28F5B5E537DF57394860E63EF9"
+				"download" "1EF08A9D9D64DE608DAE1C8797C705D6"
+			}
+			"dev_programmer"
+			{
+				"gid" "CB19271B727EA952164C1702BEB949CE"
+				"size" "D081C5BBE8C3300D779F8D8ED4B1B320"
+				"download" "619C8E18E124293F21B8C6AB2BA455EB"
+			}
+			"logs"
+			{
+				"gid" "020DF48AD07CAE689EA72E3622985670"
+				"size" "8CD4C900B6589A97F287AB879703A125"
+				"download" "F79AB256AC285D47AD8B71623062E573"
+			}
+			"release_candidate"
+			{
+				"gid" "459A87C1845E40A800C5F1375E98E628"
+				"size" "486908C295E914B0814EBA45A03CA7B5"
+				"download" "E590ED0D60B4AD5385C5BB0963BD6EA3"
+			}
+		}
+	}
+	"3247110"
+	{
+		"dlcappid" "3247110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "372463475379630737"
+				"size" "29801392"
+				"download" "29584544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"logs"
+			{
+				"gid" "390E727ADB49D8EA150BA99EEF4DCC71"
+				"size" "B97432C2B80161C69C7F1D4AB601F109"
+				"download" "4A0F27AF61E26DD9919985467F8D22B4"
+			}
+			"release_candidate"
+			{
+				"gid" "5A8422D0AF42956E8D8C5DD797FDB590"
+				"size" "65875CD0E6FD3F0278F34C6E18BE3573"
+				"download" "02CFC9C7CD6A95DBE08ADF3A0F55A4A0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16578917"
+			"timeupdated" "1732890116"
+		}
+		"console_enabled"
+		{
+			"buildid" "13599640"
+			"pwdrequired" "1"
+			"timeupdated" "1709200509"
+		}
+		"dev_programmer"
+		{
+			"buildid" "12759927"
+			"pwdrequired" "1"
+			"timeupdated" "1700568356"
+		}
+		"logs"
+		{
+			"buildid" "16564916"
+			"pwdrequired" "1"
+			"timeupdated" "1732791292"
+		}
+		"release_candidate"
+		{
+			"buildid" "16578917"
+			"pwdrequired" "1"
+			"timeupdated" "1732884457"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Baltoro Games sp_ z o_o_/Pixel Cafe/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26423717"
+"_sha" "979227646699f5912645a4d46210b24398419bb9"
+"_size" "6554"
