@@ -17,6 +17,10 @@
 	"icon" "3d716f2e3b531f3e06b677220f7a017278390271"
 	"clienticon" "2f26896ba90b9bc323aa294c37e86638be389682"
 	"clienttga" "026247eb3edd280f15831b84a2279a5bf5d3d7bf"
+	"name_localized"
+	{
+		"ukrainian" "Легенда про Хімарі / Legend of Himari"
+	}
 	"market_presence" "1"
 	"metacritic_name" "Legend of Himari"
 	"controllertagwizard" "1"
@@ -39,6 +43,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "75.90431738623104"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "75.90431738623104"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1661303401"
@@ -169,25 +207,37 @@
 }
 "depots"
 {
+	"baselanguages" "english"
 	"634341"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5943989581061482146"
-				"size" "54273441"
-				"download" "45618192"
+				"gid" "210272704048734109"
+				"size" "102780750"
+				"download" "89566976"
 			}
 		}
 	}
-	"baselanguages" "english"
+	"634342"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2971784017044453406"
+				"size" "14837230"
+				"download" "10000752"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12964634"
-			"timeupdated" "1702577218"
+			"buildid" "16397583"
+			"timeupdated" "1731532291"
 		}
 	}
 }
@@ -209,17 +259,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statuswithscore" "Level %level% (%slozhno%) Score: %score%"
-				"#gameover" "GAME OVER (%slozhno%) Score: %score%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26182066"
+"_sha" "1e780ae7c50175920623fa91d499bfa76071d98e"
+"_size" "4284"
