@@ -24,6 +24,10 @@
 	}
 	"osarch" ""
 	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -87,6 +91,48 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1666998970"
@@ -755,3 +801,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26201000"
+"_sha" "ab779be0006828d561b3820242ecd42cc7c9403b"
+"_size" "15908"
