@@ -6,7 +6,7 @@
 	"releasestate" "released"
 	"clienticon" "8aed90dd3aaf525d81a12d984500e59e3714f07a"
 	"clienttga" "c137016c1d75475333bb8b03dfe499403aa2f6c6"
-	"icon" "7e4575f7d298b50011621729e1843a94c4391fa4"
+	"icon" "fbd7165d5cd4c1983b0dac50e14f0b0d47fcaa97"
 	"logo" "12de3e039a62e25f0534df1f3b6d23310c0b7a62"
 	"logo_small" "12de3e039a62e25f0534df1f3b6d23310c0b7a62_thumb"
 	"oslist" "windows"
@@ -17,6 +17,7 @@
 		"0" "2"
 		"1" "5"
 	}
+	"controllertagwizard" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -92,10 +93,15 @@
 		}
 		"1"
 		{
+			"type" "developer"
+			"name" "崎托"
+		}
+		"2"
+		{
 			"type" "publisher"
 			"name" "Miwu Studio"
 		}
-		"2"
+		"3"
 		{
 			"type" "publisher"
 			"name" "WindField Games"
@@ -109,6 +115,9 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_44" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -147,7 +156,7 @@
 		"18" "4667"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -167,10 +176,10 @@
 			"executable" "love.exe"
 			"description_loc"
 			{
-				"english" "KRKR端 默认可使用该启动选项"
-				"schinese" "默认请使用该启动选项"
+				"english" "KRKR端 已不再更新 将于日后删除"
+				"schinese" "KRKR端 已不再更新 将于日后删除"
 			}
-			"description" "KRKR端 默认可使用该启动选项"
+			"description" "KRKR端 已不再更新 将于日后删除"
 		}
 		"1"
 		{
@@ -178,7 +187,7 @@
 			"description_loc"
 			{
 				"english" "若KRKR端启动失败，请尝试该启动选项"
-				"schinese" "启动失败时请尝试该启动选项"
+				"schinese" "若KRKR端启动失败，请尝试该启动选项"
 			}
 			"description" "若KRKR端启动失败，请尝试该启动选项"
 		}
@@ -187,10 +196,10 @@
 			"executable" "LoveUnity.exe"
 			"description_loc"
 			{
-				"english" "UnityBeta测试版（文本、演出优化但尚不稳定！）"
-				"schinese" "UnityBeta测试版（尚不稳定！）"
+				"english" "Unity端（公开测试中 推荐使用）"
+				"schinese" "Unity端（公开测试中 推荐使用）"
 			}
-			"description" "UnityBeta测试版（文本、演出优化但尚不稳定！）"
+			"description" "Unity端（公开测试中 推荐使用）"
 		}
 	}
 }
@@ -204,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "8434529805522105837"
-				"size" "1843196932"
-				"download" "1605163664"
+				"gid" "1630431262276918896"
+				"size" "1842375945"
+				"download" "1604353664"
 			}
 		}
 	}
@@ -226,8 +235,8 @@
 	{
 		"public"
 		{
-			"buildid" "16557083"
-			"timeupdated" "1732735990"
+			"buildid" "16588049"
+			"timeupdated" "1732974611"
 		}
 	}
 }
@@ -235,8 +244,6 @@
 {
 	"quota" "100000000"
 	"maxnumfiles" "100"
-	"ignoreexternalfiles" "1"
-	"hidecloudui" "1"
 	"savefiles"
 	{
 		"0"
@@ -245,9 +252,16 @@
 			"path" "savedata"
 			"pattern" "*"
 		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "KiryuBatora\\LoveUnity\\Utage\\Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26399665"
-"_sha" "6fa41e3c60df3833cb9793fa44bf150e8787fcd5"
-"_size" "4502"
+"_change_number" "26434978"
+"_sha" "49870f717a1f841927d412c58fcbf71cc715b7c9"
+"_size" "4741"
