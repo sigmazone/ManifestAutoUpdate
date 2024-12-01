@@ -1,0 +1,503 @@
+"appid" "1812560"
+"common"
+{
+	"name" "SUPER CRAZY RHYTHM CASTLE"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "ae9db8ff9217c173590d5f376c5df6670f51a23b"
+	"clienttga" "caaf7b28d169bb284b12238a1ddc03ad96606385"
+	"icon" "7ae201ca0e7cc95d66522ec9970a2dde02d82e3c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1812560_eula_0"
+			"name" "SUPER CRAZY RHYTHM CASTLE EULA"
+			"url" "https://store.steampowered.com//eula/1812560_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697673600"
+		"tested_build_id" "11922024"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.14924333097035"
+			"height_pct" "55.20833333333332"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "52.14924333097035"
+				"height_pct" "55.20833333333332"
+			}
+		}
+	}
+	"store_asset_mtime" "1699958593"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Second Impact Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KONAMI"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_60" "1"
+		"category_57" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699945376"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1812560"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "21"
+		"2" "1752"
+		"3" "492"
+		"4" "4136"
+		"5" "1685"
+		"6" "4508"
+		"7" "4182"
+		"8" "3843"
+		"9" "3841"
+		"10" "7368"
+		"11" "4840"
+		"12" "3859"
+		"13" "19"
+		"14" "1773"
+		"15" "5350"
+		"16" "1621"
+		"17" "1719"
+		"18" "4305"
+		"19" "4195"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,dev_branch"
+	"developer" "Second Impact Games"
+	"publisher" "KONAMI"
+}
+"config"
+{
+	"installdir" "Titus"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "Super Crazy Rhythm Castle.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "Super Crazy Rhythm Castle"
+			}
+			"description" "Super Crazy Rhythm Castle"
+		}
+		"3"
+		{
+			"executable" "Dev_Branch/Titus.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "dev_branch"
+			}
+			"description_loc"
+			{
+				"english" "Titus Dev"
+			}
+			"description" "Titus Dev"
+		}
+		"4"
+		{
+			"executable" "Beta_Branch/SuperCrazyRhythmCastleBeta.exe"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "beta_branch"
+			}
+			"description_loc"
+			{
+				"english" "Super Crazy Rhythm Castle Beta"
+			}
+			"description" "Super Crazy Rhythm Castle Beta"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1812561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "396561097636415493"
+				"size" "3965237838"
+				"download" "3390506976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_branch"
+			{
+				"gid" "D7E0282D144CC101A3A053BA633C59DD"
+				"size" "433CBC041FE30DE3F1C1C6F8DA7AE9CE"
+				"download" "A310FDD8778EF56C70109713B9D3D536"
+			}
+			"crossplay_beta_branch"
+			{
+				"gid" "FB7A2284F987B62981D302A03A9608E5"
+				"size" "3DC76697B4D8B57E681F32D65331AEF1"
+				"download" "1F576B9411C77BF66D7C3E16D98C3B82"
+			}
+			"crossplay_beta_branch_live"
+			{
+				"gid" "3EDA4E80E4ABF2C0B5AAC4694B40EB70"
+				"size" "35443884863455EC5A360DBDDFED2629"
+				"download" "0A2515564886D74A2B1318DA7AFCDC0B"
+			}
+			"crossplay_beta_branch_stage"
+			{
+				"gid" "CF92046815ED6EA870D9FA62BAAF21EB"
+				"size" "2B79BB0E8B7EB4749B818638C94AB581"
+				"download" "6B95B288D70413221AD53B4E95BB7E9B"
+			}
+			"live_debug"
+			{
+				"gid" "71CA13D9E769A82DFDF2B83199A9F915"
+				"size" "E6D21D2D7E318EE66A874CB0F7F4A051"
+				"download" "FD0BE193B167B9666761A82759F7AE7E"
+			}
+			"live_netlog"
+			{
+				"gid" "0E9E747B6BEB46D3C2B2CBCC18F29363"
+				"size" "0EC5A5F00636DB0CC8CFD919EC5371AC"
+				"download" "BE1601214A6BE1222DEB9C3527008989"
+			}
+			"live_netlogplus"
+			{
+				"gid" "C84C20A2D85812F5F399664340056B99"
+				"size" "1E69D46E63CACCAEA6CBB0ADA4BF1AB3"
+				"download" "85E52A3F7B1262E53039D11F70F2AC2B"
+			}
+			"pre_patch_test"
+			{
+				"gid" "58B6D0C6F021E6FB277B1FD8FB4AEC42"
+				"size" "1CCC08C9CAE5CB2754E32A5DB85A4F5E"
+				"download" "4E6929029E7B50E97C3B5B1FC6AC19DE"
+			}
+		}
+	}
+	"1812562"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev_branch"
+			{
+				"gid" "B7C310E3CEF44B0F781DC1EBF698E5A5"
+				"size" "A242C4D736EEC0C24BEBAF3E88A24C66"
+				"download" "6B1565304E934BC321DFFF3338306AE3"
+			}
+		}
+	}
+	"1812563"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15470160"
+			"timeupdated" "1724406239"
+		}
+		"dev_branch"
+		{
+			"buildid" "11922009"
+			"pwdrequired" "1"
+			"timeupdated" "1691763611"
+		}
+		"crossplay_beta_branch"
+		{
+			"buildid" "14847246"
+			"pwdrequired" "1"
+			"timeupdated" "1719418526"
+		}
+		"crossplay_beta_branch_live"
+		{
+			"buildid" "15470160"
+			"pwdrequired" "1"
+			"timeupdated" "1724405047"
+		}
+		"crossplay_beta_branch_stage"
+		{
+			"buildid" "14794080"
+			"pwdrequired" "1"
+			"timeupdated" "1718974040"
+		}
+		"live_debug"
+		{
+			"buildid" "15578711"
+			"pwdrequired" "1"
+			"timeupdated" "1725372378"
+		}
+		"live_netlog"
+		{
+			"buildid" "15613979"
+			"pwdrequired" "1"
+			"timeupdated" "1726234803"
+		}
+		"live_netlogplus"
+		{
+			"buildid" "15714121"
+			"pwdrequired" "1"
+			"timeupdated" "1726485236"
+		}
+		"pre_patch_test"
+		{
+			"buildid" "11922024"
+			"pwdrequired" "1"
+			"timeupdated" "1724055312"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Second Impact Games/Rhythm Castle/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25964536"
+"_sha" "2bb1cf41d4d1e6092909c5a8837593636a9ea6d5"
+"_size" "9349"
