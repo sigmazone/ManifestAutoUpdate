@@ -1,0 +1,502 @@
+"appid" "57650"
+"common"
+{
+	"name" "Dungeons"
+	"logo" "cd1c16c9d9a5189a821d910fe0fe8c07bb1149a5"
+	"logo_small" "cd1c16c9d9a5189a821d910fe0fe8c07bb1149a5_thumb"
+	"clienticon" "ee8f8ccded3cae8fedccd741665d3f3052fbd112"
+	"clienttga" "273e27d69c41aba9b6ebe29588074bfe0de96d22"
+	"icon" "8d8359ad6e92e5aa09982fb7d301a5c5ff2b4c26"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1719014400"
+		"tested_build_id" "929833"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Dungeons"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.44827586206896"
+			"height_pct" "96.24501290776813"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.44827586206896"
+				"height_pct" "96.24501290776813"
+			}
+		}
+	}
+	"store_asset_mtime" "1569422730"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Realmforge Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dungeons"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1297360800"
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dungeons\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "57650"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "1684"
+		"3" "11333"
+		"4" "599"
+		"5" "12472"
+		"6" "7332"
+	}
+	"review_score" "5"
+	"review_percentage" "45"
+}
+"extended"
+{
+	"developer" "Realmforge Studios"
+	"gamedir" "Dungeons"
+	"homepage" ""
+	"icon" ""
+	"installscript" "57650_install.vdf"
+	"legacykeyregistrationmethod" "registry"
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Valve\\TestApp57650\\SteamKey"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "57651"
+	"serverbrowsername" ""
+	"showcdkeyonlaunch" "1"
+	"state" "eStateAvailable"
+	"supportscdkeycopytoclipboard" "1"
+	"publisher" "Kalypso Media Digital"
+	"gamemanualurl" "https://store.steampowered.com/manual/57650/"
+	"listofdlc" "57655,57656"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dungeons"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DungeonsStarter.exe"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"57655"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7015490502883076274"
+				"size" "25641227"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "D2237AAB844CFA2BA0BF379B5E42743A"
+				"size" "4B5D049F44D5ED317AFFECA6E25A4831"
+				"download" "A667B8307238EC265F4C623AA70467C4"
+			}
+			"jp"
+			{
+				"gid" "35CA7CDB275032D295BC9847CA6D86EE"
+				"size" "4C272CDCE58FAFBFE4FDA9155D848BC2"
+				"download" "E6EFB58BD8AE2AEC0509FBA4E5EFFA53"
+			}
+		}
+		"dlcappid" "57655"
+	}
+	"57651"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4059426188549879838"
+				"size" "1859817735"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "493A81867A407F3BCB1DD6797DF5BAB3"
+				"size" "EF97F63527BCBA9337C5C8C38BE15DAA"
+				"download" "A667B8307238EC265F4C623AA70467C4"
+			}
+			"jp"
+			{
+				"gid" "459BF21A812267869151A13675329C09"
+				"size" "612316A3329FCF818A8D837A59EDD38C"
+				"download" "E6EFB58BD8AE2AEC0509FBA4E5EFFA53"
+			}
+		}
+	}
+	"57656"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3934741005365543134"
+				"size" "15378069"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "0793CC3D9364D0629B8FFCB8702C0A1C"
+				"size" "A30FE4CDAA5C45F752FC6FA7706B54F9"
+				"download" "A667B8307238EC265F4C623AA70467C4"
+			}
+			"jp"
+			{
+				"gid" "6A45B023D4535FB2C17BFBEF5933951E"
+				"size" "4A9EEDDCB420FD43E79E6103076D86B9"
+				"download" "E6EFB58BD8AE2AEC0509FBA4E5EFFA53"
+			}
+		}
+		"dlcappid" "57656"
+	}
+	"57652"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3265196002314911090"
+				"size" "128367193"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "5245D79AD2B9E4CCEA58B801FF57B4BA"
+				"size" "29D24D492A96CA7726D3219206A11BEA"
+				"download" "A667B8307238EC265F4C623AA70467C4"
+			}
+			"jp"
+			{
+				"gid" "CBF87B15B16F08A8D61623B78ADAD446"
+				"size" "D27BA0F258C9F153136C48EED53FE362"
+				"download" "E6EFB58BD8AE2AEC0509FBA4E5EFFA53"
+			}
+		}
+	}
+	"57653"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3317282495221298217"
+				"size" "132370952"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "8294ED8F195A8D3219E6ECD4A3D94FC4"
+				"size" "F690EEA7E08121FD1EAEDEC66996946D"
+				"download" "A667B8307238EC265F4C623AA70467C4"
+			}
+			"jp"
+			{
+				"gid" "B4A8A4DB32B22BE77B7486AF6598694D"
+				"size" "9D53079C27BD7C5456CA3ACB6EA0A8C8"
+				"download" "E6EFB58BD8AE2AEC0509FBA4E5EFFA53"
+			}
+		}
+	}
+	"57654"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5502849382028507281"
+				"size" "136942938"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "79FD95F845BEBCBD0CC5D73EBA3E2605"
+				"size" "C4CD7611684FA13B8CE8D7A4B81BA6A0"
+				"download" "A667B8307238EC265F4C623AA70467C4"
+			}
+			"jp"
+			{
+				"gid" "C1711FBDEB655734D3B997B9F7F692AC"
+				"size" "97D1BCC69D0858EF1952141720AC229A"
+				"download" "E6EFB58BD8AE2AEC0509FBA4E5EFFA53"
+			}
+		}
+	}
+	"57657"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "762007235772828903"
+				"size" "135265671"
+				"download" "123343216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "47E8A61F385BBAB7CE58760B8BE4CEDC"
+				"size" "B809CA57FDA661BCBD63267FAC9F80E2"
+				"download" "4AD91C6176279910558A0A06E8CF0326"
+			}
+			"jp"
+			{
+				"gid" "5DB5F60AF5B2A2D339BF6842907C1A3D"
+				"size" "270CFC141F6448EBCB8E74D6285ACE5B"
+				"download" "13AEA723F9B49EE5D272D088D6BC1D05"
+			}
+		}
+	}
+	"57658"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3516578705956374602"
+				"size" "128382661"
+				"download" "118647552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "46D83AD5A058884D6737E6FB62E2EDDA"
+				"size" "790640958CC64A8742BFD733853DE12E"
+				"download" "6B2D2596B9D6909571EA2D6BC9081E25"
+			}
+			"jp"
+			{
+				"gid" "556BA3088FBDE0D9FB48FDC1C705A5AE"
+				"size" "2E8F91F92BA8604945846D367125F69E"
+				"download" "68C4003D8A5D5E750D534A8957BD808B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "929833"
+		}
+		"baseline"
+		{
+			"buildid" "929833"
+			"pwdrequired" "1"
+		}
+		"jp"
+		{
+			"buildid" "929833"
+			"pwdrequired" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "e06181b3b67b738285bc8cac0d03d12f91d46e1a"
+"_size" "9132"
