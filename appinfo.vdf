@@ -1,0 +1,99 @@
+"appid" "2904710"
+"common"
+{
+	"name" "Contagion Mod Tools"
+	"type" "Tool"
+	"parent" "238430"
+	"clienticon" "00326093e2661b0707ffa191a47db7db261da439"
+	"clienttga" "4d32ef2ac080fbfbd1de08529298ffd26d3e3130"
+	"icon" "b6f57d745d8211e33659188443bfa5cc6208e093"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"gameid" "2904710"
+}
+"config"
+{
+	"installdir" "Contagion Mod Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "contagionsdk.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2904711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1448836745886072222"
+				"size" "2869347976"
+				"download" "278002672"
+			}
+			"wwise_proj"
+			{
+				"gid" "3512685032772230114"
+				"size" "10976438178"
+				"download" "4547164048"
+			}
+			"upcoming"
+			{
+				"gid" "1448836745886072222"
+				"size" "2869347976"
+				"download" "278002672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"quality_assurance"
+			{
+				"gid" "1DED53FE7DA953AEE767864A19C47784"
+				"size" "63A594B3A09E2F7BAB5E3634FC61DC7A"
+				"download" "6E7006EA22D50056C487233754CDBF46"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16459988"
+			"timeupdated" "1732028537"
+		}
+		"wwise_proj"
+		{
+			"buildid" "13837121"
+			"description" "Wwise Project"
+			"timeupdated" "1711300813"
+		}
+		"quality_assurance"
+		{
+			"buildid" "16484635"
+			"pwdrequired" "1"
+			"timeupdated" "1732184958"
+		}
+		"upcoming"
+		{
+			"buildid" "16459988"
+			"description" "Upcoming build"
+			"timeupdated" "1732028375"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26295877"
+"_sha" "42fbd8cdd970bbc5da012057716b2a6330ef35ad"
+"_size" "1723"
