@@ -9,8 +9,8 @@
 	"logo" "c082200d0778eabce3a74d80b516b505006989c7"
 	"logo_small" "c082200d0778eabce3a74d80b516b505006989c7_thumb"
 	"icon" "ad33c84f76613fa4e35fc3db71de6e20901af8be"
-	"clienttga" "ef5f2f076b64f30153dbc24e26e1ebf6d5f5c6ba"
-	"clienticon" "f77f0656be65d48d7d38e18f91e3cc0809299865"
+	"clienttga" "3fc9aa0f4edc7f551b7b7e3512dd9df37893e5ee"
+	"clienticon" "26871b89a61c133b7e406e2768d1091a0681f63e"
 	"releasestate" "released"
 	"controllervr"
 	{
@@ -138,7 +138,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723873224"
+	"store_asset_mtime" "1729070091"
 	"associations"
 	{
 		"0"
@@ -199,6 +199,7 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"french"
 		{
@@ -227,22 +228,22 @@
 	"gameid" "1000360"
 	"store_tags"
 	{
-		"0" "1743"
-		"1" "19"
-		"2" "4608"
-		"3" "3968"
-		"4" "3987"
-		"5" "6506"
-		"6" "6915"
-		"7" "4172"
-		"8" "4175"
-		"9" "1773"
-		"10" "1775"
-		"11" "4747"
-		"12" "21978"
-		"13" "6730"
-		"14" "1697"
-		"15" "4345"
+		"0" "6915"
+		"1" "6730"
+		"2" "4191"
+		"3" "1775"
+		"4" "6506"
+		"5" "1697"
+		"6" "1773"
+		"7" "21978"
+		"8" "3987"
+		"9" "4608"
+		"10" "19"
+		"11" "4175"
+		"12" "4172"
+		"13" "1669"
+		"14" "3968"
+		"15" "4145"
 		"16" "3993"
 		"17" "7368"
 		"18" "4182"
@@ -338,9 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "4136333494913361815"
-				"size" "13656689824"
-				"download" "7027029872"
+				"gid" "1932117228661118795"
+				"size" "14051878208"
+				"download" "7180862512"
 			}
 			"oldversion"
 			{
@@ -372,11 +373,17 @@
 				"size" "12921284614"
 				"download" "5942912592"
 			}
-			"test"
+			"oldversion6"
 			{
 				"gid" "4136333494913361815"
 				"size" "13656689824"
 				"download" "7027029872"
+			}
+			"test"
+			{
+				"gid" "1932117228661118795"
+				"size" "14051878208"
+				"download" "7180862512"
 			}
 		}
 		"encryptedmanifests"
@@ -393,8 +400,8 @@
 	{
 		"public"
 		{
-			"buildid" "15927717"
-			"timeupdated" "1728132222"
+			"buildid" "16588714"
+			"timeupdated" "1732987037"
 		}
 		"oldversion"
 		{
@@ -426,6 +433,12 @@
 			"description" "From Apr 2024"
 			"timeupdated" "1718179573"
 		}
+		"oldversion6"
+		{
+			"buildid" "15927717"
+			"description" "From Nov 2024"
+			"timeupdated" "1732986994"
+		}
 		"storytest"
 		{
 			"buildid" "14649002"
@@ -434,9 +447,9 @@
 		}
 		"test"
 		{
-			"buildid" "15927717"
+			"buildid" "16588714"
 			"description" "Beta"
-			"timeupdated" "1728033443"
+			"timeupdated" "1732986690"
 		}
 	}
 }
@@ -459,6 +472,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25547491"
-"_sha" "a280a4f68db8af8479c96618f2ba256e4d1015c3"
-"_size" "8317"
+"_change_number" "26436196"
+"_sha" "5aad7a03c2c3be01820896ae16b274959290a7eb"
+"_size" "8583"
