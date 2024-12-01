@@ -271,7 +271,7 @@
 		"19" "7948"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -324,11 +324,23 @@
 		{
 			"public"
 			{
+				"gid" "6758771108791679066"
+				"size" "1112154189"
+				"download" "106326464"
+			}
+			"beta"
+			{
+				"gid" "6758771108791679066"
+				"size" "1112154189"
+				"download" "106326464"
+			}
+			"control"
+			{
 				"gid" "1542398290784710785"
 				"size" "1115244697"
 				"download" "106379760"
 			}
-			"beta"
+			"optimization"
 			{
 				"gid" "1542398290784710785"
 				"size" "1115244697"
@@ -337,17 +349,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"gamersky"
+			{
+				"gid" "80CAFFE226E280ED5DF5849C34750EF5"
+				"size" "97F044104FB63C77DCA422DF05F828BF"
+				"download" "09C7682CCCA31B35E20A69832CD30EC9"
+			}
 			"influencer"
 			{
 				"gid" "CDE89C6A62E5D013BAB8868CD27C5445"
 				"size" "E78AC0546371AC5E9710DACE648E0BA3"
 				"download" "7E087A278340193C8BEF44D471368417"
-			}
-			"gamersky"
-			{
-				"gid" "EAEA789EE05265157EF54249DC25E319"
-				"size" "3A881F3BF194264D9102841D07196412"
-				"download" "EF33FC325C55738C665C3CD617A86DB0"
 			}
 			"leaderboard_test"
 			{
@@ -367,11 +379,23 @@
 		{
 			"public"
 			{
-				"gid" "6832264413545241619"
-				"size" "836711141"
-				"download" "84825632"
+				"gid" "3812627233491454509"
+				"size" "1143222793"
+				"download" "113867488"
 			}
 			"beta"
+			{
+				"gid" "3812627233491454509"
+				"size" "1143222793"
+				"download" "113867488"
+			}
+			"control"
+			{
+				"gid" "7424191896141777669"
+				"size" "1143231938"
+				"download" "113895344"
+			}
+			"optimization"
 			{
 				"gid" "2523344156929603675"
 				"size" "1143204489"
@@ -380,17 +404,17 @@
 		}
 		"encryptedmanifests"
 		{
-			"influencer"
-			{
-				"gid" "3CCB5561992E7BD67B743CB84E3EDEA9"
-				"size" "6F581EC5567B5CD3EA06CB5BE5E7C71C"
-				"download" "95F2140726F67C17683A6F69D0A5CEEF"
-			}
 			"gamersky"
 			{
 				"gid" "682A5B55491A305FF2CD9340AB200B97"
 				"size" "2640F00502E6354A0BD22719AC392093"
 				"download" "FCD79BF6DF1913A7036905AE8F5D3D3F"
+			}
+			"influencer"
+			{
+				"gid" "3CCB5561992E7BD67B743CB84E3EDEA9"
+				"size" "6F581EC5567B5CD3EA06CB5BE5E7C71C"
+				"download" "95F2140726F67C17683A6F69D0A5CEEF"
 			}
 			"leaderboard_test"
 			{
@@ -410,30 +434,42 @@
 		{
 			"public"
 			{
-				"gid" "4964420441435504558"
-				"size" "1157904763"
-				"download" "106471840"
+				"gid" "8518264043986387262"
+				"size" "1155322820"
+				"download" "106465616"
 			}
 			"beta"
 			{
-				"gid" "4964420441435504558"
-				"size" "1157904763"
-				"download" "106471840"
+				"gid" "8518264043986387262"
+				"size" "1155322820"
+				"download" "106465616"
+			}
+			"control"
+			{
+				"gid" "4412920869227280824"
+				"size" "14720"
+				"download" "1696"
+			}
+			"optimization"
+			{
+				"gid" "4412920869227280824"
+				"size" "14720"
+				"download" "1696"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"influencer"
-			{
-				"gid" "1E0948E7D0C33E0070600665F8EB1FC0"
-				"size" "40B772EA021F8B83A10F0CC4ED73A6BA"
-				"download" "223377F8C5E08F0F9C979FB89F76089A"
-			}
 			"gamersky"
 			{
 				"gid" "B35543BC970057A550DADBCA67143C9F"
 				"size" "86685CB8212AAE6BA3638D5FC314E2F8"
 				"download" "BC826F83AD2CEB8B1FCF042414F693C5"
+			}
+			"influencer"
+			{
+				"gid" "1E0948E7D0C33E0070600665F8EB1FC0"
+				"size" "40B772EA021F8B83A10F0CC4ED73A6BA"
+				"download" "223377F8C5E08F0F9C979FB89F76089A"
 			}
 			"leaderboard_test"
 			{
@@ -447,8 +483,26 @@
 	{
 		"public"
 		{
-			"buildid" "15635122"
-			"timeupdated" "1725864190"
+			"buildid" "16568810"
+			"timeupdated" "1732969143"
+		}
+		"beta"
+		{
+			"buildid" "16568810"
+			"description" "for testing new stuff"
+			"timeupdated" "1732810394"
+		}
+		"control"
+		{
+			"buildid" "16266655"
+			"description" "control for optimization"
+			"timeupdated" "1730477309"
+		}
+		"gamersky"
+		{
+			"buildid" "16291853"
+			"pwdrequired" "1"
+			"timeupdated" "1730750244"
 		}
 		"influencer"
 		{
@@ -456,23 +510,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1713904227"
 		}
-		"beta"
-		{
-			"buildid" "15592080"
-			"description" "for testing new stuff"
-			"timeupdated" "1725463407"
-		}
-		"gamersky"
-		{
-			"buildid" "14850927"
-			"pwdrequired" "1"
-			"timeupdated" "1719439963"
-		}
 		"leaderboard_test"
 		{
 			"buildid" "15448262"
 			"pwdrequired" "1"
 			"timeupdated" "1724247771"
+		}
+		"optimization"
+		{
+			"buildid" "16206319"
+			"description" "trying optimization"
+			"timeupdated" "1730121922"
 		}
 	}
 }
@@ -539,3 +587,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26436160"
+"_sha" "7a5310eb21eb630d24b6320335e497ce6b7adf62"
+"_size" "11786"
