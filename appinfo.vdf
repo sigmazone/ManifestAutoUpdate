@@ -16,6 +16,14 @@
 	"osarch" ""
 	"osextended" ""
 	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -160,6 +168,11 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "News"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "072 Project"
 		}
@@ -201,7 +214,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1724400030"
+	"steam_release_date" "1724400000"
 	"community_hub_visible" "1"
 	"gameid" "2420240"
 	"store_tags"
@@ -209,13 +222,13 @@
 		"0" "12095"
 		"1" "9130"
 		"2" "87918"
-		"3" "4328"
-		"4" "4726"
+		"3" "4726"
+		"4" "4328"
 		"5" "7332"
-		"6" "9204"
-		"7" "122"
-		"8" "3799"
-		"9" "4136"
+		"6" "122"
+		"7" "9204"
+		"8" "4136"
+		"9" "3799"
 		"10" "1643"
 		"11" "1654"
 		"12" "597"
@@ -228,13 +241,13 @@
 		"19" "6650"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "70"
 }
 "extended"
 {
 	"developer" "GNT BOKUJO"
 	"publisher" "072 Project"
-	"homepage" "https://072project.com/"
+	"homepage" "https://072project.com/\?source=steam_haremranch&amp;utm_source=steam&amp;utm_medium=haremranch&amp;utm_campaign=store_link"
 }
 "config"
 {
@@ -350,3 +363,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26437423"
+"_sha" "a8e0cb653866ae37824a86ed5b9a1080abf5597f"
+"_size" "6618"
