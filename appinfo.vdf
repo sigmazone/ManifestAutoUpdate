@@ -1,0 +1,507 @@
+"appid" "1048530"
+"common"
+{
+	"name" "Rise of Humanity"
+	"type" "Game"
+	"logo" "ab85b0b86d64f7d0c0227c599edf881201fe479d"
+	"logo_small" "ab85b0b86d64f7d0c0227c599edf881201fe479d_thumb"
+	"icon" "f526a641e2ccd4abb607331de4479b47501af38c"
+	"clienticon" "447da6ae93daf001878cf59ecafd2d83ca87e8d8"
+	"clienttga" "53965745a082a994e0c50685640c4852573442f2"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"dutch" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "8766184"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"portuguese" "capsule_231x87_portuguese.jpg"
+		"dutch" "capsule_231x87_dutch.jpg"
+		"hungarian" "capsule_231x87_hungarian.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "60.47580860732427"
+			"height_pct" "61.34075655165159"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "60.47580860732427"
+				"height_pct" "61.34075655165159"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1652939658"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cybernetic Walrus"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cybernetic Walrus"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634834726"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1048530"
+	"store_tags"
+	{
+		"0" "4295"
+		"1" "4175"
+		"2" "1677"
+		"3" "32322"
+		"4" "1666"
+		"5" "4791"
+		"6" "791774"
+		"7" "14139"
+		"8" "1741"
+		"9" "5030"
+		"10" "3835"
+		"11" "17389"
+		"12" "1770"
+		"13" "9"
+		"14" "1708"
+		"15" "4325"
+		"16" "5752"
+		"17" "4166"
+		"18" "4182"
+		"19" "4191"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Cybernetic Walrus"
+	"publisher" "Cybernetic Walrus"
+	"homepage" "http://www.riseofhumanitygame.com/"
+}
+"config"
+{
+	"installdir" "RiseOfHumanity"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Default/RiseOfHumanity.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play the desktop version of Rise of Humanity"
+			}
+			"description" "Play the desktop version of Rise of Humanity"
+		}
+		"2"
+		{
+			"executable" "Tilt5/RiseOfHumanity.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play the Tilt Five™ version of Rise of Humanity"
+			}
+			"description" "Play the Tilt Five™ version of Rise of Humanity"
+		}
+	}
+}
+"depots"
+{
+	"1048531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2241436271105265867"
+				"size" "21299047866"
+				"download" "4007763008"
+			}
+			"experimental"
+			{
+				"gid" "2070380662972262107"
+				"size" "10825732498"
+				"download" "3920089856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "319412381EB6B7140C4ACF9ECDD5325D"
+				"size" "C6AEC7159FFB26AEA3757FA26EF73CEE"
+				"download" "C6AEC7159FFB26AEA3757FA26EF73CEE"
+			}
+			"pre_release"
+			{
+				"gid" "3569A0E22B93D92D5F63809BFAD379D3"
+				"size" "97761B54F71C5C60DF34FF52E2DA0465"
+				"download" "88B7A5B5FCD85DE39CA4F0C499934069"
+			}
+			"private_experimental"
+			{
+				"gid" "CD582E21A4E6E5A69ADEEE997E9D8759"
+				"size" "AD7BD71C4099CC27B3D4E67F08B96374"
+				"download" "7347918612DB7242E03E1AED6EBDA796"
+			}
+			"tilt5"
+			{
+				"gid" "6B1831A7D99B0ABB4EB976EE59F36672"
+				"size" "F48A4074A51FF20859BB1E26F0720BC7"
+				"download" "299AC656548CAEBE94C79B2803C092AD"
+			}
+			"update1"
+			{
+				"gid" "086EC0EC62508D3BF6FE2A5FF6E9215A"
+				"size" "29BF6AC7094AAFDE158AF5740F420DAC"
+				"download" "70F5A1165EC802870CD62738E1E39DC8"
+			}
+			"update2"
+			{
+				"gid" "003162B3528B6E1AD9027AE18B0E5801"
+				"size" "7BE4CBC6501296A8542C99CD5B49DF39"
+				"download" "A074A2DE6A8CF20C057BE01C537FE1AC"
+			}
+		}
+	}
+	"1048532"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7844317247207975918"
+				"size" "10736156352"
+				"download" "3864344848"
+			}
+			"experimental"
+			{
+				"gid" "1635935627671391921"
+				"size" "11505479014"
+				"download" "4006482944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "A317C58994EF351CAFD94F20EA0DC093"
+				"size" "186D9CCBC9221EF4707535CDBA669A6B"
+				"download" "05B6EE2F9D71CACAC12AC4390915DCC1"
+			}
+			"pre_release"
+			{
+				"gid" "2E4B50482F8630D71E7B48BE08288CF7"
+				"size" "1D629B5C60D2EEC3FBFDF2E9BF654402"
+				"download" "99BCF09B205FA1F99FB4C67C6A485BD0"
+			}
+			"private_experimental"
+			{
+				"gid" "752531ED752258255AD3E03CDFA8E9B5"
+				"size" "C0F783C67B19972121A926A48FCE742F"
+				"download" "CB602D37EF9FF5C5A55045568A0EA285"
+			}
+			"tilt5"
+			{
+				"gid" "0F6B7CDFA2354DA4F0AB28731BC9A8E5"
+				"size" "B54618F172EB72DDE2D2B30DE6B8394A"
+				"download" "783DDAE96311CA7FFBF4EC89FE02D0B0"
+			}
+			"update1"
+			{
+				"gid" "6F53A157EAE8F65C910960F94773095B"
+				"size" "528CE2F94DA8AABBA161C977FA97274A"
+				"download" "E27FB258343A0152003F141CC638BA24"
+			}
+			"update2"
+			{
+				"gid" "50216EA07158BCDF26B16C6F44C2B9E1"
+				"size" "B59510771257E344FF2AC6EE8E71C8D2"
+				"download" "A58C205D08276406ABE9D2E1B9745816"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8766184"
+			"timeupdated" "1652973675"
+		}
+		"development"
+		{
+			"buildid" "7910702"
+			"pwdrequired" "1"
+			"timeupdated" "1639949955"
+		}
+		"experimental"
+		{
+			"buildid" "6934616"
+			"description" "Preview branch for new features and balance changes, may be unstable"
+			"timeupdated" "1624640711"
+		}
+		"pre_release"
+		{
+			"buildid" "8523359"
+			"pwdrequired" "1"
+			"timeupdated" "1649426689"
+		}
+		"private_experimental"
+		{
+			"buildid" "8106916"
+			"pwdrequired" "1"
+			"timeupdated" "1643394086"
+		}
+		"tilt5"
+		{
+			"buildid" "8766184"
+			"pwdrequired" "1"
+			"timeupdated" "1652914562"
+		}
+		"update1"
+		{
+			"buildid" "7920205"
+			"pwdrequired" "1"
+			"timeupdated" "1640083762"
+		}
+		"update2"
+		{
+			"buildid" "8375262"
+			"pwdrequired" "1"
+			"timeupdated" "1647350578"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "400"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cybernetic Walrus/RiseOfHumanity/Save_Data"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cybernetic Walrus/RiseOfHumanity"
+			"pattern" "*.cfg"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25591014"
+"_sha" "d80bc1f05c1ac8bf9274eac2a765899c7bbdb74c"
+"_size" "10097"
