@@ -26,6 +26,50 @@
 		"english" "Sunny Cafe"
 		"koreana" "써니 카페 Sunny Cafe"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729728000"
+		"tested_build_id" "13983473"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -177,9 +221,9 @@
 		"4" "6815"
 		"5" "4947"
 		"6" "492"
-		"7" "1732"
-		"8" "1742"
-		"9" "4182"
+		"7" "1742"
+		"8" "4182"
+		"9" "1732"
 		"10" "3799"
 	}
 	"review_score" "8"
@@ -343,3 +387,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25980661"
+"_sha" "fee098e7cfbc36ee326e8c46715c9d17d00d43ff"
+"_size" "7204"
