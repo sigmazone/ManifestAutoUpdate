@@ -324,6 +324,27 @@
 			}
 		}
 	}
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "preview-v2024.10"
+		}
+		"1"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "preview-v2024.11"
+		}
+		"2"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "preview-v2024.12"
+		}
+	}
 }
 "depots"
 {
@@ -376,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "6901245447502135442"
-				"size" "191495520"
-				"download" "73656208"
+				"gid" "2072888541310769510"
+				"size" "191586205"
+				"download" "73692144"
 			}
 			"1.3-legacy"
 			{
@@ -394,9 +415,15 @@
 			}
 			"preview-v2024.10"
 			{
-				"gid" "5940100436268998418"
-				"size" "191576398"
-				"download" "73688944"
+				"gid" "808868997512998728"
+				"size" "191586234"
+				"download" "73692080"
+			}
+			"preview-v2024.11"
+			{
+				"gid" "5071061214011323100"
+				"size" "191608320"
+				"download" "73710176"
 			}
 			"1.4.3-legacy"
 			{
@@ -415,9 +442,9 @@
 		{
 			"internal-stable"
 			{
-				"gid" "3CC751434D7C78F3FEA59D1B96EFCF7A"
-				"size" "9DDB41B2ACBB8B55A0BB513DDDE9A695"
-				"download" "926660A4FE2FF4E2CB05F61FD3FB7330"
+				"gid" "5419D34698D59088BE67FCBC6989AA97"
+				"size" "DCEBFA11780E841C1B3FD0046AEAD335"
+				"download" "C394CD9BA473E9CF6DFC9479C0037CC1"
 			}
 		}
 	}
@@ -432,9 +459,9 @@
 		{
 			"public"
 			{
-				"gid" "7516799259062769039"
-				"size" "158317802"
-				"download" "40834912"
+				"gid" "8981125080363189853"
+				"size" "158408487"
+				"download" "40870848"
 			}
 			"1.3-legacy"
 			{
@@ -450,9 +477,15 @@
 			}
 			"preview-v2024.10"
 			{
-				"gid" "524421590617679763"
-				"size" "158398680"
-				"download" "40867648"
+				"gid" "8923254236565403327"
+				"size" "158408516"
+				"download" "40870784"
+			}
+			"preview-v2024.11"
+			{
+				"gid" "4682434036063625533"
+				"size" "158430602"
+				"download" "40888880"
 			}
 			"1.4.3-legacy"
 			{
@@ -471,9 +504,9 @@
 		{
 			"internal-stable"
 			{
-				"gid" "64D8E259137DDBCCFB22C2E707D3F981"
-				"size" "1E4B86C04172222DF4B79CDE9DD0492D"
-				"download" "2C953E1C068EBDF48D2C8B0BEEBD3189"
+				"gid" "A49389C9E8A45DDDCCDD38567BDDCA3D"
+				"size" "FB897B86437021FEA655302411429C1A"
+				"download" "7089BCFA4DD163C7D3E795B746A775E0"
 			}
 		}
 	}
@@ -488,9 +521,9 @@
 		{
 			"public"
 			{
-				"gid" "4054322322552939928"
-				"size" "158317802"
-				"download" "40834912"
+				"gid" "1438025464802532806"
+				"size" "158408487"
+				"download" "40870848"
 			}
 			"1.3-legacy"
 			{
@@ -506,9 +539,15 @@
 			}
 			"preview-v2024.10"
 			{
-				"gid" "7448594102762345079"
-				"size" "158398680"
-				"download" "40867648"
+				"gid" "2964618911147885016"
+				"size" "158408516"
+				"download" "40870784"
+			}
+			"preview-v2024.11"
+			{
+				"gid" "285629850443460491"
+				"size" "158430602"
+				"download" "40888880"
 			}
 			"1.4.3-legacy"
 			{
@@ -527,9 +566,9 @@
 		{
 			"internal-stable"
 			{
-				"gid" "F7673B454822B3DB04E7950ABF6BA23A"
-				"size" "1E4B86C04172222DF4B79CDE9DD0492D"
-				"download" "2C953E1C068EBDF48D2C8B0BEEBD3189"
+				"gid" "F5184CDDFDD431439519D296353EA566"
+				"size" "FB897B86437021FEA655302411429C1A"
+				"download" "7089BCFA4DD163C7D3E795B746A775E0"
 			}
 		}
 	}
@@ -565,6 +604,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"preview-v2024.11"
+			{
+				"gid" "1779141483676093144"
+				"size" "0"
+				"download" "0"
+			}
 			"1.4.3-legacy"
 			{
 				"gid" "1779141483676093144"
@@ -593,8 +638,8 @@
 	{
 		"public"
 		{
-			"buildid" "16259533"
-			"timeupdated" "1730502282"
+			"buildid" "16590335"
+			"timeupdated" "1733020771"
 		}
 		"1.3-legacy"
 		{
@@ -610,9 +655,15 @@
 		}
 		"preview-v2024.10"
 		{
-			"buildid" "16259394"
+			"buildid" "16397955"
 			"description" "The \'NONE\' option is 1.4.4. Read the Migration Guide on our wiki to port your mod. Test pre-release API changes and provide feedback on Discord"
-			"timeupdated" "1730425298"
+			"timeupdated" "1731534761"
+		}
+		"preview-v2024.11"
+		{
+			"buildid" "16590339"
+			"description" "The \'NONE\' option is 1.4.4. Read the Migration Guide on our wiki to port your mod. Test pre-release API changes and provide feedback on Discord"
+			"timeupdated" "1733011915"
 		}
 		"1.4.3-legacy"
 		{
@@ -622,9 +673,9 @@
 		}
 		"internal-stable"
 		{
-			"buildid" "16259533"
+			"buildid" "16590335"
 			"pwdrequired" "1"
-			"timeupdated" "1730426385"
+			"timeupdated" "1733011873"
 		}
 		"preview-v2024.08"
 		{
@@ -641,6 +692,6 @@
 	"appidredirect" "105600"
 }
 "_missing_token" "False"
-"_change_number" "26014493"
-"_sha" "91216b29561086b4f5af9087a0d06914c8725c3b"
-"_size" "11874"
+"_change_number" "26439128"
+"_sha" "dadfca9c5ee617ce8a2464fa247aaab374f1eded"
+"_size" "12965"
