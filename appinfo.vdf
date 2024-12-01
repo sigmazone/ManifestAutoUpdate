@@ -1,0 +1,484 @@
+"appid" "1624320"
+"common"
+{
+	"name" "Eigengrau"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"clienticon" "7d00b0be6beab4b9223c2e8fcb1902b8bbcd1df9"
+	"clienttga" "4f073aa962e489118888d55f45bcf5c95ece5e5f"
+	"icon" "5d117461b629136ba4a1263921ffbb26e7d77102"
+	"logo" "d5a4c462b9bef95dfd4c42cf29a495257088ddff"
+	"logo_small" "d5a4c462b9bef95dfd4c42cf29a495257088ddff_thumb"
+	"clienticns" "80ba195c65660bd66403c2c323d76bb70bcd16f1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "f080786a3754c8e53ad5c32a5ac028ddbfae2197/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "77.96352685790241"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "77.96352685790241"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723062088"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Martin Mauersics"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Martin Mauersics"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_25" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_15" "1"
+		"category_59" "1"
+		"category_63" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1685965329"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1624320"
+	"store_tags"
+	{
+		"0" "4255"
+		"1" "4885"
+		"2" "1773"
+		"3" "19"
+		"4" "1664"
+		"5" "1774"
+		"6" "5154"
+		"7" "7481"
+		"8" "4026"
+		"9" "4305"
+		"10" "4975"
+		"11" "3942"
+		"12" "4182"
+		"13" "1685"
+		"14" "3841"
+		"15" "7368"
+		"16" "4637"
+		"17" "4758"
+		"18" "492"
+		"19" "4004"
+	}
+	"review_score" "8"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"deckresolutionoverride" "Native"
+	"absolutemousecoordinates" "0"
+	"developer" "Martin Mauersics"
+	"publisher" "Martin Mauersics"
+	"homepage" "https://www.maus-games.at/eigengrau/"
+}
+"config"
+{
+	"installdir" "Eigengrau"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/windows_x86_64/ProjectOne.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "bin/windows_x86_32/ProjectOne.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Compatibility Mode (DirectX)"
+				"german" "Kompatibilitätsmodus (DirectX)"
+				"french" "Mode de compatibilité (DirectX)"
+				"schinese" "兼容模式（DirectX）"
+				"tchinese" "兼容模式（DirectX）"
+				"japanese" "互換モード（DirectX）"
+				"brazilian" "Modo de compatibilidade (DirectX)"
+				"latam" "Modo de compatibilidad (DirectX)"
+			}
+			"description" "Compatibility Mode (DirectX)"
+		}
+		"2"
+		{
+			"executable" "Eigengrau_linux.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Eigengrau_macos.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" ""
+	"1624321"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7836640447888180006"
+				"size" "48252268"
+				"download" "48531440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "EEF08FD1469FEE4E8070773C037C1384"
+				"size" "AA57DC4BD612BC82AA89DDFAAEAF0DCE"
+				"download" "3F26C484D653E0A03CD249A19BC88D75"
+			}
+		}
+	}
+	"1624325"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3535983670992662441"
+				"size" "42290539"
+				"download" "33645152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "ADB161496C5A1C3EDF5E575FE3ACCCBC"
+				"size" "820334BF08072D2FC9FD8A8EA3B4A404"
+				"download" "5A45EEE9D368F4BF14E696F61AB29AA1"
+			}
+		}
+	}
+	"1624322"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1684501780535427502"
+				"size" "25881387"
+				"download" "9208112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "7BADC6B056047E895B231EECDE4394B6"
+				"size" "6C55B75BE377C0373470C6F5B597D852"
+				"download" "C4D89777C1E4CC33442AA2A26F26AB26"
+			}
+		}
+	}
+	"1624323"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6815487571632979108"
+				"size" "9613448"
+				"download" "3328704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "BE2E73E1C7ED89717A9D8010AB28EC37"
+				"size" "3EC36F1B878F9E7AE7481082F73AA64B"
+				"download" "A2D77BE5B98F277136AE1025B85FAE66"
+			}
+		}
+	}
+	"1624324"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3324841859525819358"
+				"size" "106162333"
+				"download" "86919712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "6BC34161D31B110FC988965C3401AEAC"
+				"size" "2F0BE41C5689585D31CC79A56AA5169F"
+				"download" "2717DDD2AF7180D7827755DB8B88BCB7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16239219"
+			"timeupdated" "1730303813"
+		}
+		"beta"
+		{
+			"buildid" "16239219"
+			"pwdrequired" "1"
+			"timeupdated" "1730303362"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Eigengrau/user_{Steam3AccountID}"
+			"pattern" "*.backup"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Eigengrau/user_{Steam3AccountID}"
+			"pattern" "*.p1sv"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Eigengrau/user_{Steam3AccountID}"
+			"pattern" "*.p1rp"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Eigengrau/user_{Steam3AccountID}"
+					"replace" ".local/share/Eigengrau/user_{Steam3AccountID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Eigengrau/user_{Steam3AccountID}"
+					"replace" "Eigengrau/user_{Steam3AccountID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25973607"
+"_sha" "9b8c50855ba255956d85614ab9b32d86943c7450"
+"_size" "8346"
