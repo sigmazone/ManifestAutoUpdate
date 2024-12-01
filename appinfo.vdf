@@ -361,22 +361,6 @@
 				"osarch" "64"
 			}
 		}
-		"6"
-		{
-			"executable" "EOSBootstrapper.exe"
-			"arguments" "-epicsandboxid=p-sgf8fnjbpr3jrcnat83r3x59597ws4"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"betakey" "toddhoward"
-			}
-			"description_loc"
-			{
-				"english" "Launch with EOS"
-			}
-			"description" "Launch with EOS"
-		}
 		"7"
 		{
 			"executable" "EOSBootstrapper.exe"
@@ -384,30 +368,94 @@
 			"config"
 			{
 				"oslist" "windows"
-				"osarch" "64"
-				"betakey" "eostest"
+				"betakey" "projplan"
 			}
 			"description_loc"
 			{
-				"english" "Launch with EOS"
+				"english" "Launch"
 			}
-			"description" "Launch with EOS"
+			"description" "Launch"
 		}
 		"8"
 		{
+			"executable" "TerraTechWin64.exe"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "projplan"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"9"
+		{
 			"executable" "EOSBootstrapper.exe"
+			"arguments" "-epicsandboxid=p-sgf8fnjbpr3jrcnat83r3x59597ws4"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "payload"
+			}
+			"description_loc"
+			{
+				"english" "with EOS Crossplay"
+			}
+			"description" "with EOS Crossplay"
+		}
+		"10"
+		{
+			"executable" "TerraTechWin64.exe"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "payload"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"11"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"arguments" "-epicsandboxid=p-dxrteuc3vjbdgtp6gwhdwlewlffrtn"
 			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "payload"
+				"betakey" "eos_crossplay"
 			}
 			"description_loc"
 			{
-				"english" "with EOS"
+				"english" "with EGS Crossplay"
 			}
-			"description" "with EOS"
+			"description" "with EGS Crossplay"
+		}
+		"12"
+		{
+			"executable" "TerraTechWin64.exe"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "eos_crossplay"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
 		}
 	}
 	"usemms" "1"
@@ -441,9 +489,9 @@
 			}
 			"previous_stable_version"
 			{
-				"gid" "1390031587244427316"
-				"size" "705755495"
-				"download" "487741280"
+				"gid" "6993533199637012786"
+				"size" "715801448"
+				"download" "493393584"
 			}
 			"tt_unstable"
 			{
@@ -459,6 +507,12 @@
 				"gid" "F4CF8FB348D997540EA2653F00343A63"
 				"size" "B546F95CBA26445CF696AF3581B1593B"
 				"download" "F57D076C0D881D917AEA551282B38A61"
+			}
+			"eos_crossplay"
+			{
+				"gid" "C8D0E9BF883244E8C8ACC9E1221CF15B"
+				"size" "CC78E87FBEE4CC25D3B056F43E56D226"
+				"download" "6DF4BF222BE2335C958C116FAD140FDE"
 			}
 			"gerry"
 			{
@@ -564,15 +618,15 @@
 			}
 			"payload"
 			{
-				"gid" "AC6BE6EFC488946CBB2157A3C47CB493"
-				"size" "5650AB2C032FA76FECF7ADD972DC03B9"
-				"download" "31AE07D868A5504BB26D0FF23FB9160C"
+				"gid" "13B58ED754BF634EC9EBABCC0A37A4C0"
+				"size" "EE10E0091D41243E2E0F87C3378D147D"
+				"download" "2C9101D8B570F6B3E37B8BF9124DA3C3"
 			}
 			"toddhoward"
 			{
-				"gid" "6E19FCCE29F424C9085ACB52848AF3D4"
-				"size" "6E068691C5F76A055A8D5392ECE35C43"
-				"download" "4145A81545D6E07B2B7F0824AA4F106A"
+				"gid" "1FE6A618C12CF7B2356625896390E0CD"
+				"size" "741A193F8600E30A9AE5B86A4BDF4A4C"
+				"download" "C47D9C9693FB58A4D70E79028BD7A906"
 			}
 		}
 	}
@@ -599,9 +653,9 @@
 			}
 			"previous_stable_version"
 			{
-				"gid" "6682220906037083300"
-				"size" "682307683"
-				"download" "478160096"
+				"gid" "6170556912471165192"
+				"size" "688481769"
+				"download" "483114096"
 			}
 			"tt_unstable"
 			{
@@ -617,6 +671,12 @@
 				"gid" "6ADF8937B521ECDD3809146E89CFE228"
 				"size" "1D9F84A28A62BD2045CF14FE2F8DC562"
 				"download" "F02B4B896A8AC9EDC0A1BB2B3AEB8EAA"
+			}
+			"eos_crossplay"
+			{
+				"gid" "75F017EDC14AFEBC2D196DA6BC3E1DCF"
+				"size" "A90C648751AAF25E94E1B40D26F2EBC9"
+				"download" "E15E856B7E8DDAEC5559570665D412DE"
 			}
 			"gerry"
 			{
@@ -722,9 +782,9 @@
 			}
 			"payload"
 			{
-				"gid" "F6A2DC61B98C5EF47E8E86F1FB71C98A"
-				"size" "59893029B97A8200CECEA69B9F04F916"
-				"download" "F800335A19B922B7F5EC5046C7290E2A"
+				"gid" "435CF57C1551BA38D0153D36AAC6980D"
+				"size" "7CB903026016739E7912C484D65A09EF"
+				"download" "05E0FCBE7BD7422D5ED227970179D214"
 			}
 			"toddhoward"
 			{
@@ -757,9 +817,9 @@
 			}
 			"previous_stable_version"
 			{
-				"gid" "8158227302059874315"
-				"size" "705120279"
-				"download" "490803184"
+				"gid" "2293251169833302271"
+				"size" "713091359"
+				"download" "496531712"
 			}
 			"tt_unstable"
 			{
@@ -775,6 +835,12 @@
 				"gid" "EBA4CED1A5B2FE0E0ACB64430AACAF06"
 				"size" "B6BF69A7496612D53A18016A2803C100"
 				"download" "50584E42994594D7584D7D0E6EF48783"
+			}
+			"eos_crossplay"
+			{
+				"gid" "33E8AACFB33022DEEF2E3988058DD5E1"
+				"size" "80D4F6A3764D51AA6708B5A629D31A7D"
+				"download" "2ACAF26E419C27ACB2B744DC003F593F"
 			}
 			"gerry"
 			{
@@ -880,9 +946,9 @@
 			}
 			"payload"
 			{
-				"gid" "625D2A3E1CE7F73D2D7969A99332C8A6"
-				"size" "88C623F74B0E5181D394B2EC836E951E"
-				"download" "759195CA2DC8CC3E3D1BD7FC651E29B0"
+				"gid" "70C4A133A5882A2F85990C3728E0B47F"
+				"size" "3E24BEDA6DD615B131B9FDCB0B72B67C"
+				"download" "B0DC97E932E74AD1CA386D666DC90E77"
 			}
 			"toddhoward"
 			{
@@ -942,6 +1008,12 @@
 				"gid" "6A79D01F2541D23F7AF2451AB81E9A11"
 				"size" "36E9A2F998B6015D5EE5FBC0EE1A9ADE"
 				"download" "6EC624C78606DF9E423CBFBB21766BAE"
+			}
+			"eos_crossplay"
+			{
+				"gid" "21B65E1A13BEB671B30D709EB0CF5C11"
+				"size" "29A1E5AE866AF0AC8571BCAD64BD03AE"
+				"download" "1581AF243B2E1CBCD1FF9CD9BACA096B"
 			}
 			"gerry"
 			{
@@ -1102,6 +1174,12 @@
 				"size" "40C69E35C857A60AF66948BAFDDDF6A5"
 				"download" "29F3D14D37CEE2F99438493C3975034C"
 			}
+			"eos_crossplay"
+			{
+				"gid" "291310B904124977DEB749A7205CB775"
+				"size" "F091564740C3FF80B15C40C69E6B6785"
+				"download" "172C931394C9B6974D1BD37958048CFB"
+			}
 			"gerry"
 			{
 				"gid" "00FA1ABF2102F28458AEBC594281F6F1"
@@ -1260,6 +1338,12 @@
 				"gid" "30E6BD94E4B5A4CDA1FC341452E4A575"
 				"size" "EAA1E25B5C062759FF36EEE1D07B6C3F"
 				"download" "9402A94D8BC34259F76BEA346DE85310"
+			}
+			"eos_crossplay"
+			{
+				"gid" "FA91E8580A4C7747AE99F093E12217B5"
+				"size" "B9BC4AFD520FF7A6188A68BB3678A671"
+				"download" "4817B9561E665286265E0458501F0203"
 			}
 			"gerry"
 			{
@@ -1428,6 +1512,12 @@
 				"size" "FACA2A9DA2CDAB3D0155E18A35BF449C"
 				"download" "C22121BBC65BF56C856E7589904BC18E"
 			}
+			"eos_crossplay"
+			{
+				"gid" "1AA502E2238FB1CC3DE733C65DBBEF07"
+				"size" "EE0B917E2E15639D0C819FC2EC24C830"
+				"download" "3B15D4E355128E69ACE329872284CAA9"
+			}
 			"gerry"
 			{
 				"gid" "535C66490E1DB545E1FCECDA0B79DDD1"
@@ -1587,6 +1677,12 @@
 				"size" "42043248B90E744A22976FC299981784"
 				"download" "C22121BBC65BF56C856E7589904BC18E"
 			}
+			"eos_crossplay"
+			{
+				"gid" "08C329BE60DA5C6349CE10E3606EEC9D"
+				"size" "3B3E4EA9EED7666AF9988A9DDC9C1AC9"
+				"download" "3B15D4E355128E69ACE329872284CAA9"
+			}
 			"gerry"
 			{
 				"gid" "BFFDBFEAE49A68460D59402BAA873A52"
@@ -1745,6 +1841,12 @@
 				"gid" "B36E1F0AB8303AA50FABF502F9CA3528"
 				"size" "FACA2A9DA2CDAB3D0155E18A35BF449C"
 				"download" "C22121BBC65BF56C856E7589904BC18E"
+			}
+			"eos_crossplay"
+			{
+				"gid" "4D11306832014BC1A1B7D5EB7EEA772A"
+				"size" "EE0B917E2E15639D0C819FC2EC24C830"
+				"download" "3B15D4E355128E69ACE329872284CAA9"
 			}
 			"gerry"
 			{
@@ -1990,6 +2092,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1595497277"
 		}
+		"eos_crossplay"
+		{
+			"buildid" "16541400"
+			"pwdrequired" "1"
+			"timeupdated" "1732642111"
+		}
 		"gerry"
 		{
 			"buildid" "15900897"
@@ -2094,15 +2202,15 @@
 		}
 		"payload"
 		{
-			"buildid" "16236420"
+			"buildid" "16541400"
 			"pwdrequired" "1"
-			"timeupdated" "1730290732"
+			"timeupdated" "1732720844"
 		}
 		"toddhoward"
 		{
-			"buildid" "15848973"
+			"buildid" "16343422"
 			"pwdrequired" "1"
-			"timeupdated" "1727432422"
+			"timeupdated" "1731078349"
 		}
 		"1.3.3"
 		{
@@ -2112,9 +2220,9 @@
 		}
 		"previous_stable_version"
 		{
-			"buildid" "14388720"
-			"description" "1.6.1"
-			"timeupdated" "1726654795"
+			"buildid" "15717007"
+			"description" "1.6.2"
+			"timeupdated" "1731337101"
 		}
 		"tt_unstable"
 		{
@@ -2167,6 +2275,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25987484"
-"_sha" "79e0965348cf1b216eff6750e92ded67ce8892f2"
-"_size" "49645"
+"_change_number" "26388095"
+"_sha" "e426a5f6f25dfcef04df00556214ae03de4efaa9"
+"_size" "52337"
