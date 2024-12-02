@@ -1,0 +1,249 @@
+"appid" "1359870"
+"common"
+{
+	"name" "VEGTERIA"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "5827feab220f8c264e0f83e77257956d7708d2a7"
+	"logo_small" "5827feab220f8c264e0f83e77257956d7708d2a7_thumb"
+	"icon" "7f8f480adc4f539e9927cecc991b954ad81638b0"
+	"clienttga" "3266f6ed6064d61c51b76c1c64aa82570e3b8a5f"
+	"clienticns" "bdf0200a080190951d04bbef3879ed74e5a4acd0"
+	"languages"
+	{
+		"english" "1"
+	}
+	"clienticon" "bdf0200a080190951d04bbef3879ed74e5a4acd0"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllervr"
+	{
+		"kbm" "1"
+	}
+	"linuxclienticon" "bdf0200a080190951d04bbef3879ed74e5a4acd0"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.789159363520994"
+			"height_pct" "36.303181581538695"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.789159363520994"
+				"height_pct" "36.303181581538695"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1708547615"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DNA ARMY GAMING"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DNA ARMY GAMING"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Trader Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1594796400"
+	"steam_release_date" "1594796543"
+	"community_hub_visible" "1"
+	"gameid" "1359870"
+	"store_tags"
+	{
+		"0" "9204"
+		"1" "87918"
+		"2" "12472"
+		"3" "4520"
+		"4" "1644"
+		"5" "599"
+		"6" "10235"
+		"7" "3834"
+		"8" "3839"
+		"9" "4695"
+		"10" "4202"
+		"11" "492"
+		"12" "3968"
+		"13" "4182"
+		"14" "1036"
+		"15" "1663"
+		"16" "4175"
+		"17" "1695"
+		"18" "21"
+		"19" "1721"
+	}
+	"review_score" "4"
+	"review_percentage" "28"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "DNA ARMY GAMING"
+	"publisher" "DNA ARMY GAMING"
+}
+"config"
+{
+	"installdir" "VEGTERIA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VS1.exe"
+			"arguments" "-nohmd -fullscreen"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"1359871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3156725196064673587"
+				"size" "7561302434"
+				"download" "3188940608"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5293478"
+			"timeupdated" "1645911618"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000000"
+	"maxnumfiles" "5000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26042591"
+"_sha" "b391fdd9ed93ee61ade9667a181dbfa013e3fd1f"
+"_size" "3906"
