@@ -82,6 +82,7 @@
 			"gamescope_frame_limiter_not_supported" "1"
 		}
 	}
+	"metacritic_name" "Mega Man Battle Network Legacy Collection Vol. 1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -109,6 +110,72 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"japanese" "library_600x900_japanese.jpg"
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"japanese" "library_hero_japanese.jpg"
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"koreana" "library_hero_koreana.jpg"
+			}
+			"image2x"
+			{
+				"japanese" "library_hero_japanese_2x.jpg"
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"koreana" "library_hero_koreana_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"japanese" "logo_japanese.png"
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"koreana" "logo_koreana.png"
+			}
+			"image2x"
+			{
+				"japanese" "logo_japanese_2x.png"
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
 		}
 	}
 	"store_asset_mtime" "1670999571"
@@ -172,6 +239,8 @@
 		}
 	}
 	"steam_release_date" "1681444800"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mega-man-battle-network-legacy-collection-vol-1\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1798010"
@@ -243,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "6583874429443952093"
-				"size" "1203941205"
-				"download" "1086625584"
+				"gid" "2575009524874558498"
+				"size" "1203526253"
+				"download" "1086382416"
 			}
 		}
 		"encryptedmanifests"
@@ -340,6 +409,12 @@
 				"size" "24B4D7E26E60CA843D83DBABD85A4D7E"
 				"download" "A3E9171E6363AA7170FC9DFA42B3A8F8"
 			}
+			"jhspdvii2mfe"
+			{
+				"gid" "4C6777596E8635FB42B176A3BF332FB5"
+				"size" "25A87C2E624CFED5F69F37761B26E025"
+				"download" "0550EC989B9171B4F478CAF71A1B3B1F"
+			}
 		}
 	}
 	"baselanguages" "english,schinese,tchinese,japanese"
@@ -348,8 +423,8 @@
 	{
 		"public"
 		{
-			"buildid" "12489466"
-			"timeupdated" "1698627844"
+			"buildid" "15660812"
+			"timeupdated" "1733104823"
 		}
 		"dev_00"
 		{
@@ -441,6 +516,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1679449248"
 		}
+		"jhspdvii2mfe"
+		{
+			"buildid" "15660812"
+			"pwdrequired" "1"
+			"timeupdated" "1726824247"
+		}
 	}
 }
 "ufs"
@@ -449,6 +530,6 @@
 	"maxnumfiles" "50"
 }
 "_missing_token" "False"
-"_change_number" "24027297"
-"_sha" "a01cc7912f3080f2a9592c58dc4e29dbc9962dfe"
-"_size" "9521"
+"_change_number" "26446485"
+"_sha" "db6aaea9d027139b90800923ccc0e19fdb2e72a5"
+"_size" "11694"
