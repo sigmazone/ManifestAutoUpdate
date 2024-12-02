@@ -40,25 +40,25 @@
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1724889600"
-		"tested_build_id" "14978019"
+		"category" "3"
+		"test_timestamp" "1732665600"
+		"tested_build_id" "16421600"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -77,8 +77,8 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "1"
 			"recommended_runtime" "proton-stable"
@@ -341,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "4111089190420140269"
-				"size" "6526460717"
-				"download" "2513038160"
+				"gid" "290775387573332342"
+				"size" "6526462373"
+				"download" "2513038016"
 			}
 		}
 		"encryptedmanifests"
@@ -362,33 +362,39 @@
 			}
 			"ab_development"
 			{
-				"gid" "2F8AA940B5B1B4BCBA28159DA0F81CAD"
-				"size" "337EBB99AF4AC69484BD183CD729EE2B"
-				"download" "057E9CA35A3B2FCE5BAC2094680E271F"
+				"gid" "808F125199261612B1BBFDCFE68C3674"
+				"size" "1AB7F4BD70604D1ED360246B0F743FAF"
+				"download" "4FE8C1E31A70B62D0BFE8AAA6C76A40E"
 			}
 			"ab_manual_request"
 			{
-				"gid" "806E2112E5C5F307C6298B56E0CA1E2E"
-				"size" "5661DCEE4500333269471F6430155E2F"
-				"download" "404A669CFD2D553ECCBC77CF6800F067"
+				"gid" "A9A29BF59649BDD52FEE4F9D6637ED35"
+				"size" "98D90533A62920BE1790ABB6BD32D4D5"
+				"download" "8BEE739E0A2FF3A4563ADC6F86A0EBB4"
 			}
 			"ab_release_candidate"
 			{
-				"gid" "07E9A5B3EC15C0DD881EFC3C4C57CF70"
-				"size" "A9FACE519D90E18B00D78403F1C317D6"
-				"download" "4D789D0F196117E5E003646931114F79"
+				"gid" "3F970BAAACEBA2BC4CD5243C60F9B6CD"
+				"size" "2FE909C6A7D5D0194CE2FA38D10DC521"
+				"download" "481D79519E7DF558DEA75262A0710773"
 			}
 			"ab_staging"
 			{
-				"gid" "8D51BBA9DD6DF210915F326C814E58BF"
-				"size" "1236045127AEF14BE356E6C13C90659F"
-				"download" "2009E7E2E786E63EDDF4798D14A57CFA"
+				"gid" "C5901409636248BEAF46BC530675BDAC"
+				"size" "F8B9FD3CE667AB1757BC6D563BC32A0E"
+				"download" "8521F9A79434447201C49FB874280A08"
+			}
+			"bugfix_validation"
+			{
+				"gid" "78432714726C1BCD5BD2B2FAEBA08249"
+				"size" "12490E5815346EEE9F8D78C29D9F2A0E"
+				"download" "F8A094580E9426F0F593A92D1849744D"
 			}
 			"experimental"
 			{
-				"gid" "276EAAE3DF8A8DF46AE361F718AE08AB"
-				"size" "EBDB05BBCA0784A1F941E77C8578C1CF"
-				"download" "5398005EB63F915561CA721E56B3F868"
+				"gid" "805271E9D6A5DB7D999AE6BDE7C3B893"
+				"size" "3AEE60764139677732901303E925B48C"
+				"download" "78CA5A5F2582AE062AFC82167E487A30"
 			}
 			"experimental2"
 			{
@@ -428,15 +434,15 @@
 			}
 			"focus_patch_candidate_dev"
 			{
-				"gid" "E4BD88864EC5C1D2A0A4674A7ADEC50A"
-				"size" "7C71F4A1150CE2D6F039A5FD08E71E04"
-				"download" "8C8252F4662FF72A0ECA14368D6CAE09"
+				"gid" "AF1F56F56DA835858B6E96B68C4A0F24"
+				"size" "C529957B627AF87443D9B396D16455EA"
+				"download" "0D09B0E30118B4117F66D79C6C372BC8"
 			}
 			"focus_patch_candidate_rel"
 			{
-				"gid" "AB788D5D67D2C06F16BF5AFF122B22F6"
-				"size" "111C9CADDDAD985A17347F61C1EB588B"
-				"download" "28EAC58B4A738C8DAB5B45B79CF74DA7"
+				"gid" "DDF25D4272DA54F7B34FB56A5921C584"
+				"size" "793CCAC5D7F7C7BA20AFCDAE2EFE01E4"
+				"download" "7E8E0632FD0ABE8703DCB769F4CB890C"
 			}
 			"focus_production"
 			{
@@ -470,9 +476,9 @@
 			}
 			"hutlihut_qa"
 			{
-				"gid" "D18228B02E30E65FE76C872204CF7EC5"
-				"size" "48DDF7E0010585484233164FF9D8C2AE"
-				"download" "9F97C98B29946D72DD1410128828E464"
+				"gid" "8825216563608D471CB1984AC4D7E796"
+				"size" "009EF6895C290E6AD8582E3E77F33369"
+				"download" "F7DA7EABB84FC3FD3A4223CEEC69D134"
 			}
 			"hutlihut_qa2"
 			{
@@ -492,8 +498,8 @@
 	{
 		"public"
 		{
-			"buildid" "16445325"
-			"timeupdated" "1732553277"
+			"buildid" "16571475"
+			"timeupdated" "1733155023"
 		}
 		"focus_live_dev"
 		{
@@ -509,33 +515,39 @@
 		}
 		"ab_development"
 		{
-			"buildid" "16501923"
+			"buildid" "16583687"
 			"pwdrequired" "1"
-			"timeupdated" "1732288522"
+			"timeupdated" "1732915305"
 		}
 		"ab_manual_request"
 		{
-			"buildid" "16524573"
+			"buildid" "16603598"
 			"pwdrequired" "1"
-			"timeupdated" "1732541284"
+			"timeupdated" "1733158942"
 		}
 		"ab_release_candidate"
 		{
-			"buildid" "16445325"
+			"buildid" "16571475"
 			"pwdrequired" "1"
-			"timeupdated" "1731940785"
+			"timeupdated" "1732828185"
 		}
 		"ab_staging"
 		{
-			"buildid" "16445255"
+			"buildid" "16571426"
 			"pwdrequired" "1"
-			"timeupdated" "1731940444"
+			"timeupdated" "1732827864"
+		}
+		"bugfix_validation"
+		{
+			"buildid" "16571475"
+			"pwdrequired" "1"
+			"timeupdated" "1733155937"
 		}
 		"experimental"
 		{
-			"buildid" "16082846"
+			"buildid" "16445325"
 			"pwdrequired" "1"
-			"timeupdated" "1729178561"
+			"timeupdated" "1732617555"
 		}
 		"experimental2"
 		{
@@ -575,15 +587,15 @@
 		}
 		"focus_patch_candidate_dev"
 		{
-			"buildid" "16369767"
+			"buildid" "16571426"
 			"pwdrequired" "1"
-			"timeupdated" "1731401230"
+			"timeupdated" "1732872666"
 		}
 		"focus_patch_candidate_rel"
 		{
-			"buildid" "16288227"
+			"buildid" "16571475"
 			"pwdrequired" "1"
-			"timeupdated" "1730729712"
+			"timeupdated" "1732872676"
 		}
 		"focus_production"
 		{
@@ -601,7 +613,7 @@
 		{
 			"buildid" "16445325"
 			"pwdrequired" "1"
-			"timeupdated" "1731941734"
+			"timeupdated" "1732812809"
 		}
 		"hutlihut_custom"
 		{
@@ -617,9 +629,9 @@
 		}
 		"hutlihut_qa"
 		{
-			"buildid" "16341393"
+			"buildid" "16569048"
 			"pwdrequired" "1"
-			"timeupdated" "1731067731"
+			"timeupdated" "1732884576"
 		}
 		"hutlihut_qa2"
 		{
@@ -636,6 +648,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26352641"
-"_sha" "14b1c09e69d276c8254d26baac15c2ab00792c5a"
-"_size" "13305"
+"_change_number" "26456085"
+"_sha" "599a739ecca422a7917f780344059d216d4a2029"
+"_size" "13593"
