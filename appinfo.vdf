@@ -1,0 +1,407 @@
+"appid" "955400"
+"common"
+{
+	"name" "Bonds"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "603517ee25856ad2f20c00ecc0a204abd8a762f6"
+	"logo_small" "603517ee25856ad2f20c00ecc0a204abd8a762f6_thumb"
+	"icon" "16deb073b9dc385509b2ae0a62c16aa3272d3f64"
+	"clienticon" "42478240cba02765a060b5d2a36bfa3a9dcf8f6d"
+	"clienttga" "262a23f7c9eb1e9ab0090ac9e2a7d53785082628"
+	"releasestate" "released"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "66.86046511627904"
+			"height_pct" "93.6950843030159"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "66.86046511627904"
+				"height_pct" "93.6950843030159"
+			}
+		}
+	}
+	"store_asset_mtime" "1636991045"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DID Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DID Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1513065600"
+	"steam_release_date" "1541085180"
+	"community_hub_visible" "1"
+	"gameid" "955400"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "492"
+		"2" "597"
+		"3" "599"
+		"4" "7208"
+		"5" "3799"
+		"6" "4085"
+		"7" "4726"
+		"8" "4947"
+	}
+	"review_score" "8"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "DID Games"
+	"publisher" "DID Games"
+	"homepage" "https://did.games"
+}
+"config"
+{
+	"installdir" "Bonds"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"arguments" "--in-process-gpu"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "1.3.1old "
+			}
+			"description_loc"
+			{
+				"english" "Old version"
+			}
+			"description" "Old version"
+		}
+		"1"
+		{
+			"executable" "Game.app"
+			"arguments" "--in-process-gpu"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "1.3.1old "
+			}
+			"description_loc"
+			{
+				"english" "Old version"
+			}
+			"description" "Old version"
+		}
+		"2"
+		{
+			"executable" "Game"
+			"arguments" "--in-process-gpu"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "1.3.1old "
+			}
+			"description_loc"
+			{
+				"english" "Old version"
+			}
+			"description" "Old version"
+		}
+		"3"
+		{
+			"executable" "Bonds/Bonds.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "Bonds/Bonds.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "Bonds/nw"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "4"
+}
+"depots"
+{
+	"955401"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7518852742681230960"
+				"size" "3858"
+				"download" "1952"
+			}
+			"1.3.1old"
+			{
+				"gid" "9141785501689725312"
+				"size" "3890"
+				"download" "1760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "00B2B0EDAADE5FB2C52BA247728516E4"
+				"size" "C9F71A10A56C9C079122EAFCEEFB88A2"
+				"download" "3E85106ACCEB671468BB7370BBC7195F"
+			}
+		}
+	}
+	"955402"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1331936593635946106"
+				"size" "472586708"
+				"download" "241726704"
+			}
+			"1.3.1old"
+			{
+				"gid" "6934569530192347995"
+				"size" "570612220"
+				"download" "450241904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "73C0D8272BCBC18D5EE70CB7D1FE7E96"
+				"size" "0E1B55E1413E52E247639A2FF7C8F3FD"
+				"download" "5EDDE8CEAE9E78B827502D03FBFD68DB"
+			}
+		}
+	}
+	"955403"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7885146892841443684"
+				"size" "583020170"
+				"download" "274216384"
+			}
+			"1.3.1old"
+			{
+				"gid" "5741648345880695406"
+				"size" "913302102"
+				"download" "456675888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C0F7F87F210A22E7204D21382118E721"
+				"size" "BC35B7105C554FE60AA35182BB1DDC41"
+				"download" "B3563B0DE130D8DE8EE8E70B9DF542F3"
+			}
+		}
+	}
+	"955404"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7633920171776138930"
+				"size" "772293468"
+				"download" "300140656"
+			}
+			"1.3.1old"
+			{
+				"gid" "5627211177283297890"
+				"size" "709955555"
+				"download" "480221792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "8ED23F22EB818A19AD97FBEDCD271078"
+				"size" "5B4F5847B3EC3D7B5B887262E617BC82"
+				"download" "594DA89842735EE6AA1621402EA64EF1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16592310"
+			"timeupdated" "1733048205"
+		}
+		"1.3.1old"
+		{
+			"buildid" "3230533"
+			"description" "1.3.1 old version"
+			"timeupdated" "1721074419"
+		}
+		"beta"
+		{
+			"buildid" "16592310"
+			"pwdrequired" "1"
+			"timeupdated" "1733048114"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Bonds/save"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Bonds/save"
+					"replace" "Bonds/Bonds.app/Contents/Resources/app.nw/save"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26440994"
+"_sha" "6d04aafa405b3f9818f1469b55dccacf62758d55"
+"_size" "6622"
