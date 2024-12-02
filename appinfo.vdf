@@ -33,6 +33,55 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727222400"
+		"tested_build_id" "14900949"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -209,15 +258,15 @@
 		"4" "24904"
 		"5" "3799"
 		"6" "4085"
-		"7" "4726"
-		"8" "122"
+		"7" "122"
+		"8" "4726"
 		"9" "597"
-		"10" "5984"
-		"11" "12472"
-		"12" "11014"
-		"13" "9551"
-		"14" "4195"
-		"15" "4434"
+		"10" "12472"
+		"11" "5984"
+		"12" "9551"
+		"13" "11014"
+		"14" "4434"
+		"15" "4195"
 		"16" "1698"
 		"17" "599"
 		"18" "379975"
@@ -263,30 +312,30 @@
 		{
 			"public"
 			{
-				"gid" "986380119087408511"
-				"size" "5195765887"
-				"download" "4098685760"
+				"gid" "631766555288645569"
+				"size" "5246021063"
+				"download" "4103506144"
 			}
 			"ver_2.0"
 			{
-				"gid" "9197556351508365885"
-				"size" "5419562321"
-				"download" "4214662896"
+				"gid" "5729999010960836251"
+				"size" "5688134199"
+				"download" "4478955616"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "E69778C57677A79854DAAF178FD4A3AB"
-				"size" "2699F549EBC1D3F5C3B2994278028846"
-				"download" "EFF5705FF38240FD4B250B5C6EDEE6FD"
+				"gid" "D416C36756660A9BF81F266095860895"
+				"size" "6D8B43D352633C14F43CE948287D4770"
+				"download" "BB73F1833D127E4C8FF0EFC14E94BAB2"
 			}
 			"ver_3.0"
 			{
-				"gid" "56F48729A797DDC263D491EB91676F04"
-				"size" "ACEBE7ED32AC34C1AA8DB29A3229986E"
-				"download" "ED313A4B4CC27A6C9CA9A622BB41D162"
+				"gid" "278D574B8D51CC5D2A031FE02D2F3580"
+				"size" "8DA2FE8C31A295E64BDE262C1B48D436"
+				"download" "35D1EFCC0FE8173E1A82D84FE93F6365"
 			}
 		}
 	}
@@ -328,26 +377,26 @@
 	{
 		"public"
 		{
-			"buildid" "15116705"
-			"timeupdated" "1721687934"
+			"buildid" "16558414"
+			"timeupdated" "1733090373"
 		}
 		"test"
 		{
-			"buildid" "15116705"
+			"buildid" "16558414"
 			"pwdrequired" "1"
-			"timeupdated" "1721681777"
+			"timeupdated" "1732744950"
 		}
 		"ver_2.0"
 		{
-			"buildid" "15116802"
+			"buildid" "16458577"
 			"description" "SummerClover(Test)"
-			"timeupdated" "1721687847"
+			"timeupdated" "1733090324"
 		}
 		"ver_3.0"
 		{
-			"buildid" "15116802"
+			"buildid" "16458577"
 			"pwdrequired" "1"
-			"timeupdated" "1721687854"
+			"timeupdated" "1732020397"
 		}
 	}
 }
@@ -391,3 +440,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26444976"
+"_sha" "c5f8f6211f9de6157ef4af063330f333f6cd0932"
+"_size" "8412"
