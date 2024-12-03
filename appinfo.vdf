@@ -1,0 +1,687 @@
+"appid" "2114740"
+"common"
+{
+	"name" "Blasphemous 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "c1b1c913b116434711aa8bf82e0e302f75375b3c"
+	"clienttga" "0218988747d97966b61502b14cebbc9d2a603973"
+	"icon" "4e6e9d55da3e45a19088852530126c02ac0b1d53"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "神之亵渎2"
+		"japanese" "ブラスフェマス 2"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692662400"
+		"tested_build_id" "11801969"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Blasphemous 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn"
+		"library_hero" "en,ja,zh-cn"
+		"library_logo" "en,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.56906709759957"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.56906709759957"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1730399961"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Game Kitchen"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Blasphemous"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "The Game Kitchen"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692893040"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/blasphemous-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2114740"
+	"store_tags"
+	{
+		"0" "3993"
+		"1" "1684"
+		"2" "1628"
+		"3" "29482"
+		"4" "21"
+		"5" "5379"
+		"6" "3798"
+		"7" "3964"
+		"8" "4026"
+		"9" "1646"
+		"10" "1733"
+		"11" "3871"
+		"12" "1625"
+		"13" "4231"
+		"14" "1667"
+		"15" "4106"
+		"16" "3854"
+		"17" "1742"
+		"18" "6869"
+		"19" "6971"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "The Game Kitchen"
+	"publisher" "Team17"
+	"homepage" "https://www.blasphemous2game.com/"
+	"listofdlc" "2500160,2879370"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Blasphemous 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Blasphemous 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2114741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "30965641548323185"
+				"size" "4270983716"
+				"download" "2809511360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cero_rating"
+			{
+				"gid" "45D03CEDCA765E4A1CCBCED36E672769"
+				"size" "6506039561240E06CBCD8028ADD0F71A"
+				"download" "9132B23C8C57589C1E1E4FEAB77F8A82"
+			}
+			"wth_branch"
+			{
+				"gid" "139BC82A030D3A88C395D4FB6DC93373"
+				"size" "9DBD951B2595FA62F775DDBC67E2040F"
+				"download" "4A9A9D3C849D06D81E8A82574A769C0A"
+			}
+			"hotfix11_prod"
+			{
+				"gid" "70D09BDE642B50E69431B144A8865038"
+				"size" "2EAB2CD5681C8ACEB86A3E6BA8B522AE"
+				"download" "FC080349BB5E566B41ECC74F23D10ED0"
+			}
+			"hotfix11_qa"
+			{
+				"gid" "4B6BDC8B4FD1FC6DEADAC1B8023FAB8A"
+				"size" "A5CC4584C983E2772F4ECB50D5AAB826"
+				"download" "104E724FFB69E030744575571A696E95"
+			}
+			"mc_au_debug"
+			{
+				"gid" "93B1D35782BB6336750052022CEFCE03"
+				"size" "36FC8A71C36150F26BE791789A1FD000"
+				"download" "C388CAE0921563EA96D931AB72C9CA9C"
+			}
+			"mc_au_prod"
+			{
+				"gid" "0CCFE417F4A4EF6367070DE620936C40"
+				"size" "066921EC57387E2939A4650C5A296358"
+				"download" "726B5C3FEE5A866377ACFD8BB39C0DC5"
+			}
+			"mc_au_qa"
+			{
+				"gid" "799F92C2DA99B214BC1B2F45F779901B"
+				"size" "2785158240DFD17A9B1D28DE8D889318"
+				"download" "2180564BDA10F6AC0B64CBE3A1E3ED92"
+			}
+			"mc_cc_dev"
+			{
+				"gid" "905795902994E6925656524E58BBF2E9"
+				"size" "49893A0DC039338EE3A2DC1DD9F94D0D"
+				"download" "C818BAD9EC0ADE57A32E24365C59885E"
+			}
+			"mc_cc_prod"
+			{
+				"gid" "5E5D81B1E40A5B9156EEA1C60F0BA077"
+				"size" "CE30427D5D0B6F611A0ADF82FFC05D12"
+				"download" "5343BC115C999CA3C9481E8617B83D6E"
+			}
+			"mc_d0p_prod"
+			{
+				"gid" "E9BFDF638F09E3BBEF2F4806E9348AF2"
+				"size" "1799CE2813F7C40D5B170058F025EC5E"
+				"download" "FC5553D63670D7CE9CF387B302D19BC3"
+			}
+			"mc_d0p_qa"
+			{
+				"gid" "B79ABD63A9AA33EB4673BB6EE486D7D2"
+				"size" "AB9073FE31A256E8679DB2E6ACCBD6F9"
+				"download" "F6355F6BF29B832795C5ACFE31342825"
+			}
+			"mc_ms05_dev"
+			{
+				"gid" "DF204F0E5F6F6756CE167C4AE293ECA9"
+				"size" "D6A4D952BA92BC0D626400D2451C5AB9"
+				"download" "BADFCC33AB17208C39DDDEA3CB02734D"
+			}
+			"press_review"
+			{
+				"gid" "1CE96EE1947CC54502743860111EC488"
+				"size" "922663DFD01AAB9F6B383FDF135139DF"
+				"download" "68927C749DD739F16EB97EAB02B36E39"
+			}
+			"t17_review"
+			{
+				"gid" "BA083790C3C579A3848A51187BFA1974"
+				"size" "BC3C9EE7FE372BC6144D955408EF161E"
+				"download" "0C026E63F5A13E9A7346B64C9918673B"
+			}
+			"windows_dev"
+			{
+				"gid" "8C5B9BF75FD7E9B8795AE66C910C8EDE"
+				"size" "CB79F81A9B67BC45C565ACF0297024AA"
+				"download" "8B95F31B130CAE4C95A0FBE77119F357"
+			}
+			"windows_prod"
+			{
+				"gid" "F17B0ABBD2095899706B6540E09B380A"
+				"size" "7004D0496BA795AF5CF8EEBABF330D9E"
+				"download" "00C793831FD28D915B269F0D9233A541"
+			}
+			"windows_prod_console"
+			{
+				"gid" "E14F8F7587448D0BE601E56964C9FEC7"
+				"size" "4F499DF766FBCD40A9564B0A134B7C3D"
+				"download" "A6F318922450DD996BFD44F760940CC1"
+			}
+			"wth_branch_qa"
+			{
+				"gid" "84A2F4730D8E1B4590DB63077117BE78"
+				"size" "2CA994CF31BF3CB26FB85B7C9634D226"
+				"download" "859331D6D8BDF06F7F0625382354A42C"
+			}
+		}
+	}
+	"2500160"
+	{
+		"dlcappid" "2500160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1591885379887391557"
+				"size" "130182835"
+				"download" "130562784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"hotfix11_prod"
+			{
+				"gid" "DBB990B4C37CB3D45CE6BF64E2C4C093"
+				"size" "6F2ABC86CE93E0D022217E6F35E206E4"
+				"download" "0669701F0C716688359D7D3DBDACFBCA"
+			}
+			"hotfix11_qa"
+			{
+				"gid" "2A206504CF2EE4D29C94A26ACD2AE437"
+				"size" "5896F77E4A632C8212ADA08C0C767EE1"
+				"download" "02FC3A7BA3530FED954B9DB90BF5B150"
+			}
+			"mc_au_debug"
+			{
+				"gid" "C92636BF133500DB4B6914E8AC8713F7"
+				"size" "A3EC3B2A4277898B480D826FEB065D4E"
+				"download" "E39825F2FCBC1E4C99B826FB46650B22"
+			}
+			"mc_au_prod"
+			{
+				"gid" "DB0FCAEDA983440376C7EA1CA1D1BF49"
+				"size" "3E07643CD5587442983F901CF21E9F65"
+				"download" "FF4E667073CE63BD9DFBC50CADB4FBE9"
+			}
+			"mc_au_qa"
+			{
+				"gid" "A19B473ABDDD6E43D101C712B19812DC"
+				"size" "EC5D48934FDB8F70DBD2A9AB57308D3C"
+				"download" "4EBF6D158A3704D72C5469F0654BBD03"
+			}
+			"mc_cc_dev"
+			{
+				"gid" "307CF2CEF60989F2E14150A2E85246A3"
+				"size" "7816E59703DF34909541214247E54945"
+				"download" "8EFD12C541D241F54E7EF3900B7EA456"
+			}
+			"mc_cc_prod"
+			{
+				"gid" "C0BC83E390B6785AA0CB2E46B0AF9CDD"
+				"size" "7D536FAE11F55E2BBC19452A0623CC70"
+				"download" "96099AD60F1540020AAEC0B83564CB68"
+			}
+			"mc_d0p_prod"
+			{
+				"gid" "A085DC5E52AD850BE3C04C6FD9FC50E4"
+				"size" "5D567CB8F22F0C463E0C31F8D86710E9"
+				"download" "24407D0935AA0209B2C4F92CDE427D76"
+			}
+			"mc_d0p_qa"
+			{
+				"gid" "D4F3FE3C71FBCB01E3611D947CD8BB0A"
+				"size" "A886CCAC957EF777B69F25F9A6F2F0A0"
+				"download" "4531181F6DD734353B1D9DCF38B042B6"
+			}
+			"mc_ms05_dev"
+			{
+				"gid" "B00E683A6838BA4A0CA04BF6A9DF4F80"
+				"size" "44F7C0C1E023CF5BB81A324100BB6352"
+				"download" "3ED738FFAD9685F614CCC6CDA639E4DA"
+			}
+			"press_review"
+			{
+				"gid" "5E8D50E752EAF5598FEBE4D25064F12F"
+				"size" "8F1C14A7B78D5C2108C5E7D1E31878D1"
+				"download" "5EFB3EB7A929F485666ECB93021D94BC"
+			}
+			"t17_review"
+			{
+				"gid" "6A1232F5A3EE4AAF318903013E4CA33A"
+				"size" "319A8F1F349F22D593C73B09F6E37D81"
+				"download" "5BBD8D69A2EA7D5010B41D5298CD0AFD"
+			}
+			"wth_branch_qa"
+			{
+				"gid" "721010D77D6EDD2A0446C19D308A6BDF"
+				"size" "7EA6D9F48DBAF2688A246B792BBDE485"
+				"download" "1ABBC478AAE6973217EBE0F14217F2AB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16615599"
+			"timeupdated" "1733235021"
+		}
+		"cero_rating"
+		{
+			"buildid" "11978969"
+			"pwdrequired" "1"
+			"timeupdated" "1692392533"
+		}
+		"wth_branch"
+		{
+			"buildid" "13737736"
+			"pwdrequired" "1"
+			"timeupdated" "1710411836"
+		}
+		"hotfix11_prod"
+		{
+			"buildid" "16338184"
+			"pwdrequired" "1"
+			"timeupdated" "1731050619"
+		}
+		"hotfix11_qa"
+		{
+			"buildid" "16338188"
+			"pwdrequired" "1"
+			"timeupdated" "1731050642"
+		}
+		"mc_au_debug"
+		{
+			"buildid" "15741741"
+			"pwdrequired" "1"
+			"timeupdated" "1726659495"
+		}
+		"mc_au_prod"
+		{
+			"buildid" "15742882"
+			"pwdrequired" "1"
+			"timeupdated" "1726665305"
+		}
+		"mc_au_qa"
+		{
+			"buildid" "15744102"
+			"pwdrequired" "1"
+			"timeupdated" "1726671167"
+		}
+		"mc_cc_dev"
+		{
+			"buildid" "15417294"
+			"pwdrequired" "1"
+			"timeupdated" "1724057324"
+		}
+		"mc_cc_prod"
+		{
+			"buildid" "15419829"
+			"pwdrequired" "1"
+			"timeupdated" "1724071889"
+		}
+		"mc_d0p_prod"
+		{
+			"buildid" "16233047"
+			"pwdrequired" "1"
+			"timeupdated" "1730273847"
+		}
+		"mc_d0p_qa"
+		{
+			"buildid" "16149417"
+			"pwdrequired" "1"
+			"timeupdated" "1729678647"
+		}
+		"mc_ms05_dev"
+		{
+			"buildid" "14727764"
+			"pwdrequired" "1"
+			"timeupdated" "1718442593"
+		}
+		"press_review"
+		{
+			"buildid" "16233047"
+			"pwdrequired" "1"
+			"timeupdated" "1730383461"
+		}
+		"t17_review"
+		{
+			"buildid" "16420363"
+			"pwdrequired" "1"
+			"timeupdated" "1731675027"
+		}
+		"windows_dev"
+		{
+			"buildid" "16021668"
+			"pwdrequired" "1"
+			"timeupdated" "1728752472"
+		}
+		"windows_prod"
+		{
+			"buildid" "16571749"
+			"pwdrequired" "1"
+			"timeupdated" "1732830340"
+		}
+		"windows_prod_console"
+		{
+			"buildid" "16572384"
+			"pwdrequired" "1"
+			"timeupdated" "1732836372"
+		}
+		"wth_branch_qa"
+		{
+			"buildid" "16406430"
+			"pwdrequired" "1"
+			"timeupdated" "1731590204"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "The Game Kitchen/Blasphemous 2/SteamUser_{64BitSteamID}"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26471613"
+"_sha" "7827441593ba672cc52b198936e41e5fec31f062"
+"_size" "14488"
