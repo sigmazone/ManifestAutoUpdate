@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "6690624990584873758"
-				"size" "37760395596"
-				"download" "36287444432"
+				"gid" "3428707846858994192"
+				"size" "37503140368"
+				"download" "36077675792"
 			}
 		}
 		"encryptedmanifests"
@@ -290,6 +290,12 @@
 				"gid" "81E072F0FE5EAE18CAEDCDAFCEC43B57"
 				"size" "30DE1651DCFEEAC79047CEE4A6184855"
 				"download" "77AB01467774A9D7495E384CCA4145F1"
+			}
+			"patch01-staging-branch"
+			{
+				"gid" "D5BF80BF79201E81EDC9EA73D5EA1E4A"
+				"size" "92D7EC0E44C4BFF9C1D77F966D087B00"
+				"download" "316547B2D304688D4BC9DB3643C79CC4"
 			}
 		}
 	}
@@ -361,6 +367,12 @@
 				"size" "C2D9B9F39B672B27DAE453742643C721"
 				"download" "7B231F65A182133720E92A838C2C0653"
 			}
+			"patch01-staging-branch"
+			{
+				"gid" "E91C71012A829A47EAD0D7517DB3948F"
+				"size" "A24FA8A829B0C705932865C9734C09A3"
+				"download" "5BAEC07FE68681AE184AB23730CD492A"
+			}
 		}
 	}
 	"3341290"
@@ -411,14 +423,20 @@
 				"size" "B35FA8A56BAB6E4BC6DF6B425577E6EB"
 				"download" "BE7FAE4CA12FD9A3FEED1598F65FFBD9"
 			}
+			"patch01-staging-branch"
+			{
+				"gid" "5133D8391DD0819B2F7558E2AB0C26C9"
+				"size" "1BA59F8F947B49BB3B8F2D4ABDE1D6EB"
+				"download" "31C2C327F68E474C81F6E57FFF351E8D"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16431707"
-			"timeupdated" "1731775615"
+			"buildid" "16605989"
+			"timeupdated" "1733173561"
 		}
 		"dev-patch01-branch"
 		{
@@ -438,6 +456,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1733139271"
 		}
+		"patch01-staging-branch"
+		{
+			"buildid" "16604761"
+			"pwdrequired" "1"
+			"timeupdated" "1733165487"
+		}
 	}
 }
 "ufs"
@@ -446,6 +470,6 @@
 	"maxnumfiles" "15"
 }
 "_missing_token" "False"
-"_change_number" "26451512"
-"_sha" "e62ae050615b7f0dd4e2c8a0aac2620242c73677"
-"_size" "8640"
+"_change_number" "26459223"
+"_sha" "a067573681bef1441c7561f45d49520eb61b1e92"
+"_size" "9323"
