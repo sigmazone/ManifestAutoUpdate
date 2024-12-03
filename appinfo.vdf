@@ -75,7 +75,7 @@
 	"nokeyboardmouse" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "36036af9e4918b83f650a6d5aee08fac6403434a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -100,11 +100,11 @@
 		{
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "9ffd8aba37e529dd669273c92e64b815f99ecaec/library_600x900_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "9ffd8aba37e529dd669273c92e64b815f99ecaec/library_600x900.jpg"
 			}
 		}
 		"library_hero"
@@ -122,11 +122,11 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "56826e553fd2317047ac0ce00214986f49ba99d0/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "56826e553fd2317047ac0ce00214986f49ba99d0/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -139,11 +139,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "2dca648838dfe5447cf15a29716bca95c38076ec/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "2dca648838dfe5447cf15a29716bca95c38076ec/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1708595860"
+	"store_asset_mtime" "1730213247"
 	"associations"
 	{
 		"0"
@@ -253,7 +257,7 @@
 		"19" "1685"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -261,6 +265,8 @@
 	"developer" "VirtualAge"
 	"publisher" "Fast Travel Games"
 	"homepage" "http://virtualage.io/"
+	"listofdlc" "3273200,3376420"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -290,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "5545577345706520218"
-				"size" "12797261144"
-				"download" "6603829152"
+				"gid" "3749152321954725651"
+				"size" "14795166075"
+				"download" "8324815840"
 			}
 			"local"
 			{
@@ -302,33 +308,41 @@
 			}
 			"test"
 			{
-				"gid" "5545577345706520218"
-				"size" "12797261144"
-				"download" "6603829152"
+				"gid" "3749152321954725651"
+				"size" "14795166075"
+				"download" "8324815840"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "67EEB042B2B6E6AD45EED55641E9F6B7"
-				"size" "DF99EAE8B87BF007A8F6B9238137550E"
-				"download" "40018C774382968FC10B47D91E76588F"
+				"gid" "89DAB562B28CDD0D9467B8C2857E3F9D"
+				"size" "F8EEC96C81195A71AF8036227F8CD248"
+				"download" "77BBA67DF58A39FBAC04E594D831FB45"
 			}
 		}
+	}
+	"3273200"
+	{
+		"dlcappid" "3273200"
+	}
+	"3376420"
+	{
+		"dlcappid" "3376420"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14945112"
-			"timeupdated" "1720201094"
+			"buildid" "16605625"
+			"timeupdated" "1733222414"
 		}
 		"alpha"
 		{
-			"buildid" "14945112"
+			"buildid" "16605625"
 			"pwdrequired" "1"
-			"timeupdated" "1720197277"
+			"timeupdated" "1733171446"
 		}
 		"local"
 		{
@@ -339,9 +353,13 @@
 		}
 		"test"
 		{
-			"buildid" "14945112"
+			"buildid" "16605625"
 			"description" "Beta"
-			"timeupdated" "1720198463"
+			"timeupdated" "1733171454"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26468389"
+"_sha" "b4337c9443a0b17f29fd51fdbf95a4e998e9c8d8"
+"_size" "6406"
