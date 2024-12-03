@@ -1,0 +1,243 @@
+"appid" "2501650"
+	"common"
+	{
+		"name" "Electrogical"
+		"type" "Game"
+		"icon" "ca8ec126f1bb37327065266ef052f6ba2e86d378"
+		"clienticon" "f044136d69d011a0d5af595f5e879c3df6097287"
+		"clienttga" "5fd3b1b6b3f1b2bbe9ab0e8ba5183fb4fb319d72"
+		"releasestate" "released"
+		"oslist" "windows"
+		"osarch" ""
+		"osextended" ""
+		"languages"
+		{
+			"english" "1"
+			"schinese" "1"
+			"tchinese" "1"
+			"japanese" "1"
+		}
+		"controllertagwizard" "1"
+		"small_capsule"
+		{
+			"english" "capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english" "header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule" "en"
+			"library_hero" "en"
+			"library_logo" "en"
+			"library_header" "en"
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english" "library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english" "library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english" "library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english" "library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english" "logo.png"
+				}
+				"image2x"
+				{
+					"english" "logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position" "BottomCenter"
+					"width_pct" "100"
+					"height_pct" "100"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english" "library_header.jpg"
+				}
+				"image2x"
+				{
+					"english" "library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime" "1728959329"
+		"associations"
+		{
+			"0"
+			{
+				"type" "developer"
+				"name" "kinjo"
+			}
+			"1"
+			{
+				"type" "publisher"
+				"name" "Phoenixx Inc."
+			}
+		}
+		"primary_genre" "23"
+		"genres"
+		{
+			"0" "23"
+			"1" "28"
+			"2" "2"
+			"3" "70"
+		}
+		"category"
+		{
+			"category_2" "1"
+			"category_25" "1"
+			"category_22" "1"
+			"category_23" "1"
+			"category_62" "1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported" "true"
+			}
+			"japanese"
+			{
+				"supported" "true"
+			}
+			"schinese"
+			{
+				"supported" "true"
+			}
+			"tchinese"
+			{
+				"supported" "true"
+			}
+		}
+		"steam_release_date" "1732201276"
+		"community_visible_stats" "1"
+		"community_hub_visible" "1"
+		"gameid" "2501650"
+		"store_tags"
+		{
+			"0" "1664"
+			"1" "3810"
+			"2" "5432"
+			"3" "4821"
+			"4" "5752"
+			"5" "1755"
+			"6" "1036"
+			"7" "9"
+			"8" "3871"
+			"9" "4726"
+			"10" "4791"
+			"11" "4115"
+			"12" "599"
+			"13" "597"
+			"14" "3964"
+			"15" "3942"
+			"16" "17894"
+			"17" "6129"
+			"18" "5154"
+			"19" "1719"
+		}
+	}
+	"extended"
+	{
+		"developer" "kinjo"
+		"publisher" "Phoenixx Inc."
+	}
+	"config"
+	{
+		"installdir" "electrogical"
+		"launch"
+		{
+			"0"
+			{
+				"executable" "Electrogical.exe"
+				"config"
+				{
+					"oslist" "windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2501651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid" "6750522218684544176"
+					"size" "200041193"
+					"download" "67604128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid" "9B219BE00AD5199170F65612B7610EC6"
+					"size" "0DFF31D661DEAE1EACE3E77897C364F3"
+					"download" "F552DD6E7E6A2F163AE27FC121511064"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid" "16479988"
+				"timeupdated" "1732165084"
+			}
+			"beta"
+			{
+				"buildid" "16479988"
+				"pwdrequired" "1"
+				"timeupdated" "1732152230"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota" "100000000"
+		"maxnumfiles" "1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root" "WinAppDataLocalLow"
+				"path" "Electrogical/Electrogical/SteamProduct/{64BitSteamID}/SaveData/"
+				"pattern" "*.es3"
+			}
+		}
+	}
