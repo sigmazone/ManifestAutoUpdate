@@ -282,8 +282,8 @@
 	{
 		"0" "1662"
 		"1" "1695"
-		"2" "4018"
-		"3" "7332"
+		"2" "7332"
+		"3" "4018"
 		"4" "3859"
 		"5" "1702"
 		"6" "3843"
@@ -294,9 +294,9 @@
 		"11" "3810"
 		"12" "3834"
 		"13" "128"
-		"14" "19"
+		"14" "4106"
 		"15" "4182"
-		"16" "4106"
+		"16" "19"
 		"17" "4604"
 		"18" "21"
 		"19" "1685"
@@ -332,15 +332,24 @@
 }
 "depots"
 {
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"1604031"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7397272266765920723"
-				"size" "8852356590"
-				"download" "4312166400"
+				"gid" "5697875840152111543"
+				"size" "8852295269"
+				"download" "4312268992"
 			}
 			"0.5.43954_hotfix13"
 			{
@@ -374,9 +383,9 @@
 			}
 			"public-test"
 			{
-				"gid" "7397272266765920723"
-				"size" "8852356590"
-				"download" "4312166400"
+				"gid" "5697875840152111543"
+				"size" "8852295269"
+				"download" "4312268992"
 			}
 		}
 		"encryptedmanifests"
@@ -419,9 +428,9 @@
 			}
 			"internal"
 			{
-				"gid" "E7DAF3EDB5F48A579CAFF5B27299FBAF"
-				"size" "EDA0002F4CF18A6CD460DB83A6CF2D16"
-				"download" "9882E7AE154DF82C97F01DEDA7E29ECD"
+				"gid" "DB6849681150D44BDE7D895F5F68B1B9"
+				"size" "D7DD0DECF4DC9E56193A7603C44DE98C"
+				"download" "308755E8ED611AC4D327548EEF32158A"
 			}
 			"internal2"
 			{
@@ -479,9 +488,9 @@
 			}
 			"trailer2"
 			{
-				"gid" "C37CA6A5A37474920A34EB9F23E3B61C"
-				"size" "DFABE1E0B2CF57569D98C17609DCA997"
-				"download" "D9ED8C4C717DC0BDE418A5D306FC648E"
+				"gid" "1B3678D7893149964C16CA4F2663DF2E"
+				"size" "BA160338556F0C4C36D3BF84FB02BC0A"
+				"download" "60B522B0148868F22405A12C66CF0D41"
 			}
 		}
 	}
@@ -491,8 +500,8 @@
 	{
 		"public"
 		{
-			"buildid" "16124878"
-			"timeupdated" "1729578113"
+			"buildid" "16549266"
+			"timeupdated" "1733222800"
 		}
 		"0.5.43954_hotfix13"
 		{
@@ -556,9 +565,9 @@
 		}
 		"internal"
 		{
-			"buildid" "16048011"
+			"buildid" "16549266"
 			"pwdrequired" "1"
-			"timeupdated" "1728977350"
+			"timeupdated" "1732695825"
 		}
 		"internal2"
 		{
@@ -598,9 +607,9 @@
 		}
 		"public-test"
 		{
-			"buildid" "16124878"
+			"buildid" "16549266"
 			"description" "Public test branch for V Rising client. Use at your own risk. Always backup your saves."
-			"timeupdated" "1729578067"
+			"timeupdated" "1733222701"
 		}
 		"qa01"
 		{
@@ -628,9 +637,9 @@
 		}
 		"trailer2"
 		{
-			"buildid" "16008531"
+			"buildid" "16170694"
 			"pwdrequired" "1"
-			"timeupdated" "1728646179"
+			"timeupdated" "1729801218"
 		}
 	}
 }
@@ -650,6 +659,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25841824"
-"_sha" "201e8b19334c7370961ddf1343264f11ac7cb8a3"
-"_size" "13305"
+"_change_number" "26468455"
+"_sha" "8837c97fb8993893a0bd4da701842b2d83596918"
+"_size" "13422"
