@@ -25,6 +25,55 @@
 		"japanese" "1"
 	}
 	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732665600"
+		"tested_build_id" "16493824"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -211,7 +260,7 @@
 		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -237,24 +286,18 @@
 		{
 			"public"
 			{
-				"gid" "4610984662169342293"
-				"size" "2694113176"
-				"download" "1092243136"
+				"gid" "5723712116998007"
+				"size" "2694591908"
+				"download" "1092294400"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"forcheck"
-			{
-				"gid" "6E26609A679F504F4A31E5305872292B"
-				"size" "6EC85C15F96EEBF9779DF622F155CB20"
-				"download" "DD7C751DE3EEF8820196342F39F40519"
-			}
 			"playism_test"
 			{
-				"gid" "D845285C43671C0DB3BB40ADC906A78D"
-				"size" "D0EFE854C282D9A19F33DF15CDF1AF8D"
-				"download" "7DD39C8168F935059BDB37FC4D4363B4"
+				"gid" "5CA268921B43FC0CA7F1D06706E3D2C0"
+				"size" "C5C600F6B50DBE23F2EED0A3FCF2F1A9"
+				"download" "AA77E4EFBAAC25A2AB9F63915F8F336D"
 			}
 			"review"
 			{
@@ -268,26 +311,50 @@
 				"size" "90D163E0AB0B900CCB2CCF0356C20D75"
 				"download" "4801DF14476158B91436B728522CD0EF"
 			}
+			"ver1.00"
+			{
+				"gid" "0B9FC46E4746BBEF9C58F119F9E02AED"
+				"size" "4A7504B14F3DCD6D29CB4ABCB1F80A02"
+				"download" "DBCEE01BE508ABE2804C8B5B12B4725C"
+			}
+			"ver1.01"
+			{
+				"gid" "9084FC6CC5C99A15BD055280F2D8FC16"
+				"size" "545F4BC728A49D7E31516767F6085FAF"
+				"download" "1C6FB5184325A183EA76356913552493"
+			}
+			"ver1.02"
+			{
+				"gid" "B74A06993AFC7139F142EE81365DEFFB"
+				"size" "90C38F403B6A9F97F58A0D046CD683CE"
+				"download" "CF935AE9890335353E5F0DA32049441A"
+			}
+			"ver1.03"
+			{
+				"gid" "34A2CCB626784D30E92CE89734F67A59"
+				"size" "B2382F6CCE1D3E783B17FB85EB6E00A1"
+				"download" "92A756D63C860CBCFEF9053517969BCE"
+			}
+			"ver1.04"
+			{
+				"gid" "35B57A5A71E13DD95B585ED107018A38"
+				"size" "B463C431D51A45AB9B8E7CB098BC1E2A"
+				"download" "E7C9FCC989C4203E919483CF2F3AFA9E"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16493824"
-			"timeupdated" "1732238645"
-		}
-		"forcheck"
-		{
-			"buildid" "15610056"
-			"pwdrequired" "1"
-			"timeupdated" "1732193141"
+			"buildid" "16610216"
+			"timeupdated" "1733212853"
 		}
 		"playism_test"
 		{
-			"buildid" "16493824"
+			"buildid" "16610216"
 			"pwdrequired" "1"
-			"timeupdated" "1732235679"
+			"timeupdated" "1733204221"
 		}
 		"review"
 		{
@@ -300,6 +367,36 @@
 			"buildid" "16215568"
 			"pwdrequired" "1"
 			"timeupdated" "1730173398"
+		}
+		"ver1.00"
+		{
+			"buildid" "16400478"
+			"pwdrequired" "1"
+			"timeupdated" "1732392179"
+		}
+		"ver1.01"
+		{
+			"buildid" "16472585"
+			"pwdrequired" "1"
+			"timeupdated" "1732392221"
+		}
+		"ver1.02"
+		{
+			"buildid" "16484870"
+			"pwdrequired" "1"
+			"timeupdated" "1732392195"
+		}
+		"ver1.03"
+		{
+			"buildid" "16493824"
+			"pwdrequired" "1"
+			"timeupdated" "1732392161"
+		}
+		"ver1.04"
+		{
+			"buildid" "16610216"
+			"pwdrequired" "1"
+			"timeupdated" "1733204213"
 		}
 	}
 }
@@ -323,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26330249"
-"_sha" "44bc852f61c36545e3c0045fb4b782a0e86fb033"
-"_size" "7175"
+"_change_number" "26465997"
+"_sha" "b3577c564cd391005c29e259870da3373760949a"
+"_size" "9496"
