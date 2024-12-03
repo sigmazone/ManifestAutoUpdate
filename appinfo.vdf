@@ -3,9 +3,9 @@
 {
 	"name" "Astro Looter: Survivor"
 	"type" "Game"
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"eulas"
 	{
 		"0"
@@ -314,6 +314,16 @@
 				"osarch" "64"
 			}
 		}
+		"1"
+		{
+			"executable" "TopDownGame-Mac-Shipping.app/Contents/MacOS/TopDownGame-Mac-Shipping"
+			"workingdir" "~/Library/Application\\ Support/Steam/steamapps/common/Astro\\ Looter/"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 	"steamdecktouchscreen" "1"
 	"steamconfigurator3rdpartynative" "2"
@@ -341,28 +351,63 @@
 	}
 	"2871931"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6273835819748850063"
-				"size" "2047351081"
-				"download" "1764344272"
+				"gid" "8674971982506555494"
+				"size" "2052799918"
+				"download" "1769940896"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "ECB1B9FF50A75A90175610CD75CB4E49"
-				"size" "52196016ECD655647D01C6CDFD8FF238"
-				"download" "2E0F966E1D36530C4A2D6F2BAF16A429"
+				"gid" "076178C2A5D30D563FADD426355C5ACC"
+				"size" "3B700B623B2F178B9D75B0BA65A5AAE1"
+				"download" "4DB30BBC9E90AD912510BF063435B4C0"
 			}
 			"internal"
 			{
-				"gid" "6BC2EC8EE976D0A808601A3177EA7D7D"
-				"size" "AF2008C6BA80A43BFF69550958F5B8FD"
-				"download" "D66E92C3AADFE047A13F2FC2A009AAD6"
+				"gid" "6F7FD53B3852520B5137D103CE1F6A37"
+				"size" "D0ACBB7EC36A314DA70F34B4A6825C3D"
+				"download" "7B4DDC63BFF9045B36E40F15FD0A86D2"
+			}
+		}
+	}
+	"2871932"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6750268474449581118"
+				"size" "2472450857"
+				"download" "1501799888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "B76565405E53BAD488DE85D6F6E83AFC"
+				"size" "205584E7DE57E2976D6306BF59C2529A"
+				"download" "1C50DEC93B51F257EA8AEA2A5732C959"
+			}
+			"internal"
+			{
+				"gid" "E2D19CBB563177CE2BA719C3F5E3016A"
+				"size" "C6243ED5DD125CCBBD6C1AE357EB92FC"
+				"download" "822E5B1B987D33AB1048DC46DA2D3849"
 			}
 		}
 	}
@@ -370,20 +415,20 @@
 	{
 		"public"
 		{
-			"buildid" "16512656"
-			"timeupdated" "1732396989"
+			"buildid" "16604472"
+			"timeupdated" "1733163728"
 		}
 		"beta"
 		{
-			"buildid" "16512656"
+			"buildid" "16604472"
 			"pwdrequired" "1"
-			"timeupdated" "1732397018"
+			"timeupdated" "1733163740"
 		}
 		"internal"
 		{
-			"buildid" "16512656"
+			"buildid" "16604472"
 			"pwdrequired" "1"
-			"timeupdated" "1732397012"
+			"timeupdated" "1733163757"
 		}
 	}
 }
@@ -401,6 +446,17 @@
 			"platforms"
 			{
 				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Epic/TopDownGame/Saved/SaveGames"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
 			}
 			"recursive" "1"
 		}
@@ -425,6 +481,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26333069"
-"_sha" "0d18c6e187970e8e2fa6a88396ce1f74f39bce7a"
-"_size" "7658"
+"_change_number" "26457303"
+"_sha" "16f3fcfa88512ea73838db8c2a09a4aaf5482078"
+"_size" "8762"
