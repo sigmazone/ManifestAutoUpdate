@@ -380,21 +380,21 @@
 		{
 			"public"
 			{
-				"gid" "7184899423176199646"
-				"size" "17847354101"
-				"download" "6388449104"
+				"gid" "759605926808137994"
+				"size" "17848401653"
+				"download" "6388555184"
+			}
+			"beta-branch"
+			{
+				"gid" "759605926808137994"
+				"size" "17848401653"
+				"download" "6388555184"
 			}
 			"fallback"
 			{
 				"gid" "3643762215096496017"
 				"size" "14673721236"
 				"download" "5170368608"
-			}
-			"beta-branch"
-			{
-				"gid" "7184899423176199646"
-				"size" "17847354101"
-				"download" "6388449104"
 			}
 		}
 		"encryptedmanifests"
@@ -455,21 +455,27 @@
 			}
 			"arbys-funhouse"
 			{
-				"gid" "72FA94D4D0DE37E69F2A8F6395203DDF"
-				"size" "7E78CF06B04BC45ECB75A56FA0817877"
-				"download" "E6BFE4E740726ECD8E5AA3D3BDE8095A"
+				"gid" "027B57A47A2C0E992FA3709A81CB7394"
+				"size" "0122761C1297FEC76B8CDCF6140D5ADB"
+				"download" "7D80124F4FF3E3983337AA9F01AF691E"
+			}
+			"dev-beta-testing"
+			{
+				"gid" "2BCFA506227E5FB84D0B935FF27D9E75"
+				"size" "2DC20D5CAC214412A62B49B18A19E5DA"
+				"download" "175E3B7886703BF400685C320EF9C2C5"
 			}
 			"dev-internal-qa"
 			{
-				"gid" "D89FA8089E8F68374FA73FE62BF8BC09"
-				"size" "7A0CDD0B96BF1412054D490A8486C9D4"
-				"download" "E5EE16F7062E9F2E6D07C70E742226EC"
+				"gid" "E37B6A6BF01846EDE8633474E5CE9C85"
+				"size" "6327E968A9738AB051AC6FB457FA705F"
+				"download" "DF4CD2B5F705D25DDC393606B58A1451"
 			}
 			"ggg-internal"
 			{
-				"gid" "F2406ED0D7151184A6634EC3253C126C"
-				"size" "BD09E3556B8FB824F9995FF49C5404A2"
-				"download" "8C4681D526E02BE503E9870EA30CE2FC"
+				"gid" "1C41E1D078792C58CC54AF6C59B4E914"
+				"size" "8CE9A57414F06F0514F9AEB5ED3F600E"
+				"download" "644E0AB003B925CB42B6A22603E342C8"
 			}
 		}
 	}
@@ -504,6 +510,12 @@
 				"size" "037D5773468D92A71973537807C80F20"
 				"download" "F0D5190241E1241B973E79860995648C"
 			}
+			"dev-beta-testing"
+			{
+				"gid" "582A6E54F2FD98208745C39F62EFE392"
+				"size" "6C456782744770F7E778D4BACB1A0CBF"
+				"download" "E6B15D792B1CB455F10B2EA4FD5AE9A2"
+			}
 			"dev-internal-qa"
 			{
 				"gid" "FBDECA7E9C10D4A55A14FD252C98BB3B"
@@ -522,8 +534,8 @@
 	{
 		"public"
 		{
-			"buildid" "16593750"
-			"timeupdated" "1733076043"
+			"buildid" "16609486"
+			"timeupdated" "1733206685"
 		}
 		"beta-opti"
 		{
@@ -555,12 +567,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1606464497"
 		}
-		"fallback"
-		{
-			"buildid" "5930576"
-			"description" "Fallback Branch For Legacy Builds [1.0.4C]"
-			"timeupdated" "1607745814"
-		}
 		"hb_internal"
 		{
 			"buildid" "5702038"
@@ -587,27 +593,39 @@
 		}
 		"arbys-funhouse"
 		{
-			"buildid" "16593750"
+			"buildid" "16609486"
 			"pwdrequired" "1"
-			"timeupdated" "1733072248"
+			"timeupdated" "1733197939"
 		}
 		"beta-branch"
 		{
-			"buildid" "16593750"
+			"buildid" "16609486"
 			"description" "Public Beta Branch For Testing"
-			"timeupdated" "1733076107"
+			"timeupdated" "1733206564"
+		}
+		"dev-beta-testing"
+		{
+			"buildid" "16609486"
+			"pwdrequired" "1"
+			"timeupdated" "1733201469"
 		}
 		"dev-internal-qa"
 		{
-			"buildid" "16593750"
+			"buildid" "16609486"
 			"pwdrequired" "1"
-			"timeupdated" "1733072330"
+			"timeupdated" "1733198142"
+		}
+		"fallback"
+		{
+			"buildid" "5930576"
+			"description" "Legacy Build [1.0.4C] [NOT COMPATIBLE WITH F59]"
+			"timeupdated" "1607745814"
 		}
 		"ggg-internal"
 		{
-			"buildid" "16593750"
+			"buildid" "16609486"
 			"pwdrequired" "1"
-			"timeupdated" "1733072344"
+			"timeupdated" "1733206578"
 		}
 	}
 }
@@ -631,6 +649,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26443672"
-"_sha" "30bc82095db82269ff1200a16ae328d97a0ca75f"
-"_size" "12186"
+"_change_number" "26464927"
+"_sha" "01a144790fadd7c6c902f7344460045dadeb0c5e"
+"_size" "12666"
