@@ -1,0 +1,354 @@
+"appid" "1264710"
+"common"
+{
+	"name" "Love and Sex: Second Base"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "e029243adbcf9082e6c9bc1bafc274350c682e75"
+	"logo_small" "e029243adbcf9082e6c9bc1bafc274350c682e75_thumb"
+	"icon" "c568ef276ace53b46456ffe45757862009404109"
+	"clienticon" "2464cd45168bd04605839d1c90e012662dce404e"
+	"clienttga" "4a9b08fb03bf34ce9df0b399a212d75dbe502e3e"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "3"
+		"3" "4"
+		"4" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1728604800"
+		"tested_build_id" "15590929"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.11606313341416"
+			"height_pct" "48.10785241248817"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.11606313341416"
+				"height_pct" "48.10785241248817"
+			}
+		}
+	}
+	"store_asset_mtime" "1685448822"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Andrealphus Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Andrealphus Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Love and Sex"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689591720"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1264710"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "24904"
+		"3" "9551"
+		"4" "597"
+		"5" "9130"
+		"6" "5611"
+		"7" "3799"
+		"8" "599"
+		"9" "1742"
+		"10" "4667"
+		"11" "4085"
+		"12" "4345"
+		"13" "4486"
+		"14" "4947"
+		"15" "3871"
+		"16" "9204"
+		"17" "113"
+		"18" "31275"
+		"19" "1719"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Andrealphus Games"
+	"publisher" "Andrealphus Games"
+	"homepage" "https://www.andrealphusgames.com/games/love_and_sex-second_base"
+	"listofdlc" "2225950,2257530,2945780"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Love & Sex Second Base"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LoSeSb.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "LoSeSb.sh"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"5"
+		{
+			"executable" "LoSeSb.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"6"
+		{
+			"executable" "LoSeSb-32.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1264711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1283926143682443791"
+				"size" "1590771827"
+				"download" "1331942704"
+			}
+			"beta"
+			{
+				"gid" "1283926143682443791"
+				"size" "1590771827"
+				"download" "1331942704"
+			}
+		}
+	}
+	"2257530"
+	{
+		"dlcappid" "2257530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4507839528174525784"
+				"size" "24841446"
+				"download" "24662544"
+			}
+			"beta"
+			{
+				"gid" "4507839528174525784"
+				"size" "24841446"
+				"download" "24662544"
+			}
+		}
+	}
+	"2225950"
+	{
+		"dlcappid" "2225950"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8011872188713346044"
+				"size" "84660084"
+				"download" "77966928"
+			}
+			"beta"
+			{
+				"gid" "8011872188713346044"
+				"size" "84660084"
+				"download" "77966928"
+			}
+		}
+	}
+	"2945780"
+	{
+		"dlcappid" "2945780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7775384746067413546"
+				"size" "68552386"
+				"download" "60051520"
+			}
+			"beta"
+			{
+				"gid" "7775384746067413546"
+				"size" "68552386"
+				"download" "60051520"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16577061"
+			"timeupdated" "1733123632"
+		}
+		"beta"
+		{
+			"buildid" "16577061"
+			"description" "beta"
+			"timeupdated" "1732875358"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "persistent"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26448669"
+"_sha" "65c91184838ea927fc151275b91e17586200ff49"
+"_size" "5891"
