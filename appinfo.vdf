@@ -1,0 +1,262 @@
+"appid" "1851490"
+"common"
+{
+	"name" "Project F4E Playtest"
+	"type" "Beta"
+	"parent" "306910"
+	"releasestate" "released"
+	"logo" "dfee841e960c12d8b669580546875deae11d6ec8"
+	"logo_small" "dfee841e960c12d8b669580546875deae11d6ec8_thumb"
+	"icon" "80ebd3737ddca3613a438f3b6cf8a0259e9742f2"
+	"clienttga" "40a80c280e5415004f14afc4bf6d03cf5265b3f1"
+	"clienticon" "5b40bae4d367303559e427abd49da6a7467cc905"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.0232558139535"
+			"height_pct" "67.8579909760152"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.0232558139535"
+				"height_pct" "67.8579909760152"
+			}
+		}
+	}
+	"store_asset_mtime" "1647435628"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+	}
+	"steam_release_date" "1644400080"
+	"community_hub_visible" "1"
+	"gameid" "1851490"
+	"exfgls" "9"
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"betaforappid" "306910"
+}
+"config"
+{
+	"installdir" "Project F4E Playtest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ProjectF4E.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "ProjectF4E.exe"
+			}
+			"description" "ProjectF4E.exe"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1851491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3745172016195736135"
+				"size" "9104557098"
+				"download" "2741270880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cgi_trailer"
+			{
+				"gid" "490F68687AB53DF8859A133A17F544E2"
+				"size" "AE952784403D6D8D538CE3F1350C67BE"
+				"download" "1D5FC78FD866C03CD15A31FC4676C04A"
+			}
+			"adhoc"
+			{
+				"gid" "9D40C0B4EADB848D5733520470351DB9"
+				"size" "F636E63BCD92666DA4D6E9FABF736DF9"
+				"download" "931371E015F85FC712D5B4C943EB620C"
+			}
+			"external-2"
+			{
+				"gid" "32675BEBA21B1574E8CDF29BDD9756CC"
+				"size" "164B860B692E66533862958E8559A395"
+				"download" "C96B7704B5AE78C5834F7817979418C7"
+			}
+			"playtest"
+			{
+				"gid" "1FB991D6553BDF76FF066C0875C8B679"
+				"size" "36A9D94A51552FF652D3C7AB8E87AEBE"
+				"download" "D9806DF50AFF78FD58483973D5EA0089"
+			}
+			"playtest_external1"
+			{
+				"gid" "73B0FEA53EC7D7E72DD0878990D64CD2"
+				"size" "905C04C57955FC84A4E8C8843653790A"
+				"download" "A4B2B88C02136FB1F30CF8FC28011686"
+			}
+			"playtest_external2"
+			{
+				"gid" "A7B830DD4736D4D2BD4B54BA05C1DAF7"
+				"size" "3ED2D8FFD51A5327D884C33D50E48D34"
+				"download" "9507CD85E40C5044C5BF9DB02B1C6911"
+			}
+			"playtest_external3"
+			{
+				"gid" "F68717A61175A6423D002A664A53EB8A"
+				"size" "8F5A99318FFBE6338868FB3BCDAC75A8"
+				"download" "8CF76B52EC50B9D6EC990AAFF8CFC209"
+			}
+			"release_candidate"
+			{
+				"gid" "1EBE21A77CD80ACF91CD09EF792A6E4F"
+				"size" "2E8F6D0A6DB90F24259D580FE7F55257"
+				"download" "8FD05C11C191A217D8754BEC9B323846"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16612780"
+			"timeupdated" "1733220772"
+		}
+		"cgi_trailer"
+		{
+			"buildid" "11377747"
+			"pwdrequired" "1"
+			"timeupdated" "1685692520"
+		}
+		"adhoc"
+		{
+			"buildid" "16612780"
+			"pwdrequired" "1"
+			"timeupdated" "1733220322"
+		}
+		"external-2"
+		{
+			"buildid" "16612225"
+			"pwdrequired" "1"
+			"timeupdated" "1733219963"
+		}
+		"playtest"
+		{
+			"buildid" "16049804"
+			"pwdrequired" "1"
+			"timeupdated" "1728986335"
+		}
+		"playtest_external1"
+		{
+			"buildid" "16567038"
+			"pwdrequired" "1"
+			"timeupdated" "1732802092"
+		}
+		"playtest_external2"
+		{
+			"buildid" "16251746"
+			"pwdrequired" "1"
+			"timeupdated" "1730380760"
+		}
+		"playtest_external3"
+		{
+			"buildid" "16251746"
+			"pwdrequired" "1"
+			"timeupdated" "1730379652"
+		}
+		"release_candidate"
+		{
+			"buildid" "16612780"
+			"pwdrequired" "1"
+			"timeupdated" "1733221159"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26468040"
+"_sha" "09abbcbf22acbd8bcfff5b417768d13fd716ddc7"
+"_size" "5016"
