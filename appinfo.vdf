@@ -173,6 +173,8 @@
 		"category_23" "1"
 		"category_55" "1"
 		"category_57" "1"
+		"category_25" "1"
+		"category_44" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -222,13 +224,13 @@
 		"18" "7208"
 		"19" "4234"
 	}
-	"review_score" "8"
+	"review_score" "9"
 	"review_percentage" "98"
 }
 "extended"
 {
 	"absolutemousecoordinates" "0"
-	"remoteplaytogethertestingbranches" "develop,release.2.0.0"
+	"remoteplaytogethertestingbranches" "default,check,develop,release,release.2.0.0"
 	"developer" "BeXide Inc."
 	"publisher" "holo Indie"
 	"listofdlc" "3157450"
@@ -272,30 +274,30 @@
 		{
 			"public"
 			{
-				"gid" "6286234077456184704"
-				"size" "617089660"
-				"download" "462714400"
+				"gid" "179412601444059043"
+				"size" "896920779"
+				"download" "521625536"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"check"
 			{
-				"gid" "6ECBE4FB410CD37082E33CD59D3B0225"
-				"size" "06CB92B32E35C99737D17C721C8CD7E4"
-				"download" "0B69247587EC7AE6B6ACCB2637F88646"
+				"gid" "C34F3A352F4E7562E27D5CBBD4763BC9"
+				"size" "1413E977896BE3C40E4E6FFFF9EAE708"
+				"download" "4BCD71140DD53B70E311E472A0E1BE2D"
 			}
 			"develop"
 			{
-				"gid" "A8D62538F9A30BE2EDE5B7A02BDC8AF5"
-				"size" "561673F232BD6CCE1772A56BD7A8D4F9"
-				"download" "51AD08A048C490DD18F5366007BF6F96"
+				"gid" "6FFFA2B9D4D6D95E075CC766CF06BE62"
+				"size" "4365393C4ED6192AE4EDA5D7D2C0A926"
+				"download" "E2D828C67B9660654C9DBECF8A0B6443"
 			}
 			"release"
 			{
-				"gid" "8DC4E9E256F4C237CF5F16F3A417142B"
-				"size" "151A08D45BCFEC9F0BA9C7401606D085"
-				"download" "247871CDA3938AF6C195503FB4331000"
+				"gid" "346F058E80C7075CE5609A55743E6F1D"
+				"size" "44F1CAC1EF6B75FA516E6092993FA808"
+				"download" "38840A01DF849A63997122AC6E7188BE"
 			}
 			"release.1.0.0"
 			{
@@ -311,9 +313,9 @@
 			}
 			"release.2.0.0"
 			{
-				"gid" "25779FC5C36D9FE64E403EFCF923079C"
-				"size" "5F2BB87C8C80813D9DEDD5BB1D7283DF"
-				"download" "404BDA2DDFF3E4F3BB0CF5FAFB400822"
+				"gid" "E18EFBC32B16BD8B922583EA92CF789C"
+				"size" "2E1748BF69DF82263943E5BE345FEC9B"
+				"download" "9A8F5F5CDEF9C7224A07ED205137F3B0"
 			}
 			"test"
 			{
@@ -340,30 +342,30 @@
 		{
 			"public"
 			{
-				"gid" "8306625941129458432"
-				"size" "786620755"
-				"download" "493041632"
+				"gid" "7710925347946362975"
+				"size" "1069186445"
+				"download" "552339008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"check"
 			{
-				"gid" "CBB446FD1C51CA66DED26DA4FE06CD0D"
-				"size" "E75040C3E6CE5833AF3864CCED8E11E3"
-				"download" "C2FD7C4FB895262FBEBD0F00905C4EB4"
+				"gid" "A4F8C6317444D6BCCACF33C63E75819F"
+				"size" "7C8F2743039514761A063A055CFD801B"
+				"download" "EDC1DAFD92CFB35BD2777804A8722F45"
 			}
 			"develop"
 			{
-				"gid" "DF40A74235E93A1E8E8D4FE8B039BE5F"
-				"size" "86F6D1F95E727CB6B86A8B211BDDF780"
-				"download" "513A00999096B221EE3956069D1FEBA7"
+				"gid" "90A6023D5E0410D5ED8631DDC3ED8238"
+				"size" "FD5E8095628D66BB4E5A722308A375E7"
+				"download" "D58968C4483C697DD070A968B7E87F3F"
 			}
 			"release"
 			{
-				"gid" "F831A3F0F30B383CB580B82E986EFED7"
-				"size" "101AB5DD4EB8D3D12CFF998E4BD10D16"
-				"download" "9A345839A8DF0759AC81073FEF21800E"
+				"gid" "F1B26CFFB4BFCDE2F924B395C8E79968"
+				"size" "468A022EF595D6B4899C08CF34EAA249"
+				"download" "96A9C95CEE74C537EABAF7F6B4E68251"
 			}
 			"release.1.0.0"
 			{
@@ -379,9 +381,9 @@
 			}
 			"release.2.0.0"
 			{
-				"gid" "599DEC7541E6A49D9FD4C39BA75C186F"
-				"size" "11FB625F856EE8CF196804A213D54FEA"
-				"download" "6862396E59AFC8CDD46DAACE41020B78"
+				"gid" "55F421C3256943A2C39AF6DD427306D1"
+				"size" "E35102428F878FE1F6DF93E456493903"
+				"download" "281D730068DFC0B932429BAD7810ABB6"
 			}
 			"test"
 			{
@@ -401,26 +403,26 @@
 	{
 		"public"
 		{
-			"buildid" "16549233"
-			"timeupdated" "1732764586"
+			"buildid" "16599153"
+			"timeupdated" "1733196731"
 		}
 		"check"
 		{
-			"buildid" "16230613"
+			"buildid" "16599153"
 			"pwdrequired" "1"
-			"timeupdated" "1730957715"
+			"timeupdated" "1733197826"
 		}
 		"develop"
 		{
-			"buildid" "16563304"
+			"buildid" "16605391"
 			"pwdrequired" "1"
-			"timeupdated" "1732782677"
+			"timeupdated" "1733169492"
 		}
 		"release"
 		{
-			"buildid" "16549233"
+			"buildid" "16599153"
 			"pwdrequired" "1"
-			"timeupdated" "1732695410"
+			"timeupdated" "1733197867"
 		}
 		"release.1.0.0"
 		{
@@ -436,9 +438,9 @@
 		}
 		"release.2.0.0"
 		{
-			"buildid" "16557751"
+			"buildid" "16599153"
 			"pwdrequired" "1"
-			"timeupdated" "1732740231"
+			"timeupdated" "1733134227"
 		}
 		"test"
 		{
@@ -469,6 +471,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26401795"
-"_sha" "37e04c94623599640d8bb8dd81235d4a157753a2"
-"_size" "9415"
+"_change_number" "26471365"
+"_sha" "5d1d90c0c37927124db0866c0b78ae19f35cf3f0"
+"_size" "9481"
