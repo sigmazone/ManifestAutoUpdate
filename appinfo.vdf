@@ -327,8 +327,8 @@
 		"18" "4305"
 		"19" "1721"
 	}
-	"review_score" "4"
-	"review_percentage" "36"
+	"review_score" "5"
+	"review_percentage" "43"
 }
 "extended"
 {
@@ -359,7 +359,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "poitoudonkey, pottok, quarter, qa_ms_m, neotech, percheron, ms_patch_m, brumby"
+				"betakey" "poitoudonkey, pottok, quarter, qa_ms_m, percheron, ms_patch_m, brumby, shire"
 			}
 			"description_loc"
 			{
@@ -388,18 +388,18 @@
 		{
 			"public"
 			{
-				"gid" "6044877383144630655"
-				"size" "12515714882"
-				"download" "8626670400"
+				"gid" "2102315116233036546"
+				"size" "12539801701"
+				"download" "8651097616"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"ms_cert_s"
+			"shire"
 			{
-				"gid" "418231151FA4AE4B100FACDFB55BCF74"
-				"size" "77F2332E85DAD02DB5A9DABFDF9FEB2E"
-				"download" "F6693B3333D089D64A61E3A7F8F17FE0"
+				"gid" "66CAB8D76C375A499275928DCCC441BB"
+				"size" "3A9F48532364CFC6C0EB093299BE8A03"
+				"download" "96183AF3BEDACB4C685D32CFE4B785F1"
 			}
 			"ms_patch_m"
 			{
@@ -415,9 +415,9 @@
 			}
 			"poitoudonkey"
 			{
-				"gid" "6925D75D83D989A8A30AFAC3F1CD7F88"
-				"size" "A1AB06F33956C42F9074B441F8DB8ABA"
-				"download" "C7D87F98BF55850491C0E54F6FFAB38A"
+				"gid" "C2D3FA392AE02A746FD330EEFD6F6A0B"
+				"size" "B730B842227EEC821B3173254FC44BC3"
+				"download" "DD1218595640438A79226F107CAA64EA"
 			}
 			"mustang_nd"
 			{
@@ -445,15 +445,15 @@
 			}
 			"percheron"
 			{
-				"gid" "40C041692252FED97B4FD50029E8A7E2"
-				"size" "E86CE567C5419E784FF0F70E73DB9A56"
-				"download" "213285561E886A5BFEA677804E27B915"
+				"gid" "FC85DCC790F2D78E25262896A74F0E7A"
+				"size" "954A159DCEBD0E27497A7108D9394DCA"
+				"download" "FFBA1121FFAA374981B9D59852F44F51"
 			}
 			"andalusian"
 			{
-				"gid" "C9980807A5BAF1BADB6F4995B929BAB4"
-				"size" "F420FE4EC91369F0F569BB7A535FF1E7"
-				"download" "A3D9719A6D11A5609B8E776BD19733B3"
+				"gid" "A2F5B28B1132B451956D26CC0D3587AF"
+				"size" "13E566B4D9061969355FEF550B4C77C1"
+				"download" "9DA9AF8867C28D7BB2A9EA60B56E7ECA"
 			}
 			"pottok"
 			{
@@ -467,23 +467,17 @@
 				"size" "91044489780CEB34BFFFA41796310CA1"
 				"download" "A8BB16690CC42942501106134BE99DF4"
 			}
-			"brumby"
-			{
-				"gid" "3A6DBC30636727C5A319C61562D45942"
-				"size" "D1186CED9EC64814EF1D14263784CC49"
-				"download" "F55DA45E214FA16C567DC117A560B292"
-			}
 			"qa_ms_s"
 			{
-				"gid" "55C8C2748A84FDD4B742CAED16B173CD"
-				"size" "39030E9EFE7D1F9AEBDA59185410F0AC"
-				"download" "E870EDC1683F2C5F8EBD911DF6058258"
+				"gid" "6E3897FFC936C9E6EDF5EB43B6E90A76"
+				"size" "67B27D98DD9790B3578B330E6B17D23C"
+				"download" "13BC4B8B3DA421C34E7268E88E04DCDA"
 			}
 			"qa_ms_m"
 			{
-				"gid" "BC65BC7A893F9CF141699A55043C69E1"
-				"size" "16BA6A72458238664BBE3E859B7BCA5E"
-				"download" "0F5CB3EA1E46AC42235A47E42E307106"
+				"gid" "70547278B502C261E99D1901294F9D81"
+				"size" "AF9047CC3C4014572467CE368397199D"
+				"download" "B6F93419F0C112CE5FD7142E35D4F13C"
 			}
 			"qa_ms_ur"
 			{
@@ -503,6 +497,12 @@
 				"size" "26E2B22165010012FD04FE648D383F60"
 				"download" "8862D92E69640274BF9A0F355774ABFD"
 			}
+			"brumby"
+			{
+				"gid" "B53454B037059977DCFEE86B6C8B2A95"
+				"size" "3C19D27A47C8617FE2156EC41F8A08DB"
+				"download" "C54C62447DBBEBDC5D67BF2DC3891D02"
+			}
 		}
 	}
 	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,turkish,brazilian,latam"
@@ -510,14 +510,14 @@
 	{
 		"public"
 		{
-			"buildid" "16474398"
-			"timeupdated" "1732309315"
+			"buildid" "16500827"
+			"timeupdated" "1733166293"
 		}
-		"ms_cert_s"
+		"shire"
 		{
-			"buildid" "16223674"
+			"buildid" "16537769"
 			"pwdrequired" "1"
-			"timeupdated" "1730225854"
+			"timeupdated" "1732635846"
 		}
 		"ms_patch_m"
 		{
@@ -533,9 +533,9 @@
 		}
 		"poitoudonkey"
 		{
-			"buildid" "16474840"
+			"buildid" "16571486"
 			"pwdrequired" "1"
-			"timeupdated" "1732290101"
+			"timeupdated" "1732872068"
 		}
 		"mustang_nd"
 		{
@@ -563,15 +563,15 @@
 		}
 		"percheron"
 		{
-			"buildid" "16487262"
+			"buildid" "16571486"
 			"pwdrequired" "1"
-			"timeupdated" "1732197943"
+			"timeupdated" "1732872974"
 		}
 		"andalusian"
 		{
-			"buildid" "16487943"
+			"buildid" "16571743"
 			"pwdrequired" "1"
-			"timeupdated" "1732202714"
+			"timeupdated" "1732872987"
 		}
 		"pottok"
 		{
@@ -585,23 +585,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1732285559"
 		}
-		"brumby"
-		{
-			"buildid" "16431273"
-			"pwdrequired" "1"
-			"timeupdated" "1732194075"
-		}
 		"qa_ms_s"
 		{
-			"buildid" "16487943"
+			"buildid" "16571743"
 			"pwdrequired" "1"
-			"timeupdated" "1732207422"
+			"timeupdated" "1732899076"
 		}
 		"qa_ms_m"
 		{
-			"buildid" "16487262"
+			"buildid" "16571486"
 			"pwdrequired" "1"
-			"timeupdated" "1732207358"
+			"timeupdated" "1732899047"
 		}
 		"qa_ms_ur"
 		{
@@ -621,6 +615,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1732293348"
 		}
+		"brumby"
+		{
+			"buildid" "16474840"
+			"pwdrequired" "1"
+			"timeupdated" "1732525992"
+		}
 	}
 }
 "ufs"
@@ -629,6 +629,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "26334464"
-"_sha" "c3f1b9de3562c3e711a547b2e5801809c6f5e20f"
-"_size" "12723"
+"_change_number" "26457816"
+"_sha" "712526f43b1aa56efc5df2994d2084dbce593a5b"
+"_size" "12713"
