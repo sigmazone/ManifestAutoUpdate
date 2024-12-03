@@ -260,8 +260,8 @@
 		"3" "1664"
 		"4" "9"
 		"5" "1654"
-		"6" "597"
-		"7" "4328"
+		"6" "4328"
+		"7" "597"
 		"8" "1717"
 		"9" "5125"
 		"10" "4172"
@@ -276,7 +276,7 @@
 		"19" "5851"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -298,6 +298,14 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "TerraScape.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 }
 "depots"
@@ -313,24 +321,24 @@
 		{
 			"public"
 			{
-				"gid" "6763032672409446511"
-				"size" "1751812848"
-				"download" "1470370144"
+				"gid" "418755302737084777"
+				"size" "1796566646"
+				"download" "1509075904"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "7DE12DC690DFFBBADCC5B52B39919EB7"
-				"size" "4062AB25846B41434B0953FD9851B3B7"
-				"download" "BAB2675096A08134B672FE6542C2AC73"
+				"gid" "14B799E61A6B86045066DF7054D908EB"
+				"size" "212279A1EC7FDB65D4D4EDFA38A9184A"
+				"download" "0C12292961FE4107890C3AA0125E03CE"
 			}
 			"testing-external"
 			{
-				"gid" "B4CFF8E5FCB3192937389757F30B41DE"
-				"size" "9BFCA1F3BD95450C123DCC5782AF2036"
-				"download" "A78C61483827CD8368C7546CCBEBE3CF"
+				"gid" "EB9784DA9D8DE7374D36004D56DF0A33"
+				"size" "5E00F811EC9A3CEE2E70E8BB12F051EE"
+				"download" "282162FEBB7F60D3DD3F923517527414"
 			}
 			"video-production"
 			{
@@ -340,24 +348,56 @@
 			}
 		}
 	}
+	"2290002"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7312911883565727710"
+				"size" "545302402"
+				"download" "359790112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "7F8515FE0E01FEDD084E7511688DBB9D"
+				"size" "FBCF5A7138AC8E03F3181309360610D4"
+				"download" "72FCA4824C472BEEDCB15ED2022490F8"
+			}
+			"testing-external"
+			{
+				"gid" "437F801906C2363CD0DAA649B13AC1AE"
+				"size" "47489EA3EC0D0E104F21AA2D222CB8C0"
+				"download" "CECEA5AED011D6712757805FB41AEE7C"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16302850"
-			"timeupdated" "1730822486"
+			"buildid" "16571396"
+			"timeupdated" "1732827602"
 		}
 		"testing"
 		{
-			"buildid" "16302850"
+			"buildid" "16615229"
 			"pwdrequired" "1"
-			"timeupdated" "1730821106"
+			"timeupdated" "1733232928"
 		}
 		"testing-external"
 		{
-			"buildid" "16302850"
+			"buildid" "16567477"
 			"pwdrequired" "1"
-			"timeupdated" "1730822464"
+			"timeupdated" "1732804025"
 		}
 		"video-production"
 		{
@@ -370,7 +410,7 @@
 "ufs"
 {
 	"quota" "1000000000"
-	"maxnumfiles" "200"
+	"maxnumfiles" "250"
 	"savefiles"
 	{
 		"0"
@@ -383,6 +423,12 @@
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "Bitfall Studios/TerraScape/saves"
+			"pattern" "*.save"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Bitfall Studios/TerraScape/savesMP"
 			"pattern" "*.save"
 		}
 	}
@@ -421,6 +467,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26057547"
-"_sha" "59d3ee14fc21400a8f69e5bf4cb4bbe6ed780cf0"
-"_size" "7598"
+"_change_number" "26470859"
+"_sha" "fb2b0bdc1d852e1fb281782722c630d64caaca0f"
+"_size" "8430"
