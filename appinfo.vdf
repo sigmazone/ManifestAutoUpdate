@@ -89,7 +89,45 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1679322344"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "80.95427980898009"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1727096985"
 	"associations"
 	{
 		"0"
@@ -266,6 +304,23 @@
 			}
 			"description" "Liftoff (Vulkan rendering)"
 		}
+		"10"
+		{
+			"executable" "Liftoff.exe"
+			"arguments" "-force-d3d12"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "alphatesting"
+			}
+			"description_loc"
+			{
+				"english" "Liftoff (DirectX 12 rendering)"
+			}
+			"description" "Liftoff (DirectX 12 rendering)"
+		}
 	}
 }
 "depots"
@@ -283,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "8015724923651049271"
-				"size" "18286341355"
-				"download" "14039208992"
+				"gid" "6391716325881659066"
+				"size" "18517978638"
+				"download" "14414294640"
 			}
 			"liftoff_1.2.11"
 			{
@@ -308,29 +363,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"betatesting"
-			{
-				"gid" "92F782644A5CEB075FE0B6BF0AE95C36"
-				"size" "7881B90253EDEAD8FE14E0EBC4BAB182"
-				"download" "06915C1C14C4B2B13FFF71937CBFEE33"
-			}
 			"iudro"
 			{
 				"gid" "40BCE024D6CEDF62E6EB9A0966356048"
 				"size" "2A8258949DB9D722B6857DB6F791A4A2"
 				"download" "109380A8EEA5706694B2E6FBB1282834"
-			}
-			"languagetesting"
-			{
-				"gid" "77A98A4B0DDD428A999592F9E4B8F105"
-				"size" "227B62E805871B751780F3D95B29AF07"
-				"download" "F9BEBE640B5945A2D15790F16C869F42"
-			}
-			"liftoff_delta"
-			{
-				"gid" "51D5BE7BBE5AF63A01F84A5D2DA1825E"
-				"size" "131CF5541EC6C2A5566C1296DEBF4651"
-				"download" "99FD432F74938C806650533D1E6229F8"
 			}
 			"liftoff_research"
 			{
@@ -346,9 +383,15 @@
 			}
 			"alphatesting"
 			{
-				"gid" "BBFF1B324D1BF7301464B210B684BA94"
-				"size" "9F55109FF189865BC3B0D7E97A833447"
-				"download" "3548667DA1D2704699FAA596AB375A4D"
+				"gid" "BF4A255EA306A415546F55D5139972BC"
+				"size" "6AEF87AD96E6F4D6166E82C399C77FBA"
+				"download" "1CC503BC47AC854B6DB43C08D0272A09"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "7F319D01B6CABAF5871BDD2FDFDBB7DD"
+				"size" "C4A3120D80F736E70176D14E03831ECE"
+				"download" "509DADD5AFD50A12FEDAB034000763BB"
 			}
 		}
 	}
@@ -362,9 +405,9 @@
 		{
 			"public"
 			{
-				"gid" "4752452657585228691"
-				"size" "17708475467"
-				"download" "13681637952"
+				"gid" "1589846888905284111"
+				"size" "18040115421"
+				"download" "14109365888"
 			}
 			"liftoff_1.2.11"
 			{
@@ -387,29 +430,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"betatesting"
-			{
-				"gid" "ED921394765BE40FE3E5B8D2BF4982CE"
-				"size" "85C03540F179C287DB68D653C047083D"
-				"download" "7FA204719D5352820377043ADA826095"
-			}
 			"iudro"
 			{
 				"gid" "0C3FC6B56C3A5DFCE247F50E719C418D"
 				"size" "3009B1C201E94A279DC8C61263690520"
 				"download" "7257B71A611B122449392FEBF3262600"
-			}
-			"languagetesting"
-			{
-				"gid" "5619C7628F66D00BA27235FA3AC158C2"
-				"size" "C64816B2C2CBFCF77157C727000FEDA7"
-				"download" "5B9A47DCD409BC91A27DF2D442D9442D"
-			}
-			"liftoff_delta"
-			{
-				"gid" "876CA774D03724C7172437EA1CC15B0F"
-				"size" "A44C23A1CDCD377BF105B7527A7C139F"
-				"download" "F8B456731E9FA525A78A97F2E5719734"
 			}
 			"liftoff_research"
 			{
@@ -425,9 +450,15 @@
 			}
 			"alphatesting"
 			{
-				"gid" "D5C793923F4E328CA5FE27B4610A07C9"
-				"size" "85F27B555C2030BC60768682F254BD39"
-				"download" "4B9EA766EB38F7152E0CD04BBBD8BF90"
+				"gid" "B8C402A0C48A6D9BD1F1715AF355851B"
+				"size" "65BEF39DD8CC330338F099C36FD92D11"
+				"download" "17F3A07F160F8B31DFB75214A973BC4A"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "84598B9990BD41FBEE603CD1474DCA40"
+				"size" "DFA7CA66F5A499BAA0E5CD90E5BC7A29"
+				"download" "93E76373CB9DA132A6EC975278452A36"
 			}
 		}
 	}
@@ -441,9 +472,9 @@
 		{
 			"public"
 			{
-				"gid" "2897938027653896098"
-				"size" "18195136047"
-				"download" "13981092960"
+				"gid" "4289560260133347010"
+				"size" "18452442178"
+				"download" "14372398384"
 			}
 			"liftoff_1.2.11"
 			{
@@ -466,29 +497,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"betatesting"
-			{
-				"gid" "A16EA0D6E3E8FC4EFED509E446DB7E39"
-				"size" "EE2D3383E81837EB6B83C924260BCECC"
-				"download" "C84724C7D0ED62803D28BB53EF9298FC"
-			}
 			"iudro"
 			{
 				"gid" "84840B93C68E515D32355FA2B96C2008"
 				"size" "E139BF767F867D66B1E12941643C3F02"
 				"download" "7F7E80A6599C07A4CDC5D3E71F1A26AD"
-			}
-			"languagetesting"
-			{
-				"gid" "953903AB1830BFBEDC92C8DA5049C775"
-				"size" "005E9EC9828A2D87F0BFE63F974C38F8"
-				"download" "C80C33E94FC79043FC803AC82CBD51D3"
-			}
-			"liftoff_delta"
-			{
-				"gid" "B204B7E131D6B397A2074EB4A2D16A3C"
-				"size" "ED6B08C93EDD4047F26CA69A5AC85EB1"
-				"download" "37A1294F85FA5B9A76C693964AB1988F"
 			}
 			"liftoff_research"
 			{
@@ -504,9 +517,15 @@
 			}
 			"alphatesting"
 			{
-				"gid" "78DCC48EBF654F6888CDB483247AD450"
-				"size" "2463FD46337DE18FB9C9699E6303DB68"
-				"download" "FA46D3781AFC8873589ABE361D8557FB"
+				"gid" "DA308F3BE2D227049B2875877BC7977D"
+				"size" "6BACCBDA620F2134338E776B09639D69"
+				"download" "E27A70DAD8B7295E30285F242736092D"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "D9E582FCE7DA4EB89FC9A5DA56FFC163"
+				"size" "0828AC3AD35EB23D72A9BB52D6F4775A"
+				"download" "5BE5773A9A0726B1BD53D8E51B4740EC"
 			}
 		}
 	}
@@ -546,29 +565,11 @@
 		}
 		"encryptedmanifests"
 		{
-			"betatesting"
-			{
-				"gid" "E1C30F6E002A8FB4BBB47C28513339EF"
-				"size" "97EF9147B65D2B83A7E8D4DA0C537CD3"
-				"download" "3266E7E09E32396F24287B4B09FE51A2"
-			}
 			"iudro"
 			{
 				"gid" "33D30BA42B3570056905E012A0E5CB40"
 				"size" "9A3DF78C8F90AF670672F662D3AEF969"
 				"download" "36080374FEEE136D094F683941A0007D"
-			}
-			"languagetesting"
-			{
-				"gid" "B7E9B1B69EBA9A3CD5C891DAA9B10267"
-				"size" "69D55AECA625E5B6259F2E449089EA74"
-				"download" "B14B5DC751D9BBC6FD9EAAB21DE16BE5"
-			}
-			"liftoff_delta"
-			{
-				"gid" "BED9FB1C5FBFD790D64347ED40522C49"
-				"size" "62D7A463E93F8685955DFD1DE22E7488"
-				"download" "95E9C3555D9604BE0D3CD8CDB040D01C"
 			}
 			"liftoff_research"
 			{
@@ -588,32 +589,26 @@
 				"size" "1BF399A56DBE24A671B2C0C570DA8F40"
 				"download" "B4AAA21C1827A5E955D5E17F70267D69"
 			}
+			"elimination_tournaments"
+			{
+				"gid" "32E1D969008C5950488141BF868BF294"
+				"size" "6E14D2B0783F1D05CB560EB539D97C8F"
+				"download" "BB734214627A3025AF006AFE8E3E833C"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15357504"
-			"timeupdated" "1723566123"
-		}
-		"betatesting"
-		{
-			"buildid" "10137449"
-			"pwdrequired" "1"
-			"timeupdated" "1670959633"
+			"buildid" "16627879"
+			"timeupdated" "1733313415"
 		}
 		"iudro"
 		{
 			"buildid" "5296077"
 			"pwdrequired" "1"
 			"timeupdated" "1594899544"
-		}
-		"languagetesting"
-		{
-			"buildid" "10763292"
-			"pwdrequired" "1"
-			"timeupdated" "1678781549"
 		}
 		"liftoff_1.2.11"
 		{
@@ -633,12 +628,6 @@
 			"description" "Liftoff Legacy v1.4"
 			"timeupdated" "1674033728"
 		}
-		"liftoff_delta"
-		{
-			"buildid" "10975062"
-			"pwdrequired" "1"
-			"timeupdated" "1681223708"
-		}
 		"liftoff_research"
 		{
 			"buildid" "5838284"
@@ -653,9 +642,15 @@
 		}
 		"alphatesting"
 		{
-			"buildid" "15357504"
+			"buildid" "16627879"
 			"pwdrequired" "1"
-			"timeupdated" "1723565745"
+			"timeupdated" "1733310146"
+		}
+		"elimination_tournaments"
+		{
+			"buildid" "16282076"
+			"pwdrequired" "1"
+			"timeupdated" "1730677109"
 		}
 	}
 }
@@ -664,3 +659,7 @@
 	"quota" "200000000"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26487636"
+"_sha" "3bb307801691709a88422c367780692664c3788e"
+"_size" "13472"
