@@ -1,0 +1,656 @@
+"appid" "2131650"
+"common"
+{
+	"name" "METAL GEAR SOLID 3: Snake Eater - Master Collection Version"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "METAL GEAR SOLID 3 SNAKE EATER (MASTER COLLECTION版)"
+	}
+	"icon" "4f696d96306027da84ab3e965a8004a34443728f"
+	"clienticon" "8f0a1a5116d4d9bd14b00cd8adc2e8518b42a23c"
+	"clienttga" "e4dc47b746f1c9656910bdc4e36e5958d53605ab"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2131650_eula_0"
+			"name" "METAL GEAR SOLID: MASTER COLLECTION Vol.1 METAL GEAR SOLID 3: Snake Eater EULA"
+			"url" "https://store.steampowered.com//eula/2131650_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1712361600"
+		"tested_build_id" "13689071"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.21936989498249"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "66.21936989498249"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1710477070"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KONAMI"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KONAMI"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Metal Gear"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698131400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2131650"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4106"
+		"2" "1687"
+		"3" "21"
+		"4" "3814"
+		"5" "3834"
+		"6" "4145"
+		"7" "4191"
+		"8" "1697"
+		"9" "1662"
+		"10" "5179"
+		"11" "5984"
+		"12" "1678"
+		"13" "1708"
+		"14" "1742"
+		"15" "4182"
+		"16" "13276"
+		"17" "1756"
+		"18" "4667"
+		"19" "4168"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "KONAMI"
+	"publisher" "KONAMI"
+	"listofdlc" "2314280,2314281"
+}
+"config"
+{
+	"installdir" "MGS3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "15"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3165224769"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,beta,dygk6n,staging"
+			"use_action_block" "false"
+		}
+		"3165224429"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,beta,dygk6n,staging"
+			"use_action_block" "false"
+		}
+		"3165223759"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,beta,dygk6n,staging"
+			"use_action_block" "false"
+		}
+		"3165223491"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,beta,dygk6n,staging"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2131652"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7077042967756280050"
+				"size" "18838430646"
+				"download" "14241013440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "9A72764406B79E464027EF7B0DA534D3"
+				"size" "CB9A4AAA1F4FB5375656139A1444FC5E"
+				"download" "3D5317D5846F4FF79CEBFE41099B11B9"
+			}
+			"develop"
+			{
+				"gid" "7AA8417BC87458011162FE01129352F5"
+				"size" "7142EA0D43258CB9641E887A7F09EC8F"
+				"download" "9B439EAD4CEE110E07CCA898DF63F16E"
+			}
+			"huzzl"
+			{
+				"gid" "8AF1402A8D427331219729C42C5D5267"
+				"size" "8EB02F550D3B9875B23F285E7B1C7589"
+				"download" "4D0EF5DD558CD44BB4565BF71BCFBAC9"
+			}
+			"dygk6n"
+			{
+				"gid" "F77E858CF4BD028485F9754BAC5C8F10"
+				"size" "46C8892CDF1FBF479ECA1C517F7BCE06"
+				"download" "99E7007C65AD5FAE969F5F264EDFB5FD"
+			}
+			"staging"
+			{
+				"gid" "99FE427ECF67CA8F6738096575113843"
+				"size" "12208B47A907CDBECC2694E123FC8D34"
+				"download" "E9DED1C51247A63F40D254C65DD05218"
+			}
+		}
+	}
+	"2131651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3332246131242867228"
+				"size" "16856350431"
+				"download" "13433104784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "4F1C9CCEF961B6699D954CC5E93A57E7"
+				"size" "4DD62EBCF5EEE947FB09D383FA4E6A18"
+				"download" "1C84680C42C542E477235DE0ACC3B296"
+			}
+			"develop"
+			{
+				"gid" "4FFCC8A7C0CA6DC46029482479FE9E04"
+				"size" "9387A089CF275CBA99FF01E6541B2336"
+				"download" "0A76CC4145C1131436E166ACF3E8DA21"
+			}
+			"huzzl"
+			{
+				"gid" "D06A05E5347DD6124ED5382F799C7A29"
+				"size" "7B713B3E2DEC08ADFA188008696A21F3"
+				"download" "9B935A28920011B824871EABF813D8B8"
+			}
+			"dygk6n"
+			{
+				"gid" "605A32A6033B3C0D51A8A473D4AF2641"
+				"size" "6C72ADA332A197C8B6516983F5814D66"
+				"download" "00CE7EC7198B53F4CE209633008F8998"
+			}
+			"staging"
+			{
+				"gid" "0893D9195ECB4FFBD84C8B935D08B490"
+				"size" "2A001BE3CE64F37018DD1DB74EBCD4AB"
+				"download" "B06174F2F09B2669BC621ED91AEB4372"
+			}
+		}
+	}
+	"2314280"
+	{
+		"dlcappid" "2314280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "271318178683467101"
+				"size" "5329382158"
+				"download" "4515602912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "1EABF800A67D1B693CC5B3872EC5D42C"
+				"size" "7E05A98D73E1FD233CC6B923112158FE"
+				"download" "6C78CA70DC181E5B16C1D531939A71ED"
+			}
+			"develop"
+			{
+				"gid" "46115A7CA3261D92C3F6F352B62D7291"
+				"size" "1DEEC086E4839D458A953CC26E0C50FA"
+				"download" "251CC73415EEB901A537006DA0731D2A"
+			}
+			"huzzl"
+			{
+				"gid" "F701B4907437475B981DDE0BEF5A2A03"
+				"size" "370130B52A51DD8B5106C67325F9BD19"
+				"download" "8B5CC3F939A403B12566A6561F7D0658"
+			}
+			"dygk6n"
+			{
+				"gid" "B3A2F8D7C8CFD8F891F78786E1C0716A"
+				"size" "3FE271602876411C3C4EDCF7BAFD6C9C"
+				"download" "807FF642A3A342E8AD84B1A28AB49BE1"
+			}
+			"staging"
+			{
+				"gid" "178E21AD0EB41F46E99D3637292E075E"
+				"size" "57BEC7572483C677E019DD5B6125D5C8"
+				"download" "B58BE2371500A77823740CC0FB6CC833"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2314280"
+		}
+	}
+	"2314281"
+	{
+		"dlcappid" "2314281"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5944477904700342265"
+				"size" "7311462373"
+				"download" "5324361856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "10B3B3AF0FC8A49B5DA3D55B9288A503"
+				"size" "DC084739BE8ED3266F5E5D6F263BCC23"
+				"download" "3546E150468FC8C51DBEF53CE32265FF"
+			}
+			"develop"
+			{
+				"gid" "01C5E2F91EA435050ADE1875ED333E32"
+				"size" "A4DFE789FDF3E21B4833040B5F5F2820"
+				"download" "7081A1CDA83BF34CDA1FC1BA1AF47BE1"
+			}
+			"huzzl"
+			{
+				"gid" "5E1AAF8D9D7AC280D784C821CCCAE2E9"
+				"size" "F5A30900FC5141B34C2A1F4B5FC03CF3"
+				"download" "89D0E39525AE36E9D92BD2F1228E8B00"
+			}
+			"dygk6n"
+			{
+				"gid" "1BB8A56C2448BBA7840DBD513D13E3A3"
+				"size" "D16DB7064E17BA31AA435262FF7C194D"
+				"download" "CEF960845AC886C16AA27DB306B4D48B"
+			}
+			"staging"
+			{
+				"gid" "FC973467961566F7D2177E78E54F1948"
+				"size" "431028FA4FD7584A9A7D28FF30228A51"
+				"download" "466C8D0C909C1024118DEB171832A9F5"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2314281"
+		}
+	}
+	"2131653"
+	{
+		"config"
+		{
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5298179556730845288"
+				"size" "16857320507"
+				"download" "13433464784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"huzzl"
+			{
+				"gid" "6B6F3CBA0519C2EC6C9956948F951FEF"
+				"size" "48D9A3679228231E3527F22E0B56D8BE"
+				"download" "77BC66D3296D84A78BD3D21E1FF7B35C"
+			}
+			"dygk6n"
+			{
+				"gid" "4A20E3DCE865D96417C8CFF9777397F9"
+				"size" "4E6AB690D74114E54A3351663BDAEA4B"
+				"download" "D7C115BA1786CEC7735C3FE394A17B78"
+			}
+			"staging"
+			{
+				"gid" "C21E5FCD51F2B44B4E26D68C2144DE76"
+				"size" "5B0F9465838DDC2056E9B972BD406EDE"
+				"download" "4C6B1BE0B41B6F834F92BFD95ABD5ABB"
+			}
+		}
+	}
+	"2131654"
+	{
+		"config"
+		{
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "653085675608124350"
+				"size" "18839400722"
+				"download" "14241373264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"huzzl"
+			{
+				"gid" "CB061BBD1096AB0B17445EE8D4B7A079"
+				"size" "6BF3C735A61543A1E88DB13BAA268172"
+				"download" "EC7AEB29172777973E02CDFE13473AC3"
+			}
+			"dygk6n"
+			{
+				"gid" "0F2CDA03E7F97737B72C658E246728B6"
+				"size" "C135E521508FA3669C6D936409193FE8"
+				"download" "97718D8CC004FB8609AC9E12818DE10E"
+			}
+			"staging"
+			{
+				"gid" "E29BCD9EDECE96A2F4999C31D67D0BFD"
+				"size" "26C30731BA9C1526BA04799AD20D3BFA"
+				"download" "08DF1403A70C7EB855AA1ABC9AB967B7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16496582"
+			"timeupdated" "1733295855"
+		}
+		"beta"
+		{
+			"buildid" "12550940"
+			"pwdrequired" "1"
+			"timeupdated" "1698657524"
+		}
+		"develop"
+		{
+			"buildid" "12668449"
+			"pwdrequired" "1"
+			"timeupdated" "1705032158"
+		}
+		"huzzl"
+		{
+			"buildid" "13410363"
+			"pwdrequired" "1"
+			"timeupdated" "1707445106"
+		}
+		"dygk6n"
+		{
+			"buildid" "16496582"
+			"pwdrequired" "1"
+			"timeupdated" "1732258204"
+		}
+		"staging"
+		{
+			"buildid" "16496582"
+			"pwdrequired" "1"
+			"timeupdated" "1732261729"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "7000000"
+	"maxnumfiles" "400"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "mgs3_savedata_win/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26483389"
+"_sha" "4900c2f1f991326001b52c644b022dc239427de5"
+"_size" "12776"
