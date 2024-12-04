@@ -143,7 +143,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732112286"
+	"store_asset_mtime" "1733344867"
 	"associations"
 	{
 		"0"
@@ -175,6 +175,8 @@
 		"category_55" "1"
 		"category_57" "1"
 		"category_1" "1"
+		"category_56" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -248,7 +250,7 @@
 	"developer" "Gameloft"
 	"publisher" "Gameloft"
 	"homepage" "https://disneydreamlightvalley.com/"
-	"listofdlc" "2061640,2061641,2632050,2632060,3259120"
+	"listofdlc" "2061640,2061641,2632050,2632060,3259120,3311890,3311900,3311910"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -292,24 +294,24 @@
 		{
 			"public"
 			{
-				"gid" "7052135261869738004"
-				"size" "16797860719"
-				"download" "14301937120"
+				"gid" "8609526557949774634"
+				"size" "17041403359"
+				"download" "14526229328"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"develop"
 			{
-				"gid" "A558A0079C66D68DA7D159D6B557C5E2"
-				"size" "CF89A463F3234DFD2E28759A74C64DAC"
-				"download" "09A6987BE63151137FD33A354DF67552"
+				"gid" "7C74C08F63D9029734B4F51D55B4A216"
+				"size" "F41BA7B09F571F6431ABC4FCBFF93FEC"
+				"download" "5CD7F88E21F7105EC064E60B11E68967"
 			}
 			"latest-qa-build"
 			{
-				"gid" "13B74DA12BED0CF76DDA51735AAC29B3"
-				"size" "B9C9CA5DE3836C7F21571C37542AA41C"
-				"download" "21F4393FF5FCEFA71CEEC383FB7F61F8"
+				"gid" "9DD57EC3AA198F012A69F2E7A414F398"
+				"size" "FF54D26F77281617C06BDB29B300A9ED"
+				"download" "F44DC802DC5122A76ED28A1D9D3567F4"
 			}
 			"playtest"
 			{
@@ -319,15 +321,15 @@
 			}
 			"qa-certification-branch"
 			{
-				"gid" "0FAE9ECF2636B9250E20A10EDD299389"
-				"size" "6BADA617C0BF1978DBE05C54BA1C6516"
-				"download" "EA76916B9A40E033093271C87499CB41"
+				"gid" "E59501C1E544A56D0ED92FD4E41C5398"
+				"size" "8FDBBE04EEB7D94165C10EC22732402F"
+				"download" "556E436D97CBF753B216BECF5D4187B2"
 			}
 			"qa-compat-branch"
 			{
-				"gid" "436ABCC1D9994128C1B816B993A9F7D0"
-				"size" "C76145C93913FEEB25D52218396BBF8E"
-				"download" "B194351383C885E554D3A5E8A4065976"
+				"gid" "A2DA8475DD85931C15FA40BA31FB6D36"
+				"size" "90A4FDA95B4F439D282FF5E7B0B4F102"
+				"download" "995456533BC3EB95B50DF721E27DE39A"
 			}
 			"review"
 			{
@@ -340,6 +342,12 @@
 				"gid" "B83F5F98DCC928E1E2C4869DEAFE2C96"
 				"size" "E385E0628CDFAFE1BD5C7A24BA510851"
 				"download" "29898D234AABC48710AF3F60695F5F88"
+			}
+			"testing"
+			{
+				"gid" "D7066957A66BC62F7ADF6836EE616034"
+				"size" "6150F5BC4BF8CDF4B67B7F6E06CFA4DF"
+				"download" "F2E480005D8632A4BA71F9C49517B957"
 			}
 		}
 	}
@@ -359,20 +367,20 @@
 	{
 		"public"
 		{
-			"buildid" "16348801"
-			"timeupdated" "1732111521"
+			"buildid" "16558076"
+			"timeupdated" "1733320817"
 		}
 		"develop"
 		{
-			"buildid" "16442313"
+			"buildid" "16610874"
 			"pwdrequired" "1"
-			"timeupdated" "1731923116"
+			"timeupdated" "1733209062"
 		}
 		"latest-qa-build"
 		{
-			"buildid" "16472753"
+			"buildid" "16562636"
 			"pwdrequired" "1"
-			"timeupdated" "1732108627"
+			"timeupdated" "1732778153"
 		}
 		"playtest"
 		{
@@ -382,15 +390,15 @@
 		}
 		"qa-certification-branch"
 		{
-			"buildid" "16466547"
+			"buildid" "16621309"
 			"pwdrequired" "1"
-			"timeupdated" "1732068806"
+			"timeupdated" "1733266565"
 		}
 		"qa-compat-branch"
 		{
-			"buildid" "15855710"
+			"buildid" "16348801"
 			"pwdrequired" "1"
-			"timeupdated" "1732046282"
+			"timeupdated" "1732645383"
 		}
 		"review"
 		{
@@ -404,9 +412,15 @@
 			"pwdrequired" "1"
 			"timeupdated" "1731530892"
 		}
+		"testing"
+		{
+			"buildid" "16542153"
+			"pwdrequired" "1"
+			"timeupdated" "1732645889"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26281116"
-"_sha" "ffdbfc92ed3544b31f8e93d8a62655927e159a04"
-"_size" "7581"
+"_change_number" "26495999"
+"_sha" "56a795193c9313d694d8b4fd753ff7452bb2cf67"
+"_size" "7926"
