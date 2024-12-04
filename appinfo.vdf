@@ -109,6 +109,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1702976768"
 	"associations"
 	{
@@ -136,6 +178,7 @@
 		"category_1" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -218,20 +261,19 @@
 		"0" "599"
 		"1" "701"
 		"2" "9"
-		"3" "1254546"
-		"4" "12472"
-		"5" "5055"
-		"6" "3813"
-		"7" "3859"
-		"8" "4191"
-		"9" "4695"
-		"10" "3871"
+		"3" "12472"
+		"4" "1254546"
+		"5" "3859"
+		"6" "4695"
+		"7" "5055"
+		"8" "3813"
+		"9" "4182"
+		"10" "4191"
 		"11" "31275"
-		"12" "4182"
-		"13" "5310"
+		"12" "3871"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -286,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "5682009704590574430"
-				"size" "5150877689"
-				"download" "4574909120"
+				"gid" "5589525811326891733"
+				"size" "5147335222"
+				"download" "4572325024"
 			}
 		}
 		"encryptedmanifests"
@@ -335,17 +377,11 @@
 				"size" "C65882A9FF4901AADB66FCCCA7C53CAA"
 				"download" "444CBA6855DEE34A9D339644E8699B42"
 			}
-			"nightly"
-			{
-				"gid" "8A26C08C3970AD237B00F57E6885EC69"
-				"size" "68FAE7E5B60069895B3CC9F1954D535D"
-				"download" "1ADCEB81F0DB3082CA66390118AF04E7"
-			}
 			"private_beta"
 			{
-				"gid" "919DA0A705432FC2C02026A6FBCC01CB"
-				"size" "6C9324B8028BCCEC494DA4261740CA7D"
-				"download" "838093D45DA5FB69237519DCA1A5FD9C"
+				"gid" "F5326A1BC21A4DFD67D6396F6EE3DE46"
+				"size" "7B13863F491B9C2BE791E9D2352828B3"
+				"download" "6E03DC07E18F74B01FCB7D06D5D7E973"
 			}
 			"release-test"
 			{
@@ -359,23 +395,29 @@
 				"size" "55B2242AFAB62F255066E0805079831E"
 				"download" "C05BC13FDF14C1AAEBE3A5F6E56C3CF2"
 			}
-			"si-bvt"
-			{
-				"gid" "2198B3DA5654A51E918D9FEDFEBA3AC5"
-				"size" "A2B7B845EB0CAB33615791D9368A4B9C"
-				"download" "915CC511F26EAAC9ED1488F75DB4FAC1"
-			}
-			"si-test"
-			{
-				"gid" "3A31059FC2DA55E33864F7D664433B46"
-				"size" "1DFE1474CCF2B2B92D9DABEF4E95D60C"
-				"download" "CD238F6FA481245DAB9342CAC500C760"
-			}
 			"si-weekend"
 			{
 				"gid" "293620885DCF9B30EBE07E219E245C81"
 				"size" "27BA9F842FECA42F2CCB606B806234DD"
 				"download" "C59ABF4EACA0F63024E093F7F6435E85"
+			}
+			"nightly"
+			{
+				"gid" "D149798483432139C8138BDB5E59A2FC"
+				"size" "AC87D8E4E2E89114E3004985CEC6F1CE"
+				"download" "0C03C33EC31030A760B54744C92AAD2A"
+			}
+			"si-bvt"
+			{
+				"gid" "BE082493E77A7F9A648AFB9F1EE4F6DF"
+				"size" "F5ECFD46E4063E85868AA05542A60BD3"
+				"download" "103FB30C3B6D48AD6E292F9595DC8A4A"
+			}
+			"si-test"
+			{
+				"gid" "CFA2E8892A3F5778A534227FC3A964BA"
+				"size" "03EE243CD2E4C98C16BB1B35C85D161D"
+				"download" "F9C3186A904AC992953AA2FE6A9E67E1"
 			}
 		}
 	}
@@ -389,9 +431,9 @@
 		{
 			"public"
 			{
-				"gid" "6725090017608355745"
-				"size" "533607917"
-				"download" "284847280"
+				"gid" "2520387396210855964"
+				"size" "546022381"
+				"download" "293139984"
 			}
 		}
 		"encryptedmanifests"
@@ -438,17 +480,11 @@
 				"size" "31E68B2862E747CBC9ED08CADCF9D71E"
 				"download" "ADEECACE7913DAD5D1E251A856EBD18E"
 			}
-			"nightly"
-			{
-				"gid" "ADBA5D0B9E5BA5E522F2577B548B4A5F"
-				"size" "200DD7CF394E1A434C3ED7562364B4E7"
-				"download" "E788F993037AEC8236851E001227A3B3"
-			}
 			"private_beta"
 			{
-				"gid" "5DD4C23C969BD30FE85178E5695D4182"
-				"size" "CA4042F45C80BA1957A4D941BE7664EF"
-				"download" "04FFC9AD28A98A089A4BB0082F041421"
+				"gid" "DE492E2EDBF61AEEC1747406CDC82234"
+				"size" "243E1E90EF1AFD34434454A49CF6F69C"
+				"download" "88BFEB994F9E27B0B80641143F3A2DC2"
 			}
 			"release-test"
 			{
@@ -462,23 +498,29 @@
 				"size" "E22EAB7D6D3398F95B6646DBAC926258"
 				"download" "0B7B32664C2A853D7F6920268267E187"
 			}
-			"si-bvt"
-			{
-				"gid" "F0068311A73C9CC7D480E64D5E6A61BB"
-				"size" "45F47C450B1AA62AFBE2F54228D9DC2B"
-				"download" "9E2B96BF8C77BF831D2885377AD84AC4"
-			}
-			"si-test"
-			{
-				"gid" "3BECA3F0BFE0DD3D6380C1BF9C4380D2"
-				"size" "D0BEBB42BE78E45A2BE1B01143AC0BFB"
-				"download" "64600503945A45A4318CAF3E2D017DE3"
-			}
 			"si-weekend"
 			{
 				"gid" "A0D0CD96AE4C9FF0CAEA1E3177B3DCD3"
 				"size" "1810FB41040195B23AE017EC862E9B94"
 				"download" "53FCAA46F62AC01285A6F2524DB3ED93"
+			}
+			"nightly"
+			{
+				"gid" "606660103D731D14936423706C4563CE"
+				"size" "3E98A6FC3EFBE2FAE65E2686D6B99FA8"
+				"download" "F34A1C0DBD5D027DF74DB5BF2A81299A"
+			}
+			"si-bvt"
+			{
+				"gid" "F1C608E1DF60A25E324646402BA2675E"
+				"size" "B6C555296706ED26802A2346A1FDA65D"
+				"download" "594816EE06075AFE2BAB11839059388B"
+			}
+			"si-test"
+			{
+				"gid" "2917900F7AAFB9EA0872F5F5D1F398CE"
+				"size" "327A005619BCEF1B8CD73257D9693FDB"
+				"download" "012F601D7E7042BE33CAC9F1DB32A755"
 			}
 		}
 	}
@@ -492,9 +534,9 @@
 		{
 			"public"
 			{
-				"gid" "1803777499410507225"
-				"size" "247464287"
-				"download" "78007296"
+				"gid" "1550728886821722996"
+				"size" "249859968"
+				"download" "78613120"
 			}
 		}
 		"encryptedmanifests"
@@ -541,17 +583,11 @@
 				"size" "B5AFBB87875E9CC29EA40B641E134FCC"
 				"download" "3DBA896817847D3AE7708862C7DA289C"
 			}
-			"nightly"
-			{
-				"gid" "D0D62468C31739B124C17A14A1F084C3"
-				"size" "B36B660B59F9E6E324D9A32699F1B395"
-				"download" "F74A52D3A0832EDC60A2FEBDA8AE3BFA"
-			}
 			"private_beta"
 			{
-				"gid" "A13E0307A9DBF9B08DE5F37E33109ADB"
-				"size" "80DC46C9904E557D9C5013727A041678"
-				"download" "602BD702D1D02FEEA4852B9433630462"
+				"gid" "A1E1BCEF39F7276117FC58C3529FD206"
+				"size" "6644EBE9384AFD0D1F233233AFF91830"
+				"download" "04B52601BB486EFFC699C25B7B999C7B"
 			}
 			"release-test"
 			{
@@ -565,23 +601,29 @@
 				"size" "9AF7ABA5B73E8AB0DBD6BC8A1939E12C"
 				"download" "ED8BF6C66AFDB9C268254AD44741895C"
 			}
-			"si-bvt"
-			{
-				"gid" "C4BA6E8B2293498A2CFE35FD16A694CC"
-				"size" "A7DA325857C309BDBA6CD5FB53DA9F2E"
-				"download" "16332894375E53231D7DD7B3FDE8A6B4"
-			}
-			"si-test"
-			{
-				"gid" "4A40A125EF4CEE481F7C2D5EEB497DDC"
-				"size" "3CA01F2EDC85762D44A5B6EA7A789AA4"
-				"download" "DC5B50F2079AB829555E651F844DE65F"
-			}
 			"si-weekend"
 			{
 				"gid" "2AEABDC5D49828CB55EE18636B4490DA"
 				"size" "2760C63C53EB09241C36A6B2EF118D78"
 				"download" "CD34CF5568873B87BA2ADF1B10F4F67D"
+			}
+			"nightly"
+			{
+				"gid" "205383FFFCB803E6C0F67803196EDFB8"
+				"size" "24BC2C7FFB16A2BC6675379D30BE14FA"
+				"download" "854846DBE1B7B096326BE0B2FD2D0C51"
+			}
+			"si-bvt"
+			{
+				"gid" "109A960FC17092FDB616AB91F7716905"
+				"size" "BEEB5EEAD85B4AAB8A64A146FF847773"
+				"download" "9B6DE4B6CC092AE1650412706E87836D"
+			}
+			"si-test"
+			{
+				"gid" "0DE84774648AEBAC56496D05C8F3E9CE"
+				"size" "E06ECD3F9D64DD51D2B000DD51A1E45F"
+				"download" "F50E8F5D07650A289FB5A35F5855E2C6"
 			}
 		}
 	}
@@ -590,8 +632,8 @@
 	{
 		"public"
 		{
-			"buildid" "13789586"
-			"timeupdated" "1712674846"
+			"buildid" "16602578"
+			"timeupdated" "1733328048"
 		}
 		"3p-test"
 		{
@@ -635,17 +677,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1699886377"
 		}
-		"nightly"
-		{
-			"buildid" "13950697"
-			"pwdrequired" "1"
-			"timeupdated" "1712242455"
-		}
 		"private_beta"
 		{
-			"buildid" "13649464"
+			"buildid" "14010992"
 			"pwdrequired" "1"
-			"timeupdated" "1709794156"
+			"timeupdated" "1712764677"
 		}
 		"release-test"
 		{
@@ -659,23 +695,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1710877021"
 		}
-		"si-bvt"
-		{
-			"buildid" "13789586"
-			"pwdrequired" "1"
-			"timeupdated" "1710877012"
-		}
-		"si-test"
-		{
-			"buildid" "13387563"
-			"pwdrequired" "1"
-			"timeupdated" "1707297997"
-		}
 		"si-weekend"
 		{
 			"buildid" "12367244"
 			"pwdrequired" "1"
 			"timeupdated" "1696530539"
+		}
+		"nightly"
+		{
+			"buildid" "16348116"
+			"pwdrequired" "1"
+			"timeupdated" "1731108050"
+		}
+		"si-bvt"
+		{
+			"buildid" "16602578"
+			"pwdrequired" "1"
+			"timeupdated" "1733154059"
+		}
+		"si-test"
+		{
+			"buildid" "16179772"
+			"pwdrequired" "1"
+			"timeupdated" "1731668038"
 		}
 	}
 }
@@ -711,455 +753,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "On Main Menu"
-				"#statusversusmode" "Playing vesus mode"
-				"#statusfantasydraftmode" "Playing fantasy draft mode"
-				"#statuschallengemode" "Playing challenge mode"
-				"#statuscreateclubmode" "Playing create-a-club mode"
-				"#statuscareermode" "Playing career mode"
-				"#statuscareermodeunemployed" "Playing career mode - Currently unemployed"
-				"#statuscareermodeoneteam" "Playing career mode - Managing %TeamOne%"
-				"#statuscareermodetwoteams" "Playing career mode - Managing %TeamOne% and %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Negotiating to buy %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Negotiating to sell %PersonOne%"
-				"#statusnegotiatingcontract" "Negotiating contract with %PersonOne%"
-				"#statusmatchwatching" "Watching a match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Watching penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Drawing a match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Level on penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "In the lead - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Winning a shootout - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Currently losing - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Behind in a shootout - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "Sur menu principal"
-				"#statusversusmode" "Mode Face à face en cours"
-				"#statusfantasydraftmode" "Mode Fantasy draft en cours"
-				"#statuschallengemode" "Mode Challenge en cours"
-				"#statuscreateclubmode" "Mode Création de club en cours"
-				"#statuscareermode" "Mode Carrière en cours"
-				"#statuscareermodeunemployed" "Mode Carrière en cours - Actuellement sans emploi"
-				"#statuscareermodeoneteam" "Mode Carrière en cours - À la tête {de la}%TeamOne%"
-				"#statuscareermodetwoteams" "Mode Carrière en cours - À la tête {de la}%TeamOne% et {de la}%TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "En négociation pour acheter %PersonOne%"
-				"#statusnegotiatingsellingplayer" "En négociation pour vendre %PersonOne%"
-				"#statusnegotiatingcontract" "Contrat en négociation avec %PersonOne%"
-				"#statusmatchwatching" "Assiste à match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Assiste aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Match nul en cours - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "À égalité aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Mène au score - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Mène aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Mené au score - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Mené aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"danish"
-		{
-			"tokens"
-			{
-				"#statushovedmenu" "I hovedmenuen"
-				"#statusversusmode" "Spiller versus mode"
-				"#statusfantasydraftmode" "Spiller fantasy draft mode"
-				"#statusudfordringer" "Spiller udfordringer"
-				"#statusskabenklub" "Spiller Skab en Klub"
-				"#statuskarriere" "Spiller Karriere"
-				"#statuskarrierearbejdsløs" "Spiller karriere - Pt. arbejdsløs"
-				"#statuskarriereÉthold" "Spiller karriere - Er manager for %TeamOne%"
-				"#statuskarrieretohold" "Spiller karriere - Er manager for %TeamOne% og %TeamTwo%"
-				"#statusforhandleromatkøbespiller" "Forhandler om at købe %PersonOne%"
-				"#statusforhandleromatsælgespiller" "Forhandler om at sælge %PersonOne%"
-				"#statusforhandlerkontrakt" "Forhandler kontrakt med %PersonOne%"
-				"#statusserkamp" "Ser en kamp - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusserstraffesparkskonkurrence" "Ser straffespark - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusuafgjortkamp" "Spiller uafgjort - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusuafgjortpåstraffespark" "Uafgjort på straffespark - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusvinderkamp" "Foran - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusvinderpåstraffespark" "Vinder en straffesparkskonkurrence - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statustaberkamp" "Bagud - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statustaberpåstraffespark" "Bagud i straffesparkskonkurrence - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"dutch"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "In Hoofdmenu"
-				"#statusversusmode" "Speel versus-modus"
-				"#statusfantasydraftmode" "Speel fantasy draft-modus"
-				"#statuschallengemode" "Speel uitdaging-modus"
-				"#statuscreateclubmode" "Speel Maak-een-club-modus"
-				"#statuscareermode" "Speel Carrière-modus"
-				"#statuscareermodeunemployed" "Speel Carrière-modus - Momenteel werkloos"
-				"#statuscareermodeoneteam" " Speel Carrière-modus - Manager %TeamOne%"
-				"#statuscareermodetwoteams" " Speel Carrière-modus - Manager %TeamOne% en %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Onderhandelen over aankoop %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Onderhandelen over verkoop %PersonOne%"
-				"#statusnegotiatingcontract" "Onderhandelen over contract met %PersonOne%"
-				"#statusmatchwatching" "Kijken naar een wedstrijd - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Kijken naar een strafschoppenreeks - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Gelijkspelen in een wedstrijd - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Gelijk na strafschoppen - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Op Voorsprong - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Strafschoppenreeks gewonnen - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Op achterstand - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Op achterstand in strafschoppenreeks - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "Im Hauptmenü"
-				"#statusversusmode" "Spielt Versus-Modus"
-				"#statusfantasydraftmode" "Spielt Fantasy-Draft-Modus"
-				"#statuschallengemode" "Spielt Herausforderungs-Modus"
-				"#statuscreateclubmode" "Spielt Create-a-Club-Modus"
-				"#statuscareermode" "Spielt Karrieremodus"
-				"#statuscareermodeunemployed" "Karrieremodus (arbeitslos)"
-				"#statuscareermodeoneteam" "Trainiert %TeamOne% im Karrieremodus"
-				"#statuscareermodetwoteams" "Trainiert %TeamOne% und %TeamTwo% im Karrieremodus"
-				"#statusnegotiatingbuyingplayer" "Verhandelt Kauf von %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Verhandelt Verkauf von %PersonOne%"
-				"#statusnegotiatingcontract" "Verhandelt Vertrag mit %PersonOne%"
-				"#statusmatchwatching" "Schaut %TeamOne% – %TeamTwo% (%ScoreOne%:%ScoreTwo%)"
-				"#statusmatchwatchingpenalties" "Schaut %TeamOne% – %TeamTwo% (%ScoreOne%:%ScoreTwo% i.E.)"
-				"#statusmatchdrawing" "%ScoreOne%:%ScoreTwo% (%TeamOne% – %TeamTwo%)"
-				"#statusmatchdrawingpenalties" "%ScoreOne%:%ScoreTwo% i.E. (%TeamOne% – %TeamTwo%)"
-				"#statusmatchwinning" "%ScoreOne%:%ScoreTwo% in Führung (%TeamOne% – %TeamTwo%)"
-				"#statusmatchwinningpenalties" "%ScoreOne%:%ScoreTwo% i.E. vorne (%TeamOne% – %TeamTwo%)"
-				"#statusmatchlosing" "%ScoreOne%:%ScoreTwo% in Rückstand (%TeamOne% – %TeamTwo%)"
-				"#statusmatchlosingpenalties" "%ScoreOne%:%ScoreTwo% i.E. hinten (%TeamOne% – %TeamTwo%)"
-			}
-		}
-		"greek"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "Στο Κύριο Μενού"
-				"#statusversusmode" "Σε παιχνίδι versus"
-				"#statusfantasydraftmode" "Σε παιχνίδι fantasy draft"
-				"#statuschallengemode" "Σε παιχνίδι challenge"
-				"#statuscreateclubmode" "Σε παιχνίδι Δημιουργία-νέας-Ομάδας"
-				"#statuscareermode" "Σε παιχνίδι καριέρας"
-				"#statuscareermodeunemployed" "Σε παιχνίδι καριέρας - Άνεργος"
-				"#statuscareermodeoneteam" "Σε παιχνίδι καριέρας - Προπονητής %TeamOne3%"
-				"#statuscareermodetwoteams" "Σε παιχνίδι καριέρας - Προπονητής %TeamOne3% και %TeamTwo3%"
-				"#statusnegotiatingbuyingplayer" "Σε διαπραγμάτευση απόκτησης %PersonOne3%"
-				"#statusnegotiatingsellingplayer" "Σε διαπραγμάτευση παραχώρησης %PersonOne3%"
-				"#statusnegotiatingcontract" "Σε διαπραγμάτευση συμβολαίου %PersonOne3%"
-				"#statusmatchwatching" "Σε παρακολούθηση αγώνα - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Σε παρακολούθηση διαδικασίας πέναλτι - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Αγώνας σε ισόπαλο σκορ - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Ισοπαλία στα πέναλτι - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Μπροστά στο σκορ - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Μπροστά στο σκορ στα πέναλτι  - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Πίσω στο σκορ - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Πίσω στο σκορ στα πέναλτι - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "Nel menu principale"
-				"#statusversusmode" "Giocando in modalità Contro gli amici"
-				"#statusfantasydraftmode" "Giocando in modalità Fantasy Draft"
-				"#statuschallengemode" "Giocando in modalità Sfida"
-				"#statuscreateclubmode" "Giocando in modalità Crea il tuo club"
-				"#statuscareermode" "Giocando in modalità Carriera"
-				"#statuscareermodeunemployed" "Giocando in modalità Carriera - Attualmente disoccupato"
-				"#statuscareermodeoneteam" "Giocando in modalità Carriera - Allenatore %TeamOne%"
-				"#statuscareermodetwoteams" "Giocando in modalità Carriera - Allenatore %TeamOne% e %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "In trattative per acquistare %PersonOne%"
-				"#statusnegotiatingsellingplayer" "In trattative per vendere %PersonOne%"
-				"#statusnegotiatingcontract" "Trattando la firma del contratto di %PersonOne%"
-				"#statusmatchwatching" "Guardando una partita - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Guardando i rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Pareggiando una partita - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Partita ai rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "In vantaggio - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Vincendo ai rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Perdendo - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Sotto ai rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"norwegian"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "I hovedmeny"
-				"#statusversusmode" "Spiller versus-modus"
-				"#statusfantasydraftmode" "Spiller fantasydraft-modus"
-				"#statuschallengemode" "Spiller utfordrings-modus"
-				"#statuscreateclubmode" "Spiller lag-en-klubb-modus"
-				"#statuscareermode" "Spiller karriere-modus"
-				"#statuscareermodeunemployed" "Spiller karriere-modus - for tiden arbeidsledig"
-				"#statuscareermodeoneteam" "Spiller karriere-modus - Styrer %TeamOne%"
-				"#statuscareermodetwoteams" "Spiller karriere-modus - Styrer %TeamOne% og %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Forhandler om kjøp av %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Forhandler om salg av %PersonOne%"
-				"#statusnegotiatingcontract" "Forhandler kontrakt med %PersonOne%"
-				"#statusmatchwatching" "Ser på en kamp - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Ser på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Spiller uavgjort - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Likt på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Leder - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Vinner på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Ligger under - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Ligger under på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "W menu głównym"
-				"#statusversusmode" "Gra w trybie zawodów"
-				"#statusfantasydraftmode" "Gra w trybie turnieju gwiazd"
-				"#statuschallengemode" "Gra w trybie wyzwania"
-				"#statuscreateclubmode" "Gra w trybie własnego klubu"
-				"#statuscareermode" "Gra w trybie kariery"
-				"#statuscareermodeunemployed" "Gra w trybie kariery - obecnie bezrobotny"
-				"#statuscareermodeoneteam" "Gra w trybie kariery - %TeamOne%"
-				"#statuscareermodetwoteams" "Gra w trybie kariery - %TeamOne% i %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Negocjuje zakup -  %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Negocjuje sprzedaż - %PersonOne%"
-				"#statusnegotiatingcontract" "Negocjuje kontrakt - %PersonOne%"
-				"#statusmatchwatching" "Ogląda mecz - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Ogląda konkurs rzutów karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Remisuje mecz - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Remisuje w rzutach karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Prowadzi - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Prowadzi w rzutach karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Przegrywa - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Przegrywa w rzutach karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"portuguese"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "No menu principal"
-				"#statusversusmode" "Jogar versus modo"
-				"#statusfantasydraftmode" "A jogar modo fantasy draft"
-				"#statuschallengemode" "A jogar modo desafio"
-				"#statuscreateclubmode" "A jogar modo criar-um-clube"
-				"#statuscareermode" "A jogar modo carreira"
-				"#statuscareermodeunemployed" "A jogar modo carreira - Actualmente desempregado"
-				"#statuscareermodeoneteam" "A jogar modo carreira - A treinar %TeamOne%"
-				"#statuscareermodetwoteams" "A jogar modo carreira - A treinar %TeamOne% e %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "A negociar compra de %PersonOne%"
-				"#statusnegotiatingsellingplayer" "A negociar venda de %PersonOne%"
-				"#statusnegotiatingcontract" "A negociar contrato com %PersonOne%"
-				"#statusmatchwatching" "A ver jogo - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "A ver penálties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Jogo empatado - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Empate nos penálties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Está à frente do marcador - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Está à frente do marcador nos penálties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Está a perder - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Está a perder nos penálties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "В Стартовом Меню"
-				"#statusversusmode" "Играет в сетевую игру"
-				"#statusfantasydraftmode" "Играет в режиме Фентези Драфт"
-				"#statuschallengemode" "Играет в режиме Испытание"
-				"#statuscreateclubmode" "Играет в режиме Созданного Клуба"
-				"#statuscareermode" "Играет в режиме Карьера"
-				"#statuscareermodeunemployed" "Играет в режиме Карьера - Ищет подходящую работу"
-				"#statuscareermodeoneteam" "Играет в режиме Карьера - Управляет командой %TeamOne%"
-				"#statuscareermodetwoteams" "Играет в режиме Карьера - Управляет командами %TeamOne% и %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Ведет переговоры о покупке %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Ведет переговоры о продаже %PersonOne%"
-				"#statusnegotiatingcontract" "Ведет контрактные переговоры с %PersonOne%"
-				"#statusmatchwatching" "Смотрит матч - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Серия пенальти в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Пока ничейный результат в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Сравнялись по пенальти - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Выигрывает в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Впереди в серии пенальти - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Проигрывает в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Проигрывает по пенальти - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "位于主菜单"
-				"#statusversusmode" "游玩对战模式中"
-				"#statusfantasydraftmode" "游玩梦幻选秀模式中"
-				"#statuschallengemode" "游玩挑战模式中"
-				"#statuscreateclubmode" "游玩创造俱乐部模式中"
-				"#statuscareermode" "游玩生涯模式中"
-				"#statuscareermodeunemployed" "游玩生涯模式中 - 目前失业"
-				"#statuscareermodeoneteam" "游玩生涯模式中 - 正在执教 %TeamOne%"
-				"#statuscareermodetwoteams" "游玩生涯模式中 - 正在执教 %TeamOne% and %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "与 %PersonOne% 协商购入球员"
-				"#statusnegotiatingsellingplayer" "与 %PersonOne% 协商出售球员"
-				"#statusnegotiatingcontract" "与 %PersonOne% 协商合同"
-				"#statusmatchwatching" "观看比赛中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "观看点球大战中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "目前打平 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "点球大战打平中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "目前领先 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "点球大战领先中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "目前落后 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "点球大战落后中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "En Menú principal"
-				"#statusversusmode" "Jugando modo cara a cara"
-				"#statusfantasydraftmode" "Jugando modo draft de fantasía"
-				"#statuschallengemode" "Jugando modo reto"
-				"#statuscreateclubmode" "Jugando modo Crear un club"
-				"#statuscareermode" "Jugando modo carrera"
-				"#statuscareermodeunemployed" "Jugando modo carrera - Actualmente en paro"
-				"#statuscareermodeoneteam" "Jugando modo carrera - Dirigiendo %TeamOne%"
-				"#statuscareermodetwoteams" "Jugando modo carrera - Dirigiendo %TeamOne% y %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Negociando para fichar a %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Negociando para vender a %PersonOne%"
-				"#statusnegotiatingcontract" "Negociando un contrato con %PersonOne%"
-				"#statusmatchwatching" "Viendo un partido - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchwatchingpenalties" "Viendo los penaltis - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchdrawing" "Empatando un partido - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchdrawingpenalties" "Igualdad en los penaltis - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchwinning" "Por delante en el marcador - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchwinningpenalties" "Ganando en los penaltis - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchlosing" "Perdiendo actualmente - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-				"#statusmatchlosingpenalties" "Por detrás en los penaltis - %TeamOne% %ScoreOne% - %TeamTwo% %ScoreTwo%"
-			}
-		}
-		"swedish"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "I huvudmeny"
-				"#statusversusmode" "Spelar i Matchläge"
-				"#statusfantasydraftmode" "Spelar i Fantasy draft läge"
-				"#statuschallengemode" "Spelar i Utmanarläge"
-				"#statuscreateclubmode" "Spelar i Skapa-en-klubb läge"
-				"#statuscareermode" "Spelar karriärläge"
-				"#statuscareermodeunemployed" "Spelar karriärläge - arbetslös"
-				"#statuscareermodeoneteam" "Spelar karriärläge - Manager för %TeamOne%"
-				"#statuscareermodetwoteams" "Spelar karriärläge - Manager för %TeamOne% och %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "Förhandlar om att köpa %PersonOne%"
-				"#statusnegotiatingsellingplayer" "Förhandlar om att säljal %PersonOne%"
-				"#statusnegotiatingcontract" "Diskuterar kontrakt med %PersonOne%"
-				"#statusmatchwatching" "Tittar på en match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Tittar på straffsparksläggning - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Spelar oavgjort - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Lika i straffsparksläggning - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "I ledning - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Vinner på extrastraffar - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Förlorar - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Ligger efter på extrastraffar - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"turkish"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "Ana Menüde"
-				"#statusversusmode" "Kapışma modunda"
-				"#statusfantasydraftmode" "Fantezi Draft oynuyor"
-				"#statuschallengemode" "Meydan Okuma modunu oynuyor"
-				"#statuscreateclubmode" "Bir Kulüp Yarat modunu oynuyor"
-				"#statuscareermode" "Kariyer modunda"
-				"#statuscareermodeunemployed" "Kariyer modunda - Şu an boşta"
-				"#statuscareermodeoneteam" "%TeamOne% ile Kariyer modunda"
-				"#statuscareermodetwoteams" "%TeamOne% ve %TeamTwo% ile Kariyer modunda"
-				"#statusnegotiatingbuyingplayer" "%PersonOne% için transfer pazarlığı yapıyor"
-				"#statusnegotiatingsellingplayer" "Oyuncu satmak için pazarlık yapıyor (%PersonOne%)"
-				"#statusnegotiatingcontract" "%PersonOne% ile sözleşme pazarlığı yapıyor"
-				"#statusmatchwatching" "Maç izliyor - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "Penaltıları izliyor - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "Şu an berabere - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "Penaltılarda durum berabere - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "Maçı önde götürüyor - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "Penaltılarda önde - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "Şu an mağlup durumda - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "Penaltılarda geride - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "메인 메뉴에 있음"
-				"#statusversusmode" "대결 모드 플레이 중"
-				"#statusfantasydraftmode" "가상 드래프트 모드 플레이 중"
-				"#statuschallengemode" "도전 모드 플레이 중"
-				"#statuscreateclubmode" "구단 생성 모드 플레이 중"
-				"#statuscareermode" "커리어 모드 플레이 중"
-				"#statuscareermodeunemployed" "커리어 모드 플레이 중 - 현재 무직 상태"
-				"#statuscareermodeoneteam" "커리어 모드 플레이 중 - %TeamOne% 감독 중"
-				"#statuscareermodetwoteams" "커리어 모드 플레이 중 - %TeamOne% 및 %TeamTwo% 감독 중"
-				"#statusnegotiatingbuyingplayer" "%PersonOne% 영입 협상 중"
-				"#statusnegotiatingsellingplayer" "%PersonOne% 방출 협상 중"
-				"#statusnegotiatingcontract" "%PersonOne% 계약 협상 중"
-				"#statusmatchwatching" "경기 관전 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "페널티킥 관전 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "동점으로 경기 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "페널티킥으로 동점 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "경기에서 앞서는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "승부차기에서 앞서는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "경기에서 끌려가는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "승부차기에서 밀리는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "メ​インメ​ニュー"
-				"#statusversusmode" "Playing vesus mode"
-				"#statusfantasydraftmode" "ファンタジードラフトモードをプレイ中"
-				"#statuschallengemode" "チャレンジモードプレイ中"
-				"#statuscreateclubmode" "ク​ラ​ブ​を作成モードをプレイ中"
-				"#statuscareermode" "キャリアモードをプ​レ​イ​中"
-				"#statuscareermodeunemployed" "キャリアモードをプ​レ​イ​中 - 現在無所属"
-				"#statuscareermodeoneteam" "キャリアモードをプ​レ​イ​中 %TeamOne%"
-				"#statuscareermodetwoteams" "キャリアモードをプ​レ​イ​中 %TeamOne% and %TeamTwo%"
-				"#statusnegotiatingbuyingplayer" "買取の交渉中 %PersonOne%"
-				"#statusnegotiatingsellingplayer" "売却の交渉中 %PersonOne%"
-				"#statusnegotiatingcontract" "契約の交渉中 %PersonOne%"
-				"#statusmatchwatching" "試合を観戦中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwatchingpenalties" "PK戦を観戦中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawing" "互角の試合中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchdrawingpenalties" "PK戦で互角 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinning" "リード中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchwinningpenalties" "PK戦で優勢 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosing" "試合で劣勢 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-				"#statusmatchlosingpenalties" "PK戦で劣勢 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23088511"
-"_sha" "92321194b6cbd1fbbd7540daa679477d7bd81f75"
-"_size" "44650"
+"_change_number" "26491416"
+"_sha" "5aecd88e570c56c846d9080ad651b6f9f2ee032a"
+"_size" "15957"
