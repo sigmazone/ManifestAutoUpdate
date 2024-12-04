@@ -23,8 +23,6 @@
 		"2" "4"
 		"3" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"restricted_countries" "CN,DE"
 	"small_capsule"
 	{
@@ -44,6 +42,44 @@
 			"pinned_position" "BottomCenter"
 			"width_pct" "56.85871041885372"
 			"height_pct" "87.15277777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "56.85871041885372"
+				"height_pct" "87.15277777777777"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1656815467"
@@ -85,6 +121,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -119,10 +156,6 @@
 			"supported" "true"
 		}
 		"ukrainian"
-		{
-			"supported" "true"
-		}
-		"russian"
 		{
 			"supported" "true"
 		}
@@ -230,10 +263,10 @@
 		"16" "4018"
 		"17" "597"
 		"18" "379975"
-		"19" "1742"
+		"19" "12095"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -268,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "2912980221524075056"
-				"size" "760339524"
-				"download" "202512144"
+				"gid" "378074674521572647"
+				"size" "871769568"
+				"download" "293747056"
 			}
 		}
 	}
@@ -292,12 +325,12 @@
 	{
 		"public"
 		{
-			"buildid" "11057863"
-			"timeupdated" "1682067762"
+			"buildid" "16621934"
+			"timeupdated" "1733271107"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "21030358"
-"_sha" "0b438fad2f16b0be5024bc5307a2081bbd263365"
-"_size" "4411"
+"_change_number" "26479630"
+"_sha" "f98b528d993a9986a7a9e3e489c18de497baf6fe"
+"_size" "4890"
