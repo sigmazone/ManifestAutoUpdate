@@ -10,6 +10,50 @@
 	"icon" "c39b5d3cf76b244b50a2cfb32811eae100712ade"
 	"clienticon" "bba662a4a4acff32507a02a80120450b0be343d6"
 	"clienttga" "588f5eea715c775f35dfe59bef278eeac3acd9b8"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732924800"
+		"tested_build_id" "16463055"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -141,19 +185,20 @@
 	"gameid" "3259470"
 	"store_tags"
 	{
-		"0" "9"
-		"1" "3920"
+		"0" "3920"
+		"1" "9"
 		"2" "599"
 		"3" "597"
 		"4" "16689"
-		"5" "19"
-		"6" "12472"
+		"5" "12472"
+		"6" "19"
 		"7" "4747"
 		"8" "3871"
 		"9" "492"
 		"10" "5350"
 		"11" "4305"
 		"12" "4182"
+		"13" "1721"
 	}
 	"review_score" "9"
 	"review_percentage" "99"
@@ -191,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "1584865131886925306"
-				"size" "64909058"
-				"download" "50985200"
+				"gid" "1701948935685648865"
+				"size" "65443287"
+				"download" "51511152"
 			}
 		}
 	}
@@ -202,8 +247,8 @@
 	{
 		"public"
 		{
-			"buildid" "16463055"
-			"timeupdated" "1732044797"
+			"buildid" "16618985"
+			"timeupdated" "1733252587"
 		}
 	}
 }
@@ -223,6 +268,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26310573"
-"_sha" "5b0aac50676d8d0eefdca12f1d7889a574a3f7d6"
-"_size" "3907"
+"_change_number" "26475888"
+"_sha" "27c53210eaf046b6e205cb074c12271f00e32dc5"
+"_size" "5023"
