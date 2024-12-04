@@ -306,13 +306,13 @@
 		"13" "6869"
 		"14" "3942"
 		"15" "6971"
-		"16" "9204"
-		"17" "6426"
+		"16" "6426"
+		"17" "9204"
 		"18" "4175"
 		"19" "4145"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -375,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "8640144424682546685"
-				"size" "165727478384"
-				"download" "155296539248"
+				"gid" "8291168419796770833"
+				"size" "165175578098"
+				"download" "154973594768"
 			}
 		}
 		"encryptedmanifests"
@@ -388,11 +388,17 @@
 				"size" "A5BFD3F2651E84E332B119A98914D554"
 				"download" "EBC5F9A6EF29BB29B370321A5D984776"
 			}
+			"porcupine"
+			{
+				"gid" "64FA661184B314D232107A84097DB1FD"
+				"size" "12D41ECD9269369C5E9B775DD12D5BBF"
+				"download" "150A9E51D0CE339603DDD681EFA01C4C"
+			}
 			"live_qa"
 			{
-				"gid" "998B726225C437AB2D65A7C84B239E77"
-				"size" "64D7BC374035117B1A30E05E3F5AD94B"
-				"download" "29DC7EA5A62C47289D17137E3553F7F2"
+				"gid" "914D3534006BA6E5FBA8EDA7018F6ADF"
+				"size" "C05FE5B83CE890A9D7DC1D075FEB5132"
+				"download" "1CE96C340D7B230374CEF1604E4A8427"
 			}
 			"test_crypto"
 			{
@@ -450,15 +456,15 @@
 			}
 			"compliance_pcr"
 			{
-				"gid" "1A9F46BA79F0988BE60B7527F53F2A9D"
-				"size" "7C2C4679044E9CB938F1585890E7B235"
-				"download" "D6AB64F6D51C45365564DE4F50C8961F"
+				"gid" "B19111F6B4624FA58068F712E30313D4"
+				"size" "E50B1D363E40046FF1009E166346CFDA"
+				"download" "FB0F7CE9973AA64728C2D23BBB625955"
 			}
 			"release_candidate"
 			{
-				"gid" "A363845BF9D269193230158394776EDF"
-				"size" "C6EBAF0933D27F1E0A958E7B3D762D12"
-				"download" "EE562716BC84BA17782C389FEC39BE93"
+				"gid" "6EAEB1F6C2EEFB34ED5F30DCB9A81648"
+				"size" "782B0B985CD164A78DC1035EF8F5361B"
+				"download" "36CB2707295BA74C1479A78CD66D0B7F"
 			}
 			"geforcenow_test"
 			{
@@ -496,12 +502,6 @@
 				"size" "810AF7F3F94AB4AB3FB25C070027DF3B"
 				"download" "CD9A908D72342765E2E5F4E06C568687"
 			}
-			"razer_partner_build"
-			{
-				"gid" "52866F62E550DDA96C5AA005C6F03F5B"
-				"size" "B39FDF769A3AD4248032E22C6D0678E2"
-				"download" "3130A9D72EE89FCF82B8E160A4338102"
-			}
 			"awaken_partner_build"
 			{
 				"gid" "DC6CDACADD422F73CBF8860F5B2DB127"
@@ -529,8 +529,8 @@
 	{
 		"public"
 		{
-			"buildid" "16592526"
-			"timeupdated" "1733072709"
+			"buildid" "16611355"
+			"timeupdated" "1733248905"
 		}
 		"jury_member_b26ac11d"
 		{
@@ -538,11 +538,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1732127785"
 		}
+		"porcupine"
+		{
+			"buildid" "16617988"
+			"pwdrequired" "1"
+			"timeupdated" "1733247384"
+		}
 		"live_qa"
 		{
-			"buildid" "16592526"
+			"buildid" "16611355"
 			"pwdrequired" "1"
-			"timeupdated" "1733071028"
+			"timeupdated" "1733215961"
 		}
 		"test_crypto"
 		{
@@ -600,15 +606,15 @@
 		}
 		"compliance_pcr"
 		{
-			"buildid" "16574510"
+			"buildid" "16611355"
 			"pwdrequired" "1"
-			"timeupdated" "1732873176"
+			"timeupdated" "1733227458"
 		}
 		"release_candidate"
 		{
-			"buildid" "16592973"
+			"buildid" "16615699"
 			"pwdrequired" "1"
-			"timeupdated" "1733060289"
+			"timeupdated" "1733235585"
 		}
 		"geforcenow_test"
 		{
@@ -645,12 +651,6 @@
 			"buildid" "14640484"
 			"pwdrequired" "1"
 			"timeupdated" "1717769106"
-		}
-		"razer_partner_build"
-		{
-			"buildid" "16371857"
-			"pwdrequired" "1"
-			"timeupdated" "1731369902"
 		}
 		"awaken_partner_build"
 		{
@@ -691,6 +691,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26445017"
-"_sha" "479aafd3db44638b2bdbaf16119e8b719d207bd4"
-"_size" "13442"
+"_change_number" "26475141"
+"_sha" "70d384a35225ab3d042594b9550b408f21abf279"
+"_size" "13422"
