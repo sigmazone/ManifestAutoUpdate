@@ -117,12 +117,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "1010 Games Ltd"
+			"name" "1010 Games"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "1010 Games Ltd"
+			"name" "1010 Games"
 		}
 		"2"
 		{
@@ -135,6 +135,7 @@
 	{
 		"0" "1"
 		"1" "25"
+		"2" "4"
 	}
 	"category"
 	{
@@ -144,6 +145,9 @@
 		"category_22" "1"
 		"category_57" "1"
 		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -235,38 +239,38 @@
 	"gameid" "1843310"
 	"store_tags"
 	{
-		"0" "5537"
-		"1" "3814"
-		"2" "5652"
-		"3" "1625"
-		"4" "4106"
-		"5" "4747"
-		"6" "1697"
-		"7" "4136"
-		"8" "7481"
-		"9" "6869"
-		"10" "1742"
-		"11" "19"
-		"12" "597"
-		"13" "4305"
-		"14" "1719"
-		"15" "21"
-		"16" "4182"
-		"17" "3843"
+		"0" "3843"
+		"1" "4182"
+		"2" "19"
+		"3" "21"
+		"4" "5537"
+		"5" "1774"
+		"6" "4747"
+		"7" "6869"
+		"8" "1625"
+		"9" "5652"
+		"10" "1664"
+		"11" "1719"
+		"12" "4106"
+		"13" "4191"
+		"14" "597"
+		"15" "4136"
+		"16" "7481"
+		"17" "10397"
 		"18" "3993"
-		"19" "3859"
+		"19" "1697"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "71"
 }
 "extended"
 {
 	"gamedir" "Merlin"
 	"deckresolutionoverride" "1280x720"
-	"developer" "1010 Games Ltd"
-	"publisher" "1010 Games Ltd"
+	"developer" "1010 Games"
+	"publisher" "1010 Games"
 	"homepage" "https://www.funkofusion.com/"
-	"listofdlc" "3037350,3037360,3112580,3112590,3112600,3158300,3158320,3158330,3158340,3158360,3268050,3268060,3268090,3268110,3268230,3307520"
+	"listofdlc" "3037350,3037360,3112580,3112590,3112600,3158300,3158320,3158330,3158340,3158360,3268050,3268060,3268090,3268110,3268230,3307520,3361290,3361300"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -317,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "170026285920421386"
-				"size" "49268319728"
-				"download" "47168490624"
+				"gid" "784421047144026908"
+				"size" "49516681353"
+				"download" "47410569840"
 			}
 		}
 		"encryptedmanifests"
@@ -344,15 +348,15 @@
 			}
 			"live_shipping"
 			{
-				"gid" "54EB2F49763CE057DA11302948886ABD"
-				"size" "96E3A1C0CADE547D034D29DA52E0CECF"
-				"download" "FC3B008B6647C15A9E7C2E563806B6F3"
+				"gid" "C7803D8EC7D2D45CB1288DD6A3AA030E"
+				"size" "E130E5927C2D2E6477D9498D7D83D8B8"
+				"download" "CEDA4659A623CF59EA131761177CDA47"
 			}
 			"merlin-live"
 			{
-				"gid" "D52D91924AE75999049F4B8DB69FD626"
-				"size" "D7918CF3A677DA6F49F6B41DE84AD945"
-				"download" "467D880BAC661A7B51096E53EE5926F6"
+				"gid" "998FB653894A11E2FCE91D012E701FD6"
+				"size" "803536D956992E4C1A616E0638AD2E20"
+				"download" "EA62CF5F08FC0F7EDF25939D9EC17E28"
 			}
 			"merlin_stable"
 			{
@@ -368,21 +372,21 @@
 			}
 			"qa_branch"
 			{
-				"gid" "0224F58749B5848596F333CE8B590EBF"
-				"size" "DA9477E47ECAFEAA054E7D219C692135"
-				"download" "692CFB9153D989ACBD1857896F7F53EA"
+				"gid" "915DCE4EAA024AE05D20F94ADA1C20C3"
+				"size" "52B1532B548AE891233C1A58D80286B1"
+				"download" "F65DCA304330FF41E1D1D37DF4884849"
 			}
 			"qa_smoke"
 			{
-				"gid" "8F4636D9E02C6EF480753781321FD7A5"
-				"size" "1DAEFE227B0D38FC23FD993932FF0443"
-				"download" "4D2BA9C36EA6CF7E444A7A5862A57D91"
+				"gid" "98E5A248473445C3E4FA445B59C67FC3"
+				"size" "B40DF9608B8E9A844FBB77EF4CB3F0ED"
+				"download" "24CA93E6CE6EF7BBDDAA740BAFE84DC1"
 			}
 			"shipping_builds"
 			{
-				"gid" "C9C7D589DD76EBBDFC7B5CC94194420D"
-				"size" "7A41C4E56722E160BB1EE4BE6EC368E0"
-				"download" "209B75740D6F76A91AEC8A29DDA8E21F"
+				"gid" "99819BC2773BACD416D027686FE9A39E"
+				"size" "37DE3A3A8E1190A8308E367628EB1029"
+				"download" "463FA14A4F93BE2FB03E80F68052F5CC"
 			}
 			"stable_shipping"
 			{
@@ -408,8 +412,8 @@
 	{
 		"public"
 		{
-			"buildid" "16551750"
-			"timeupdated" "1732716812"
+			"buildid" "16606300"
+			"timeupdated" "1733230935"
 		}
 		"community_beta"
 		{
@@ -431,15 +435,15 @@
 		}
 		"live_shipping"
 		{
-			"buildid" "16551750"
+			"buildid" "16606300"
 			"pwdrequired" "1"
-			"timeupdated" "1732708362"
+			"timeupdated" "1733175503"
 		}
 		"merlin-live"
 		{
-			"buildid" "16472515"
+			"buildid" "16570578"
 			"pwdrequired" "1"
-			"timeupdated" "1732107249"
+			"timeupdated" "1732821210"
 		}
 		"merlin_stable"
 		{
@@ -455,21 +459,21 @@
 		}
 		"qa_branch"
 		{
-			"buildid" "16564185"
+			"buildid" "16630791"
 			"pwdrequired" "1"
-			"timeupdated" "1732787488"
+			"timeupdated" "1733324600"
 		}
 		"qa_smoke"
 		{
-			"buildid" "16527640"
+			"buildid" "16618029"
 			"pwdrequired" "1"
-			"timeupdated" "1732558435"
+			"timeupdated" "1733303133"
 		}
 		"shipping_builds"
 		{
-			"buildid" "16560967"
+			"buildid" "16623421"
 			"pwdrequired" "1"
-			"timeupdated" "1732763282"
+			"timeupdated" "1733281678"
 		}
 		"stable_shipping"
 		{
@@ -520,6 +524,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26403021"
-"_sha" "71b2cf1d920c02ca43c0b664a7022efdae82238e"
-"_size" "9667"
+"_change_number" "26490489"
+"_sha" "8bf9ea5bb3f9beee3fc5049e2b8aacad1c2c0887"
+"_size" "9744"
