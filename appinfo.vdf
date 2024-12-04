@@ -1,0 +1,368 @@
+"appid" "1579880"
+"common"
+{
+	"name" "The Light Brigade"
+	"type" "Game"
+	"icon" "ce17611d33ea8341eaf001a608de6f26288ba7af"
+	"clienttga" "3d9a5ce9ebc75bdcb78f059773445e4c7f584fd6"
+	"clienticon" "ece796c4cbea4e9a3e9fbf4ace599e0cc29fbc6d"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "1"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1678233600"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.659276546091014"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.659276546091014"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1731029435"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funktronic Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funktronic Labs"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_52" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677087469"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1579880"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "19"
+		"2" "1774"
+		"3" "3968"
+		"4" "4182"
+		"5" "3839"
+		"6" "1663"
+		"7" "492"
+		"8" "3959"
+		"9" "4166"
+		"10" "1716"
+		"11" "1708"
+		"12" "4667"
+		"13" "4175"
+		"14" "122"
+		"15" "5125"
+		"16" "3993"
+		"17" "21"
+		"18" "29482"
+		"19" "4057"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Funktronic Labs"
+	"publisher" "Funktronic Labs"
+	"homepage" "https://www.lightbrigadevr.com/"
+}
+"config"
+{
+	"installdir" "The Light Brigade"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LightBrigade.exe"
+			"type" "vr"
+		}
+	}
+}
+"depots"
+{
+	"1579881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7458528395307760532"
+				"size" "2800677934"
+				"download" "2075041104"
+			}
+			"stableprevious"
+			{
+				"gid" "7304072729984582844"
+				"size" "5265619759"
+				"download" "2800596448"
+			}
+			"public_beta"
+			{
+				"gid" "7458528395307760532"
+				"size" "2800677934"
+				"download" "2075041104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"buildmachine"
+			{
+				"gid" "054EDAE9F3DAADE0CED1FE175B1FFD25"
+				"size" "8FC17D4B4E0C65496972B1B36CF8E0E2"
+				"download" "E1C6B77AC6B27FDD98A9DF81FE06CFC0"
+			}
+			"livtest"
+			{
+				"gid" "5580FBBACB256B23511DFD32A154555A"
+				"size" "0B3426E56B60096C6EEA170F8CB4F9D8"
+				"download" "48AB5354F732BF4AE8FD5AF2D79C4A95"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16560192"
+			"timeupdated" "1733251418"
+		}
+		"stableprevious"
+		{
+			"buildid" "13035255"
+			"description" "previous"
+			"timeupdated" "1713461312"
+		}
+		"buildmachine"
+		{
+			"buildid" "16560192"
+			"pwdrequired" "1"
+			"timeupdated" "1732757936"
+		}
+		"livtest"
+		{
+			"buildid" "16512016"
+			"pwdrequired" "1"
+			"timeupdated" "1732387594"
+		}
+		"public_beta"
+		{
+			"buildid" "16560192"
+			"description" "it\'s fresh"
+			"timeupdated" "1732806299"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "saves/{64BitSteamID}"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "saves/{64BitSteamID}"
+			"pattern" "*.backup"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26475629"
+"_sha" "ee6a4dd0d9ba41002fb76d9400fe00e6b074b1bf"
+"_size" "6190"
