@@ -242,14 +242,14 @@
 		"16" "4885"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "79"
 }
 "extended"
 {
 	"developer" "UnknownX"
 	"publisher" "Alliance Arts"
 	"homepage" "https://danmaku.jp/phantasia-lost/"
-	"listofdlc" "2790910,2790940,2790950,2790960,2790970,2808300,2920470"
+	"listofdlc" "2790910,2790940,2790950,2790960,2790970,2791100,2808300,2920470,3340370,3340380,3340390,3340400"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -270,15 +270,17 @@
 }
 "depots"
 {
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
 	"2190221"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6999714005662119904"
-				"size" "5989649597"
-				"download" "5409727456"
+				"gid" "2683863867253572214"
+				"size" "6096919987"
+				"download" "5511063536"
 			}
 		}
 		"encryptedmanifests"
@@ -321,20 +323,28 @@
 			}
 			"closed"
 			{
-				"gid" "5DF2F5319641321AD38203DED7FFBBDE"
-				"size" "38EFD0111869BDAD4B6C662C692EB7B3"
-				"download" "DD039682C08B97311A1867AF174E113B"
+				"gid" "08D1B533004C0CB367AD06C042B8EF80"
+				"size" "A6840F297D2FC558D601CE16A4E05B54"
+				"download" "A0C8F16538F1E353CD55C2E08EA253D8"
+			}
+			"debug"
+			{
+				"gid" "081A0E8814076B60B35DCEFB6F065039"
+				"size" "3414D547312CEE0761101F8D2869E028"
+				"download" "4A693CA1DB217908568513132948325B"
 			}
 		}
 	}
-	"baselanguages" "english,schinese,tchinese,japanese"
-	"hasdepotsindlc" "1"
+	"2791101"
+	{
+		"dlcappid" "2791100"
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15725199"
-			"timeupdated" "1726736045"
+			"buildid" "16596664"
+			"timeupdated" "1733324040"
 		}
 		"1.1.1b"
 		{
@@ -374,9 +384,15 @@
 		}
 		"closed"
 		{
-			"buildid" "15725199"
+			"buildid" "16596664"
 			"pwdrequired" "1"
-			"timeupdated" "1726555696"
+			"timeupdated" "1733110735"
+		}
+		"debug"
+		{
+			"buildid" "16439921"
+			"pwdrequired" "1"
+			"timeupdated" "1731902821"
 		}
 	}
 }
@@ -409,3 +425,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26490305"
+"_sha" "c0d59c83a74bc15878f4303b6ddcaa580266e3a0"
+"_size" "8805"
