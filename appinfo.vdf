@@ -1,0 +1,665 @@
+"appid" "2591280"
+"common"
+{
+	"name" "F1® Manager 2024"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "c2bedfc715a80b31a0af88f7083136b0000e5cd5"
+	"clienttga" "afc14c6ba757055b3b3b5ece64361661a33f97a7"
+	"icon" "3d17f130823182dfceca595a73318a0beb3ed2cc"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2591280_eula_0"
+			"name" "F1® Manager 2024 EULA"
+			"url" "https://store.steampowered.com//eula/2591280_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1724457600"
+		"tested_build_id" "15266777"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "F1 Manager 2024"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "74.87135506003432"
+			"height_pct" "72.22222222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "74.87135506003432"
+				"height_pct" "72.22222222222223"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1721741606"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frontier Developments"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frontier Developments"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Frontier Developments"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "FrontierDev"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1721743208"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/f1-manager-2024\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2591280"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "699"
+		"3" "1100687"
+		"4" "9204"
+		"5" "16689"
+		"6" "4175"
+		"7" "4191"
+		"8" "12472"
+		"9" "1644"
+		"10" "701"
+		"11" "4695"
+		"12" "5350"
+		"13" "1708"
+		"14" "7332"
+		"15" "6426"
+		"16" "6730"
+		"17" "8945"
+		"18" "5711"
+		"19" "6625"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "Frontier Developments"
+	"publisher" "Frontier Developments"
+	"homepage" "https://www.f1manager.com"
+	"listofdlc" "2934780,2934790"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "F1 Manager 2024"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "F1Manager24.exe"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2591281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7248803439530206750"
+				"size" "18769291025"
+				"download" "16655536032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_mainline_development"
+			{
+				"gid" "0E7EBB5CD47C8CAAE8D215AEED824E94"
+				"size" "EBA3486F8DBC7552C7A681C2D7165AF4"
+				"download" "8BB23BB27A7662E727E6F1A75FB0EB19"
+			}
+			"build_mainline_shipping"
+			{
+				"gid" "9E9857624EB1DC066A28FA278D8CE14E"
+				"size" "997B8C5A9FF39ACF9ACA16D89AC74343"
+				"download" "2627FED22658364630DBF2389A3A1CC6"
+			}
+			"build_mainline_test"
+			{
+				"gid" "A4D06C630B456CD86EEEDF4EB262CB9B"
+				"size" "26B1FFD15C9AE9419BA4AFC29F8F5E06"
+				"download" "D62D0742FC3770F43B8C221F31AAD95B"
+			}
+			"current_build_branch_development"
+			{
+				"gid" "D9FB7155860BE3786B0E62E4C3FB8636"
+				"size" "A06C0643A1BF3E0AE34C69A477785307"
+				"download" "B98056D8FDDB201461BC268563CC1668"
+			}
+			"current_build_branch_shipping"
+			{
+				"gid" "D09C217E0A829683E69E1ECE306A12D1"
+				"size" "2E63974AE3A1522F707A23E2966D3853"
+				"download" "E6F59A06EA9B213C6E29D43612C22780"
+			}
+			"current_build_branch_test"
+			{
+				"gid" "B6343FB0721BF7405783A08B06340439"
+				"size" "98E9DFC739ED0F6B66053342139A0220"
+				"download" "1D9A300F98FCC123F7D30FF6022AEC68"
+			}
+			"qa_staging"
+			{
+				"gid" "5DCD847F5C8C98E50827BD18EB0505B2"
+				"size" "DC10B761B15AA153416D7BF0FFCB174A"
+				"download" "35E515E0544F76F1C278597796255518"
+			}
+			"outsource_lqa"
+			{
+				"gid" "4B1C050D7463AE1B3EF1B51720AC2329"
+				"size" "2272A11AA5EA9E7606491F9F2C7D0DFE"
+				"download" "DDCD45A6B984509BF4DAFB72E0C19013"
+			}
+			"external_1"
+			{
+				"gid" "F291B88D8C9E1539C362AA78F3BBD1D8"
+				"size" "BA98D6DFF640D8BDC50548CE3C44BBBD"
+				"download" "1497B20282F1525E90EC6C0167200358"
+			}
+			"external_02"
+			{
+				"gid" "0F5C00D5682A81E3FF2FB9828DDCC3D0"
+				"size" "52FFC9204F19A6F1711DF728DC8ACD99"
+				"download" "C9330C2F0121AC8CEE0D4D22DAE03107"
+			}
+			"external_03"
+			{
+				"gid" "739F67B2230165D85B7E9A802DA03352"
+				"size" "2E8ACD93A4158A2A6270C9D8CB91D8EB"
+				"download" "D0E427DF5501856EDA79DC83F1CC73FF"
+			}
+			"external_04"
+			{
+				"gid" "BB46B02AC8652AB96960A835D51A9D6C"
+				"size" "D8BDFEE06DFBF61237D695C7A966B038"
+				"download" "72A802E65F2C41490E1E77E4B0B6F1C5"
+			}
+			"external_05"
+			{
+				"gid" "076ECF6AA81C7440DA117E749420382A"
+				"size" "5BD4F915EDFBD3AF25C9026C7EDCD702"
+				"download" "FF5B9F667E3AF2D1421BBB37F1FF0F36"
+			}
+			"external_06"
+			{
+				"gid" "07634609F3BDB8D6586563358F31AC24"
+				"size" "8EE7929F214BF9563A55C37E4E3EE6C9"
+				"download" "A81B241C9BDD7DD7587D3196F61B3ADB"
+			}
+			"external_07"
+			{
+				"gid" "56174EE80A1EBF1A77EA5F09BE1E80C2"
+				"size" "51551DB6B9F4FD411DBF3EFB48424136"
+				"download" "EF18332ABB2AB15E8131E82537D4E556"
+			}
+			"internal_01"
+			{
+				"gid" "C4DC3AC8DFC86229E607AE38C80B1F6F"
+				"size" "36F8EBC8173ED2347430D6E9AD0664AC"
+				"download" "941AD46D064F403B9866621DD0435A72"
+			}
+			"internal_02"
+			{
+				"gid" "E9458D4498C52699313D6C9E78713949"
+				"size" "D4C219E6BF346CFE939D2AEF14100066"
+				"download" "04FEA941F1ADCF66D4D96D512D9CF46F"
+			}
+			"internal_04"
+			{
+				"gid" "55111EEC932A5AA33D1563EC78CCE3D8"
+				"size" "297DAF02E9955469662CDBBAD5518EDB"
+				"download" "5D1C2C4181379F98CBCF48A1C1E70ABC"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16528074"
+			"timeupdated" "1733324431"
+		}
+		"build_mainline_development"
+		{
+			"buildid" "16621022"
+			"pwdrequired" "1"
+			"timeupdated" "1733300140"
+		}
+		"build_mainline_shipping"
+		{
+			"buildid" "16621217"
+			"pwdrequired" "1"
+			"timeupdated" "1733300097"
+		}
+		"build_mainline_test"
+		{
+			"buildid" "16620714"
+			"pwdrequired" "1"
+			"timeupdated" "1733300163"
+		}
+		"current_build_branch_development"
+		{
+			"buildid" "16527508"
+			"pwdrequired" "1"
+			"timeupdated" "1732610494"
+		}
+		"current_build_branch_shipping"
+		{
+			"buildid" "16528074"
+			"pwdrequired" "1"
+			"timeupdated" "1732610415"
+		}
+		"current_build_branch_test"
+		{
+			"buildid" "16527560"
+			"pwdrequired" "1"
+			"timeupdated" "1732610433"
+		}
+		"qa_staging"
+		{
+			"buildid" "15637453"
+			"pwdrequired" "1"
+			"timeupdated" "1725879886"
+		}
+		"outsource_lqa"
+		{
+			"buildid" "15234809"
+			"pwdrequired" "1"
+			"timeupdated" "1722584525"
+		}
+		"external_1"
+		{
+			"buildid" "16168727"
+			"pwdrequired" "1"
+			"timeupdated" "1729849029"
+		}
+		"external_02"
+		{
+			"buildid" "15054043"
+			"pwdrequired" "1"
+			"timeupdated" "1721660372"
+		}
+		"external_03"
+		{
+			"buildid" "14149800"
+			"pwdrequired" "1"
+			"timeupdated" "1713957172"
+		}
+		"external_04"
+		{
+			"buildid" "14302945"
+			"pwdrequired" "1"
+			"timeupdated" "1715179686"
+		}
+		"external_05"
+		{
+			"buildid" "14943821"
+			"pwdrequired" "1"
+			"timeupdated" "1720198589"
+		}
+		"external_06"
+		{
+			"buildid" "14700400"
+			"pwdrequired" "1"
+			"timeupdated" "1718267657"
+		}
+		"external_07"
+		{
+			"buildid" "14664409"
+			"pwdrequired" "1"
+			"timeupdated" "1718357197"
+		}
+		"internal_01"
+		{
+			"buildid" "15905011"
+			"pwdrequired" "1"
+			"timeupdated" "1728384251"
+		}
+		"internal_02"
+		{
+			"buildid" "15460665"
+			"pwdrequired" "1"
+			"timeupdated" "1726067523"
+		}
+		"internal_04"
+		{
+			"buildid" "15547331"
+			"pwdrequired" "1"
+			"timeupdated" "1728639266"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1024000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "autosave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "autosave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "save*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "save*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocal"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "scenario.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "scenario.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinAppDataLocal"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "customisation.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"7"
+		{
+			"root" "gameinstall"
+			"path" "F1Manager24/Saved/SaveGames"
+			"pattern" "customisation.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26490415"
+"_sha" "83d0df53fbab4f33f2b4cb79e199ee8a012cd239"
+"_size" "13344"
