@@ -371,7 +371,7 @@
 		"1"
 		{
 			"executable" "forhonor.exe"
-			"arguments" "-uplay_steam_mode /startedByUplay:Prod,2916,PreRelease_EarlyAccess"
+			"arguments" "-uplay_steam_mode /startedByUplay:Prod,2916,main-prod"
 			"type" "option1"
 			"config"
 			{
@@ -384,22 +384,10 @@
 			}
 			"description" "EarlyAccess"
 		}
-		"2"
-		{
-			"executable" "forhonor.exe"
-			"arguments" "-uplay_steam_mode /startedByUplay:UAT,2916,Test_DEEPTEST2"
-			"description" "DEEPTEST2"
-			"type" "option1"
-			"config"
-			{
-				"oslist" "windows"
-				"betakey" "devopslive"
-			}
-		}
 		"3"
 		{
 			"executable" "forhonor.exe"
-			"arguments" "-uplay_steam_mode /startedByUplay:Prod,2916,Cert_CERTPC_new"
+			"arguments" "-uplay_steam_mode /startedByUplay:Prod,2916,certnew"
 			"type" "option1"
 			"config"
 			{
@@ -462,18 +450,6 @@
 				"betakey" "tupc"
 			}
 		}
-		"9"
-		{
-			"executable" "forhonor.exe"
-			"arguments" "-uplay_steam_mode /startedByUplay:UAT,2916,Test_TUPC-2"
-			"description" "TUPC-2"
-			"type" "option1"
-			"config"
-			{
-				"oslist" "windows"
-				"betakey" "tupc2"
-			}
-		}
 	}
 	"steamcontrollertemplateindex" "2"
 	"steamcontrollerconfigfileids" "860214714,859704695"
@@ -496,9 +472,9 @@
 		{
 			"public"
 			{
-				"gid" "6175169132316617867"
-				"size" "111457949371"
-				"download" "110223099216"
+				"gid" "4770303029971451806"
+				"size" "114217720107"
+				"download" "112988381440"
 			}
 			"local"
 			{
@@ -509,12 +485,6 @@
 		}
 		"encryptedmanifests"
 		{
-			"devopslive"
-			{
-				"gid" "FF39C7D24893ABAD09DF80BDFBD5D62F"
-				"size" "EE91C537D30849674C980230720C5FD0"
-				"download" "22021E62297D084CEE19A4F598D8EB9F"
-			}
 			"earlyaccess"
 			{
 				"gid" "BC94A60373CAFD548AB4EEDEFB485007"
@@ -535,15 +505,15 @@
 			}
 			"steamcertpc"
 			{
-				"gid" "03381F72316C37533A235E25B947B18B"
-				"size" "F6CDA1421D6246B75B7C352C2FA48155"
-				"download" "23D4C49DB2D7B629818118E6C75D58A2"
+				"gid" "A402CB7DD4DFD4E39D86BB748A69C06F"
+				"size" "AFB8B3C8C26B0D63AE43CFC7FB91EF3E"
+				"download" "2BAD87F03DC0D70899909881BDBFEB6B"
 			}
 			"tupc"
 			{
-				"gid" "5E49CC80F35C5AF8C9DC321B84930260"
-				"size" "1CB95C04832E5339AD653FAE9690B123"
-				"download" "5C940E79391E9BB60B74F6565D29599E"
+				"gid" "96A2A2B83F49778F2CF8BB6234FEEEC2"
+				"size" "6A5B9AF620C257273A7E9C3954C92C83"
+				"download" "4ADD31A9386E975AEFF613EE91CC1A13"
 			}
 		}
 	}
@@ -553,9 +523,9 @@
 		{
 			"public"
 			{
-				"gid" "6407822217219551890"
-				"size" "227545200"
-				"download" "229241360"
+				"gid" "6750736260530963906"
+				"size" "256391736"
+				"download" "258388880"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -564,14 +534,8 @@
 	{
 		"public"
 		{
-			"buildid" "16251565"
-			"timeupdated" "1730380095"
-		}
-		"devopslive"
-		{
-			"buildid" "13739574"
-			"pwdrequired" "1"
-			"timeupdated" "1710447025"
+			"buildid" "16634163"
+			"timeupdated" "1733407835"
 		}
 		"local"
 		{
@@ -600,19 +564,19 @@
 		}
 		"steamcertpc"
 		{
-			"buildid" "16180824"
+			"buildid" "16580079"
 			"pwdrequired" "1"
-			"timeupdated" "1729861356"
+			"timeupdated" "1732896198"
 		}
 		"tupc"
 		{
-			"buildid" "16180824"
+			"buildid" "16344652"
 			"pwdrequired" "1"
-			"timeupdated" "1730319978"
+			"timeupdated" "1731084680"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25989514"
-"_sha" "39cd12c9bffc26f5c8929bd46a0704a39fb30877"
-"_size" "12259"
+"_change_number" "26508712"
+"_sha" "7c679bb52be5e64da188fc76ebfe63be28be7185"
+"_size" "11448"
