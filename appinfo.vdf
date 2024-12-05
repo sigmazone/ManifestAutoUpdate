@@ -1,0 +1,216 @@
+"appid" "2072470"
+"common"
+{
+	"name" "Yokai Art : Adult Content Patch"
+	"type" "DLC"
+	"parent" "1812060"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "5"
+		"3" "4"
+	}
+	"restricted_countries" "CN,DE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_edb6d216379c53e40cd79327ee2777ddffaba469.jpg"
+	"store_asset_mtime" "1656436352"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Secret Labo"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Secret Labo"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Secret Labo"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1664434613"
+	"gameid" "2072470"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "492"
+		"2" "597"
+		"3" "9"
+		"4" "19"
+		"5" "12095"
+		"6" "6650"
+	}
+	"review_score" "7"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"dlcforappid" "1812060"
+	"mustownapptopurchase" "1812060"
+	"developer" "Secret Labo"
+	"publisher" "Secret Labo"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2072470"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3814271785337681067"
+				"size" "3794592192"
+				"download" "1111251008"
+			}
+			"buildx32"
+			{
+				"gid" "6253962766310342562"
+				"size" "3380014353"
+				"download" "1296698480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internaldevx32"
+			{
+				"gid" "E099BFFEF0D57C1177BBE891FA248283"
+				"size" "86D4098583304D050ACEA22C091305F1"
+				"download" "FACCCA6D8A59585E58431E7C70900AB0"
+			}
+			"survival"
+			{
+				"gid" "842FAE38E2756CFABEA6A73CBBBB9AFB"
+				"size" "763853223015B980FF623E8D085A7C36"
+				"download" "A72339499A11F0F1E71B083A98852F29"
+			}
+			"devtest"
+			{
+				"gid" "4AB4A455AD948B9045821C72240FA0DA"
+				"size" "C024BEAF80E1C0DB37FFA928861C6A6D"
+				"download" "CC5EAB25328CA47045DA5AFBFAB67653"
+			}
+			"internaldev"
+			{
+				"gid" "966B3273862ECBA100F6DBC17DE0FE51"
+				"size" "337070351C69510D30FD4E0413133967"
+				"download" "DE0C600168E82565D1AAAF1AABD610FE"
+			}
+			"playertest"
+			{
+				"gid" "60449BB06715BE47D059F4564F26677A"
+				"size" "0C54063B4E8B08B968A7E817A8400E28"
+				"download" "C37C964EF50A94DDC4BA891A84C1C8FA"
+			}
+		}
+		"dlcappid" "2072470"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16625307"
+			"timeupdated" "1733363894"
+		}
+		"buildx32"
+		{
+			"buildid" "9890052"
+			"description" "Public Build x32 DLC"
+			"timeupdated" "1667890479"
+		}
+		"internaldevx32"
+		{
+			"buildid" "9890052"
+			"pwdrequired" "1"
+			"timeupdated" "1667885614"
+		}
+		"survival"
+		{
+			"buildid" "10765090"
+			"pwdrequired" "1"
+			"timeupdated" "1678795874"
+		}
+		"devtest"
+		{
+			"buildid" "16625307"
+			"pwdrequired" "1"
+			"timeupdated" "1733296794"
+		}
+		"internaldev"
+		{
+			"buildid" "14198396"
+			"pwdrequired" "1"
+			"timeupdated" "1714272237"
+		}
+		"playertest"
+		{
+			"buildid" "16625307"
+			"pwdrequired" "1"
+			"timeupdated" "1733309521"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26499607"
+"_sha" "389949022d390f601dc2b70e2430f8c7748fce64"
+"_size" "3767"
