@@ -132,7 +132,52 @@
 			"height_pct" "83.36051787565809"
 		}
 	}
-	"store_asset_mtime" "1718914588"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "19.443612788453265"
+				"height_pct" "83.36051787565809"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1733418871"
 	"associations"
 	{
 		"0"
@@ -321,7 +366,7 @@
 		"19" "6426"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -331,7 +376,7 @@
 	"developer" "New World Interactive"
 	"publisher" "Focus Entertainment"
 	"homepage" "https://www.focus-home.com/games/insurgency-sandstorm"
-	"listofdlc" "996220,1308180,1308181,1308182,1308183,1409140,1409141,1409142,1409143,1481110,1481111,1481112,1481113,1575020,1590710,1590711,1590712,1590713,1711180,1711181,1711182,1711183,1759140,1760280,1763080,1763081,1763082,1763083,1836470,2062370,2062371,2062372,2062373,2062374,2062375,2062376,2062377,2432520,2432521,2432522,2432523,2606030,2606040,2606050,2606060"
+	"listofdlc" "996220,1308180,1308181,1308182,1308183,1409140,1409141,1409142,1409143,1481110,1481111,1481112,1481113,1575020,1590710,1590711,1590712,1590713,1711180,1711181,1711182,1711183,1759140,1760280,1763080,1763081,1763082,1763083,1836470,2062370,2062371,2062372,2062373,2062374,2062375,2062376,2062377,2432520,2432521,2432522,2432523,2606030,2606040,2606050,2606060,2606070,2606080,2606090,2606100"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -434,9 +479,9 @@
 		{
 			"public"
 			{
-				"gid" "3553431306260831923"
-				"size" "30187786850"
-				"download" "26228980768"
+				"gid" "522978735738504757"
+				"size" "28547966388"
+				"download" "24526996944"
 			}
 		}
 		"encryptedmanifests"
@@ -446,12 +491,6 @@
 				"gid" "FF546DD0AA345712A4A11CE68A465823"
 				"size" "1B995483CA9A73E1C977082F2C64FEB7"
 				"download" "EF946D0CBFCE81BF0574B3240B5D4705"
-			}
-			"ss_external_2"
-			{
-				"gid" "BBC505796934B76E3CE03C03E1B616B4"
-				"size" "82FA9B3150DC82640A1579DFE956D0A0"
-				"download" "237FFD19FB2C832C425DAA1EC0333C56"
 			}
 			"streams"
 			{
@@ -471,17 +510,17 @@
 				"size" "18B397BEF2AD3DAA502265F8C04B2A2F"
 				"download" "FA352F6D104B10242B84E6D2A9B98CFD"
 			}
-			"unstable_shipping"
-			{
-				"gid" "C3C108581FA7B737D7A36F53247E711A"
-				"size" "A1A695CB488E3F7897340FBB5BA5EA8D"
-				"download" "79116C29CFEF3400763957D7E0F8BE93"
-			}
 			"unstable_test"
 			{
 				"gid" "9563E25EE6C6CFC16E9A25C4C90B9E90"
 				"size" "32F5941CD8054A80D2F329B11DE97405"
 				"download" "3D3FE8CF199A108120A663BCFB7126E4"
+			}
+			"fe_aqua"
+			{
+				"gid" "334071A03C5A6C2A55CDA5A776FF69F7"
+				"size" "EB472E33AD583BA180E3C814C4F5DD8C"
+				"download" "44671E15C9BBE9821AB9CEE46A15B89E"
 			}
 			"ss_evaluation_1"
 			{
@@ -491,27 +530,45 @@
 			}
 			"ss_external_1"
 			{
-				"gid" "918950D686A0B66C60B8C03D53002416"
-				"size" "AF5DB21970846FE7424BCA77095DEBF3"
-				"download" "3F707E993FF5EB94A89D995AAC58BA2A"
+				"gid" "DCD5A15A3B96AE9356FCA9B321662A1B"
+				"size" "AED469F891B62A9A146E0585E15E41C3"
+				"download" "ED49885A158E310BF96A60FD8EAF76A0"
+			}
+			"ss_external_2"
+			{
+				"gid" "6BBC4ACE4C26ED36BC83F7598CE31F62"
+				"size" "AACC54237B91B6EC992EF3B71953C098"
+				"download" "90284813EEE60077C9FE70CE73AE52D6"
 			}
 			"ss_external_3"
 			{
-				"gid" "4FEB3FF5A726EA4775ADE58BA495694D"
-				"size" "8AD3364385CCF7278B2D84F02F8AD05F"
-				"download" "4DDA6968DD80BA8BBC67AC979D504688"
+				"gid" "0679AA111181655CDA8700C7D3134185"
+				"size" "340433AD0B3233062E2605DA39A0F990"
+				"download" "DB736314CA3894868B073FC738329E22"
+			}
+			"ss_internal_temp_test"
+			{
+				"gid" "A5EA344ADECEC241BB589BEF44A68E1C"
+				"size" "238BC808695E4E504B761D3897007FCC"
+				"download" "7E107098D40B580E319817F598E2DEA3"
 			}
 			"ss_main_1"
 			{
-				"gid" "1967A384E62F97843BED2B48690DC23D"
-				"size" "8A9F2227886009369B0262F290533818"
-				"download" "88B3C207A14A8F7623E0CF9E933980EE"
+				"gid" "F4CFE48031110D419C19DC99C5F1D22F"
+				"size" "3F34A8CD1D7678733CFBC657DF1D742E"
+				"download" "6229D6EAA925E9C0446ADF06BAD05BB6"
 			}
 			"ss_main_2"
 			{
-				"gid" "5EB4A30C3C0CCF3E35DD130630BAB7FC"
-				"size" "A06AF69142756B6FF329929150029906"
-				"download" "7AF07964ABF8B2CEC5698D74045F16A7"
+				"gid" "B19829E3A1973938912F1AC3AF568353"
+				"size" "3D77B47C53A2D2A8AAADF03A4FA47034"
+				"download" "3EE10A183395483C0FF57BEDE26590AD"
+			}
+			"unstable_shipping"
+			{
+				"gid" "0B5D9F942EBA10B7F23D30E8DFA50EFC"
+				"size" "FA15EB7C336D2FAE35023508AC67B2EB"
+				"download" "F823FD42CA01F4C6BEAF70A30471E594"
 			}
 		}
 	}
@@ -540,12 +597,6 @@
 				"size" "C23EED500B40EEA74D4FF28AB526DFB1"
 				"download" "C23EED500B40EEA74D4FF28AB526DFB1"
 			}
-			"ss_external_2"
-			{
-				"gid" "81689D58CEDAFBA56240B879EC3840CA"
-				"size" "9ED4225F8DF7BE80D845DC75AC7DE90B"
-				"download" "9ED4225F8DF7BE80D845DC75AC7DE90B"
-			}
 			"streams"
 			{
 				"gid" "EA1F89A52D6D2FE01F11E3D0C93D026D"
@@ -564,17 +615,17 @@
 				"size" "B9E8AC9D2E8C25FE19A54288EB3FB0AD"
 				"download" "B9E8AC9D2E8C25FE19A54288EB3FB0AD"
 			}
-			"unstable_shipping"
-			{
-				"gid" "1C2E0E663CD7466F7CACFA8CE19010BE"
-				"size" "2F68B0AAC69152BC46A7C9C3CDBBA7BA"
-				"download" "2F68B0AAC69152BC46A7C9C3CDBBA7BA"
-			}
 			"unstable_test"
 			{
 				"gid" "B33AD3FEE9A4C4311087956311BA014B"
 				"size" "82624BB266185110DA8041423A30B1CA"
 				"download" "82624BB266185110DA8041423A30B1CA"
+			}
+			"fe_aqua"
+			{
+				"gid" "06B1633C54F3E32E300A8E4F84119E44"
+				"size" "8127741587EDC0BE328F69D8810CE6AA"
+				"download" "8127741587EDC0BE328F69D8810CE6AA"
 			}
 			"ss_evaluation_1"
 			{
@@ -588,11 +639,23 @@
 				"size" "F61134EAB5E6BCCE17D99935F7CE622F"
 				"download" "F61134EAB5E6BCCE17D99935F7CE622F"
 			}
+			"ss_external_2"
+			{
+				"gid" "81689D58CEDAFBA56240B879EC3840CA"
+				"size" "9ED4225F8DF7BE80D845DC75AC7DE90B"
+				"download" "9ED4225F8DF7BE80D845DC75AC7DE90B"
+			}
 			"ss_external_3"
 			{
 				"gid" "E293D2171DF0527A2CE28C8F0986C6AF"
 				"size" "4ACD38FBA85B4630E67615439D60C02D"
 				"download" "4ACD38FBA85B4630E67615439D60C02D"
+			}
+			"ss_internal_temp_test"
+			{
+				"gid" "FC8D2ED1428F4B8D707DB271DC81FC93"
+				"size" "8E1927A46B9446C0A05603F12F12C64A"
+				"download" "8E1927A46B9446C0A05603F12F12C64A"
 			}
 			"ss_main_1"
 			{
@@ -605,6 +668,12 @@
 				"gid" "FA1A8F95F3FA1CEB10858FF0CEC408F6"
 				"size" "2B7C4CEC393C8E176C7B419AF74F9168"
 				"download" "2B7C4CEC393C8E176C7B419AF74F9168"
+			}
+			"unstable_shipping"
+			{
+				"gid" "1C2E0E663CD7466F7CACFA8CE19010BE"
+				"size" "2F68B0AAC69152BC46A7C9C3CDBBA7BA"
+				"download" "2F68B0AAC69152BC46A7C9C3CDBBA7BA"
 			}
 		}
 	}
@@ -780,19 +849,13 @@
 		{
 			"public"
 			{
-				"gid" "3415515214349843892"
-				"size" "6882337995"
-				"download" "5812261360"
+				"gid" "2609424491151605004"
+				"size" "7376544248"
+				"download" "6247178896"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"ss_external_2"
-			{
-				"gid" "5A59AE26717D6997316B8D8CB99D428F"
-				"size" "68D20579BFEB81C4254A682CB4F0BEF2"
-				"download" "637018258896E48C8C59A4E023B30834"
-			}
 			"streams"
 			{
 				"gid" "8ED144B8A315D71B90EF549406632D4B"
@@ -811,17 +874,17 @@
 				"size" "2AC6B184B99023324A046BCF69678B09"
 				"download" "2DDD66C75A99C028D3B682BE1E16F966"
 			}
-			"unstable_shipping"
-			{
-				"gid" "35040B09791D1A91DAE186EF7B50954C"
-				"size" "F12844DA286FF244B3ECE0CD70B75E1D"
-				"download" "63DDAC1E0D39FD7BA6A0EBD47AA22D24"
-			}
 			"unstable_test"
 			{
 				"gid" "F7436E657D7CA5BAE7E4F686C857378B"
 				"size" "A81ECD42B40D85E4BB75564711D0EB26"
 				"download" "73B894FAB66DE88D87F0F2C1B4CC2812"
+			}
+			"fe_aqua"
+			{
+				"gid" "E17998921967AD931DFED27DEE7A4075"
+				"size" "971EFE39D9297D07DF50D6A728E729BA"
+				"download" "13958612F5E6F428AF7F08B445AFA254"
 			}
 			"ss_evaluation_1"
 			{
@@ -831,27 +894,45 @@
 			}
 			"ss_external_1"
 			{
-				"gid" "79811CBF49ACDED70010F84894F85EF7"
-				"size" "33DDE3B5DFFBB993ED7D4FEAC16BB7CF"
-				"download" "5D4C636F9F4D2F4C6758C124D1E880B2"
+				"gid" "C59C51C00D1CDD6AA1916910386A8400"
+				"size" "6CB84971BD2573051DF0FED5D07DC517"
+				"download" "1AEA02CBC5C2064347EAA9AE3EF4B02D"
+			}
+			"ss_external_2"
+			{
+				"gid" "ECD2731C65E1BD60B0DA234229BA45E0"
+				"size" "C54B59099D4FF286D41E0E4542F7E333"
+				"download" "B7CD776693270D19F0207361A2C085BC"
 			}
 			"ss_external_3"
 			{
-				"gid" "E950169C5B6A9388717BC43C843C05A5"
-				"size" "05EF81C4AC04FBFCA5390030FA6F04CA"
-				"download" "53FAAA9FD55A2C56F3900D53088B6CEC"
+				"gid" "FF562DB053A85E4317C0C55A08D4BB3F"
+				"size" "A6C8FB8B3F6384E6F8D30E9F7DDFB7E6"
+				"download" "1F0FD2F9E8C36807871DEA3FCF268C42"
+			}
+			"ss_internal_temp_test"
+			{
+				"gid" "AEC010B76167AE52ACA68EE6B79A44A2"
+				"size" "EE16801E6F3B2F822FE2A67A3D5407B0"
+				"download" "58E7A3BC92907A16987233DAFC9C1F3D"
 			}
 			"ss_main_1"
 			{
-				"gid" "496B86B8DC1E2FEB00AAF8BE6FE03D6C"
-				"size" "40EF8C268B5C62A316D32872DD85EBE3"
-				"download" "4B4B5A3E3FAF4F86580E92EB9C2E2B29"
+				"gid" "F0DB4372B8393EE733991D09A4B7EDC0"
+				"size" "5A657C92606C9BD7D24B5FC5FE982AC6"
+				"download" "52BEC770F4F890B1C32FD060DA4C7D47"
 			}
 			"ss_main_2"
 			{
-				"gid" "B38B2D8AC5EB1F7F82544267E4E25D42"
-				"size" "24135A4D37CADF7A097C06BED0D70F9F"
-				"download" "EC001E28FA999CD3FA9A64AC20E7D3E8"
+				"gid" "3D26E4AACC2DAF7E25519D9D115225EB"
+				"size" "B7C245D909429E8B9B1C946915BD52EB"
+				"download" "5861347A853EB5105A72CBEC3292BEC0"
+			}
+			"unstable_shipping"
+			{
+				"gid" "4BFC784397D6814D21D831DA4F1928AC"
+				"size" "74F355F201394F91DA7F45C2C35E3AFA"
+				"download" "2E6584862FD9A0E62762B80D64DE07C4"
 			}
 		}
 	}
@@ -859,20 +940,14 @@
 	{
 		"public"
 		{
-			"buildid" "15063691"
-			"timeupdated" "1721750482"
+			"buildid" "16293775"
+			"timeupdated" "1733418037"
 		}
 		"recording"
 		{
 			"buildid" "3361079"
 			"pwdrequired" "1"
 			"timeupdated" "1543964714"
-		}
-		"ss_external_2"
-		{
-			"buildid" "12831379"
-			"pwdrequired" "1"
-			"timeupdated" "1701284004"
 		}
 		"streams"
 		{
@@ -892,17 +967,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1648150512"
 		}
-		"unstable_shipping"
-		{
-			"buildid" "11973737"
-			"pwdrequired" "1"
-			"timeupdated" "1696079259"
-		}
 		"unstable_test"
 		{
 			"buildid" "10380479"
 			"pwdrequired" "1"
 			"timeupdated" "1674662214"
+		}
+		"fe_aqua"
+		{
+			"buildid" "16293775"
+			"pwdrequired" "1"
+			"timeupdated" "1731491167"
 		}
 		"ss_evaluation_1"
 		{
@@ -912,27 +987,45 @@
 		}
 		"ss_external_1"
 		{
-			"buildid" "14897100"
+			"buildid" "16125956"
 			"pwdrequired" "1"
-			"timeupdated" "1719856580"
+			"timeupdated" "1729852058"
+		}
+		"ss_external_2"
+		{
+			"buildid" "16260108"
+			"pwdrequired" "1"
+			"timeupdated" "1730430727"
 		}
 		"ss_external_3"
 		{
-			"buildid" "14536590"
+			"buildid" "16645706"
 			"pwdrequired" "1"
-			"timeupdated" "1717003098"
+			"timeupdated" "1733414829"
+		}
+		"ss_internal_temp_test"
+		{
+			"buildid" "16528411"
+			"pwdrequired" "1"
+			"timeupdated" "1732616294"
 		}
 		"ss_main_1"
 		{
-			"buildid" "15063691"
+			"buildid" "16630601"
 			"pwdrequired" "1"
-			"timeupdated" "1721655200"
+			"timeupdated" "1733323733"
 		}
 		"ss_main_2"
 		{
-			"buildid" "15118796"
+			"buildid" "16293775"
 			"pwdrequired" "1"
-			"timeupdated" "1721697354"
+			"timeupdated" "1731486859"
+		}
+		"unstable_shipping"
+		{
+			"buildid" "16619711"
+			"pwdrequired" "1"
+			"timeupdated" "1733302997"
 		}
 	}
 }
@@ -941,125 +1034,7 @@
 	"quota" "8192000"
 	"maxnumfiles" "1000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "Watching a replay"
-				"#status_atmainmenu" "Main Menu"
-				"#status_inqueue" "Finding a match"
-				"#status_inqueuefortype" "In queue for %playlisttitle%"
-				"#status_playing" "Playing a match"
-				"#status_playingmapmode" "Playing %mapmodename%"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "Viewing post-match results"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "Schaut ein Replay"
-				"#status_atmainmenu" "Hauptmenü"
-				"#status_inqueue" "Sucht nach Match"
-				"#status_inqueuefortype" "In queue for %playlisttitle%"
-				"#status_playing" "Playing a match"
-				"#status_playingmapmode" "Spielt ein Match"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "Schaut Match-Ergebnisse an"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "Recherche d\'une partie"
-				"#status_atmainmenu" "Menu principal"
-				"#status_inqueue" "Recherche d\'une partie"
-				"#status_inqueuefortype" "In queue for %playlisttitle%"
-				"#status_playing" "Joue une partie"
-				"#status_playingmapmode" "Joue sur %mapmodename%"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "Regarde les résultats d\'après match"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "Guarda un replay"
-				"#status_atmainmenu" "Menu principale"
-				"#status_inqueue" "Ricerca partita"
-				"#status_inqueuefortype" "Cerca una partita %playlisttitle%"
-				"#status_playing" "Gioca una partita"
-				"#status_playingmapmode" "In %mapmodename%"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "Visualizzazione risultati post-partita"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "Mirando una repetición"
-				"#status_atmainmenu" "Menú principal"
-				"#status_inqueue" "Buscando una partida"
-				"#status_inqueuefortype" "In queue for %playlisttitle%"
-				"#status_playing" "Jugando una partida"
-				"#status_playingmapmode" "Jugando %mapmodename%"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "Analizando los resultados después de la partida"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "观看回放"
-				"#status_atmainmenu" "主菜单"
-				"#status_inqueue" "正在寻找比赛"
-				"#status_inqueuefortype" "In queue for %playlisttitle%"
-				"#status_playing" "进行一局比赛"
-				"#status_playingmapmode" "玩%mapmodename%"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "正在查看赛后结果"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
-				"#status_viewingreplay" "Смотрит повтор"
-				"#status_atmainmenu" "Главное меню"
-				"#status_inqueue" "Поиск матча"
-				"#status_inqueuefortype" "Найдена игра: {#Type_%type%}"
-				"#status_playing" "Участвует в матче"
-				"#status_playingmapmode" "Участвует в матче: %mapmodename%"
-				"#status_playingplaylistmapmode" "Playing %playlisttitle% %mapmodename%"
-				"#status_viewingmatchresults" "Смотрит результаты матча"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24479091"
-"_sha" "93786e2ecf936cbe71e5ee55b2e43787d451cd18"
-"_size" "22708"
+"_change_number" "26512160"
+"_sha" "c8ec3f09a7a2d4c9d3a9fd6c13d98d0d9d341253"
+"_size" "20412"
