@@ -1,0 +1,1171 @@
+"appid" "1874000"
+"common"
+{
+	"name" "Life is Strange: Double Exposure"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "d2892b41655974f7472c656685f1e912c3c61b65"
+	"clienttga" "8618dd145e2968a72f8edc37de68175d71191cf7"
+	"icon" "c428ff3626c5896b2a0b1f441a04c0985c4d311a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1874000_eula_0"
+			"name" "Life is Strange: Double Exposure EULA"
+			"url" "https://store.steampowered.com//eula/1874000_eula_0"
+			"version" "1"
+		}
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1728345600"
+		"tested_build_id" "15907029"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "b225a16e4e2c4a9069fc87609fc34df9f65c7943/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "113.54166666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "113.54166666666666"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732039188"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deck Nine Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Life is Strange"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_59" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730217432"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1874000"
+	"store_tags"
+	{
+		"0" "6426"
+		"1" "44868"
+		"2" "7208"
+		"3" "1742"
+		"4" "4486"
+		"5" "4947"
+		"6" "1697"
+		"7" "19"
+		"8" "5608"
+		"9" "4166"
+		"10" "5716"
+		"11" "5984"
+		"12" "21"
+		"13" "4252"
+		"14" "4145"
+		"15" "10808"
+		"16" "4182"
+		"17" "7702"
+		"18" "6971"
+		"19" "1756"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Deck Nine Games"
+	"publisher" "Square Enix"
+	"homepage" "https://www.lifeisstrange.com"
+	"listofdlc" "3012890,3012900"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "LifeIsStrangeDoubleExposure"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LifeIsStrangeDoubleExposure.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Chronos.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "d9qa2,se_brand, se_agerating"
+			}
+			"description_loc"
+			{
+				"english" "Life Is Strange Double Exposure (Old Exe)"
+			}
+			"description" "Life Is Strange Double Exposure (Old Exe)"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2432972288"
+		{
+			"controller_type" "controller_generic"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1874001"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9166149230958407956"
+				"size" "23847398905"
+				"download" "22903477520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"se_internaltest"
+			{
+				"gid" "7FDFDD1537B8DFEF4A8A97C746A6FBC2"
+				"size" "757D1F434B9C04844A12F6D1EA4A8386"
+				"download" "8A500F5996DB7BF217BF2561291E70E1"
+			}
+			"se_usertest"
+			{
+				"gid" "7E2004E7A80A8504722D23DC668B3E35"
+				"size" "B39050E3E9A5CBE351D10B95F10683CE"
+				"download" "E20E6D75D1CD0CAE9497D89575081ABE"
+			}
+			"se_vs"
+			{
+				"gid" "83D6775F8DDA63523824368561FBFCD1"
+				"size" "72E2016B8969605487C265C3F3B84978"
+				"download" "994F9DFE1EB9A2C185191C99375AC542"
+			}
+			"d9_ea"
+			{
+				"gid" "5F2FB11BC57C414F9DABF138B30C86DD"
+				"size" "CBB941DFC4F67598ABC24F8F4A60EBAE"
+				"download" "9CE02619503C5B4044E9DB654DB3C374"
+			}
+			"d9denuvo"
+			{
+				"gid" "4755FDC6EAE0DAA5F8CB7C4F6A98834A"
+				"size" "50C460374EFB2DF8867A9F0AA22158EE"
+				"download" "9F8C3FB66B0CDE53AE73F30AFBB5DBA7"
+			}
+			"d9dev"
+			{
+				"gid" "78DCC608D1FBC1C7AB148A3CBF9676F4"
+				"size" "F798AAC2FA2C78EB0A0C6DF745A081F2"
+				"download" "F1898E09FCD720D82E46F04C0EEC1A2B"
+			}
+			"d9qa"
+			{
+				"gid" "7CDDC2B58DF90DE124524ED8C15A8187"
+				"size" "A89628EA0038AAC1B840134CAF40490B"
+				"download" "7A884C592693504C54C08EB9707EA004"
+			}
+			"d9qa2"
+			{
+				"gid" "AEC7DF66A920210FFEBFEB82F757F6B5"
+				"size" "B389FA77D61BD9226E55825034A5A466"
+				"download" "D10DC27840564AFCE1739954D583FCCB"
+			}
+			"d9shipping"
+			{
+				"gid" "F98166B238C656A0CAB7D133139DAD2C"
+				"size" "33FC9D14544B28D946EF912999BF248F"
+				"download" "A68382B834EE8154D04AB2B6B1636B4B"
+			}
+			"d9staging"
+			{
+				"gid" "6ADAE92E35D149F4A70395356875C3CB"
+				"size" "C5030F3C91AF18C7414F1B3C227D63A1"
+				"download" "950B6D989F8E96F25F57AA18C9843C55"
+			}
+			"se-analytics"
+			{
+				"gid" "E477AC698CC02B7B2A4E424994AC2827"
+				"size" "CB893299787F9C83370BFA2170008244"
+				"download" "C4690DCDBD1BAB070C2BA4E07B852DF6"
+			}
+			"se-compat"
+			{
+				"gid" "8337B95A94764C8D3C3C0650A66005C6"
+				"size" "F547A5ABA2762FEFBA71548BD115B6BD"
+				"download" "C2031C32E10FFCE24A176EF59C37AA88"
+			}
+			"se-compat-shipping"
+			{
+				"gid" "D184403ADAEE00FEE551CAA90E4C5321"
+				"size" "7D379A57B67352030FA199E88E5D12B0"
+				"download" "B544AE7AFB4AAC041C42D7CBC1DE8331"
+			}
+			"se-ffm"
+			{
+				"gid" "9F13D52DCFA74F14221A7069C93CBD13"
+				"size" "B7F6E5F741661F6817B0B16D6EECEE86"
+				"download" "16E87C3F94497CA922A384C158D4FCA6"
+			}
+			"se_agency"
+			{
+				"gid" "DDB0AB4702E29FC9D5D9660C9EF13C29"
+				"size" "179E587C942BF2C9B9F560D9E3702B06"
+				"download" "7AFB62C602E4B18C113278F10D1457A8"
+			}
+			"se_agerating"
+			{
+				"gid" "73F15827403A4FED2425F5E00A358327"
+				"size" "24EFF0AC63D34202CF35E5E9253C3925"
+				"download" "0864DCA59610EE0C82147D794F73F6E0"
+			}
+			"se_brand"
+			{
+				"gid" "BC8FD7CA91D4BC13243FB4B553ED2208"
+				"size" "FAFA24BE383A8777BE0435E331E71F87"
+				"download" "158213DEFA4D8293957CF01D2A9542D5"
+			}
+			"se_capture"
+			{
+				"gid" "D45B0D1AB345C84423F22B2181FEC97F"
+				"size" "82220F8A5B484F49F24C9C92101C3328"
+				"download" "7BD57C3849B997800B7657D30A7CCF4D"
+			}
+			"se_dnat"
+			{
+				"gid" "24704071A95224955155EE22046A0912"
+				"size" "1BE1813E61DF80C86002E6FE4BCB81E4"
+				"download" "9B08F6DD86A933114C9819F0E323003C"
+			}
+			"se_ea_review"
+			{
+				"gid" "0A1261E4E455220036D36436E7B509F4"
+				"size" "2775E17185ADEAA2785E3FA6A827DAD5"
+				"download" "D1020DC6A285A5F4A55B4286A14CF778"
+			}
+			"se_ea_review2"
+			{
+				"gid" "B1E03C556EABAAEA3E63B1C8428BDC3E"
+				"size" "D38199A9777ADBA3B4176C1C17BB295C"
+				"download" "B89E26A6040C0BE4D822E347B59005FC"
+			}
+			"se_gamescom"
+			{
+				"gid" "AA7E81CF2FE857FC5994E89C6528E104"
+				"size" "F4CCD6FEC807927864B67C4DA16DEE0C"
+				"download" "92E3CAE02E2F2BD14539C42C7EE3DF1C"
+			}
+			"se_gl"
+			{
+				"gid" "5F009B45BD7EA7116D3780CEAAA24CFE"
+				"size" "9974B1FA2DD26790AC2A0DA3BC9B4091"
+				"download" "F5C0A52F7D419D7942C1EC0AF6E9FEA4"
+			}
+			"se_localisation"
+			{
+				"gid" "4BCB3E464642D88846C11E57D0D7E928"
+				"size" "283A73611211826E763B69AF9194C7D5"
+				"download" "AEC2874134F3CFC235D5AD9B809A5241"
+			}
+			"se_localisation_alt"
+			{
+				"gid" "D10BFE9CFB77BA7874FC39DC7043426B"
+				"size" "9AABF203F5CD44CDD6D60D7E03D8CBB8"
+				"download" "9680804CFD25AEFFC7BC2BBB9F1BABEB"
+			}
+			"se_locqa1"
+			{
+				"gid" "C7F252C5E5963C5B7DE086AA09A272A6"
+				"size" "1B46086D48C3329B333B308DA0E36CCE"
+				"download" "BA7A4B506964521A333B923456F019B9"
+			}
+			"se_locqa2"
+			{
+				"gid" "A4862C11DA32DFD59270CB3D601E7877"
+				"size" "A4189C8C5FE9A28A7264B803E011E4B7"
+				"download" "026C0A00C2063671DBCF6EDE4A9E3D33"
+			}
+			"se_locqa3"
+			{
+				"gid" "E107B73045CAD57D2BBEB8040C69C3F7"
+				"size" "B7134F66F2233D835F4ADF1DD6770CDB"
+				"download" "3897F2B679DA75467A1BEDEDA8A9EC93"
+			}
+			"se_mastering"
+			{
+				"gid" "E015714E9ADC44617E34E7BBE1914388"
+				"size" "EC6C271A504BE490E8C54AA8A6DB58A2"
+				"download" "729F80F15635FDC9E92AC6455B3D512D"
+			}
+			"se_ms"
+			{
+				"gid" "AA2926EEA9C9A3A76738103A920C2926"
+				"size" "3655D5530974E94CA48BB387E3E6A001"
+				"download" "DFA8C756BC6ADB1D00CF7DFF4FD7B86F"
+			}
+			"se_qa_dev"
+			{
+				"gid" "D28044BCF8FE54686644E5107E8A461F"
+				"size" "ABD768A6056079FF50F3E48EAE534D42"
+				"download" "172770BCECC0896F366628405599AA51"
+			}
+			"se_qa_ea_test"
+			{
+				"gid" "7E74612D13CC3220D0B9C5720B7EAD3D"
+				"size" "47BE922221C00A444762FCBF47CC77B9"
+				"download" "E3CED47A9CD917E18330E5B2577A9B60"
+			}
+			"se_qa1"
+			{
+				"gid" "CE0AC7F32803D4D4807D1E1814B2EA66"
+				"size" "81102FD4897E0131A6E11C7C652D19FF"
+				"download" "7C6FBBFF190B35377D7D606BCCFF14CB"
+			}
+			"se_qa1_ea"
+			{
+				"gid" "398606CA1C13160529CC636E648CF266"
+				"size" "53C306A316E7E14AB9B5DFB1C381AF14"
+				"download" "F4CDB47CC02C946B95B11AFD7A61B6DA"
+			}
+			"se_qa1_staging"
+			{
+				"gid" "4A694791E9628679ED8FC7486039B419"
+				"size" "32E0B451522CEECD5420FB4EC9B9433F"
+				"download" "525BF9EC1432D1DFCF76540F0D4DC3D3"
+			}
+			"se_qa2"
+			{
+				"gid" "15290F5CC8F5BD96DC14A086ECD5B856"
+				"size" "B8BC676F9F30183A321280C224402FAC"
+				"download" "F07030DC64482C984526E00D1F66BD0C"
+			}
+			"se_qa2_ea"
+			{
+				"gid" "B4006CF9B860953C8FB2CC3CAE8CDEBA"
+				"size" "9658E114EAAD09EFFAC44C55F1BEDA95"
+				"download" "023028C9E9E580C0C35AE214E06AF559"
+			}
+			"se_qa2_staging"
+			{
+				"gid" "F59E79A898AE6B53313DE851D67A3B2A"
+				"size" "82EC3F658DA010D4A24F585A0800E744"
+				"download" "9084A4E06AD2687CA9BF6FFF2F26B828"
+			}
+			"se_review"
+			{
+				"gid" "3B53FCAA4E348847CF5BB8AD74D6F317"
+				"size" "55B87B88F2CC86206D0A35CE1CC42B34"
+				"download" "F1670F5EB3E4A031197ABF3FB2A4DB27"
+			}
+		}
+	}
+	"3012900"
+	{
+		"dlcappid" "3012900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3019501993210592537"
+				"size" "690384268"
+				"download" "679670048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"d9_ea"
+			{
+				"gid" "50FA1191E354009B9ED1A212DA266AC8"
+				"size" "C80886F2BC862A577529E8B3BB9192AC"
+				"download" "7F45A763DB394AAB85A3CB05046D0CDA"
+			}
+			"d9dev"
+			{
+				"gid" "9716A591C73ADA4663159DDC22F7FA4E"
+				"size" "0BC21E11889E6D7D7FA81BE76CFA28F8"
+				"download" "58E9DEFB1DBE8CED93079C6AFAF2D2B9"
+			}
+			"d9qa"
+			{
+				"gid" "C22F6BBB93362FA44E6A96991556895C"
+				"size" "32DA3C4C84882F4D08FB3AF46B2F49AF"
+				"download" "A2861986EDA5CB1BC5A3CA7E10F184A2"
+			}
+			"d9qa2"
+			{
+				"gid" "2A39CE787CA635169617B95DEC4949F4"
+				"size" "B4255B648F00034115D9D37BF8AC9F48"
+				"download" "96F77FE64F55BA3DD8155318D0438785"
+			}
+			"d9shipping"
+			{
+				"gid" "AC0F6A2B08BACED97E02CEA4C3E687F3"
+				"size" "1C1C2B8339DE493F5FDAD9E7F4EA7928"
+				"download" "AE9AB5A406A241D81B85B8F06F323AE8"
+			}
+			"d9staging"
+			{
+				"gid" "8A695A08B891B1D3FDE8A3C666A6703C"
+				"size" "E351B45CD8C62C43379EA3D1947777F6"
+				"download" "AD9FCDC5FBCE529C061855FF07927520"
+			}
+			"se-compat"
+			{
+				"gid" "ED396EF086BCAA7DDB57DA2261E12AB3"
+				"size" "B17BC81EB7E2E98D6B4FE0C941FC7809"
+				"download" "C20229A320103605F9719ECCDABA980B"
+			}
+			"se-compat-shipping"
+			{
+				"gid" "0A5DE290B2C1DDE8A5A52F1A293607CF"
+				"size" "4B6944F6EA24DD575901A7EDF011A973"
+				"download" "B2DAC98E0674F3914813485160386341"
+			}
+			"se-ffm"
+			{
+				"gid" "50EA69E7106BE5378B77CC2C4A63D7A2"
+				"size" "C9342CC136FEA53307DA5A46F1F07557"
+				"download" "0EC976D87E46ECAA95103BDB7BBB893F"
+			}
+			"se_ea_review"
+			{
+				"gid" "79A389010D12C9FBC72E848AB30207EB"
+				"size" "CC1E7F3983FF4EA9DC46C27B3939D5E5"
+				"download" "32C98816760E3BDFE8D3FE8486749547"
+			}
+			"se_ea_review2"
+			{
+				"gid" "CB65E8F6D98750CFA59B25A9402B0DB4"
+				"size" "5E248FE6345547335DDCABE65075E6B4"
+				"download" "F28904819FF7E52D8C002FAD2865B23F"
+			}
+			"se_locqa1"
+			{
+				"gid" "656288FBD347291BFF7A0BEFFBEA83F8"
+				"size" "C83AB2656960819F45E571DA0572EBF1"
+				"download" "FBB08E05953AB54AE80B92C6EECCFCA8"
+			}
+			"se_locqa2"
+			{
+				"gid" "C2BA860E90CD00A15FF4FC8DD3093796"
+				"size" "02C9133A196543E0ACBCA034EFE3C022"
+				"download" "6DD34D460BE8117FA004EEB3B6DFDC50"
+			}
+			"se_locqa3"
+			{
+				"gid" "D09771D72BE96EA9A6935666D2590118"
+				"size" "0C61BAB3BFDF46DCBCC6379A587ECD89"
+				"download" "A951C0C5DCE9951FE08735238643593A"
+			}
+			"se_mastering"
+			{
+				"gid" "6D7B3AE695ABFCC97A7B812792C1A601"
+				"size" "3707153864551CD53BC16B38990DB06F"
+				"download" "5002AA2A6C747F20B160AB40F995A8B2"
+			}
+			"se_qa_ea_test"
+			{
+				"gid" "C8105C8035D8DAD760BDDFA7DA5D25B6"
+				"size" "D51821748FE4C2E5DDA0547B66C331AC"
+				"download" "A7835E7B0168AC88E10206671217241A"
+			}
+			"se_qa1"
+			{
+				"gid" "17BB532CD790030F5FB0D4CB404DFFE4"
+				"size" "7D62224FB0D0F6B32290170C8ABFAC99"
+				"download" "D9012F2D11AF8F2337A70B99014A9740"
+			}
+			"se_qa1_ea"
+			{
+				"gid" "11673765546996244CC36B82BFBFE353"
+				"size" "881BD6C714F7B15B2A53E043F0FA9BC8"
+				"download" "9B90592DBC9B0A44CD7D69A753EB32F9"
+			}
+			"se_qa1_staging"
+			{
+				"gid" "9CF5420E4EE0EEF3ECC4E426C1EBC1EE"
+				"size" "AF8E7F71D7E341A7DAD81DE83492450E"
+				"download" "8B4051998EEC48FC9F0730D08988F34A"
+			}
+			"se_qa2"
+			{
+				"gid" "020FB211378037AC5DBB611487E85F96"
+				"size" "ECCD301FE8352BF0820E94E1CE610701"
+				"download" "E3E2DE661A3545E7E68E779A204E559D"
+			}
+			"se_qa2_ea"
+			{
+				"gid" "BDA5D0EF87F7E1BDC051930F59F81787"
+				"size" "65EBA29D3BBD74B6D8A5CF7604DDDDF0"
+				"download" "360CDB844042585291DF8D5C17E71B26"
+			}
+			"se_qa2_staging"
+			{
+				"gid" "7BA3EE25CC3FBC0898114749A3440E48"
+				"size" "0DBB926888F9F21524B4D320DD7A3E6E"
+				"download" "4680D75EED0A588B61A0B853A1784C63"
+			}
+			"se_review"
+			{
+				"gid" "1C8A3B68B576A2F299848F1676044BE3"
+				"size" "09578074D2B03FD4DEA6BACB2F4CF5CD"
+				"download" "112E738D5C552BC007C4D52D2EB59758"
+			}
+		}
+	}
+	"3012890"
+	{
+		"dlcappid" "3012890"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1847795318691811584"
+				"size" "430251924"
+				"download" "422743920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"d9_ea"
+			{
+				"gid" "7B8A500AAA53E85633943139B99D9AE2"
+				"size" "12C39F9E54193D46DCD9CE0E9B7BA837"
+				"download" "0717CE2F1F56434EAE390A95218E355E"
+			}
+			"d9dev"
+			{
+				"gid" "B4442303FC4665CBC37BA961CFF5B67E"
+				"size" "C1FC63174349AC058EC933D8C54A2CBD"
+				"download" "BD3E24EBCB5081964A3BDB70A95CDB00"
+			}
+			"d9qa"
+			{
+				"gid" "7AF8DF98B800C9FB35D03DA95F4C04F4"
+				"size" "529BE57A77E80BC84DD771925C30A6D6"
+				"download" "4E77BF94C4C8B61E7A4194BAD7EED9C1"
+			}
+			"d9qa2"
+			{
+				"gid" "AC6FCC15527A7841D5EBDBC986866B55"
+				"size" "0D7E9E42FED57523C0BBAC2121B4FA5F"
+				"download" "5B02BDB386E45236A26721430713EEF6"
+			}
+			"d9shipping"
+			{
+				"gid" "A5C9C1E633F8F184B70F3E7BDD0998B4"
+				"size" "7B584345A511C59BC128553D5C25A532"
+				"download" "EE6CA28CAC25742E5109CF19BB2A98F1"
+			}
+			"d9staging"
+			{
+				"gid" "06D14E7CD3D81FE8B822C55140BD1236"
+				"size" "625DE691D03F7447B5AD45A0BC6ACE84"
+				"download" "22AA27F36B8138CD380F578D2BEF760E"
+			}
+			"se-compat"
+			{
+				"gid" "6213439D542EB8C72A2D8CE38EF89988"
+				"size" "C4E5FBB427A26150A74D1FFF0939A1E4"
+				"download" "95CF7F7EE07D6D5D5D359178264884D7"
+			}
+			"se-compat-shipping"
+			{
+				"gid" "2826F261ADF7E4BB072DB8A7FEC53387"
+				"size" "71893B7CBD5117E354CB6DC137778E08"
+				"download" "EB2E4857D7D31879F2B05DEF3E71E229"
+			}
+			"se-ffm"
+			{
+				"gid" "C4EE541833DD111DE120CC8E6278DD75"
+				"size" "E4374763C9DF545AC4ED34787B66B556"
+				"download" "9B7C5E4F322C988DB0767D43D7022344"
+			}
+			"se_ea_review"
+			{
+				"gid" "62B00586F70EBBA0C64FB2D7C508FDB7"
+				"size" "3E1981CCBE30A212A21CEB800B6CC0C1"
+				"download" "781F3DF4AE68C062AC78C67C834B54FB"
+			}
+			"se_ea_review2"
+			{
+				"gid" "BFFF67E6A099357B578524A6DF1EB5C6"
+				"size" "9F0A80F6EFB5E50BD7936AB9F45FBEFD"
+				"download" "BD2AEB7CB397989A5C751CB4AB478EFB"
+			}
+			"se_locqa1"
+			{
+				"gid" "FA92B955B8CEC4354D25EC7DC84546AB"
+				"size" "B5B009C7946CC8AC109FCE4739163B71"
+				"download" "3C8E3E01FA2D9F0A469B5FB254EB2E87"
+			}
+			"se_locqa2"
+			{
+				"gid" "39965D306EEB981B004521577483271C"
+				"size" "7FEDA60B161E4244E24BEA54A15EA5A3"
+				"download" "3CADBCF997424E95A773A2142E89791A"
+			}
+			"se_locqa3"
+			{
+				"gid" "F27F36225B097649F42C4690BBDC0A6B"
+				"size" "0A6A1653C6668381A53672608620812C"
+				"download" "0BA70E173B067F683950BB48409E1CD9"
+			}
+			"se_mastering"
+			{
+				"gid" "EDDDE79F3A4F93408CE83943183F1D1B"
+				"size" "C9570F673F3D5052BEC9BE1E0236B4C8"
+				"download" "E2654E14B142DFAD2CAB72E120D27295"
+			}
+			"se_qa_ea_test"
+			{
+				"gid" "91223EC36EE86BA27ACCE319A0F38DFC"
+				"size" "5ACD0080EC4A85428AC314BD73BC2EDE"
+				"download" "C244DD0F30AC6823A5671B9BD37F6B23"
+			}
+			"se_qa1"
+			{
+				"gid" "122CE3E2B3875EB0FB24D9A3DA67D042"
+				"size" "4407ACE255DB03A59D51E41C08696A51"
+				"download" "0FE20F2ED43EE66F93C48A67A075EE19"
+			}
+			"se_qa1_ea"
+			{
+				"gid" "CC769510954D8ABDABFFFB37C0559731"
+				"size" "17B542A095909A4FA7E3EBA9EB4E6244"
+				"download" "892E0673098EA1B63B4208505D9485D6"
+			}
+			"se_qa1_staging"
+			{
+				"gid" "5A7BABA54ED55F8D07EC60E259E3337E"
+				"size" "D04740804A3B6111B91CF23A2CF815E9"
+				"download" "5832431A30AD7FDAE474199557BD841B"
+			}
+			"se_qa2"
+			{
+				"gid" "0AFD0F56215A500DAFB409D46D232CF4"
+				"size" "1CED431702D6DC1B9D8F84144C9F909E"
+				"download" "950C51BCB969ABF881B5FB7F1AE1C6E9"
+			}
+			"se_qa2_ea"
+			{
+				"gid" "B6F0FEE0EFEEDFB29DB044427E2D6ED9"
+				"size" "DCCF502E58AC580CB9E3335F41FE9A1C"
+				"download" "5BCF7F613D8B9A6A3E873360F6D18D7F"
+			}
+			"se_qa2_staging"
+			{
+				"gid" "4F440DE9A48A5C8C400AD9B461F01AAB"
+				"size" "6FEAD7AF26D4D419580E812A675DA3E9"
+				"download" "910E5667692598DF18A72203CB041106"
+			}
+			"se_review"
+			{
+				"gid" "75CAA8E885956112375190159C3968DD"
+				"size" "0769492FDAACA8FFD234CCDC549180DC"
+				"download" "77A7183DD9FC9AA4A1C24EDFAC442F67"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16503811"
+			"timeupdated" "1733414301"
+		}
+		"se_internaltest"
+		{
+			"buildid" "13746110"
+			"pwdrequired" "1"
+			"timeupdated" "1710468130"
+		}
+		"se_usertest"
+		{
+			"buildid" "13623948"
+			"pwdrequired" "1"
+			"timeupdated" "1709500913"
+		}
+		"se_vs"
+		{
+			"buildid" "10613150"
+			"pwdrequired" "1"
+			"timeupdated" "1677094029"
+		}
+		"d9_ea"
+		{
+			"buildid" "16044610"
+			"pwdrequired" "1"
+			"timeupdated" "1728950282"
+		}
+		"d9denuvo"
+		{
+			"buildid" "14992440"
+			"pwdrequired" "1"
+			"timeupdated" "1720637046"
+		}
+		"d9dev"
+		{
+			"buildid" "16600460"
+			"pwdrequired" "1"
+			"timeupdated" "1733141869"
+		}
+		"d9qa"
+		{
+			"buildid" "16601960"
+			"pwdrequired" "1"
+			"timeupdated" "1733150251"
+		}
+		"d9qa2"
+		{
+			"buildid" "16487680"
+			"pwdrequired" "1"
+			"timeupdated" "1732206955"
+		}
+		"d9shipping"
+		{
+			"buildid" "16503811"
+			"pwdrequired" "1"
+			"timeupdated" "1732299253"
+		}
+		"d9staging"
+		{
+			"buildid" "16505703"
+			"pwdrequired" "1"
+			"timeupdated" "1732312738"
+		}
+		"se-analytics"
+		{
+			"buildid" "15497933"
+			"pwdrequired" "1"
+			"timeupdated" "1724854731"
+		}
+		"se-compat"
+		{
+			"buildid" "15907029"
+			"pwdrequired" "1"
+			"timeupdated" "1727950411"
+		}
+		"se-compat-shipping"
+		{
+			"buildid" "15843237"
+			"pwdrequired" "1"
+			"timeupdated" "1727708652"
+		}
+		"se-ffm"
+		{
+			"buildid" "16265295"
+			"pwdrequired" "1"
+			"timeupdated" "1731108701"
+		}
+		"se_agency"
+		{
+			"buildid" "15496690"
+			"pwdrequired" "1"
+			"timeupdated" "1724877375"
+		}
+		"se_agerating"
+		{
+			"buildid" "14231665"
+			"pwdrequired" "1"
+			"timeupdated" "1714580580"
+		}
+		"se_brand"
+		{
+			"buildid" "15311025"
+			"pwdrequired" "1"
+			"timeupdated" "1723703699"
+		}
+		"se_capture"
+		{
+			"buildid" "15554413"
+			"pwdrequired" "1"
+			"timeupdated" "1726070358"
+		}
+		"se_dnat"
+		{
+			"buildid" "14488837"
+			"pwdrequired" "1"
+			"timeupdated" "1717166058"
+		}
+		"se_ea_review"
+		{
+			"buildid" "15695358"
+			"pwdrequired" "1"
+			"timeupdated" "1727432118"
+		}
+		"se_ea_review2"
+		{
+			"buildid" "15987791"
+			"pwdrequired" "1"
+			"timeupdated" "1728572258"
+		}
+		"se_gamescom"
+		{
+			"buildid" "15385286"
+			"pwdrequired" "1"
+			"timeupdated" "1723754000"
+		}
+		"se_gl"
+		{
+			"buildid" "13896866"
+			"pwdrequired" "1"
+			"timeupdated" "1714148742"
+		}
+		"se_localisation"
+		{
+			"buildid" "14427315"
+			"pwdrequired" "1"
+			"timeupdated" "1716367391"
+		}
+		"se_localisation_alt"
+		{
+			"buildid" "14427315"
+			"pwdrequired" "1"
+			"timeupdated" "1716367401"
+		}
+		"se_locqa1"
+		{
+			"buildid" "16503811"
+			"pwdrequired" "1"
+			"timeupdated" "1732540740"
+		}
+		"se_locqa2"
+		{
+			"buildid" "16501517"
+			"pwdrequired" "1"
+			"timeupdated" "1732540783"
+		}
+		"se_locqa3"
+		{
+			"buildid" "15695358"
+			"pwdrequired" "1"
+			"timeupdated" "1726474159"
+		}
+		"se_mastering"
+		{
+			"buildid" "16505703"
+			"pwdrequired" "1"
+			"timeupdated" "1732615647"
+		}
+		"se_ms"
+		{
+			"buildid" "15556115"
+			"pwdrequired" "1"
+			"timeupdated" "1725278495"
+		}
+		"se_qa_dev"
+		{
+			"buildid" "14756219"
+			"pwdrequired" "1"
+			"timeupdated" "1718726657"
+		}
+		"se_qa_ea_test"
+		{
+			"buildid" "15851152"
+			"pwdrequired" "1"
+			"timeupdated" "1728310518"
+		}
+		"se_qa1"
+		{
+			"buildid" "16421897"
+			"pwdrequired" "1"
+			"timeupdated" "1731925904"
+		}
+		"se_qa1_ea"
+		{
+			"buildid" "15987791"
+			"pwdrequired" "1"
+			"timeupdated" "1728572356"
+		}
+		"se_qa1_staging"
+		{
+			"buildid" "16424944"
+			"pwdrequired" "1"
+			"timeupdated" "1731925872"
+		}
+		"se_qa2"
+		{
+			"buildid" "16501517"
+			"pwdrequired" "1"
+			"timeupdated" "1732534940"
+		}
+		"se_qa2_ea"
+		{
+			"buildid" "16044610"
+			"pwdrequired" "1"
+			"timeupdated" "1728974063"
+		}
+		"se_qa2_staging"
+		{
+			"buildid" "16503811"
+			"pwdrequired" "1"
+			"timeupdated" "1732534925"
+		}
+		"se_review"
+		{
+			"buildid" "16102455"
+			"pwdrequired" "1"
+			"timeupdated" "1729866941"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games\\LifeIsStrangeDoubleExposure\\Steam\\Saved"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26510841"
+"_sha" "16d53875a7075b9a1111f0d68e04ffa132a52765"
+"_size" "26188"
