@@ -95,6 +95,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -143,8 +144,19 @@
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "87f7210b9d9978788f6e5e3bbbafd89f605e38c0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "87f7210b9d9978788f6e5e3bbbafd89f605e38c0/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1671155802"
+	"store_asset_mtime" "1731958539"
 	"associations"
 	{
 		"0"
@@ -186,6 +198,8 @@
 		"category_55" "1"
 		"category_56" "1"
 		"category_60" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -270,7 +284,7 @@
 		"19" "1695"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -285,6 +299,8 @@
 	}
 	"developer" "WayForward"
 	"publisher" "WayForward"
+	"listofdlc" "2787870"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -310,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "7329549837076235913"
-				"size" "6092874323"
-				"download" "3788115200"
+				"gid" "3362902141714110882"
+				"size" "6904287060"
+				"download" "4326190480"
 			}
 		}
 		"encryptedmanifests"
@@ -337,9 +353,15 @@
 			}
 			"qa_testing"
 			{
-				"gid" "8C048B8F0C443EA276D7ABA9CE9B36F9"
-				"size" "4A4C57AB688922E84987FF8F2B565688"
-				"download" "33335B167C22E76B08300920D4B078FE"
+				"gid" "75674760C18A39D5019398C88802A027"
+				"size" "84331CB2D6E1C27353725811E9CEF7E2"
+				"download" "B20E3E3B4281EB3C2FD48698F40EF10E"
+			}
+			"rcg2dlc"
+			{
+				"gid" "E9E47A60147607CAD47B523A30759A50"
+				"size" "926CFC1BACD338AFE6FE162BE3B0C8DA"
+				"download" "0E946B6E044C0D7C79BA3DEC5AC60DBA"
 			}
 		}
 	}
@@ -347,8 +369,8 @@
 	{
 		"public"
 		{
-			"buildid" "11591980"
-			"timeupdated" "1693282054"
+			"buildid" "16547258"
+			"timeupdated" "1733323783"
 		}
 		"branch"
 		{
@@ -370,9 +392,15 @@
 		}
 		"qa_testing"
 		{
-			"buildid" "15697699"
+			"buildid" "16547258"
 			"pwdrequired" "1"
-			"timeupdated" "1726274000"
+			"timeupdated" "1732679869"
+		}
+		"rcg2dlc"
+		{
+			"buildid" "16229774"
+			"pwdrequired" "1"
+			"timeupdated" "1730490424"
 		}
 	}
 }
@@ -395,3 +423,7 @@
 	}
 	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "26490246"
+"_sha" "47c2930aafae7e495d58df2cfee838e0022d7803"
+"_size" "7922"
