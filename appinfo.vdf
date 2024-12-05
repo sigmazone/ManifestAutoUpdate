@@ -37,25 +37,25 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1710892800"
-		"tested_build_id" "13737480"
+		"category" "3"
+		"test_timestamp" "1728345600"
+		"tested_build_id" "15852016"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -69,11 +69,11 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-1RC"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -228,9 +228,6 @@
 		"category_49" "1"
 		"category_36" "1"
 		"category_37" "1"
-		"category_9" "1"
-		"category_38" "1"
-		"category_39" "1"
 		"category_24" "1"
 		"category_22" "1"
 		"category_23" "1"
@@ -319,29 +316,29 @@
 	"gameid" "1993180"
 	"store_tags"
 	{
-		"0" "9"
-		"1" "597"
-		"2" "1770"
-		"3" "1664"
-		"4" "17389"
-		"5" "4726"
-		"6" "17894"
-		"7" "4305"
-		"8" "1654"
-		"9" "30358"
-		"10" "3841"
-		"11" "7481"
-		"12" "7368"
-		"13" "3859"
-		"14" "4182"
-		"15" "3843"
-		"16" "1775"
-		"17" "552282"
-		"18" "1677"
-		"19" "97376"
+		"0" "1770"
+		"1" "9"
+		"2" "1664"
+		"3" "17894"
+		"4" "1654"
+		"5" "17389"
+		"6" "4305"
+		"7" "30358"
+		"8" "3859"
+		"9" "552282"
+		"10" "7368"
+		"11" "97376"
+		"12" "1677"
+		"13" "6129"
+		"14" "597"
+		"15" "44868"
+		"16" "7481"
+		"17" "1775"
+		"18" "4191"
+		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -405,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "7212692214259063810"
-				"size" "1015514250"
-				"download" "691440864"
+				"gid" "6279693238853062657"
+				"size" "1074775773"
+				"download" "726969680"
 			}
 		}
 		"encryptedmanifests"
@@ -432,21 +429,21 @@
 			}
 			"calicoqa"
 			{
-				"gid" "7AF412B5FA4B9351C0ED3FE0D65F3B09"
-				"size" "3DF1E6F2689911AB4F98771E558D9485"
-				"download" "24A03D33FB94B5E274D17FE923A06775"
+				"gid" "CC56BF371CD0F66D8B4923D0D2E8D552"
+				"size" "6707CE24818D012AC220DD5F050CA09C"
+				"download" "DCFBB984A58BD529365028E84D262D01"
 			}
 			"develop"
 			{
-				"gid" "07FD61E7FBE79C0B809A08920BB2FC46"
-				"size" "7AFA7AAC1E0B284253FC3DB35A030ED0"
-				"download" "6DB64D929FBA29001522232E5BC4F716"
+				"gid" "0D7189F36EA4641F5AF71234DDA25519"
+				"size" "660BF73CDC8022FE9E683CB1ABB55E8B"
+				"download" "6B5B989A4EC3FECF62B05FF4F17BD990"
 			}
 			"main"
 			{
-				"gid" "0067555CB0153030A68AAC9274D4D852"
-				"size" "27B1A230EB4AD99C2F5999D1392E8410"
-				"download" "87C935FBF90A4FEB103ABDD4F7A774BC"
+				"gid" "6A797AF1E08D27762829840F81AFDA73"
+				"size" "67732FD454AC50A518669CEB37DDD789"
+				"download" "97B6D4D568083694B30D4521F6A143BE"
 			}
 			"surface_test"
 			{
@@ -466,9 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "799459276589569463"
-				"size" "1174576864"
-				"download" "722211568"
+				"gid" "8130046544171773258"
+				"size" "1230346686"
+				"download" "756124480"
 			}
 		}
 		"encryptedmanifests"
@@ -499,15 +496,15 @@
 			}
 			"develop"
 			{
-				"gid" "FEEDDB66EBE91463223E17BBD2A85431"
-				"size" "C03754350B930C2C63A2813E12A37887"
-				"download" "5A609D62BAACFC24A57D67FB15446A34"
+				"gid" "00D8C246AC0E1834B2AC8D66C42FF031"
+				"size" "6873D81DB4BA51A45C5F617E11636F98"
+				"download" "9A8A91C877F46D29F6762FA477950D81"
 			}
 			"main"
 			{
-				"gid" "3A6A60A82AE3B50077603CDA1700F609"
-				"size" "D58E19C556387504A1499C1BA8396558"
-				"download" "08EB568B79ADA507E267C47BDD9822FF"
+				"gid" "C0061849C673ADF900CA3DC03213284D"
+				"size" "B29F16E8EB3A25A27E6862FA6206261C"
+				"download" "CF6850302000BD28FF8012971D95E57C"
 			}
 			"surface_test"
 			{
@@ -521,8 +518,8 @@
 	{
 		"public"
 		{
-			"buildid" "15852016"
-			"timeupdated" "1727775895"
+			"buildid" "16580131"
+			"timeupdated" "1733313988"
 		}
 		"authentication_test"
 		{
@@ -544,21 +541,21 @@
 		}
 		"calicoqa"
 		{
-			"buildid" "15822388"
+			"buildid" "16576259"
 			"pwdrequired" "1"
-			"timeupdated" "1727267981"
+			"timeupdated" "1732871438"
 		}
 		"develop"
 		{
-			"buildid" "15941763"
+			"buildid" "16635863"
 			"pwdrequired" "1"
-			"timeupdated" "1728163344"
+			"timeupdated" "1733353482"
 		}
 		"main"
 		{
-			"buildid" "15852016"
+			"buildid" "16580131"
 			"pwdrequired" "1"
-			"timeupdated" "1727448300"
+			"timeupdated" "1732890779"
 		}
 		"surface_test"
 		{
@@ -573,3 +570,7 @@
 	"quota" "2000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "26497750"
+"_sha" "038986119112e0bd75e556ccc86aa76de45960d0"
+"_size" "12568"
