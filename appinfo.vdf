@@ -94,16 +94,19 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "502001a3ee443d75cfa97ac6365dd4060d87fdd6/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
-		"library_hero" "en"
-		"library_logo" "en"
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_hero_blur" "zh-cn"
+		"library_logo" "en,zh-cn"
 		"library_header" "en"
 		"logo_position"
 		{
@@ -119,10 +122,12 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
+				"schinese" "df5b5775d374102d02ec9c7e5f3f0d4771c81236/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
+				"schinese" "df5b5775d374102d02ec9c7e5f3f0d4771c81236/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -130,10 +135,19 @@
 			"image"
 			{
 				"english" "library_hero.jpg"
+				"schinese" "32db099043bebfd14802df2c2d72cef56cb141df/library_hero_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_hero_2x.jpg"
+				"schinese" "32db099043bebfd14802df2c2d72cef56cb141df/library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "32db099043bebfd14802df2c2d72cef56cb141df/library_hero_blur_schinese.jpg"
 			}
 		}
 		"library_logo"
@@ -141,10 +155,12 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "d6b999e694cc5f3d36e19a9b1df8fe39fba1f885/logo_schinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"schinese" "d6b999e694cc5f3d36e19a9b1df8fe39fba1f885/logo_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -161,7 +177,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723719906"
+	"store_asset_mtime" "1732626034"
 	"associations"
 	{
 		"0"
@@ -295,7 +311,7 @@
 	"developer" "Flashbulb"
 	"publisher" "Flashbulb"
 	"homepage" "http://www.playtrailmakers.com"
-	"listofdlc" "1171470,1183540,1333570,1607390,2054110,2054120,2285970,2579530,2863610,3009870"
+	"listofdlc" "1171470,1183540,1333570,1607390,2054110,2054120,2285970,2579530,2863610,3009870,3323320"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -327,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "3813579873309719155"
-				"size" "6784769649"
-				"download" "5603387568"
+				"gid" "1370239770719553922"
+				"size" "6823542266"
+				"download" "5631174512"
 			}
 			"expedition"
 			{
@@ -339,9 +355,9 @@
 			}
 			"previous"
 			{
-				"gid" "8235686143330582277"
-				"size" "6784556190"
-				"download" "5603038448"
+				"gid" "3813579873309719155"
+				"size" "6784769649"
+				"download" "5603387568"
 			}
 		}
 		"encryptedmanifests"
@@ -357,12 +373,6 @@
 				"gid" "0664A16E5AA5660F2A8096B2BE9808E2"
 				"size" "D9D161730040AC10BCE2C5DE49602F64"
 				"download" "621EC1BC3F1EB88D9214684EF88D1FF6"
-			}
-			"internaltest"
-			{
-				"gid" "993654CE121DDFA4E246CB8E7EE2EA1A"
-				"size" "66352E520F6EF05A172512195C9132E2"
-				"download" "A1AD6A58ADD7FAB953D876A22DF120C0"
 			}
 			"manualtest"
 			{
@@ -384,21 +394,33 @@
 			}
 			"antidotetestbranch"
 			{
-				"gid" "7CFB47AF09BF874264FDFB7A3E89FA81"
-				"size" "D0B6765E935B852ECD648BEE49660D5E"
-				"download" "E7060202A59B29C493BE7EF5578D509F"
+				"gid" "63D8DBB2D150ED008EBB0705352953DB"
+				"size" "72D8FE38F177986ACC45EFFD9EB4FB28"
+				"download" "632A7226B9C3D7D50C8D1D75C8D6B863"
+			}
+			"contentcreators"
+			{
+				"gid" "967F5800456DCD2ECAEBBD31FBE14465"
+				"size" "46314F473DBF57A101AD9672F0ABE63B"
+				"download" "C5ADD7F9EC49C1CFBA0A6D0B6666F7EA"
+			}
+			"discord-1.9.5"
+			{
+				"gid" "16EEDAA7F9C5FC039FC7410FD429456C"
+				"size" "43C988A1AC3F522A5725291C8CA25C1E"
+				"download" "0E433E6A16562FA941F989E54D1C00AA"
 			}
 			"main-bleedingedge"
 			{
-				"gid" "E14116FC8061333320919B46B2AFD403"
-				"size" "E8E13FA179EB225D9DD9D90B3F61AF0B"
-				"download" "0859D7E7392FEFEBAF3B33EF9E06F2B1"
+				"gid" "415EC899B0A79121714ACE7473C87743"
+				"size" "57B86239B15B21AF73E551BDE4AE6C46"
+				"download" "F2A033338C764EC81BA4CF055E8481C3"
 			}
 			"main-bleedingedge-releasetest"
 			{
-				"gid" "77DEDB046C40815B861E364427798984"
-				"size" "FB0181B171834A69397560D47942B7B4"
-				"download" "9AECFE4814669B820EE670C0AF7C1D57"
+				"gid" "D3364D61085D6CE2CD0F459F1B19544F"
+				"size" "C5D9E35D232804F3B87394AE54ACC1C0"
+				"download" "C0A5E4232BAE832EC652C54EA03E8263"
 			}
 			"next"
 			{
@@ -408,27 +430,33 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "677FB1118EA85B2B2C59E20312B01028"
-				"size" "6CE009C9FE9A9BFDA89EFA870F9BC2F9"
-				"download" "C15CBE4AAAFAE19BE3CCF325261BFE0B"
+				"gid" "A5842534B596A6E7A53BCE21EB684778"
+				"size" "0343B32590CA22E46F900FD119FBF1EA"
+				"download" "628DF56AD21C271721DCB7E39E999182"
 			}
 			"releasecandidate-releasetest"
 			{
-				"gid" "8F4B0B95606C6144200DAFB14BB8E0B4"
-				"size" "989D6381F4C8DCC306A227EC2F1604B4"
-				"download" "BE0B529915957AB752BFC6BDF41645EB"
+				"gid" "D5AD4E654A0A1AF9514AA53D53140F2D"
+				"size" "BFA72EA72A85D659CA7495CE0A443EB0"
+				"download" "8D271E849C2721D6573334050682E502"
 			}
 			"shelve_1"
 			{
-				"gid" "066FD4DBEA7E69F673C8FD00BF02E7C9"
-				"size" "C23D1C8D9FD4F1FDDE0169A19A921C3B"
-				"download" "9AAE66E019409B8676400CD798F70FC5"
+				"gid" "F9F566FF24F6384A72EE6F9725CAF118"
+				"size" "DA2A7A161F8E6F5CAA5BEB505D897EB2"
+				"download" "66BEFBE93C535BB6F2D528F80FE843A8"
+			}
+			"shelve_3"
+			{
+				"gid" "377A0AE1C2B49BEB7A399D0A0299054E"
+				"size" "1102A14D75D4A79CF4D8E44439AFDE77"
+				"download" "7FC8364EDD109C21B625BAB07BCF6E83"
 			}
 			"stabilizing"
 			{
-				"gid" "D5F2679349F1553895E595CA00A8DFC1"
-				"size" "A16E016A9C604CCCEF9593FF82FAE14E"
-				"download" "446B6863EE1F8B2E82059E3CD5C27981"
+				"gid" "6F0FFB0BA749DD3F7F59A81CDD2F8E5E"
+				"size" "C5CA7CE2DAE67EB69795A5AB45736EC2"
+				"download" "7342B50381FB0E35DD9AF452F20DD8D3"
 			}
 			"stabilizing-releasetest"
 			{
@@ -436,23 +464,11 @@
 				"size" "EB23CF06D69A623D9265BAF1B52B6B2E"
 				"download" "07717442D05687EFED8A28A4C40EA933"
 			}
-			"starburst"
-			{
-				"gid" "057C13E9BE4A21F622CC512BC5E1CFDB"
-				"size" "7D85DFFDCA23FD2B2D80FFB4CBB63551"
-				"download" "D1A0E16A98DE0BBC212B8B7493365518"
-			}
-			"starburstexternaltest"
-			{
-				"gid" "B0E90DB4F8E68F6F3F015456DC8EE213"
-				"size" "0E39131DF15B8736F75863A2AC7DF0CF"
-				"download" "DA2BC3F176245761A428AFEEB3A627F3"
-			}
 			"teller"
 			{
-				"gid" "AA945DA9C2FD90E37F0A92625AC4697C"
-				"size" "C7B32D514532C97A69F5646D8CD6D616"
-				"download" "624EDCBBB857E9EFC923177F30C1AE40"
+				"gid" "8906C408771921A6ABB67B6904088717"
+				"size" "C0AA3FDA871834ED4B483D2260DAF0BD"
+				"download" "3D8C57DD44EBF2DD07BC6AF9276F9A16"
 			}
 		}
 	}
@@ -463,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "15592002"
-			"timeupdated" "1725533688"
+			"buildid" "16539098"
+			"timeupdated" "1733399761"
 		}
 		"expedition"
 		{
@@ -483,12 +499,6 @@
 			"buildid" "3439068"
 			"pwdrequired" "1"
 			"timeupdated" "1546471232"
-		}
-		"internaltest"
-		{
-			"buildid" "10200101"
-			"pwdrequired" "1"
-			"timeupdated" "1671787739"
 		}
 		"manualtest"
 		{
@@ -510,21 +520,33 @@
 		}
 		"antidotetestbranch"
 		{
-			"buildid" "14505798"
+			"buildid" "15875207"
 			"pwdrequired" "1"
-			"timeupdated" "1716816242"
+			"timeupdated" "1727702274"
+		}
+		"contentcreators"
+		{
+			"buildid" "16539098"
+			"pwdrequired" "1"
+			"timeupdated" "1733144359"
+		}
+		"discord-1.9.5"
+		{
+			"buildid" "16539098"
+			"pwdrequired" "1"
+			"timeupdated" "1732637971"
 		}
 		"main-bleedingedge"
 		{
-			"buildid" "15596153"
+			"buildid" "16642429"
 			"pwdrequired" "1"
-			"timeupdated" "1725489745"
+			"timeupdated" "1733398704"
 		}
 		"main-bleedingedge-releasetest"
 		{
-			"buildid" "14470184"
+			"buildid" "16636154"
 			"pwdrequired" "1"
-			"timeupdated" "1716485385"
+			"timeupdated" "1733355596"
 		}
 		"next"
 		{
@@ -534,33 +556,39 @@
 		}
 		"previous"
 		{
-			"buildid" "15578317"
+			"buildid" "15592002"
 			"description" "Previous build"
-			"timeupdated" "1725533663"
+			"timeupdated" "1733399685"
 		}
 		"releasecandidate"
 		{
-			"buildid" "15592002"
+			"buildid" "16612602"
 			"pwdrequired" "1"
-			"timeupdated" "1725462975"
+			"timeupdated" "1733219466"
 		}
 		"releasecandidate-releasetest"
 		{
-			"buildid" "14402970"
+			"buildid" "16340336"
 			"pwdrequired" "1"
-			"timeupdated" "1723724271"
+			"timeupdated" "1731068438"
 		}
 		"shelve_1"
 		{
-			"buildid" "15591499"
+			"buildid" "16612857"
 			"pwdrequired" "1"
-			"timeupdated" "1725460289"
+			"timeupdated" "1733220643"
+		}
+		"shelve_3"
+		{
+			"buildid" "16564315"
+			"pwdrequired" "1"
+			"timeupdated" "1732788185"
 		}
 		"stabilizing"
 		{
-			"buildid" "15575882"
+			"buildid" "16502247"
 			"pwdrequired" "1"
-			"timeupdated" "1725356012"
+			"timeupdated" "1732290032"
 		}
 		"stabilizing-releasetest"
 		{
@@ -568,23 +596,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1718097567"
 		}
-		"starburst"
-		{
-			"buildid" "14505798"
-			"pwdrequired" "1"
-			"timeupdated" "1716804696"
-		}
-		"starburstexternaltest"
-		{
-			"buildid" "14505798"
-			"pwdrequired" "1"
-			"timeupdated" "1717506379"
-		}
 		"teller"
 		{
-			"buildid" "15596153"
+			"buildid" "16559995"
 			"pwdrequired" "1"
-			"timeupdated" "1725519169"
+			"timeupdated" "1732781264"
 		}
 	}
 }
@@ -596,6 +612,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "25090042"
-"_sha" "525c5f5c2f0c7a6d1221026f0e60621e6045f932"
-"_size" "12113"
+"_change_number" "26506520"
+"_sha" "4dadd339aebfde9ca484d7e38284b9b1eef4b155"
+"_size" "12945"
