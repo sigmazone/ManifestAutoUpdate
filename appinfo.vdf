@@ -77,7 +77,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "45d7b33709e18280f68a8504861296453f41e932/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -88,6 +88,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -101,11 +102,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "8df6e0e79fa1423d05157b76ce8a76ec4d6e6158/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "8df6e0e79fa1423d05157b76ce8a76ec4d6e6158/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -136,8 +137,15 @@
 				"height_pct" "78.81944444444444"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cc46384861ce2be97ef925d3bc422aa264034eb5/library_header.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1720695279"
+	"store_asset_mtime" "1733413173"
 	"associations"
 	{
 		"0"
@@ -264,8 +272,8 @@
 		"14" "4747"
 		"15" "3839"
 		"16" "4667"
-		"17" "1667"
-		"18" "1697"
+		"17" "1697"
+		"18" "1667"
 		"19" "3993"
 	}
 	"review_score" "8"
@@ -276,7 +284,7 @@
 	"developer" "Saber Interactive Inc"
 	"publisher" "Saber Interactive Inc"
 	"homepage" "https://wwzgame.com/"
-	"listofdlc" "1640650,1708020,2170270,2226070,2243210,2313390,2475060,2540380,2614650,2614660,2962180,3100200"
+	"listofdlc" "1640650,1708020,2170270,2226070,2243210,2313390,2475060,2540380,2614650,2614660,2962180,3100200,3245120,3245130"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -421,9 +429,9 @@
 		{
 			"public"
 			{
-				"gid" "1627982688455212158"
-				"size" "66939500980"
-				"download" "42621690608"
+				"gid" "2291748012567507755"
+				"size" "71612427188"
+				"download" "45341717760"
 			}
 		}
 		"encryptedmanifests"
@@ -502,27 +510,27 @@
 			}
 			"beta_for_mrktng"
 			{
-				"gid" "7B8982FED6E4C179C3C8ABD5A5E74BB5"
-				"size" "EFC06C55C7F4BD5F3B6E15FDE03731A5"
-				"download" "C9506D7F2EB501C8402D5B417AA33BB4"
+				"gid" "BF429182DEE93A7D9882AA4ED850600C"
+				"size" "AB793723A91CD6EA2A2F6C372E86497F"
+				"download" "DD94DF78AD8BB0D2575BA8EC5D39C70E"
 			}
 			"gd_playtests"
 			{
-				"gid" "ED916D41757936DEC61BE1390F71E897"
-				"size" "1B2F5E0BAD4D05A2546AD0AB96CF2A57"
-				"download" "3AA1B8AD42BAF5F2660FA4A5EB97F8A6"
+				"gid" "4ED5DDE1D90F8FF91936DB4ACF172E1C"
+				"size" "FD016450DE1DCA5450315F4C9531CD38"
+				"download" "28B85ABE424E0407359130450A50C164"
 			}
 			"gd_playtests_2"
 			{
-				"gid" "38BE41B4D3FFECCE6AF554CFBFEEF49F"
-				"size" "B7D0B7EB58D0A3331E3CEFA4AE9AAC34"
-				"download" "1C53836D749060DAC5C2345EC81D0F6F"
+				"gid" "3E2EA6C5574CB93C94F2AA9C2F8D6A5B"
+				"size" "9842646F72F9545EE16822BF50F4C326"
+				"download" "EFF5912142B22B4032A09E79A9BF5F62"
 			}
 			"ld_playtest"
 			{
-				"gid" "1DD5B57203710D481672FAD92618E6D4"
-				"size" "89215041DAE964C1A232EAC9C9543342"
-				"download" "67A720F9251F3C9A25F6D295FD107DA1"
+				"gid" "2461021B243A829D5E27D825541CB9F6"
+				"size" "C7F1CE984CEFC55C090C9384260FAFD9"
+				"download" "3D4DC18A7FF9E091D67E51B36E6CFF27"
 			}
 			"new_features_playtest"
 			{
@@ -544,21 +552,21 @@
 			}
 			"sbr_qa_main"
 			{
-				"gid" "182B944E2B8E4361B2B77389B46D05D1"
-				"size" "870DFA9BDA11E128B24786486CF7D986"
-				"download" "C37D95584D9A039BF578BEA8BC97405F"
+				"gid" "897E0DF0DC4F2027CEAFC4355F20080A"
+				"size" "EFF32C5F3986D3984F8ECB29608A8D00"
+				"download" "D9A71D7899E08203D97F82EA8659FAF3"
 			}
 			"sbr_qa_stable"
 			{
-				"gid" "0A641C829990BBE3A7D3FF1C13228DDC"
-				"size" "4DC422E1EFBF8199A82E065CBE50B872"
-				"download" "513C240CD1348CC1008139DEB9122D0D"
+				"gid" "F8B9DDB16E212DBCCB0FC5FD2BD0B11D"
+				"size" "DC4233C931EDF0E15100B8C63794612C"
+				"download" "DB1EF4E5E49D3AB20FB9F9963EDC8EC6"
 			}
 			"streamers_preview"
 			{
-				"gid" "B009845A7B445ECF8E8ED025471B9F76"
-				"size" "9FF02597D7C96A6FFF05FBB43C8E5E2A"
-				"download" "D0F9F6E3D1199EF30FF54DD5B6A6D426"
+				"gid" "FB22A2732C3AD4685F7A8B4C8CD987D4"
+				"size" "6E7567781C0977D6701E55AFD89AA14B"
+				"download" "1A6F77BC42A15D544E8310B2F24B5C2C"
 			}
 		}
 	}
@@ -581,8 +589,8 @@
 	{
 		"public"
 		{
-			"buildid" "16113559"
-			"timeupdated" "1730203085"
+			"buildid" "16515074"
+			"timeupdated" "1733403587"
 		}
 		"beta_branch"
 		{
@@ -658,27 +666,27 @@
 		}
 		"beta_for_mrktng"
 		{
-			"buildid" "15967273"
+			"buildid" "16533996"
 			"pwdrequired" "1"
-			"timeupdated" "1728392563"
+			"timeupdated" "1732604623"
 		}
 		"gd_playtests"
 		{
-			"buildid" "16202783"
+			"buildid" "16418764"
 			"pwdrequired" "1"
-			"timeupdated" "1730100913"
+			"timeupdated" "1731667406"
 		}
 		"gd_playtests_2"
 		{
-			"buildid" "15420120"
+			"buildid" "16523592"
 			"pwdrequired" "1"
-			"timeupdated" "1724074009"
+			"timeupdated" "1732536436"
 		}
 		"ld_playtest"
 		{
-			"buildid" "16135192"
+			"buildid" "16515074"
 			"pwdrequired" "1"
-			"timeupdated" "1729596045"
+			"timeupdated" "1732526744"
 		}
 		"new_features_playtest"
 		{
@@ -700,21 +708,21 @@
 		}
 		"sbr_qa_main"
 		{
-			"buildid" "16035936"
+			"buildid" "16600329"
 			"pwdrequired" "1"
-			"timeupdated" "1728907363"
+			"timeupdated" "1733141204"
 		}
 		"sbr_qa_stable"
 		{
-			"buildid" "16113559"
+			"buildid" "16515074"
 			"pwdrequired" "1"
-			"timeupdated" "1729436376"
+			"timeupdated" "1732439284"
 		}
 		"streamers_preview"
 		{
-			"buildid" "15587237"
+			"buildid" "16515074"
 			"pwdrequired" "1"
-			"timeupdated" "1725870952"
+			"timeupdated" "1732522354"
 		}
 	}
 }
@@ -733,6 +741,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25950279"
-"_sha" "6a78451159934d70aaea517a87eb9d5f3ea0459d"
-"_size" "14722"
+"_change_number" "26510540"
+"_sha" "ff7c13d74eb5f8e4a212a4791556b47227ff81e0"
+"_size" "15019"
