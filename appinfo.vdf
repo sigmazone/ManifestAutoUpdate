@@ -15,6 +15,60 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1731974400"
+		"tested_build_id" "15787072"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -216,7 +270,7 @@
 		"19" "1743"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -270,9 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "8143342755056676523"
-				"size" "13790329652"
-				"download" "13216759104"
+				"gid" "751902303291046334"
+				"size" "13790535920"
+				"download" "13217266752"
 			}
 		}
 		"encryptedmanifests"
@@ -297,15 +351,15 @@
 			}
 			"internal"
 			{
-				"gid" "8A996826431BC9E9625CEEA854668665"
-				"size" "60DB8106BE75D3CBF6E74FB97D594DA0"
-				"download" "A3AF0AF952707F5F5984C07C9D70E01D"
+				"gid" "2C97AEE307F80A34F96025C315876CC9"
+				"size" "85FC5330BA49DBA2D1D0319106936F30"
+				"download" "1F696EFCA7C6D164E3E6668C32E8D4FB"
 			}
 			"internal_debug"
 			{
-				"gid" "DAD91E53F1AE337C2559C2C6F3F74B58"
-				"size" "D049293FDCDA5733D842FFDBA96B5812"
-				"download" "687103064F09C1069EE781842E7F947A"
+				"gid" "5DBF1BF0BE3168F067FDA6B23E97DEFD"
+				"size" "3F7F2E0395E7C21106A08B1E98986AD9"
+				"download" "F27DAA2BA45079A93AC7BDA93A97828F"
 			}
 			"programming"
 			{
@@ -315,21 +369,21 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "0BD80786436A82A11A0CEF543F5C3770"
-				"size" "078A75195A9FC29B4A6F94D58B99D4D5"
-				"download" "8EE320438AF9157FB8232A01BE9FFAE0"
+				"gid" "3772336303C6FF8E7F5849001BB332EB"
+				"size" "862D5144B3108E992982E0B671F1172A"
+				"download" "B3C697C0F4610B8533725B81515BAB78"
 			}
 			"release_debug"
 			{
-				"gid" "D49E40ABE94A109C8702C32DAE1BCC89"
-				"size" "E67C5FDD18AB5AF3C4E5C942862E6E90"
-				"download" "E8730A2191998398A1226A4076D28E44"
+				"gid" "D5EFEF9CD278FF42AABF91187D7C17AD"
+				"size" "C4B87C17A196881FB7A7438429A0F2C3"
+				"download" "96CBEEBBBF2E68ACC279DFACB6770FB4"
 			}
 			"release_shipping"
 			{
-				"gid" "7E7DC9C8256244D0828EC7A71056510D"
-				"size" "ADF5E352CC620DC88D790BBB005CE00A"
-				"download" "E0943E12BD76B26D60E89A7B8E265B75"
+				"gid" "CD5415D94C7C983147CDD6F187EED1F3"
+				"size" "93C3BFC91C937715A1DD41181262147C"
+				"download" "47EC4F6EC8CAB27A1A5FAF334FDC67B9"
 			}
 			"sega"
 			{
@@ -344,8 +398,8 @@
 	{
 		"public"
 		{
-			"buildid" "16489548"
-			"timeupdated" "1732211427"
+			"buildid" "16652434"
+			"timeupdated" "1733473437"
 		}
 		"external"
 		{
@@ -367,15 +421,15 @@
 		}
 		"internal"
 		{
-			"buildid" "16483202"
+			"buildid" "16655075"
 			"pwdrequired" "1"
-			"timeupdated" "1732176857"
+			"timeupdated" "1733481088"
 		}
 		"internal_debug"
 		{
-			"buildid" "16496605"
+			"buildid" "16653936"
 			"pwdrequired" "1"
-			"timeupdated" "1732258030"
+			"timeupdated" "1733475182"
 		}
 		"programming"
 		{
@@ -385,21 +439,21 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "16481747"
+			"buildid" "16624231"
 			"pwdrequired" "1"
-			"timeupdated" "1732173556"
+			"timeupdated" "1733295087"
 		}
 		"release_debug"
 		{
-			"buildid" "16495917"
+			"buildid" "16653102"
 			"pwdrequired" "1"
-			"timeupdated" "1732252682"
+			"timeupdated" "1733469212"
 		}
 		"release_shipping"
 		{
-			"buildid" "16495311"
+			"buildid" "16652434"
 			"pwdrequired" "1"
-			"timeupdated" "1732247553"
+			"timeupdated" "1733464204"
 		}
 		"sega"
 		{
@@ -425,6 +479,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26312000"
-"_sha" "a362cec82a6bff6898a0cbcad32e93b5fcf3700b"
-"_size" "7492"
+"_change_number" "26524049"
+"_sha" "de9df16518fcb2c5d4a582b09377e0a75ae40633"
+"_size" "8818"
