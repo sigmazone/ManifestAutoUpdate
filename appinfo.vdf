@@ -1,0 +1,105 @@
+"appid" "354060"
+"common"
+{
+	"name" "RaceRoom Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"clienticon" "cbe7d4b5be469fff787e1911e4fc13292717adc8"
+	"clienttga" "e2588aee5fa6a9b048dc3cb66e9a3cadea80482a"
+	"icon" "214a3359f9e1a45697fcb06e1680e8211ea53bba"
+	"logo" "48c507e4c786f41b8c2d1cbef29ec5aa9703766d"
+	"logo_small" "48c507e4c786f41b8c2d1cbef29ec5aa9703766d_thumb"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "354060"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "RaceRoom Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RRRE_dedicated.exe"
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"354061"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4106248716754835794"
+				"size" "54047744"
+				"download" "48211968"
+			}
+			"preview"
+			{
+				"gid" "4106248716754835794"
+				"size" "54047744"
+				"download" "48211968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"livepreview"
+			{
+				"gid" "299831699AD6F6FD96DC262E8BB75590"
+				"size" "B00CC1D14A177CA90D3B74E9AFA201EA"
+				"download" "E8D5BE5BFAE1FC406A98C058F48B9644"
+			}
+			"staging"
+			{
+				"gid" "E151E9428E0C1DF9A3E194462697823D"
+				"size" "3EC02473FC122CF299D06352044291AC"
+				"download" "325C6B0782AB2C72135F4453F78ECA55"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16047441"
+			"timeupdated" "1728976624"
+		}
+		"livepreview"
+		{
+			"buildid" "16047441"
+			"pwdrequired" "1"
+			"timeupdated" "1728976638"
+		}
+		"preview"
+		{
+			"buildid" "16047441"
+			"description" "early look"
+			"timeupdated" "1728976648"
+		}
+		"staging"
+		{
+			"buildid" "16642585"
+			"pwdrequired" "1"
+			"timeupdated" "1733399650"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26506490"
+"_sha" "4fdeaa23fe76f1774f7dc00794b3c21bee0356e9"
+"_size" "1886"
