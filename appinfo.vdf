@@ -66,7 +66,7 @@
 	"metacritic_name" "Deadside"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "8b5af69f12293bd47eab09c090ff093e95bf1841/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -76,13 +76,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "34.06076729228626"
-			"height_pct" "80.34658928976835"
+			"pinned_position" "UpperCenter"
+			"width_pct" "31.961565799885193"
+			"height_pct" "83.73110313515468"
 		}
 	}
 	"library_assets_full"
@@ -91,27 +92,38 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "83999b02cee0efd504215e25900457fbb1453e69/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "83999b02cee0efd504215e25900457fbb1453e69/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "99d40a0c2ebccc64d0fc001103b0a892312c3ae4/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "99d40a0c2ebccc64d0fc001103b0a892312c3ae4/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "99d40a0c2ebccc64d0fc001103b0a892312c3ae4/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "34.06076729228626"
-				"height_pct" "80.34658928976835"
+				"pinned_position" "UpperCenter"
+				"width_pct" "31.961565799885193"
+				"height_pct" "83.73110313515468"
 			}
 			"image"
 			{
@@ -126,11 +138,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "ee962f821cc84985bef89209b506163f2b59af88/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ee962f821cc84985bef89209b506163f2b59af88/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1733248311"
+	"store_asset_mtime" "1733427093"
 	"associations"
 	{
 		"0"
@@ -156,7 +172,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "29"
-		"4" "70"
 	}
 	"category"
 	{
@@ -168,6 +183,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_22" "1"
+		"category_20" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -193,7 +209,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1586862060"
+	"steam_release_date" "1733420193"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "895400"
@@ -239,7 +255,7 @@
 	"developer" "Bad Pixel"
 	"publisher" "Bad Pixel"
 	"homepage" "http://deadsidegame.com"
-	"listofdlc" "1248380,2060120,2060140,2911860,2911870,2911880,2911890"
+	"listofdlc" "1248380,2060120,2060140,2911860,2911870,2911880,2911890,3363060,3363070,3363090,3363100,3363110,3363120,3363130,3363140,3363150"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -285,15 +301,15 @@
 		{
 			"public"
 			{
-				"gid" "2822685242036412968"
-				"size" "34962081772"
-				"download" "18072097872"
+				"gid" "2516078238403929744"
+				"size" "34962128876"
+				"download" "18072100528"
 			}
 			"public_test_server"
 			{
-				"gid" "5791715973489330396"
-				"size" "34962086380"
-				"download" "18072107632"
+				"gid" "2516078238403929744"
+				"size" "34962128876"
+				"download" "18072100528"
 			}
 		}
 		"encryptedmanifests"
@@ -318,9 +334,9 @@
 			}
 			"internal-1"
 			{
-				"gid" "94FD70D503B1A5A65B3F6DCB3C9801A2"
-				"size" "16BB2A994BA89CF823F8DB98BB2B44AA"
-				"download" "27B8122C5D71B027520FCFE4047D1A95"
+				"gid" "E3B226F1A2D4DA804BDCF80CD6FA1B1F"
+				"size" "1F0B3821B7CACC60DC1C60D52C1417CA"
+				"download" "9BE621006C632B68CB3C6C4D03800503"
 			}
 			"internal-10"
 			{
@@ -382,8 +398,8 @@
 	{
 		"public"
 		{
-			"buildid" "16642280"
-			"timeupdated" "1733409798"
+			"buildid" "16655008"
+			"timeupdated" "1733486519"
 		}
 		"internal"
 		{
@@ -405,9 +421,9 @@
 		}
 		"internal-1"
 		{
-			"buildid" "16636985"
+			"buildid" "16654343"
 			"pwdrequired" "1"
-			"timeupdated" "1733361052"
+			"timeupdated" "1733477511"
 		}
 		"internal-10"
 		{
@@ -465,13 +481,13 @@
 		}
 		"public_test_server"
 		{
-			"buildid" "16630456"
+			"buildid" "16655008"
 			"description" "PTS"
-			"timeupdated" "1733400519"
+			"timeupdated" "1733480760"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26510934"
-"_sha" "119aec1885107de0307e74a96bf110898f139c16"
-"_size" "9033"
+"_change_number" "26525315"
+"_sha" "57aed15274dc1378cb86e5e46de8439afc0259cf"
+"_size" "9702"
