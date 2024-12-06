@@ -1,0 +1,443 @@
+"appid" "1211020"
+"common"
+{
+	"name" "Wobbly Life"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "054d6ffbaaca3a19d4db9b528cfd1c7c11d383bb"
+	"icon" "bb731d6554f7614b5c2ad1acb511286de1cc7ba4"
+	"clienticon" "8e72c9d733fc603d44088ec39ec92dad7698d9dc"
+	"logo" "5e13c87ef8e1c5f9ec05542f90b8f75037de85dd"
+	"logo_small" "5e13c87ef8e1c5f9ec05542f90b8f75037de85dd_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "晃晃人生 / Wobbly Life"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1658188800"
+		"tested_build_id" "9002133"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wobbly Life"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.72653209470136"
+			"height_pct" "70.51769175967704"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.72653209470136"
+				"height_pct" "70.51769175967704"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730969290"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RubberBandGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RubberBandGames"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1594249234"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1211020"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "3859"
+		"2" "599"
+		"3" "19"
+		"4" "1695"
+		"5" "597"
+		"6" "3810"
+		"7" "492"
+		"8" "4136"
+		"9" "1685"
+		"10" "3968"
+		"11" "5350"
+		"12" "493"
+		"13" "3843"
+		"14" "10816"
+		"15" "7368"
+		"16" "7108"
+		"17" "4726"
+		"18" "10235"
+		"19" "4840"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "RubberBandGames"
+	"publisher" "RubberBandGames"
+	"homepage" "http://www.WobblyLife.net"
+}
+"config"
+{
+	"installdir" "Wobbly Life"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wobbly Life.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65528"
+}
+"depots"
+{
+	"1211023"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2958094465099565104"
+				"size" "1789467438"
+				"download" "1143984832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "391CADB14C76A9A09E4EDBC3B247C9FB"
+				"size" "0C2260A6164FEFF1B967AB88F8588AB2"
+				"download" "79C5FCA2E26CB7E33E56664B7B73F626"
+			}
+			"development-release"
+			{
+				"gid" "AE4AC93A00A5B5C7B6FD8A0523943950"
+				"size" "8A0CEA2EDAC13D32A4A1068B2BE41619"
+				"download" "39866CD72E0A136FA2996C17B48F068F"
+			}
+			"pre-release"
+			{
+				"gid" "BFCEC92CA32EB091C248B0642E3DF2CF"
+				"size" "342FD8EF1884FBD3BFA886507CAA16ED"
+				"download" "258C46190D9D252652275F30A65AD061"
+			}
+		}
+	}
+	"1211024"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3286802105101842650"
+				"size" "1083803393"
+				"download" "183219184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "DA81ADF01F03C3EDB6F74523682791A3"
+				"size" "D4E4A24F5EF349E43AF7C7BA2CEF3CCC"
+				"download" "DDC9EA062FE64561231E47734245231F"
+			}
+			"development-release"
+			{
+				"gid" "EFF88640411384AE6F63FC73D5F45D06"
+				"size" "DE6B6E1D9C467C995A265EEF686E0599"
+				"download" "8DF16D8EB3F9D2CE05611F92C8A93764"
+			}
+			"pre-release"
+			{
+				"gid" "CB8F7CF339302C7ED346D026767D3852"
+				"size" "9841ACD7EC75AF0582A8E8435F1D698F"
+				"download" "7AB1A0F79EC7412322984230AC1FBE20"
+			}
+		}
+	}
+	"workshopdepot" "1211020"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16657470"
+			"timeupdated" "1733493809"
+		}
+		"development"
+		{
+			"buildid" "16650270"
+			"pwdrequired" "1"
+			"timeupdated" "1733442999"
+		}
+		"development-release"
+		{
+			"buildid" "16265851"
+			"pwdrequired" "1"
+			"timeupdated" "1730472728"
+		}
+		"pre-release"
+		{
+			"buildid" "16657403"
+			"pwdrequired" "1"
+			"timeupdated" "1733493495"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RubberBandGames/Wobbly Life/Save/{64BitSteamID}/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "RubberBandGames/Wobbly Life/Save/{64BitSteamID}/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26526984"
+"_sha" "7e15ac75af18755b0d92a144da965fac6a908a48"
+"_size" "8143"
