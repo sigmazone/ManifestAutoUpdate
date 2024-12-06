@@ -1,0 +1,464 @@
+"appid" "1363740"
+"common"
+{
+	"name" "The Troop"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "93271466884ff5a91098747dd9bde45d47365f76"
+	"logo_small" "93271466884ff5a91098747dd9bde45d47365f76_thumb"
+	"icon" "51a839024bacfb152380e5fd708ca6decb0c758f"
+	"clienticon" "b067c025b04b363e17316048cbf8f9e430e44d38"
+	"clienttga" "e6ce10773ca93cd544d4283f9ff1014fbe68b6cf"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1363740_eula_0"
+			"name" "The Troop EULA"
+			"url" "https://store.steampowered.com//eula/1363740_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732752000"
+		"tested_build_id" "16501756"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1732576624"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Giant Flame"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PLA Studios"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697629675"
+	"community_hub_visible" "1"
+	"gameid" "1363740"
+	"store_tags"
+	{
+		"0" "4150"
+		"1" "14139"
+		"2" "13276"
+		"3" "1741"
+		"4" "4325"
+		"5" "4684"
+		"6" "1717"
+		"7" "9"
+		"8" "3987"
+		"9" "4168"
+		"10" "4182"
+		"11" "1678"
+		"12" "4191"
+		"13" "1708"
+		"14" "19"
+		"15" "3993"
+		"16" "6730"
+		"17" "492"
+		"18" "17389"
+		"19" "11104"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Giant Flame"
+	"publisher" "PLA Studios"
+	"gamemanualurl" "https://store.steampowered.com/manual/1363740/"
+	"listofdlc" "2802940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Troop"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Troop.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TheTroop.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1363741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7176210361303844256"
+				"size" "9049849463"
+				"download" "6712729872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"localisationtest"
+			{
+				"gid" "21081E7B51E37CC2B9BCD983EF8354F5"
+				"size" "9256FFE0FC9061FBB73DE8AE8C1A8465"
+				"download" "1E193742976D606E058CBE0F424E1857"
+			}
+			"notifications"
+			{
+				"gid" "39E0FFBCBA6C8FD205DBBA96445D4EE7"
+				"size" "8B4B9AA4C08EB8992D71DDFF45C2EE0A"
+				"download" "7701973A43BE445C2FDA9D2EA4DAB40E"
+			}
+			"publictest"
+			{
+				"gid" "E3C8939E61A4E86487E75055F21D700C"
+				"size" "9E492728A39AD5B6552EB7A0F51696F5"
+				"download" "558182E46FFE6C139D82340BF2A415BE"
+			}
+			"test"
+			{
+				"gid" "06768435FBFA21388ED1A353376C4E8E"
+				"size" "47CAE2A08D49836806881A72F453E806"
+				"download" "10C8A114F40420E82CC065F72259BB7A"
+			}
+			"usdlctest"
+			{
+				"gid" "DCADE536AD73EE9E86FE9A2568CFC004"
+				"size" "10423A100FA016146CE104092AD7C923"
+				"download" "CDF6A0F57B58F6BFDEFD30C04D2711A0"
+			}
+		}
+	}
+	"1363742"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3789641031890073280"
+				"size" "9158820444"
+				"download" "6738887616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"localisationtest"
+			{
+				"gid" "31D413B4E1078FB2061E7A26D03FD1CA"
+				"size" "718F03AECBD17A5E7540E7D61FA41526"
+				"download" "20CE5F7DBA078A49F5E207D7E2630E14"
+			}
+			"notifications"
+			{
+				"gid" "AC3803709CB04936B5E09AA322A08EBA"
+				"size" "560D40D4A4081656A4C40B41622B0758"
+				"download" "F9B518ACF1CE7A7A585A2B40AD926642"
+			}
+			"publictest"
+			{
+				"gid" "E1926ED063AED18AB26BE019885CEDF3"
+				"size" "E42BD7411DCA3ADBCF8715F2D91ADE49"
+				"download" "F6EC47632326E1C0F684D890D080C005"
+			}
+			"test"
+			{
+				"gid" "FE6BFA7226DEDAA9C5E74F9F0535A20C"
+				"size" "C2740BA85F33EB137256D9CDA73A55B5"
+				"download" "051F7CA83874EAC617273D9D8E774340"
+			}
+			"usdlctest"
+			{
+				"gid" "799C795A2A0E410AED407A60B2C8C842"
+				"size" "2EF7C3ED38B951416863269CCA94E160"
+				"download" "AD6DFBFD662028946ECEF0796A9FA362"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16630782"
+			"timeupdated" "1733344376"
+		}
+		"localisationtest"
+		{
+			"buildid" "16529490"
+			"pwdrequired" "1"
+			"timeupdated" "1732569722"
+		}
+		"notifications"
+		{
+			"buildid" "16513228"
+			"pwdrequired" "1"
+			"timeupdated" "1732406090"
+		}
+		"publictest"
+		{
+			"buildid" "16630782"
+			"pwdrequired" "1"
+			"timeupdated" "1733344327"
+		}
+		"test"
+		{
+			"buildid" "16630782"
+			"pwdrequired" "1"
+			"timeupdated" "1733324543"
+		}
+		"usdlctest"
+		{
+			"buildid" "16630782"
+			"pwdrequired" "1"
+			"timeupdated" "1733344337"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "99000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PLA Studios/The Troop/Save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PLA Studios/The Troop/Battlegroup"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26498466"
+"_sha" "6a24e043c0fcacdd816ab5d0b1c64121d876ee37"
+"_size" "8509"
