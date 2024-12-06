@@ -71,6 +71,17 @@
 	{
 		"library_logo" "en"
 	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_0dc627486303aab368efc0fc543107f53c8920d8.jpg"
 	"store_asset_mtime" "1663285415"
 	"associations"
 	{
@@ -106,6 +117,49 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1534964210"
@@ -142,6 +196,7 @@
 {
 	"developer" "Gupa Games"
 	"publisher" "Gupa Games"
+	"homepage" "https://gupagames.com/"
 }
 "config"
 {
@@ -171,9 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "7670682316938013229"
-				"size" "1336192344"
-				"download" "380446480"
+				"gid" "8560901879218206795"
+				"size" "1425075192"
+				"download" "388952528"
 			}
 		}
 	}
@@ -181,23 +236,12 @@
 	{
 		"public"
 		{
-			"buildid" "14900931"
-			"timeupdated" "1719883935"
+			"buildid" "16646609"
+			"timeupdated" "1733419830"
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_mainmenu" "Main Menu"
-				"#status_pregamelobby" "Pregame: %map%"
-				"#status_ingame" "In Game: %map% %round%/%totalround%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26513716"
+"_sha" "53f4d806b048b623fa3505612b05c8d0eeb63507"
+"_size" "4328"
