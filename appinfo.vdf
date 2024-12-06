@@ -1,0 +1,135 @@
+"appid" "396050"
+"common"
+{
+	"name" "Warframe TennoGen"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "396050_eula_1"
+			"name" "Warframe TennoGen EULA 1"
+			"url" "http://store.steampowered.com//eula/396050_eula_1"
+		}
+	}
+	"clienticon" "42434d86c177ccf4ef11c70feb640e8d51f16929"
+	"clienttga" "c3ce25ad25b658d1f182d9e3d40ec9277d5528cf"
+	"icon" "c60a58d9ace4fe4a0071737a3771646f3d24fac5"
+	"logo" "b2f20e2b8d93bad9e0dce2c42608599f3a534e97"
+	"logo_small" "b2f20e2b8d93bad9e0dce2c42608599f3a534e97_thumb"
+	"associations"
+	{
+	}
+	"gameid" "396050"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "WarframeTennoGen"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/SteamWorkshopUploader.exe"
+			"workingdir" "bin"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "396050"
+	"396051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7090996325062685058"
+				"size" "83895535"
+				"download" "29695552"
+			}
+			"prev_build"
+			{
+				"gid" "7090996325062685058"
+				"size" "83895535"
+				"download" "29695552"
+			}
+			"test"
+			{
+				"gid" "7090996325062685058"
+				"size" "83895535"
+				"download" "29695552"
+			}
+		}
+	}
+	"396052"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5326281768530434111"
+				"size" "3137538"
+				"download" "1759040"
+			}
+			"prev_build"
+			{
+				"gid" "662357667233636074"
+				"size" "3080558"
+				"download" "1742144"
+			}
+			"test"
+			{
+				"gid" "6747395102231200302"
+				"size" "117807486"
+				"download" "93199680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9073128"
+			"timeupdated" "1657132050"
+		}
+		"prev_build"
+		{
+			"buildid" "6583921"
+			"timeupdated" "1627311245"
+		}
+		"test"
+		{
+			"buildid" "15743884"
+			"timeupdated" "1726669952"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"appidredirect" "230410"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
