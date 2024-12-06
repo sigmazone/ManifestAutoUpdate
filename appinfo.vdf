@@ -1,0 +1,77 @@
+"appid" "2266250"
+"common"
+{
+	"name" "Portal: Revolution Authoring Tools"
+	"type" "Tool"
+	"parent" "601360"
+	"clienticon" "c888d9a5c272a79622b1382272635c7c0e49c4ac"
+	"clienttga" "5158359e21e78aea70507e409ceb9789816492f1"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "b5eac0fb40b2507886253666be7e5b1e69001688"
+	"releasestate" "released"
+	"gameid" "2266250"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "Portal Revolution"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win64\\hammer.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Hammer World Editor"
+			}
+			"description" "Hammer World Editor"
+		}
+	}
+}
+"depots"
+{
+	"2266251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5683998429434780409"
+				"size" "393207014"
+				"download" "56307152"
+			}
+			"preview"
+			{
+				"gid" "5683998429434780409"
+				"size" "393207014"
+				"download" "56307152"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14135195"
+			"timeupdated" "1713804654"
+		}
+		"preview"
+		{
+			"buildid" "14135195"
+			"description" "Unstable beta"
+			"timeupdated" "1713804666"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23253878"
+"_sha" "0ddd00db1ca447ccc423baa581428b71d16fb567"
+"_size" "1275"
