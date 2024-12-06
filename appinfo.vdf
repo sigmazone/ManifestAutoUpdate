@@ -1,0 +1,425 @@
+"appid" "1531540"
+"common"
+{
+	"name" "Distant Worlds 2"
+	"type" "Game"
+	"clienttga" "a03a9157317a3194e960e20a1d5c74db042d6f4e"
+	"clienticon" "db6aab8f3638977d685e7ffa72733e1ac9862834"
+	"icon" "7f77d10f4f9635383e4fa40588f17852145e8625"
+	"logo" "23ee3f5ddb441850f45475db7040766ed1d81f4c"
+	"logo_small" "23ee3f5ddb441850f45475db7040766ed1d81f4c_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1531540_eula_0"
+			"name" "Distant Worlds 2 EULA"
+			"url" "https://store.steampowered.com//eula/1531540_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "8451871"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "94.1860465116279"
+			"height_pct" "86.47589646164806"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "94.1860465116279"
+				"height_pct" "86.47589646164806"
+			}
+		}
+	}
+	"store_asset_mtime" "1713171877"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CodeForce"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Distant Worlds"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1646920962"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1531540"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "1670"
+		"3" "4364"
+		"4" "3942"
+		"5" "1755"
+		"6" "4191"
+		"7" "4182"
+		"8" "5125"
+		"9" "3993"
+		"10" "493"
+		"11" "7107"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "CodeForce"
+	"publisher" "Slitherine Ltd."
+	"gamemanualurl" "https://store.steampowered.com/manual/1531540/"
+	"listofdlc" "2140010,2409480,2926560"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Distant Worlds 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DistantWorlds2.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"workshopdepot" "1531540"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1531541"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3897851183694584166"
+				"size" "11950250970"
+				"download" "4662147472"
+			}
+			"legacy2"
+			{
+				"gid" "181954932414256637"
+				"size" "12770394786"
+				"download" "4518957776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "DC7B85A600BFA07A4E90F8864718699E"
+				"size" "F6A207A906374757FF7AD87084483911"
+				"download" "ECC02BB45DBEAFE11F133FBB6AE3D932"
+			}
+			"devtest"
+			{
+				"gid" "9632FA61235CC648F3A6E15315C2F765"
+				"size" "C5D9E86C574E5E7DB731F31E526575F6"
+				"download" "ED6485191216758DF510EBBF60A41FC2"
+			}
+		}
+	}
+	"1531542"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2617048068467966511"
+				"size" "172646042"
+				"download" "161307824"
+			}
+			"legacy2"
+			{
+				"gid" "5242573990637645344"
+				"size" "171766360"
+				"download" "160808400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "EE774561464FF9BBEEFCBF3C96BD9650"
+				"size" "E23DC9F78D679B3D77D9D7B2AF1B1E6C"
+				"download" "051CCCDA9F3A74447CCAEC3839D1AF4A"
+			}
+			"devtest"
+			{
+				"gid" "617C4E27A4A02B19DB7FBC7BA42BE71F"
+				"size" "B07EBCCC198F3E04606CB0F5AF7AFE2A"
+				"download" "348A4C39A4A2B07B4F2BE0AA5DF7A0C7"
+			}
+		}
+	}
+	"2140010"
+	{
+		"dlcappid" "2140010"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7128771141960476190"
+				"size" "1519755141"
+				"download" "638652960"
+			}
+			"legacy2"
+			{
+				"gid" "910524104914354938"
+				"size" "1508927234"
+				"download" "631553088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "0E407491DB367A95036017360E8310A8"
+				"size" "A11D4EB8ED6CB04795544D6D1779D02A"
+				"download" "0FCD75FEE8BD902178A43890A2548916"
+			}
+			"devtest"
+			{
+				"gid" "A1F41D1B50F310BCB7B9FFA3C55111A9"
+				"size" "B39D6377896DB34CC54BEBFCEAC418CF"
+				"download" "78C835E4E2E71475F9C45F42E528B3EA"
+			}
+		}
+	}
+	"2409480"
+	{
+		"dlcappid" "2409480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1764436446918981051"
+				"size" "3722779915"
+				"download" "1062320400"
+			}
+			"legacy2"
+			{
+				"gid" "3602403864374547525"
+				"size" "1879949815"
+				"download" "704511328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "07EAECBE9EBCF2EDAD38E2351506A114"
+				"size" "3075CC85A86FB8335AEA842C187DE8C4"
+				"download" "1C3F7F544B8F1E8381A287F200BF0B81"
+			}
+			"devtest"
+			{
+				"gid" "4F197F291111649994F41A1143FDABA5"
+				"size" "9BF42DDA09BD3E31386BEBA60AAD532F"
+				"download" "B2B1A3FEF2F55396253D9AD029F67A12"
+			}
+		}
+	}
+	"2926560"
+	{
+		"dlcappid" "2926560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2916156163371373186"
+				"size" "4538363810"
+				"download" "1763223568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "EDF20F4B9D82A642109271CF333D893D"
+				"size" "5B6023BFF3D81344790139DE59751BA3"
+				"download" "5965822404213B7C9C993E319F738069"
+			}
+			"devtest"
+			{
+				"gid" "3D9E167F49E59087BE68F7EBCDD357CB"
+				"size" "8AB19C0BFD2C8E1087A5EBE87122EB4C"
+				"download" "C080C508112BC7086CC1B1F17831855C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16603631"
+			"timeupdated" "1733410880"
+		}
+		"press"
+		{
+			"buildid" "16120820"
+			"pwdrequired" "1"
+			"timeupdated" "1729688261"
+		}
+		"legacy2"
+		{
+			"buildid" "11891036"
+			"description" "v1.1.4.4"
+			"timeupdated" "1699893977"
+		}
+		"devtest"
+		{
+			"buildid" "16603631"
+			"pwdrequired" "1"
+			"timeupdated" "1733159154"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "data/SavedGames"
+			"pattern" "*.DWGame"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26510162"
+"_sha" "e4e4ab61a4d1a75302c5d4e7088520ff75741b8f"
+"_size" "7784"
