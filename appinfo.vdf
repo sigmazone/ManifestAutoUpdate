@@ -1,0 +1,694 @@
+"appid" "2172010"
+"common"
+{
+	"name" "Until Dawn™"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "Until Dawn -惨劇の山荘-"
+		"russian" "Дожить до рассвета"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2172010_eula_0"
+			"name" "Until Dawn™ EULA (RoW)"
+			"url" "https://store.steampowered.com/eula/2172010_eula_0"
+			"version" "4"
+			"countries" "AR,AS,BO,BR,CA,CL,CN,CO,CR,EC,GT,GU,HK,HN,ID,MP,MX,MY,NI,PA,PE,PH,PR,PY,SG,SV,TH,TW,US,UY,VI,VN"
+		}
+		"1"
+		{
+			"id" "2172010_eula_1"
+			"name" "Until Dawn™ EULA (EMEA)"
+			"url" "https://store.steampowered.com/eula/2172010_eula_1"
+			"countries" "AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
+			"version" "1"
+		}
+		"2"
+		{
+			"id" "2172010_eula_2"
+			"name" "Until Dawn™ EULA (JP)"
+			"url" "https://store.steampowered.com//eula/2172010_eula_2"
+			"countries" "JP"
+			"version" "1"
+		}
+		"3"
+		{
+			"id" "2172010_eula_3"
+			"name" "Until Dawn™ EULA (KR)"
+			"url" "https://store.steampowered.com//eula/2172010_eula_3"
+			"countries" "KR"
+			"version" "1"
+		}
+	}
+	"clienticon" "2faf98b6a0bf5e4e3b913e8d8b410e88cb8961c5"
+	"clienttga" "b834c2e08af99f7e5b141bca0f063c953457dc2c"
+	"icon" "8ef19e5501a130f09a867ec7e4ddbf087396a0d3"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1729814400"
+		"tested_build_id" "16015013"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6pin"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "84.26456392692717"
+			"height_pct" "63.541666666666664"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "84.26456392692717"
+				"height_pct" "63.541666666666664"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728048971"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ballistic Moon"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayStation Publishing LLC"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayStation Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728053880"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2172010"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "6426"
+		"2" "21"
+		"3" "4182"
+		"4" "4486"
+		"5" "3834"
+		"6" "6971"
+		"7" "4166"
+		"8" "11014"
+		"9" "1759"
+		"10" "1742"
+		"11" "1697"
+		"12" "5984"
+		"13" "5716"
+		"14" "4145"
+		"15" "5608"
+		"16" "4342"
+		"17" "4559"
+		"18" "4345"
+		"19" "5708"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Ballistic Moon"
+	"publisher" "PlayStation Publishing LLC"
+}
+"config"
+{
+	"installdir" "Until Dawn"
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65528"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windows\\Bates.exe"
+			"type" "default"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2172011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8034387937407970920"
+				"size" "63660013466"
+				"download" "61294443104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "FF825A9410F598AF9450B29B8CBCFC9D"
+				"size" "B2B5FB907ED9138C0A7B1F73FC62C00B"
+				"download" "4D5C5C19B42EA475531BA1900833E1F2"
+			}
+			"latest"
+			{
+				"gid" "97DE0B20D681B7EF336CF34321537AB4"
+				"size" "6E13F9CEC0B37F7177978AD5B36DBF7C"
+				"download" "9F216457746BB8A61BB7B1B992E98A55"
+			}
+			"latest_csv"
+			{
+				"gid" "15F264452C75D5FC614D4F2F6B990DEE"
+				"size" "6E75B0BC2EA80747F2D57C2D757F9296"
+				"download" "282960031EC30E1D8FD3E518F3EFF1C3"
+			}
+			"latest_test"
+			{
+				"gid" "086650AA86321AF72C14ECED4DF9B87C"
+				"size" "EAD95EE52593D8F8BB04D6CC6AC38FCB"
+				"download" "B7C55958DC6BCDA57EB8FF0B4805F6F5"
+			}
+			"partner_amd"
+			{
+				"gid" "16D343E3D2B1C4D31DCA0B6E63B5929F"
+				"size" "BC8764062BD5E20BE4317088B5BE1322"
+				"download" "1066F4D5018F82434ABBFF9360997980"
+			}
+			"partner_intel"
+			{
+				"gid" "7B1C0EBBE0FB07D73E5F16C3A11A4D25"
+				"size" "C3456A42EE61D17FBDA87BB15C2ACD0F"
+				"download" "91B17B8EF0EB4075B0608F49E4E67A67"
+			}
+			"partner_nixxes"
+			{
+				"gid" "96D0E852D4A69D916C0C39BEAE5C6384"
+				"size" "FE8EE51F3C6CB8F394B9939C664B1225"
+				"download" "5755DF058F43852B32B5D1EF47A3D470"
+			}
+			"partner_nvidia"
+			{
+				"gid" "E1100110EB86C56DACD492CFB64A9D05"
+				"size" "BABAC9E3A8D6D162D8EC10B791CA1A75"
+				"download" "A6A130CC884E53741C63CE4D1C3CA1F7"
+			}
+			"stable"
+			{
+				"gid" "49DF8F8B98492B464CDB2FA4E2E53976"
+				"size" "980908860DE02C1C83C6AACE32146BA0"
+				"download" "8410A62EE15C7753FF7836311F2A7BDA"
+			}
+			"stable_compat"
+			{
+				"gid" "B003254842627B01637FD95F5F5E119D"
+				"size" "ADC7EF046B1E7BD87313AEA4D86C5313"
+				"download" "C70933DC94ECCE7E5EC14E1EB2709C5A"
+			}
+			"stable_review"
+			{
+				"gid" "FE6CE0590BDAA65BC6C7A62F9B3C4158"
+				"size" "E0808EA04EFBD9917B97B6436C20CD92"
+				"download" "451F81E321F6B95D90ABC6991610974C"
+			}
+			"release_candidate"
+			{
+				"gid" "999EAE8747B847FD53B97C60AA5EF2EC"
+				"size" "7C79EB9B33A9C8794C97EB18EFA64C97"
+				"download" "79618CE69492BB9BCDAA89F50E794922"
+			}
+			"stable_test"
+			{
+				"gid" "726F159AAE070AF366F0685439FEF2CF"
+				"size" "0B3B4832C55ECB7A0087952030299F84"
+				"download" "0C1DC2B597AEB37E3F62BB608466DC37"
+			}
+		}
+	}
+	"2172012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5223895161202821946"
+				"size" "63660027740"
+				"download" "61315627888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "1F381FBEB4B01BFAE48B0290D6A09FBB"
+				"size" "025ACC4ADCDE157B8B0887E1B5BE29DA"
+				"download" "D7F60A1E0BCB6BFEAF31E8C5B94A54AD"
+			}
+			"latest"
+			{
+				"gid" "5A9DEB5001C098C08A3BED4A542134D0"
+				"size" "606972D84B89E2634AE120F25C50F4EF"
+				"download" "9B18F9C1A93D8ADDEAF55B6722C82C3D"
+			}
+			"latest_test"
+			{
+				"gid" "2329A27F1B7B091E10EA99D366D90951"
+				"size" "D38DB44F9B5E634AEFC199D73A7E8F5F"
+				"download" "77C3438D8B2A7025E6CC8D9AEEAAAA75"
+			}
+			"partner_amd"
+			{
+				"gid" "3CA594CE12719EEED60264DB31B7360A"
+				"size" "E5F74BBDEBBB1B114E63472E2EF16BD4"
+				"download" "AED18F121ACBBFE484970707B9121816"
+			}
+			"partner_nixxes"
+			{
+				"gid" "DCC5CEC946173C73EF496FECACFE80EB"
+				"size" "C07AAE9AF9CD681E0E6EF2FC25399901"
+				"download" "D299F185DBD95AB17C35671EC62E1F0A"
+			}
+			"partner_nvidia"
+			{
+				"gid" "6E7DD9F209AB9E0751E5C4D4A4BF2FD5"
+				"size" "76FF35E88BB44A835C6DBBC9D0A1E306"
+				"download" "922B390AD5E26E26D0A06A4A25995925"
+			}
+			"stable"
+			{
+				"gid" "9FA8A8E7BD5BB3CC4E4D3F91F27BE141"
+				"size" "7A01DF78F4EB137D147F1E6B0FC5CA65"
+				"download" "D85D839EE23F896E40561F12A2965AC8"
+			}
+			"stable_compat"
+			{
+				"gid" "D7E9946BE1CF52C09F73D33A0EDE7A09"
+				"size" "C4640922D3AD224F88D65AAA2A1C7281"
+				"download" "DAC11687DF82E6D130B2F4B302521202"
+			}
+			"stable_review"
+			{
+				"gid" "353220E169735A2A4DA8A09E41A7FAAD"
+				"size" "D9937F9A6EC4C4757D129243780F198C"
+				"download" "3ADEE760E9433A2A17298C7875D7CE4F"
+			}
+			"release_candidate"
+			{
+				"gid" "7B73491B17A450733646F62CBD5E3DD5"
+				"size" "A929A23A161AAEFEC6683EED4DAE2CF5"
+				"download" "A294027A5D3A775ED89BBDF4734F2F7A"
+			}
+			"stable_test"
+			{
+				"gid" "81379820E4B54AD7F52114D2BB510D27"
+				"size" "AF924E8E8DDC280F0C69153549305BC4"
+				"download" "EE14D0E8F254B9AE115EDE7839A17A6D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16633318"
+			"timeupdated" "1733417262"
+		}
+		"dev_test"
+		{
+			"buildid" "16337231"
+			"pwdrequired" "1"
+			"timeupdated" "1731587694"
+		}
+		"latest"
+		{
+			"buildid" "16633318"
+			"pwdrequired" "1"
+			"timeupdated" "1733337903"
+		}
+		"latest_csv"
+		{
+			"buildid" "16624171"
+			"pwdrequired" "1"
+			"timeupdated" "1733288479"
+		}
+		"latest_test"
+		{
+			"buildid" "16632254"
+			"pwdrequired" "1"
+			"timeupdated" "1733331956"
+		}
+		"partner_amd"
+		{
+			"buildid" "15634419"
+			"pwdrequired" "1"
+			"timeupdated" "1725879314"
+		}
+		"partner_intel"
+		{
+			"buildid" "15586539"
+			"pwdrequired" "1"
+			"timeupdated" "1725466588"
+		}
+		"partner_nixxes"
+		{
+			"buildid" "16047877"
+			"pwdrequired" "1"
+			"timeupdated" "1728985837"
+		}
+		"partner_nvidia"
+		{
+			"buildid" "15896519"
+			"pwdrequired" "1"
+			"timeupdated" "1727944688"
+		}
+		"stable"
+		{
+			"buildid" "16205014"
+			"pwdrequired" "1"
+			"timeupdated" "1730113956"
+		}
+		"stable_compat"
+		{
+			"buildid" "15592649"
+			"pwdrequired" "1"
+			"timeupdated" "1725466599"
+		}
+		"stable_review"
+		{
+			"buildid" "15576571"
+			"pwdrequired" "1"
+			"timeupdated" "1725360286"
+		}
+		"release_candidate"
+		{
+			"buildid" "16633318"
+			"pwdrequired" "1"
+			"timeupdated" "1733397889"
+		}
+		"stable_test"
+		{
+			"buildid" "16015013"
+			"pwdrequired" "1"
+			"timeupdated" "1732528670"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "3"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Bates/Saved/SaveGames/{64BitSteamID}/"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26511627"
+"_sha" "e6a6a5d23288013d5022c31bfec74f8b8d53c270"
+"_size" "13758"
