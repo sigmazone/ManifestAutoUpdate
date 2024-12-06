@@ -1,0 +1,498 @@
+"appid" "1068360"
+"common"
+{
+	"name" "Fearmonium"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "456628d6d39e32e3541961ea6cf45773181b0e8e"
+	"logo_small" "456628d6d39e32e3541961ea6cf45773181b0e8e_thumb"
+	"icon" "17620ac7c885721f2803a19ebffa38ea67de5cb7"
+	"clienticon" "87c395ece75cb3fed972ea0a878abb84092e51b8"
+	"clienttga" "07d62792251a0ff2f902cdf168bde31c3fe937b3"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1660262400"
+		"tested_build_id" "7710194"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Fearmonium"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "937d7951dacd2235f7135adc1b1d504444a7aadd/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.61437992701298"
+			"height_pct" "81.38461505686743"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.61437992701298"
+				"height_pct" "81.38461505686743"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723020144"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Redblack Spade"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " Redblack Spade"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Redblack Spade"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1621519300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1068360"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "5379"
+		"2" "4106"
+		"3" "7208"
+		"4" "3955"
+		"5" "3871"
+		"6" "4726"
+		"7" "1742"
+		"8" "6971"
+		"9" "5094"
+		"10" "19"
+		"11" "1684"
+		"12" "1714"
+		"13" "4166"
+		"14" "4182"
+		"15" "5984"
+		"16" "21"
+		"17" "1773"
+		"18" "6052"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Redblack Spade"
+	"publisher" " Redblack Spade"
+	"homepage" "https://redblackspade.com/"
+}
+"config"
+{
+	"installdir" "Fearmonium"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fearmonium.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "fearmonium.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "nw"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1068361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7620125546431199482"
+				"size" "732246506"
+				"download" "656895136"
+			}
+			"1.0.5test"
+			{
+				"gid" "1031263299568334600"
+				"size" "729777255"
+				"download" "656187392"
+			}
+			"legacy"
+			{
+				"gid" "7430924974532790198"
+				"size" "723052702"
+				"download" "649547200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"smallfont"
+			{
+				"gid" "D3E89C21CD4661510ED6013253CE446F"
+				"size" "47B3A1840F223DE3F9F1BF39C08F0D67"
+				"download" "8FDBE69FE18BEC81C9B54BEA8CE48D55"
+			}
+			"test"
+			{
+				"gid" "74C1DF13581E92E10D88FB4C05CBD961"
+				"size" "3B2010B9C20775AE46B16E36FA27EF3D"
+				"download" "3BAFDA01CA52C014C8C58D19A4188725"
+			}
+		}
+	}
+	"1068362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8568217055144399414"
+				"size" "815497776"
+				"download" "644823136"
+			}
+			"1.0.5test"
+			{
+				"gid" "3193231377932993312"
+				"size" "790129660"
+				"download" "623415456"
+			}
+			"legacy"
+			{
+				"gid" "5456554919292354722"
+				"size" "787760179"
+				"download" "622529904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"smallfont"
+			{
+				"gid" "E60D28DB71F3D8C2CC26E9BC5AC59E4C"
+				"size" "C08CB71E40F456BED16BAF00A3D81C19"
+				"download" "E1364E70F72DE184700E14D2C8C9E973"
+			}
+			"test"
+			{
+				"gid" "41D020CF560A846BCB7DEE7E70073E9F"
+				"size" "D1F4E79DB6A19866FAA5D8C9253066EF"
+				"download" "12D4A18C30C4E9D6C2B759887C08F488"
+			}
+		}
+	}
+	"1068363"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1744285372257870254"
+				"size" "768078514"
+				"download" "652875664"
+			}
+			"1.0.5test"
+			{
+				"gid" "1744285372257870254"
+				"size" "768078514"
+				"download" "652875664"
+			}
+			"legacy"
+			{
+				"gid" "519707423243911851"
+				"size" "767134923"
+				"download" "651910800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"smallfont"
+			{
+				"gid" "41A81BCEF96890C107813A57BF121F29"
+				"size" "2361D4C446010396CFD4DE770A4AE8D6"
+				"download" "ACFC3BA0DA94E4EBA62F83102206251F"
+			}
+			"test"
+			{
+				"gid" "5E2C9A4FCE88A8E247F4BBC477D73274"
+				"size" "6FC12BA8D749E120C13F7FEC4873EAC1"
+				"download" "B64AA880C8FA2195D246E855A4D1EC5F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11505256"
+			"timeupdated" "1687175369"
+		}
+		"1.0.5test"
+		{
+			"buildid" "9862857"
+			"description" "test"
+			"timeupdated" "1667488970"
+		}
+		"legacy"
+		{
+			"buildid" "6812969"
+			"description" "old version of the game"
+			"timeupdated" "1626504791"
+		}
+		"smallfont"
+		{
+			"buildid" "6737786"
+			"pwdrequired" "1"
+			"timeupdated" "1621600979"
+		}
+		"test"
+		{
+			"buildid" "7099307"
+			"pwdrequired" "1"
+			"timeupdated" "1627458666"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FearMonium"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "FearMonium"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "FearMonium"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "bf3e9118ff02d326e337ac96150d6e5f74a5e6a3"
+"_size" "8748"
