@@ -30,8 +30,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1659484800"
-		"tested_build_id" "8774690"
+		"test_timestamp" "1732752000"
+		"tested_build_id" "16501756"
 		"tests"
 		{
 			"0"
@@ -42,14 +42,19 @@
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
 			}
 			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
-			"3"
+			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -58,7 +63,7 @@
 		"configuration"
 		{
 			"supported_input" "other"
-			"requires_manual_keyboard_invoke" "0"
+			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
@@ -68,6 +73,7 @@
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -283,9 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "2400956915356907204"
-				"size" "9052263332"
-				"download" "6716238496"
+				"gid" "7176210361303844256"
+				"size" "9049849463"
+				"download" "6712729872"
 			}
 		}
 		"encryptedmanifests"
@@ -304,21 +310,21 @@
 			}
 			"publictest"
 			{
-				"gid" "B05789B74A9661D2E7305DFAEE5C14FD"
-				"size" "876F027C51C2FFC61DAD7E43F65B8328"
-				"download" "813D874657285F17803CFEA67D9E7801"
+				"gid" "E3C8939E61A4E86487E75055F21D700C"
+				"size" "9E492728A39AD5B6552EB7A0F51696F5"
+				"download" "558182E46FFE6C139D82340BF2A415BE"
 			}
 			"test"
 			{
-				"gid" "F907A0962CC0735FA83C77A4FD222102"
-				"size" "FE13249CCE2EDAC018A4AD3FD72C05E4"
-				"download" "3750ACE8773B47EA0AA068D3228D0BC6"
+				"gid" "06768435FBFA21388ED1A353376C4E8E"
+				"size" "47CAE2A08D49836806881A72F453E806"
+				"download" "10C8A114F40420E82CC065F72259BB7A"
 			}
 			"usdlctest"
 			{
-				"gid" "7AD0A3F41E4CD5FDC044D1F721BC9A39"
-				"size" "9C5A056757EABE18C1BA4ECD8737B818"
-				"download" "AED38814A0A89FD4B7E0F84EB7210770"
+				"gid" "DCADE536AD73EE9E86FE9A2568CFC004"
+				"size" "10423A100FA016146CE104092AD7C923"
+				"download" "CDF6A0F57B58F6BFDEFD30C04D2711A0"
 			}
 		}
 	}
@@ -331,6 +337,12 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "3789641031890073280"
+				"size" "9158820444"
+				"download" "6738887616"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -346,11 +358,23 @@
 				"size" "560D40D4A4081656A4C40B41622B0758"
 				"download" "F9B518ACF1CE7A7A585A2B40AD926642"
 			}
+			"publictest"
+			{
+				"gid" "E1926ED063AED18AB26BE019885CEDF3"
+				"size" "E42BD7411DCA3ADBCF8715F2D91ADE49"
+				"download" "F6EC47632326E1C0F684D890D080C005"
+			}
 			"test"
 			{
-				"gid" "234BD16FA86B6FB47A49FBC9EEC3E0BC"
-				"size" "A49DD5EB604C97257E2A49D8E0077939"
-				"download" "B16284AEBB36C20BA1568F915E184D11"
+				"gid" "FE6BFA7226DEDAA9C5E74F9F0535A20C"
+				"size" "C2740BA85F33EB137256D9CDA73A55B5"
+				"download" "051F7CA83874EAC617273D9D8E774340"
+			}
+			"usdlctest"
+			{
+				"gid" "799C795A2A0E410AED407A60B2C8C842"
+				"size" "2EF7C3ED38B951416863269CCA94E160"
+				"download" "AD6DFBFD662028946ECEF0796A9FA362"
 			}
 		}
 	}
@@ -358,8 +382,8 @@
 	{
 		"public"
 		{
-			"buildid" "16524109"
-			"timeupdated" "1732543164"
+			"buildid" "16630782"
+			"timeupdated" "1733344376"
 		}
 		"localisationtest"
 		{
@@ -375,21 +399,21 @@
 		}
 		"publictest"
 		{
-			"buildid" "16524109"
+			"buildid" "16630782"
 			"pwdrequired" "1"
-			"timeupdated" "1732569140"
+			"timeupdated" "1733344327"
 		}
 		"test"
 		{
-			"buildid" "16524192"
+			"buildid" "16630782"
 			"pwdrequired" "1"
-			"timeupdated" "1732539226"
+			"timeupdated" "1733324543"
 		}
 		"usdlctest"
 		{
-			"buildid" "16524109"
+			"buildid" "16630782"
 			"pwdrequired" "1"
-			"timeupdated" "1732539246"
+			"timeupdated" "1733344337"
 		}
 	}
 }
@@ -435,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26357292"
-"_sha" "677603527b263475c3f93ff4c4a2fd7f5796860c"
-"_size" "7888"
+"_change_number" "26498466"
+"_sha" "6a24e043c0fcacdd816ab5d0b1c64121d876ee37"
+"_size" "8509"
