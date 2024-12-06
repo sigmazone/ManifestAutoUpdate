@@ -1,0 +1,318 @@
+"appid" "1702390"
+"common"
+{
+	"name" "Voor De Kroon"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "b2411bffc2311b974bbbd72dbee8d2eb181cff08"
+	"logo_small" "b2411bffc2311b974bbbd72dbee8d2eb181cff08_thumb"
+	"icon" "685d3f06ccc1a24bb667186e2f90e8a332bfff58"
+	"clienttga" "5e170cc612dc00425663f23fc297becf0f2153b6"
+	"clienticon" "0b11415397e1dd380e96d62e1fe85cd77b659b67"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1702390_eula_0"
+			"name" "Voor de kroon EULA"
+			"url" "https://store.steampowered.com//eula/1702390_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1683590400"
+		"tested_build_id" "10533034"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.217198990529425"
+			"height_pct" "59.49893137022082"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "36.217198990529425"
+				"height_pct" "59.49893137022082"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1731883386"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Future Minimalism"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Future Minimalism"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1670617548"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1702390"
+	"store_tags"
+	{
+		"0" "4172"
+		"1" "1678"
+		"2" "19"
+		"3" "3813"
+		"4" "3810"
+		"5" "3987"
+		"6" "599"
+		"7" "4608"
+		"8" "4345"
+		"9" "9"
+		"10" "4182"
+		"11" "4145"
+		"12" "493"
+		"13" "4667"
+		"14" "6730"
+		"15" "4175"
+		"16" "26921"
+		"17" "4598"
+		"18" "7368"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Future Minimalism"
+	"publisher" "Future Minimalism"
+	"homepage" "https://voordekroon.com/"
+	"listofdlc" "2476920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Voor de kroon"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FormationSystem.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Main Game"
+			}
+			"description" "Main Game"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1702391"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2958550038228367316"
+				"size" "20420698166"
+				"download" "7472160528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"combatdev"
+			{
+				"gid" "5AB3B3E374BA2EFAE452490A4CA1D5C8"
+				"size" "4492A26E115BD9FFBC92E637169598DE"
+				"download" "E95D9A55C4F30D884B92AF487F4CB0B7"
+			}
+			"oldversion"
+			{
+				"gid" "6B0BA818B096798572D056D1346A7DCB"
+				"size" "C158B828005EAAEB7142F8082545BEF7"
+				"download" "65041C813786B8C3B3341F684372BB3A"
+			}
+		}
+	}
+	"workshopdepot" "1702390"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16607193"
+			"timeupdated" "1733181688"
+		}
+		"combatdev"
+		{
+			"buildid" "16607193"
+			"pwdrequired" "1"
+			"timeupdated" "1733181358"
+		}
+		"oldversion"
+		{
+			"buildid" "10117100"
+			"pwdrequired" "1"
+			"timeupdated" "1732728119"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "30"
+}
+"_missing_token" "False"
+"_change_number" "26528374"
+"_sha" "5c91ecfb3b4d7596f84ca876a592e0d2981262ef"
+"_size" "5675"
