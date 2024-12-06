@@ -1,0 +1,161 @@
+"appid" "2751280"
+"common"
+{
+	"name" "MicroKit - MicroWorks Editor"
+	"type" "Tool"
+	"parent" "1233410"
+	"releasestate" "released"
+	"icon" "6a939df4a8868f60037df9b2d45d21904e9c4cb0"
+	"clienttga" "ed8a0fbe7f8c94b12d1cc4b5621cac29dea78c47"
+	"clienticon" "c747c36a82ab321ea61b632dc55a11cb3ac61193"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1705333188"
+	"associations"
+	{
+	}
+	"steam_release_date" "1705687200"
+	"gameid" "2751280"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "MicroKit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MicroKit.exe"
+		}
+	}
+}
+"depots"
+{
+	"2751281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1506044577052372554"
+				"size" "165779866"
+				"download" "46948656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "F260B92557323B73942E049AB6A44450"
+				"size" "EE1EE09C422B3AECD8CA72FEAF4C21A2"
+				"download" "DEC3BAF4E58D0EF5554E4D7BB6C84CAF"
+			}
+			"testing"
+			{
+				"gid" "6B4F565B4F8E354FEB0AEBC1A5EA2735"
+				"size" "2EE65CCB8F6BDC75C86E20E51D3FDB18"
+				"download" "69E6AC79556985C31C0616324E01DC0B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13219026"
+			"timeupdated" "1705670061"
+		}
+		"developer"
+		{
+			"buildid" "13219026"
+			"pwdrequired" "1"
+			"timeupdated" "1705669940"
+		}
+		"testing"
+		{
+			"buildid" "13219026"
+			"pwdrequired" "1"
+			"timeupdated" "1705670054"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "64000000"
+	"maxnumfiles" "1500"
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "146fabe79f3ff2f6a3eed9a30ccc1fcd3af86279"
+"_size" "2597"
