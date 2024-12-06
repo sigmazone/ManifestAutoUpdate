@@ -1,0 +1,196 @@
+"appid" "783710"
+"common"
+{
+	"name" "Virtual Desktop Dashboard"
+	"type" "Tool"
+	"oslist" "windows"
+	"osarch" ""
+	"openvroverlaysupport" "1"
+	"openvrsupport" "1"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"logo" "3c19455b69fb6925f5bffd43cb445dd53a551aee"
+	"logo_small" "3c19455b69fb6925f5bffd43cb445dd53a551aee_thumb"
+	"icon" "8610b9e11eeb267eed4c45e5558906fd283351d9"
+	"clienttga" "83b2af742e75c37bf11fb3c1c7e83ee0dc47afde"
+	"clienticon" "bbc7dfa08062906af4d2f125a1090d9440e9910c"
+	"parent" "382110"
+	"releasestate" "released"
+	"metacritic_name" "Virtual Desktop Dashboard"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_e8eb78c32727887a429c78da285be09219d1fcc2.jpg"
+	"store_asset_mtime" "1516592602"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Guy Godin"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Guy Godin"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+		"category_52" "1"
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1516003200"
+	"steam_release_date" "1515720360"
+	"gameid" "783710"
+	"onlyvrsupport" "1"
+	"exfgls" "9"
+	"review_score" "5"
+	"review_percentage" "44"
+}
+"extended"
+{
+	"enablegameoverlayforapp" "1"
+	"vrheadsetstreaming" "1"
+	"developer" "Guy Godin"
+	"publisher" "Guy Godin"
+	"homepage" "http://www.vrdesktop.net/"
+}
+"config"
+{
+	"installdir" "Virtual Desktop Dashboard"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VirtualDesktop.Dashboard.exe"
+			"type" "openvroverlay"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"783711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2299059409038612693"
+				"size" "22480863"
+				"download" "10802528"
+			}
+			"beta"
+			{
+				"gid" "2299059409038612693"
+				"size" "22480863"
+				"download" "10802528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "597F1BD065BAC762032E6C3B3F996C2A"
+				"size" "C503E6D4292E8E66E5DCC9CB31183BE8"
+				"download" "1447B93AB51F5D5C82FF797670E97A5B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16028891"
+			"timeupdated" "1728851918"
+		}
+		"alpha"
+		{
+			"buildid" "16028891"
+			"pwdrequired" "1"
+			"timeupdated" "1728851683"
+		}
+		"beta"
+		{
+			"buildid" "16028891"
+			"description" "Public testing branch"
+			"timeupdated" "1728851903"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "fc453e0d65846299c225f237e0cc8dc35126a84d"
+"_size" "3238"
