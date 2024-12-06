@@ -1,0 +1,234 @@
+"appid" "317670"
+"common"
+{
+	"name" "No More Room in Hell Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"logo" "932f6060f9090e5f78b7db86d11018f7185a4173"
+	"logo_small" "932f6060f9090e5f78b7db86d11018f7185a4173_thumb"
+	"icon" "2c589dd0e987a385665cb435b0c46f8c1e144f80"
+	"clienttga" "c7fd6b921104e7791471bb21d7085a1d4a2a3301"
+	"clienticon" "88eeeb9c4ce0eb56cf31cbe64cdf8ae4f0f9d9f4"
+	"clienticns" "79769e3585d3f1f24b6a24a3a30469a063f3b255"
+	"linuxclienticon" "7da1fd6feb1be59432777825dd9dab65921615f8"
+	"parent" "224260"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "317670"
+	"exfgls" "9"
+}
+"extended"
+{
+	"serverbrowsername" "No More Room in Hell"
+	"gamedir" "nmrih"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "No More Room in Hell Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"arguments" "-game nmrih +map nmo_broadway"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "./srcds_run"
+			"arguments" "-game nmrih +map nmo_broadway"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"317671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6250462330945174193"
+				"size" "664307394"
+				"download" "272716960"
+			}
+			"previous"
+			{
+				"gid" "5425007501175871340"
+				"size" "717229330"
+				"download" "288262416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "8C86AF8487CC27F5CEC08EF2BD6A4048"
+				"size" "A22A3BC42410A7171C1E0E501415A8EC"
+				"download" "172487D2918D4D4505822E6FB799DF3A"
+			}
+		}
+	}
+	"317672"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3804217696473093964"
+				"size" "634526818"
+				"download" "256212096"
+			}
+			"previous"
+			{
+				"gid" "9030547991358817583"
+				"size" "687448754"
+				"download" "271757552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "3796ADB21082DCD819FEB26FB178F567"
+				"size" "DE615142CCBE9B3303EEECBAE67B09DF"
+				"download" "91EC97F46B7FACD9956F0A14ED23CD8E"
+			}
+		}
+	}
+	"317673"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6911566495984257340"
+				"size" "5493652295"
+				"download" "2992666496"
+			}
+			"previous"
+			{
+				"gid" "2594941670378827350"
+				"size" "5490053901"
+				"download" "2965282528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "8EBECBF18CFE862EC205AF3837830F5C"
+				"size" "F7D750D6598A8809014027982A9ACB58"
+				"download" "FF7CE36562280D961821DA4510F58531"
+			}
+		}
+	}
+	"317674"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4931290884675551348"
+				"size" "14744072"
+				"download" "4483712"
+			}
+			"previous"
+			{
+				"gid" "1907029093969212812"
+				"size" "14800904"
+				"download" "4495856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "021981636FD7DD63128EEA5E96AD3A90"
+				"size" "9CD6E5406B5ACFAB8FC6261F06B68DCB"
+				"download" "07727CFD6605375E978DE75626A4ADB8"
+			}
+		}
+	}
+	"317675"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2106161296176663603"
+				"size" "65206340"
+				"download" "7161088"
+			}
+			"previous"
+			{
+				"gid" "1036083536896978619"
+				"size" "65773574"
+				"download" "7216944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "B0DFF6C79ED626C8D407AC6F66DD9EB7"
+				"size" "6688559E9446992A2E21F18F67352B2A"
+				"download" "77F3C3A60D334B91BF6AB386684683AA"
+			}
+		}
+	}
+	"workshopdepot" "317670"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16113210"
+			"timeupdated" "1729433555"
+		}
+		"devtest"
+		{
+			"buildid" "16113210"
+			"pwdrequired" "1"
+			"timeupdated" "1729430953"
+		}
+		"previous"
+		{
+			"buildid" "14788855"
+			"description" "Previous version of the game\t"
+			"timeupdated" "1729433519"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26182267"
+"_sha" "7807530d98051f98e16ca0d7d3038827025a7985"
+"_size" "4174"
