@@ -1,0 +1,77 @@
+"appid" "2467050"
+"common"
+{
+	"name" "Bigscreen Beyond Driver"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"parent" "250820"
+	"isplugin" "1"
+	"icon" "0ad129c0ff263daa65e264f7529eb7411e823672"
+	"clienticon" "2bc0c98ba690ee2417455c6ef9c66976f1983c02"
+	"clienttga" "694e850851e85b23732b61428bb97336325d74e8"
+	"releasestate" "released"
+	"gameid" "2467050"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "Bigscreen Beyond Driver"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\BeyondHID.exe"
+			"workingdir" "bin"
+		}
+	}
+}
+"depots"
+{
+	"2467051"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8605633864530040150"
+				"size" "4542835"
+				"download" "3489904"
+			}
+			"beta"
+			{
+				"gid" "8605633864530040150"
+				"size" "4542835"
+				"download" "3489904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "E7F9B198AF5A973519213C512B6F27C9"
+				"size" "B3EE32D320DA9608DDD28436BF290C1F"
+				"download" "6C6071DB519AF060D5E96BD336BC6625"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15128559"
+			"timeupdated" "1724183951"
+		}
+		"alpha"
+		{
+			"buildid" "13971256"
+			"pwdrequired" "1"
+			"timeupdated" "1712379075"
+		}
+		"beta"
+		{
+			"buildid" "15128559"
+			"description" "Utility beta update"
+			"timeupdated" "1721761278"
+		}
+	}
+}
