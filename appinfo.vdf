@@ -1,0 +1,484 @@
+"appid" "2102450"
+"common"
+{
+	"name" "Enotria: The Last Song"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d3b79195253d47f9aeeb20cf80f04a4c2f6327c7"
+	"clienticon" "f255ebab978a6cde5d9e2a797eddf2c2fdf4da54"
+	"clienttga" "851c6a096512bacb70acc4c5b61f0583057f58a4"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1731974400"
+		"tested_build_id" "15787072"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "72.10694132822898"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "72.10694132822898"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730220128"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jyamma Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Jyamma Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726497542"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2102450"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "122"
+		"2" "4026"
+		"3" "4182"
+		"4" "4166"
+		"5" "4231"
+		"6" "4667"
+		"7" "4604"
+		"8" "1697"
+		"9" "19"
+		"10" "1684"
+		"11" "7948"
+		"12" "4191"
+		"13" "3993"
+		"14" "4145"
+		"15" "4175"
+		"16" "3834"
+		"17" "7481"
+		"18" "4172"
+		"19" "1743"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "Jyamma Games"
+	"publisher" "Jyamma Games"
+	"homepage" "https://www.enotriathelastsong.com"
+}
+"config"
+{
+	"installdir" "Enotria"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Enotria.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2102451"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "751902303291046334"
+				"size" "13790535920"
+				"download" "13217266752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "D3CDBC9A50EA913B42D0B6310F963E98"
+				"size" "99CA2522D1161121B9B9232A705B6703"
+				"download" "7587411DE3486F3C79BE439F787AE95F"
+			}
+			"gamescom"
+			{
+				"gid" "4C9F4DCF942A08BCB52C1A637BD0102D"
+				"size" "0B8FF4FADB8C8280E87EC6E834105F6B"
+				"download" "3C980C2EAB2A750238E9C29CC9671505"
+			}
+			"hotfix_debug"
+			{
+				"gid" "FAA2E41302F0B8A13DC356AB8DCDF0FB"
+				"size" "E062CF6FDAB03262EBD3A5D02FAB6D81"
+				"download" "8EDAF67A7FFFFAC9C0A2B912743EC646"
+			}
+			"internal"
+			{
+				"gid" "2C97AEE307F80A34F96025C315876CC9"
+				"size" "85FC5330BA49DBA2D1D0319106936F30"
+				"download" "1F696EFCA7C6D164E3E6668C32E8D4FB"
+			}
+			"internal_debug"
+			{
+				"gid" "5DBF1BF0BE3168F067FDA6B23E97DEFD"
+				"size" "3F7F2E0395E7C21106A08B1E98986AD9"
+				"download" "F27DAA2BA45079A93AC7BDA93A97828F"
+			}
+			"programming"
+			{
+				"gid" "41DB6B76FC253E93613CA11CCCE7A438"
+				"size" "D58B2C87161A94213CD5DD3795EDCCB4"
+				"download" "359E12C8BD574D0D6FE656AA7FE54951"
+			}
+			"quality_assurance"
+			{
+				"gid" "3772336303C6FF8E7F5849001BB332EB"
+				"size" "862D5144B3108E992982E0B671F1172A"
+				"download" "B3C697C0F4610B8533725B81515BAB78"
+			}
+			"release_debug"
+			{
+				"gid" "D5EFEF9CD278FF42AABF91187D7C17AD"
+				"size" "C4B87C17A196881FB7A7438429A0F2C3"
+				"download" "96CBEEBBBF2E68ACC279DFACB6770FB4"
+			}
+			"release_shipping"
+			{
+				"gid" "CD5415D94C7C983147CDD6F187EED1F3"
+				"size" "93C3BFC91C937715A1DD41181262147C"
+				"download" "47EC4F6EC8CAB27A1A5FAF334FDC67B9"
+			}
+			"sega"
+			{
+				"gid" "0607595FA5818E49EE1F9DD7DF647EC2"
+				"size" "32287708B6D238E420AFC83530C0034D"
+				"download" "8D730744DECDEAB0F08C57829F8219DA"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16652434"
+			"timeupdated" "1733473437"
+		}
+		"external"
+		{
+			"buildid" "12765761"
+			"pwdrequired" "1"
+			"timeupdated" "1700643190"
+		}
+		"gamescom"
+		{
+			"buildid" "15453372"
+			"pwdrequired" "1"
+			"timeupdated" "1724280496"
+		}
+		"hotfix_debug"
+		{
+			"buildid" "16034610"
+			"pwdrequired" "1"
+			"timeupdated" "1728903231"
+		}
+		"internal"
+		{
+			"buildid" "16655075"
+			"pwdrequired" "1"
+			"timeupdated" "1733481088"
+		}
+		"internal_debug"
+		{
+			"buildid" "16653936"
+			"pwdrequired" "1"
+			"timeupdated" "1733475182"
+		}
+		"programming"
+		{
+			"buildid" "16169538"
+			"pwdrequired" "1"
+			"timeupdated" "1729794248"
+		}
+		"quality_assurance"
+		{
+			"buildid" "16624231"
+			"pwdrequired" "1"
+			"timeupdated" "1733295087"
+		}
+		"release_debug"
+		{
+			"buildid" "16653102"
+			"pwdrequired" "1"
+			"timeupdated" "1733469212"
+		}
+		"release_shipping"
+		{
+			"buildid" "16652434"
+			"pwdrequired" "1"
+			"timeupdated" "1733464204"
+		}
+		"sega"
+		{
+			"buildid" "15630224"
+			"pwdrequired" "1"
+			"timeupdated" "1725869661"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "/Enotria/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26524049"
+"_sha" "de9df16518fcb2c5d4a582b09377e0a75ae40633"
+"_size" "8818"
