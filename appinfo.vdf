@@ -50,26 +50,13 @@
 	"header_image"
 	{
 		"english" "header.jpg"
-		"turkish" "header_turkish.jpg"
-		"tchinese" "header_tchinese.jpg"
-		"spanish" "header_spanish.jpg"
-		"russian" "header_russian.jpg"
-		"portuguese" "header_portuguese.jpg"
-		"polish" "header_polish.jpg"
-		"koreana" "header_koreana.jpg"
-		"japanese" "header_japanese.jpg"
-		"italian" "header_italian.jpg"
-		"german" "header_german.jpg"
-		"french" "header_french.jpg"
-		"danish" "header_danish.jpg"
-		"czech" "header_czech.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
-		"library_header" "en,tr,zh-tw,es,zh-cn,ru,pt,pl,ko,ja,it,de,fr,da,cs"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -105,7 +92,7 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "a4aceac0c76ff8f2b26a92a66713557f1a6d6df3/logo.png"
 			}
 			"logo_position"
 			{
@@ -122,25 +109,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"turkish" "library_header_turkish.jpg"
-				"tchinese" "library_header_tchinese.jpg"
-				"spanish" "library_header_spanish.jpg"
-				"schinese" "library_header_schinese.jpg"
-				"russian" "library_header_russian.jpg"
-				"portuguese" "library_header_portuguese.jpg"
-				"polish" "library_header_polish.jpg"
-				"koreana" "library_header_koreana.jpg"
-				"japanese" "library_header_japanese.jpg"
-				"italian" "library_header_italian.jpg"
-				"german" "library_header_german.jpg"
-				"french" "library_header_french.jpg"
-				"danish" "library_header_danish.jpg"
-				"czech" "library_header_czech.jpg"
+				"english" "1abb324a0470c0c3159207db983b5e5cc333bf35/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1abb324a0470c0c3159207db983b5e5cc333bf35/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1717687446"
+	"store_asset_mtime" "1730193945"
 	"associations"
 	{
 		"0"
@@ -154,6 +131,11 @@
 			"name" "Frozen Way"
 		}
 		"2"
+		{
+			"type" "publisher"
+			"name" "Frozen District"
+		}
+		"3"
 		{
 			"type" "franchise"
 			"name" "Frozen Way"
@@ -289,14 +271,14 @@
 		"19" "1742"
 	}
 	"review_score" "5"
-	"review_percentage" "48"
+	"review_percentage" "49"
 }
 "extended"
 {
 	"developer" "GameFormatic S.A."
 	"publisher" "Frozen Way"
 	"homepage" "https://frozenway.games/"
-	"listofdlc" "2782930"
+	"listofdlc" "2782930,3251570"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -327,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "6093141390901250890"
-				"size" "24727863247"
-				"download" "12961646624"
+				"gid" "1432809001907541172"
+				"size" "25951046838"
+				"download" "13749264688"
 			}
 		}
 		"encryptedmanifests"
@@ -351,6 +333,12 @@
 				"gid" "88D30FB95869C92A6FF2E91B2A4F2144"
 				"size" "8AC03EBD2520186FD5E72906631FAD82"
 				"download" "C2DE360859A810838B59814714F9E11D"
+			}
+			"longhairs"
+			{
+				"gid" "0D95A969C613585410D094A1386E9FFB"
+				"size" "A17BB0F4D0F569A86E282AEA4C9496E0"
+				"download" "60F9B8D82EAA3A78B1E2656D27F6EADF"
 			}
 			"macosx"
 			{
@@ -379,9 +367,9 @@
 		{
 			"macosx"
 			{
-				"gid" "829B1BD15F313C6B0288E69DC11CA7E8"
-				"size" "C7D0B0EE093F77266A8F3A4C2FB1A726"
-				"download" "AAE9AD53DB92FFD1B09804485505798D"
+				"gid" "72507ADB1E8F26E125A5E02E2ABF9A9E"
+				"size" "1BBBD7EF09C62CC72A3A3FCA2B07DA95"
+				"download" "F9D1F5E31919C9E1A3C33EB0ADAFBF12"
 			}
 		}
 	}
@@ -389,8 +377,8 @@
 	{
 		"public"
 		{
-			"buildid" "15602432"
-			"timeupdated" "1726158671"
+			"buildid" "16580369"
+			"timeupdated" "1733420008"
 		}
 		"beta"
 		{
@@ -410,11 +398,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1717604731"
 		}
+		"longhairs"
+		{
+			"buildid" "16580369"
+			"pwdrequired" "1"
+			"timeupdated" "1732891939"
+		}
 		"macosx"
 		{
-			"buildid" "15638647"
+			"buildid" "15887548"
 			"pwdrequired" "1"
-			"timeupdated" "1725887309"
+			"timeupdated" "1727779945"
 		}
 		"steamdeck"
 		{
@@ -429,3 +423,7 @@
 	"quota" "10000000000"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26512495"
+"_sha" "528048b43b3ba8cc6633640b6748c52d86850d8e"
+"_size" "7692"
