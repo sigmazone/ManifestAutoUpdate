@@ -3,7 +3,7 @@
 {
 	"name" "Rooftops & Alleys: The Parkour Game"
 	"type" "Game"
-	"icon" "75f91375b4881a8f3c68fb7b07ac9ed0617f4e20"
+	"icon" "e9b4866389cd4c8a5488fe8caa754afceab147df"
 	"clienticon" "bbd2b13ca7d50defed017b463650adeb24c65f89"
 	"clienttga" "1b746405283209cfe6754891bc7bd0a43a49b19c"
 	"oslist" "windows"
@@ -58,7 +58,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "850e883b7335733aa9ed690dd3cebcbc4c9e222f/capsule_231x87.jpg"
+		"english" "f1b4c46a8c47a253ce12ced817e91801736e382c/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -68,13 +68,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "28.99485995765565"
-			"height_pct" "53.01395661136833"
+			"width_pct" "33.96404308300629"
+			"height_pct" "59.42627808156468"
 		}
 	}
 	"library_assets_full"
@@ -83,22 +84,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "3687587600004cc051108a42bc8b75be3a58a8b3/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "3687587600004cc051108a42bc8b75be3a58a8b3/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "66c8b9369271923e8463fb9d7bc2ddaae823fdd9/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "66c8b9369271923e8463fb9d7bc2ddaae823fdd9/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "66c8b9369271923e8463fb9d7bc2ddaae823fdd9/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -106,8 +114,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "28.99485995765565"
-				"height_pct" "53.01395661136833"
+				"width_pct" "33.96404308300629"
+				"height_pct" "59.42627808156468"
 			}
 			"image"
 			{
@@ -122,15 +130,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "55df2a1cf332fdda63f568a3187154863ff15f67/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_header_2x.jpg"
+				"english" "55df2a1cf332fdda63f568a3187154863ff15f67/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1725980183"
+	"store_asset_mtime" "1733094041"
 	"associations"
 	{
 		"0"
@@ -193,13 +201,13 @@
 		"13" "3968"
 		"14" "7481"
 		"15" "493"
-		"16" "492"
-		"17" "3859"
+		"16" "3859"
+		"17" "492"
 		"18" "19"
 		"19" "150626"
 	}
 	"review_score" "9"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -253,18 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "7934270011187828954"
-				"size" "1010087125"
-				"download" "853085360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "1F7899905CC07A4C5F1D9A6B86822E18"
-				"size" "BD7811A5DC1FA14EA3DE137A501C6DBA"
-				"download" "E2CB5CB47C46BDA0902C51BE0745E1B5"
+				"gid" "4371024500116735720"
+				"size" "1011531790"
+				"download" "854598816"
 			}
 		}
 	}
@@ -272,16 +271,11 @@
 	{
 		"public"
 		{
-			"buildid" "16491944"
-			"timeupdated" "1732222577"
-		}
-		"testing"
-		{
-			"buildid" "16491944"
-			"pwdrequired" "1"
-			"timeupdated" "1732222549"
+			"buildid" "16658426"
+			"timeupdated" "1733508236"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -309,6 +303,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26305766"
-"_sha" "32f35e2360b21c3d8ee45785584ada350ea5821b"
-"_size" "5325"
+"_change_number" "26530651"
+"_sha" "7935a67b549d159000b60bec11d355930ec45061"
+"_size" "5452"
