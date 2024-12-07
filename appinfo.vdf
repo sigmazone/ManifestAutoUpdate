@@ -159,12 +159,12 @@
 		"6" "5613"
 		"7" "21"
 		"8" "4182"
-		"9" "7368"
-		"10" "12095"
-		"11" "9551"
+		"9" "9551"
+		"10" "7368"
+		"11" "12095"
 	}
 	"review_score" "5"
-	"review_percentage" "51"
+	"review_percentage" "50"
 }
 "extended"
 {
@@ -203,24 +203,30 @@
 		{
 			"public"
 			{
-				"gid" "2731193142068960329"
-				"size" "18448961943"
-				"download" "7226339488"
+				"gid" "9873989535389082"
+				"size" "19393870039"
+				"download" "7592836848"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha01"
 			{
-				"gid" "505F52D90EB7E27098E036329B7DD2D9"
-				"size" "17F88C3C0B359CBD4F8FCC936422D166"
-				"download" "0E62F2A348E2A8BB14E7E779CB9002C0"
+				"gid" "E33B8A4E7A27FEB46EB2C28CCB5567B0"
+				"size" "EED2D55AC53BE5A3432D1CEE56FE45C6"
+				"download" "FB64D24DAB2C3DC069859A40C7C109D2"
 			}
 			"alpha02-dlc-halloween"
 			{
 				"gid" "ADEECD20AADD7B9AA0998DEEB0177566"
 				"size" "E2E3C22A017F16422C0C835B660D24BE"
 				"download" "DD35A3222F0E27637BEF5FE97DA561F7"
+			}
+			"dev_test"
+			{
+				"gid" "9F42DEA75019E56A9B2D509263020558"
+				"size" "1E0BB3C20EBEB522B48F21C842E50796"
+				"download" "845909AC0EFEE38FC611DCB4A5076D3E"
 			}
 		}
 	}
@@ -235,18 +241,18 @@
 		{
 			"public"
 			{
-				"gid" "1412003567554344981"
-				"size" "914277184"
-				"download" "301402336"
+				"gid" "4707045616295780015"
+				"size" "935278048"
+				"download" "311939824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha01"
 			{
-				"gid" "25A7F72946AE1C24893844E2F0FB9B87"
-				"size" "B5F7B5500A5B6906B2ACA863C3E6331D"
-				"download" "BAD4908C6785932F997DB410AA496CD8"
+				"gid" "FCC3116BA4105A19ECF511F91568D28D"
+				"size" "0766D03E399BEAABF0170D0C34B9F49E"
+				"download" "E21A11B9B691EE0407A058E751C5F06C"
 			}
 			"alpha02-dlc-halloween"
 			{
@@ -254,26 +260,38 @@
 				"size" "5522ABE3F6AA93FF73CEEF8B8C0A2853"
 				"download" "46B1A6C0DCC99A553F59247AAA0D0357"
 			}
+			"dev_test"
+			{
+				"gid" "CF2554D6F9B6D8BDE76ABD66A573AC0E"
+				"size" "675728CD1547CE2D1125C320112BC69E"
+				"download" "5C586655B5A0A521212E17C296A05B39"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16415181"
-			"timeupdated" "1731654695"
+			"buildid" "16654091"
+			"timeupdated" "1733484012"
 		}
 		"alpha01"
 		{
-			"buildid" "16415181"
+			"buildid" "16654091"
 			"pwdrequired" "1"
-			"timeupdated" "1731644200"
+			"timeupdated" "1733483842"
 		}
 		"alpha02-dlc-halloween"
 		{
 			"buildid" "16134934"
 			"pwdrequired" "1"
 			"timeupdated" "1729593212"
+		}
+		"dev_test"
+		{
+			"buildid" "16655526"
+			"pwdrequired" "1"
+			"timeupdated" "1733483946"
 		}
 	}
 }
@@ -293,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26207061"
-"_sha" "0ee7d276c0142c276208a92f0fe50f3fb236015c"
-"_size" "5016"
+"_change_number" "26524716"
+"_sha" "15d1621760aa252809d2ae3ba4a827b63a2e5fa2"
+"_size" "5466"
