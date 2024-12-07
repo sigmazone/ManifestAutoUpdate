@@ -7,8 +7,8 @@
 	"logo" "cb1f99e528ea29401cf47a9ffaeed9ed707611f6"
 	"logo_small" "cb1f99e528ea29401cf47a9ffaeed9ed707611f6_thumb"
 	"icon" "d301aa7d579383e6eeedf4a9cd26d703e6e5d5e0"
-	"clienttga" "21ed646fdce682f266caf287dd5a2ef5dde7bf7b"
-	"clienticon" "0ea0e673fabe11056390cffaf70b2f762735b271"
+	"clienttga" "32628130336a1e18c4b0a4f40b80071b02fdf5c3"
+	"clienticon" "3c11892d7318a84959ff405c76a54fbd0898da67"
 	"linuxclienticon" "e1d6706296852f6a435dac86afe2492d1ede0eff"
 	"releasestate" "released"
 	"clienticns" "371982ca470b0f1fec614d6bdca062a18e8e7c5a"
@@ -69,7 +69,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "33c8dafcca0476f3f8927a2ab09917e93665f0e3/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -80,6 +80,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -93,11 +94,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "08b49eb96720867bf18bf1feff1fa57cad93da97/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "08b49eb96720867bf18bf1feff1fa57cad93da97/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -128,8 +129,19 @@
 				"english" "logo_2x.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "01f2af293d788089e23359918c81baf5057d83a1/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "01f2af293d788089e23359918c81baf5057d83a1/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1717701289"
+	"store_asset_mtime" "1733429278"
 	"associations"
 	{
 		"0"
@@ -150,7 +162,6 @@
 		"1" "23"
 		"2" "3"
 		"3" "2"
-		"4" "70"
 	}
 	"category"
 	{
@@ -176,7 +187,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1436966718"
+	"steam_release_date" "1733417754"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -192,14 +203,14 @@
 		"6" "4711"
 		"7" "454187"
 		"8" "1742"
-		"9" "122"
-		"10" "1716"
+		"9" "1716"
+		"10" "122"
 		"11" "1662"
 		"12" "4166"
 		"13" "4747"
-		"14" "4474"
-		"15" "4026"
-		"16" "3964"
+		"14" "3964"
+		"15" "4474"
+		"16" "4026"
 		"17" "1669"
 		"18" "4182"
 		"19" "6426"
@@ -212,6 +223,8 @@
 	"developer" "Freehold Games"
 	"publisher" "Kitfox Games"
 	"homepage" "http://www.cavesofqud.com"
+	"listofdlc" "3252660"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -273,9 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "8912957930835752013"
-				"size" "1101849407"
-				"download" "720000064"
+				"gid" "3699555045762942527"
+				"size" "1263287358"
+				"download" "850392624"
 			}
 			"2.0.199.x"
 			{
@@ -319,12 +332,6 @@
 				"size" "876039762"
 				"download" "559212976"
 			}
-			"2.0.206.16"
-			{
-				"gid" "1815852003055752925"
-				"size" "993298052"
-				"download" "653957136"
-			}
 			"2.0.206.78"
 			{
 				"gid" "5981098538961521055"
@@ -337,30 +344,6 @@
 				"size" "1032142955"
 				"download" "692557408"
 			}
-			"2.0.207.72"
-			{
-				"gid" "2017698157466647170"
-				"size" "1106041900"
-				"download" "718994880"
-			}
-			"207.103"
-			{
-				"gid" "996186787159967985"
-				"size" "1099906019"
-				"download" "719581328"
-			}
-			"207.104"
-			{
-				"gid" "8694132680337905164"
-				"size" "1099906579"
-				"download" "719585264"
-			}
-			"207.107"
-			{
-				"gid" "3596442788251299788"
-				"size" "1099933982"
-				"download" "719583648"
-			}
 			"207.x"
 			{
 				"gid" "2161701815752363537"
@@ -372,18 +355,6 @@
 				"gid" "4093648339539194700"
 				"size" "1101820666"
 				"download" "719992864"
-			}
-			"208.19"
-			{
-				"gid" "2155465546355787782"
-				"size" "1101821222"
-				"download" "719993520"
-			}
-			"208.20"
-			{
-				"gid" "6763751221335665312"
-				"size" "1101821481"
-				"download" "719997840"
 			}
 			"208.21"
 			{
@@ -399,30 +370,36 @@
 			}
 			"beta"
 			{
-				"gid" "8912957930835752013"
-				"size" "1101849407"
-				"download" "720000064"
+				"gid" "3699555045762942527"
+				"size" "1263287358"
+				"download" "850392624"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"release-candidate"
+			{
+				"gid" "BB7289EBAA672A09ACF30789B7418431"
+				"size" "5065BE52E88A4C8B4722CA87AAD11836"
+				"download" "7F8BC603A13A3303594EBABE8D546358"
+			}
 			"endgame-testing"
 			{
-				"gid" "EB8330F8A0DBEB431E33833ACF48A85F"
-				"size" "01E8BEDF09351F45088DDA2EE7F8FA47"
-				"download" "99FF86424C2F84C3640695D626A73A72"
+				"gid" "F586DE37F9D7A0173A728FEAD0690B48"
+				"size" "2DDDB1847B84434FFB2ABF9CED476432"
+				"download" "A763ADFF20F4A3221F5EE1E348A2A3C5"
+			}
+			"endgame-debug"
+			{
+				"gid" "FC23231D47CDBCF8636CCEF4BC314A3D"
+				"size" "126CDB5825AF3CC9A49711D3C71482B7"
+				"download" "789CCB7593304181CAFB587066FE1745"
 			}
 			"igf2024"
 			{
 				"gid" "BC6838103E6E0EE14B8E7D1213176380"
 				"size" "21FC1AC0705E4D7C83C04D4FC6368EF8"
 				"download" "E38B6D9B09ECF2738E18600D42C4ED73"
-			}
-			"internal"
-			{
-				"gid" "4C389123BDE01672EB3EB5223F23773C"
-				"size" "FC2339EE8EEB254D0D2155EEC6810242"
-				"download" "9E3A36184E1F1772C19BC3AAD01D5788"
 			}
 		}
 	}
@@ -436,9 +413,9 @@
 		{
 			"public"
 			{
-				"gid" "3178455865806404355"
-				"size" "1073419774"
-				"download" "716338784"
+				"gid" "3704218012046624682"
+				"size" "1234477404"
+				"download" "846396736"
 			}
 			"2.0.199.x"
 			{
@@ -482,12 +459,6 @@
 				"size" "886070372"
 				"download" "563342512"
 			}
-			"2.0.206.16"
-			{
-				"gid" "1228761558482987657"
-				"size" "992304632"
-				"download" "655194480"
-			}
 			"2.0.206.78"
 			{
 				"gid" "8362737539985715821"
@@ -500,30 +471,6 @@
 				"size" "1031149543"
 				"download" "693791200"
 			}
-			"2.0.207.72"
-			{
-				"gid" "479547842645927079"
-				"size" "1077616644"
-				"download" "715342704"
-			}
-			"207.103"
-			{
-				"gid" "4940539913262937231"
-				"size" "1071473928"
-				"download" "715909248"
-			}
-			"207.104"
-			{
-				"gid" "1215949969939599958"
-				"size" "1071474488"
-				"download" "715911616"
-			}
-			"207.107"
-			{
-				"gid" "7649419039080103302"
-				"size" "1071501867"
-				"download" "715907392"
-			}
 			"207.x"
 			{
 				"gid" "3864438822598881462"
@@ -535,18 +482,6 @@
 				"gid" "4815172662914891700"
 				"size" "1073391033"
 				"download" "716329152"
-			}
-			"208.19"
-			{
-				"gid" "4605822958467719835"
-				"size" "1073391589"
-				"download" "716331936"
-			}
-			"208.20"
-			{
-				"gid" "140702798655921740"
-				"size" "1073391848"
-				"download" "716330832"
 			}
 			"208.21"
 			{
@@ -562,30 +497,36 @@
 			}
 			"beta"
 			{
-				"gid" "3178455865806404355"
-				"size" "1073419774"
-				"download" "716338784"
+				"gid" "3704218012046624682"
+				"size" "1234477404"
+				"download" "846396736"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"release-candidate"
+			{
+				"gid" "64ECBA2C4C9C2DD5EF7D1F51E9F18A9D"
+				"size" "BFEBEC3391D57A9469207A880C25F63D"
+				"download" "C310B1EC1954068D4F81BB498E47F69C"
+			}
 			"endgame-testing"
 			{
-				"gid" "306C8B5AA40AD4D3CC52C4C6FBAF8568"
-				"size" "D9C056D1D599CC28EBB1529CC55E757F"
-				"download" "08EF0F2FF969C2113A35A8BEA8DD1DA6"
+				"gid" "34F1B228ADB6A7AB8015307EBDCBE795"
+				"size" "1F744C24D5844EE23C416E5710F716EE"
+				"download" "DCB0A52107AED8FF66EBF1B57C06E6D6"
+			}
+			"endgame-debug"
+			{
+				"gid" "2AF107D18DCA4DB8F76A933442A3FBD3"
+				"size" "6CA3B3FCB003AD9D0B33569A3E70B290"
+				"download" "7F9113A78D5D5D18866381EE3D965DCC"
 			}
 			"igf2024"
 			{
 				"gid" "BAEB182641600C839BD5DB0A09AF166A"
 				"size" "3147BEF8A6F9DB71896826BA2D8F20A9"
 				"download" "A5A68CBD4ADE4C4FA7F7FC9E561EE1F9"
-			}
-			"internal"
-			{
-				"gid" "188B30AD2C143AA14ED0911BCB481A67"
-				"size" "19BE7E191459AC53DB720F994C84313E"
-				"download" "C7E171617ED0D2DFB22D3DD582863AD4"
 			}
 		}
 	}
@@ -599,9 +540,9 @@
 		{
 			"public"
 			{
-				"gid" "7926475179261707804"
-				"size" "1087949965"
-				"download" "708628416"
+				"gid" "7772858849674943286"
+				"size" "1249383981"
+				"download" "839062448"
 			}
 			"2.0.199.x"
 			{
@@ -645,12 +586,6 @@
 				"size" "860174566"
 				"download" "554308064"
 			}
-			"2.0.206.16"
-			{
-				"gid" "36921130338653471"
-				"size" "965831426"
-				"download" "646017712"
-			}
 			"2.0.206.78"
 			{
 				"gid" "7280860981450069976"
@@ -663,30 +598,6 @@
 				"size" "1004676329"
 				"download" "684616656"
 			}
-			"2.0.207.72"
-			{
-				"gid" "1254293499748126641"
-				"size" "1092115274"
-				"download" "707616096"
-			}
-			"207.103"
-			{
-				"gid" "6831017014905174712"
-				"size" "1086006065"
-				"download" "708209840"
-			}
-			"207.104"
-			{
-				"gid" "3460280329910797285"
-				"size" "1086007137"
-				"download" "708211440"
-			}
-			"207.107"
-			{
-				"gid" "6042270233768343211"
-				"size" "1086034028"
-				"download" "708211600"
-			}
 			"207.x"
 			{
 				"gid" "6321374123857375721"
@@ -698,18 +609,6 @@
 				"gid" "3876298189175425258"
 				"size" "1087920712"
 				"download" "708620544"
-			}
-			"208.19"
-			{
-				"gid" "4019467748850780824"
-				"size" "1087921268"
-				"download" "708622112"
-			}
-			"208.20"
-			{
-				"gid" "3825713726475236797"
-				"size" "1087922039"
-				"download" "708625360"
 			}
 			"208.21"
 			{
@@ -725,30 +624,36 @@
 			}
 			"beta"
 			{
-				"gid" "7926475179261707804"
-				"size" "1087949965"
-				"download" "708628416"
+				"gid" "7772858849674943286"
+				"size" "1249383981"
+				"download" "839062448"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"release-candidate"
+			{
+				"gid" "28641D3D2A89B4141F98668C69DB8407"
+				"size" "5DC2E1917EE04568AF2889C19C7E9665"
+				"download" "4270A656B833CAF4785DB82851944B70"
+			}
 			"endgame-testing"
 			{
-				"gid" "C796B3DF519A9559CAD7CE8A0E5D60D3"
-				"size" "2120D4E92808A1D3E7C11120D05B22DD"
-				"download" "45D9503DB95C6B505C82FCB671AC1B87"
+				"gid" "31638979E4DD927B517A5E4B227B9AED"
+				"size" "08463ACD8E67E7DC78D9BEE51C60F1FB"
+				"download" "76F822EE710AB98F0DA0EDDE778FE83D"
+			}
+			"endgame-debug"
+			{
+				"gid" "5DC0E1EF10E6C10A1DEF44919C47F264"
+				"size" "2BF13F5DF468216529B851DCE675DF94"
+				"download" "40B1E00BC978AED507BE1B7BB884513D"
 			}
 			"igf2024"
 			{
 				"gid" "33E0C4EAB276225F1CCD623CBFDEB7A2"
 				"size" "23C2455AA61969183E874849B8503C32"
 				"download" "148791956E2D64E3D723BE16934764ED"
-			}
-			"internal"
-			{
-				"gid" "7F602C53AE181E5E17D00A45FE5D0EEF"
-				"size" "7A7281578741DAC49B6D6E32432108F5"
-				"download" "68C55453AF1F8355E7F6FC5C807DC6BB"
 			}
 		}
 	}
@@ -757,20 +662,38 @@
 		"dlcappid" "3252660"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "8893803301824573414"
+				"size" "87741"
+				"download" "51440"
+			}
+			"beta"
+			{
+				"gid" "8893803301824573414"
+				"size" "87741"
+				"download" "51440"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"release-candidate"
+			{
+				"gid" "7D626EDBE991E39D105324FD74D42C4B"
+				"size" "E91881FC74C71FA91C46D0F668A8D241"
+				"download" "F4A071BC4CECE7C429A8FBA353C80CDD"
+			}
 			"endgame-testing"
 			{
-				"gid" "BC56C8AA2BFE7BA925749FE2EFD47DF5"
-				"size" "EEDD688E42A99CBBB791EDB8E655A78B"
-				"download" "A189E24912D5E5DA00CE16497DD9D83F"
+				"gid" "CD6B1FFAEB5D5939D576329D3AED08DA"
+				"size" "4148C418BD27B6E7FFE5DFB4BDE03818"
+				"download" "F5364D37B1145F55C35C040359A72100"
 			}
-			"internal"
+			"endgame-debug"
 			{
-				"gid" "4FFD3F886F8625C8896E1CEC3D6D5F53"
-				"size" "3826BD08C563C62012CDB3FFEED20FF9"
-				"download" "1B43CA12DBACF157C96B3E4D64C2EE1F"
+				"gid" "5DD37EF10580FC93A49DCDC55083A4E9"
+				"size" "A9A819312B4745D4CD2AF1169729CCF1"
+				"download" "0BC09B0FD457B14EE3DC15E8F4D8560A"
 			}
 		}
 	}
@@ -778,14 +701,20 @@
 	{
 		"public"
 		{
-			"buildid" "16385910"
-			"timeupdated" "1731460794"
+			"buildid" "16664595"
+			"timeupdated" "1733544237"
 		}
 		"2.0.199.x"
 		{
 			"buildid" "5098304"
 			"description" "199.x"
 			"timeupdated" "1590807200"
+		}
+		"release-candidate"
+		{
+			"buildid" "16664595"
+			"pwdrequired" "1"
+			"timeupdated" "1733544206"
 		}
 		"200.x"
 		{
@@ -823,12 +752,6 @@
 			"description" "205.x"
 			"timeupdated" "1729119424"
 		}
-		"2.0.206.16"
-		{
-			"buildid" "12579486"
-			"description" "206.16"
-			"timeupdated" "1699083270"
-		}
 		"2.0.206.78"
 		{
 			"buildid" "14462303"
@@ -841,30 +764,6 @@
 			"description" "206.x"
 			"timeupdated" "1717389197"
 		}
-		"2.0.207.72"
-		{
-			"buildid" "14801436"
-			"description" "207.72"
-			"timeupdated" "1719612468"
-		}
-		"207.103"
-		{
-			"buildid" "15802404"
-			"description" "207.103"
-			"timeupdated" "1727653654"
-		}
-		"207.104"
-		{
-			"buildid" "15869614"
-			"description" "207.104"
-			"timeupdated" "1729020141"
-		}
-		"207.107"
-		{
-			"buildid" "16129088"
-			"description" "207.107"
-			"timeupdated" "1729700941"
-		}
 		"207.x"
 		{
 			"buildid" "16153878"
@@ -876,18 +775,6 @@
 			"buildid" "16225580"
 			"description" "208.18"
 			"timeupdated" "1730598065"
-		}
-		"208.19"
-		{
-			"buildid" "16277363"
-			"description" "208.19"
-			"timeupdated" "1731004232"
-		}
-		"208.20"
-		{
-			"buildid" "16331720"
-			"description" "208.20"
-			"timeupdated" "1731364705"
 		}
 		"208.21"
 		{
@@ -903,27 +790,27 @@
 		}
 		"beta"
 		{
-			"buildid" "16385910"
+			"buildid" "16664595"
 			"description" "beta"
-			"timeupdated" "1731460766"
+			"timeupdated" "1733544213"
 		}
 		"endgame-testing"
 		{
-			"buildid" "16388464"
+			"buildid" "16608421"
 			"pwdrequired" "1"
-			"timeupdated" "1731481483"
+			"timeupdated" "1733523899"
+		}
+		"endgame-debug"
+		{
+			"buildid" "16608453"
+			"pwdrequired" "1"
+			"timeupdated" "1733190182"
 		}
 		"igf2024"
 		{
 			"buildid" "16115772"
 			"pwdrequired" "1"
 			"timeupdated" "1729463878"
-		}
-		"internal"
-		{
-			"buildid" "16056116"
-			"pwdrequired" "1"
-			"timeupdated" "1729020152"
 		}
 	}
 }
@@ -976,6 +863,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26170197"
-"_sha" "b50488a3ef687f78d5d8adb16319201fbb0b1516"
-"_size" "18292"
+"_change_number" "26536385"
+"_sha" "d5be69b137588dd37643e6e638f941a7b7484664"
+"_size" "16611"
