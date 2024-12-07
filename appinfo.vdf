@@ -91,6 +91,7 @@
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -98,7 +99,66 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1704249905"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1b291d48a900cb7f50ac96ac7c30f11fb3195c7f/library_header.jpg"
+				"schinese" "939abdfef930dbd1a319d68b422ee40c2010b448/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1b291d48a900cb7f50ac96ac7c30f11fb3195c7f/library_header_2x.jpg"
+				"schinese" "939abdfef930dbd1a319d68b422ee40c2010b448/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733508133"
 	"associations"
 	{
 		"0"
@@ -133,6 +193,9 @@
 		"category_56" "1"
 		"category_58" "1"
 		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -199,29 +262,29 @@
 	"gameid" "1210320"
 	"store_tags"
 	{
-		"0" "4182"
-		"1" "1702"
-		"2" "599"
-		"3" "1654"
+		"0" "1702"
+		"1" "4182"
+		"2" "1654"
+		"3" "599"
 		"4" "4172"
 		"5" "12472"
 		"6" "492"
-		"7" "122"
-		"8" "3871"
+		"7" "3871"
+		"8" "122"
 		"9" "10235"
 		"10" "3810"
 		"11" "6815"
 		"12" "597"
-		"13" "87918"
-		"14" "8945"
+		"13" "8945"
+		"14" "87918"
 		"15" "6426"
-		"16" "1698"
-		"17" "3987"
-		"18" "4202"
-		"19" "8369"
+		"16" "4202"
+		"17" "1698"
+		"18" "3987"
+		"19" "4845"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -253,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "1610030769643194993"
-				"size" "1692538316"
-				"download" "894005632"
+				"gid" "5622286217395840893"
+				"size" "2189962726"
+				"download" "1177973536"
 			}
 			"0.4.7"
 			{
@@ -275,20 +338,20 @@
 				"size" "1205708477"
 				"download" "728678128"
 			}
+			"1.1.0"
+			{
+				"gid" "1610030769643194993"
+				"size" "1692538316"
+				"download" "894005632"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"preview_1.1.0"
-			{
-				"gid" "0E5E96AB6010F85A28BAF43C219AF5BC"
-				"size" "B3620A527CB13BA75CC4280CDD99240C"
-				"download" "EF9A7913EC0FBDA7B7FD11F87E3AB05F"
-			}
 			"test"
 			{
-				"gid" "EDE1D9DFB5F1F0E43235224ACE4AFF30"
-				"size" "E75A4B65756C709DDE032E8F2372B83C"
-				"download" "2FFA8D85B79C6A84CF32E185E9B7CFA3"
+				"gid" "E05B5573D846CEFB30C3FD68BFD7C40D"
+				"size" "464F82347ACA9D7C4436BA2471BE5C5F"
+				"download" "39AF1C5C4997253BADB8C9FE35F656E5"
 			}
 		}
 	}
@@ -296,8 +359,8 @@
 	{
 		"public"
 		{
-			"buildid" "12813362"
-			"timeupdated" "1702398700"
+			"buildid" "16659612"
+			"timeupdated" "1733507158"
 		}
 		"0.4.7"
 		{
@@ -317,17 +380,17 @@
 			"description" "Full Release, Stable (1.0.5)"
 			"timeupdated" "1702410384"
 		}
-		"preview_1.1.0"
+		"1.1.0"
 		{
 			"buildid" "12813362"
-			"pwdrequired" "1"
-			"timeupdated" "1701142438"
+			"description" "Full Release, Stable (1.1.0)"
+			"timeupdated" "1729119505"
 		}
 		"test"
 		{
-			"buildid" "12813362"
+			"buildid" "16659612"
 			"pwdrequired" "1"
-			"timeupdated" "1701143218"
+			"timeupdated" "1733505062"
 		}
 	}
 }
@@ -347,6 +410,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21740116"
-"_sha" "a45b714dabd431150f5f3d9e115d739a6ac338a3"
-"_size" "6195"
+"_change_number" "26530653"
+"_sha" "32fb04914e38481f6ada9b23e69b45b7d4281833"
+"_size" "7439"
