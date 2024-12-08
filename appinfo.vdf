@@ -22,6 +22,55 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1733529600"
+		"tested_build_id" "16589342"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -186,7 +235,7 @@
 		"19" "6650"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "98"
 }
 "extended"
 {
@@ -222,9 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "5716670630814795518"
-				"size" "339088309"
-				"download" "140115552"
+				"gid" "9099519671547797512"
+				"size" "340281781"
+				"download" "140188512"
 			}
 		}
 	}
@@ -235,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "3850156331806511617"
-				"size" "555138091"
-				"download" "238195328"
+				"gid" "7358514709256938387"
+				"size" "579086986"
+				"download" "258973312"
 			}
 		}
 	}
@@ -246,8 +295,8 @@
 	{
 		"public"
 		{
-			"buildid" "16589342"
-			"timeupdated" "1732995508"
+			"buildid" "16661155"
+			"timeupdated" "1733515040"
 		}
 	}
 }
@@ -266,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26437095"
-"_sha" "169cafd76ab7b771cc93c7fee2ee8c01337d7353"
-"_size" "4375"
+"_change_number" "26546062"
+"_sha" "2127d5efe4f165ef99375b374a063cdde2004443"
+"_size" "5586"
