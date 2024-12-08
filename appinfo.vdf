@@ -1,0 +1,244 @@
+"appid" "1698830"
+"common"
+{
+	"name" "Volcanoids Mod SDK"
+	"type" "Tool"
+	"parent" "951440"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "a0d4e4008bbe71d103eabd01794f4e12ea458e60"
+	"logo_small" "a0d4e4008bbe71d103eabd01794f4e12ea458e60_thumb"
+	"icon" "db096a797cf81990eeacd0a783e0e44e73e1af8b"
+	"clienticon" "268747b9f8a9b6f29b2646ac02855775fe5f0d75"
+	"clienttga" "e2b181eb20c3e62b005696b05513d5b4a8128bc6"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.31137709893019"
+			"height_pct" "54.51356222756689"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.31137709893019"
+				"height_pct" "54.51356222756689"
+			}
+		}
+	}
+	"store_asset_mtime" "1646993371"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_62" "1"
+	}
+	"steam_release_date" "1633438800"
+	"gameid" "1698830"
+}
+"config"
+{
+	"installdir" "VolcanoidsModSDK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Extra\\Launch.cmd"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1698831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2460364408487152211"
+				"size" "14630917792"
+				"download" "10471466976"
+			}
+			"preview"
+			{
+				"gid" "6755563377015579552"
+				"size" "12112986807"
+				"download" "8389875120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedtest"
+			{
+				"gid" "A61BE7B97273600E7E0C6ED774822F24"
+				"size" "523F7CAAC8E17EEBFBD75A2253A1A10A"
+				"download" "5C0889ED93D8DF655232A3C8984E4D27"
+			}
+			"development"
+			{
+				"gid" "60279D22EE09DF6C466059663EFE4A2B"
+				"size" "DF8469A124DDC2DE77A15DE9998B659F"
+				"download" "7C690CABA8EF4023848D9C47124D1354"
+			}
+			"debug"
+			{
+				"gid" "112EAA4888C8A4A2A932569024AA015E"
+				"size" "A8353C15BF563E73ABC99E640C7C2B06"
+				"download" "059613590984C28BF29A8A6FCA8999E4"
+			}
+			"internal"
+			{
+				"gid" "A424E92C941EB2CD1D9A031964A0FB6F"
+				"size" "27EC17AB07FAFE967F3D4D629356A3BA"
+				"download" "58E08588E6BC7025ADF4BB02FBCB1DEA"
+			}
+			"temp"
+			{
+				"gid" "A5AFD81DB09E6153CC8361F8B24E981F"
+				"size" "E9A22BECFC3E15D123DA67A1B979B323"
+				"download" "9E94340D8BAC25DA072D291F588EBB8E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16668253"
+			"timeupdated" "1733594940"
+		}
+		"closedtest"
+		{
+			"buildid" "10901340"
+			"pwdrequired" "1"
+			"timeupdated" "1680259925"
+		}
+		"development"
+		{
+			"buildid" "10901340"
+			"pwdrequired" "1"
+			"timeupdated" "1680259932"
+		}
+		"preview"
+		{
+			"buildid" "10901340"
+			"description" "Preview (public)\t"
+			"timeupdated" "1680259939"
+		}
+		"debug"
+		{
+			"buildid" "15847818"
+			"pwdrequired" "1"
+			"timeupdated" "1727426496"
+		}
+		"internal"
+		{
+			"buildid" "15849595"
+			"pwdrequired" "1"
+			"timeupdated" "1727435565"
+		}
+		"temp"
+		{
+			"buildid" "16668253"
+			"pwdrequired" "1"
+			"timeupdated" "1733594907"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "5000"
+	"appidredirect" "951440"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Volcanoid/Volcanoids/Saves"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Volcanoid/Volcanoids/Saves"
+			"pattern" "*.png"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Volcanoid/Volcanoids"
+			"pattern" "*.png"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Volcanoid/Volcanoids"
+			"pattern" "options.json"
+		}
+		"copied_from_parent" "1"
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26541348"
+"_sha" "9e7aaf6b29343a77a5ea7a4615fd524a97f57dc8"
+"_size" "4454"
