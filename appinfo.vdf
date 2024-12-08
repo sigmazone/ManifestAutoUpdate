@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728667810"
+	"store_asset_mtime" "1732153807"
 	"associations"
 	{
 		"0"
@@ -230,7 +230,7 @@
 	"developer" "Mighty Coconut"
 	"publisher" "Mighty Coconut"
 	"homepage" "https://mightycoconut.com/minigolf/"
-	"listofdlc" "1791210,1847170,1906500,2016530,2086230,2158180,2208010,2287580,2338250,2380460,2434550,2484900,2528590,2598430,2652320,2726330,2790080,2876630,3041950,3074270,3078240,3129060,3220870"
+	"listofdlc" "1791210,1847170,1906500,2016530,2086230,2158180,2208010,2287580,2338250,2380460,2434550,2484900,2528590,2598430,2652320,2726330,2790080,2876630,3041950,3074270,3078240,3129060,3220870,3300630,3338130"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -261,18 +261,30 @@
 		{
 			"public"
 			{
-				"gid" "2167437844198749458"
-				"size" "16608595723"
-				"download" "5847134848"
+				"gid" "4866168452799926450"
+				"size" "17558036335"
+				"download" "6152290864"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"develop"
 			{
-				"gid" "0E4EAEAA86E625D45E42A65B458F44EC"
-				"size" "799FDDE6439387D92E768AF7DC920734"
-				"download" "EE80008F2B25769485FC3D1F1329417E"
+				"gid" "8C6DB5D4A409DB90782D4604FC1EAEF7"
+				"size" "8A1CA8BE9D0A34471915B03E51107AC2"
+				"download" "B134A061468D41648900BF0C7DA2BE1D"
+			}
+			"develop-beta"
+			{
+				"gid" "393B583000F794D538119EAFCB9F3ED8"
+				"size" "74F7319EBAB07091C8B9C0A88735D63C"
+				"download" "DB3BC1121AEDFD7E7139000BF1074D3F"
+			}
+			"develop-rc"
+			{
+				"gid" "985CC41D09B16358DA2EBF186DB26017"
+				"size" "B6AF31C90FEEDB75833134600E36A6A6"
+				"download" "100BB07C22BC812DD47212A088A88B5D"
 			}
 			"farbridge"
 			{
@@ -294,15 +306,15 @@
 			}
 			"press-review"
 			{
-				"gid" "43998A67979A4C2FAAF4A06133735580"
-				"size" "02EFBD0E3D4D21E8834E9D5602F351FD"
-				"download" "245A72E6A22D7FB6401CAE806F00B32C"
+				"gid" "1C1A3716C36B252975A3BF020422878C"
+				"size" "4A7EBCC6386E5A655AA533D368A4529E"
+				"download" "0DC14DB0282BB5BDEF5DEC43DF6E4AE2"
 			}
 			"private-beta"
 			{
-				"gid" "6B8F5D61A8B54F431A6889D9BBD70FEB"
-				"size" "0F37838CBEBC3E7EC9478ACB8D7983EE"
-				"download" "27CBF831F748BBC44A71114E33ABB250"
+				"gid" "29DB8A87F071F78542B907D4DC92B6BE"
+				"size" "7CB8E7836BFF38AF422CBA135406D2AE"
+				"download" "EFADFB5F51BE50CA6A9D9E11138815BB"
 			}
 			"qa-testing"
 			{
@@ -316,14 +328,26 @@
 	{
 		"public"
 		{
-			"buildid" "16073678"
-			"timeupdated" "1729785067"
+			"buildid" "16489430"
+			"timeupdated" "1733417544"
 		}
 		"develop"
 		{
-			"buildid" "16126516"
+			"buildid" "16658914"
 			"pwdrequired" "1"
-			"timeupdated" "1729537334"
+			"timeupdated" "1733501084"
+		}
+		"develop-beta"
+		{
+			"buildid" "16448368"
+			"pwdrequired" "1"
+			"timeupdated" "1731961046"
+		}
+		"develop-rc"
+		{
+			"buildid" "16448368"
+			"pwdrequired" "1"
+			"timeupdated" "1731961006"
 		}
 		"farbridge"
 		{
@@ -345,15 +369,15 @@
 		}
 		"press-review"
 		{
-			"buildid" "16073678"
+			"buildid" "16489430"
 			"pwdrequired" "1"
-			"timeupdated" "1729785082"
+			"timeupdated" "1732580798"
 		}
 		"private-beta"
 		{
-			"buildid" "16126516"
+			"buildid" "16658914"
 			"pwdrequired" "1"
-			"timeupdated" "1729553004"
+			"timeupdated" "1733530385"
 		}
 		"qa-testing"
 		{
@@ -364,6 +388,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25879783"
-"_sha" "4b483db32a946bd2cc6b189d4b10a6d638f40bc9"
-"_size" "6911"
+"_change_number" "26534702"
+"_sha" "0bd9296a2caf6971f34a31e333bc51bbbb7818ac"
+"_size" "7497"
