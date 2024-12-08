@@ -1,0 +1,393 @@
+"appid" "1408230"
+"common"
+{
+	"name" "Walkabout Mini Golf"
+	"type" "Game"
+	"releasestate" "released"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"seated" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "e27f3581856763642369c5b7db5ad35cb7df196e"
+	"logo_small" "e27f3581856763642369c5b7db5ad35cb7df196e_thumb"
+	"icon" "dbfed26f0728c94d197371b49798699131aa386a"
+	"clienticon" "6130900fa3b20a8c090ffc532581672b5a579bdf"
+	"clienttga" "71b1574eef18ab50e25bb5bdff6cbd46e1f04235"
+	"openvrsupport" "1"
+	"openvr_action_manifest_path" "WalkaboutMiniGolf_Data/StreamingAssets/SteamVR/actions.json"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "45a3f672dc5b331a1cb6b9c7173f76ca55f6cf2e/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "76.51162790697674"
+			"height_pct" "63.298503918309194"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "76.51162790697674"
+				"height_pct" "63.298503918309194"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732153807"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mighty Coconut"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mighty Coconut"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_49" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1626360900"
+	"community_hub_visible" "1"
+	"gameid" "1408230"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "701"
+		"1" "7038"
+		"2" "22955"
+		"3" "1775"
+		"4" "21978"
+		"5" "4191"
+		"6" "3839"
+		"7" "597"
+		"8" "3987"
+		"9" "4305"
+		"10" "4094"
+		"11" "4252"
+		"12" "1684"
+		"13" "1681"
+		"14" "3859"
+		"15" "4166"
+		"16" "4835"
+		"17" "30358"
+		"18" "3968"
+		"19" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Mighty Coconut"
+	"publisher" "Mighty Coconut"
+	"homepage" "https://mightycoconut.com/minigolf/"
+	"listofdlc" "1791210,1847170,1906500,2016530,2086230,2158180,2208010,2287580,2338250,2380460,2434550,2484900,2528590,2598430,2652320,2726330,2790080,2876630,3041950,3074270,3078240,3129060,3220870,3300630,3338130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Walkabout Mini Golf"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WalkaboutMiniGolf.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1408231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4866168452799926450"
+				"size" "17558036335"
+				"download" "6152290864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "8C6DB5D4A409DB90782D4604FC1EAEF7"
+				"size" "8A1CA8BE9D0A34471915B03E51107AC2"
+				"download" "B134A061468D41648900BF0C7DA2BE1D"
+			}
+			"develop-beta"
+			{
+				"gid" "393B583000F794D538119EAFCB9F3ED8"
+				"size" "74F7319EBAB07091C8B9C0A88735D63C"
+				"download" "DB3BC1121AEDFD7E7139000BF1074D3F"
+			}
+			"develop-rc"
+			{
+				"gid" "985CC41D09B16358DA2EBF186DB26017"
+				"size" "B6AF31C90FEEDB75833134600E36A6A6"
+				"download" "100BB07C22BC812DD47212A088A88B5D"
+			}
+			"farbridge"
+			{
+				"gid" "1E4D4C4A3BD6190750093259DBAF97E4"
+				"size" "15002F1C252CAF3ACE6389F2F2C31D07"
+				"download" "677B7414149FE3F3DE382774CBA5EA2C"
+			}
+			"liv-qa"
+			{
+				"gid" "2BAC94D70BFE972F988E621F06D502EB"
+				"size" "9022FA97C98580F7A4E4EED2288F6335"
+				"download" "FE00C7F57D76BEEEF02C98F1CD0ED97A"
+			}
+			"open-beta"
+			{
+				"gid" "1605972AB98B942246BBAA805C133BCC"
+				"size" "CF62E633F77778ABE6CB8BDB64CC2D63"
+				"download" "CA2F73B96D60E3C6555BF7F56FE6FA96"
+			}
+			"press-review"
+			{
+				"gid" "1C1A3716C36B252975A3BF020422878C"
+				"size" "4A7EBCC6386E5A655AA533D368A4529E"
+				"download" "0DC14DB0282BB5BDEF5DEC43DF6E4AE2"
+			}
+			"private-beta"
+			{
+				"gid" "29DB8A87F071F78542B907D4DC92B6BE"
+				"size" "7CB8E7836BFF38AF422CBA135406D2AE"
+				"download" "EFADFB5F51BE50CA6A9D9E11138815BB"
+			}
+			"qa-testing"
+			{
+				"gid" "F4C9E025C9FB3F60A7A8491F6B902FDF"
+				"size" "DE0EAE45A5F7112156AF94A8734B3A6D"
+				"download" "47C6A1F670E894DED513CD8D9498B42F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16489430"
+			"timeupdated" "1733417544"
+		}
+		"develop"
+		{
+			"buildid" "16658914"
+			"pwdrequired" "1"
+			"timeupdated" "1733501084"
+		}
+		"develop-beta"
+		{
+			"buildid" "16448368"
+			"pwdrequired" "1"
+			"timeupdated" "1731961046"
+		}
+		"develop-rc"
+		{
+			"buildid" "16448368"
+			"pwdrequired" "1"
+			"timeupdated" "1731961006"
+		}
+		"farbridge"
+		{
+			"buildid" "16073678"
+			"pwdrequired" "1"
+			"timeupdated" "1729785095"
+		}
+		"liv-qa"
+		{
+			"buildid" "16073678"
+			"pwdrequired" "1"
+			"timeupdated" "1729785106"
+		}
+		"open-beta"
+		{
+			"buildid" "16073678"
+			"pwdrequired" "1"
+			"timeupdated" "1729785119"
+		}
+		"press-review"
+		{
+			"buildid" "16489430"
+			"pwdrequired" "1"
+			"timeupdated" "1732580798"
+		}
+		"private-beta"
+		{
+			"buildid" "16658914"
+			"pwdrequired" "1"
+			"timeupdated" "1733530385"
+		}
+		"qa-testing"
+		{
+			"buildid" "16073678"
+			"pwdrequired" "1"
+			"timeupdated" "1729785129"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26534702"
+"_sha" "0bd9296a2caf6971f34a31e333bc51bbbb7818ac"
+"_size" "7497"
