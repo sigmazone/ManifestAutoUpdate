@@ -29,25 +29,25 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1726876800"
-		"tested_build_id" "15493193"
+		"category" "3"
+		"test_timestamp" "1731110400"
+		"tested_build_id" "16287076"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -62,10 +62,10 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -305,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "7647828273546700099"
-				"size" "2393384786"
-				"download" "1809259984"
+				"gid" "3088512377360994290"
+				"size" "2389688632"
+				"download" "1807895824"
 			}
 		}
 		"encryptedmanifests"
@@ -326,9 +326,9 @@
 			}
 			"testing_branch"
 			{
-				"gid" "69190C77D5387F273CE5D06811E17161"
-				"size" "2A887F0B18D63411E824C8A856EA9E4C"
-				"download" "DEC8D834B7473F01A1A94A786D34008C"
+				"gid" "E33B635B76D9E42FF6AA19B8AC128B68"
+				"size" "D8D532EEA3902EC00E4CA1C835D4304E"
+				"download" "9B0CF932490A3214A751DA07E5A0878A"
 			}
 		}
 	}
@@ -336,8 +336,8 @@
 	{
 		"public"
 		{
-			"buildid" "15921166"
-			"timeupdated" "1728904372"
+			"buildid" "16287076"
+			"timeupdated" "1731574043"
 		}
 		"localization"
 		{
@@ -353,9 +353,9 @@
 		}
 		"testing_branch"
 		{
-			"buildid" "15921166"
+			"buildid" "16287076"
 			"pwdrequired" "1"
-			"timeupdated" "1727987192"
+			"timeupdated" "1730722754"
 		}
 	}
 }
@@ -378,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25706259"
-"_sha" "1957d6709551440dcfc80b2ebe5d26632f90ec31"
-"_size" "6732"
+"_change_number" "26542390"
+"_sha" "16f1986a95cb3402aa05b643b4cd136e0fdc7d19"
+"_size" "6728"
