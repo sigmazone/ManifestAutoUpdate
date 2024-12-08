@@ -1,0 +1,354 @@
+"appid" "1766720"
+"common"
+{
+	"name" "Outlanders"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"icon" "f4a0f06ba2d936e4d65e03e7dd92b91e919c023e"
+	"clienticon" "6c2e0d3769ff6c1208e852eec73cc0891ac65277"
+	"clienttga" "16c5f725f192d9b53c18911b8a2a9bdfd32d70d2"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "世外之地"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729728000"
+		"tested_build_id" "16126066"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "c338972189ffbbe329f6a2229eaf08ca4e6bd068/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "67.21572488217386"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "67.21572488217386"
+			}
+		}
+	}
+	"store_asset_mtime" "1732907045"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pomelo Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pomelo Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1678192260"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1766720"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "4328"
+		"2" "1643"
+		"3" "97376"
+		"4" "9"
+		"5" "4191"
+		"6" "4166"
+		"7" "5350"
+		"8" "599"
+		"9" "552282"
+		"10" "1654"
+		"11" "4182"
+		"12" "7481"
+		"13" "4305"
+		"14" "12472"
+		"15" "4252"
+		"16" "8945"
+		"17" "4791"
+		"18" "1719"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Pomelo Games"
+	"publisher" "Pomelo Games"
+	"homepage" "https://www.pomelogames.com/outlanders/"
+	"listofdlc" "2155200,2155201,2399870,2622870,2815220,2962040,3247220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Outlanders"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Outlanders.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1766721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6528133054856332417"
+				"size" "1309478640"
+				"download" "514554880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closed-beta"
+			{
+				"gid" "C7702B0439EA645279F8264B19AB8157"
+				"size" "A35A10CF0D09A35C6CD760F1FB51D136"
+				"download" "C6799AD70FB3B5F7B1A403BFFDAF4BCB"
+			}
+			"development"
+			{
+				"gid" "4F2514C53DD1065558E72492B7BA3AEA"
+				"size" "8CC8A25D555AFF68C3598050C1A7C5B8"
+				"download" "DE55508134419B5E9FC9A7092B1365FC"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,dutch,turkish,arabic,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16661186"
+			"timeupdated" "1733515870"
+		}
+		"closed-beta"
+		{
+			"buildid" "16661186"
+			"pwdrequired" "1"
+			"timeupdated" "1733515288"
+		}
+		"development"
+		{
+			"buildid" "14257011"
+			"pwdrequired" "1"
+			"timeupdated" "1714749254"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26532191"
+"_sha" "98435ed3c4b8eaaf3ee25b24122ce86ea2b0dda4"
+"_size" "6142"
