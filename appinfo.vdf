@@ -70,11 +70,13 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "CenterCenter"
-			"width_pct" "24.410163339382933"
+			"pinned_position" "BottomCenter"
+			"width_pct" "31.329923273657272"
 			"height_pct" "100"
 		}
 	}
@@ -84,39 +86,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "2d00fd6853d1ad7e1ebc0def698191d0f8ad7483/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "2d00fd6853d1ad7e1ebc0def698191d0f8ad7483/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "3307cc7300294a990ed7c08a2a380ff567374850/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "3307cc7300294a990ed7c08a2a380ff567374850/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "3307cc7300294a990ed7c08a2a380ff567374850/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "b74aa0efaa84084359c8805498850e55be608646/logo.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "CenterCenter"
-				"width_pct" "24.410163339382933"
+				"pinned_position" "BottomCenter"
+				"width_pct" "31.329923273657272"
 				"height_pct" "100"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "b74aa0efaa84084359c8805498850e55be608646/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "06203d6e24e7536331c14c60efa485f9babd37bf/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "06203d6e24e7536331c14c60efa485f9babd37bf/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1728544410"
+	"store_asset_mtime" "1733752411"
 	"associations"
 	{
 		"0"
@@ -244,8 +268,8 @@
 		"10" "3810"
 		"11" "3839"
 		"12" "255534"
-		"13" "4182"
-		"14" "3942"
+		"13" "3942"
+		"14" "4182"
 		"15" "8945"
 		"16" "21"
 		"17" "1742"
@@ -253,7 +277,7 @@
 		"19" "1673"
 	}
 	"review_score" "9"
-	"review_percentage" "95"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -288,24 +312,24 @@
 		{
 			"public"
 			{
-				"gid" "2771901023170738335"
-				"size" "8750343483"
-				"download" "4241499040"
+				"gid" "3812427733535965554"
+				"size" "8641871010"
+				"download" "4219801920"
 			}
 			"development"
 			{
-				"gid" "2771901023170738335"
-				"size" "8750343483"
-				"download" "4241499040"
+				"gid" "3812427733535965554"
+				"size" "8641871010"
+				"download" "4219801920"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "169E9013FF8F0BFD7AB0792A76295EC4"
-				"size" "0F4D6F31D38CA393D288EC49454FBE45"
-				"download" "9FCB3A796596360D42727615A541756A"
+				"gid" "92050CDCA776F76B33223145AAFAD0CF"
+				"size" "C5E329D4BA739A94F4079B7F942EFAAA"
+				"download" "32561FA3EE8E2DCFC21DDA6F77F7A783"
 			}
 		}
 	}
@@ -313,20 +337,20 @@
 	{
 		"public"
 		{
-			"buildid" "16204061"
-			"timeupdated" "1730715334"
+			"buildid" "16681088"
+			"timeupdated" "1733756400"
 		}
 		"development"
 		{
-			"buildid" "16204061"
+			"buildid" "16681088"
 			"description" "Dev branch. This is a work in progress branch. May contains bugs & broken features. May affect or corrupt save files.."
-			"timeupdated" "1730109704"
+			"timeupdated" "1733752699"
 		}
 		"internal"
 		{
-			"buildid" "16204061"
+			"buildid" "16681088"
 			"pwdrequired" "1"
-			"timeupdated" "1730108833"
+			"timeupdated" "1733752341"
 		}
 	}
 }
@@ -359,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26035006"
-"_sha" "5c77c4c45bec714e2b533a617e30d974cce3cbae"
-"_size" "6409"
+"_change_number" "26559167"
+"_sha" "2d2886789908f814162f86e3d798e3b0a57d79d1"
+"_size" "7151"
