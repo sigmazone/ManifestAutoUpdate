@@ -1,0 +1,894 @@
+"appid" "1621690"
+"common"
+{
+	"name" "Core Keeper"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "efa098d33b18f540892d499b33ef0cd362596db8"
+	"logo_small" "efa098d33b18f540892d499b33ef0cd362596db8_thumb"
+	"clienticon" "61ad6cf2936a000a8f004cef2d4b790e76407538"
+	"clienttga" "5217f0ec11c85ddc598cc348dac8f0177b924572"
+	"icon" "53517a1b2eb22e22ac4a1f71c814209f1b84c063"
+	"name_localized"
+	{
+		"schinese" "护核纪元"
+	}
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1678406400"
+		"tested_build_id" "10702308"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Core Keeper"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "5b19828e142f23d88e5213280d8e226408dabbbf/capsule_231x87.jpg"
+		"schinese" "93b001bcf5907d121142e0b7c2f9fbc51e6d52e6/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "37.249822676500344"
+			"height_pct" "85.74363704416638"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "1a53cd7f84c7d82b68b36992ea557d5066015e69/library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "1a53cd7f84c7d82b68b36992ea557d5066015e69/library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "37.249822676500344"
+				"height_pct" "85.74363704416638"
+			}
+		}
+		"library_header"
+		{
+			"image2x"
+			{
+				"english" "b91b904116479e46ae1ae0457dcab0e2386a6300/library_header_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "b91b904116479e46ae1ae0457dcab0e2386a6300/library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733756992"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pugstorm"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fireshine Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "bilibili"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Fireshine Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "bilibili"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1724749899"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/core-keeper\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1621690"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "1100689"
+		"2" "3843"
+		"3" "3810"
+		"4" "1662"
+		"5" "21"
+		"6" "1702"
+		"7" "3871"
+		"8" "3834"
+		"9" "1643"
+		"10" "5981"
+		"11" "1720"
+		"12" "5125"
+		"13" "87918"
+		"14" "1654"
+		"15" "3920"
+		"16" "599"
+		"17" "4166"
+		"18" "5716"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Pugstorm"
+	"publisher" "Fireshine Games"
+}
+"config"
+{
+	"installdir" "Core Keeper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CoreKeeper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CoreKeeper"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "CoreKeeper"
+			"arguments" "-force-opengl"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (OpenGL)"
+			}
+			"description" "Core Keeper (OpenGL)"
+		}
+		"3"
+		{
+			"executable" "CoreKeeper.exe"
+			"arguments" "-safemode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
+			}
+			"description" "Core Keeper (no mods)"
+		}
+		"4"
+		{
+			"executable" "CoreKeeper"
+			"arguments" "-safemode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
+			}
+			"description" "Core Keeper (no mods)"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1621691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4679778929182858127"
+				"size" "665478121"
+				"download" "362330528"
+			}
+			"1.0.0.14"
+			{
+				"gid" "5973228659389730391"
+				"size" "704793444"
+				"download" "372727568"
+			}
+			"0.7.5"
+			{
+				"gid" "3825122943240230913"
+				"size" "662619714"
+				"download" "354903040"
+			}
+			"0.7.4"
+			{
+				"gid" "8732972105623222578"
+				"size" "644441715"
+				"download" "353793328"
+			}
+			"0.7.3"
+			{
+				"gid" "3414912731463985201"
+				"size" "636303579"
+				"download" "348373504"
+			}
+			"0.7.2"
+			{
+				"gid" "943763884574608209"
+				"size" "635621300"
+				"download" "348475488"
+			}
+			"0.7.1"
+			{
+				"gid" "5537815892178850829"
+				"size" "353270382"
+				"download" "237117648"
+			}
+			"moddebug"
+			{
+				"gid" "7234247415238201512"
+				"size" "665478124"
+				"download" "362330240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ambassadors"
+			{
+				"gid" "C914715AB740795399AF1A507BE2C305"
+				"size" "F5BFD565C921BEFD44DCEA6F7D47A8FD"
+				"download" "051D928810E647623AF48415D5EFE3E1"
+			}
+			"communitymanagement"
+			{
+				"gid" "1A901CC98FCC8716DFF0AA25CC97AFA4"
+				"size" "5D1C4DA99C30499263E8E1B1A18EBA30"
+				"download" "FB087CE08371CAB5E3355606B77203B2"
+			}
+			"core_keeper_twitch"
+			{
+				"gid" "BDD18FA0B5A0AB17A77A4C624CBBA058"
+				"size" "6C50DCADCD7D87DB0ADA76F32E1A66C4"
+				"download" "681B40D50DBFE49ADAE4307ECC277241"
+			}
+			"developer"
+			{
+				"gid" "DC2B95E79DD366661D487DEF5FF9A587"
+				"size" "0AED566794A092DB752C4122033760F5"
+				"download" "3BA6180B57A38F7D05073DA5397FE429"
+			}
+			"early_explorers"
+			{
+				"gid" "B464E5864DBE6C7EA48CCC3F287DC206"
+				"size" "ABCB17FAC702623DD6C1CFD697A4940C"
+				"download" "DCDCAF5ECC6FE8C2F65C415B231FD487"
+			}
+			"external"
+			{
+				"gid" "A849E16CE1E98CC03032CF34C6988EE7"
+				"size" "CF9FAA865D9FAA586D772A24A21202F3"
+				"download" "9F6F99947D812F6D2F1B3AA7394F883F"
+			}
+			"externalaccess"
+			{
+				"gid" "10D56CD285C934F24A0B77D5145349B2"
+				"size" "719F343B13F0C136FB6AC8D7B552AEA2"
+				"download" "F2950344C0183C9A8175450B18FBF3D5"
+			}
+			"forpr"
+			{
+				"gid" "BFE7DD5906B9749023F31F216779E257"
+				"size" "22C118C269E28EF5C8E0CA5573FD8E74"
+				"download" "E6F5DC8C9C4D8F3B9E6D387E90E6971F"
+			}
+			"influencer"
+			{
+				"gid" "0A97613D00E4BEFDB241B2C56D35DA72"
+				"size" "CC821B3E415AC7692013C86EAA76E3B7"
+				"download" "E05CA0B9AD04ED0F1ED3C7E68B916623"
+			}
+			"marketing"
+			{
+				"gid" "F0C1C1DA7C07E08ED37AF3C91B694201"
+				"size" "A65739DDE10457213EEC19B2358C4267"
+				"download" "FD319A67F36752FC975DAAA3F5FD705B"
+			}
+			"press"
+			{
+				"gid" "D0A87D9BB442FCAEEAC0C170CF7EB8FD"
+				"size" "EF4F2DE3A31D1BB2B8635D1B5BEA4B06"
+				"download" "DEC1320F6644E2680FDFE250B2CFE9EF"
+			}
+			"private"
+			{
+				"gid" "8C6E8DCA44F4AE8DDC86118EB8689048"
+				"size" "CBFB1BA15D9B3A0D6CF153CD9C683000"
+				"download" "4069509BC381FFC6919AF718820E58A6"
+			}
+			"publisher"
+			{
+				"gid" "671DE17EF58FA4BA7A87F4C5DCA7FF74"
+				"size" "2B5DFE3C7F89C9DB4BFEAF450F00B03B"
+				"download" "BD46E0F75DBB331F29619683D32F5293"
+			}
+			"splashscreen"
+			{
+				"gid" "651A35048A540715F90E08CBAA0CEB0A"
+				"size" "F803834C77ED4E61244B7EE117739A4D"
+				"download" "1904010E9A542C061E31DB26F11F523F"
+			}
+			"steamdeck"
+			{
+				"gid" "A5927426C9CBECDEC31C15610EEE0A96"
+				"size" "5010E8A586DEE7085704C53E9EEC9B02"
+				"download" "FDD2C68426CF58A49E8F27A450CC5B99"
+			}
+			"trailers"
+			{
+				"gid" "C6D348BE7647EAFAF5AA203ED2BCCE19"
+				"size" "EE2AFA7338122C19523D935D48F90627"
+				"download" "97E1CC5DE9BE2E8C687E106304C1E463"
+			}
+			"trailers2"
+			{
+				"gid" "D7C81210848F2A95010590F13E9EF16C"
+				"size" "30C271959014D42391B20E4AD92FAA83"
+				"download" "3AFDD5814835670020460E6F842E5C33"
+			}
+		}
+	}
+	"1621692"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6266017375100295375"
+				"size" "780402905"
+				"download" "371242576"
+			}
+			"1.0.0.14"
+			{
+				"gid" "5830350493317616469"
+				"size" "808844560"
+				"download" "378346896"
+			}
+			"0.7.5"
+			{
+				"gid" "1269421896563067135"
+				"size" "755397570"
+				"download" "364310416"
+			}
+			"0.7.4"
+			{
+				"gid" "2740356615636661715"
+				"size" "686313978"
+				"download" "354268480"
+			}
+			"0.7.3"
+			{
+				"gid" "4438538967916979394"
+				"size" "677408361"
+				"download" "348828656"
+			}
+			"0.7.2"
+			{
+				"gid" "5305540204499833251"
+				"size" "674384678"
+				"download" "348407520"
+			}
+			"0.7.1"
+			{
+				"gid" "1103487944642273363"
+				"size" "363654224"
+				"download" "235883024"
+			}
+			"moddebug"
+			{
+				"gid" "2986397635262359536"
+				"size" "780402904"
+				"download" "371242784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ambassadors"
+			{
+				"gid" "FAE5A612BCD9AA1BF5537A0CA315623A"
+				"size" "89CA1150EC75DDD646E818EF48DF7E6F"
+				"download" "BB0CE2548B459076DB385C920F1E0AFA"
+			}
+			"communitymanagement"
+			{
+				"gid" "97367AE009BFA551668746C80204FC55"
+				"size" "08E756046787107B379EE6F21FE08D13"
+				"download" "EA75DC9D4910F6EDC336259225ECD801"
+			}
+			"core_keeper_twitch"
+			{
+				"gid" "A06313CC8F7C084878C6A4ED729F6043"
+				"size" "6A294E1C999E90F10E5E3971DE8EBEA4"
+				"download" "F5234DB38EE90EC9A5C1CEF7FF8DCED4"
+			}
+			"developer"
+			{
+				"gid" "5B0B5723178D7B59D9054AD31FB05B09"
+				"size" "90CF0F4FE77FFDC3C27987023791A829"
+				"download" "EF4E301A78CEBFABADCF9FD878C76CA3"
+			}
+			"early_explorers"
+			{
+				"gid" "9B6E899904E05A209AD81F4FDF2F4663"
+				"size" "6E5A9BBAB9D0740B8B5B9753EEB793FF"
+				"download" "967B5AACE63C1CC16E2822C0581BD015"
+			}
+			"external"
+			{
+				"gid" "A64B762C62EC1A449C1A2A700A90B936"
+				"size" "447C3B3A4A69975A38ACCFD2B1B6E290"
+				"download" "889A3DFE82A7401C0D4F0D6360A8A29B"
+			}
+			"externalaccess"
+			{
+				"gid" "2E5C7D2C2FD46312C12999A0094ED352"
+				"size" "DF441CF42619938D0EB041B8FB563B10"
+				"download" "FA571F9C60CBFAF89D4841CE77417A6B"
+			}
+			"forpr"
+			{
+				"gid" "FD6999181C8CA924ED9EFD58732EE3FA"
+				"size" "1CC915711C34F9F5B0890D62579301E4"
+				"download" "4BB8F3341B40381A4241A65EE715FBFD"
+			}
+			"influencer"
+			{
+				"gid" "E45C370F8472AAF3B47AF906B68C8D3F"
+				"size" "EC784F312D8102DA8511C6DE1352237C"
+				"download" "ECE4D2ACFC9EFCC3EAF0CFBDC35E7A8A"
+			}
+			"marketing"
+			{
+				"gid" "46B70D503EF0D5B2B777C8F75E7FFC6B"
+				"size" "7D4AC25D60E6978443723BDB4887DAC6"
+				"download" "A26175C01EB293D6001947A5B239C7C8"
+			}
+			"press"
+			{
+				"gid" "142A3C06897808A300105E3CC87E7A5F"
+				"size" "91B1E019C6ABBEC92766E2F332C56AFD"
+				"download" "C715A48244F89AA6D1B9C7A034B415B0"
+			}
+			"private"
+			{
+				"gid" "6B343404F76E3D874942C3C15AA2CCE1"
+				"size" "4083AD0051984705802060CDE8132EA9"
+				"download" "0A60AFA9D70F816CB53C5DAA33ED3BBA"
+			}
+			"publisher"
+			{
+				"gid" "885286EA3EFF31D1431F15912EC75895"
+				"size" "22322042D58602E33E38C00EE90E4B58"
+				"download" "02C37C26213136D232FD1BAD0628321D"
+			}
+			"splashscreen"
+			{
+				"gid" "A29AB3F5A88793CFDE28452584B21F36"
+				"size" "D0FE27EA3E4142EC8D25342D56B2B760"
+				"download" "2D35F1250BEA2D26CB593B155C2A72AA"
+			}
+			"steamdeck"
+			{
+				"gid" "4E46D38C54684B365D268C1222272F4D"
+				"size" "F46289BFB30DF46E41A0FA02594BF243"
+				"download" "9716BB28CE20B0BEA0AA08BF0BA48F78"
+			}
+			"trailers"
+			{
+				"gid" "ECD547C4EEC88A59331E185C8F864361"
+				"size" "EF987F03F5059464E367A72FE9667C52"
+				"download" "8ADB28EF446B8F9FCF0A7BD44FABC761"
+			}
+			"trailers2"
+			{
+				"gid" "FF7C7AD4717B4D174C6EA9FDD4EDAC48"
+				"size" "B05B7CBBE442769F472656E651CDB95B"
+				"download" "63E1C97161871B1C4F57AD76EC1A20A0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16677714"
+			"timeupdated" "1733738909"
+		}
+		"1.0.0.14"
+		{
+			"buildid" "16065825"
+			"description" "Legacy Build - 16065825"
+			"timeupdated" "1730369406"
+		}
+		"0.7.5"
+		{
+			"buildid" "15443697"
+			"description" "Legacy build - 15443697"
+			"timeupdated" "1724316427"
+		}
+		"0.7.4"
+		{
+			"buildid" "14373060"
+			"description" "Legacy build - 14373060"
+			"timeupdated" "1717603187"
+		}
+		"0.7.3"
+		{
+			"buildid" "13462550"
+			"description" "Legacy build - 13462550"
+			"timeupdated" "1709891529"
+		}
+		"0.7.2"
+		{
+			"buildid" "12959740"
+			"description" "Legacy build - 12959740"
+			"timeupdated" "1706694750"
+		}
+		"0.7.1"
+		{
+			"buildid" "12520890"
+			"description" "Legacy Build - 12520890"
+			"timeupdated" "1701251692"
+		}
+		"ambassadors"
+		{
+			"buildid" "14847275"
+			"pwdrequired" "1"
+			"timeupdated" "1719478076"
+		}
+		"communitymanagement"
+		{
+			"buildid" "14348043"
+			"pwdrequired" "1"
+			"timeupdated" "1715614827"
+		}
+		"core_keeper_twitch"
+		{
+			"buildid" "15497041"
+			"pwdrequired" "1"
+			"timeupdated" "1724763240"
+		}
+		"developer"
+		{
+			"buildid" "16224684"
+			"pwdrequired" "1"
+			"timeupdated" "1730222456"
+		}
+		"early_explorers"
+		{
+			"buildid" "11163328"
+			"pwdrequired" "1"
+			"timeupdated" "1683285089"
+		}
+		"external"
+		{
+			"buildid" "15112597"
+			"pwdrequired" "1"
+			"timeupdated" "1721657039"
+		}
+		"externalaccess"
+		{
+			"buildid" "15415945"
+			"pwdrequired" "1"
+			"timeupdated" "1724050556"
+		}
+		"forpr"
+		{
+			"buildid" "15497041"
+			"pwdrequired" "1"
+			"timeupdated" "1724763257"
+		}
+		"influencer"
+		{
+			"buildid" "15497041"
+			"pwdrequired" "1"
+			"timeupdated" "1724763281"
+		}
+		"marketing"
+		{
+			"buildid" "15929978"
+			"pwdrequired" "1"
+			"timeupdated" "1728048466"
+		}
+		"moddebug"
+		{
+			"buildid" "16677769"
+			"description" "For mod debugging"
+			"timeupdated" "1733738855"
+		}
+		"press"
+		{
+			"buildid" "14847275"
+			"pwdrequired" "1"
+			"timeupdated" "1719478057"
+		}
+		"private"
+		{
+			"buildid" "16616940"
+			"pwdrequired" "1"
+			"timeupdated" "1733241678"
+		}
+		"publisher"
+		{
+			"buildid" "15929978"
+			"pwdrequired" "1"
+			"timeupdated" "1728045863"
+		}
+		"splashscreen"
+		{
+			"buildid" "8605588"
+			"pwdrequired" "1"
+			"timeupdated" "1650633882"
+		}
+		"steamdeck"
+		{
+			"buildid" "10673750"
+			"pwdrequired" "1"
+			"timeupdated" "1677759159"
+		}
+		"trailers"
+		{
+			"buildid" "15315036"
+			"pwdrequired" "1"
+			"timeupdated" "1723192880"
+		}
+		"trailers2"
+		{
+			"buildid" "15568106"
+			"pwdrequired" "1"
+			"timeupdated" "1725287586"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26560076"
+"_sha" "4dda6e6b12902073809e59ba602f6c57578df785"
+"_size" "18911"
