@@ -1,0 +1,354 @@
+"appid" "2319640"
+"common"
+{
+	"name" "Rise of Gun"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "9a5f01b2cb9cb6521a9305e8cfe99d03788caa3d"
+	"clienticon" "161093ee8c937453954080bed2208892f03b6b53"
+	"icon" "bfb50ec04543242fef65f9d98d53bf90e92bccaf"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700611200"
+		"tested_build_id" "12476291"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.13430127041743"
+			"height_pct" "93.05555555555556"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.13430127041743"
+				"height_pct" "93.05555555555556"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731614587"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PimpGameStudio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PimpGameStudio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "1"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_17" "1"
+		"category_14" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711399849"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2319640"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "10235"
+		"2" "1659"
+		"3" "3835"
+		"4" "1702"
+		"5" "5765"
+		"6" "12472"
+		"7" "3810"
+		"8" "1643"
+		"9" "7332"
+		"10" "3834"
+		"11" "1738"
+		"12" "5652"
+		"13" "1662"
+		"14" "122"
+		"15" "597"
+		"16" "3839"
+		"17" "4136"
+		"18" "1742"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "PimpGameStudio"
+	"publisher" "PimpGameStudio"
+	"homepage" "https://twitter.com/PimpGameStudio"
+}
+"config"
+{
+	"installdir" "RiseOfGun"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RiseOfGun.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"2319641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3001306293259360450"
+				"size" "1555749989"
+				"download" "1443279872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"stable"
+			{
+				"gid" "C0FBF3C0775B689658B033ECB0F39C96"
+				"size" "64E8DF4058243109FA255FB8EF8E36E0"
+				"download" "8466F9746B1F8B4B5E8971C3D34BDEE4"
+			}
+			"test"
+			{
+				"gid" "597817CC040284F0195C7A5C2395476D"
+				"size" "3F1F7783798257B7229704C754580347"
+				"download" "27D2FDB560C980A7D9F25ECC0F5397D7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16626778"
+			"timeupdated" "1733305100"
+		}
+		"stable"
+		{
+			"buildid" "13085938"
+			"pwdrequired" "1"
+			"timeupdated" "1704305185"
+		}
+		"test"
+		{
+			"buildid" "16626778"
+			"pwdrequired" "1"
+			"timeupdated" "1733305108"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "26485457"
+"_sha" "a5c363d74cf5813fb4ab1d4629c086e2b7191f6e"
+"_size" "6031"
