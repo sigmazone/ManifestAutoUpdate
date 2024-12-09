@@ -92,6 +92,40 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.8709677419355"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1708286090"
 	"associations"
 	{
@@ -118,12 +152,7 @@
 		"4"
 		{
 			"type" "franchise"
-			"name" "东方Project"
-		}
-		"5"
-		{
-			"type" "franchise"
-			"name" "二色幽紫蝶"
+			"name" "二色幽紫蝶经营休闲系列"
 		}
 	}
 	"primary_genre" "3"
@@ -186,14 +215,14 @@
 		"6" "1719"
 		"7" "4085"
 		"8" "4434"
-		"9" "3871"
-		"10" "3920"
-		"11" "5984"
-		"12" "379975"
-		"13" "4562"
-		"14" "1742"
-		"15" "4845"
-		"16" "7208"
+		"9" "3920"
+		"10" "3871"
+		"11" "4845"
+		"12" "7208"
+		"13" "1742"
+		"14" "5984"
+		"15" "379975"
+		"16" "4562"
 		"17" "3916"
 		"18" "6691"
 		"19" "4695"
@@ -248,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "7722972277769182513"
-				"size" "1998697911"
-				"download" "1398907712"
+				"gid" "7713177159286001943"
+				"size" "2003557529"
+				"download" "1401141408"
 			}
 		}
 		"encryptedmanifests"
@@ -293,9 +322,9 @@
 			}
 			"alphatest"
 			{
-				"gid" "5E37086D0192E802D15B04179E352302"
-				"size" "C68E9B78757D5C5DFC2E03AFB5909427"
-				"download" "6DF8073C796A5D56CC9E2CB0649C6E95"
+				"gid" "6867C58899926EB6282DB956B5D896AF"
+				"size" "31D85169B171167037BC7C41191E079B"
+				"download" "77BF768A4FE9E86D75B9214E9D08E89F"
 			}
 			"forkk"
 			{
@@ -305,9 +334,15 @@
 			}
 			"internal"
 			{
-				"gid" "2FB74209CB48359F7FE15C138AF50A78"
-				"size" "64D0526E702B1B7DE0126CC75AFFDDBB"
-				"download" "AE265677B86FE828CE67D7405CA87376"
+				"gid" "E65AC93C806FE165E5D2FC9C47119A7C"
+				"size" "7F142B2840ED1E18E57A27CC0B4CBA8E"
+				"download" "AF8A4B3C647A9B2DF7875DD005963210"
+			}
+			"roguelike_betatest"
+			{
+				"gid" "8AB22D72C746F21AA54928082BED606E"
+				"size" "A258997032C45B39DBFDF7F64EA39740"
+				"download" "1CF27B0138384D702105916495DD5B43"
 			}
 		}
 	}
@@ -383,14 +418,20 @@
 				"size" "D59FBAFB080B35911F280005F428414A"
 				"download" "A9D9C991D59749C4561DE469E8140DEA"
 			}
+			"roguelike_betatest"
+			{
+				"gid" "08055991F296032B2EB97C585EDA2C3F"
+				"size" "DE0C298B457CB85FD740FD29827458DE"
+				"download" "B257E2F72887B15A4D2C6539A1B4DDA9"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14492064"
-			"timeupdated" "1716628391"
+			"buildid" "16680266"
+			"timeupdated" "1733750599"
 		}
 		"adp_ui_framework_alphatest"
 		{
@@ -430,9 +471,9 @@
 		}
 		"alphatest"
 		{
-			"buildid" "14275686"
+			"buildid" "16644636"
 			"pwdrequired" "1"
-			"timeupdated" "1714982191"
+			"timeupdated" "1733409681"
 		}
 		"forkk"
 		{
@@ -442,9 +483,15 @@
 		}
 		"internal"
 		{
-			"buildid" "14492064"
+			"buildid" "16680266"
 			"pwdrequired" "1"
-			"timeupdated" "1716628018"
+			"timeupdated" "1733747543"
+		}
+		"roguelike_betatest"
+		{
+			"buildid" "16644669"
+			"pwdrequired" "1"
+			"timeupdated" "1733409817"
 		}
 	}
 }
@@ -454,6 +501,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "23689478"
-"_sha" "b4506e52af4ce22c3db7c713dd96f0c673aa1f66"
-"_size" "9467"
+"_change_number" "26557798"
+"_sha" "e06a35987ae8e2b898efdf7955d75fb61ef3e48b"
+"_size" "10388"
