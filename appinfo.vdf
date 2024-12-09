@@ -24,8 +24,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -91,6 +89,48 @@
 			"height_pct" "98.61111111111111"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "90.90322580645159"
+				"height_pct" "98.61111111111111"
+			}
+		}
+	}
 	"store_asset_mtime" "1684927900"
 	"associations"
 	{
@@ -132,6 +172,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -175,15 +216,15 @@
 	"gameid" "1570070"
 	"store_tags"
 	{
-		"0" "599"
-		"1" "26921"
-		"2" "9"
-		"3" "5030"
+		"0" "26921"
+		"1" "599"
+		"2" "5030"
+		"3" "9"
 		"4" "1698"
 		"5" "4486"
 		"6" "3871"
-		"7" "4342"
-		"8" "4166"
+		"7" "4166"
+		"8" "4342"
 		"9" "5851"
 		"10" "12472"
 		"11" "4853"
@@ -256,19 +297,13 @@
 		{
 			"public"
 			{
-				"gid" "8856859399184861769"
-				"size" "11028912141"
-				"download" "1175249584"
+				"gid" "7311617750439553564"
+				"size" "11020954205"
+				"download" "1177686064"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"development"
-			{
-				"gid" "87755D8BD9635BD0DF5C6EFE4DD5CD37"
-				"size" "2F0D00E6B44B4A7C4539CB2EED20D163"
-				"download" "2D20F21B83F21E263A63A3CE9271D058"
-			}
 			"localizations"
 			{
 				"gid" "9B64DF57572076599AF2F881C9243117"
@@ -281,20 +316,26 @@
 				"size" "21887A17218729D0A8D8FC679CB8BC46"
 				"download" "80D2C357DED17F547ABF3A67B18FE6CB"
 			}
+			"development"
+			{
+				"gid" "B6545CFEFAC56881A9E9B1909B67CB92"
+				"size" "96F793F8AC0BBFE12092F46441106268"
+				"download" "9A333BF5F0AE1206A8E8596BA1CE22B9"
+			}
+			"stove"
+			{
+				"gid" "C8425B9D71F639BCF2C096E8E5DC68A7"
+				"size" "D16BA631262ECF98760C86C75B763A41"
+				"download" "6ADBE0947918C38AF941BB24EF10BCFC"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11356883"
-			"timeupdated" "1685609675"
-		}
-		"development"
-		{
-			"buildid" "11356883"
-			"pwdrequired" "1"
-			"timeupdated" "1685514568"
+			"buildid" "16599828"
+			"timeupdated" "1733719015"
 		}
 		"localizations"
 		{
@@ -307,6 +348,18 @@
 			"buildid" "8308631"
 			"pwdrequired" "1"
 			"timeupdated" "1646323737"
+		}
+		"development"
+		{
+			"buildid" "16599828"
+			"pwdrequired" "1"
+			"timeupdated" "1733138185"
+		}
+		"stove"
+		{
+			"buildid" "14611757"
+			"pwdrequired" "1"
+			"timeupdated" "1717588520"
 		}
 	}
 }
@@ -330,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21549787"
-"_sha" "28d6c403d3829b4649994e5c71cc76b7c1a455d9"
-"_size" "6149"
+"_change_number" "26552177"
+"_sha" "17f30c6022dcd9b078a08fff5c8b6f4f5efcf4d6"
+"_size" "7007"
