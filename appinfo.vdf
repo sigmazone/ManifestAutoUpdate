@@ -1,0 +1,256 @@
+"appid" "1963720"
+"common"
+{
+	"name" "Core Keeper Dedicated Server"
+	"type" "Tool"
+	"parent" "1621690"
+	"icon" "5ac0dd5629c376aac018bce19309de956750f60a"
+	"clienttga" "06b1a17e606075f789d5be82da4f2f1383ce8c0b"
+	"clienticon" "61ad6cf2936a000a8f004cef2d4b790e76407538"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1963720"
+}
+"config"
+{
+	"installdir" "Core Keeper Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "launch.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "README.txt"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "_readme.sh"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1963721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1555543098850797285"
+				"size" "398190689"
+				"download" "116622864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "5525209D19FDF49253F61C0693166EB7"
+				"size" "9BD547981A146D8A912BEEF4C1F25FCF"
+				"download" "1559B7577E03966F472C764E48299124"
+			}
+			"testing"
+			{
+				"gid" "544BC9F30BDC67DEA6C4A1E64C741039"
+				"size" "F73C40610E99B408774FC1E8C07F2C48"
+				"download" "512A4DB11293879C9258D789EAD70F34"
+			}
+			"testing2"
+			{
+				"gid" "949610418E3B2AEC153012740FD0D1B1"
+				"size" "AEEDA1758C10942876CA59AF63BD30CD"
+				"download" "27AF5600A0B1D61F2A32D9200E4F01C2"
+			}
+			"testing3"
+			{
+				"gid" "56B4F20CAC1B43187D56E803117978A5"
+				"size" "B595AC1587CB2B5748E1B2AA8A790315"
+				"download" "4EED69F6854CE810EF8752B5FF401629"
+			}
+			"trailer"
+			{
+				"gid" "14398FDFD3A158A212701BAABBC207D2"
+				"size" "1644AFD1DEF2F732BFA8FF6042637D9B"
+				"download" "D09F7C56C6649070F26C9D4B9557275B"
+			}
+		}
+	}
+	"1963722"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5204530391959138680"
+				"size" "462350246"
+				"download" "117040496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "5E6D91FCB98752917FA82F96D4FFD5D3"
+				"size" "F37050121DFC7503F3D0240FD226DCAD"
+				"download" "DA69D086D5F8B09E0104D38D8D2352A9"
+			}
+			"testing"
+			{
+				"gid" "95F72C2B6A80DD5F8F650DF6AECF8529"
+				"size" "D99B03E87FAE8B0AA8B5E67687576005"
+				"download" "87558C1A9A54D5A4AB31FABB72917370"
+			}
+			"testing2"
+			{
+				"gid" "51D543B54BB8B040B6C9A18E403E9881"
+				"size" "01317FBDA4EB5C305156E89F2C047BC0"
+				"download" "31ECA0A0FE2F633747DA702185FAC219"
+			}
+			"testing3"
+			{
+				"gid" "E6454932676FFFA99959E82283406243"
+				"size" "B96E56676478855C222B7CFE332AF511"
+				"download" "08EA7541ADAD2CBF6C05061B791B0CCB"
+			}
+			"trailer"
+			{
+				"gid" "DF5A32899F2DB472EE762D676C8E3D3F"
+				"size" "56D015A76C397F144B3BC65A81706FF3"
+				"download" "A64F80ECE3DAB193EF87C996862D71B5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16653617"
+			"timeupdated" "1733738816"
+		}
+		"developer"
+		{
+			"buildid" "16645202"
+			"pwdrequired" "1"
+			"timeupdated" "1733412242"
+		}
+		"testing"
+		{
+			"buildid" "16645202"
+			"pwdrequired" "1"
+			"timeupdated" "1733412846"
+		}
+		"testing2"
+		{
+			"buildid" "16536181"
+			"pwdrequired" "1"
+			"timeupdated" "1732616532"
+		}
+		"testing3"
+		{
+			"buildid" "16642409"
+			"pwdrequired" "1"
+			"timeupdated" "1733399747"
+		}
+		"trailer"
+		{
+			"buildid" "14374097"
+			"pwdrequired" "1"
+			"timeupdated" "1715772124"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26555230"
+"_sha" "264b6c0ce267d96b8429609fea7bcb138aede696"
+"_size" "4528"
