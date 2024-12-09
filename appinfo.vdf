@@ -31,7 +31,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -96,6 +95,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -103,7 +103,52 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1701880318"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "77.93932322053678"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730716983"
 	"associations"
 	{
 		"0"
@@ -139,6 +184,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -218,24 +264,24 @@
 		"2" "4166"
 		"3" "4182"
 		"4" "9"
-		"5" "599"
-		"6" "6426"
+		"5" "6426"
+		"6" "599"
 		"7" "1702"
 		"8" "7332"
 		"9" "8945"
-		"10" "1742"
-		"11" "12472"
-		"12" "3835"
+		"10" "3835"
+		"11" "1742"
+		"12" "12472"
 		"13" "492"
 		"14" "5608"
 		"15" "4175"
-		"16" "5984"
+		"16" "4975"
 		"17" "5186"
-		"18" "4975"
+		"18" "5984"
 		"19" "1687"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 	"review_score_bombs" "8"
 	"review_percentage_bombs" "94"
 }
@@ -244,7 +290,7 @@
 	"developer" "11 bit studios"
 	"publisher" "11 bit studios"
 	"homepage" "http://www.thiswarofmine.com"
-	"listofdlc" "348040,481090,750030,750031,974610,1125630"
+	"listofdlc" "348040,481090,750030,750031,974610,1125630,3323700"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -293,6 +339,15 @@
 			"config"
 			{
 				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "This War of Mine.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "devops_upload_test"
 			}
 		}
 	}
@@ -349,9 +404,9 @@
 		{
 			"public"
 			{
-				"gid" "6796256525174304979"
-				"size" "20344206"
-				"download" "5951392"
+				"gid" "6327663811039806302"
+				"size" "19902506"
+				"download" "5698288"
 			}
 		}
 		"encryptedmanifests"
@@ -364,9 +419,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "70DDB9E8790267206477F6D1333468B9"
-				"size" "D82904B7C7D1F32A24083D7A7CB60E11"
-				"download" "16FCB74387F97E63AF47561362F4F60F"
+				"gid" "6CA745EEC94B3DDD986A2C65D87D9CAF"
+				"size" "C6965DA2BCE8969789E8B19C0AF61B3E"
+				"download" "A5793D958811AE324094906FA327FC1A"
+			}
+			"internal_prod"
+			{
+				"gid" "0A816B4832BF6C28997AA4424340CA93"
+				"size" "AB5F2151F171A36349A0D9106E0781CA"
+				"download" "021306D39ECE1189A5E106A677E1FBD2"
+			}
+			"internal_test"
+			{
+				"gid" "BE111E1AC262D9CF3ECE0A5027831EA3"
+				"size" "41072535A578C322162C029B93A94226"
+				"download" "5C2C8DD695CC787D955F423EBCE2883D"
+			}
+			"live-backup"
+			{
+				"gid" "D04A2C4E6E848B2F2A1162A2558CA2D5"
+				"size" "CDAB74BE7492C142B9AADA1C309554B3"
+				"download" "2FCAB0D244C2764A8BC49F0DC00F5594"
+			}
+			"rc_build"
+			{
+				"gid" "881FE3D88E3433C853CFF3C7BDE23B08"
+				"size" "76B40CAFD52A69F02B357141F8F42C32"
+				"download" "021BC48E651A62811659F6358EF9C5DD"
 			}
 		}
 	}
@@ -380,9 +459,9 @@
 		{
 			"public"
 			{
-				"gid" "2909354918856024957"
-				"size" "24843818"
-				"download" "7737920"
+				"gid" "6239961893422563954"
+				"size" "21287345"
+				"download" "7521632"
 			}
 		}
 		"encryptedmanifests"
@@ -395,9 +474,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "48DFEA0B28E12F81D5B6607241E56FDB"
-				"size" "913D307FFD82E2B0BE5249B940AD5AFC"
-				"download" "2E2754FA6A059F778AD3C32442F05168"
+				"gid" "0E208ED58AC17496392172B0C27FD3A9"
+				"size" "5339C5206F7D3C175C25DC9EE99FC634"
+				"download" "0B87D0086884F2CF16688C72B756D85F"
+			}
+			"internal_prod"
+			{
+				"gid" "E08E6502EB31AF730EBBBD76F91A5BD2"
+				"size" "6CBE8B93118D8824202656ABECB2F9E0"
+				"download" "7C4C20E85A5DA123B26B8A185C060AE1"
+			}
+			"internal_test"
+			{
+				"gid" "FDC4E41A5840FA10D8784DA5CBA06326"
+				"size" "F93468DBF29CBCE5DABA2A3462FD1456"
+				"download" "1B3ACAB82F4840DB18606BA947ADFFC1"
+			}
+			"live-backup"
+			{
+				"gid" "C7DAA013939BB27EE9C4C4FD4BA1FD6F"
+				"size" "C0C3B75A7F8CC3703C259882776E1639"
+				"download" "AB532271C779C81FDCA8CCCEEB418105"
+			}
+			"rc_build"
+			{
+				"gid" "3098913113BC1DFA44C26A4DFF02C7CD"
+				"size" "D25EE0F462A3A84FE3E41C74C213A689"
+				"download" "7E5EC2148518ED54394DE312EE1392B9"
 			}
 		}
 	}
@@ -411,9 +514,9 @@
 		{
 			"public"
 			{
-				"gid" "6523227002308586919"
-				"size" "1325506"
-				"download" "747888"
+				"gid" "1915000156646969901"
+				"size" "1321598"
+				"download" "748144"
 			}
 		}
 		"encryptedmanifests"
@@ -426,9 +529,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "31DABB7DACEA950D285880760509D553"
-				"size" "FE8FA029DCF7BBE457FB05FB024FB478"
-				"download" "C7CEF9186E4D9AB44633FB31B64D431C"
+				"gid" "6A377953BA4C49B842E7A2B1A64CBECD"
+				"size" "56AD51AC067AB145098FF7D2640F7E47"
+				"download" "4DDA57F30CB553B523164912B95EEC15"
+			}
+			"internal_prod"
+			{
+				"gid" "82D9F3C59C70CC925053DA03E1E21E92"
+				"size" "209209D1D0B06EE29C0620CB236C6B7D"
+				"download" "203AFAC4D6A01F16F87C543CCAC6C1CD"
+			}
+			"internal_test"
+			{
+				"gid" "21C57DA4FC535015E91CFE404B212995"
+				"size" "A96BB999914F11190D60E4B546CE5380"
+				"download" "E6F5E1DF20FF4CFF4FCAF9C04D9C0335"
+			}
+			"live-backup"
+			{
+				"gid" "34E9AA8A45A2AA45460543DCE27D2AD7"
+				"size" "7C571C1054B6B2C777BB84958FE18C92"
+				"download" "A2B250467E565855C791B1035E30E4C0"
+			}
+			"rc_build"
+			{
+				"gid" "3618D6FE7B08A1DBC13AA5F97345A077"
+				"size" "9DD14DA75CE0A1C7076D2BBF22733490"
+				"download" "831CDCB504FEBD51E788312543A1F1CD"
 			}
 		}
 	}
@@ -442,9 +569,9 @@
 		{
 			"public"
 			{
-				"gid" "784671959319524124"
-				"size" "99985719"
-				"download" "31670288"
+				"gid" "8386187317305430955"
+				"size" "101917158"
+				"download" "31969984"
 			}
 		}
 		"encryptedmanifests"
@@ -457,9 +584,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "15BC58CAC6D98DD3A8E8223B2A66B505"
-				"size" "E2623798B6FD5AA641EA8DAD3A70D906"
-				"download" "BCB2108E6E8C272D2299916FB14D2B41"
+				"gid" "8432326DB29362779ED0EF42DF77B082"
+				"size" "621283EAEC48A2744DA5226E9F0F44E2"
+				"download" "C84EF2800A81ED13BE5BB6B85A3C1FA2"
+			}
+			"internal_prod"
+			{
+				"gid" "7179253D5722805A93115CB58D006A12"
+				"size" "4D8E2EA5008F3E348C9F465E219493C2"
+				"download" "C87D864430DDFC27E3EE1277A7AFF2E0"
+			}
+			"internal_test"
+			{
+				"gid" "B124FE1D343320CE47981164A0F71A01"
+				"size" "EF77EC012299F079756E5AE6CC247963"
+				"download" "F14956B1FCF7C180362C7A9DA4994762"
+			}
+			"live-backup"
+			{
+				"gid" "7B9C8B0ED2F52CA68685A53715CF270E"
+				"size" "F62855DEF62B2068D153ADBBD8351441"
+				"download" "CC0CB9845B74EF382F174CB07FAF9C68"
+			}
+			"rc_build"
+			{
+				"gid" "6C7BA49C27FD62029BED33B1EEB16D8D"
+				"size" "2C37BB8C315AF82BFD98C163C0073800"
+				"download" "0A83179E80B8AB5BD81B83C360D8ADFC"
 			}
 		}
 	}
@@ -473,9 +624,9 @@
 		{
 			"public"
 			{
-				"gid" "3242930624967074512"
-				"size" "170146309"
-				"download" "170770144"
+				"gid" "4637147015691307925"
+				"size" "173308595"
+				"download" "173918752"
 			}
 		}
 		"encryptedmanifests"
@@ -488,9 +639,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "AEE82D6C6E679EDB0266D293A1E8D3CF"
-				"size" "4C9E726CEF4BCF9047E3D42C42EB8B20"
-				"download" "22F9EFA18DC0049ABEB32F75B1850371"
+				"gid" "70AA36C4986C490D0BD322DA6613641C"
+				"size" "EACFFD74C889ADBEE31BCA9F792DDF01"
+				"download" "98501CF6FB4D21B577BD5F06BB77A5AA"
+			}
+			"internal_prod"
+			{
+				"gid" "6351A27354024B117A66BE52160B6646"
+				"size" "595E76588369D0D215C68F16860AFCFE"
+				"download" "203D1E9E787681B8E8E1C71F4172391C"
+			}
+			"internal_test"
+			{
+				"gid" "CD1D311E361DF32FAFD57F5C55FCD43C"
+				"size" "8EF6F14FEDCFF48C4A14B32F74A22395"
+				"download" "064B87B7013CE62284EB7B69315F4A46"
+			}
+			"live-backup"
+			{
+				"gid" "0B9545212E8F09EB9C49734A6B37EF72"
+				"size" "4F01E3851A927848AE30C0CBDF3D9CB5"
+				"download" "F3982C405B7776A7884CB69A7EE694FF"
+			}
+			"rc_build"
+			{
+				"gid" "69476EB397A2BD5F62562F8DFC9DE14A"
+				"size" "DCC05286DA95466B88CB4500F7B66639"
+				"download" "925B13C9745C62972E15421D7C22D98B"
 			}
 		}
 	}
@@ -504,9 +679,9 @@
 		{
 			"public"
 			{
-				"gid" "4263756927733991882"
-				"size" "2015441566"
-				"download" "2009012176"
+				"gid" "3809788685860161277"
+				"size" "2025996779"
+				"download" "2019891680"
 			}
 		}
 		"encryptedmanifests"
@@ -519,9 +694,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "066BA4B141F8060AE48A6B1000D86BAE"
-				"size" "3001C55AB25F47338D90A03EF1E97931"
-				"download" "D46B0E684BBF6B24C06C5E99001D6118"
+				"gid" "2E46DDF3FEA09DBD64BB60170AEB901B"
+				"size" "ECD3681EE43AE016D4CBACF4F7D6D6B8"
+				"download" "E54DC3E802B783CB98034D2F470FFBBE"
+			}
+			"internal_prod"
+			{
+				"gid" "1C6829419EC511B36B5CAD40779356C8"
+				"size" "E259FB97176D096A4FD23B085E28B765"
+				"download" "91096A169469092385E7CB412011708C"
+			}
+			"internal_test"
+			{
+				"gid" "7AFC4E46B3AE341EB77B3B9A8C92F355"
+				"size" "49EFB660E6B8771AE3E6304567C3985F"
+				"download" "A371EB58DF141DC057BED79B0F846267"
+			}
+			"live-backup"
+			{
+				"gid" "DAF7B268C12B3F5EBD9E4C56E3250106"
+				"size" "53E2B17B94F611C25CBDD7D204629443"
+				"download" "5A068ED29E624475EE66E83094A944EA"
+			}
+			"rc_build"
+			{
+				"gid" "3379B803BAA41F5F37A177A0990F0F1D"
+				"size" "EF3FCF6F54CBECC36049D01D289CF0E7"
+				"download" "2DDDC266236AEA7351732378D340810B"
 			}
 		}
 	}
@@ -535,9 +734,9 @@
 		{
 			"public"
 			{
-				"gid" "6485357841802375341"
-				"size" "476439658"
-				"download" "466545552"
+				"gid" "8201936698799794539"
+				"size" "479190645"
+				"download" "469300432"
 			}
 		}
 		"encryptedmanifests"
@@ -550,9 +749,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "AD422A70A2F338B5D5AF7B636ADC5860"
-				"size" "E90FEE99CCE0508D5AC6AC6D7F1E52C1"
-				"download" "30DC1B76274396825BB844C475541E99"
+				"gid" "587E7845188C0EACAD70A1CF70DB2DBC"
+				"size" "FBF0B7F33C717BA15636EF4B06EE9E73"
+				"download" "FD3CF1B547356A9FD6FCF32103A13EC1"
+			}
+			"internal_prod"
+			{
+				"gid" "A6FEEAF3DD9B3FE3016A655C758B0D4A"
+				"size" "F802299B89DC2AC07723DEF6D65381A6"
+				"download" "B1E25C865C1421901F071C28C3ED0A54"
+			}
+			"internal_test"
+			{
+				"gid" "1E9F8A2DC2FD27425087A8A13792010B"
+				"size" "EC95F9715DBD843036973B70C3F9CF9E"
+				"download" "BC1E390C968A24BD7E6FC1C59182687E"
+			}
+			"live-backup"
+			{
+				"gid" "21CD878404D3F1B05B13733384A30F58"
+				"size" "CB78EA70BDDF5E751F00A2968A37C9ED"
+				"download" "68DD9F505665285B3697A5BBAC71B2C6"
+			}
+			"rc_build"
+			{
+				"gid" "3B1626A4304677064040F4A08ACC7145"
+				"size" "BFFE6743DE969C52F93B63B40AD1D2CC"
+				"download" "5D42E95C54AC0DECE13A77D366D1D840"
 			}
 		}
 	}
@@ -581,9 +804,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "21A87C909A9EB03D1F267F3A1390EA8A"
-				"size" "8AB8AF242F8D4C32C0E6F8E95F1A57B1"
-				"download" "11AF1E7884E84BC8E3050998DBAFD8B1"
+				"gid" "92C6236BEE31FA4C287E65DF470DC10E"
+				"size" "3FF05EEA03BE9A9A3BE7411B00482A86"
+				"download" "E3DB21E6784602B470AF291AB36AAF32"
+			}
+			"internal_prod"
+			{
+				"gid" "873869C53ED7AA4017C16DCB32DF22D2"
+				"size" "F8E40635831523873F19501889E324FB"
+				"download" "973C6585DCF897017DB405B576A84746"
+			}
+			"internal_test"
+			{
+				"gid" "7AC44F8B64EBED189B7BE0A26DDBFD04"
+				"size" "4369FE8F40AB6744A8B03295B52C5AD3"
+				"download" "1118BEBD8ECB987093E0F506A7AD2C0C"
+			}
+			"live-backup"
+			{
+				"gid" "A749CC42E2582AB860D19E777CD0F924"
+				"size" "1081A85F0D113F2FE3806D58A528EA63"
+				"download" "C949D91A90682CB9F3E3EE9DB8C682A6"
+			}
+			"rc_build"
+			{
+				"gid" "D24E86185679F9DA48F0393767CFBD42"
+				"size" "F67A4B4A6AB1BF8037398F6FFE2FBB07"
+				"download" "165C48D9436490AD3A0422C368B9E216"
 			}
 		}
 	}
@@ -613,9 +860,33 @@
 			}
 			"devops_upload_test"
 			{
-				"gid" "1A4288226EBED2EE792580BAF0206EFF"
-				"size" "2266FD015E9806FD9A723E8A0CD866FC"
-				"download" "E0A6718A2CEFA201606665B420DE6634"
+				"gid" "04E3A353D2053EDD754A1A5406727141"
+				"size" "3BABA0359618B06472EE225B9DB2DEBA"
+				"download" "AFD8BF948C39C27541A19C1FC55D4A2E"
+			}
+			"internal_prod"
+			{
+				"gid" "36F1C8F45EF21603410B0FC441E266FF"
+				"size" "0C472B4DAE0F4F73761CE453CF9E8BDA"
+				"download" "9831744C54EE2B4F1EF5D787E344738E"
+			}
+			"internal_test"
+			{
+				"gid" "59066FA674744F0C57DEA73DB8557262"
+				"size" "523DE77DE3AAD761640FE06B62DA1025"
+				"download" "7CA6D19A8F37CCE80D23095CE4494185"
+			}
+			"live-backup"
+			{
+				"gid" "99B2F213FCB9985B4A5491EFF2BA4CAB"
+				"size" "C73E088347A0139800A2A75E3E14E8A5"
+				"download" "33CD59AF55624AF7E0E6644EEE4E17F6"
+			}
+			"rc_build"
+			{
+				"gid" "4F0937C5860BD03C3B07A763432D6113"
+				"size" "4218E9E731C1D7E034BAEB29C81A90F5"
+				"download" "9F7D6572E600315D3B1A44F247D5BA2C"
 			}
 		}
 	}
@@ -623,8 +894,8 @@
 	{
 		"public"
 		{
-			"buildid" "13271214"
-			"timeupdated" "1706191257"
+			"buildid" "16681118"
+			"timeupdated" "1733756424"
 		}
 		"bc_test"
 		{
@@ -637,12 +908,6 @@
 			"buildid" "4284918"
 			"pwdrequired" "1"
 			"timeupdated" "1571047576"
-		}
-		"devops_upload_test"
-		{
-			"buildid" "13271214"
-			"pwdrequired" "1"
-			"timeupdated" "1706188437"
 		}
 		"gold64"
 		{
@@ -698,6 +963,36 @@
 			"pwdrequired" "1"
 			"timeupdated" "1569401076"
 		}
+		"devops_upload_test"
+		{
+			"buildid" "16068063"
+			"pwdrequired" "1"
+			"timeupdated" "1729092630"
+		}
+		"internal_prod"
+		{
+			"buildid" "16680702"
+			"pwdrequired" "1"
+			"timeupdated" "1733750278"
+		}
+		"internal_test"
+		{
+			"buildid" "16681118"
+			"pwdrequired" "1"
+			"timeupdated" "1733752549"
+		}
+		"live-backup"
+		{
+			"buildid" "13271214"
+			"pwdrequired" "1"
+			"timeupdated" "1733736137"
+		}
+		"rc_build"
+		{
+			"buildid" "16680702"
+			"pwdrequired" "1"
+			"timeupdated" "1733750052"
+		}
 	}
 }
 "ufs"
@@ -706,6 +1001,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22050384"
-"_sha" "15dcabedf3070269bd8da62985b4ee705cf313b7"
-"_size" "13114"
+"_change_number" "26559172"
+"_sha" "78634249ef0578804939b70e8bda25db97e21055"
+"_size" "20743"
