@@ -1,0 +1,507 @@
+"appid" "1268590"
+"common"
+{
+	"name" "Millennia"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d2edd7419783ede6ac0f9fc3fe9881abbcaf7c55"
+	"clienttga" "4cbee03e18712b9a1b0d370f78387b3ed7796121"
+	"clienticon" "43328ab590a92ebc2b74b2aa6a87c38dd282d1b7"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1268590_eula_0"
+			"name" "Millennia EULA"
+			"url" "https://store.steampowered.com//eula/1268590_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727395200"
+		"tested_build_id" "13886486"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.52739126076625"
+			"height_pct" "83.68022705771051"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.52739126076625"
+				"height_pct" "83.68022705771051"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730814725"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "C Prompt Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1711472340"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1268590"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1741"
+		"2" "1670"
+		"3" "4364"
+		"4" "4598"
+		"5" "599"
+		"6" "3987"
+		"7" "1677"
+		"8" "1678"
+		"9" "4695"
+		"10" "4182"
+		"11" "6310"
+		"12" "1708"
+		"13" "4168"
+		"14" "4711"
+		"15" "4853"
+		"16" "12472"
+		"17" "1717"
+		"18" "4325"
+		"19" "3859"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "C Prompt Games"
+	"publisher" "Paradox Interactive"
+	"homepage" "https://www.paradoxinteractive.com/games/millennia"
+	"listofdlc" "2647810,2829670,2829680,2829690,2829710"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Millennia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launcher/dowser.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3262588166"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"1268591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4493488377648663996"
+				"size" "6750083234"
+				"download" "5795967328"
+			}
+			"openbeta"
+			{
+				"gid" "4493488377648663996"
+				"size" "6750083234"
+				"download" "5795967328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compatlab"
+			{
+				"gid" "FBE148E871340E4249182B85D0A851BA"
+				"size" "962F412D5C46E6226BA84F4CABC5CBC5"
+				"download" "A0593499270ADEAB21ECDE0E7D04E957"
+			}
+			"influencer"
+			{
+				"gid" "FCA89D932DF44D270B1E294A43313CC8"
+				"size" "024464E890AF52E24B5A78DB08570CD8"
+				"download" "4E57B6EA40B30E3B305AB08D45DE0A4F"
+			}
+			"closedbeta"
+			{
+				"gid" "90047074BAE395CC226D54D9AE852E24"
+				"size" "414A7ED6C1D6C2E0E25C6D510C1D53D3"
+				"download" "C4522176CA8116B2676A8550329A3067"
+			}
+			"dev_internal"
+			{
+				"gid" "90E8D2994218F19C4FCD2B51D72F3028"
+				"size" "54D9C02D986778D677E4FCD0E1D7DA66"
+				"download" "2FF20F48C7090597B36FDBA793C6AF31"
+			}
+			"dev_openbeta"
+			{
+				"gid" "0B734216172CFEC24BED890F310F46F3"
+				"size" "B601D24750E8DACDCCCDCE58D72572E5"
+				"download" "088C1DB3F8ABC75C6770DF0DD27BC45B"
+			}
+			"dev_playtest"
+			{
+				"gid" "48E5306064909DA643C8590D6CDA9C22"
+				"size" "A63999443A65118CB830753084B70DFF"
+				"download" "902AEE5F632B0F79EB972D4CCD908DED"
+			}
+			"dev_playtest2"
+			{
+				"gid" "815F753D02C8722ABB25B592CFDC6F07"
+				"size" "A1FEE737F44558D4DC3F5C38F4AD5C50"
+				"download" "DBCC0A0893CD2563A00593193271927B"
+			}
+			"dev_playtest3"
+			{
+				"gid" "DEAE51D0CA2E9D4792636A74ACACE8EE"
+				"size" "DEE34E9D56E640FBAF80CB961514CAC4"
+				"download" "45547DC53372634794479FBC0D04D3D4"
+			}
+			"dev_testbuild"
+			{
+				"gid" "4D8FB5E361FDE2D40904195F294A8BE3"
+				"size" "24C1797B4B8747DC432A20810279CEDD"
+				"download" "C21859CA872A253AF188200657E1ABFB"
+			}
+		}
+	}
+	"2647810"
+	{
+		"dlcappid" "2647810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8194239366616770741"
+				"size" "261085722"
+				"download" "225768080"
+			}
+			"openbeta"
+			{
+				"gid" "8194239366616770741"
+				"size" "261085722"
+				"download" "225768080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "CCCBE57248975BE8153079E79A88BF3C"
+				"size" "0D713C1D5F1022CF695EE76C72846FD4"
+				"download" "EE51767CC237F0DEEBA77A705A3B5831"
+			}
+			"dev_internal"
+			{
+				"gid" "C41200BD543E97DEA921E208A62A0D05"
+				"size" "BB49D7230E31A26407EF03C126BEB900"
+				"download" "E4713E9A8EEE7113DBCE1547B250612E"
+			}
+			"dev_openbeta"
+			{
+				"gid" "24651BEBC042386C21624A64E6005EE4"
+				"size" "93C6C428DA3405F76BBE12692852A2D5"
+				"download" "71325FADA6A6B98B046ED893AAD4068D"
+			}
+			"dev_playtest"
+			{
+				"gid" "393C8F63D4E5140BD8D29AFC47E5FCD0"
+				"size" "FEF076F159AADA096D407473F799BD21"
+				"download" "F9157FCD2DA839BD0475CCD780AAEB2F"
+			}
+			"dev_playtest2"
+			{
+				"gid" "F5B65E62758B5DA2D0D3263114F7C16F"
+				"size" "39A5359DCEAF65652AAFE1343CDA41D0"
+				"download" "CF5E92CE6BF168814D045D775FF9569E"
+			}
+			"dev_playtest3"
+			{
+				"gid" "D40F4AC539EA2417CEDD5870E91FD14B"
+				"size" "2760BDE4845D03BCAD7490497971B302"
+				"download" "0D615570C7071FC3BFBF8434B45AA632"
+			}
+			"dev_testbuild"
+			{
+				"gid" "8D686C96F386E4F5BF92A39080D02666"
+				"size" "1A11CE8805F8BA140BCC3A0CCA10F777"
+				"download" "A0C9430F38EF54CFBF6583ACFB2F7629"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2647810"
+		}
+	}
+	"workshopdepot" "1268590"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16636972"
+			"timeupdated" "1733750889"
+		}
+		"compatlab"
+		{
+			"buildid" "13420257"
+			"pwdrequired" "1"
+			"timeupdated" "1707534341"
+		}
+		"influencer"
+		{
+			"buildid" "13707743"
+			"pwdrequired" "1"
+			"timeupdated" "1710203165"
+		}
+		"closedbeta"
+		{
+			"buildid" "16467094"
+			"pwdrequired" "1"
+			"timeupdated" "1732215311"
+		}
+		"dev_internal"
+		{
+			"buildid" "16650279"
+			"pwdrequired" "1"
+			"timeupdated" "1733446005"
+		}
+		"dev_openbeta"
+		{
+			"buildid" "15498368"
+			"pwdrequired" "1"
+			"timeupdated" "1724715717"
+		}
+		"dev_playtest"
+		{
+			"buildid" "16636972"
+			"pwdrequired" "1"
+			"timeupdated" "1733361586"
+		}
+		"dev_playtest2"
+		{
+			"buildid" "16467738"
+			"pwdrequired" "1"
+			"timeupdated" "1732129108"
+		}
+		"dev_playtest3"
+		{
+			"buildid" "16157850"
+			"pwdrequired" "1"
+			"timeupdated" "1729729239"
+		}
+		"dev_testbuild"
+		{
+			"buildid" "16636594"
+			"pwdrequired" "1"
+			"timeupdated" "1733358678"
+		}
+		"openbeta"
+		{
+			"buildid" "16636972"
+			"description" "For public testing of upcoming updates"
+			"timeupdated" "1733424981"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26557862"
+"_sha" "f12cbe2d0f53baa96e93bc24f41b9354390fb350"
+"_size" "10031"
