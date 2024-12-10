@@ -72,7 +72,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "dce239cffde4fb16e7436143fb2b431c845135d4/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -83,6 +83,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -131,8 +132,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8dabcbe219b91b5cbaf56f3f5c2a4892ba8ff3bf/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8dabcbe219b91b5cbaf56f3f5c2a4892ba8ff3bf/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1678812349"
+	"store_asset_mtime" "1730323794"
 	"associations"
 	{
 		"0"
@@ -240,6 +252,7 @@
 			"description_loc"
 			{
 				"english" "Resume from the latest save"
+				"japanese" "最新のセーブデータから再開します"
 			}
 			"description" "Resume from the latest save"
 		}
@@ -287,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "7494425979293262703"
-				"size" "6103235847"
-				"download" "5483025120"
+				"gid" "3008127741263674469"
+				"size" "6103240447"
+				"download" "5483023728"
 			}
 			"version_1.1.10"
 			{
@@ -345,21 +358,27 @@
 				"size" "5838835892"
 				"download" "5215654128"
 			}
+			"version_1.1.19"
+			{
+				"gid" "3008127741263674469"
+				"size" "6103240447"
+				"download" "5483023728"
+			}
+			"version_1.1.8"
+			{
+				"gid" "2194089937395423943"
+				"size" "5838856429"
+				"download" "5215666608"
+			}
+			"version_1.1.9"
+			{
+				"gid" "7657825861283240034"
+				"size" "5838856429"
+				"download" "5215667568"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"ph3_internal"
-			{
-				"gid" "49B97FEF9FE630A94074E8929177DE40"
-				"size" "0B0605824D60CC1520CE6532CAE3AD06"
-				"download" "0B6532138119B40E6285464DBC734C86"
-			}
-			"test"
-			{
-				"gid" "4387E3D196FA923BC3D05A69192C6424"
-				"size" "A4EA600DFE69F926D7DFA4CC4F84C6D9"
-				"download" "E793C271216597A262F7BDB557CA7D5A"
-			}
 			"version_0.8"
 			{
 				"gid" "C9EB9E57A5E9E4D08060B4A9030B12C6"
@@ -420,17 +439,17 @@
 				"size" "218B548DAA2B91DEB764CA87CDCE8F10"
 				"download" "62B86318D7C826CAFFCDA4D64D7F7A1C"
 			}
-			"version_1.1.8"
+			"ph3_internal"
 			{
-				"gid" "92E2187EF753738436C83F29B19415F2"
-				"size" "F614465358C4D86C0D85E4F9FBD8DD76"
-				"download" "389552D0A6A7E2C884A0AF8140458CF7"
+				"gid" "03F12717E6AF8C53DC528B4439D633D8"
+				"size" "C43548D77F7782927DC4C59C87EC67E0"
+				"download" "C0433FC0A6C263B9D2462E144DD80109"
 			}
-			"version_1.1.9"
+			"test"
 			{
-				"gid" "6038EF83A5034AB0A657311FB2F09A98"
-				"size" "1919B3AB0533BBADD6BDF3C46BFA2330"
-				"download" "F26A043338FCB589C7C3258C5F7B35D8"
+				"gid" "DCAA1B8E830E11E64E6C68A51F8101B7"
+				"size" "21C75F508059F2EB0116714A67C2A20F"
+				"download" "E7230A39AD20E6D5C587F3BAFE9E8D59"
 			}
 		}
 	}
@@ -438,20 +457,8 @@
 	{
 		"public"
 		{
-			"buildid" "12033403"
-			"timeupdated" "1693251064"
-		}
-		"ph3_internal"
-		{
-			"buildid" "12033403"
-			"pwdrequired" "1"
-			"timeupdated" "1692975822"
-		}
-		"test"
-		{
-			"buildid" "12033403"
-			"pwdrequired" "1"
-			"timeupdated" "1692975833"
+			"buildid" "16619794"
+			"timeupdated" "1733763631"
 		}
 		"version_0.8"
 		{
@@ -567,16 +574,34 @@
 			"pwdrequired" "1"
 			"timeupdated" "1678896606"
 		}
+		"ph3_internal"
+		{
+			"buildid" "16619794"
+			"pwdrequired" "1"
+			"timeupdated" "1733257015"
+		}
+		"test"
+		{
+			"buildid" "16619794"
+			"pwdrequired" "1"
+			"timeupdated" "1733257033"
+		}
+		"version_1.1.19"
+		{
+			"buildid" "16619794"
+			"description" "version_1.1.19"
+			"timeupdated" "1733257025"
+		}
 		"version_1.1.8"
 		{
 			"buildid" "10776394"
-			"pwdrequired" "1"
+			"description" "version_1.1.8"
 			"timeupdated" "1679003842"
 		}
 		"version_1.1.9"
 		{
 			"buildid" "10788993"
-			"pwdrequired" "1"
+			"description" "version_1.1.9"
 			"timeupdated" "1679070028"
 		}
 	}
@@ -611,16 +636,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statusfull" "%text%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26561914"
+"_sha" "a83e8fe39b3970ecd0c5aadaaacbaea183a46b44"
+"_size" "12663"
