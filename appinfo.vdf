@@ -109,6 +109,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -122,11 +123,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "85e8f2e97cbd79031f10c11c8aaef6782f30f86b/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "85e8f2e97cbd79031f10c11c8aaef6782f30f86b/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -157,8 +158,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3380451742c07730505463e1da14d65c42dbffdd/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3380451742c07730505463e1da14d65c42dbffdd/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1719518934"
+	"store_asset_mtime" "1733844828"
 	"associations"
 	{
 		"0"
@@ -289,8 +301,8 @@
 		"6" "6730"
 		"7" "4747"
 		"8" "1687"
-		"9" "4106"
-		"10" "19"
+		"9" "19"
+		"10" "4106"
 		"11" "1662"
 		"12" "5923"
 		"13" "4342"
@@ -309,7 +321,7 @@
 	"developer" "Red Barrels"
 	"publisher" "Red Barrels"
 	"homepage" "https://redbarrelsgames.com/games/the-outlast-trials/"
-	"listofdlc" "2328320,3030370"
+	"listofdlc" "2328320,3030370,3307910"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -365,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "7959932975174244857"
-				"size" "40872655789"
-				"download" "38806041536"
+				"gid" "8618559302878872254"
+				"size" "45267651929"
+				"download" "43085235056"
 			}
 		}
 		"encryptedmanifests"
@@ -380,9 +392,9 @@
 			}
 			"live-candidate"
 			{
-				"gid" "37B845BF2C0CCD11CBBD79473CB46DA2"
-				"size" "2F2006AF7939768D2CE30AFC6BD1FB35"
-				"download" "FC2B60419D54BEBDE000EAD5555F52DF"
+				"gid" "469840204C0DC0BBA0DFD9E7F7CF2284"
+				"size" "0619ED0AF51E49DC11DD6A6250419C46"
+				"download" "1C8607340A24028299923FB82F583163"
 			}
 			"live-debug"
 			{
@@ -398,33 +410,33 @@
 			}
 			"oppqa"
 			{
-				"gid" "DE34371C596DE9E1D5D8BFA366EECDC9"
-				"size" "D6C879221FE0B91862BDC1EFDC9A293A"
-				"download" "1698BAB19879A838FDFC7B1347DCF1B3"
+				"gid" "0B332DB3BA6491A4EEA44C3286D62D6B"
+				"size" "3BE2B404EB4B5DDACEFBA3167B95083B"
+				"download" "CA491BD6509DE30B1D11BAD1F4C9DCBD"
 			}
 			"oppqa2"
 			{
-				"gid" "6DE1394E5A5025E7C029E2E861E01734"
-				"size" "A5C48CF997C16595633E939974DA1AEE"
-				"download" "E82BC5FDA82213362D9B550B3E5ED9CF"
+				"gid" "936163D542695F2CC801F77EE066D41B"
+				"size" "3EEC33CC9978B05A44624AE5A7315A63"
+				"download" "A7BC34604F8E47838FC8A7304495B5B0"
 			}
 			"oppstable"
 			{
-				"gid" "E62617CD726E06B8708C4ED68052FD2B"
-				"size" "71DA04709D82C45F967558DAB201AA0B"
-				"download" "778F654F6FF4F599AD5E8DF7ADF8A2E7"
+				"gid" "72F71EA87977D93E4A041A6324267C2A"
+				"size" "837BD90358A5B763BCF35D342B8652DF"
+				"download" "F122F0D9D368B0D23BA389C9C4B1069A"
 			}
 			"oppstable-debug"
 			{
-				"gid" "8C77273FDA911472362CB4D4A050C9A1"
-				"size" "8847CD7FFF7091D83ACB435F9C205DA1"
-				"download" "596E6D6C32768681D4EF594BA5277CEA"
+				"gid" "E7FF6567AD4A3EFD53EE1C82B20A5771"
+				"size" "2BEFA8354C64C59A5474DC54BADA08A4"
+				"download" "A6050004F765697FE88C4E798C18A4E4"
 			}
 			"opptest"
 			{
-				"gid" "2BEA566BB214A9C42E785622F86117D5"
-				"size" "F490AE0B10B2FD0FDE9EC0F0A9C8C5DC"
-				"download" "CF9BCEEDD586C70E7D36C6D4749E1D30"
+				"gid" "23601455165FFC0D759D4B067BC3C2E7"
+				"size" "959B2A43CA3C16A5DAB51E441B121A3C"
+				"download" "23F14368E4EF732B45EC1EB49752F751"
 			}
 		}
 	}
@@ -432,8 +444,8 @@
 	{
 		"public"
 		{
-			"buildid" "16232047"
-			"timeupdated" "1730296823"
+			"buildid" "16572919"
+			"timeupdated" "1733842786"
 		}
 		"cert"
 		{
@@ -443,9 +455,9 @@
 		}
 		"live-candidate"
 		{
-			"buildid" "16232047"
+			"buildid" "16572919"
 			"pwdrequired" "1"
-			"timeupdated" "1730287759"
+			"timeupdated" "1732843830"
 		}
 		"live-debug"
 		{
@@ -461,33 +473,33 @@
 		}
 		"oppqa"
 		{
-			"buildid" "16213771"
+			"buildid" "16689490"
 			"pwdrequired" "1"
-			"timeupdated" "1730205758"
+			"timeupdated" "1733836074"
 		}
 		"oppqa2"
 		{
-			"buildid" "16213771"
+			"buildid" "16676745"
 			"pwdrequired" "1"
-			"timeupdated" "1730217362"
+			"timeupdated" "1733763378"
 		}
 		"oppstable"
 		{
-			"buildid" "16214092"
+			"buildid" "16689756"
 			"pwdrequired" "1"
-			"timeupdated" "1730216628"
+			"timeupdated" "1733846599"
 		}
 		"oppstable-debug"
 		{
-			"buildid" "16213771"
+			"buildid" "16689490"
 			"pwdrequired" "1"
-			"timeupdated" "1730216672"
+			"timeupdated" "1733846650"
 		}
 		"opptest"
 		{
-			"buildid" "15954037"
+			"buildid" "16666739"
 			"pwdrequired" "1"
-			"timeupdated" "1728310439"
+			"timeupdated" "1733577490"
 		}
 	}
 }
@@ -531,6 +543,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25971426"
-"_sha" "692b8a21a3136837a779520e35c3d8a8e4f548fb"
-"_size" "9784"
+"_change_number" "26578230"
+"_sha" "4513f344fdfccda8fdcd729136fc966ef700ee8a"
+"_size" "10139"
