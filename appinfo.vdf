@@ -67,7 +67,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "4fa3b1ed7bccc9c4988b6364cea21cc54b80208e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -78,6 +78,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -126,8 +127,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0e8b2638f1fe79a5fc99f8bc2434aa08f5edb627/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0e8b2638f1fe79a5fc99f8bc2434aa08f5edb627/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1664241301"
+	"store_asset_mtime" "1730326320"
 	"associations"
 	{
 		"0"
@@ -236,6 +248,7 @@
 			"description_loc"
 			{
 				"english" "Resume from the latest save"
+				"japanese" "最新のセーブデータから再開します"
 			}
 			"description" "Resume from the latest save"
 		}
@@ -283,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "4581449294993574610"
-				"size" "3908651166"
-				"download" "3538907936"
+				"gid" "1638008263236308289"
+				"size" "3908656278"
+				"download" "3538901936"
 			}
 			"version_1.3.5"
 			{
@@ -335,27 +348,27 @@
 				"size" "3908650254"
 				"download" "3538908880"
 			}
+			"version_1.4.12"
+			{
+				"gid" "4581449294993574610"
+				"size" "3908651166"
+				"download" "3538907936"
+			}
+			"version_1.4.13"
+			{
+				"gid" "1638008263236308289"
+				"size" "3908656278"
+				"download" "3538901936"
+			}
+			"version_1.4.8"
+			{
+				"gid" "7062047616414499809"
+				"size" "3908650553"
+				"download" "3538908208"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"ph3_internal"
-			{
-				"gid" "5FA7FABA61D3A1D4F1EB6CB77B3EAA11"
-				"size" "29CA767F216BA51ED50BA80971643895"
-				"download" "D82DB195FA3189AE4B167D6601A726A0"
-			}
-			"test"
-			{
-				"gid" "3ADCC56B0CF87B320318B976E8F3CA08"
-				"size" "BCB679DF4AFA603E4EE156B5658A5389"
-				"download" "5E72FD82B28BF3808E88F60FB0F17AA2"
-			}
-			"version_1.0.0"
-			{
-				"gid" "BC11EA9E1F406EBCA90E2FD07AECED42"
-				"size" "15979A105F323134D84EA1640DDBB421"
-				"download" "B6C0DA4C0186782AE1AAAA476F3B4597"
-			}
 			"version_1.1"
 			{
 				"gid" "3370BE9A19AC8C0076E90490C2775544"
@@ -416,23 +429,23 @@
 				"size" "F54A94644A84303663ECBBD4F470E0D5"
 				"download" "C946DA0BF3A53659DAF94189DE2093BF"
 			}
-			"version_1.4.12"
-			{
-				"gid" "D3A15FF70A78A869C3EBF203765C6854"
-				"size" "62366FA3E77C38835FAA286141330C82"
-				"download" "52AF7ED2428265D72913247DCC341B16"
-			}
-			"version_1.4.8"
-			{
-				"gid" "DA05A806866F310E362A86A514259BF1"
-				"size" "EE7225C331A7CDA314C07CFC0ABD7C8C"
-				"download" "532A324A3CCE2A63D87513B36B3DB68C"
-			}
 			"version_1.4.9"
 			{
 				"gid" "31D2E803DB041BEBB9999E5BF6499164"
 				"size" "8D9AECC3B153F97A7169D0568611D185"
 				"download" "1B953A5EB713F820078E3A3A613AC586"
+			}
+			"ph3_internal"
+			{
+				"gid" "BB6D96034EDDD38FD32A99226FADE088"
+				"size" "C701F9FA8E8FA43FB3665F07E46DA98F"
+				"download" "71A4279907FD69FB2EF6143F090F04C2"
+			}
+			"test"
+			{
+				"gid" "E51FA76CE0B548998694B52074F3A81D"
+				"size" "3B3BD1FBAC37932A8DDB84F07FF5D6B8"
+				"download" "CAE0149CBC7EE7438222B042DCC3C2B5"
 			}
 		}
 	}
@@ -454,26 +467,8 @@
 	{
 		"public"
 		{
-			"buildid" "11953188"
-			"timeupdated" "1693250939"
-		}
-		"ph3_internal"
-		{
-			"buildid" "11953188"
-			"pwdrequired" "1"
-			"timeupdated" "1692219484"
-		}
-		"test"
-		{
-			"buildid" "11953188"
-			"pwdrequired" "1"
-			"timeupdated" "1692219494"
-		}
-		"version_1.0.0"
-		{
-			"buildid" "8936737"
-			"pwdrequired" "1"
-			"timeupdated" "1656530172"
+			"buildid" "16619567"
+			"timeupdated" "1733763541"
 		}
 		"version_1.1"
 		{
@@ -547,12 +542,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1684696283"
 		}
-		"version_1.4.12"
-		{
-			"buildid" "11953188"
-			"pwdrequired" "1"
-			"timeupdated" "1692219471"
-		}
 		"version_1.4.2"
 		{
 			"buildid" "10187435"
@@ -589,17 +578,41 @@
 			"description" "version_1.4.7"
 			"timeupdated" "1681386180"
 		}
-		"version_1.4.8"
-		{
-			"buildid" "11172448"
-			"pwdrequired" "1"
-			"timeupdated" "1683402228"
-		}
 		"version_1.4.9"
 		{
 			"buildid" "11226059"
 			"pwdrequired" "1"
 			"timeupdated" "1684001443"
+		}
+		"ph3_internal"
+		{
+			"buildid" "16619567"
+			"pwdrequired" "1"
+			"timeupdated" "1733256678"
+		}
+		"test"
+		{
+			"buildid" "16619567"
+			"pwdrequired" "1"
+			"timeupdated" "1733256763"
+		}
+		"version_1.4.12"
+		{
+			"buildid" "11953188"
+			"description" "version_1.4.12"
+			"timeupdated" "1692219471"
+		}
+		"version_1.4.13"
+		{
+			"buildid" "16619567"
+			"description" "version_1.4.13"
+			"timeupdated" "1733256752"
+		}
+		"version_1.4.8"
+		{
+			"buildid" "11172448"
+			"description" "version_1.4.8"
+			"timeupdated" "1683402228"
 		}
 	}
 }
@@ -633,16 +646,7 @@
 	}
 	"sync_while_suspended" "1"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statusfull" "%text%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26560937"
+"_sha" "68195c8b6e378b58564cb4421c7742218ddfc68f"
+"_size" "12811"
