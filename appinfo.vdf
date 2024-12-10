@@ -106,6 +106,55 @@
 			"height_pct" "58.02087529345809"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "27.12456344586728"
+				"height_pct" "58.02087529345809"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1708425545"
 	"associations"
 	{
@@ -141,6 +190,8 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -229,27 +280,27 @@
 	{
 		"0" "19"
 		"1" "6915"
-		"2" "4158"
-		"3" "4026"
+		"2" "4026"
+		"3" "4158"
 		"4" "1697"
-		"5" "29482"
-		"6" "4182"
+		"5" "4182"
+		"6" "29482"
 		"7" "6378"
-		"8" "4608"
-		"9" "5228"
-		"10" "492"
+		"8" "5228"
+		"9" "492"
+		"10" "4608"
 		"11" "4342"
 		"12" "1773"
-		"13" "4604"
-		"14" "42804"
-		"15" "1678"
-		"16" "1743"
-		"17" "1646"
-		"18" "4231"
-		"19" "4106"
+		"13" "42804"
+		"14" "1743"
+		"15" "1646"
+		"16" "4604"
+		"17" "1678"
+		"18" "4106"
+		"19" "4231"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -308,19 +359,13 @@
 		{
 			"public"
 			{
-				"gid" "5282468403512316512"
-				"size" "32205325608"
-				"download" "22489965296"
+				"gid" "7320643922585548258"
+				"size" "32503323528"
+				"download" "22693841744"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"development"
-			{
-				"gid" "7B80B4A9C8DBF0B2A6780797E813C5AD"
-				"size" "20E09886785852DA0C5345BC58CE1E66"
-				"download" "E50B0146FE8350A9E0FC9DA1BB6B5A1C"
-			}
 			"ignreview"
 			{
 				"gid" "961F4E6A984B5948152E2B0F8B3849FC"
@@ -351,6 +396,12 @@
 				"size" "5C05C3F55717C33AF0B123E981397619"
 				"download" "9FDF40D78177019421E6C27ACF74021D"
 			}
+			"development"
+			{
+				"gid" "C9E386FB45C4607FC77632FF5D13DBF1"
+				"size" "92450A9923E7B56CA091C7903C53AC38"
+				"download" "5BD92CCB676C5F39AB5867B133F6179D"
+			}
 		}
 	}
 	"2253841"
@@ -371,12 +422,6 @@
 		}
 		"encryptedmanifests"
 		{
-			"development"
-			{
-				"gid" "2FA88AFB0234BF896492010B82A7EF96"
-				"size" "A72724D83B6C9545DEBED38FEC388FAC"
-				"download" "371E9EC86AAA6BFC222C5E000AA587D1"
-			}
 			"ignreview"
 			{
 				"gid" "9B1201DA9AA40F31B10D61FBB70538A7"
@@ -407,6 +452,12 @@
 				"size" "39DCBB153FE2A8C30A3FB3C96D2CE432"
 				"download" "F7AE37A739101863017EC95FC5328C16"
 			}
+			"development"
+			{
+				"gid" "2FA88AFB0234BF896492010B82A7EF96"
+				"size" "A72724D83B6C9545DEBED38FEC388FAC"
+				"download" "371E9EC86AAA6BFC222C5E000AA587D1"
+			}
 		}
 	}
 	"workshopdepot" "2138710"
@@ -414,14 +465,8 @@
 	{
 		"public"
 		{
-			"buildid" "13457677"
-			"timeupdated" "1708434239"
-		}
-		"development"
-		{
-			"buildid" "13457677"
-			"pwdrequired" "1"
-			"timeupdated" "1707938500"
+			"buildid" "14964373"
+			"timeupdated" "1733824940"
 		}
 		"ignreview"
 		{
@@ -452,6 +497,12 @@
 			"buildid" "11852157"
 			"pwdrequired" "1"
 			"timeupdated" "1691052950"
+		}
+		"development"
+		{
+			"buildid" "14964373"
+			"pwdrequired" "1"
+			"timeupdated" "1720440673"
 		}
 	}
 }
@@ -486,6 +537,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22582675"
-"_sha" "fdf504e2bddd492d9093cfc8d9b616e46b4fdf4b"
-"_size" "9347"
+"_change_number" "26572718"
+"_sha" "b5ed47d7a6099b360fb4131546cb0a799905dd8e"
+"_size" "10106"
