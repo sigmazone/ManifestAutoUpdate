@@ -105,7 +105,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "b8b460df5ea30fa54cc9c2ee5534dd470224271d/capsule_231x87.jpg"
+		"english" "a247bbfb249b71dfed4d6e582e5bea2b1dbd4358/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -173,7 +173,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729620805"
+	"store_asset_mtime" "1731061388"
 	"associations"
 	{
 		"0"
@@ -317,7 +317,7 @@
 		"19" "3978"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -344,11 +344,32 @@
 		}
 		"1"
 		{
-			"executable" "game.exe"
+			"executable" "DeadIsland-Development.app"
 			"type" "default"
 			"config"
 			{
 				"oslist" "macos"
+				"betakey" "mac_dev_qa"
+			}
+		}
+		"2"
+		{
+			"executable" "DeadIsland-Test.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mac_test_qa"
+			}
+		}
+		"3"
+		{
+			"executable" "DeadIsland-Test.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mac_test_qa_daily"
 			}
 		}
 	}
@@ -386,13 +407,17 @@
 	}
 	"934701"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7441426498002419079"
-				"size" "76980393926"
-				"download" "67371185568"
+				"gid" "4520157714470513458"
+				"size" "76714058997"
+				"download" "67098748832"
 			}
 		}
 		"encryptedmanifests"
@@ -433,11 +458,29 @@
 				"size" "3D696B9C44C9EE0DCBDD2296F4EB876C"
 				"download" "CC07FD420235437D4F2F1C9A48DB0480"
 			}
+			"mac_dev_qa"
+			{
+				"gid" "BFF9EAF673948283CDACEC6B9A67D6C5"
+				"size" "B8580C7DA3A5C86F833FB9658270B4C2"
+				"download" "2CFC1F3E30D4E622A409AC87395C6B03"
+			}
+			"mac_test_qa"
+			{
+				"gid" "9151EDDF7D48D13D1733F14D9840ABCE"
+				"size" "81DB79A7E38922C17A4B981F8A3169FB"
+				"download" "FD3A35AD13D050672FBBFFE2D04DDA9C"
+			}
+			"mac_test_qa_daily"
+			{
+				"gid" "D45E2788BE84E6579BAD9DE737AA3B25"
+				"size" "6752E3211B308D03942C66F3919F381E"
+				"download" "DB442989DBB57533C81F85DC9E88127B"
+			}
 			"main_dev"
 			{
-				"gid" "858626656A3BD0F3896DEFD73A2409F7"
-				"size" "7D153DE5DE5362BF874E213A84123DDA"
-				"download" "C67544239F12C575785366B9CF4EDA85"
+				"gid" "B28D1E259F04FDF90B518288EEB658EB"
+				"size" "8F3547CBE63C57BB2207F96DB28D3B29"
+				"download" "CBE556ECC5FBE9213543AC3397884CFD"
 			}
 			"main_shipping"
 			{
@@ -447,21 +490,27 @@
 			}
 			"main_test"
 			{
-				"gid" "B0C4F0BBD7CD4FE7272F02549D9CDE79"
-				"size" "C5CE2BE11D9E9ECCF63E898A932236C1"
-				"download" "9D95BFFDB5E5C8C043513F7D63FA6FE6"
+				"gid" "626179897527F24C7D92DF32543A4EEE"
+				"size" "A2DC13AC651A6AAAC46F5997B4B28DF6"
+				"download" "57897E7C6655564798846B601FF46E92"
+			}
+			"ms_dev"
+			{
+				"gid" "0704269F6E15A430657DB6EC289A4A0B"
+				"size" "7350AD0A82C5CDE90FF4052D166904FF"
+				"download" "2D8F16FA5CAC0696485845935FF06BC6"
 			}
 			"ms_shipping"
 			{
-				"gid" "5553C40B674D4864CC494F2AF9D08F64"
-				"size" "453E797A5A46EA0852507B5ECF4D78C0"
-				"download" "8F20AA2C3FAC3F20E3C18A17BD541C33"
+				"gid" "26435D542B946E1994FDFF4785A73E64"
+				"size" "E2A50F587FC85403926ED3179BB0E723"
+				"download" "6939876C1A95B940932B16A54FABA611"
 			}
 			"release_candidate"
 			{
-				"gid" "81846CDC38BE88678F48C6F7A2BF10A7"
-				"size" "3868E739812BF9603E64C59301932A65"
-				"download" "A6CFFD9E0185E182D52A4CC05C58287C"
+				"gid" "A59A24203BF6F72CFA81D96B86B60908"
+				"size" "E9CB345A7F16A3BE19C37B8142A58FB7"
+				"download" "6F2FA84FD1F15B0BAFBB5AAFE7463300"
 			}
 			"review_build_01"
 			{
@@ -493,17 +542,27 @@
 				"size" "554770120DE957B2A28C4F561FFBE4F9"
 				"download" "FD2D422D4E77A2CE494552DC5A2AC430"
 			}
+			"steam_release_patch_6"
+			{
+				"gid" "ADED2DDC8E1EAAC74CF69612C017AB70"
+				"size" "5399AFAF908DB3D3418554F1422EC114"
+				"download" "390726E145CC31FC99000EBE8F90256C"
+			}
 		}
 	}
 	"934702"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "1524703388486036149"
-				"size" "388050432"
-				"download" "200218480"
+				"gid" "2858245023909888152"
+				"size" "384245760"
+				"download" "197344688"
 			}
 		}
 		"encryptedmanifests"
@@ -544,11 +603,29 @@
 				"size" "0E0F938FCB4D37E3C3EC50EA43542E9D"
 				"download" "421E892288921AB08EAE8D536AF1DE71"
 			}
+			"mac_dev_qa"
+			{
+				"gid" "7DEDA7136727FB69D002F8DFE9B80D8C"
+				"size" "26DFBC3A6A0BAF0B00CC5830D96A32D6"
+				"download" "6EA6CADE6232ACDE0D3C742C5CABFADA"
+			}
+			"mac_test_qa"
+			{
+				"gid" "6E2C0D3E4378C10BA409BBF3A1090F3B"
+				"size" "0C9283B964D988D4F6976FFCC96B5622"
+				"download" "41A84ACBA821B0130C3145E0522FF767"
+			}
+			"mac_test_qa_daily"
+			{
+				"gid" "5DCB9051F9F036DE7C9FBC6DD7765BDD"
+				"size" "920B906E629172B71E161C0BFF92F20C"
+				"download" "70A913277FF472945BED44E47E28EF07"
+			}
 			"main_dev"
 			{
-				"gid" "A9E0922B1094B958C79E541E0939929C"
-				"size" "FB880423DCE3B7C8C24E8448C7F6976C"
-				"download" "8E37FB3D0C98DAD706D437A0705C3A7E"
+				"gid" "E3DD68587D0DFFDC02F99DC45C7F6A1A"
+				"size" "C903F05E0FBE0E1554D5BE7D809A41F0"
+				"download" "CC2A048F0F25637306EA16185E538C77"
 			}
 			"main_shipping"
 			{
@@ -558,21 +635,27 @@
 			}
 			"main_test"
 			{
-				"gid" "A883A4535F75D0FB282F59E0DD7FC3B6"
-				"size" "F6B507563D17697E48DB435240B438F0"
-				"download" "C88D62775F226A15A280C7B7B09E16F3"
+				"gid" "A7E624850F555175C3AB3165AA9A38DD"
+				"size" "568590569C40D9FA80DCC5A24746811D"
+				"download" "BFC65AC77293D58A44351E5E6554FA53"
+			}
+			"ms_dev"
+			{
+				"gid" "2D3AE844520FC8DBE2344C0690BDD1ED"
+				"size" "7B8B74217D250E465C2D9B008A075B07"
+				"download" "22845F9201EC57895222559D355C228B"
 			}
 			"ms_shipping"
 			{
-				"gid" "CAEB90B29D1EBD7A4E989CC1DDCF0913"
-				"size" "704104038551D80C28593E61B296AED3"
-				"download" "79B1E160091E5F1D3EC9DF0714703C51"
+				"gid" "9FC48C7615E96A67A1E5A820D48B6E01"
+				"size" "BF78F35EF8F018266966CEAB81D92390"
+				"download" "EF9CB10088E985CD15F0B9C4196EAEBE"
 			}
 			"release_candidate"
 			{
-				"gid" "A5C6656CB664D5429A7B63A20DC3A983"
-				"size" "5E667E99187AD30199841EFF829BE98E"
-				"download" "53CC423A11B70BC0BB9BDB696E1C9BF1"
+				"gid" "13E666D645ED2E9EC802332847A22EE4"
+				"size" "7DCF5B89E5B3033CBE6CF270CE7A30CE"
+				"download" "869DE2113881433EA6C0F54A2FD885A9"
 			}
 			"review_build_01"
 			{
@@ -604,17 +687,27 @@
 				"size" "5625AA5D6F833B4D69635E8704BE735E"
 				"download" "702E7DD55C68A4D7C8E4C794267D8C73"
 			}
+			"steam_release_patch_6"
+			{
+				"gid" "9664FB9D335322883246523443A10624"
+				"size" "841212D84246691D31FB832BC93655DF"
+				"download" "07A29BDF37C38C89C06F8D8494D4A61C"
+			}
 		}
 	}
 	"934703"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "2810860994584484421"
-				"size" "384403968"
-				"download" "197701712"
+				"gid" "1968873050790886925"
+				"size" "373305856"
+				"download" "191385664"
 			}
 		}
 		"encryptedmanifests"
@@ -643,11 +736,29 @@
 				"size" "6BFAD0CCDA0987DD077E1E94529D14BE"
 				"download" "DE1A6262DC35C8C931D1F63A16AC1EB5"
 			}
+			"mac_dev_qa"
+			{
+				"gid" "FA39AF664B04CFEC94D6EC4FF4DB627E"
+				"size" "FFEE26C733CFA046F895A40EC1D9F3A4"
+				"download" "03BA12B73917279C27ACB99559DD4EE3"
+			}
+			"mac_test_qa"
+			{
+				"gid" "1BBB61178D72F9A5EBF2C990BC0B2A74"
+				"size" "5A73340F88CB3A929A5B733F4A3029FA"
+				"download" "8476D5C2736DE465B5AE17A71BD9788D"
+			}
+			"mac_test_qa_daily"
+			{
+				"gid" "C76304878654D41AEFCE6522C3DA37FC"
+				"size" "C3A7E50F6D82674284AEC914A02D8BBE"
+				"download" "73A79B06D05904B00BA12F2800A9728B"
+			}
 			"main_dev"
 			{
-				"gid" "24738B3A524F70476380613ED33B6670"
-				"size" "82909B42DBA4C7346340BA61239415D4"
-				"download" "A8F4BA1E40BDA2F02C9D1A97D786729D"
+				"gid" "E70F25587A560248DE99B31CEE724A23"
+				"size" "A3DBF49D24454C5C6927ECD3C43EF8E9"
+				"download" "FADDBCB157BE765B116F2F0975DC708A"
 			}
 			"main_shipping"
 			{
@@ -657,21 +768,27 @@
 			}
 			"main_test"
 			{
-				"gid" "0D01E183D8EC4B5304BB8765FAE24CF6"
-				"size" "50E2095D5292DB77A62FD84367AD7B97"
-				"download" "4C496AE112FECD322BD639210B0AAE0F"
+				"gid" "AA46D04F7AF8409A173CF5163109138F"
+				"size" "69864A32640A516D7EABEC77CD706B1D"
+				"download" "FD68D75297EE23667F4887C8767E9CF7"
+			}
+			"ms_dev"
+			{
+				"gid" "58EF94509601900E0703C408F0AE8471"
+				"size" "489DE869C6DE9CB2F1221943C400D921"
+				"download" "936630AFE84FE986024244F8999D9655"
 			}
 			"ms_shipping"
 			{
-				"gid" "EDADEBA6558CA9B4F1EE138F8909FFA4"
-				"size" "C297719E4EED2BF17BF98303B399469C"
-				"download" "8F6C3BED3DA283BF409D7FCAA8714565"
+				"gid" "C02B77B9FB6D9E24B14547F52BBD4EAD"
+				"size" "F0B8638312B77A5FF5F3C8D4B90C75E4"
+				"download" "364B3D06AA07F9581528EB90389AFD1F"
 			}
 			"release_candidate"
 			{
-				"gid" "293766BA06112FC518E7D6EA36519BCE"
-				"size" "82E9832171F19E3FDE81374922C3FC96"
-				"download" "EB3126A2111870E3C6C379447FD8004E"
+				"gid" "807CDD49E5F15117E2D620FDB1DE025C"
+				"size" "3B2A595173B6DEA80D46F761651CD18F"
+				"download" "5A208A1D6F2D96817DF6FECB0C32E6F0"
 			}
 			"review_build_01"
 			{
@@ -703,6 +820,12 @@
 				"size" "F80A4ABB67ADEC20085C18AA6463F256"
 				"download" "49F02F1E6FFB129222A52F1307A4E110"
 			}
+			"steam_release_patch_6"
+			{
+				"gid" "3454986950BB909018FAA14F66B068B5"
+				"size" "A0B7DE93286F855CE0C8F35D52551620"
+				"download" "F9D98423ED62A114355444BCE2000EA1"
+			}
 		}
 	}
 	"934704"
@@ -711,13 +834,37 @@
 		{
 			"oslist" "macos"
 		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"mac_dev_qa"
+			{
+				"gid" "AC1437A6980C051D41741294186C6B85"
+				"size" "36E66186EE198F73FC18AF30355A27D8"
+				"download" "FDBD84A924627BA9CFED9DA843D0B8E2"
+			}
+			"mac_test_qa"
+			{
+				"gid" "18EF14039F85C487EBA59072ED7FC630"
+				"size" "0A13A239A6E1338F478CE49DAD023534"
+				"download" "E8B2EF6A1FABB870AEFC4C08905CB771"
+			}
+			"mac_test_qa_daily"
+			{
+				"gid" "2FDF8AF84A3817EB165836F5B2AAA478"
+				"size" "4ED6289E25D5075A57C61F307232F387"
+				"download" "0A49B14A68669C3C9415C8F462CB76A6"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15791649"
-			"timeupdated" "1729609318"
+			"buildid" "16390662"
+			"timeupdated" "1733846049"
 		}
 		"crossplay"
 		{
@@ -755,11 +902,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1710850991"
 		}
+		"mac_dev_qa"
+		{
+			"buildid" "16625992"
+			"pwdrequired" "1"
+			"timeupdated" "1733301218"
+		}
+		"mac_test_qa"
+		{
+			"buildid" "16678031"
+			"pwdrequired" "1"
+			"timeupdated" "1733734345"
+		}
+		"mac_test_qa_daily"
+		{
+			"buildid" "16695951"
+			"pwdrequired" "1"
+			"timeupdated" "1733845307"
+		}
 		"main_dev"
 		{
-			"buildid" "16117116"
+			"buildid" "16474827"
 			"pwdrequired" "1"
-			"timeupdated" "1729478357"
+			"timeupdated" "1732119115"
 		}
 		"main_shipping"
 		{
@@ -769,21 +934,27 @@
 		}
 		"main_test"
 		{
-			"buildid" "16144917"
+			"buildid" "16481915"
 			"pwdrequired" "1"
-			"timeupdated" "1729651286"
+			"timeupdated" "1732167557"
+		}
+		"ms_dev"
+		{
+			"buildid" "16183959"
+			"pwdrequired" "1"
+			"timeupdated" "1729878271"
 		}
 		"ms_shipping"
 		{
-			"buildid" "16116750"
+			"buildid" "16232293"
 			"pwdrequired" "1"
-			"timeupdated" "1729474213"
+			"timeupdated" "1730370221"
 		}
 		"release_candidate"
 		{
-			"buildid" "15791649"
+			"buildid" "16390662"
 			"pwdrequired" "1"
-			"timeupdated" "1727077222"
+			"timeupdated" "1731493992"
 		}
 		"review_build_01"
 		{
@@ -815,6 +986,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1715864838"
 		}
+		"steam_release_patch_6"
+		{
+			"buildid" "15791649"
+			"pwdrequired" "1"
+			"timeupdated" "1730110101"
+		}
 	}
 }
 "ufs"
@@ -828,17 +1005,45 @@
 			"root" "WinAppDataLocal"
 			"path" "DeadIslandSteam/Saved/SaveGames"
 			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
 		}
 		"1"
 		{
 			"root" "WinAppDataLocal"
 			"path" "DeadIslandSteam/Saved/SaveGames"
 			"pattern" "*.bak.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "Epic/DeadIsland/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Epic/DeadIsland/Saved/SaveGames"
+			"pattern" "*.bak.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
 		}
 	}
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25849618"
-"_sha" "1b0e19793838c7d70090e82a7f905c71b001148d"
-"_size" "18165"
+"_change_number" "26578030"
+"_sha" "e280cf0672cd763688d1bb9d608da2881ced5243"
+"_size" "22920"
