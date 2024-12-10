@@ -31,6 +31,7 @@
 			"version" "3"
 		}
 	}
+	"openvrsupport" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -132,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730477631"
+	"store_asset_mtime" "1733235799"
 	"associations"
 	{
 		"0"
@@ -161,6 +162,7 @@
 		"category_49" "1"
 		"category_36" "1"
 		"category_18" "1"
+		"category_53" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -205,7 +207,7 @@
 		"10" "599"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -213,7 +215,7 @@
 	"developer" "Studio 397"
 	"publisher" "Studio 397"
 	"homepage" "http://lemansultimate.com"
-	"listofdlc" "2973280,2973290,2997280,3151390"
+	"listofdlc" "2973280,2973290,2997280,3151390,3260810,3307210"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -235,6 +237,12 @@
 				"english" "Le Mans Ultimate"
 			}
 			"description" "Le Mans Ultimate"
+		}
+		"2"
+		{
+			"executable" "Le Mans Ultimate.exe"
+			"arguments" "+VR"
+			"type" "vr"
 		}
 	}
 	"steamcontrollertouchtemplateindex" "8"
@@ -259,18 +267,18 @@
 		{
 			"public"
 			{
-				"gid" "2571416775495391002"
-				"size" "25378803472"
-				"download" "23935814784"
+				"gid" "6577912985277357261"
+				"size" "28808294602"
+				"download" "27392239504"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"art-dev"
 			{
-				"gid" "A1C1FA48BBA1543EC21A64A4F22D562D"
-				"size" "57ACAEF0272DC19EF2E12DDDA18CEC65"
-				"download" "A5B9C1B547C08DC9BFEFC9EF27D9A75F"
+				"gid" "D66DA80A29419B93BBCF2DF97AD54513"
+				"size" "A97666411164111E7C11282E3E172A76"
+				"download" "630A7EA2E16D389BCF0F08EDADB75BD2"
 			}
 			"art-dev-old"
 			{
@@ -278,23 +286,17 @@
 				"size" "3A8A4EF37795A7EAB2A3E1682F2C3B1F"
 				"download" "57E6B9556ABD3B64FB82DBFAE7C3536D"
 			}
-			"beta"
-			{
-				"gid" "7A6B4C6C0FE0986B9C772ACF30ED1F2C"
-				"size" "D40172ACFAE6ECD1BD2B481CB9F1E741"
-				"download" "D57D3D26B00F0009275724CE7D825D9D"
-			}
 			"develop"
 			{
-				"gid" "2FD7F01A2A117217EB0ED396D41A6DD0"
-				"size" "1D18900407E277A82D7739B5F8500250"
-				"download" "3816962AEC80721F9D6D8A0D4866387D"
+				"gid" "46744BE7ED6A96223B4AD4970123002D"
+				"size" "8A17B2E0B44961D179965F8693BC64F1"
+				"download" "6C42BED41E57A2CAE698A79FCB9A178D"
 			}
 			"lm-as"
 			{
-				"gid" "607AC4A8F1158427F556580B8FF6C8BF"
-				"size" "C51D1443E6C277CD70808B5641C29E74"
-				"download" "201034FF10B673CA3AB56308574B0857"
+				"gid" "318A66F44D9C6663C5484D2E5AF25170"
+				"size" "8AE8EE4D520BE39DFDA86DF3095DAA75"
+				"download" "1D4A69C372061F6073A9A0A6205E9045"
 			}
 			"lmu-act"
 			{
@@ -322,9 +324,9 @@
 			}
 			"lmu-dja"
 			{
-				"gid" "6B7093EBC6C405E4620DA7BEA12BFDB4"
-				"size" "7AF1D3B938AFF5554F191AB1861880B2"
-				"download" "017C9BDAF4E6FA2B99084E037C69EFF6"
+				"gid" "AAA3A76122725DDD740E15890C9D0A5E"
+				"size" "968D0211271084811BF5D638F3711677"
+				"download" "25EF008DB5B9DA8447149388FFC1E39B"
 			}
 			"lmu-mem"
 			{
@@ -334,21 +336,21 @@
 			}
 			"lmu-promo"
 			{
-				"gid" "5B41C5102E30DECF5D02EE18769F4FBC"
-				"size" "26C32D92930E0482744D5A475039B77A"
-				"download" "38719932E1766CA788324B7CB38EBDC3"
+				"gid" "41AA32347CDDE9BF33F69A9A298832C8"
+				"size" "B7ADAADF55DAB1A35BFFC94D80170395"
+				"download" "276307DDC26262E40455422220E5FFF9"
 			}
 			"lmu-skinning"
 			{
-				"gid" "7056A53D657C1C23DB2B553342F3F50A"
-				"size" "FDF195B7757E3C5F29E471A0282656D5"
-				"download" "BE744B4A478628CF0009897E3C0241EB"
+				"gid" "5328265863E831125818CFC9971FB1A4"
+				"size" "7F4B72E0CE93040330F5DDB4B8AB7EE9"
+				"download" "FFB5467D0814212E126E0B6274E73603"
 			}
 			"pre-release"
 			{
-				"gid" "F428CECDF331A1715F11EE4A9F630616"
-				"size" "72C5CEE85D32D30997C05E7C0F7DD6CA"
-				"download" "02F541F8DBBC6313F63938FAC7742CB7"
+				"gid" "5ADACBDCF8896C829D4FFB1613B8EBBB"
+				"size" "54E0C3BCFB2AA09895D2C1E3EACC2E2E"
+				"download" "516666BC9E68EF4FF095512C1DC6F4E0"
 			}
 			"previous-release"
 			{
@@ -368,11 +370,17 @@
 				"size" "8C80C9801193C5BC12440197A32C1015"
 				"download" "DC9753EBB6DDB62CD6E808340E23070F"
 			}
+			"release-candidate"
+			{
+				"gid" "3B10FD7E82D0DA17106268EED52FFCC4"
+				"size" "2B777AB1A839C1B166872E4E15DE0CC3"
+				"download" "FFF827E92759DA750B1F33AF1E9045B9"
+			}
 			"test-alpha"
 			{
-				"gid" "52F031A8AFB77AA8CD78CB26363A01BE"
-				"size" "F75B03D4A9ECEF91049B2A2A2F8C4CD6"
-				"download" "9EB7DFCA08D7C3452DE7D0808AEFC642"
+				"gid" "31038DCAEC37CD48A7FE3F5C95F1E7E2"
+				"size" "49769666116548D00516CFA84F967825"
+				"download" "2A7DD01B89816964D2321F44EC923B23"
 			}
 			"test-bb"
 			{
@@ -382,21 +390,15 @@
 			}
 			"test-ext"
 			{
-				"gid" "53B99A30CC07619C30D97EC3DF32AB30"
-				"size" "171CB29212F4331028D38BC7D4720E05"
-				"download" "8E863C96855915D6FD022E980C8A95C4"
+				"gid" "630238740A7FB7DEA5743C2D6DC10630"
+				"size" "E193CC121D03073BA359C4A0849F437C"
+				"download" "88678C1E0B0D7F85C6ABD93293E9ABB0"
 			}
 			"test-partners"
 			{
-				"gid" "7CE99550D2DC428C76D43830BAE684A3"
-				"size" "2BDF26ABB21328DB290509A64A52A440"
-				"download" "07CFE7C9D8B5D5E011908B60EF0D4D24"
-			}
-			"test-setups"
-			{
-				"gid" "F96335D44C9FF83ABD687DBDCBA6A261"
-				"size" "0BAFC7037065D0446B2FCAB22FF6F301"
-				"download" "69011A8DEB4C8CFF9E115D02B785E524"
+				"gid" "ABE9F6021FEC2E6AB6533501C5C2A194"
+				"size" "DA661216A355F5CE6ED92A39062FDFBE"
+				"download" "2ED8B07C2602A6B840A65DA391910E2D"
 			}
 		}
 	}
@@ -405,14 +407,14 @@
 	{
 		"public"
 		{
-			"buildid" "16378593"
-			"timeupdated" "1731578413"
+			"buildid" "16661462"
+			"timeupdated" "1733824795"
 		}
 		"art-dev"
 		{
-			"buildid" "16301538"
+			"buildid" "16634988"
 			"pwdrequired" "1"
-			"timeupdated" "1730889057"
+			"timeupdated" "1733395782"
 		}
 		"art-dev-old"
 		{
@@ -420,23 +422,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730184192"
 		}
-		"beta"
-		{
-			"buildid" "16400797"
-			"pwdrequired" "1"
-			"timeupdated" "1731576514"
-		}
 		"develop"
 		{
-			"buildid" "16400420"
+			"buildid" "16688503"
 			"pwdrequired" "1"
-			"timeupdated" "1731570551"
+			"timeupdated" "1733816373"
 		}
 		"lm-as"
 		{
-			"buildid" "16365834"
+			"buildid" "16659069"
 			"pwdrequired" "1"
-			"timeupdated" "1731333355"
+			"timeupdated" "1733740116"
 		}
 		"lmu-act"
 		{
@@ -464,9 +460,9 @@
 		}
 		"lmu-dja"
 		{
-			"buildid" "16391309"
+			"buildid" "16632921"
 			"pwdrequired" "1"
-			"timeupdated" "1731500265"
+			"timeupdated" "1733335712"
 		}
 		"lmu-mem"
 		{
@@ -476,21 +472,21 @@
 		}
 		"lmu-promo"
 		{
-			"buildid" "15999865"
+			"buildid" "16550753"
 			"pwdrequired" "1"
-			"timeupdated" "1728899840"
+			"timeupdated" "1732716605"
 		}
 		"lmu-skinning"
 		{
-			"buildid" "16400797"
+			"buildid" "16658702"
 			"pwdrequired" "1"
-			"timeupdated" "1731582011"
+			"timeupdated" "1733502808"
 		}
 		"pre-release"
 		{
-			"buildid" "16378593"
+			"buildid" "16661462"
 			"pwdrequired" "1"
-			"timeupdated" "1731418121"
+			"timeupdated" "1733729270"
 		}
 		"previous-release"
 		{
@@ -510,11 +506,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1730279681"
 		}
+		"release-candidate"
+		{
+			"buildid" "16660824"
+			"pwdrequired" "1"
+			"timeupdated" "1733514091"
+		}
 		"test-alpha"
 		{
-			"buildid" "16378593"
+			"buildid" "16660824"
 			"pwdrequired" "1"
-			"timeupdated" "1731422482"
+			"timeupdated" "1733515468"
 		}
 		"test-bb"
 		{
@@ -524,25 +526,19 @@
 		}
 		"test-ext"
 		{
-			"buildid" "16400797"
+			"buildid" "16660824"
 			"pwdrequired" "1"
-			"timeupdated" "1731581982"
+			"timeupdated" "1733515482"
 		}
 		"test-partners"
 		{
-			"buildid" "16371891"
+			"buildid" "16660824"
 			"pwdrequired" "1"
-			"timeupdated" "1731415427"
-		}
-		"test-setups"
-		{
-			"buildid" "16400797"
-			"pwdrequired" "1"
-			"timeupdated" "1731581959"
+			"timeupdated" "1733515499"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26191330"
-"_sha" "cc398244baf8dc610fc7d14491ae17ef8f3f0891"
-"_size" "11114"
+"_change_number" "26572977"
+"_sha" "7264c1d62017026aa035ddaf08c7f33c590109a7"
+"_size" "11014"
