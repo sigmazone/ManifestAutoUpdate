@@ -96,6 +96,48 @@
 			"height_pct" "72.79743528853001"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "36.85883672487495"
+				"height_pct" "72.79743528853001"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1667780939"
 	"associations"
 	{
@@ -204,16 +246,16 @@
 		"7" "1654"
 		"8" "10383"
 		"9" "1643"
-		"10" "4252"
-		"11" "4182"
+		"10" "4182"
+		"11" "4252"
 		"12" "4791"
 		"13" "5411"
 		"14" "4328"
 		"15" "5350"
-		"16" "1756"
-		"17" "8945"
+		"16" "8945"
+		"17" "1756"
 		"18" "25085"
-		"19" "3859"
+		"19" "1716"
 	}
 	"review_score" "9"
 	"review_percentage" "96"
@@ -263,6 +305,18 @@
 		{
 			"public"
 			{
+				"gid" "4828265797970559162"
+				"size" "212283693"
+				"download" "139478128"
+			}
+			"1.12_aurora_borealis"
+			{
+				"gid" "325012004176255820"
+				"size" "229472144"
+				"download" "140704496"
+			}
+			"1.13_sea_to_sky"
+			{
 				"gid" "3298530745439219511"
 				"size" "211220581"
 				"download" "138455936"
@@ -279,38 +333,38 @@
 				"size" "228740219"
 				"download" "140050032"
 			}
-			"macos_sonoma_14.2_fix"
-			{
-				"gid" "2531793488357174236"
-				"size" "211723287"
-				"download" "138099520"
-			}
 		}
 		"encryptedmanifests"
 		{
-			"beta-testing"
+			"beta"
 			{
-				"gid" "6C30A20F1AADD14FC81DF5D74C8F52AE"
-				"size" "62A2466D9464D7A78BC9A790BB7AAF22"
-				"download" "3DD6BD7314193607AA1229A76DC1095F"
+				"gid" "4E32CA8AA259C44433ACABDB405BD49F"
+				"size" "37A5363F24A55ED9545E8928E7B0F456"
+				"download" "2A1483C366FBAD3DFBA42D393C88996A"
+			}
+			"ignorebrokenprofiles"
+			{
+				"gid" "72DC49EDE872C3CEA53CDB10D1E7994A"
+				"size" "33CBA341F0ACE3526B69DDF53362C4A2"
+				"download" "260E20DDEF82ABC7A4CE9CE89D27408D"
 			}
 			"internal"
 			{
-				"gid" "B5407044B3CCD967CA4F696CA2CD0634"
-				"size" "D7F37DC35FCF7D4BA1A0D0EA7D097898"
-				"download" "DDA2B9F9DCF39A510604023F8667E323"
+				"gid" "1E8BD6B81664F3994E8B886A1BCAD27A"
+				"size" "06629EDB8B953A3AF0DACCF28A1D4B8D"
+				"download" "F6434B37702EE64AAFD6632B91878CE5"
 			}
 			"internal-dev"
 			{
-				"gid" "ED954B0194F326AEF0479706452DEDED"
-				"size" "1C1A0C31300E0E6F54E201ABEAADDDC9"
-				"download" "396241720A7E524E76635CDB3E0FD612"
+				"gid" "9271DAE820C1351550A418EA25C7AD5C"
+				"size" "A7338FAA105AA85BF45760CA3006BEB9"
+				"download" "C51F65C83B2B0DB3F7642230B76F6627"
 			}
 			"internal-release"
 			{
-				"gid" "3AAD1C80C6BFF845A7C2CFE89AA82F02"
-				"size" "238ED053788CE1E4BE82C0582486F678"
-				"download" "467040C9BD895B011E55A3E81679B526"
+				"gid" "53719E60A832E48453C4089DB6A3B2A7"
+				"size" "AD8D1F079BBD29443A04F73F76938E32"
+				"download" "782D7C0102841A22E4939DC0A119757A"
 			}
 			"marketing"
 			{
@@ -326,63 +380,39 @@
 			}
 			"nightly"
 			{
-				"gid" "10B118931178DBB992F4766B5F04A853"
-				"size" "3EFF5F811EA349D6A2CE63F661EAFC65"
-				"download" "9EB39E02F5C003047C951EACBA158C0D"
+				"gid" "D2F18FBFFAB502F00DA6BEF351038334"
+				"size" "62151330E56B39388800676236D46F78"
+				"download" "FBA915CC249B43E53261DD5F9081D71F"
 			}
 			"nightly-marketing"
 			{
-				"gid" "468DD646450E4B15EA9FAC4152B78A67"
-				"size" "1526A2F1336CE1173F5939FE22895E35"
-				"download" "4D177DEB9E8429077F2E2064DAEAB9AD"
+				"gid" "4BD4CC3BFD0A0AAEE8910BC54E13F49E"
+				"size" "689CE0A5875A8F972622106E428B73DA"
+				"download" "AF629C67A8BB952D6C95267D3CECDCBD"
 			}
 			"press"
 			{
-				"gid" "C8F929CF3CE2119BE5B05BFC41BC8EBC"
-				"size" "E01A1FB5CD121E3BA82F88ED6E1BECCB"
-				"download" "1E1CCBAC0A4C0D9BBF20D440AB97C60D"
+				"gid" "6E9270B4CEB2EE73678665B99FA113C9"
+				"size" "4D2306986C3987AC3CB6A2F60F1771CF"
+				"download" "69C62A7FF8EC03F198B2B9F1C8313F43"
 			}
 			"previously-live"
 			{
-				"gid" "FFE77A6DEC52B4F6384CEC406C30BEFB"
-				"size" "1BA547F57387B50F7CC8E71EA0E5FAB2"
-				"download" "C696ED1853FA28A4F95C9505EFF6181C"
-			}
-			"prototyping"
-			{
-				"gid" "20CB821D521DBDD7E115DA916388D7BC"
-				"size" "C50329030732A25A6E0E0B0DB04567E1"
-				"download" "EE2F7CA2A53E5567B2D89FB7C22B7918"
+				"gid" "833F85B0911DA744AE6F986C04AA5F07"
+				"size" "72F7F13E55A31875B1B0E43C884161B7"
+				"download" "1F6001982CA0A0B8763B49E627F0C888"
 			}
 			"qa-testing"
 			{
-				"gid" "270E4D2CC0ABB2CCAB0470087542F72C"
-				"size" "1048989B5669DAF1450CFF149AB7F856"
-				"download" "2BFBD38E5DB3C8D2FE2E7FA572AA021B"
+				"gid" "4F746BF6833FAA57EADD44D578B4A115"
+				"size" "29A1814E95D9B6C112B73F1D447158CC"
+				"download" "BF96C2ED1760F6333E05F46EF5D689D9"
 			}
 			"staging"
 			{
-				"gid" "9591609D9814E62130CBE899302D57C4"
-				"size" "95E9B44C49BB26BBC2A6A6B2E6DDD0C8"
-				"download" "1FD9D97F523C0835563292FD0B8F06F9"
-			}
-			"unity-fix-auto-graphics"
-			{
-				"gid" "4DE72D4CEF51BA36F22BE22A5B56F73C"
-				"size" "7A7C51243011CFA2614E7DC2111043EE"
-				"download" "3B17B3BBC93F84EE51A64FC2EFFD5A5D"
-			}
-			"unity-fix-revert-urp-config"
-			{
-				"gid" "09229E760B50285BC4AAF763A7BC3E50"
-				"size" "91925F4FAA81ECAC51924456A7AFD66A"
-				"download" "F848664B5142245AB0A1B7A8866E3CFE"
-			}
-			"unity-fix-shader-fallback"
-			{
-				"gid" "FC3299A8002A68510E02CF31C6FB75F3"
-				"size" "9001160A44DD9C0F7357502F074495DB"
-				"download" "631EF8C506C526D9A404668088A6387D"
+				"gid" "41F5B09A6379853260269AC6DEFF0463"
+				"size" "F4385138FAEE15B1B8E2B9224229345A"
+				"download" "7E5B9F684273F097C331530C44C92F03"
 			}
 		}
 	}
@@ -396,6 +426,18 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "628639913771491590"
+				"size" "252069951"
+				"download" "146759680"
+			}
+			"1.12_aurora_borealis"
+			{
+				"gid" "3507045339804861328"
+				"size" "240560277"
+				"download" "141967088"
+			}
+			"1.13_sea_to_sky"
 			{
 				"gid" "5654666692623627303"
 				"size" "250983532"
@@ -413,38 +455,38 @@
 				"size" "239735568"
 				"download" "141301600"
 			}
-			"macos_sonoma_14.2_fix"
-			{
-				"gid" "7922029255982665549"
-				"size" "255221069"
-				"download" "146427040"
-			}
 		}
 		"encryptedmanifests"
 		{
-			"beta-testing"
+			"beta"
 			{
-				"gid" "B21B3433BB19581973A4EFE434135FF7"
-				"size" "C391E9DC49ECA850CA0EC6C0C7D223F0"
-				"download" "22A7A044439226B3C01B40C370ED94F0"
+				"gid" "6222E7436D8ECFBF92DB2243CD4AB15C"
+				"size" "2343ACAD3E15A375D56293EA275DA7A7"
+				"download" "65C0ABFD840CD8D94FE8B5C71EF22D82"
+			}
+			"ignorebrokenprofiles"
+			{
+				"gid" "EE1800E511C64E153AC64E2E6AE43B83"
+				"size" "534CACEE52B1CE58F876E9BC59EFC98E"
+				"download" "29B02053FA6E4C21B57160062C0A4A76"
 			}
 			"internal"
 			{
-				"gid" "E8B752D7C3A49D57105FEFA747E46075"
-				"size" "AC3B93E2C5D885A2D81048F8E480C656"
-				"download" "EF9A7CAEBF36267FD6644EA88809A403"
+				"gid" "59FA7F5C1820CCE3A310067AE219410D"
+				"size" "14DE8B78016AB88FABC1E431C59D6D88"
+				"download" "027B531D352946BCE3F8FF7BD5D788AD"
 			}
 			"internal-dev"
 			{
-				"gid" "74A465947ACD4071F10D280C94F2B1C5"
-				"size" "0D811CE66744034EA6ADE808F7BFBF0B"
-				"download" "7AF19EBA22F83E9C7CCEF19FF786D901"
+				"gid" "45C2FC007AE560E1CE33A07825787715"
+				"size" "E0AA7089D64FC66042C6C0F2C58DB310"
+				"download" "3EE7283D53D240DE5842ECC53F783726"
 			}
 			"internal-release"
 			{
-				"gid" "5C0FD6FA79F385C2BAD63F7E84520EE2"
-				"size" "83DEBBCC5265E4FA441D18304583A12C"
-				"download" "AA8EAD3C9C55C9F9AD8F9FBC9E8F8856"
+				"gid" "912781C481098F7E2A0A65676E54CDD3"
+				"size" "7FDD2FF60F4A679CF0A7E7147D865112"
+				"download" "F9099AD6732099F8CA865F5187B82C2C"
 			}
 			"marketing"
 			{
@@ -460,63 +502,39 @@
 			}
 			"nightly"
 			{
-				"gid" "EFBC028155F7380E9DBA0BC3829563D6"
-				"size" "B783F0D0E4C70F694F94424DD1E9FF28"
-				"download" "8AD4E803C9C8BA0B698CD0C2F861A654"
+				"gid" "57AB0AEDD106769AF0FEA7B4789C24DB"
+				"size" "2F332C0281AE5FD1CF332C2165472ED7"
+				"download" "A35DEA0F9F60432E4E6D58FFCD4ADDB3"
 			}
 			"nightly-marketing"
 			{
-				"gid" "47C31CAA0EA4B59DE03B11BCA4058DF0"
-				"size" "2ACE45128066E90DC65D5BCB15D4636D"
-				"download" "A1740CF2B680E43E8CECAB71EC2BE070"
+				"gid" "81BBE3FE50D80A814628429DDE605103"
+				"size" "979E8EC576932301285231EAE5147FC7"
+				"download" "4BFE8A22D596FD8B5CECB2557E08430E"
 			}
 			"press"
 			{
-				"gid" "0DA6C0519C1B27D867B122A263F03D78"
-				"size" "1D25024A8281F42F5C6DA2196B065F0F"
-				"download" "14409832C858715AD1F702E68B5BB6B0"
+				"gid" "FB86FDDF0A2E4FBB04B4D6AFAC8716FC"
+				"size" "FEECA1E9079FD084D3E524CE20E0EADE"
+				"download" "2FEC246AC2058E29BB340759EDF84E5D"
 			}
 			"previously-live"
 			{
-				"gid" "A00C71F2E3985F3D90CA7CFA4FC0944B"
-				"size" "784FDC95A065DD72C7E1783B77D5B364"
-				"download" "2AD56CC71F688DCDB68ACDA07011FAF0"
-			}
-			"prototyping"
-			{
-				"gid" "44EF1CCADFD689E29E12B8E524A1C2A0"
-				"size" "696F3D4B240818A1DF976CC4EECD1E51"
-				"download" "B6CCA5F96DBD927CF9F077EAE71C378C"
+				"gid" "2C34E430E721FFA9DE7BFE21B53BD4D9"
+				"size" "9F44D3766623D7F99645878FA9C975CE"
+				"download" "1A56108016412C56592C5B30579EFEC5"
 			}
 			"qa-testing"
 			{
-				"gid" "16B58874A753B9D5E79060497B8E108D"
-				"size" "9E914D381B72EDFD87BE0503709C4324"
-				"download" "B29B4A1F04919F436E67A3686702E061"
+				"gid" "D09D015772592F3E075FAF533C0C3327"
+				"size" "1E5B45D38759D0B59012F12749A0A78A"
+				"download" "086DA50D43FD99E73E58A74447BC7240"
 			}
 			"staging"
 			{
-				"gid" "858382DE570141EA1F0CB31393E830D8"
-				"size" "327B2B6E1976C0CD80B094E8487BC6CE"
-				"download" "81226F5E3E6E63584460B02F80DC48FF"
-			}
-			"unity-fix-auto-graphics"
-			{
-				"gid" "71618D0057159015075137C9831FFB0D"
-				"size" "AC660B055F9C7221807E3460E2E7B47E"
-				"download" "FB7A0A5DDA7E366F02312A4688629438"
-			}
-			"unity-fix-revert-urp-config"
-			{
-				"gid" "53EA9AACE755C26B861579468679BCFF"
-				"size" "0911DD0EF624B29026FF77C4307A8BD0"
-				"download" "8D0CF0AFAC1D9886A1DE4BE092C665F8"
-			}
-			"unity-fix-shader-fallback"
-			{
-				"gid" "6361473EE767C1C1441780587BA0FE07"
-				"size" "9A967BEC8794BAB1A007DF03FE59D2CC"
-				"download" "B9A1029BDC45CD3CD25CBF46AC208B24"
+				"gid" "E23861C034644F5A8535170DAA9FC9B2"
+				"size" "C6321FCD6E9B49AD889C09244D30EF61"
+				"download" "BBDE230EADCD4818989AAAAC2BD08574"
 			}
 		}
 	}
@@ -524,14 +542,32 @@
 	{
 		"public"
 		{
-			"buildid" "14621867"
-			"timeupdated" "1717718121"
+			"buildid" "16320274"
+			"timeupdated" "1733776199"
 		}
-		"beta-testing"
+		"1.12_aurora_borealis"
 		{
-			"buildid" "13866384"
+			"buildid" "12945442"
+			"description" "A snapshot of the game for the Aurora Borealis update"
+			"timeupdated" "1718077841"
+		}
+		"1.13_sea_to_sky"
+		{
+			"buildid" "14621867"
+			"description" "A snapshot of the game for the sea to sky update"
+			"timeupdated" "1733775948"
+		}
+		"beta"
+		{
+			"buildid" "16159868"
 			"pwdrequired" "1"
-			"timeupdated" "1711578731"
+			"timeupdated" "1730328578"
+		}
+		"ignorebrokenprofiles"
+		{
+			"buildid" "14789416"
+			"pwdrequired" "1"
+			"timeupdated" "1718944500"
 		}
 		"1.10_endless_expert"
 		{
@@ -547,27 +583,21 @@
 		}
 		"internal"
 		{
-			"buildid" "13503100"
+			"buildid" "15924530"
 			"pwdrequired" "1"
-			"timeupdated" "1708394345"
+			"timeupdated" "1728010869"
 		}
 		"internal-dev"
 		{
-			"buildid" "13640203"
+			"buildid" "16663055"
 			"pwdrequired" "1"
-			"timeupdated" "1709601816"
+			"timeupdated" "1733529861"
 		}
 		"internal-release"
 		{
-			"buildid" "14621867"
+			"buildid" "16320274"
 			"pwdrequired" "1"
-			"timeupdated" "1717710436"
-		}
-		"macos_sonoma_14.2_fix"
-		{
-			"buildid" "12933926"
-			"description" "This is a branch that contains a fix for the input issues on macOS Sonoma (14.2)"
-			"timeupdated" "1702335069"
+			"timeupdated" "1733773729"
 		}
 		"marketing"
 		{
@@ -583,63 +613,39 @@
 		}
 		"nightly"
 		{
-			"buildid" "14627096"
+			"buildid" "16643695"
 			"pwdrequired" "1"
-			"timeupdated" "1717684319"
+			"timeupdated" "1733405206"
 		}
 		"nightly-marketing"
 		{
-			"buildid" "14629653"
+			"buildid" "16683257"
 			"pwdrequired" "1"
-			"timeupdated" "1717697815"
+			"timeupdated" "1733764506"
 		}
 		"press"
 		{
-			"buildid" "14593351"
+			"buildid" "16397231"
 			"pwdrequired" "1"
-			"timeupdated" "1717477846"
+			"timeupdated" "1731540343"
 		}
 		"previously-live"
 		{
-			"buildid" "12945442"
+			"buildid" "14607839"
 			"pwdrequired" "1"
-			"timeupdated" "1712182986"
-		}
-		"prototyping"
-		{
-			"buildid" "14541613"
-			"pwdrequired" "1"
-			"timeupdated" "1717037043"
+			"timeupdated" "1717722220"
 		}
 		"qa-testing"
 		{
-			"buildid" "14621867"
+			"buildid" "16320274"
 			"pwdrequired" "1"
-			"timeupdated" "1717710449"
+			"timeupdated" "1730936495"
 		}
 		"staging"
 		{
-			"buildid" "14621867"
+			"buildid" "16663055"
 			"pwdrequired" "1"
-			"timeupdated" "1717653102"
-		}
-		"unity-fix-auto-graphics"
-		{
-			"buildid" "13942705"
-			"pwdrequired" "1"
-			"timeupdated" "1712196471"
-		}
-		"unity-fix-revert-urp-config"
-		{
-			"buildid" "13943995"
-			"pwdrequired" "1"
-			"timeupdated" "1712197218"
-		}
-		"unity-fix-shader-fallback"
-		{
-			"buildid" "14002893"
-			"pwdrequired" "1"
-			"timeupdated" "1712704772"
+			"timeupdated" "1733529265"
 		}
 	}
 }
@@ -648,433 +654,7 @@
 	"quota" "10000000"
 	"maxnumfiles" "100"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Beijing"
-				"#city_tokyo" "Tokyo"
-				"#city_london" "London"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "New York City"
-				"#city_dar_es_salaam" "Dar es Salaam"
-				"#city_moscow" "Moscow"
-				"#city_munich" "Munich"
-				"#city_zurich" "Zürich"
-				"#city_manila" "Manila"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubai"
-				"#city_mexico_city" "Mexico City"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Warsaw"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lisbon"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavík"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Designing the roads of {#City_%city%}"
-				"#modedailychallenge" "Competing in the {#City_%city%} Daily Challenge"
-				"#modeweeklychallenge" "Competing in the {#City_%city%} Weekly Challenge"
-			}
-		}
-		"arabic"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "ﻟﻮﺱ ﺃﻧﺠﻠﻮﺱ"
-				"#city_beijing" "ﺑﻜﻴﻦ"
-				"#city_tokyo" "ﻃﻮﻛﻴﻮ"
-				"#city_london" "ﻟﻨﺪﻥ"
-				"#city_mumbai" "ﻣﻮﻣﺒﺎﻱ"
-				"#city_new_york_city" "ﻣﺪﻳﻨﺔ ﻧﻴﻮﻳﻮﺭﻙ"
-				"#city_dar_es_salaam" "ﺩﺍﺭ ﺍﻟﺴﻼﻡ"
-				"#city_moscow" "ﻣﻮﺳﻜﻮ"
-				"#city_munich" "ﻣﻴﻮﻧﺦ"
-				"#city_zurich" "ﺯﻳﻮﺭﺥ"
-				"#city_manila" "ﻣﺎﻧﻴﻼ"
-				"#city_rio_de_janeiro" "ﺭﻳﻮ ﺩﻱ ﺟﺎﻧﻴﺮﻭ"
-				"#city_dubai" "ﺩﺑﻲ"
-				"#city_mexico_city" "ﻣﻜﺴﻴﻜﻮ ﺳﻴﺘﻲ"
-				"#city_wellington" "ﻭﻳﻠﻴﻨﻐﺘﻮﻥ"
-				"#city_warsaw" "ﻭﺍﺭﺳﻮ"
-				"#city_chiang_mai" "ﺗﺸﻴﺎﻧﻎ ﻣﺎﻱ"
-				"#city_lisbon" "ﻟﺸﺒﻮﻧﺔ"
-				"#city_busan" "ﺑﻮﺳﺎﻥ"
-				"#city_reykjavik" "ﺭﻳﻜﻴﺎﻓﻴﻚ"
-				"#city_vancouver" "فانكوفر"
-				"#modecity" "ﺗﺼﻤﻴﻢ ﻃﺮﻕ {#City_%city%}"
-				"#modedailychallenge" "ﺍﻟﻤﻨﺎﻓﺴﺔ ﻓﻲ ﺗﺤﺪﻱ {#City_%city%} ﺍﻟﻴﻮﻣﻲ"
-				"#modeweeklychallenge" "ﺍﻟﻤﻨﺎﻓﺴﺔ ﻓﻲ ﺗﺤﺪﻱ {#City_%city%} ﺍﻷﺳﺒﻮﻋﻲ"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Peking"
-				"#city_tokyo" "Tokio"
-				"#city_london" "London"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "New York City"
-				"#city_dar_es_salaam" "Daressalam"
-				"#city_moscow" "Moskau"
-				"#city_munich" "München"
-				"#city_zurich" "Zürich"
-				"#city_manila" "Manila"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubai"
-				"#city_mexico_city" "Mexiko-Stadt"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Warschau"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lissabon"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavík"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Die Straßen von {#City_%city%} designen"
-				"#modedailychallenge" "In der täglichen Herausforderung von {#City_%city%} teilnehmen"
-				"#modeweeklychallenge" "In der wöchentlichen Herausforderung von {#City_%city%} teilnehmen"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Ángeles"
-				"#city_beijing" "Pekín"
-				"#city_tokyo" "Tokio"
-				"#city_london" "Londres"
-				"#city_mumbai" "Bombay"
-				"#city_new_york_city" "Nueva York"
-				"#city_dar_es_salaam" "Dar es-Salam"
-				"#city_moscow" "Moscú"
-				"#city_munich" "Múnich"
-				"#city_zurich" "Zúrich"
-				"#city_manila" "Manila"
-				"#city_rio_de_janeiro" "Río de Janeiro"
-				"#city_dubai" "Dubái"
-				"#city_mexico_city" "Ciudad de México"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Varsovia"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lisboa"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reikiavik"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Diseñar las carreteras de {#City_%city%}"
-				"#modedailychallenge" "Competir en el reto diario de {#City_%city%}"
-				"#modeweeklychallenge" "Competir en el reto semanal de {#City_%city%}"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Pékin"
-				"#city_tokyo" "Tokyo"
-				"#city_london" "Londres"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "New York"
-				"#city_dar_es_salaam" "Dar es Salam"
-				"#city_moscow" "Moscou"
-				"#city_munich" "Munich"
-				"#city_zurich" "Zurich"
-				"#city_manila" "Manille"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubaï"
-				"#city_mexico_city" "Mexico"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Varsovie"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lisbonne"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavik"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Dessine les routes de {#City_%city%}"
-				"#modedailychallenge" "Participe au défi quotidien de {#City_%city%}"
-				"#modeweeklychallenge" "Participe au défi hebdomadaire de {#City_%city%}"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Pechino"
-				"#city_tokyo" "Tokyo"
-				"#city_london" "Londra"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "New York"
-				"#city_dar_es_salaam" "Dar es Salaam"
-				"#city_moscow" "Mosca"
-				"#city_munich" "Monaco"
-				"#city_zurich" "Zurigo"
-				"#city_manila" "Manila"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubai"
-				"#city_mexico_city" "Città del Messico"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Varsavia"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lisbona"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavík"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Progettando le strade di {#City_%city%}"
-				"#modedailychallenge" "Partecipando alla sfida giornaliera di {#City_%city%}"
-				"#modeweeklychallenge" "Partecipando alla sfida settimanale di {#City_%city%}"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "ロサンゼルス"
-				"#city_beijing" "北京"
-				"#city_tokyo" "東京"
-				"#city_london" "ロンドン"
-				"#city_mumbai" "ムンバイ"
-				"#city_new_york_city" "ニューヨーク"
-				"#city_dar_es_salaam" "ダルエスサラーム"
-				"#city_moscow" "モスクワ"
-				"#city_munich" "ミュンヘン"
-				"#city_zurich" "チューリッヒ"
-				"#city_manila" "マニラ"
-				"#city_rio_de_janeiro" "リオデジャネイロ"
-				"#city_dubai" "ドバイ"
-				"#city_mexico_city" "メキシコシティ"
-				"#city_wellington" "ウェリントン"
-				"#city_warsaw" "ワルシャワ"
-				"#city_chiang_mai" "チェンマイ"
-				"#city_lisbon" "リスボン"
-				"#city_busan" "釜山"
-				"#city_reykjavik" "レイキャビク"
-				"#city_vancouver" "バンクーバー"
-				"#modecity" "{#City_%city%} の道路をデザイン"
-				"#modedailychallenge" "{#City_%city%} デイリーチャレンジに挑戦"
-				"#modeweeklychallenge" "{#City_%city%} ウィークリーチャレンジに挑戦"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "로스앤젤레스"
-				"#city_beijing" "베이징"
-				"#city_tokyo" "도쿄"
-				"#city_london" "런던"
-				"#city_mumbai" "뭄바이"
-				"#city_new_york_city" "뉴욕"
-				"#city_dar_es_salaam" "다르에스살람"
-				"#city_moscow" "모스크바"
-				"#city_munich" "뮌헨"
-				"#city_zurich" "취리히"
-				"#city_manila" "마닐라"
-				"#city_rio_de_janeiro" "리우데자네이루"
-				"#city_dubai" "두바이"
-				"#city_mexico_city" "멕시코시티"
-				"#city_wellington" "웰링턴"
-				"#city_warsaw" "바르샤바"
-				"#city_chiang_mai" "치앙마이"
-				"#city_lisbon" "리스본"
-				"#city_busan" "부산"
-				"#city_reykjavik" "레이캬비크"
-				"#city_vancouver" "밴쿠버"
-				"#modecity" "{#City_%city%}의 도로 설계"
-				"#modedailychallenge" "{#City_%city%} 일간 챌린지 완료"
-				"#modeweeklychallenge" "{#City_%city%} 주간 챌린지 완료"
-			}
-		}
-		"dutch"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Peking"
-				"#city_tokyo" "Tokio"
-				"#city_london" "Londen"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "New York"
-				"#city_dar_es_salaam" "Dar es Salaam"
-				"#city_moscow" "Moskou"
-				"#city_munich" "München"
-				"#city_zurich" "Zürich"
-				"#city_manila" "Manilla"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubai"
-				"#city_mexico_city" "Mexico City"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Warschau"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lissabon"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavik"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Ontwerp de wegen van {#City_%city%}"
-				"#modedailychallenge" "Ga de uitdaging van de dag aan in {#City_%city%}"
-				"#modeweeklychallenge" "Ga de uitdaging van de week aan in {#City_%city%}"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Pequim"
-				"#city_tokyo" "Tóquio"
-				"#city_london" "Londres"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "Nova York"
-				"#city_dar_es_salaam" "Dar es Salaam"
-				"#city_moscow" "Moscou"
-				"#city_munich" "Munique"
-				"#city_zurich" "Zurique"
-				"#city_manila" "Manila"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubai"
-				"#city_mexico_city" "Cidade do México"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Varsóvia"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lisboa"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavík"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "Desenhando as ruas de {#City_%city%}"
-				"#modedailychallenge" "Competindo no desafio diário de {#City_%city%}"
-				"#modeweeklychallenge" "Competindo no desafio semanal de {#City_%city%}"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Лос-Анджелес"
-				"#city_beijing" "Пекин"
-				"#city_tokyo" "Токио"
-				"#city_london" "Лондон"
-				"#city_mumbai" "Мумбаи"
-				"#city_new_york_city" "Нью-Йорк"
-				"#city_dar_es_salaam" "Дар-эс-Салам"
-				"#city_moscow" "Москва"
-				"#city_munich" "Мюнхен"
-				"#city_zurich" "Цюрих"
-				"#city_manila" "Манила"
-				"#city_rio_de_janeiro" "Рио-де-Жанейро"
-				"#city_dubai" "Дубай"
-				"#city_mexico_city" "Мехико"
-				"#city_wellington" "Веллингтон"
-				"#city_warsaw" "Варшава"
-				"#city_chiang_mai" "Чиангмай"
-				"#city_lisbon" "Лиссабон"
-				"#city_busan" "Пусан"
-				"#city_reykjavik" "Рейкьявик"
-				"#city_vancouver" "Ванкувер"
-				"#modecity" "Планирование дорог: {#City_%city%}"
-				"#modedailychallenge" "Завершение ежедневного челленджа: {#City_%city%}"
-				"#modeweeklychallenge" "Завершение еженедельного челленджа: {#City_%city%}"
-			}
-		}
-		"turkish"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "Los Angeles"
-				"#city_beijing" "Pekin"
-				"#city_tokyo" "Tokyo"
-				"#city_london" "Londra"
-				"#city_mumbai" "Mumbai"
-				"#city_new_york_city" "New York City"
-				"#city_dar_es_salaam" "Darüsselam"
-				"#city_moscow" "Moskova"
-				"#city_munich" "Münih"
-				"#city_zurich" "Zürih"
-				"#city_manila" "Manila"
-				"#city_rio_de_janeiro" "Rio de Janeiro"
-				"#city_dubai" "Dubai"
-				"#city_mexico_city" "Meksiko"
-				"#city_wellington" "Wellington"
-				"#city_warsaw" "Varşova"
-				"#city_chiang_mai" "Chiang Mai"
-				"#city_lisbon" "Lizbon"
-				"#city_busan" "Busan"
-				"#city_reykjavik" "Reykjavik"
-				"#city_vancouver" "Vancouver"
-				"#modecity" "{#City_%city%} şehrinin yollarını tasarlama"
-				"#modedailychallenge" "{#City_%city%} Günlük Görevine Katılım"
-				"#modeweeklychallenge" "{#City_%city%} Haftalık Görevine Katılım"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "洛杉矶"
-				"#city_beijing" "北京"
-				"#city_tokyo" "东京"
-				"#city_london" "伦敦"
-				"#city_mumbai" "孟买"
-				"#city_new_york_city" "纽约"
-				"#city_dar_es_salaam" "达累斯萨拉姆"
-				"#city_moscow" "莫斯科"
-				"#city_munich" "慕尼黑"
-				"#city_zurich" "苏黎世"
-				"#city_manila" "马尼拉"
-				"#city_rio_de_janeiro" "里约热内卢"
-				"#city_dubai" "迪拜"
-				"#city_mexico_city" "墨西哥城"
-				"#city_wellington" "惠灵顿"
-				"#city_warsaw" "华沙"
-				"#city_chiang_mai" "清迈"
-				"#city_lisbon" "里斯本"
-				"#city_busan" "釜山"
-				"#city_reykjavik" "雷克雅未克"
-				"#city_vancouver" "温哥华"
-				"#modecity" "设计{#City_%city%}的公路网"
-				"#modedailychallenge" "在{#City_%city%}完成每日挑战"
-				"#modeweeklychallenge" "在{#City_%city%}完成每周挑战"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#city_los_angeles" "洛杉磯"
-				"#city_beijing" "北京"
-				"#city_tokyo" "東京"
-				"#city_london" "倫敦"
-				"#city_mumbai" "孟買"
-				"#city_new_york_city" "紐約市"
-				"#city_dar_es_salaam" "三蘭港"
-				"#city_moscow" "莫斯科"
-				"#city_munich" "慕尼黑"
-				"#city_zurich" "蘇黎世"
-				"#city_manila" "馬尼拉"
-				"#city_rio_de_janeiro" "里約熱內盧"
-				"#city_dubai" "杜拜"
-				"#city_mexico_city" "墨西哥城"
-				"#city_wellington" "威靈頓"
-				"#city_warsaw" "華沙"
-				"#city_chiang_mai" "清邁"
-				"#city_lisbon" "里斯本"
-				"#city_busan" "釜山"
-				"#city_reykjavik" "雷克雅維克"
-				"#city_vancouver" "溫哥華"
-				"#modecity" "設計{#City_%city%}的路網"
-				"#modedailychallenge" "完成{#City_%city%}的每日挑戰"
-				"#modeweeklychallenge" "完成{#City_%city%}的每周挑戰"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23864202"
-"_sha" "eff646e2095df501b6b2f4024f95ebbe36171ac3"
-"_size" "28778"
+"_change_number" "26564234"
+"_sha" "97de79ff3cc04576b98e6a823c284201eb15d5a0"
+"_size" "13720"
