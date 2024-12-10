@@ -340,7 +340,7 @@
 		"23"
 		{
 			"executable" "GZWClientEAC.exe"
-			"arguments" "-MatchmakingGroup=public-experimental -NakamaEndpoint=HeroicCloudPublic "
+			"arguments" "-MatchmakingGroup=public-experimental -NakamaEndpoint=\"https://n-backup-api.s.madfingergames.dev:443\""
 			"type" "default"
 			"config"
 			{
@@ -499,9 +499,9 @@
 		{
 			"public"
 			{
-				"gid" "6756362325943220952"
-				"size" "22799443348"
-				"download" "18381043632"
+				"gid" "8934127345120493070"
+				"size" "22799470527"
+				"download" "18380570896"
 			}
 		}
 		"encryptedmanifests"
@@ -550,9 +550,9 @@
 			}
 			"stable-test"
 			{
-				"gid" "09AF2E63B50C55BE5BAF9C4D6A845953"
-				"size" "6D4B84A2BE4B886273F91C9EB9E34728"
-				"download" "2C3843346098A40BA726D557A839A2AC"
+				"gid" "48BB4AA3327F900B22019075DFFB7A41"
+				"size" "12101D474627E1DD324711C5AA48D84C"
+				"download" "7C0D59CD7E23CC5F13F3425F7676A2A0"
 			}
 			"stable-shipping"
 			{
@@ -592,9 +592,9 @@
 			}
 			"playtest"
 			{
-				"gid" "3D0339020944D85DF4C77C8D3ECF1BDE"
-				"size" "ABB7E79EDE5A93E31BC4EA1D0CD188DE"
-				"download" "E66936E7DC30DCA628CF8ADB9532B33C"
+				"gid" "1091FBFEF28FEA2DF2B4CDA5AA8842F9"
+				"size" "21C8DDC1596E3626F8E5B449147172BF"
+				"download" "E4E82F4A9BC20503F6480F0B4BFE8692"
 			}
 			"staging"
 			{
@@ -608,8 +608,8 @@
 	{
 		"public"
 		{
-			"buildid" "16633900"
-			"timeupdated" "1733472227"
+			"buildid" "16645746"
+			"timeupdated" "1733817796"
 		}
 		"external-dev"
 		{
@@ -655,9 +655,9 @@
 		}
 		"stable-test"
 		{
-			"buildid" "16646193"
+			"buildid" "16664753"
 			"pwdrequired" "1"
-			"timeupdated" "1733473762"
+			"timeupdated" "1733734334"
 		}
 		"stable-shipping"
 		{
@@ -697,9 +697,9 @@
 		}
 		"playtest"
 		{
-			"buildid" "16645746"
+			"buildid" "16664895"
 			"pwdrequired" "1"
-			"timeupdated" "1733478705"
+			"timeupdated" "1733742306"
 		}
 		"staging"
 		{
@@ -710,6 +710,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26523470"
-"_sha" "0fff0a5739f31776ddd45e1308844ad15aff4298"
-"_size" "14525"
+"_change_number" "26571224"
+"_sha" "23bc0995b12dbdb704439fe8477c6d5a92a80866"
+"_size" "14556"
