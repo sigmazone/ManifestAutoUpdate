@@ -23,6 +23,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_8f70599e59612aecec0633a780f1fa2b5ba36624.jpg"
 	"store_asset_mtime" "1702891837"
 	"associations"
 	{
@@ -50,6 +51,7 @@
 	"primary_genre" "0"
 	"category"
 	{
+		"category_50" "1"
 	}
 	"steam_release_date" "1704959957"
 	"gameid" "2731990"
@@ -74,9 +76,43 @@
 		{
 			"public"
 			{
-				"gid" "2951799608098936276"
-				"size" "206084896"
-				"download" "204526432"
+				"gid" "2763662332575774110"
+				"size" "207247987"
+				"download" "205696496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "5F7EA4A4A465B3F05AB00DE273FB0A61"
+				"size" "A75209BAE3B8AE7792B65DF059884EA5"
+				"download" "11BC8E28B59BD30EB4742E7A0DBAF3AA"
+			}
+		}
+	}
+	"2731992"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2161428377219678799"
+				"size" "925470350"
+				"download" "750233936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "77105E240D78E88189D7FDC3A6617A61"
+				"size" "F153F0E3057AA38434F0D9A396C62558"
+				"download" "0781F65B5E5C253C2C626A3954CC6406"
 			}
 		}
 	}
@@ -84,8 +120,14 @@
 	{
 		"public"
 		{
-			"buildid" "13041196"
-			"timeupdated" "1703463291"
+			"buildid" "16560807"
+			"timeupdated" "1732794093"
+		}
+		"beta"
+		{
+			"buildid" "16560807"
+			"pwdrequired" "1"
+			"timeupdated" "1732762240"
 		}
 	}
 }
@@ -637,3 +679,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26517061"
+"_sha" "b487fc19ca897b40c0bbbeb23d9da5cb3174380b"
+"_size" "13139"
