@@ -1,7 +1,7 @@
 "appid" "1027880"
 "common"
 {
-	"name" "A Dance of Fire and Ice - OST"
+	"name" "A Dance of Fire and Ice OST"
 	"type" "Music"
 	"parent" "977950"
 	"releasestate" "released"
@@ -11,7 +11,6 @@
 	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"osextended" ""
-	"metacritic_name" "A Dance of Fire and Ice - OST"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -21,6 +20,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_8eafc52b55083fbadd2c95c6958419f5275d1575.jpg"
 	"store_asset_mtime" "1701452503"
 	"associations"
 	{
@@ -32,7 +32,17 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "7th Beat Games"
+		}
+		"2"
+		{
+			"type" "publisher"
 			"name" "indienova"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "7th Beat Games"
 		}
 	}
 	"primary_genre" "23"
@@ -76,7 +86,7 @@
 	}
 	"steam_release_date" "1549495080"
 	"gameid" "1027880"
-	"exfgls" "1"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "492"
@@ -85,19 +95,19 @@
 		"3" "1756"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "94"
 }
 "extended"
 {
 	"musicalbumforappid" "977950"
 	"isconverteddlc" "1"
 	"developer" "7th Beat Games"
-	"publisher" "indienova"
+	"publisher" "7th Beat Games"
 	"musicalbumavailableonstore" "1"
 }
 "config"
 {
-	"installdir" "A Dance of Fire and Ice - OST"
+	"installdir" "A Dance of Fire and Ice OST"
 }
 "depots"
 {
@@ -107,9 +117,18 @@
 		{
 			"public"
 			{
-				"gid" "469785097560218038"
-				"size" "59661728"
-				"download" "58862736"
+				"gid" "5903349523419684575"
+				"size" "86750990"
+				"download" "84025680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "E047BB03DB3A6C072750078A5F51A279"
+				"size" "C54323D745C434DABB82BE89460E18FE"
+				"download" "ED0B09F0D58401286017A0EA1313DA22"
 			}
 		}
 	}
@@ -123,9 +142,18 @@
 		{
 			"public"
 			{
-				"gid" "4683367834482411844"
-				"size" "307132998"
-				"download" "310798880"
+				"gid" "4030573461495846119"
+				"size" "309408481"
+				"download" "312972064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "E1B75C276FF98932AF1453C1E4D69A7E"
+				"size" "0FB7748B599D1767EE777D1337180E27"
+				"download" "0D1BE6971C67230B61E6FC86C1DE725B"
 			}
 		}
 	}
@@ -133,8 +161,14 @@
 	{
 		"public"
 		{
-			"buildid" "12808903"
-			"timeupdated" "1701102493"
+			"buildid" "16375031"
+			"timeupdated" "1733810262"
+		}
+		"internal"
+		{
+			"buildid" "16375031"
+			"pwdrequired" "1"
+			"timeupdated" "1731396495"
 		}
 	}
 }
@@ -385,7 +419,7 @@
 		{
 			"discnumber" "1"
 			"tracknumber" "14"
-			"originalname" "fizzd &amp; s9menine - A Dance of Fire and Ice [Rabbit ver.]"
+			"originalname" "celesti whispers - A Dance of Fire and Ice [Rabbit ver.]"
 			"m" "1"
 			"s" "16"
 		}
@@ -393,7 +427,7 @@
 		{
 			"discnumber" "1"
 			"tracknumber" "15"
-			"originalname" "fizzd &amp; s9menine - A Dance of Fire and Ice [Spooky ver.]"
+			"originalname" "celesti whispers - A Dance of Fire and Ice [Spooky ver.]"
 			"m" "1"
 			"s" "20"
 		}
@@ -420,6 +454,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21363064"
-"_sha" "f7ecbf96acc68684bfe2dfb816079a841b344556"
-"_size" "6994"
+"_change_number" "26569955"
+"_sha" "65c35b6db26a743455aa84437138bd9bbb2490c1"
+"_size" "7668"
