@@ -1,0 +1,872 @@
+"appid" "1272080"
+"common"
+{
+	"name" "PAYDAY 3"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "d4ad48893646cae61934ea10749527346f8b7736"
+	"clienticon" "d8c8c35a4e1482c7dfd752cb3e9e20ed50e72938"
+	"clienttga" "e67e2cd8af821ea1e6a1aee1acfd27ab790993d4"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "PAYDAY3 (收获日3)  "
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1697587200"
+		"tested_build_id" "12178749"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "27.784920192155823"
+			"height_pct" "54.92549209592449"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "e02c1b4d438cf469db1aa910e5bb2c332b632ef0/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "e02c1b4d438cf469db1aa910e5bb2c332b632ef0/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e02c1b4d438cf469db1aa910e5bb2c332b632ef0/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "27.784920192155823"
+				"height_pct" "54.92549209592449"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732541692"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Starbreeze Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deep Silver"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Deep Silver"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "PAYDAY"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1695308413"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1272080"
+	"store_tags"
+	{
+		"0" "1680"
+		"1" "1685"
+		"2" "19"
+		"3" "6378"
+		"4" "3859"
+		"5" "1663"
+		"6" "1774"
+		"7" "1708"
+		"8" "1687"
+		"9" "13190"
+		"10" "3843"
+		"11" "5923"
+		"12" "3839"
+		"13" "6730"
+		"14" "5765"
+		"15" "122"
+		"16" "3993"
+		"17" "4191"
+		"18" "4175"
+		"19" "4255"
+	}
+	"review_score" "5"
+	"review_percentage" "42"
+}
+"extended"
+{
+	"gamedir" "1272080"
+	"serverbrowsername" "Moolah"
+	"developer" "Starbreeze Studios"
+	"publisher" "Deep Silver"
+	"homepage" "https://www.paydaythegame.com/payday3/"
+	"listofdlc" "2438800,2442890,2449350,2449351,2450690,2450691,2450692,2450693,2450694,2450695,2450696,2450697,2450711,2713010,3055010,3110530,3111880,3128380,3128390,3128400,3128410,3128420,3171970,3171980,3171990,3172010,3214920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "PAYDAY3"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "PAYDAY3Client.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "PAYDAY3"
+			}
+			"description" "PAYDAY3"
+		}
+		"2"
+		{
+			"executable" "PAYDAY3.exe"
+			"arguments" "-matchmakinggroup 1994 "
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "koch_dev_build"
+			}
+			"description_loc"
+			{
+				"english" "Play for Koch Media"
+			}
+			"description" "Play for Koch Media"
+		}
+		"3"
+		{
+			"executable" "ShooterGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2023_march"
+			}
+			"description_loc"
+			{
+				"english" "Partners_old"
+			}
+			"description" "Partners_old"
+		}
+		"4"
+		{
+			"executable" "ShooterGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2023_feb"
+			}
+			"description_loc"
+			{
+				"english" "Partners_old"
+			}
+			"description" "Partners_old"
+		}
+		"5"
+		{
+			"executable" "ShooterGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2022_december"
+			}
+			"description_loc"
+			{
+				"english" "Partners_old"
+			}
+			"description" "Partners_old"
+		}
+		"6"
+		{
+			"executable" "ShooterGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "plaion_stable"
+			}
+			"description_loc"
+			{
+				"english" "Partners_old"
+			}
+			"description" "Partners_old"
+		}
+		"7"
+		{
+			"executable" "PAYDAY3.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2023_may"
+			}
+			"description_loc"
+			{
+				"english" "old Game version"
+				"german" "AccelByte Matchmaking with dx12"
+				"french" "AccelByte Matchmaking with dx12"
+				"italian" "AccelByte Matchmaking with dx12"
+				"koreana" "AccelByte Matchmaking with dx12"
+				"spanish" "AccelByte Matchmaking with dx12"
+				"schinese" "AccelByte Matchmaking with dx12"
+				"tchinese" "AccelByte Matchmaking with dx12"
+				"russian" "AccelByte Matchmaking with dx12"
+				"thai" "AccelByte Matchmaking with dx12"
+				"japanese" "AccelByte Matchmaking with dx12"
+				"portuguese" "AccelByte Matchmaking with dx12"
+				"polish" "AccelByte Matchmaking with dx12"
+				"danish" "AccelByte Matchmaking with dx12"
+				"dutch" "AccelByte Matchmaking with dx12"
+				"finnish" "AccelByte Matchmaking with dx12"
+				"norwegian" "AccelByte Matchmaking with dx12"
+				"swedish" "AccelByte Matchmaking with dx12"
+				"hungarian" "AccelByte Matchmaking with dx12"
+				"czech" "AccelByte Matchmaking with dx12"
+				"romanian" "AccelByte Matchmaking with dx12"
+				"turkish" "AccelByte Matchmaking with dx12"
+				"brazilian" "AccelByte Matchmaking with dx12"
+				"bulgarian" "AccelByte Matchmaking with dx12"
+				"greek" "AccelByte Matchmaking with dx12"
+				"ukrainian" "AccelByte Matchmaking with dx12"
+				"latam" "AccelByte Matchmaking with dx12"
+				"vietnamese" "AccelByte Matchmaking with dx12"
+				"indonesian" "AccelByte Matchmaking with dx12"
+			}
+			"description" "old Game version"
+		}
+		"8"
+		{
+			"executable" "PAYDAY3.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2023_march"
+			}
+			"description_loc"
+			{
+				"english" "old Game version"
+			}
+			"description" "old Game version"
+		}
+		"9"
+		{
+			"executable" "PAYDAY3.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2023_feb_exclusive"
+			}
+			"description_loc"
+			{
+				"english" "old Game version"
+			}
+			"description" "old Game version"
+		}
+		"10"
+		{
+			"executable" "PAYDAY3.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone_2023_feb"
+			}
+			"description_loc"
+			{
+				"english" "old Game version"
+			}
+			"description" "old Game version"
+		}
+		"11"
+		{
+			"executable" "PAYDAY3.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ue5_test"
+			}
+			"description_loc"
+			{
+				"english" "UE5 Game version"
+			}
+			"description" "UE5 Game version"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1272081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "892424403680248140"
+				"size" "72796613366"
+				"download" "37378205008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"playtest"
+			{
+				"gid" "D1743132349C480C8876FAA9F7CD9E76"
+				"size" "59AE0717C13FE984AE1F32724C2A4585"
+				"download" "8644194C8CD96C93F45B3E9524902054"
+			}
+			"candidate"
+			{
+				"gid" "54ABC63807F8E387FA196D1A33332B71"
+				"size" "D90204CB81C91E341C78F79D4FC424F3"
+				"download" "967A6B9AE4C358CE507694A26FDADC18"
+			}
+			"development"
+			{
+				"gid" "2DFC7EF7EA3DD0A05BF0BCEB49EEB846"
+				"size" "D0923E6B01E24A836BC00AB2D6AF5E6D"
+				"download" "D227ACC59A6F9F89AB2FA0392795FAB4"
+			}
+			"preview"
+			{
+				"gid" "F33E52F7D2944AD0995E1C1C14785035"
+				"size" "303E2A0FE524EC48C09957645373A1E8"
+				"download" "2DA5F37A267DEF1B2712DF1DBA0CCA81"
+			}
+			"currentms"
+			{
+				"gid" "8B69C3D63C5469D0C99E7B75AEFA5EC4"
+				"size" "0B93B0D5FC5B2ED1F1CC3848B05F605E"
+				"download" "5A9D5A13CAFCB16EAD900E03369D62AD"
+			}
+			"currentmsl"
+			{
+				"gid" "4004E23C78A82D565D7498FF7AB58486"
+				"size" "97D1735CD565CA072349ACE113718C3C"
+				"download" "239A140D2BF9BADD4F5D8225DECDDB4F"
+			}
+			"previousms"
+			{
+				"gid" "2FE3D4164FEC5BE02A6F15DD42AF6A1E"
+				"size" "38DD634B3B6742EB2C2ADB5C8F0DD0EC"
+				"download" "F271A8B2D3EBFBD6AB1ED3844A2D4D16"
+			}
+			"previousmsl"
+			{
+				"gid" "7452FAC4046AB58EEF4FAF7788EE453A"
+				"size" "72279B8E46F2362FF95BDF026068CFA2"
+				"download" "CB9D8DDCA2E2008D04CAD6435CE352E9"
+			}
+			"devops_testing"
+			{
+				"gid" "9C2DBA6C1D44F4EF24A6A6D6583D0C07"
+				"size" "200CF85452AAEDE6AB6BF864541E8CD0"
+				"download" "31BA10AE8F3A8B1450601338024583E4"
+			}
+			"gauntlet"
+			{
+				"gid" "B94CDC0BBD238F8387CE05B0F135345F"
+				"size" "57B4A6D8D770A8369B0E11341C5A154F"
+				"download" "D0D22FA3416F7ED49AA9C51B8F49C7BE"
+			}
+			"partnership_demo"
+			{
+				"gid" "57AEC43589F35EF9F69ADD9ABCB0DAA2"
+				"size" "62589FA4D4A65D0E0AAAE828F8F61AE3"
+				"download" "36903B7887024ADBC61B0AB8BD836EE9"
+			}
+			"partnership_demo_2"
+			{
+				"gid" "057DA087D23AA0FA6501C3B3E4FCB98F"
+				"size" "38AEFC194A775CEE3CDDDA0049DE2C1B"
+				"download" "13548079B00ABCBA5438B1CAD9186647"
+			}
+			"partnership_tech"
+			{
+				"gid" "C9EADFB5870BA7FB0713EA64DA54374C"
+				"size" "74823076BB3A476CFFF55316B7DDFC77"
+				"download" "01681C59F23C1779A457C9EC0EE5E497"
+			}
+			"partnership_tech_2"
+			{
+				"gid" "86F91A61B8ABD119CCC98914CAF9122A"
+				"size" "369DB7EA04412C8673ABB46D1FC3B277"
+				"download" "DF3C29F265497A7230152920CA76C283"
+			}
+			"qa_testing"
+			{
+				"gid" "BC064AE417DFA8B6F4943943E783623D"
+				"size" "9F8EDE81F814DA8E03B45A0CB527EAF6"
+				"download" "C3F23710CA382B74B87F1B3EB1A40E38"
+			}
+			"qa_testing_1"
+			{
+				"gid" "56AEBD075B9D4E9B3BB4D82EE8153AA0"
+				"size" "C6FF3DDB598E2A61CB9A23DAE27AC6DD"
+				"download" "CBBC7D331076F25649FED4BC810AF663"
+			}
+			"qa_testing_2"
+			{
+				"gid" "DEC8F306DE1FCE88124784B0D317124A"
+				"size" "9031F8F755287FA2B2AACE027162D8AF"
+				"download" "2A0BEC2D8884299A9728EA2163225CD6"
+			}
+			"qa_testing_3"
+			{
+				"gid" "E0FE77ED7781B28C367D56A7C1CC19BD"
+				"size" "EB044D4E8408EDB8EBB0A3E5B678EB3B"
+				"download" "A619701CDA4D89397F7FE3878386F81D"
+			}
+			"qa_testing_4"
+			{
+				"gid" "83E19684A94A2869BE03EE208C9AB5D9"
+				"size" "1B0F71D4543212DE3F3C1CBA4EC31CA4"
+				"download" "1855DD6D65A02A7790BB081F3C0477AF"
+			}
+			"qa_testing_5"
+			{
+				"gid" "6A684FB26D59594466FBD4EB27D65A9C"
+				"size" "82C8E2A4FB105D2F6BFF1D0AA7B0E700"
+				"download" "89B79C6D314A8F77D9648B0DD0CFA9B7"
+			}
+			"qa_testing_6"
+			{
+				"gid" "7DF70F5DB9ECE7A1E998AF3FA8CFA6E2"
+				"size" "3F949725D1C7800D9EE8DB9907D73F44"
+				"download" "EB6ACD0AA013B6D3D8126FAD64A69182"
+			}
+			"stable"
+			{
+				"gid" "63BF63A31884438DA02232FBBF9ADFA1"
+				"size" "C420BD91CDD8BE69A83822CB2C8A6EE6"
+				"download" "15901C7EA65D60BC1BBB3A2EF52399F0"
+			}
+			"ue5_test"
+			{
+				"gid" "EC50EEB4B93B347DFF53770EAD5F6F4A"
+				"size" "02D1F17616064504FE61DBCAFD191555"
+				"download" "EFA2D7A79B542E804E7B11649FCB42E0"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16654686"
+			"timeupdated" "1733819746"
+		}
+		"playtest"
+		{
+			"buildid" "16691904"
+			"pwdrequired" "1"
+			"timeupdated" "1733824566"
+		}
+		"candidate"
+		{
+			"buildid" "14513871"
+			"pwdrequired" "1"
+			"timeupdated" "1716862514"
+		}
+		"development"
+		{
+			"buildid" "15414022"
+			"pwdrequired" "1"
+			"timeupdated" "1724052333"
+		}
+		"preview"
+		{
+			"buildid" "15302605"
+			"pwdrequired" "1"
+			"timeupdated" "1723550045"
+		}
+		"currentms"
+		{
+			"buildid" "16654686"
+			"pwdrequired" "1"
+			"timeupdated" "1733492771"
+		}
+		"currentmsl"
+		{
+			"buildid" "16648820"
+			"pwdrequired" "1"
+			"timeupdated" "1733492947"
+		}
+		"previousms"
+		{
+			"buildid" "16111807"
+			"pwdrequired" "1"
+			"timeupdated" "1730746105"
+		}
+		"previousmsl"
+		{
+			"buildid" "16111316"
+			"pwdrequired" "1"
+			"timeupdated" "1730746072"
+		}
+		"devops_testing"
+		{
+			"buildid" "14369982"
+			"pwdrequired" "1"
+			"timeupdated" "1715740839"
+		}
+		"gauntlet"
+		{
+			"buildid" "14186201"
+			"pwdrequired" "1"
+			"timeupdated" "1714138158"
+		}
+		"partnership_demo"
+		{
+			"buildid" "16498205"
+			"pwdrequired" "1"
+			"timeupdated" "1733134564"
+		}
+		"partnership_demo_2"
+		{
+			"buildid" "16681986"
+			"pwdrequired" "1"
+			"timeupdated" "1733760217"
+		}
+		"partnership_tech"
+		{
+			"buildid" "16596343"
+			"pwdrequired" "1"
+			"timeupdated" "1733127684"
+		}
+		"partnership_tech_2"
+		{
+			"buildid" "16679760"
+			"pwdrequired" "1"
+			"timeupdated" "1733744552"
+		}
+		"qa_testing"
+		{
+			"buildid" "16645839"
+			"pwdrequired" "1"
+			"timeupdated" "1733415558"
+		}
+		"qa_testing_1"
+		{
+			"buildid" "16545218"
+			"pwdrequired" "1"
+			"timeupdated" "1732665238"
+		}
+		"qa_testing_2"
+		{
+			"buildid" "16654686"
+			"pwdrequired" "1"
+			"timeupdated" "1733479350"
+		}
+		"qa_testing_3"
+		{
+			"buildid" "16625222"
+			"pwdrequired" "1"
+			"timeupdated" "1733296288"
+		}
+		"qa_testing_4"
+		{
+			"buildid" "16689636"
+			"pwdrequired" "1"
+			"timeupdated" "1733809036"
+		}
+		"qa_testing_5"
+		{
+			"buildid" "16320756"
+			"pwdrequired" "1"
+			"timeupdated" "1730991647"
+		}
+		"qa_testing_6"
+		{
+			"buildid" "16326569"
+			"pwdrequired" "1"
+			"timeupdated" "1730978106"
+		}
+		"stable"
+		{
+			"buildid" "12295938"
+			"pwdrequired" "1"
+			"timeupdated" "1695815951"
+		}
+		"ue5_test"
+		{
+			"buildid" "13364293"
+			"pwdrequired" "1"
+			"timeupdated" "1707089623"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26572612"
+"_sha" "f3f82da79696a79334255d7f39c7375af52d1831"
+"_size" "18147"
