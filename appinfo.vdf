@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732656748"
+	"store_asset_mtime" "1733846112"
 	"associations"
 	{
 		"0"
@@ -199,7 +199,7 @@
 		"19" "21"
 	}
 	"review_score" "5"
-	"review_percentage" "45"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -223,77 +223,35 @@
 				"oslist" "windows"
 			}
 		}
-		"1"
-		{
-			"executable" "Dev\\NMRiH2-Win64-Test.exe"
-			"type" "option1"
-			"config"
-			{
-				"oslist" "windows"
-				"betakey" "main, main_unstable, main_stable, playtest, staging"
-			}
-			"description_loc"
-			{
-				"english" "No More Room in Hell 2 (Test Config)"
-			}
-			"description" "No More Room in Hell 2 (Test Config)"
-		}
-		"2"
+		"6"
 		{
 			"executable" "Dev\\NMRiH2.exe"
-			"type" "option2"
-			"config"
-			{
-				"oslist" "windows"
-				"betakey" "main, main_unstable, main_stable, playtest, staging"
-			}
-			"description_loc"
-			{
-				"english" "No More Room in Hell 2 (Dev Config)"
-			}
-			"description" "No More Room in Hell 2 (Dev Config)"
-		}
-		"3"
-		{
-			"executable" "Kosovo.exe"
+			"arguments" "-anticheat_settings=Settings_TEST.json -epicsandboxidoverride=f8bf474b836f4303ae3ac469ebe5f447"
 			"type" "option1"
 			"config"
 			{
-				"betakey" "release-ct, essbuh, filming, dev-engineupgrade, main_testing, main_unstable"
+				"ownsdlc" "3320920"
 			}
 			"description_loc"
 			{
-				"english" "No More Room in Hell 2 (Pre-Rename, Shipping)"
+				"english" "Test Config"
 			}
-			"description" "No More Room in Hell 2 (Pre-Rename, Shipping)"
+			"description" "Test Config"
 		}
-		"4"
+		"7"
 		{
-			"executable" "Dev\\Kosovo-Win64-Test.exe"
+			"executable" "Dev\\NMRiH2.exe"
+			"arguments" "-epicsandboxidoverride=f8bf474b836f4303ae3ac469ebe5f447"
 			"type" "option2"
 			"config"
 			{
-				"betakey" "release-ct, essbuh, filming, dev-engineupgrade, main_testing, main_unstable"
+				"ownsdlc" "3320920"
 			}
 			"description_loc"
 			{
-				"english" "No More Room in Hell 2 (Pre-Rename, Test)"
+				"english" "Dev Config"
 			}
-			"description" "No More Room in Hell 2 (Pre-Rename, Test)"
-		}
-		"5"
-		{
-			"executable" "Dev\\Kosovo.exe"
-			"type" "option3"
-			"config"
-			{
-				"betakey" "release-ct, essbuh, filming, pothos, dev-engineupgrade, main_testing, main_unstable"
-			}
-			"description_loc"
-			{
-				"english" "No More Room in Hell 2 (Pre-Rename, Dev)"
-			}
-			"description" "No More Room in Hell 2 (Pre-Rename, Dev)"
+			"description" "Dev Config"
 		}
 	}
 }
@@ -330,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "8739331250488310853"
-				"size" "19956503489"
-				"download" "16768936928"
+				"gid" "3719177229069657114"
+				"size" "20003423711"
+				"download" "16792661248"
 			}
 		}
 		"encryptedmanifests"
@@ -399,9 +357,9 @@
 			}
 			"staging"
 			{
-				"gid" "2A41A854B10F934983B2E3783C9EFAF5"
-				"size" "E35BFD5DFC1AEA4AECC3DA13C865AB8B"
-				"download" "FA2D43D557573D001D0441C667BCBBEF"
+				"gid" "E7EB9A6263E5596A01FB94F2B43725EF"
+				"size" "F11D894165E755BFE8C86C36CD0E5E36"
+				"download" "132D41CB85AE564C895BC288F6B3D5B1"
 			}
 		}
 	}
@@ -416,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "5926117580901985910"
-				"size" "20438964220"
-				"download" "16898997312"
+				"gid" "5467338878214824009"
+				"size" "20481919982"
+				"download" "16922540944"
 			}
 		}
 		"encryptedmanifests"
@@ -479,9 +437,9 @@
 			}
 			"staging"
 			{
-				"gid" "62EA0545F9AAF9DAF87973DD8DE51847"
-				"size" "5C1AAF843D993392BDCF5214F3026633"
-				"download" "0887D34FFF547F3C616E8EBB6DDC6097"
+				"gid" "36D1E2F3529747B7D975A3DF8C6E4423"
+				"size" "B078344AF85602DD956AB4C072EA098D"
+				"download" "9D0A38F409D4C5D93D26F9E0E70CBF4F"
 			}
 		}
 	}
@@ -489,8 +447,8 @@
 	{
 		"public"
 		{
-			"buildid" "16462159"
-			"timeupdated" "1732632939"
+			"buildid" "16646718"
+			"timeupdated" "1733842638"
 		}
 		"anti_cheat"
 		{
@@ -554,9 +512,9 @@
 		}
 		"staging"
 		{
-			"buildid" "16462159"
+			"buildid" "16646718"
 			"pwdrequired" "1"
-			"timeupdated" "1732039384"
+			"timeupdated" "1733420204"
 		}
 	}
 }
@@ -579,6 +537,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26374702"
-"_sha" "198d83ca5172369430ef1e337b781367e4b49e84"
-"_size" "11612"
+"_change_number" "26578071"
+"_sha" "0d88e4019fe96500e664310b9d3da741366bfcdb"
+"_size" "10479"
