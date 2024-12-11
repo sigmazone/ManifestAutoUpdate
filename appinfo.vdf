@@ -1,0 +1,629 @@
+"appid" "1677110"
+"common"
+{
+	"name" "Lightyear Frontier"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "041643ab79d8497691ba261042397169c32d2d64"
+	"logo_small" "041643ab79d8497691ba261042397169c32d2d64_thumb"
+	"icon" "eea47c21e320696e6aa89bbeb0a35f495de52f56"
+	"clienttga" "05cff7bc26bec7b606135a3da7997992f62f5a2b"
+	"clienticon" "61b1e0a78c1a521409ca5fc8d72c4f47dd6f3891"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1677110_eula_0"
+			"name" "Lightyear Frontier EULA"
+			"url" "https://store.steampowered.com//eula/1677110_eula_0"
+			"version" "5"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1723766400"
+		"tested_build_id" "15265622"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "1627474ac96acff16cfbc244985fc3977f22bb73/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "82.90697674418601"
+			"height_pct" "78.11683685585369"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "82.90697674418601"
+				"height_pct" "78.11683685585369"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733912351"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FRAME BREAK"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Amplifier Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Amplifier Studios"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "FRAME BREAK"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Amplifier Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1710870356"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1677110"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "4182"
+		"2" "87918"
+		"3" "1702"
+		"4" "4821"
+		"5" "597"
+		"6" "1654"
+		"7" "3834"
+		"8" "7332"
+		"9" "3810"
+		"10" "5350"
+		"11" "22602"
+		"12" "8945"
+		"13" "30358"
+		"14" "1685"
+		"15" "4747"
+		"16" "3839"
+		"17" "599"
+		"18" "21"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "FRAME BREAK"
+	"publisher" "Amplifier Studios"
+	"homepage" "https://lightyearfrontier.com/"
+	"listofdlc" "2655090"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Lightyear Frontier"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LightyearFrontier.exe"
+			"arguments" "-d3d11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Lightyear Frontier (DX11)"
+			}
+			"description" "Lightyear Frontier (DX11)"
+		}
+		"1"
+		{
+			"executable" "LightyearFrontier.exe"
+			"arguments" "-d3d12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Lightyear Frontier (DX12)"
+			}
+			"description" "Lightyear Frontier (DX12)"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1677111"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "871864293967189990"
+				"size" "2515668802"
+				"download" "2264243744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"capture"
+			{
+				"gid" "4F9FB35E3FE073B548990674D86EC4B8"
+				"size" "49421095AE36FFA5C37799DA17611A38"
+				"download" "C48BD98D55838ABCC609CE2B374D73AA"
+			}
+			"demo_feb2024"
+			{
+				"gid" "13C68367EFF414F6BDAA92DB6626771C"
+				"size" "E24A6F7EB1DF28901A474DEE43F0321A"
+				"download" "BEA6DC157BF56330618F41F19282900B"
+			}
+			"event"
+			{
+				"gid" "CBFAF7BACE4D9B666C2B9DA1BB59C87C"
+				"size" "E3514BEF0A10CF2FAA9B0B2233B33131"
+				"download" "E912A059993857CD8DD144E7847F02FF"
+			}
+			"firstplayable"
+			{
+				"gid" "4BE6375F14CFF219E7AE9C5097C5DDA4"
+				"size" "9A4EDC57FDEB0613C8A2720629D511DB"
+				"download" "C416A9FF863CE98EA95FCCE7A8BC6828"
+			}
+			"mockreview"
+			{
+				"gid" "288BA1CBEDBF0E57192244CB540ED138"
+				"size" "2CC766BC659D393552268E46EE62F838"
+				"download" "82DB5AD1B9C74D55EDBD2047FCD799AA"
+			}
+			"playtesting"
+			{
+				"gid" "D6184452C66DB9CA36735D939F91AB7C"
+				"size" "D070EB4B404629821F33C29EF78C0CF2"
+				"download" "AB2744BDF5379731563B1BE657FA162D"
+			}
+			"developer"
+			{
+				"gid" "765F7DF87660A117E596412443708E1A"
+				"size" "11E9B2F0D1F8B134B0CC199B58D91F68"
+				"download" "C1281A26240A8920273E13A7E8AF7F34"
+			}
+			"experimental"
+			{
+				"gid" "AEA76EDCE6DC81A046C70B47A914A570"
+				"size" "FD77FFCF3872944B070ECF688E5E7FC3"
+				"download" "EEDCA8B85CA4F3350079C8429118B9E8"
+			}
+			"nightly"
+			{
+				"gid" "5B2320CEE70FA4811A7D954C846D8C8D"
+				"size" "2838D553834C1CEA6631473BBE2C3DF1"
+				"download" "967335D4484782E44C221447EA6AE37A"
+			}
+			"nightly-megapatch"
+			{
+				"gid" "98360294E2FD288952E861BAE672000E"
+				"size" "983E946C8B8BE09BC3932E3924F8306A"
+				"download" "E8AF80DD0D07DC6A2AB94CC7E6CC63AF"
+			}
+			"nightly-minipatch"
+			{
+				"gid" "A33913B1B74623EA2A17F263E49283A0"
+				"size" "34F0B8313CFB436AC354FA1D552A0A2A"
+				"download" "7BA85B72DA5453F4A6726151A260EBFB"
+			}
+			"playtestcloud"
+			{
+				"gid" "9CC425DD03C14D6A2FD2D59BD5C74E2E"
+				"size" "F9E4C335E08AE64EC7E8BEB6A7C9F2B4"
+				"download" "B1BE2242DB9B132838E3DD47EEEFFC9C"
+			}
+			"prototypetesting"
+			{
+				"gid" "5534E917163FC85E1C10FC0F34057C61"
+				"size" "83A6DE9FCA3C68E349179A573044AE9B"
+				"download" "01FCF62DF0E184D399C064EDE52EDBBF"
+			}
+			"staging"
+			{
+				"gid" "EF04171D0749B441FD7E264627C71693"
+				"size" "A66B422535D313B5A3C508A00C4C4709"
+				"download" "F8C95B6A6A4165C6E60309E8A8C4E39D"
+			}
+			"staging-dev"
+			{
+				"gid" "99BD5E9F0FE0FC45CB87071A48DAEB7A"
+				"size" "69DEFFBBE73E147D1AFA15D7BAF175C5"
+				"download" "C72DE04E2452DC530519CE51900A1CC2"
+			}
+			"staging2"
+			{
+				"gid" "E709A40BA78CECEF8BDBB7AD71DD41CD"
+				"size" "C54A97464656B5B14C8444A8C4689114"
+				"download" "6E4BEF1C7DDFB751E984E90EB2D5D2D7"
+			}
+			"testing"
+			{
+				"gid" "4EA78464CCDA150FDA0105022AAD05D0"
+				"size" "16146360ECB8161DB29F58DDE412FB86"
+				"download" "732F22149E0C89FDF574BE62B75477E2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16643925"
+			"timeupdated" "1733909861"
+		}
+		"capture"
+		{
+			"buildid" "13127643"
+			"pwdrequired" "1"
+			"timeupdated" "1704812664"
+		}
+		"demo_feb2024"
+		{
+			"buildid" "12974766"
+			"pwdrequired" "1"
+			"timeupdated" "1702661418"
+		}
+		"event"
+		{
+			"buildid" "9361702"
+			"pwdrequired" "1"
+			"timeupdated" "1661174004"
+		}
+		"firstplayable"
+		{
+			"buildid" "8123877"
+			"pwdrequired" "1"
+			"timeupdated" "1652873095"
+		}
+		"mockreview"
+		{
+			"buildid" "12928535"
+			"pwdrequired" "1"
+			"timeupdated" "1702631020"
+		}
+		"playtesting"
+		{
+			"buildid" "12698224"
+			"pwdrequired" "1"
+			"timeupdated" "1699959138"
+		}
+		"developer"
+		{
+			"buildid" "16707868"
+			"pwdrequired" "1"
+			"timeupdated" "1733923272"
+		}
+		"experimental"
+		{
+			"buildid" "15759464"
+			"pwdrequired" "1"
+			"timeupdated" "1726845051"
+		}
+		"nightly"
+		{
+			"buildid" "16707877"
+			"pwdrequired" "1"
+			"timeupdated" "1733923305"
+		}
+		"nightly-megapatch"
+		{
+			"buildid" "16709328"
+			"pwdrequired" "1"
+			"timeupdated" "1733930516"
+		}
+		"nightly-minipatch"
+		{
+			"buildid" "16708610"
+			"pwdrequired" "1"
+			"timeupdated" "1733926962"
+		}
+		"playtestcloud"
+		{
+			"buildid" "15350432"
+			"pwdrequired" "1"
+			"timeupdated" "1723549514"
+		}
+		"prototypetesting"
+		{
+			"buildid" "16654108"
+			"pwdrequired" "1"
+			"timeupdated" "1733476256"
+		}
+		"staging"
+		{
+			"buildid" "16643925"
+			"pwdrequired" "1"
+			"timeupdated" "1733406349"
+		}
+		"staging-dev"
+		{
+			"buildid" "16645107"
+			"pwdrequired" "1"
+			"timeupdated" "1733411744"
+		}
+		"staging2"
+		{
+			"buildid" "15265622"
+			"pwdrequired" "1"
+			"timeupdated" "1722871934"
+		}
+		"testing"
+		{
+			"buildid" "16340895"
+			"pwdrequired" "1"
+			"timeupdated" "1731503249"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FarMech/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "Farmech/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26595434"
+"_sha" "683ab7dfae26ae2d83f65138f235706a7b6eb925"
+"_size" "12088"
