@@ -1,0 +1,726 @@
+"appid" "1249970"
+"common"
+{
+	"name" "Test Drive Unlimited Solar Crown"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "a007be26221795a5911ff1223aa16a172cc11a94"
+	"clienttga" "0b353ef7e9ebaf44f9b36de2c4bdf4c94371ba91"
+	"icon" "e248a0a8c7cf3dc18fe3070cd11ced11f7844f5a"
+	"logo" "d6ce057a7bd1535bf0921f16c69b762de9089b42"
+	"logo_small" "d6ce057a7bd1535bf0921f16c69b762de9089b42_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"vietnamese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1249970_eula_0"
+			"name" "Test Drive Unlimited Solar Crown EULA"
+			"url" "https://store.steampowered.com//eula/1249970_eula_0"
+			"version" "5"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1726272000"
+		"tested_build_id" "15544415"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726144103"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KT Racing"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Test Drive"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "29"
+		"1" "9"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726156796"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1249970"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1695"
+		"2" "1644"
+		"3" "3834"
+		"4" "3859"
+		"5" "4175"
+		"6" "5411"
+		"7" "4191"
+		"8" "5673"
+		"9" "3839"
+		"10" "599"
+		"11" "1697"
+		"12" "1100687"
+		"13" "128"
+		"14" "4182"
+		"15" "4252"
+		"16" "1773"
+		"17" "16250"
+		"18" "3843"
+		"19" "4747"
+	}
+	"review_score" "4"
+	"review_percentage" "34"
+}
+"extended"
+{
+	"developer" "KT Racing"
+	"publisher" "Nacon"
+	"homepage" "https://testdriveunlimited.com/"
+	"listofdlc" "2515670,2515680,2515690,2515700"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "TDUSC"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TDUSC.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Sard\\SARD.Runner.exe"
+			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internalautobuilds"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+				"french" "Launch with Sard Test path"
+			}
+			"description" "Launch with Sard"
+		}
+		"2"
+		{
+			"executable" "Sard\\SardUpdater.exe"
+			"arguments" "-sardKey e6211068-c54e-402a-a455-e42b6810201a -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sard"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+			}
+			"description" "Launch with Sard"
+		}
+		"3"
+		{
+			"executable" "Sard\\SardUpdater.exe"
+			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internaltest2"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+			}
+			"description" "Launch with Sard"
+		}
+		"4"
+		{
+			"executable" "Sard\\SardUpdater.exe"
+			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external_test_2"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+			}
+			"description" "Launch with Sard"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,arabic,brazilian,vietnamese"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1249971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2471024910700225224"
+				"size" "80168057158"
+				"download" "70941681696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dbox"
+			{
+				"gid" "D816544299EB0AB445667B7A84D666C9"
+				"size" "F31F694B7040FB39D72C2298BF28FADC"
+				"download" "5FEE35EC55E668157F7D6718F71A5791"
+			}
+			"_amd_"
+			{
+				"gid" "5742C8B5C291EC1411D5ED9948D664A0"
+				"size" "AED52E2D25DA1C62EE2E708AF7DDE793"
+				"download" "D03BB946721D05078369D930B066AA91"
+			}
+			"3goo"
+			{
+				"gid" "362A21184BB89FFCE3C12AD81D454BFD"
+				"size" "74E4EF19D625C650FE6C35E95627E43A"
+				"download" "5FD5E992BBDB654ED5963F32858FB95C"
+			}
+			"external_test"
+			{
+				"gid" "CEF0CE75ED526FDC829E53047EF602DF"
+				"size" "5258190A024F786859486015E1CBCE10"
+				"download" "F5451E3D65267BB12412B2ACE5CB9987"
+			}
+			"external_test_2"
+			{
+				"gid" "FA6029C69A4D45B18B4FF8251B23E546"
+				"size" "1EFA40D8D0DD0ECEC2B26D54B658D219"
+				"download" "A5F1EB04A439C82166D5969A0CA1969C"
+			}
+			"external_test_3"
+			{
+				"gid" "263CB6CE17F66861C87DD0F421769E96"
+				"size" "653F8ED2B5F4C43C3D75AD3181EA421A"
+				"download" "B8812FABAEDE182CDAD62FD9F382630B"
+			}
+			"huwiz_build"
+			{
+				"gid" "76C0A18D316ABC41370EF0B26D07991B"
+				"size" "FC5978719EFFB0067E87D152D682296A"
+				"download" "239A45192F7E32F564F1ABDEEDAFDF62"
+			}
+			"intel"
+			{
+				"gid" "4888438B3442FC71DB9723AAEF554A9C"
+				"size" "D4DF56256E21421786698B4F8A76DE91"
+				"download" "523238BBD8D56AFAE0E2729AD541B37D"
+			}
+			"internal_market"
+			{
+				"gid" "9FB79FD562610701187B79EC8166988E"
+				"size" "CE6FECD092DB2AC515A4B18B1B800BE4"
+				"download" "33745E7352419909F2995144B5B5BD32"
+			}
+			"internalautobuilds"
+			{
+				"gid" "A812A430F4D704A040D94B2C223603EA"
+				"size" "151ABAC56338AB9F1EABF63154AB2248"
+				"download" "7ABF34F05CE7B4328D033F277B41CD6C"
+			}
+			"internaltest"
+			{
+				"gid" "4DF919E9686D755A8273C6595C3576FD"
+				"size" "B37655062FEA00435D8D18F131488CF2"
+				"download" "1837C3DB3F0253008E483F1398A601A0"
+			}
+			"internaltest2"
+			{
+				"gid" "F680532CF5675D00A665599FD04C01DA"
+				"size" "8489856A224D9A40D48774F6ECF364C7"
+				"download" "C0215B98ED575A189A086527EF2B9EA9"
+			}
+			"internaltest3"
+			{
+				"gid" "B971908F89C5648CE10A55D7A7A8B120"
+				"size" "F34483821FCA092E46F929A0CFA7557F"
+				"download" "CBB6F2FC2EF0EBEA1E98A745D146935C"
+			}
+			"logsenabled"
+			{
+				"gid" "1C762D43C9AAF789A8C53B996214B2E2"
+				"size" "4F0914490B75348FEE9696445F4DBF20"
+				"download" "1F7318366E5CA517BE84A02B896BA0F4"
+			}
+			"market"
+			{
+				"gid" "9D4B9285FA6E1077AA499D00F3B132AE"
+				"size" "4474A73C2A98748339FCD9B593DAFDDD"
+				"download" "E7930F3785BCCDADE35A327B42B3A2B6"
+			}
+			"market_beta_s2"
+			{
+				"gid" "DDE12445B8DC0F3A70007BFCA15A1ABD"
+				"size" "6E57586543246BA07CB5BCE7C713ABB9"
+				"download" "A17985DF91651908427C3729E86A4C26"
+			}
+			"nacon_autobuilds"
+			{
+				"gid" "BB69BCE98320839B2053999E39D3AB09"
+				"size" "83134F95B89C41D2137552DF49060757"
+				"download" "C18DCB6B9743B2CA52BFF978D5695542"
+			}
+			"nvidia"
+			{
+				"gid" "25194EDDF043705B8D50684F1DA05E9D"
+				"size" "5B9535167B1239EF8C159AA93DC66A39"
+				"download" "DBFEE951C88F0545E8C8CDFCD8A8D0E1"
+			}
+			"preprod_maintenance"
+			{
+				"gid" "96256E4B3E3E6012B461E6764C05B0E9"
+				"size" "1921BFA09506E4E99D2F13D42D72C67E"
+				"download" "F5FC22A74ED67D52BF46051113E68301"
+			}
+			"sard"
+			{
+				"gid" "D4A9EC9CE497EBBB194809DD74E6DFB6"
+				"size" "8324520A9B66CB5D77891E0927FEAD14"
+				"download" "9A358ED268C210DAC8963E564C8B1AF6"
+			}
+			"steering_wheels_tests"
+			{
+				"gid" "19AE7E464249E8B5DED4E62F97D12F73"
+				"size" "0D0D0946CEB9513C632306F18875BB68"
+				"download" "5B806D1999D652FD42EA667CF973267C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16604941"
+			"timeupdated" "1733906439"
+		}
+		"dbox"
+		{
+			"buildid" "13187537"
+			"pwdrequired" "1"
+			"timeupdated" "1705499106"
+		}
+		"_amd_"
+		{
+			"buildid" "15639649"
+			"pwdrequired" "1"
+			"timeupdated" "1725978006"
+		}
+		"3goo"
+		{
+			"buildid" "15876100"
+			"pwdrequired" "1"
+			"timeupdated" "1728403177"
+		}
+		"external_test"
+		{
+			"buildid" "16536101"
+			"pwdrequired" "1"
+			"timeupdated" "1732789027"
+		}
+		"external_test_2"
+		{
+			"buildid" "16604740"
+			"pwdrequired" "1"
+			"timeupdated" "1733393095"
+		}
+		"external_test_3"
+		{
+			"buildid" "16489468"
+			"pwdrequired" "1"
+			"timeupdated" "1732290771"
+		}
+		"huwiz_build"
+		{
+			"buildid" "16040370"
+			"pwdrequired" "1"
+			"timeupdated" "1728978050"
+		}
+		"intel"
+		{
+			"buildid" "15639649"
+			"pwdrequired" "1"
+			"timeupdated" "1725977979"
+		}
+		"internal_market"
+		{
+			"buildid" "16224805"
+			"pwdrequired" "1"
+			"timeupdated" "1730222048"
+		}
+		"internalautobuilds"
+		{
+			"buildid" "16602579"
+			"pwdrequired" "1"
+			"timeupdated" "1733153679"
+		}
+		"internaltest"
+		{
+			"buildid" "16604740"
+			"pwdrequired" "1"
+			"timeupdated" "1733835267"
+		}
+		"internaltest2"
+		{
+			"buildid" "16604740"
+			"pwdrequired" "1"
+			"timeupdated" "1733165381"
+		}
+		"internaltest3"
+		{
+			"buildid" "16536195"
+			"pwdrequired" "1"
+			"timeupdated" "1732805529"
+		}
+		"logsenabled"
+		{
+			"buildid" "15794334"
+			"pwdrequired" "1"
+			"timeupdated" "1727093362"
+		}
+		"market"
+		{
+			"buildid" "16224805"
+			"pwdrequired" "1"
+			"timeupdated" "1730369822"
+		}
+		"market_beta_s2"
+		{
+			"buildid" "15301298"
+			"pwdrequired" "1"
+			"timeupdated" "1723456432"
+		}
+		"nacon_autobuilds"
+		{
+			"buildid" "16602579"
+			"pwdrequired" "1"
+			"timeupdated" "1733936413"
+		}
+		"nvidia"
+		{
+			"buildid" "15728663"
+			"pwdrequired" "1"
+			"timeupdated" "1727098495"
+		}
+		"preprod_maintenance"
+		{
+			"buildid" "16536195"
+			"pwdrequired" "1"
+			"timeupdated" "1732786682"
+		}
+		"sard"
+		{
+			"buildid" "15728663"
+			"pwdrequired" "1"
+			"timeupdated" "1726653355"
+		}
+		"steering_wheels_tests"
+		{
+			"buildid" "15639649"
+			"pwdrequired" "1"
+			"timeupdated" "1726241690"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26596830"
+"_sha" "81fa847e1996d58fe6484f8c1c7b8b27db4c7edb"
+"_size" "14401"
