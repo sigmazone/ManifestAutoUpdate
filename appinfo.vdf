@@ -1,0 +1,496 @@
+"appid" "1590760"
+"common"
+{
+	"name" "Metal Slug Tactics"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "9789f187ffe38a59d9b1a06036e6e606167e61e9"
+	"logo_small" "9789f187ffe38a59d9b1a06036e6e606167e61e9_thumb"
+	"icon" "6eb147e72bbd4d82da0b1467233bcb5b11009187"
+	"clienticon" "e21261a035b9a592d341528c2e9311c97a6c8919"
+	"clienttga" "e4b6bc5d7d1827355839e607db4cc8644c9f3e95"
+	"name_localized"
+	{
+		"schinese" "合金弹头：战略版"
+		"tchinese" "合金彈頭：戰略版"
+		"japanese" "METAL SLUG TACTICS"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1730937600"
+		"tested_build_id" "16241027"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "14503c6447e20737f8d3a263d82f5a1876581fe0/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "zh-tw,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.789937857860025"
+			"height_pct" "98.10021372595583"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "b6731d1d4f801d88b4873eb04e425badc08bf109/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "372bfdf85a0dd4155efd5e5a61ec63e1585bd37d/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "372bfdf85a0dd4155efd5e5a61ec63e1585bd37d/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.789937857860025"
+				"height_pct" "98.10021372595583"
+			}
+			"image"
+			{
+				"english" "2db8d1a965e92676c323ca1931cc7c76fad51c51/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"tchinese" "library_header_tchinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"english" "483f87bdca5516289c29cb6bbf53a416501d15ad/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731506006"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Leikir Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dotemu"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dotemu"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730815161"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1590760"
+	"store_tags"
+	{
+		"0" "1677"
+		"1" "21725"
+		"2" "9"
+		"3" "1678"
+		"4" "3871"
+		"5" "1684"
+		"6" "4182"
+		"7" "3964"
+		"8" "4026"
+		"9" "3959"
+		"10" "4821"
+		"11" "122"
+		"12" "1708"
+		"13" "3993"
+		"14" "12472"
+		"15" "4004"
+		"16" "4231"
+		"17" "17305"
+		"18" "13276"
+		"19" "4168"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Leikir Studio"
+	"publisher" "Dotemu"
+	"homepage" "https://metalslugtactics.com/"
+}
+"config"
+{
+	"installdir" "MST"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Metal Slug Tactics.exe"
+		}
+	}
+}
+"depots"
+{
+	"1590761"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2952516580865772885"
+				"size" "1640629831"
+				"download" "1143142720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"leikir_external"
+			{
+				"gid" "62D7BEDB4A26835948ADFD849238BF4D"
+				"size" "BE15B2BCAC84EF86D5E55BB7B80977FB"
+				"download" "36C9C30B34DFC877262DA7757A94C808"
+			}
+			"playtests"
+			{
+				"gid" "E09CF987D4BCC5DECB4E30F692CDD00D"
+				"size" "520E1C35B6863D7A09A658599DB2A0E2"
+				"download" "8611DDC8BFC773B7EC7D9AC39E27450C"
+			}
+			"backup"
+			{
+				"gid" "0614C3E83871AAD7AC035D1F1D342012"
+				"size" "DA272DA2A4BD83A2D2E471E8D36FA122"
+				"download" "3BBBC89E83611AB95D1D7A8020BD03A0"
+			}
+			"development"
+			{
+				"gid" "E2D90590257F1A803F26632C1ABCB203"
+				"size" "4C681492595AC69ED39253A24EB86D07"
+				"download" "5A2F9FE5AD0CFA73855C93EB1E2E3405"
+			}
+			"expo"
+			{
+				"gid" "BE46D2F5E29D3F8F5AEA0680FF508461"
+				"size" "A855F03A0647547C2DD6F251838D033F"
+				"download" "3D4EF949992FB3199232C15BC6ABA184"
+			}
+			"external"
+			{
+				"gid" "923E0D9E6D957CD6DC5852C470B200C2"
+				"size" "B3E2F0F728F7F86012FD54FEF1D899D3"
+				"download" "0828ECDCB131176C30F163EFA07B14AD"
+			}
+			"external_qa"
+			{
+				"gid" "AFDB70B18B9778F17968D61E4E4342FB"
+				"size" "781968C8EB4E524B33F199DA5F30F8CD"
+				"download" "CD57C435D9B933B7BEF43501BC82F339"
+			}
+			"gamera"
+			{
+				"gid" "BE87C60D519198E5CF1B0E4D863E6650"
+				"size" "6368A6776F6674E4D8C66EFEDD862249"
+				"download" "4E477578383205E32527A3B5024E5419"
+			}
+			"internal"
+			{
+				"gid" "CC2E63AB7D0F0DF18FEC0B73C11A5F76"
+				"size" "A752B9986FECA86884254166B89B0A52"
+				"download" "F82478DBB6CD9424393FE21238E250C5"
+			}
+			"older"
+			{
+				"gid" "7DFB2FDA637AF81C80156ACCA2932B21"
+				"size" "7234C740CBAF4B875BCC45EF65D9D282"
+				"download" "3033B4A09F058A39A885992404573855"
+			}
+			"press"
+			{
+				"gid" "34D4A4DEDC9D41D2B5604475C23EBBB1"
+				"size" "448FF7EAABD0FA984E879EE2444151EE"
+				"download" "2623E6496314B463EE5176AEE709910A"
+			}
+			"release"
+			{
+				"gid" "D7F1740E0696BE9B220D4CB634D64718"
+				"size" "B9CDFC2FE956C209E8EA2FEAB8272D33"
+				"download" "F33CD58D016C8B0ACCE416479F1686A5"
+			}
+			"snk_review"
+			{
+				"gid" "3D468E8011C1B17484CECB1E83AF38BD"
+				"size" "FF21E14F154A277A3CD5EE3B3B24F64A"
+				"download" "38A3B5C8966BCDF84307D098DCDD5D85"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16631148"
+			"timeupdated" "1733842696"
+		}
+		"leikir_external"
+		{
+			"buildid" "12226375"
+			"pwdrequired" "1"
+			"timeupdated" "1695204226"
+		}
+		"playtests"
+		{
+			"buildid" "14002597"
+			"pwdrequired" "1"
+			"timeupdated" "1713800877"
+		}
+		"backup"
+		{
+			"buildid" "15745400"
+			"pwdrequired" "1"
+			"timeupdated" "1727421981"
+		}
+		"development"
+		{
+			"buildid" "16631148"
+			"pwdrequired" "1"
+			"timeupdated" "1733326289"
+		}
+		"expo"
+		{
+			"buildid" "16014599"
+			"pwdrequired" "1"
+			"timeupdated" "1728922283"
+		}
+		"external"
+		{
+			"buildid" "15693647"
+			"pwdrequired" "1"
+			"timeupdated" "1726494927"
+		}
+		"external_qa"
+		{
+			"buildid" "16503701"
+			"pwdrequired" "1"
+			"timeupdated" "1732524289"
+		}
+		"gamera"
+		{
+			"buildid" "16631148"
+			"pwdrequired" "1"
+			"timeupdated" "1733478345"
+		}
+		"internal"
+		{
+			"buildid" "16423856"
+			"pwdrequired" "1"
+			"timeupdated" "1731693373"
+		}
+		"older"
+		{
+			"buildid" "15983519"
+			"pwdrequired" "1"
+			"timeupdated" "1730196404"
+		}
+		"press"
+		{
+			"buildid" "16381350"
+			"pwdrequired" "1"
+			"timeupdated" "1731596308"
+		}
+		"release"
+		{
+			"buildid" "16241027"
+			"pwdrequired" "1"
+			"timeupdated" "1730380028"
+		}
+		"snk_review"
+		{
+			"buildid" "16343784"
+			"pwdrequired" "1"
+			"timeupdated" "1731088909"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "\\Leikir Studio\\Metal Slug Tactics\\Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26577083"
+"_sha" "85574c489c8eee1c6ab8c582a61542b0818fdab1"
+"_size" "9857"
