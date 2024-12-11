@@ -76,7 +76,56 @@
 			"height_pct" "65.80384706720494"
 		}
 	}
-	"store_asset_mtime" "1714135571"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "45.44924154025671"
+				"height_pct" "65.80384706720494"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732911697"
 	"associations"
 	{
 		"0"
@@ -183,9 +232,9 @@
 		"0" "87918"
 		"1" "615955"
 		"2" "255534"
-		"3" "599"
-		"4" "12472"
-		"5" "3964"
+		"3" "3964"
+		"4" "599"
+		"5" "12472"
 		"6" "1654"
 		"7" "4520"
 		"8" "1643"
@@ -197,12 +246,12 @@
 		"14" "4726"
 		"15" "3835"
 		"16" "7332"
-		"17" "597"
-		"18" "4845"
+		"17" "4845"
+		"18" "597"
 		"19" "492"
 	}
 	"review_score" "9"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -267,30 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "8026768872864859"
-				"size" "277843205"
-				"download" "75790880"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "113B011FDA1CD6B0BCDB600C57CAC5CC"
-				"size" "0F0549BE5ECC735A3E96183FC19F0003"
-				"download" "740A4D402929887B32722038C4B06FF5"
-			}
-			"developer"
-			{
-				"gid" "83EF75E6F15628966ED74FB2EAFD2DE8"
-				"size" "E9D78DB2C6B4FC7CE026E8EC2223517F"
-				"download" "9CFC5D890CD990BBD5B7DCA9C0919639"
-			}
-			"performancetest"
-			{
-				"gid" "F6E1F0EEDFD8F68D389CF10D91D99D90"
-				"size" "7B2D746D9100A1B67734356BF6B3DB63"
-				"download" "C45378ADE40B0F6AFB73BE83BD5827F6"
+				"gid" "6387290684002099004"
+				"size" "305366455"
+				"download" "77849408"
 			}
 		}
 	}
@@ -304,30 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "8003480276713291261"
-				"size" "270869036"
-				"download" "73412672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "4351EB4ECDF1087A70F3A72B22CC20CC"
-				"size" "FBF8FF683720EAFA58E98E0CF27B71E5"
-				"download" "1CFCA55EEC0634AC71E7453681865ABA"
-			}
-			"developer"
-			{
-				"gid" "D657D1129AEC2AB6865740F982D3C0BA"
-				"size" "B1B9711274440CC4963C66E02AE813EE"
-				"download" "626E86BE60DD8495CD01959FF1E98C6E"
-			}
-			"performancetest"
-			{
-				"gid" "F3A3562CB2D46294568A6C5F96DA6C8D"
-				"size" "2BB916C3293A30473AEDEF74642F145B"
-				"download" "E52AF6E3AE20D541976F84A4BF41FE9C"
+				"gid" "6862398869454479293"
+				"size" "298061252"
+				"download" "75491984"
 			}
 		}
 	}
@@ -339,28 +346,11 @@
 	{
 		"public"
 		{
-			"buildid" "14744346"
-			"timeupdated" "1718641351"
-		}
-		"experimental"
-		{
-			"buildid" "13785980"
-			"pwdrequired" "1"
-			"timeupdated" "1710854334"
-		}
-		"developer"
-		{
-			"buildid" "14744346"
-			"pwdrequired" "1"
-			"timeupdated" "1718640479"
-		}
-		"performancetest"
-		{
-			"buildid" "14375637"
-			"pwdrequired" "1"
-			"timeupdated" "1715777032"
+			"buildid" "16699460"
+			"timeupdated" "1733865754"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -416,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24075996"
-"_sha" "63eb6c900f6ff1df748af04148e8e884f31fa9b7"
-"_size" "7644"
+"_change_number" "26582821"
+"_sha" "746e8bd1266462bb8acb482be8c5d27c57d6c6ec"
+"_size" "6926"
