@@ -65,7 +65,8 @@
 			"recommended_runtime" "proton-stable"
 		}
 	}
-	"metacritic_name" "Ready Or Not - Alpha"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -84,6 +85,48 @@
 			"pinned_position" "BottomCenter"
 			"width_pct" "39.614935822637165"
 			"height_pct" "45.44072969473844"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "39.614935822637165"
+				"height_pct" "45.44072969473844"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1705678412"
@@ -116,6 +159,12 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 	}
 	"supported_languages"
 	{
@@ -204,14 +253,14 @@
 		"19" "1721"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "88"
 }
 "extended"
 {
 	"developer" "VOID Interactive"
 	"publisher" "VOID Interactive"
 	"homepage" "https://voidinteractive.net"
-	"listofdlc" "1844910,3015760"
+	"listofdlc" "1844910,3015760,3174120"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -334,25 +383,13 @@
 		{
 			"public"
 			{
-				"gid" "4668544276755972480"
-				"size" "60413804261"
-				"download" "49302781584"
-			}
-			"supporteralpha"
-			{
-				"gid" "55077935660307619"
-				"size" "60458903044"
-				"download" "49368811936"
+				"gid" "3575885382582979492"
+				"size" "66316749953"
+				"download" "53975249376"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"rc1.0"
-			{
-				"gid" "DF92AC8EA2A07420247FD8A1125EB36B"
-				"size" "E4F9BDB3A8C2D3B8145F573C298D34D9"
-				"download" "79D0EA113AF1A943AAF3F7A50D659335"
-			}
 			"staging2.25"
 			{
 				"gid" "2AFA028DBF106BEF23A82486553407A3"
@@ -367,27 +404,27 @@
 			}
 			"dev01"
 			{
-				"gid" "AB118E3D1D30AFB2634B703E2F71F394"
-				"size" "B2907CE1A9EDB8A8F9B5303DED6A0FD9"
-				"download" "32053FD4583F57F15679B7EBB88A15FE"
+				"gid" "82A3927BDB4EEAEE84184C32D4B734F0"
+				"size" "DAC2B729E58B27978724B720F4AAC6D1"
+				"download" "18E44149008577B662C3D1291EFC5B5F"
 			}
 			"dev02"
 			{
-				"gid" "B2EB2206D34DC73234D09B77750477DA"
-				"size" "DDF9C7EC536DF6CE892D3B67996459A3"
-				"download" "1891AEA0FB7109D08AC40FB5752FA004"
+				"gid" "B0C5182326CC8C9422616604652CCBD3"
+				"size" "F58B0A0203C58EDFA1CBCC98BD2BCCB5"
+				"download" "F5EA710D90BC1A1918A5EDEE840940A4"
 			}
 			"nightly2"
 			{
-				"gid" "6B61428F97BB0B21E208312D64BF09E8"
-				"size" "5EAB0AE125417C99CE63885D1269AEEF"
-				"download" "D782CCAA985F7A11742E33689B62654A"
+				"gid" "A8F07F061D3FE54FFCE7D1BE66412CC3"
+				"size" "9C2982BD276823A6312A613B1B8DAE22"
+				"download" "16FE10C88A6FE67E89092C32D4340123"
 			}
 			"nightly3"
 			{
-				"gid" "7FAEBDFEA2F7B2A620134DE84F6D0DA2"
-				"size" "D434FA2FEEB41E840720A830BDC18E2E"
-				"download" "65E1A8BDF0F7A03FF2451EB3A6E0F531"
+				"gid" "7EA5F1A1EC2387E81C7B148F2A8710FE"
+				"size" "1AF148301B24DD33CE59C0E9D2CB85EB"
+				"download" "99C6D3ADFA9A3523ACCEA484BF269331"
 			}
 			"nightly4"
 			{
@@ -401,17 +438,35 @@
 				"size" "7BF1C7D6836B1E6AF13908EC0ED382A6"
 				"download" "FE7F63BFEF362380069C0E37616A150B"
 			}
+			"rc_dlc2"
+			{
+				"gid" "0F2A4AF9CC2B94D93CE7EE65DCE61461"
+				"size" "239E9B13C77384E8527302CC06742DF2"
+				"download" "CAEF1D8A2DB5C7DC61D79D9191D46ACB"
+			}
+			"rc_dlc2_dev"
+			{
+				"gid" "CC0D3F5541ADC34BE91E556B28166DA6"
+				"size" "3E17EA19FCBC887B2E6183457C5F8245"
+				"download" "14B0F3D0B7AE49A10A220635B886F8A7"
+			}
+			"rc_dlc2_p1"
+			{
+				"gid" "8BFE89FD155310A0DA652369C64A5322"
+				"size" "9CCC56D31F79FA581A5545E26597B9BB"
+				"download" "0ED297BAA5C168B94D78A4F9B056AB1B"
+			}
 			"staging2"
 			{
-				"gid" "B76080265EA59A98429273AE9E29BAFE"
-				"size" "CDE0DA0B967C2C7279A58464A6831F9A"
-				"download" "B50AD3F860D6B3AB2BCFA8A8EAD1792F"
+				"gid" "06E4AC4B39FDD36A213E9457EC122DDA"
+				"size" "A9854E084C7FDE8FF1C2E375089787F5"
+				"download" "0BAE6D1AAB5D16954A6F328CDA24B7B7"
 			}
 			"staging2.2"
 			{
-				"gid" "E8E1C880C5F9FF874DDCB53299DA1527"
-				"size" "35C8933D96A56F7E92D116D9F394B399"
-				"download" "F2F48CC87D00BBF9125F06A4228122A8"
+				"gid" "CC0FF34AC7D8C56F76CC762D5A3ECC0B"
+				"size" "DCB45AB00DCD37EAF85F5BE3F996229B"
+				"download" "1B10DD4498A16E8673A100C4C9C79718"
 			}
 			"staging2.4"
 			{
@@ -425,14 +480,8 @@
 	{
 		"public"
 		{
-			"buildid" "15394684"
-			"timeupdated" "1724267093"
-		}
-		"rc1.0"
-		{
-			"buildid" "12929291"
-			"pwdrequired" "1"
-			"timeupdated" "1702323914"
+			"buildid" "16680248"
+			"timeupdated" "1733860869"
 		}
 		"staging2.25"
 		{
@@ -448,27 +497,27 @@
 		}
 		"dev01"
 		{
-			"buildid" "15105734"
+			"buildid" "16591450"
 			"pwdrequired" "1"
-			"timeupdated" "1721589721"
+			"timeupdated" "1733033560"
 		}
 		"dev02"
 		{
-			"buildid" "15008660"
+			"buildid" "16545814"
 			"pwdrequired" "1"
-			"timeupdated" "1720905400"
+			"timeupdated" "1732669291"
 		}
 		"nightly2"
 		{
-			"buildid" "15392083"
+			"buildid" "16521360"
 			"pwdrequired" "1"
-			"timeupdated" "1723795995"
+			"timeupdated" "1732530164"
 		}
 		"nightly3"
 		{
-			"buildid" "15448673"
+			"buildid" "16590436"
 			"pwdrequired" "1"
-			"timeupdated" "1724250177"
+			"timeupdated" "1733013762"
 		}
 		"nightly4"
 		{
@@ -482,29 +531,41 @@
 			"pwdrequired" "1"
 			"timeupdated" "1715646169"
 		}
+		"rc_dlc2"
+		{
+			"buildid" "16680248"
+			"pwdrequired" "1"
+			"timeupdated" "1733747469"
+		}
+		"rc_dlc2_dev"
+		{
+			"buildid" "16680631"
+			"pwdrequired" "1"
+			"timeupdated" "1733749338"
+		}
+		"rc_dlc2_p1"
+		{
+			"buildid" "16701250"
+			"pwdrequired" "1"
+			"timeupdated" "1733878130"
+		}
 		"staging2"
 		{
-			"buildid" "15084991"
+			"buildid" "16591482"
 			"pwdrequired" "1"
-			"timeupdated" "1721368796"
+			"timeupdated" "1733034047"
 		}
 		"staging2.2"
 		{
-			"buildid" "15394684"
+			"buildid" "15460442"
 			"pwdrequired" "1"
-			"timeupdated" "1723810747"
+			"timeupdated" "1724333278"
 		}
 		"staging2.4"
 		{
 			"buildid" "15274076"
 			"pwdrequired" "1"
 			"timeupdated" "1722932794"
-		}
-		"supporteralpha"
-		{
-			"buildid" "15235147"
-			"description" "For early builds of the game to test for supporters"
-			"timeupdated" "1722625363"
 		}
 	}
 }
@@ -536,23 +597,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_atmainmenu" "At the main menu"
-				"#status_pregamelobby" "In Pre-Game Lobby"
-				"#status_inmission" "In A Mission [%mission%]"
-				"#status_custom" "%custom%"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24885868"
-"_sha" "ae4c667826c0489152afa0a886d6c2b1f622ab3e"
-"_size" "10644"
+"_change_number" "26584774"
+"_sha" "1ea95d28882bebc455953fcbe2505d0d242a78f4"
+"_size" "11438"
