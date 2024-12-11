@@ -102,7 +102,56 @@
 			"height_pct" "99.83519629585629"
 		}
 	}
-	"store_asset_mtime" "1718980930"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "99.83519629585629"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733839376"
 	"associations"
 	{
 		"0"
@@ -210,20 +259,21 @@
 		"0" "1721"
 		"1" "1742"
 		"2" "1667"
-		"3" "19"
+		"3" "7432"
 		"4" "4166"
-		"5" "7432"
-		"6" "3942"
-		"7" "4604"
-		"8" "3839"
-		"9" "7702"
+		"5" "19"
+		"6" "3839"
+		"7" "5900"
+		"8" "3942"
+		"9" "4182"
 		"10" "4345"
-		"11" "4342"
-		"12" "4182"
-		"13" "1687"
-		"14" "5900"
+		"11" "4604"
+		"12" "7702"
+		"13" "4342"
+		"14" "1687"
 		"15" "4064"
 		"16" "3978"
+		"17" "1662"
 	}
 	"review_score" "8"
 	"review_percentage" "89"
@@ -252,6 +302,51 @@
 				"english" "Launch Game"
 			}
 			"description" "Launch Game"
+		}
+		"2"
+		{
+			"executable" "Habitat\\Binaries\\Win64\\Habitat.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_development"
+			}
+			"description_loc"
+			{
+				"english" "Launch Game (internal)"
+			}
+			"description" "Launch Game (internal)"
+		}
+		"3"
+		{
+			"executable" "Habitat\\Binaries\\Win64\\Habitat-Win64-Test.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_test"
+			}
+			"description_loc"
+			{
+				"english" "Launch Game (internal)"
+			}
+			"description" "Launch Game (internal)"
+		}
+		"4"
+		{
+			"executable" "Habitat\\Binaries\\Win64\\Habitat-Win64-Test.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_test_stable"
+			}
+			"description_loc"
+			{
+				"english" "Launch Game (internal)"
+			}
+			"description" "Launch Game (internal)"
 		}
 	}
 }
@@ -331,9 +426,9 @@
 		{
 			"public"
 			{
-				"gid" "7121433487404692748"
-				"size" "10870886701"
-				"download" "9160428336"
+				"gid" "3264180139315592711"
+				"size" "10925720127"
+				"download" "9196093280"
 			}
 		}
 		"encryptedmanifests"
@@ -406,33 +501,39 @@
 			}
 			"developer"
 			{
-				"gid" "27CE59DA257370EE87CF96F76A33734F"
-				"size" "07DC57F850E6BCC40AE3AC0C1DC931BC"
-				"download" "8AFABE74CFB589779BAD557AD64951CD"
+				"gid" "25790113423CB86008E8377F646B2D12"
+				"size" "2462C89B1329243259E2CF123DE02C11"
+				"download" "D964E6A4113C0968D314279A9B9CB981"
 			}
 			"devshipping"
 			{
-				"gid" "82C6684401428D331984665D7AD6A510"
-				"size" "E4EA36CAF60EA9F63423DDB0609400CA"
-				"download" "3422FDA1F81AC1B5F1E0E43EDF483B30"
+				"gid" "E84CAC5FEBF2938B52F966C46621D2F1"
+				"size" "CC60EC96C4F93318E9E95706EDB4AFC1"
+				"download" "C6777B4865C1975EFB1E1007090ADADA"
 			}
 			"internal_development"
 			{
-				"gid" "FD7202F6E95F75079E8ADE6F953591B1"
-				"size" "2C8AF707B8436E0480801561339AA9B6"
-				"download" "D2C22583F443FDD5D00E030FADD01F00"
+				"gid" "8D0BCE6F8E50785AECB35C7D257B0DEB"
+				"size" "7B16E327CE57BF6F6EB6E8B21B90A9A6"
+				"download" "3525B1B3FB25D59A289C0E451D173E0D"
 			}
 			"internal_test"
 			{
-				"gid" "8E4D0129ACA5431025EADA13FD92ADAC"
-				"size" "FFB42ABC0B59E93B80CC8C446750E7B6"
-				"download" "BF7D39A14D48C89856B2DED0DF4A8326"
+				"gid" "B64F9699B706BE352404B65F2AE0077C"
+				"size" "64A28953752E4090E4C6454113C9BAB4"
+				"download" "69FBD85CBA109757A235E650CDC04CF8"
+			}
+			"internal_test_stable"
+			{
+				"gid" "8D380161F5D9F389136AF5388CF68B10"
+				"size" "E13328DBF64FD5150F46E4BDB250F345"
+				"download" "9CEDCD481D476DF3298221B489248C26"
 			}
 			"performance"
 			{
-				"gid" "99763340C7A5B240114C3CCA0A734098"
-				"size" "D09FCA8BBFD534AF8E9DB36A3389A181"
-				"download" "372E46DEA86C0FD0EA68379386697225"
+				"gid" "5EFDC2EE2466E9B54940A4C76E4D8130"
+				"size" "E9496E655ACB9299E354CA1FC8ED7DBB"
+				"download" "6F3FDBD252AB6EDA43BB863404782D9A"
 			}
 		}
 	}
@@ -440,8 +541,8 @@
 	{
 		"public"
 		{
-			"buildid" "15040927"
-			"timeupdated" "1721120642"
+			"buildid" "16595098"
+			"timeupdated" "1733839082"
 		}
 		"alpha"
 		{
@@ -511,37 +612,43 @@
 		}
 		"developer"
 		{
-			"buildid" "15347173"
+			"buildid" "16669306"
 			"pwdrequired" "1"
-			"timeupdated" "1723498613"
+			"timeupdated" "1733611557"
 		}
 		"devshipping"
 		{
-			"buildid" "15360579"
+			"buildid" "16595098"
 			"pwdrequired" "1"
-			"timeupdated" "1723585110"
+			"timeupdated" "1733092537"
 		}
 		"internal_development"
 		{
-			"buildid" "15464864"
+			"buildid" "16700471"
 			"pwdrequired" "1"
-			"timeupdated" "1724363049"
+			"timeupdated" "1733872602"
 		}
 		"internal_test"
 		{
-			"buildid" "15465052"
+			"buildid" "16700507"
 			"pwdrequired" "1"
-			"timeupdated" "1724364411"
+			"timeupdated" "1733872854"
+		}
+		"internal_test_stable"
+		{
+			"buildid" "16572322"
+			"pwdrequired" "1"
+			"timeupdated" "1732872992"
 		}
 		"performance"
 		{
-			"buildid" "15353984"
+			"buildid" "16632045"
 			"pwdrequired" "1"
-			"timeupdated" "1723546512"
+			"timeupdated" "1733330957"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24903923"
-"_sha" "04f025c4fd8f405fd283ba577fa851ad430fb109"
-"_size" "10398"
+"_change_number" "26583791"
+"_sha" "7264e776961a58457c55ed28f5a7ad0f124597e6"
+"_size" "12342"
