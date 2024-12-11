@@ -1,0 +1,617 @@
+"appid" "588030"
+"common"
+{
+	"name" "Derail Valley"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+		"standing" "1"
+	}
+	"logo" "2f4ddb4572000e0607b21dda4f7b11a11ee1ee9b"
+	"logo_small" "2f4ddb4572000e0607b21dda4f7b11a11ee1ee9b_thumb"
+	"icon" "6c26642672799cfc00a0b11398b9807d682a767d"
+	"clienttga" "3997da56b2d7e520bc25a752beefb75122fe35ce"
+	"clienticon" "ce91a672ac33c3038e50fc02fffa67e7133d2bf1"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"openvr_controller_bindings"
+	{
+		"0"
+		{
+			"controller_type" "knuckles"
+			"url" "vr-input-workshop://1789274644"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664582400"
+		"tested_build_id" "7243338"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Derail Valley"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.07675487392693"
+			"height_pct" "72.26782039103936"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.07675487392693"
+				"height_pct" "72.26782039103936"
+			}
+		}
+	}
+	"store_asset_mtime" "1688091873"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Altfuture"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Altfuture"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_52" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1548439299"
+	"community_hub_visible" "1"
+	"gameid" "588030"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1616"
+		"2" "4175"
+		"3" "21978"
+		"4" "10383"
+		"5" "1644"
+		"6" "1695"
+		"7" "3839"
+		"8" "3968"
+		"9" "9204"
+		"10" "4695"
+		"11" "8945"
+		"12" "4182"
+		"13" "492"
+		"14" "3810"
+		"15" "21"
+		"16" "4711"
+		"17" "1654"
+		"18" "5125"
+		"19" "4166"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,beta"
+	"developer" "Altfuture"
+	"publisher" "Altfuture"
+	"homepage" "http://www.derailvalley.com/"
+}
+"config"
+{
+	"installdir" "Derail Valley"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DerailValley.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "DerailValley.exe"
+			"arguments" "-vrmode oculus"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "DerailValley.exe"
+			"arguments" "-nonvr"
+			"description" "Non-VR version"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3369509528"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"588031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6160596556433566029"
+				"size" "5109183065"
+				"download" "2214042800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"buildbot-aco"
+			{
+				"gid" "5DBFBF97F99B0F8C502EB912BA21E029"
+				"size" "1DA86A74098002172E4EBC5734977B1B"
+				"download" "50DF9E42C9E2231B02F69CBA42C6BC3E"
+			}
+			"buildbot-dragos"
+			{
+				"gid" "844145142A52AA9343C189972716F41D"
+				"size" "50F5D46DCF5B4465D3AE5B3CB2FBD7F7"
+				"download" "9849DD4B374CBC6BA94C0184C5F34AF5"
+			}
+			"buildbot-dvbot"
+			{
+				"gid" "11A9A6B9A8ADCB174048209A3D6B1952"
+				"size" "F1A81155EA4424A8B2CB138CDC4529FF"
+				"download" "1A1096F2AA6ED17F7BFAB7812E1A62B0"
+			}
+			"buildbot-nenad"
+			{
+				"gid" "4550DC6C6672A5C12B60014FA1A24E0C"
+				"size" "EB9BA618BB473A069854F85272AAE960"
+				"download" "CB9A1A42036D2983CD0164CACB66E937"
+			}
+			"buildbot-nikola"
+			{
+				"gid" "C9CF05A7E37D70A36784BBF04C0B0400"
+				"size" "41AB293CDDE67CE7E88EA6363DC95EC2"
+				"download" "62DA5F167B59E7ED42686A0830E9895D"
+			}
+			"buildbot-sloba"
+			{
+				"gid" "7DADD15AB3869A15F6417D5B643466FF"
+				"size" "3EE2B431E7F4DB9628F0841032A37436"
+				"download" "865BD4558266DF42670B00F34DD6391D"
+			}
+			"buildbot-vlada"
+			{
+				"gid" "97D34E44713C5FC958993FAE179F5DD1"
+				"size" "98F74F01DB06838C1680A4E667C2F46F"
+				"download" "26A729A480CC63AC0974839173F7F1D7"
+			}
+			"buildbot-zeibach"
+			{
+				"gid" "24536ADB3CC15067A96201B18CB9C15B"
+				"size" "C52ECFD0ABDB97808C800C4E9EA18695"
+				"download" "E5D3CE78ADC98C125AD10FEAF2B1F907"
+			}
+			"closed-beta-s2"
+			{
+				"gid" "135003AD1E1072B3719D80469710BE75"
+				"size" "88A2564C38523D7FF63BD4AEBD9B4BCA"
+				"download" "A9EE93DFB69A84DCBB89316C412763A5"
+			}
+			"nightly"
+			{
+				"gid" "3275E815F3A168377F184E4576156D58"
+				"size" "86BA1ED5F61CDCAF117C2FB0825DD94D"
+				"download" "C87EF851A756E85E9234A2CA8AFA847B"
+			}
+		}
+	}
+	"588032"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2313122337171636852"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"buildbot-aco"
+			{
+				"gid" "2C5FC459B6B5357CD80279AA53720AF3"
+				"size" "5234648F7157D14C4237A252CC01F1AC"
+				"download" "5234648F7157D14C4237A252CC01F1AC"
+			}
+			"buildbot-dragos"
+			{
+				"gid" "F74C1E9F711C27916582FF0767A3E486"
+				"size" "4E7AA16A77545160F5129BAD0941649B"
+				"download" "4E7AA16A77545160F5129BAD0941649B"
+			}
+			"buildbot-dvbot"
+			{
+				"gid" "CFBF415283375597C06C5B865FEC29FA"
+				"size" "467BEDC55CA42610C2B6A87FBABDAB67"
+				"download" "467BEDC55CA42610C2B6A87FBABDAB67"
+			}
+			"buildbot-nenad"
+			{
+				"gid" "7155B45CF39DC14FD9AB859875344EDF"
+				"size" "97571D626441F258333A9491E1CFE645"
+				"download" "97571D626441F258333A9491E1CFE645"
+			}
+			"buildbot-nikola"
+			{
+				"gid" "0FE93CBC7F7C1F8E34C03D41079989D5"
+				"size" "645FD06A72CC9093C8F8505F786A1D5A"
+				"download" "645FD06A72CC9093C8F8505F786A1D5A"
+			}
+			"buildbot-sloba"
+			{
+				"gid" "F2CF6BD44020E157FD0670F1DB15BFDC"
+				"size" "20A302A758DF8F414508BCEB6B5C34FF"
+				"download" "20A302A758DF8F414508BCEB6B5C34FF"
+			}
+			"buildbot-vlada"
+			{
+				"gid" "B249A54904637241F88481890EAF47EC"
+				"size" "CAF938D1E18C461658F4DA5BB777EE43"
+				"download" "CAF938D1E18C461658F4DA5BB777EE43"
+			}
+			"buildbot-zeibach"
+			{
+				"gid" "BC84F04ED28F3D030D0EF0452333FA79"
+				"size" "849F948780492ECF6D1261FB701F6EF6"
+				"download" "849F948780492ECF6D1261FB701F6EF6"
+			}
+			"closed-beta-s2"
+			{
+				"gid" "1B2885667A369828FF8D7742253C50DB"
+				"size" "0DB546487CD890E59C5461F3F300076F"
+				"download" "0DB546487CD890E59C5461F3F300076F"
+			}
+			"nightly"
+			{
+				"gid" "54C23DD24288EBEAD42BC6646F712570"
+				"size" "F6DBB6B71324FB59ABF678D0C032771D"
+				"download" "F6DBB6B71324FB59ABF678D0C032771D"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16696797"
+			"timeupdated" "1733861485"
+		}
+		"buildbot-aco"
+		{
+			"buildid" "16667712"
+			"pwdrequired" "1"
+			"timeupdated" "1733587096"
+		}
+		"buildbot-dragos"
+		{
+			"buildid" "16696151"
+			"pwdrequired" "1"
+			"timeupdated" "1733846329"
+		}
+		"buildbot-dvbot"
+		{
+			"buildid" "16686437"
+			"pwdrequired" "1"
+			"timeupdated" "1733784181"
+		}
+		"buildbot-nenad"
+		{
+			"buildid" "16659920"
+			"pwdrequired" "1"
+			"timeupdated" "1733506890"
+		}
+		"buildbot-nikola"
+		{
+			"buildid" "16582104"
+			"pwdrequired" "1"
+			"timeupdated" "1732902153"
+		}
+		"buildbot-sloba"
+		{
+			"buildid" "16696797"
+			"pwdrequired" "1"
+			"timeupdated" "1733849699"
+		}
+		"buildbot-vlada"
+		{
+			"buildid" "16324824"
+			"pwdrequired" "1"
+			"timeupdated" "1730969020"
+		}
+		"buildbot-zeibach"
+		{
+			"buildid" "16474368"
+			"pwdrequired" "1"
+			"timeupdated" "1732116676"
+		}
+		"closed-beta-s2"
+		{
+			"buildid" "16696797"
+			"pwdrequired" "1"
+			"timeupdated" "1733861460"
+		}
+		"nightly"
+		{
+			"buildid" "16702370"
+			"pwdrequired" "1"
+			"timeupdated" "1733886342"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Altfuture/Derail Valley/Users"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Altfuture/Derail Valley/Users"
+					"replace" "unity.Altfuture.DerailValley/Users"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Altfuture/Derail Valley/Users"
+					"replace" ".config/unity3d/Altfuture/Derail Valley/Users"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26586225"
+"_sha" "d082da804b7994c9f78b0eb37140ca438f3c5260"
+"_size" "11865"
