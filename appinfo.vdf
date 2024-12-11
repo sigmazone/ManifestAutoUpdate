@@ -27,7 +27,7 @@
 			"id" "1839950_eula_0"
 			"name" "Terminator: Dark Fate - Defiance EULA"
 			"url" "https://store.steampowered.com//eula/1839950_eula_0"
-			"version" "1"
+			"version" "2"
 		}
 	}
 	"content_descriptors"
@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1718208592"
+	"store_asset_mtime" "1733853747"
 	"associations"
 	{
 		"0"
@@ -263,7 +263,7 @@
 		"19" "4821"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -271,6 +271,8 @@
 	"publisher" "Slitherine Ltd."
 	"homepage" "https://www.slitherine.com/steam"
 	"gamemanualurl" "https://store.steampowered.com/manual/1839950/"
+	"listofdlc" "3227830"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -310,30 +312,42 @@
 		{
 			"public"
 			{
-				"gid" "2383688742417315519"
-				"size" "17870149586"
-				"download" "17935665296"
+				"gid" "2633032070935570040"
+				"size" "21626740967"
+				"download" "21737758288"
 			}
 			"beta"
 			{
-				"gid" "7956311654678995098"
-				"size" "17718647171"
-				"download" "17782121984"
+				"gid" "7906176558203030451"
+				"size" "21661433978"
+				"download" "21772921968"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "678B303BDE1286A300242E21D3985A47"
-				"size" "EDC3DB5AAEABF0F3E2C87545ADB9EE77"
-				"download" "7FDE1AAA13C3BEFFFE6F30E81458F87A"
+				"gid" "D99DFB752BDC317ACD68232502759C07"
+				"size" "7F977D95F6C420830FBB7EF809EDA6FB"
+				"download" "FFBB012A2196F0A72266938380B020DF"
 			}
 			"marketing"
 			{
-				"gid" "1B6F85C6057F3639F57A2DAC3723D267"
-				"size" "E1F1C3B86A19CEE0020A1051F812877E"
-				"download" "CD34D814BD924C974E09B9566669320D"
+				"gid" "CB5683F894E22EFD05145ADFC9EDBE32"
+				"size" "E461745EB72FABB5FF5D800A065E2028"
+				"download" "B2850258E8D215E3A65B87D0E9C671E2"
+			}
+			"press"
+			{
+				"gid" "D9F36302CF0DF976B6176238C88A0377"
+				"size" "E33785345ECBF14559765F19A75183E8"
+				"download" "F396AA5F97F53FCEB17E77F8BD126577"
+			}
+			"skydance"
+			{
+				"gid" "70587F11399092BF318614BA61C23F87"
+				"size" "9B1B68D72C471A07F8EA4AB88A8707E5"
+				"download" "9A09F72E535924E128A3503D90A68A69"
 			}
 		}
 	}
@@ -343,30 +357,82 @@
 		{
 			"public"
 			{
-				"gid" "8695330053248388507"
-				"size" "6253567"
-				"download" "3422704"
+				"gid" "1306680047302127088"
+				"size" "6691645"
+				"download" "3527824"
 			}
 			"beta"
 			{
-				"gid" "612012513658672479"
-				"size" "6251586"
-				"download" "3421024"
+				"gid" "2769384942189847148"
+				"size" "6694721"
+				"download" "3529856"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "FBC4B1AFD086B82F11FA6E3DCD10BB43"
-				"size" "EE6F06D398904A5F3DBDA941F875CC28"
-				"download" "12CC188991FD2947B2667C3352699161"
+				"gid" "5E057311DBF2101ED27C861B02A9471B"
+				"size" "8B3A4B640BFC8E9DF0829C2A6CA36C0E"
+				"download" "F921120337CEF203E0E7364F28713E7C"
 			}
 			"marketing"
 			{
-				"gid" "F8D40DE9D6646AF923561D2953D29F09"
-				"size" "A07578D024C91AD0E49548EB60493A41"
-				"download" "34B81AA48B8E8793FA4BFA694B290E25"
+				"gid" "1146189B7DF8BABFA9FD8B785E6D5AA2"
+				"size" "8E5CA2580CFD27DE58CDE5970DAB96AB"
+				"download" "2E4AF2FBCC22D2425A42A5D73007029C"
+			}
+			"press"
+			{
+				"gid" "9F2B7D47C605F6561F33F7DB8A892785"
+				"size" "E9F97C11B27E7122143304EB2E0D431E"
+				"download" "E2193ABC0859E97FD1915C951FA99B06"
+			}
+			"skydance"
+			{
+				"gid" "05768C7EF4604531FA4EDB60F9BCB411"
+				"size" "A45DDE056A801A26585C95D005638A19"
+				"download" "7E51BF9FDD86B6B62899363E2B5A6B10"
+			}
+		}
+	}
+	"3227830"
+	{
+		"dlcappid" "3227830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "726207669938025595"
+				"size" "36"
+				"download" "96"
+			}
+			"beta"
+			{
+				"gid" "726207669938025595"
+				"size" "36"
+				"download" "96"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "5DA60ADD5703FB5F0749626E21AEDFB3"
+				"size" "92E596B355941BABB9A03D16F0BD846C"
+				"download" "CE49BA086F8F165B35EC2AEDD5E49543"
+			}
+			"marketing"
+			{
+				"gid" "C46F5BE05ECEF14BB43ADAAD0D24E5B0"
+				"size" "93094CD1FB852743C703E80D1B498BF8"
+				"download" "94FB341F0DFF07BED0E3D1DF28A2EAA6"
+			}
+			"press"
+			{
+				"gid" "71BB26A78639EFF307F45A4FA79CF851"
+				"size" "5B8003E7467360DC17C7DFA274A8CE0E"
+				"download" "EFE2E71653B342C200B001710A2BCE41"
 			}
 		}
 	}
@@ -374,26 +440,38 @@
 	{
 		"public"
 		{
-			"buildid" "15516638"
-			"timeupdated" "1724849657"
+			"buildid" "16679125"
+			"timeupdated" "1733841618"
 		}
 		"beta"
 		{
-			"buildid" "15431738"
+			"buildid" "16707316"
 			"description" "Open Beta"
-			"timeupdated" "1724159009"
+			"timeupdated" "1733923962"
 		}
 		"devtest"
 		{
-			"buildid" "15516638"
+			"buildid" "16709804"
 			"pwdrequired" "1"
-			"timeupdated" "1724837876"
+			"timeupdated" "1733933207"
 		}
 		"marketing"
 		{
-			"buildid" "14679038"
+			"buildid" "16679125"
 			"pwdrequired" "1"
-			"timeupdated" "1718185321"
+			"timeupdated" "1733742623"
+		}
+		"press"
+		{
+			"buildid" "16679125"
+			"pwdrequired" "1"
+			"timeupdated" "1733745119"
+		}
+		"skydance"
+		{
+			"buildid" "16599525"
+			"pwdrequired" "1"
+			"timeupdated" "1733217983"
 		}
 	}
 }
@@ -413,6 +491,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "2837a211271cc04227b6a2a068521210a27e872b"
-"_size" "7697"
+"_change_number" "26596064"
+"_sha" "4c192f93e2146236ecb634a83eff1a566c2cb287"
+"_size" "9466"
