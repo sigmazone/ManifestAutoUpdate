@@ -1,0 +1,546 @@
+"appid" "1556200"
+"common"
+{
+	"name" "Predator: Hunting Grounds"
+	"type" "Game"
+	"logo" "409bec67c0adab79e92c5029c2f22a64cdc965f7"
+	"logo_small" "409bec67c0adab79e92c5029c2f22a64cdc965f7_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "38b7aac1633f73f4c2f0027e7898b5e6c3fac17d"
+	"clienticon" "cd8a732ef07a123f6b2bc5db3c5e22a1f1247f27"
+	"icon" "f1999428612f1399472ae9f6eab8977eb1e7a071"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1556200_eula_0"
+			"name" "Predator: Hunting Grounds EULA"
+			"url" "https://store.steampowered.com//eula/1556200_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726876800"
+		"tested_build_id" "15696669"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.4279176201373"
+			"height_pct" "71.65653394999245"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.4279176201373"
+				"height_pct" "71.65653394999245"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a899adfe28c8e26e732dd56c3759a595bc498c0d/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a899adfe28c8e26e732dd56c3759a595bc498c0d/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727282491"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IllFonic"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IllFonic Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"latam"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1619704440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1556200"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "1663"
+		"2" "1775"
+		"3" "1774"
+		"4" "4747"
+		"5" "3839"
+		"6" "4191"
+		"7" "19"
+		"8" "7481"
+		"9" "5765"
+		"10" "1697"
+		"11" "4168"
+		"12" "4175"
+		"13" "3942"
+		"14" "1687"
+		"15" "1708"
+		"16" "1662"
+		"17" "1673"
+		"18" "4145"
+		"19" "3993"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"gamedir" "PHG"
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=1556200"
+	"serverbrowsername" "PHG"
+	"developer" "IllFonic"
+	"publisher" "IllFonic Publishing"
+	"listofdlc" "1599480,1599481,1599482,1599483,1599484,1599485,1599486,1605820,1636840,1696000,1756590,1847080,1870540,1919280,1996830,2198530,2225270,3189160,3228960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Predator Hunting Grounds"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EACLauncher.exe"
+			"arguments" "-Steam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "2"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1556201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4017639308990190230"
+				"size" "47140708820"
+				"download" "24727568496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cert"
+			{
+				"gid" "02AB9EA0938C5F91A89442863F316C39"
+				"size" "966DC9C1D1FEC3DB524EF6CB431CF5DC"
+				"download" "1445B52046286459A2592B4C5E88A03F"
+			}
+			"daily"
+			{
+				"gid" "1B712C5176C35D4420FA206A95F75540"
+				"size" "13F01E16432473AF100B0608358B827D"
+				"download" "31A66AB6A093AF6F47C4D7E9E6F9E8F0"
+			}
+			"development"
+			{
+				"gid" "8910E2E90F858D98749259B2C3A5F78D"
+				"size" "3C5296F4D8A9FDB9BB1B322FEDAA7F82"
+				"download" "3994FBB29835904AE287054537CDD457"
+			}
+			"main"
+			{
+				"gid" "2D3F86D3295047DB0471616F4ADAE6ED"
+				"size" "725F83FE828CE3E33DE417087AF2AF9A"
+				"download" "1FE01F9DE1E0774CD1E14F5A511AC412"
+			}
+			"nightly"
+			{
+				"gid" "562B7A79DBAA8A849B8B33E0F7C8F934"
+				"size" "39E690B4238242194CC05ABB372CE1C2"
+				"download" "594238463FCD6C36D06C1FA553A27E13"
+			}
+			"partners"
+			{
+				"gid" "BF0AD44F1523EE42537A8B75FBE1BD1D"
+				"size" "F466F7BA559009C1C9063ABE381C38E9"
+				"download" "134422F0FF4E3F6842AB37658DF5E59C"
+			}
+			"playtest"
+			{
+				"gid" "66376D4BE37D3BE3EC2C4A19EB3FB7A7"
+				"size" "EE0231D8E2071517FBA7F246D09DAA90"
+				"download" "950CD34535250776944EB6372FE312C7"
+			}
+			"production"
+			{
+				"gid" "FF4E521A2EB9DEA867F74F097D0FCF27"
+				"size" "A1A372DFBC4C1275D6496EB76FDFA789"
+				"download" "872C7ECF3140DCFBA66129CFD7946369"
+			}
+			"qatesting"
+			{
+				"gid" "060FCF442D38EEAC3BF69194FEE4386F"
+				"size" "5E623C8207E1FCC5825D73D4278E5B8A"
+				"download" "D2C0C51E1ED11F6312DF106A226FB28F"
+			}
+			"release_candidate"
+			{
+				"gid" "8B15B039258F2291291B205B8C322C63"
+				"size" "1B2A866E1D787F4E80E4901D77B6DFBC"
+				"download" "B1CCFFCE61B7929E41009E59DF2D73BC"
+			}
+			"shipping"
+			{
+				"gid" "69A62AE72CDE38CE43A857C72180B936"
+				"size" "D32429D196ABE5F8F0799FA38E8355DD"
+				"download" "01DA880C2D1CF9CEA0225CB805D05685"
+			}
+			"staging"
+			{
+				"gid" "49F1B8DAFA73269A3BD8EC910DEBADBA"
+				"size" "B7FA214BF7D0B018ADC24A3F55346311"
+				"download" "8E56FC63BD5495320950C748A4B3B3E8"
+			}
+			"testing"
+			{
+				"gid" "6D684C81658A7AA3A937BDA680968088"
+				"size" "D460756A48FBF3242B91E48FA2DB7DDD"
+				"download" "8BE9A42E380C8C12CA387AFBF00E401F"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,portuguese,polish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16651805"
+			"timeupdated" "1733857374"
+		}
+		"cert"
+		{
+			"buildid" "16531889"
+			"pwdrequired" "1"
+			"timeupdated" "1732588035"
+		}
+		"daily"
+		{
+			"buildid" "15656835"
+			"pwdrequired" "1"
+			"timeupdated" "1726007628"
+		}
+		"development"
+		{
+			"buildid" "16318715"
+			"pwdrequired" "1"
+			"timeupdated" "1731429326"
+		}
+		"main"
+		{
+			"buildid" "16699646"
+			"pwdrequired" "1"
+			"timeupdated" "1733866879"
+		}
+		"nightly"
+		{
+			"buildid" "16698600"
+			"pwdrequired" "1"
+			"timeupdated" "1733859975"
+		}
+		"partners"
+		{
+			"buildid" "15582155"
+			"pwdrequired" "1"
+			"timeupdated" "1726072469"
+		}
+		"playtest"
+		{
+			"buildid" "16325549"
+			"pwdrequired" "1"
+			"timeupdated" "1731082114"
+		}
+		"production"
+		{
+			"buildid" "16413752"
+			"pwdrequired" "1"
+			"timeupdated" "1731633945"
+		}
+		"qatesting"
+		{
+			"buildid" "16658734"
+			"pwdrequired" "1"
+			"timeupdated" "1733530289"
+		}
+		"release_candidate"
+		{
+			"buildid" "16529898"
+			"pwdrequired" "1"
+			"timeupdated" "1732572295"
+		}
+		"shipping"
+		{
+			"buildid" "16651805"
+			"pwdrequired" "1"
+			"timeupdated" "1733456289"
+		}
+		"staging"
+		{
+			"buildid" "16698410"
+			"pwdrequired" "1"
+			"timeupdated" "1733858674"
+		}
+		"testing"
+		{
+			"buildid" "16652663"
+			"pwdrequired" "1"
+			"timeupdated" "1733465537"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "65536"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SpaceFish/Saved/SaveGames"
+			"pattern" "UserSettings.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SpaceFish/Saved/SaveGames/Steam"
+			"pattern" "UserSettings.sav"
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26582750"
+"_sha" "4ee443197a624b391f1d33dad9ff38eb98c74ea4"
+"_size" "10735"
