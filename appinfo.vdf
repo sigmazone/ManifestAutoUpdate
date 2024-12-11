@@ -1,0 +1,284 @@
+"appid" "884110"
+"common"
+{
+	"name" "SCP: 5K - Community Dedicated Server"
+	"type" "Tool"
+	"parent" "872670"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e"
+	"logo_small" "3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e_thumb"
+	"icon" "468e44c0258fb87dc5953d932bd054e814b72084"
+	"clienticon" "b72916c7288eceb8fe7a385bb6a068bc700bab84"
+	"clienttga" "29a850f7271f985753102727458b99c373c31a06"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "884110"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"installdir" "SCP Pandemic Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WindowsServer/PandemicServer.exe"
+			"arguments" "-log"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "WindowsServer/PandemicServer.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"884111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6544323200593317338"
+				"size" "3271167710"
+				"download" "1096987824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "719C94B45D5BC6AB379A933DD1A730C4"
+				"size" "9B2E8F49EA86988D86A6BCF688D09414"
+				"download" "AB27653B61C0E5C820B98572A611B93F"
+			}
+			"debug"
+			{
+				"gid" "71E4447E21BD8C02258CA299A1DF0970"
+				"size" "C5C2998A911CFD659D359CB4BCE18B7F"
+				"download" "CEFF20B8F4BDACF38841D6F9A9541073"
+			}
+			"indev"
+			{
+				"gid" "83B86630B482050DCAA9DFC3B1C71700"
+				"size" "91BE6C5F83024F3EFE95C2F5DF5142FF"
+				"download" "917F23CEF951B6589CD999269FA4E633"
+			}
+			"internalqa"
+			{
+				"gid" "8C006E6372C65CD43EFAA0390F1E9E5B"
+				"size" "358CF442B362D61390296572ACE36240"
+				"download" "A36804A023B98B3CD6E216D943371563"
+			}
+			"ldtest1"
+			{
+				"gid" "3B12F17C33713C5A97B6E53C0CFCB081"
+				"size" "C57F164A4A8D7C7E99CF178394C4D731"
+				"download" "3ADADDC94CDDE2A6BA424C7FEADC1717"
+			}
+			"ldtest2"
+			{
+				"gid" "45767971DA6330F9AE2C30FEE040C61B"
+				"size" "C52695A76C7E0649A66F73883BA62629"
+				"download" "AD0EE090B041EC88F00857150CF7F591"
+			}
+			"showcase"
+			{
+				"gid" "C94B746C47FA81B7ACEF347A66D5A94C"
+				"size" "E56943A43EF43333EE4351B64CFF9402"
+				"download" "F90ED3ADC9DEAF92828A38AA5A2A4E8B"
+			}
+		}
+	}
+	"884112"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5186489750870797601"
+				"size" "4273577311"
+				"download" "1182781648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4D6632FED3F57E38E938372023D5241F"
+				"size" "732464AE591D63CD133DA2BD5CB02D70"
+				"download" "EA7D7349896B6D45FAC250D05F59982B"
+			}
+			"debug"
+			{
+				"gid" "F2B4F9953F36F6C86FFE2709182C56BD"
+				"size" "8118258DDDD9BF25AA171C8E329EB282"
+				"download" "05B0E05CEA4AF8959FAE9477BDB450E1"
+			}
+			"indev"
+			{
+				"gid" "68488485FAF44959EBA5486E6C3096AD"
+				"size" "AD4B7A3A49AA0F8374E9D485DDA8F745"
+				"download" "27C216BC32EA7D1FF0C603AFE542CD9B"
+			}
+			"internalqa"
+			{
+				"gid" "993F7C750D4143212C931DBC120C9A56"
+				"size" "D4C812F274342FF8EB3B3D898DB6D0ED"
+				"download" "E1CD3E9E4390C5DC8FAA3546337AB9D7"
+			}
+			"ldtest1"
+			{
+				"gid" "CB9D00F8FE928819060EB7E6EEC4953B"
+				"size" "446060386AC5293D6EABBEF76ACB92A0"
+				"download" "3F0DB0E515D111287F6A8438852F9CF1"
+			}
+			"ldtest2"
+			{
+				"gid" "B0E341EC8799BD461AB9B7F9854E5759"
+				"size" "5202F672CC8DD2B1A6F0EBD56A6820C1"
+				"download" "7A54F650557AB084DEA92DD81D90BEEC"
+			}
+			"showcase"
+			{
+				"gid" "CE81529CE9DA0AF6D72F0E2E6A89A5DC"
+				"size" "2D41FBEA49A406DD7052DBCE81DDE889"
+				"download" "6A486F7B3B90D4BA857E5C6CC101EEE0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16551168"
+			"timeupdated" "1733792862"
+		}
+		"alpha"
+		{
+			"buildid" "14047839"
+			"pwdrequired" "1"
+			"timeupdated" "1713071191"
+		}
+		"debug"
+		{
+			"buildid" "16373967"
+			"pwdrequired" "1"
+			"timeupdated" "1731387731"
+		}
+		"indev"
+		{
+			"buildid" "16551168"
+			"pwdrequired" "1"
+			"timeupdated" "1732705443"
+		}
+		"internalqa"
+		{
+			"buildid" "16551168"
+			"pwdrequired" "1"
+			"timeupdated" "1732708017"
+		}
+		"ldtest1"
+		{
+			"buildid" "16662579"
+			"pwdrequired" "1"
+			"timeupdated" "1733525283"
+		}
+		"ldtest2"
+		{
+			"buildid" "16670416"
+			"pwdrequired" "1"
+			"timeupdated" "1733628835"
+		}
+		"showcase"
+		{
+			"buildid" "16551168"
+			"pwdrequired" "1"
+			"timeupdated" "1733801632"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26568794"
+"_sha" "ad518517a3ca1f6e6b43906d20107faba4032458"
+"_size" "5472"
