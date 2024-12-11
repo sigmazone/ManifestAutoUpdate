@@ -1,0 +1,567 @@
+"appid" "2186320"
+"common"
+{
+	"name" "Ages of Conflict: World War Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "98b22ed6d66a5bf049244787a3c42a3d267f699f"
+	"clienticon" "65d4cbea3386f70713e51859b01bcfe0a34fb101"
+	"clienttga" "744a926c23b292c510096b8a55509149ea813bac"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"name_localized"
+	{
+		"schinese" "冲突时代：世界大战模拟器"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"polish" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728518400"
+		"tested_build_id" "15950890"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "4828dd797ee0949b3007217faa986af3770a2c63/capsule_231x87.jpg"
+		"schinese" "b3fa1c59b5f428f47dc61f089cfbe66bac71c2da/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "59.91831971995333"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "59.91831971995333"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1729414931"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "JoySpark Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "JoySpark Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1676642421"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2186320"
+	"store_tags"
+	{
+		"0" "615955"
+		"1" "599"
+		"2" "3810"
+		"3" "8122"
+		"4" "5300"
+		"5" "4598"
+		"6" "493"
+		"7" "26921"
+		"8" "7926"
+		"9" "4684"
+		"10" "4853"
+		"11" "11014"
+		"12" "4150"
+		"13" "3987"
+		"14" "6310"
+		"15" "4182"
+		"16" "1684"
+		"17" "597"
+		"18" "4791"
+		"19" "3964"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "JoySpark Games"
+	"publisher" "JoySpark Games"
+}
+"config"
+{
+	"installdir" "Ages of Conflict World War Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ages of Conflict.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Ages of Conflict.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Ages of Conflict.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3344380986"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2186320"
+	"2186321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2474657330589544131"
+				"size" "132325104"
+				"download" "73739536"
+			}
+			"previous_version"
+			{
+				"gid" "5143822085404932810"
+				"size" "114372320"
+				"download" "55811248"
+			}
+			"v3.4.2"
+			{
+				"gid" "3995198342914784949"
+				"size" "114249590"
+				"download" "55706752"
+			}
+			"v3.3.1"
+			{
+				"gid" "7265021130839500288"
+				"size" "86763176"
+				"download" "40881872"
+			}
+			"v3.3.0"
+			{
+				"gid" "3462661800156933164"
+				"size" "86795856"
+				"download" "40910064"
+			}
+			"v2.4.4"
+			{
+				"gid" "6734634225777795277"
+				"size" "73151304"
+				"download" "30306352"
+			}
+			"v2.0.0"
+			{
+				"gid" "5223987594666213233"
+				"size" "86103116"
+				"download" "33646272"
+			}
+		}
+	}
+	"2186322"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2499489552225427636"
+				"size" "161383832"
+				"download" "81930160"
+			}
+			"previous_version"
+			{
+				"gid" "5931720539363067675"
+				"size" "143504439"
+				"download" "64075872"
+			}
+			"v3.4.2"
+			{
+				"gid" "8849220514666122611"
+				"size" "143403845"
+				"download" "63985056"
+			}
+			"v3.3.1"
+			{
+				"gid" "3045671015628495878"
+				"size" "115987458"
+				"download" "49534720"
+			}
+			"v3.3.0"
+			{
+				"gid" "2137197837270043489"
+				"size" "115917938"
+				"download" "49481408"
+			}
+			"v2.4.4"
+			{
+				"gid" "1159866181636761931"
+				"size" "97692115"
+				"download" "37850400"
+			}
+			"v2.0.0"
+			{
+				"gid" "4391669117928343520"
+				"size" "109763313"
+				"download" "40674784"
+			}
+		}
+	}
+	"2186323"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "519571376559117159"
+				"size" "138932192"
+				"download" "73924496"
+			}
+			"previous_version"
+			{
+				"gid" "2883465056889874228"
+				"size" "120971928"
+				"download" "55985712"
+			}
+			"v3.4.2"
+			{
+				"gid" "4603828285923912299"
+				"size" "120847259"
+				"download" "55912656"
+			}
+			"v3.3.1"
+			{
+				"gid" "8001982511571749068"
+				"size" "94253151"
+				"download" "41677360"
+			}
+			"v3.3.0"
+			{
+				"gid" "5479340616746988330"
+				"size" "94283927"
+				"download" "41712720"
+			}
+			"v2.4.4"
+			{
+				"gid" "7508972009664576692"
+				"size" "75654431"
+				"download" "30309328"
+			}
+			"v2.0.0"
+			{
+				"gid" "5216358256048058707"
+				"size" "87985023"
+				"download" "33146448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16690607"
+			"timeupdated" "1733816837"
+		}
+		"previous_version"
+		{
+			"buildid" "16420761"
+			"description" "Previous Version of the Game"
+			"timeupdated" "1733574877"
+		}
+		"v3.4.2"
+		{
+			"buildid" "16113888"
+			"description" "Old Version v3.4.2"
+			"timeupdated" "1731677314"
+		}
+		"v3.3.1"
+		{
+			"buildid" "15296418"
+			"description" "Old Version v3.3.1"
+			"timeupdated" "1727619905"
+		}
+		"v3.3.0"
+		{
+			"buildid" "15257710"
+			"description" "Old Version v3.3.0"
+			"timeupdated" "1726307812"
+		}
+		"v2.4.4"
+		{
+			"buildid" "12560223"
+			"description" "Old Version v2.4.4 with old UI"
+			"timeupdated" "1726308240"
+		}
+		"v2.0.0"
+		{
+			"buildid" "10561556"
+			"description" "Old Launch Version"
+			"timeupdated" "1726308467"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "750000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "JoySparkGames/Ages of Conflict/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "JoySparkGames/Ages of Conflict/"
+					"replace" "com.JoySparkGames.AgesOfConflict/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "JoySparkGames/Ages of Conflict/"
+					"replace" ".config/unity3d/JoySparkGames/Ages of Conflict/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26584280"
+"_sha" "ef152e6113611e0dbd334f82cb283ff5a98e6c6c"
+"_size" "9916"
