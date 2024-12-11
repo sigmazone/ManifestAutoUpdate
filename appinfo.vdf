@@ -1,0 +1,1055 @@
+"appid" "1063730"
+"common"
+{
+	"name" "New World: Aeternum"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienttga" "199fc9cc4f8a45edde964f45e24d76734a973cee"
+	"clienticon" "c3bd6cff459f0b3dce2591c99f0c8ff3276133d4"
+	"icon" "492810f26b28acafb3e9940ad86a10526363bb35"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1063730_eula_1"
+			"name" "New World: Aeternum EULA"
+			"url" "https://store.steampowered.com//eula/1063730_eula_1"
+			"version" "11"
+		}
+	}
+	"logo" "9de9c940b61a4620259aa25b38e703fbd4bd30c5"
+	"logo_small" "9de9c940b61a4620259aa25b38e703fbd4bd30c5_thumb"
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1652832000"
+		"tested_build_id" "8706972"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "2fe94eba6734521fbd4f44fb23ea66cb79376067/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "47.70904925544101"
+			"height_pct" "36.5184318314804"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "312be985f8d89f3df6cef33e333f7fd33bc4c039/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "312be985f8d89f3df6cef33e333f7fd33bc4c039/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "ab4a58126f7da2a990384f13b65baf955425f53c/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "ab4a58126f7da2a990384f13b65baf955425f53c/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ab4a58126f7da2a990384f13b65baf955425f53c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "67df53e91221dcdf6f35cf6cec9b0a1927e18104/logo.png"
+			}
+			"image2x"
+			{
+				"english" "67df53e91221dcdf6f35cf6cec9b0a1927e18104/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "47.70904925544101"
+				"height_pct" "36.5184318314804"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "bd98bbdc4fdf388d07afa6ec8d781cb863bccfb0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "bd98bbdc4fdf388d07afa6ec8d781cb863bccfb0/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729703010"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Amazon Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Amazon Games"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_20" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1632841560"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1063730"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "128"
+		"2" "1754"
+		"3" "122"
+		"4" "21"
+		"5" "19"
+		"6" "1775"
+		"7" "6730"
+		"8" "3859"
+		"9" "1684"
+		"10" "4747"
+		"11" "5900"
+		"12" "1702"
+		"13" "1697"
+		"14" "1685"
+		"15" "1100689"
+		"16" "3810"
+		"17" "4667"
+		"18" "12095"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "BY,RU"
+	"anti_cheat_support_url" ""
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1826330"
+			"comment" "EAC runtime"
+		}
+	}
+	"developer" "Amazon Games"
+	"publisher" "Amazon Games"
+	"homepage" "https://www.newworld.com/"
+	"listofdlc" "1200566,1266150,1266151,1266152,1266153,2221520,2487480,3161150,3161160"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "New World"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NewWorldLauncher.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "New World Aeternum"
+			}
+			"description" "New World Aeternum"
+		}
+		"1"
+		{
+			"executable" "bin65\\NewWorld.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1210560"
+			}
+			"description_loc"
+			{
+				"english" "GM Client"
+			}
+			"description" "GM Client"
+		}
+		"2"
+		{
+			"executable" "bin.debug\\NewWorld.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1716920"
+			}
+			"description_loc"
+			{
+				"english" "Release Client for Debugging"
+			}
+			"description" "Release Client for Debugging"
+		}
+		"3"
+		{
+			"executable" "NewWorldLauncher.lnk"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "scale-test"
+			}
+			"description_loc"
+			{
+				"english" "New world web"
+			}
+			"description" "New world web"
+		}
+		"5"
+		{
+			"executable" "NewWorldLauncher.exe"
+			"arguments" "-dx12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "New World Aeternum DX12 BETA PREVIEW"
+			}
+			"description" "New World Aeternum DX12 BETA PREVIEW"
+		}
+		"6"
+		{
+			"executable" "bin65\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId PPSA07398 -GmIsCrossplayOffWorld true"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1210560"
+			}
+			"description_loc"
+			{
+				"english" "GM Client to PlayStation Worlds"
+			}
+			"description" "GM Client to PlayStation Worlds"
+		}
+		"7"
+		{
+			"executable" "bin65\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId 9NPZJNVGHZ3P -GmIsCrossplayOffWorld true"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1210560"
+			}
+			"description_loc"
+			{
+				"english" "GM Client to Xbox Worlds"
+			}
+			"description" "GM Client to Xbox Worlds"
+		}
+		"8"
+		{
+			"executable" "bin.debug\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId PPSA07398 -GmIsCrossplayOffWorld true"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1716920"
+			}
+			"description_loc"
+			{
+				"english" "Release Client for Debugging PlayStation Worlds"
+			}
+			"description" "Release Client for Debugging PlayStation Worlds"
+		}
+		"9"
+		{
+			"executable" "bin.debug\\NewWorld.exe"
+			"arguments" "-GmPlatformAppId 9NPZJNVGHZ3P -GmIsCrossplayOffWorld true"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "1716920"
+			}
+			"description_loc"
+			{
+				"english" "Release Client for Debugging Xbox Worlds"
+			}
+			"description" "Release Client for Debugging Xbox Worlds"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1063731"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7466883100325656157"
+				"size" "81576995377"
+				"download" "70989191616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "A6373704DF204E058D447903089023B7"
+				"size" "C6DEE648342F12E6B0562E2513AB1629"
+				"download" "222A77445A35D1AC992969F6920CAEBB"
+			}
+			"preload"
+			{
+				"gid" "3A2250CA70C1851B2E7B86432A53D2B7"
+				"size" "71F28EDB7C3924E50125DD4E9781F9C3"
+				"download" "16A7260C55300A104374BD8641FD10B3"
+			}
+			"scale-test"
+			{
+				"gid" "F08AEA7D558A3448F0E5DF606374FD1D"
+				"size" "E515189E1C584F27C33A5C26A1F81A96"
+				"download" "A3AF55F72BC86F16C2A51A2A3C207D5C"
+			}
+			"staging"
+			{
+				"gid" "D44FAD69AD742CAAC02795BCF502C95D"
+				"size" "FE3D43F7A4C1D9E806CA183A0C491717"
+				"download" "331928B4E267D96C3BDE46DEFBE22F18"
+			}
+		}
+	}
+	"1200566"
+	{
+		"dlcappid" "1200566"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6793007841600635654"
+				"size" "402743150"
+				"download" "214043824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"preload"
+			{
+				"gid" "E8C7700AE01AE875815AFB918BAA8225"
+				"size" "897EE76FAE4EF39C98403C4EEEDCB280"
+				"download" "FB1FC808EAEF7708DA429D9B396F01A3"
+			}
+			"scale-test"
+			{
+				"gid" "27975A9E5CC64E7024929A13775A04C9"
+				"size" "3B8B12628F98D561297AC4C56868D1CF"
+				"download" "7EC59D6385BFD1FB8A79278CDECAE779"
+			}
+			"staging"
+			{
+				"gid" "7D1A9842C79F00A9E562B11B49E2D7A7"
+				"size" "B8F9CEC33C4AB9481D40B6E7E5EC803D"
+				"download" "508F263F1759A03C9A33B39395D9651B"
+			}
+		}
+	}
+	"1716920"
+	{
+		"dlcappid" "1716920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2513307436499411267"
+				"size" "520256177"
+				"download" "127034704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "C92512DAC9A6CB697B1F0693B984D0A3"
+				"size" "584E2F307B2E1C5F28F2D048BC9E11DC"
+				"download" "9F979DF67CA7C418630C104CEC1F44C3"
+			}
+			"preload"
+			{
+				"gid" "08F3F083C3CAB404F23CDDC0D6325DCA"
+				"size" "5B6D2C22A45C1120D835408C507187F8"
+				"download" "B48CAE891187E79CB57F5773714CEC52"
+			}
+			"scale-test"
+			{
+				"gid" "7F0B46F748F67637D095614F2DC1A792"
+				"size" "4B8267C552A4FCE613C5033ADFB8D71F"
+				"download" "46420CA561269E379AACAD173A02DDAB"
+			}
+			"staging"
+			{
+				"gid" "535F778457955EC3DE084E8B73E3DACF"
+				"size" "90253BB570E47FFEFE45063DF149D03C"
+				"download" "982C4620F683A2CAB6B48A55D6193DD8"
+			}
+		}
+	}
+	"1210560"
+	{
+		"dlcappid" "1210560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6931324277109907691"
+				"size" "226435256"
+				"download" "58973456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "4942C0243716737E4D6C758564DFCB92"
+				"size" "163281A861E20FC6BED98ED0A81C1097"
+				"download" "E04A41988D71E1A68DFD65FB91331176"
+			}
+			"preload"
+			{
+				"gid" "242567CC4070B235AF12AEF3D8B241D8"
+				"size" "54415C253C8A1F3B2131682A12DC6461"
+				"download" "3A05E16A2AC8A86BA32AD243A2924AE4"
+			}
+			"scale-test"
+			{
+				"gid" "47936CF4ECBC58ADA80319BD6EB62C57"
+				"size" "AA01EE4C13EF08E05B514F6CBCEB9A3B"
+				"download" "D8CF79BBC45763FB84C202D67B1BDBF6"
+			}
+			"staging"
+			{
+				"gid" "8D68ADC7D47FEAA2FE851BE2775B022E"
+				"size" "EB87CC0FC81C35BDC857D913BA9D2034"
+				"download" "3E4809101B18116DC5C801329E90F6FE"
+			}
+		}
+	}
+	"1063732"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6238800971831869233"
+				"size" "2059475240"
+				"download" "2059840288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "026F8C0F4C0AE7AD579D10A5BC8ACBA1"
+				"size" "703D9EEB896F578E2A053E895ACFD51B"
+				"download" "1EC2BCA9200788C2D332F58D46BEA118"
+			}
+			"preload"
+			{
+				"gid" "CED0D84F5FA6C8FE9C7D4233B77C9A77"
+				"size" "8B85955143BBE8DB7BDDDB034AF20A87"
+				"download" "73E134EDA3B7F162AA4F7101AE7AFB5D"
+			}
+			"scale-test"
+			{
+				"gid" "1C6CF42CE7495A65DEBE3726EFEAB67F"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "F4006BA67CD38A4CA7397319F0537A49"
+				"size" "C62530AAC0EA72A9BBF4618272B8BE2B"
+				"download" "5E2AD860F9B5D5C4900F6755B75C4574"
+			}
+		}
+	}
+	"1063733"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6493708731102469072"
+				"size" "2225529427"
+				"download" "2227547760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "C8564B51157DEB6626500D2943D820B9"
+				"size" "A1EDD7A740F38EF2EEB41A07B487FDDB"
+				"download" "9AE17F9F258463087BCBE8D373D90775"
+			}
+			"preload"
+			{
+				"gid" "BF56C544CED3DE9DCB4C4D3E8FBE8D71"
+				"size" "9AA64FBBE9AA2A42FF4028B59018E2B3"
+				"download" "36A9B77F61DD83EAC74AF1CECC7C6153"
+			}
+			"scale-test"
+			{
+				"gid" "8FD8EBC8EFAE05B80F1A062039F511AB"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "02B0818CC39FCDB600DB15B3C303CC86"
+				"size" "04BCF940A10E1862A7E83541A347F6A8"
+				"download" "0BB49CC8095110CEC800C19B81A7C6C0"
+			}
+		}
+	}
+	"1063734"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1518015067649235576"
+				"size" "2036430420"
+				"download" "2038503584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "DA1E406796F779ADEBA52B3FCFB67914"
+				"size" "D13AA35DE24C8DAA8CA26F94DCD79D63"
+				"download" "1C0F95FE110BD252E4A1D6FAA54AEBDB"
+			}
+			"preload"
+			{
+				"gid" "F2F265F93000F9D9865E892D01B43516"
+				"size" "71E8FEDD42288DB4EA39A643AE2C1FFA"
+				"download" "9471182AAB6039A77D022DFC70D2DA50"
+			}
+			"scale-test"
+			{
+				"gid" "95490369D21CB1FC64F593461EA90F6E"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "167E4D7BBBAE946399D94C9F2D9D37CC"
+				"size" "3C7E23D1F46EB516A9BC9BA025370FCC"
+				"download" "8DC31A99FC538E2CC7D89618243DD1C9"
+			}
+		}
+	}
+	"1063735"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8457778810779835140"
+				"size" "2303001978"
+				"download" "2302642496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "5CB137ED64E0B728A58493D04B76C2E5"
+				"size" "8329B12B0B206A031D72F7E9D00506C4"
+				"download" "C95C1DAE98A2DAB16C0261539A853A72"
+			}
+			"preload"
+			{
+				"gid" "6D971EE176FA20210985D56072F1FBE3"
+				"size" "B7549F16EF82A4EFEB7A60BD4654E608"
+				"download" "E50A72730EC77EA97BA57C36E526683C"
+			}
+			"scale-test"
+			{
+				"gid" "4FE1B61B20DD3C1CA4871542F666AAD7"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "FB2132EB7533673DF5173EFD5AA9EB21"
+				"size" "6B159C44FCF9CA28C745B40FDFC550C1"
+				"download" "D8F37DBCFA2617F7CF3F5B5B76FFC6EE"
+			}
+		}
+	}
+	"1063736"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8680470276706581170"
+				"size" "2087761584"
+				"download" "2086549104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "BEAD11F20FF159180D9C34DB4EC12EB1"
+				"size" "5244557B21BCCC0990DD000CB5258168"
+				"download" "90BC383DB3990D7DEA04A6C4C9C5B83B"
+			}
+			"preload"
+			{
+				"gid" "8316509ED4C96B2DB31BEBCA163F8942"
+				"size" "53BD68D63D09464857800D90CB091738"
+				"download" "2A9AC93347B7448AA8EA43DED6CBF217"
+			}
+			"scale-test"
+			{
+				"gid" "DF19DD85E1090D87021332E925F1339A"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "860C066FC84D5D5091AF2DAD0FEF2A7D"
+				"size" "6F3E21A14DD7007CAD59BCE24E7FA447"
+				"download" "E083930CA45C09287010C95BC2E5F0D0"
+			}
+		}
+	}
+	"1063737"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2533199060811001109"
+				"size" "2059475240"
+				"download" "2059840288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "78437F79644227558DC4C03719D8D42C"
+				"size" "703D9EEB896F578E2A053E895ACFD51B"
+				"download" "1EC2BCA9200788C2D332F58D46BEA118"
+			}
+			"preload"
+			{
+				"gid" "F84B8BAAD232A2CD8149A17B1ED61A61"
+				"size" "8B85955143BBE8DB7BDDDB034AF20A87"
+				"download" "73E134EDA3B7F162AA4F7101AE7AFB5D"
+			}
+			"scale-test"
+			{
+				"gid" "B4828F2B83904AFEDD154E6EE24E676F"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "076641711B63AA77A57539415176B5F5"
+				"size" "C62530AAC0EA72A9BBF4618272B8BE2B"
+				"download" "5E2AD860F9B5D5C4900F6755B75C4574"
+			}
+		}
+	}
+	"1063738"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "778914077569391397"
+				"size" "2059475240"
+				"download" "2059840288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "C3D939929C5E0573A04DD7A16A4C12EB"
+				"size" "703D9EEB896F578E2A053E895ACFD51B"
+				"download" "1EC2BCA9200788C2D332F58D46BEA118"
+			}
+			"preload"
+			{
+				"gid" "EC493B5D4703A3A0363FEF32FB84A2C3"
+				"size" "8B85955143BBE8DB7BDDDB034AF20A87"
+				"download" "73E134EDA3B7F162AA4F7101AE7AFB5D"
+			}
+			"scale-test"
+			{
+				"gid" "C083A81744EEE265D2D538AD97053B3E"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "B376D1E1624DC0D51B010427959B37A3"
+				"size" "C62530AAC0EA72A9BBF4618272B8BE2B"
+				"download" "5E2AD860F9B5D5C4900F6755B75C4574"
+			}
+		}
+	}
+	"1063739"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8947095797942083400"
+				"size" "2303001978"
+				"download" "2302642496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-test"
+			{
+				"gid" "50431621CA159C1F65442C7407510C6B"
+				"size" "8329B12B0B206A031D72F7E9D00506C4"
+				"download" "C95C1DAE98A2DAB16C0261539A853A72"
+			}
+			"preload"
+			{
+				"gid" "FE5C4E524022E5F9CCFB3533C2382200"
+				"size" "B7549F16EF82A4EFEB7A60BD4654E608"
+				"download" "E50A72730EC77EA97BA57C36E526683C"
+			}
+			"scale-test"
+			{
+				"gid" "53409A083B4A71BD2F7BF9925B94AA01"
+				"size" "3AAECDA774A2249315D347E77529840F"
+				"download" "3AAECDA774A2249315D347E77529840F"
+			}
+			"staging"
+			{
+				"gid" "CB197F8844E4D64D7169DEA776754A09"
+				"size" "6B159C44FCF9CA28C745B40FDFC550C1"
+				"download" "D8F37DBCFA2617F7CF3F5B5B76FFC6EE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16694352"
+			"timeupdated" "1733837437"
+		}
+		"default-test"
+		{
+			"buildid" "16659989"
+			"pwdrequired" "1"
+			"timeupdated" "1733507415"
+		}
+		"preload"
+		{
+			"buildid" "15921536"
+			"pwdrequired" "1"
+			"timeupdated" "1727989439"
+		}
+		"scale-test"
+		{
+			"buildid" "15498779"
+			"pwdrequired" "1"
+			"timeupdated" "1724713314"
+		}
+		"staging"
+		{
+			"buildid" "15922443"
+			"pwdrequired" "1"
+			"timeupdated" "1727995452"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26575636"
+"_sha" "5b65d7bef511611fb92c5b7e3cfe4b2d445775de"
+"_size" "21567"
