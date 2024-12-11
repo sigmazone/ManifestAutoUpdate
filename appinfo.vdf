@@ -12,6 +12,7 @@
 	"clienticon" "c25b9f62da31070e5b85423e389a448226366409"
 	"releasestate" "released"
 	"osextended" ""
+	"restricted_countries" "DE"
 	"metacritic_name" "SOULS"
 	"small_capsule"
 	{
@@ -133,7 +134,7 @@
 		"15" "24003"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -171,8 +172,8 @@
 		{
 			"public"
 			{
-				"gid" "8034319032035343404"
-				"size" "428831427"
+				"gid" "3884146282574108236"
+				"size" "428831445"
 				"download" "388133504"
 			}
 		}
@@ -181,13 +182,18 @@
 	{
 		"public"
 		{
-			"buildid" "15615483"
-			"timeupdated" "1725621936"
+			"buildid" "16677331"
+			"timeupdated" "1733728386"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "1000"
+	"maxnumfiles" "10"
+	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "26553301"
+"_sha" "13b387feb0dc46fb1aeec21ac31b3af53fd5c752"
+"_size" "3088"
