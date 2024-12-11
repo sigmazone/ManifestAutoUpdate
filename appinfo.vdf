@@ -39,34 +39,29 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1731369600"
-		"tested_build_id" "16176922"
+		"test_timestamp" "1732233600"
+		"tested_build_id" "16445302"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -74,8 +69,8 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
-			"non_deck_display_glyphs" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
@@ -161,7 +156,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731516291"
+	"store_asset_mtime" "1732189727"
 	"associations"
 	{
 		"0"
@@ -265,8 +260,8 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1731517209"
-	"steam_deck_blog_url" "https://steamcommunity.com/games/2510960/announcements/detail/4467101633890746859"
+	"steam_release_date" "1731517200"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2510960/announcements/detail/4467101633890746860"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2510960"
@@ -294,7 +289,7 @@
 		"19" "3859"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -357,24 +352,9 @@
 		{
 			"public"
 			{
-				"gid" "5282677978737603671"
-				"size" "7466006146"
-				"download" "1633858016"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"daily"
-			{
-				"gid" "F68921047ACD28ADB5DC8EE6960B4C69"
-				"size" "6B65F682DE46F4CE2D8A64929C6D6CB2"
-				"download" "65141C8A2680D4EF2A332CB14420FD5B"
-			}
-			"internal"
-			{
-				"gid" "221410D19D98E023645831D1985BF16C"
-				"size" "2353172BBBE1CF07F03255ED9851EA8A"
-				"download" "499F11092091985717E72E7E66C09E7D"
+				"gid" "2954744754631019152"
+				"size" "7095641272"
+				"download" "1630825680"
 			}
 		}
 	}
@@ -382,27 +362,16 @@
 	{
 		"public"
 		{
-			"buildid" "16445302"
-			"timeupdated" "1731940774"
-		}
-		"daily"
-		{
-			"buildid" "16440175"
-			"pwdrequired" "1"
-			"timeupdated" "1731906133"
-		}
-		"internal"
-		{
-			"buildid" "16445302"
-			"pwdrequired" "1"
-			"timeupdated" "1731940652"
+			"buildid" "16707039"
+			"timeupdated" "1733918884"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "5000000"
-	"maxnumfiles" "4"
+	"quota" "10000000"
+	"maxnumfiles" "7"
 	"savefiles"
 	{
 		"0"
@@ -429,9 +398,27 @@
 			"path" "Crema/TemtemSwarm/"
 			"pattern" "savegame3.dat"
 		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "savegame.dat.bak"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "savegame2.dat.bak"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crema/TemtemSwarm/"
+			"pattern" "savegame3.dat.bak"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26245841"
-"_sha" "9e5fb39954cb34bbeceabf93db40729d390669bc"
-"_size" "7488"
+"_change_number" "26592466"
+"_sha" "5bfebbbb20302983440af3c987cf467d2b8a85d3"
+"_size" "7145"
