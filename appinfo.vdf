@@ -1,0 +1,594 @@
+"appid" "1203620"
+"common"
+{
+	"name" "Enshrouded"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "9588cc0bd32e350a2353c332be67cf52a9b2b47b"
+	"clienticon" "e35259b8a6e3a0f39d230d1d7729824abe95285c"
+	"clienttga" "47e1333fe4ab588617b9251f2d89f1a6c7f98daa"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1203620_eula_0"
+			"name" "Enshrouded EULA"
+			"url" "https://store.steampowered.com//eula/1203620_eula_0"
+			"version" "14"
+		}
+	}
+	"name_localized"
+	{
+		"koreana" "인슈라오디드 (Enshrouded)"
+		"japanese" "Enshrouded~霧の王国~"
+		"tchinese" "霧鎖王國 (Enshrouded)"
+		"schinese" "雾锁王国 (Enshrouded)"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1723593600"
+		"tested_build_id" "15213080"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.25619985297034"
+			"height_pct" "68.23708122104628"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.25619985297034"
+				"height_pct" "68.23708122104628"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1730814485"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Keen Games GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Keen Games GmbH"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1706107140"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1203620"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1662"
+		"2" "7332"
+		"3" "3859"
+		"4" "3843"
+		"5" "1702"
+		"6" "122"
+		"7" "4231"
+		"8" "21"
+		"9" "1643"
+		"10" "3834"
+		"11" "4182"
+		"12" "1684"
+		"13" "3810"
+		"14" "4747"
+		"15" "493"
+		"16" "19"
+		"17" "6730"
+		"18" "4191"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"gamedir" "Enshrouded"
+	"serverbrowsername" "Enshrouded"
+	"developer" "Keen Games GmbH"
+	"publisher" "Keen Games GmbH"
+	"homepage" "https://www.enshrouded.com"
+}
+"config"
+{
+	"installdir" "Enshrouded"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "enshrouded.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,ukrainian"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1203621"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4535631649769417674"
+				"size" "34632158166"
+				"download" "15931407280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "CBD04082E4CDC721D3D9F66FEEA82FA0"
+				"size" "3295CAD16A8C45E47F168FFB7E998D54"
+				"download" "3BA21CA054050D86F99BF666E5052472"
+			}
+			"dev_test_branch"
+			{
+				"gid" "89841FD3A8CF964556E794ACF36BDF5C"
+				"size" "0A3824888A48EBB292C668EFECADF049"
+				"download" "82763ED9CBF2531BC67837EA5777CCFD"
+			}
+			"early_access_release_build"
+			{
+				"gid" "10DF42FA6BCA00C542060B3C7146CABC"
+				"size" "50B6C6E08E87AA786D4736220B1E764F"
+				"download" "874755A61FC70A03D4236F4D67B34C86"
+			}
+			"prototype_1"
+			{
+				"gid" "6A6AF7E0FF1482A3F88F22A70AEDFB55"
+				"size" "7E779D1EFF298B8A0A391671E6044D0A"
+				"download" "FEFDAB64E90A00AEE6A87497B441C303"
+			}
+			"branch_master"
+			{
+				"gid" "95F522C1B1E119BD238463231D0BBC70"
+				"size" "7E86B0ECBE9AFF0D95C6CDCBFB67413B"
+				"download" "508AF4AC7F4B854097D716497619EFAC"
+			}
+			"branch_qa_master"
+			{
+				"gid" "54765738652573139BD58F9B4B390799"
+				"size" "77BB0D9F95CDF87EEDF033A6ADA3EE81"
+				"download" "0BED1785081EE4FE71DA32059CFA74C8"
+			}
+			"compatibility_review"
+			{
+				"gid" "75B1384ECE40FD8A04A201C0764BFBEF"
+				"size" "254F86ED9282DF669980997EAF756655"
+				"download" "FC7B53D530DC08B90B19A9A9B76A4A33"
+			}
+			"debug_review_build"
+			{
+				"gid" "F0D1CC57CC34352D3C9DC16CFB967E16"
+				"size" "49C686244C23030B0373AD9CC5667670"
+				"download" "9D406690B0AE4CAC2E96268E5A4E565B"
+			}
+			"external_test_branch"
+			{
+				"gid" "6A52F3111EFB12FBF9BCF661B32CC862"
+				"size" "AB2450B48DDFBBE491BB8DDE7C416F6C"
+				"download" "ED37C5E5FD56EB467E545C6AC089C7D0"
+			}
+			"intel_branch"
+			{
+				"gid" "D83602825CAE475B38BB92B0D82711D1"
+				"size" "531DA075530F3C75934CB686FD621C66"
+				"download" "30B8B014CFCEBCFAFB485A2AF5417EAA"
+			}
+			"playdate"
+			{
+				"gid" "D96935C0E2064F79CCB527102DEF51B5"
+				"size" "34E83920FE72F6462E00B93D285626B6"
+				"download" "3F7FA5A5892CA6B7D05C2587278A9245"
+			}
+			"pr_branch"
+			{
+				"gid" "A6E00F4C65EE270799819D622A2727CC"
+				"size" "B601D318B268A0F7F83FC8235B90F6B4"
+				"download" "4ADBF5CAF4B68CEF822B01F8E69EA594"
+			}
+			"presentation_branch"
+			{
+				"gid" "361490D7EB22D2F6B5DB363916CE4616"
+				"size" "8B566DC4398A542A14933D76363D3299"
+				"download" "BE544E208B3A017537C81B0E6191E43E"
+			}
+			"preview_branch"
+			{
+				"gid" "7C744C78E56601254C8AF2C89D1FDCFC"
+				"size" "8DFC007ABAB708F9515EE8D28448BA0D"
+				"download" "45D8ACD88B657636E53D8D994BF993C2"
+			}
+			"qa_test_branch"
+			{
+				"gid" "EFA044B943523F51D97B42EB1461CE7D"
+				"size" "CAC9BD379A9CCD3EF2E02302D7FC951F"
+				"download" "54DE2F287236D5AA9EBCA5F89139BBEE"
+			}
+			"qa_test_branch02"
+			{
+				"gid" "B96254E824592D5FEAA85D4A0B8E0486"
+				"size" "21EF395E443DE0B51ED75C6B9D8417E4"
+				"download" "4ADC65BD0CF958708F2748F99D36D1D3"
+			}
+			"review_build"
+			{
+				"gid" "B058124900C4650B12C34637149057CE"
+				"size" "98DEC1F2E06C8AA23BD8B406D6178F67"
+				"download" "A5D371C432C4DF8CCC23D6A96B6BED23"
+			}
+			"server_hosting"
+			{
+				"gid" "0415ED517225B9AE1335ADAE839EDECA"
+				"size" "02701F21DA0233CC8BC0FA2633F5BD4A"
+				"download" "D97369834A0808C520E0D5D906800A32"
+			}
+			"trunk_master"
+			{
+				"gid" "D4F0F0FAA74E89B06E0A3E18632CDDAB"
+				"size" "351A728F3E05BAADF6C0F143939419A6"
+				"download" "0C58BA238664652AAD9FC2DB923A037E"
+			}
+			"trunk_qa_master"
+			{
+				"gid" "B52FC2BF50800B65C1B198D0F0568711"
+				"size" "24593A82FEF6974274FD3A75C0E3FAA0"
+				"download" "1E1B0845D2EB59A08B6F212D492B9F87"
+			}
+			"yooreka"
+			{
+				"gid" "4A1D1D115DE635A2FD6604FAC20747AB"
+				"size" "458506ABEFE380EB371C0D17F68445E1"
+				"download" "8F0EF40D4BCC5A878C04BBE7B7E7C162"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16705008"
+			"timeupdated" "1733915230"
+		}
+		"demo"
+		{
+			"buildid" "12591192"
+			"pwdrequired" "1"
+			"timeupdated" "1698836065"
+		}
+		"dev_test_branch"
+		{
+			"buildid" "13143974"
+			"pwdrequired" "1"
+			"timeupdated" "1704957822"
+		}
+		"early_access_release_build"
+		{
+			"buildid" "13249870"
+			"pwdrequired" "1"
+			"timeupdated" "1711447980"
+		}
+		"prototype_1"
+		{
+			"buildid" "6372280"
+			"pwdrequired" "1"
+			"timeupdated" "1615561344"
+		}
+		"branch_master"
+		{
+			"buildid" "16705008"
+			"pwdrequired" "1"
+			"timeupdated" "1733909397"
+		}
+		"branch_qa_master"
+		{
+			"buildid" "16705210"
+			"pwdrequired" "1"
+			"timeupdated" "1733909409"
+		}
+		"compatibility_review"
+		{
+			"buildid" "15125554"
+			"pwdrequired" "1"
+			"timeupdated" "1721750265"
+		}
+		"debug_review_build"
+		{
+			"buildid" "15929688"
+			"pwdrequired" "1"
+			"timeupdated" "1728977127"
+		}
+		"external_test_branch"
+		{
+			"buildid" "14206955"
+			"pwdrequired" "1"
+			"timeupdated" "1714384052"
+		}
+		"intel_branch"
+		{
+			"buildid" "16225185"
+			"pwdrequired" "1"
+			"timeupdated" "1730224178"
+		}
+		"playdate"
+		{
+			"buildid" "16705008"
+			"pwdrequired" "1"
+			"timeupdated" "1733936598"
+		}
+		"pr_branch"
+		{
+			"buildid" "16316553"
+			"pwdrequired" "1"
+			"timeupdated" "1730977971"
+		}
+		"presentation_branch"
+		{
+			"buildid" "15420274"
+			"pwdrequired" "1"
+			"timeupdated" "1724074612"
+		}
+		"preview_branch"
+		{
+			"buildid" "16603344"
+			"pwdrequired" "1"
+			"timeupdated" "1733161227"
+		}
+		"qa_test_branch"
+		{
+			"buildid" "16599770"
+			"pwdrequired" "1"
+			"timeupdated" "1733396750"
+		}
+		"qa_test_branch02"
+		{
+			"buildid" "16328622"
+			"pwdrequired" "1"
+			"timeupdated" "1731316869"
+		}
+		"review_build"
+		{
+			"buildid" "14534620"
+			"pwdrequired" "1"
+			"timeupdated" "1716999705"
+		}
+		"server_hosting"
+		{
+			"buildid" "16316553"
+			"pwdrequired" "1"
+			"timeupdated" "1730970467"
+		}
+		"trunk_master"
+		{
+			"buildid" "16694007"
+			"pwdrequired" "1"
+			"timeupdated" "1733837323"
+		}
+		"trunk_qa_master"
+		{
+			"buildid" "16694192"
+			"pwdrequired" "1"
+			"timeupdated" "1733837339"
+		}
+		"yooreka"
+		{
+			"buildid" "16316758"
+			"pwdrequired" "1"
+			"timeupdated" "1730972621"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "4294967296"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26596900"
+"_sha" "e4244a890eca7953fcdc2074014d35b3d596beff"
+"_size" "11817"
