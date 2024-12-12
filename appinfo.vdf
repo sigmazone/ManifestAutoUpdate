@@ -15,30 +15,15 @@
 	"osextended" "macos64,macosnotarized"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1684281600"
-		"tested_build_id" "11181030"
+		"category" "1"
+		"test_timestamp" "1732924800"
+		"tested_build_id" "16392098"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-			}
-			"1"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-			}
-			"2"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-			}
-			"3"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 			}
 		}
 		"configuration"
@@ -47,13 +32,14 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-8.0-2"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Amazing Frog\?"
@@ -70,13 +56,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "59.73941699778565"
-			"height_pct" "100"
+			"width_pct" "73.8451528952505"
+			"height_pct" "104.86111111111111"
 		}
 	}
 	"library_assets_full"
@@ -85,18 +72,25 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "7a298fabb2e4127af09071e9d35264ca4f1c543d/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "7a298fabb2e4127af09071e9d35264ca4f1c543d/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "5933f5675f8ad7a6f40a3db8c9f50a3e87b108e3/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "5933f5675f8ad7a6f40a3db8c9f50a3e87b108e3/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -104,8 +98,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "59.73941699778565"
-				"height_pct" "100"
+				"width_pct" "73.8451528952505"
+				"height_pct" "104.86111111111111"
 			}
 			"image"
 			{
@@ -116,11 +110,11 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "5b1462ead8c735875373c0e2a4ad732442c0f4a2/library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1730740788"
+	"store_asset_mtime" "1732718755"
 	"associations"
 	{
 		"0"
@@ -308,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "50284996147839534"
-				"size" "3608229514"
-				"download" "1129833104"
+				"gid" "3459435903444133738"
+				"size" "3633888790"
+				"download" "1139037664"
 			}
 			"legacy"
 			{
@@ -323,15 +317,15 @@
 		{
 			"fayju_internal_beta"
 			{
-				"gid" "57F6992117E7E506D61D4A3EA5342A1D"
-				"size" "9E6CBFCA4188C412914883677D39F16B"
-				"download" "46C5C7E1E645DC0D16A060B31A12FF32"
+				"gid" "1387DD597453624224955F6126467BAD"
+				"size" "0FE6E72F2DC8A49C955E168977F30ECA"
+				"download" "2732714202EDD1543656775206A6128E"
 			}
 			"gazhalprivate"
 			{
-				"gid" "47A536B27AF28BB3257B63BEF8ADB4DB"
-				"size" "8403C3858D910B539E5AAF3FF61749F5"
-				"download" "69C9B5DF21034CEB788C2D370F66CDB8"
+				"gid" "56AA75C9996DDA3227A14F217D74F17E"
+				"size" "A5811E8A1686A21AF71B26AA6076818D"
+				"download" "8C19D878BDA8567ED2560E784EB8CFCE"
 			}
 		}
 	}
@@ -383,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "5726503957352964530"
-				"size" "3926197638"
-				"download" "1249926624"
+				"gid" "509418268360512739"
+				"size" "3976305994"
+				"download" "1266334832"
 			}
 			"legacy"
 			{
@@ -398,15 +392,15 @@
 		{
 			"fayju_internal_beta"
 			{
-				"gid" "D660DF23D6F9F103FF5C73BB70DC1F10"
-				"size" "48D9303267586315E7DA0FBE7198FA2F"
-				"download" "07CF7F94003457EA096470E00A7C7381"
+				"gid" "20E04A713BF880C39AF83102072DEB94"
+				"size" "58324E102E1CF049AA51111F182E5EEC"
+				"download" "638114EECC8694AF65C447BDC7FAB0C3"
 			}
 			"gazhalprivate"
 			{
-				"gid" "895D5ED56AEEA6BE0477FFF1B0254F2E"
-				"size" "B3ED1C48F8787A7136651A7F2B1169DC"
-				"download" "72C3000AC7EF62ACAB3670B318AE568C"
+				"gid" "A631E4082D81FB68C3EC0AB2B7ABC6BA"
+				"size" "C784D36F4355AC378B14E2BF8F1FEDAD"
+				"download" "418D44DE8DFBE4C6A3C74EDDB8C1C82D"
 			}
 		}
 	}
@@ -421,9 +415,9 @@
 		{
 			"public"
 			{
-				"gid" "5602472600325859875"
-				"size" "3570009304"
-				"download" "1119841536"
+				"gid" "8232303185934644767"
+				"size" "3614741785"
+				"download" "1133803136"
 			}
 			"legacy"
 			{
@@ -436,15 +430,15 @@
 		{
 			"fayju_internal_beta"
 			{
-				"gid" "6CC908197A68DFD14D3C87630622ADE1"
-				"size" "721C29039992F8FB35F4E33C31E0E4AA"
-				"download" "A78FFB199DCEA34EFE8FD89283EBCF8F"
+				"gid" "3BD2EB73D8542A9EA79429F7E0197B15"
+				"size" "4DE88BB6DA24BB30CBA131AF7B5E2F32"
+				"download" "D0B9B301EBB596DDEC784E73C1C53659"
 			}
 			"gazhalprivate"
 			{
-				"gid" "59903074945E3CA0409092A4F430F675"
-				"size" "E7E3E2C6399324807A1B3A482E590855"
-				"download" "B8F6B690D890FE75B44560E548CA5823"
+				"gid" "C6421D5E6E3034516C4CB0E644EB2CC0"
+				"size" "D9A19C765A0BAA561A5707D0ECF358CC"
+				"download" "CBB569B7250FA3997800065862B3649E"
 			}
 		}
 	}
@@ -459,8 +453,8 @@
 	{
 		"public"
 		{
-			"buildid" "16503789"
-			"timeupdated" "1732330103"
+			"buildid" "16713509"
+			"timeupdated" "1733957558"
 		}
 		"legacy"
 		{
@@ -470,15 +464,15 @@
 		}
 		"fayju_internal_beta"
 		{
-			"buildid" "16503789"
+			"buildid" "16713509"
 			"pwdrequired" "1"
-			"timeupdated" "1732299214"
+			"timeupdated" "1733955671"
 		}
 		"gazhalprivate"
 		{
-			"buildid" "16503789"
+			"buildid" "16713509"
 			"pwdrequired" "1"
-			"timeupdated" "1732299203"
+			"timeupdated" "1733955687"
 		}
 	}
 }
@@ -488,6 +482,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26326791"
-"_sha" "6b4e878960ff5cf2faf0ed5a894132908b28514b"
-"_size" "9088"
+"_change_number" "26601225"
+"_sha" "3ba8309abec368d3dc73dc0db5b556ce30696a0e"
+"_size" "9115"
