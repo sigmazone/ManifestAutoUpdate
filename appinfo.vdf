@@ -60,7 +60,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "774bce09296c295dd7bd38e870b85724ba57470b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -70,6 +70,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -85,22 +86,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "aaccc8554597d8e7ce84a56ab4287225f4ac081d/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "aaccc8554597d8e7ce84a56ab4287225f4ac081d/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "b78efc02fc4efab7085370e2f556fef07869b972/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "b78efc02fc4efab7085370e2f556fef07869b972/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b78efc02fc4efab7085370e2f556fef07869b972/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -128,7 +136,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730650502"
+	"store_asset_mtime" "1733526580"
 	"associations"
 	{
 		"0"
@@ -216,27 +224,27 @@
 	{
 		"0" "9"
 		"1" "1663"
-		"2" "1667"
-		"3" "4168"
-		"4" "9204"
-		"5" "1687"
+		"2" "9204"
+		"3" "1667"
+		"4" "4168"
+		"5" "1774"
 		"6" "1775"
 		"7" "6730"
-		"8" "1774"
+		"8" "1687"
 		"9" "1662"
-		"10" "4106"
-		"11" "21978"
+		"10" "21978"
+		"11" "4106"
 		"12" "3839"
 		"13" "4191"
 		"14" "1710"
-		"15" "1695"
-		"16" "19"
-		"17" "599"
-		"18" "1708"
-		"19" "4175"
+		"15" "19"
+		"16" "1695"
+		"17" "1708"
+		"18" "4175"
+		"19" "599"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -284,42 +292,15 @@
 		{
 			"public"
 			{
-				"gid" "594118604767760600"
-				"size" "43265096607"
-				"download" "43129035456"
+				"gid" "5308291387432058840"
+				"size" "47529018985"
+				"download" "47470030416"
 			}
 			"publicbeta"
 			{
-				"gid" "1653907517299979834"
-				"size" "43265090209"
-				"download" "43128983392"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"debugversion"
-			{
-				"gid" "EFD16F7D229446037C50983444AA820D"
-				"size" "BDC997E2C976790952874673C04DCBAD"
-				"download" "486FF2656EA2A3F41026303AF9BB283C"
-			}
-			"debugversion132"
-			{
-				"gid" "A466084DB57329BDD219307A29CA8BAE"
-				"size" "B5888AEE00C1036C0791C54DF70F88E4"
-				"download" "86F7D22084D466AB1198F00A09D3D21D"
-			}
-			"devs"
-			{
-				"gid" "10A150FFF9509B633CF9D2477E50EAD4"
-				"size" "64BF925DC1B779BB306FB74617BE66A5"
-				"download" "F43C95136006E779601239EAE896ADC4"
-			}
-			"laststableversion"
-			{
-				"gid" "E26D631066EBEEAAF0191FB454D47846"
-				"size" "38ED19F49AA93E907863642C379B943B"
-				"download" "B192CFA80B60F63DE08470E9B35C2DCC"
+				"gid" "5308291387432058840"
+				"size" "47529018985"
+				"download" "47470030416"
 			}
 		}
 	}
@@ -328,40 +309,17 @@
 	{
 		"public"
 		{
-			"buildid" "16396650"
-			"timeupdated" "1731527543"
-		}
-		"debugversion"
-		{
-			"buildid" "16396650"
-			"pwdrequired" "1"
-			"timeupdated" "1731526136"
-		}
-		"debugversion132"
-		{
-			"buildid" "16384389"
-			"pwdrequired" "1"
-			"timeupdated" "1731488946"
-		}
-		"devs"
-		{
-			"buildid" "15232424"
-			"pwdrequired" "1"
-			"timeupdated" "1723108353"
-		}
-		"laststableversion"
-		{
-			"buildid" "16288923"
-			"pwdrequired" "1"
-			"timeupdated" "1731488977"
+			"buildid" "16711613"
+			"timeupdated" "1733944001"
 		}
 		"publicbeta"
 		{
-			"buildid" "16384389"
+			"buildid" "16711613"
 			"description" "Bodycam Public Beta Version - Join the Reissad Studio Discord for more information."
-			"timeupdated" "1731488992"
+			"timeupdated" "1733944045"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -382,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26181040"
-"_sha" "0c063bb568f03fe0fee898779aad537ee61b6513"
-"_size" "6826"
+"_change_number" "26602017"
+"_sha" "395c022fac19745b0f8d540a22bb5e8f81fb1ccd"
+"_size" "6042"
