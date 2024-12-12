@@ -299,6 +299,12 @@
 		{
 			"public"
 			{
+				"gid" "4930001390936596456"
+				"size" "60226814933"
+				"download" "47731652800"
+			}
+			"testpublic"
+			{
 				"gid" "5795571675004593862"
 				"size" "59577625985"
 				"download" "47370279184"
@@ -306,17 +312,17 @@
 		}
 		"encryptedmanifests"
 		{
+			"dev_live"
+			{
+				"gid" "7AF9E80B69CD6DEF04EC83C45AD842E5"
+				"size" "3254281B7EA9BAD8CDE3C370E29FC1CF"
+				"download" "D63E7FBD39387DD137BE737477624073"
+			}
 			"test"
 			{
-				"gid" "841C772A321CC80EC3C3184549A133C5"
-				"size" "421C5F6A970436D139350FD6D7F95314"
-				"download" "B50301C2C620CA375CE69892C005FB6C"
-			}
-			"testpublic"
-			{
-				"gid" "9F2E5E2415AE77A786D8548FFDEF11BA"
-				"size" "68B3D1357AB3988363E77B4C8B79EA70"
-				"download" "746DCB042118DEBCF0F2272AD508D454"
+				"gid" "D650D73A4F59BD0B8EF849AB5893086C"
+				"size" "F384F55084F11C40C2F4801E79F21E9F"
+				"download" "4C51F2D745CE6542D16EC28ACC3A3959"
 			}
 		}
 	}
@@ -324,20 +330,26 @@
 	{
 		"public"
 		{
-			"buildid" "16302077"
-			"timeupdated" "1730887091"
+			"buildid" "16704614"
+			"timeupdated" "1733921279"
+		}
+		"dev_live"
+		{
+			"buildid" "16704614"
+			"pwdrequired" "1"
+			"timeupdated" "1733905590"
 		}
 		"test"
 		{
-			"buildid" "16454280"
+			"buildid" "16704614"
 			"pwdrequired" "1"
-			"timeupdated" "1731995944"
+			"timeupdated" "1733905605"
 		}
 		"testpublic"
 		{
-			"buildid" "16265370"
-			"pwdrequired" "1"
-			"timeupdated" "1730477760"
+			"buildid" "16302077"
+			"description" "Mortal Online Public Test Realm"
+			"timeupdated" "1733729019"
 		}
 	}
 }
@@ -364,6 +376,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26256301"
-"_sha" "63f178180481abec6ba0c6b256f58f1e4262ac66"
-"_size" "6196"
+"_change_number" "26593003"
+"_sha" "0ab635432e5c3829ab83f68c568eeca6ab6eb678"
+"_size" "6450"
