@@ -1,0 +1,319 @@
+"appid" "2594920"
+"common"
+{
+	"name" "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator"
+	"type" "Game"
+	"clienticon" "332cef4ef64d8046ed505f2b30c5658843037901"
+	"clienttga" "dd127e184ac92e0c6e21b5f1d1487d53e6db8d51"
+	"icon" "40f93af32bc3bd2d7a464504f806c900146a9937"
+	"name_localized"
+	{
+		"tchinese" "蕾斯萊莉婭娜的鍊金工房 ～忘卻的鍊金術與極夜的解放者～"
+		"schinese" "蕾斯莱莉娅娜的炼金工房 ～忘却的炼金术与极夜的解放者～"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2594920_eula_0"
+			"name" "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator EULA"
+			"url" "https://store.steampowered.com//eula/2594920_eula_0"
+			"version" "23"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1707177600"
+		"tested_build_id" "13146195"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-tw,zh-cn,en"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733125354"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KOEI TECMO GAMES"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KOEI TECMO GAMES"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "KOEI TECMO GAMES CO., LTD."
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "3"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1706159040"
+	"community_hub_visible" "1"
+	"gameid" "2594920"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "14139"
+		"2" "4434"
+		"3" "7208"
+		"4" "5652"
+		"5" "10695"
+		"6" "12095"
+		"7" "4085"
+		"8" "4191"
+		"9" "4726"
+		"10" "122"
+		"11" "1742"
+		"12" "597"
+		"13" "1684"
+		"14" "1702"
+		"15" "4305"
+		"16" "5984"
+		"17" "21"
+		"18" "5608"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "56"
+}
+"extended"
+{
+	"developer" "KOEI TECMO GAMES"
+	"publisher" "KOEI TECMO GAMES"
+	"homepage" "https://resleriana.atelier.games/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "AtelierReslerianaGL"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AtelierResleriana.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2594921"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3875588870232928347"
+				"size" "974907191"
+				"download" "494019168"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16598249"
+			"timeupdated" "1733973008"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26604096"
+"_sha" "0062f6b88c1bfd062d7a9daf554df43228f6fb0f"
+"_size" "6053"
