@@ -21,6 +21,55 @@
 	"clienttga" "15d1a115718afdc1b20ffe1edbc2c1ad12bc35c5"
 	"clienticns" "b7e7a153e2f9608c4fde4643daa138745c89f94b"
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729900800"
+		"tested_build_id" "15341888"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -225,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "6692253859526949338"
-				"size" "449137029"
-				"download" "342241040"
+				"gid" "606496488874874770"
+				"size" "448651724"
+				"download" "342049520"
 			}
 		}
 	}
@@ -242,9 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "8165309246294810212"
-				"size" "483317999"
-				"download" "352873408"
+				"gid" "2064972929895023610"
+				"size" "483121690"
+				"download" "352933648"
 			}
 		}
 	}
@@ -252,10 +301,11 @@
 	{
 		"public"
 		{
-			"buildid" "15341888"
-			"timeupdated" "1723465943"
+			"buildid" "16473953"
+			"timeupdated" "1732280094"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -289,3 +339,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26316909"
+"_sha" "39e0bc51b11afc37cbd7ef7db7207ada6abf240a"
+"_size" "5839"
