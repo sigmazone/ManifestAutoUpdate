@@ -101,15 +101,16 @@
 			"hdr_support" "0"
 		}
 	}
+	"metacritic_name" "Romancing SaGa 2: Revenge of the Seven"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
-		"koreana" "capsule_231x87_koreana.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "bfb3cd66792a5d76b0def3ec74f71538f0dccc1c/capsule_231x87_japanese.jpg"
+		"english" "94c356f8e5f62c8f79de6293a5fc6f0e3c5f4ab0/capsule_231x87.jpg"
+		"tchinese" "e84da1f357c8a4add1effa39c21bb71c14010820/capsule_231x87_tchinese.jpg"
+		"schinese" "c4152039fd11be98551297c379f1823dab641ac2/capsule_231x87_schinese.jpg"
+		"koreana" "cf9717456be8901aa8ac5d53233215b9eea912a0/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
@@ -195,7 +196,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729689827"
+	"store_asset_mtime" "1732261709"
 	"associations"
 	{
 		"0"
@@ -285,30 +286,34 @@
 		}
 	}
 	"steam_release_date" "1729785525"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/romancing-saga-2-revenge-of-the-seven\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2455640"
 	"store_tags"
 	{
-		"0" "21725"
-		"1" "4434"
+		"0" "4434"
+		"1" "21725"
 		"2" "10695"
 		"3" "4191"
 		"4" "7481"
 		"5" "1742"
 		"6" "3854"
-		"7" "1697"
-		"8" "1684"
+		"7" "1684"
+		"8" "1697"
 		"9" "122"
 		"10" "4155"
 		"11" "4172"
-		"12" "5608"
-		"13" "5708"
-		"14" "6691"
-		"15" "4182"
+		"12" "5708"
+		"13" "5608"
+		"14" "4182"
+		"15" "6691"
+		"16" "4085"
+		"17" "1677"
 	}
-	"review_score" "8"
-	"review_percentage" "93"
+	"review_score" "9"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -404,72 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "7173284370308435570"
-				"size" "21504524925"
-				"download" "18160905776"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"shipping"
-			{
-				"gid" "BFC87BA39976378E5FCB366D31203237"
-				"size" "99BA7994294DC22F64A8780A8607C354"
-				"download" "C9E25B10A4D43681F35AD7FCA20DA794"
-			}
-			"shipping_denuvo"
-			{
-				"gid" "16A9FDD215C8348387475A12C2D0000C"
-				"size" "C642208BD1EC2BC9B61590F53D376223"
-				"download" "8127B4FBE410077084BE8AAFAC0E8F5E"
-			}
-			"shipping_denuvo_patch"
-			{
-				"gid" "2722FB6A48E88BA3EEE48B652158FDC6"
-				"size" "29AE430B1D44040365C0F36406DCA4D8"
-				"download" "264CE80849777C92FFA9AE1B2B496036"
-			}
-			"shipping_denuvo_patch_work"
-			{
-				"gid" "1645FF2734E2A51EB4B6FB1DF04DFD43"
-				"size" "6B270B13591DF4F3A894FBAB0856DFAA"
-				"download" "AF1FC4BE1E368F2E7FAFAD8046486712"
-			}
-			"shipping_patch"
-			{
-				"gid" "195C17672E379811D16C493FF10490C2"
-				"size" "268FC2E889CF7F8D2625C6B89456E8E7"
-				"download" "FDDAD608E83C10352662F2A71D36E4D3"
-			}
-			"shipping_patch_work"
-			{
-				"gid" "AA458C9C0E830EA01E4347A452553CAE"
-				"size" "EBE6F4C38E37A1D2D1012A3D4355F4D8"
-				"download" "8BFEAB92FA20AE09082681F850537276"
-			}
-			"test"
-			{
-				"gid" "68D2C1DA8CEF1C3F010099AA0A88B370"
-				"size" "814546C537B6036EC733B553B15D5959"
-				"download" "FB5B0B73A527BB1CF122500B5EA02F58"
-			}
-			"test_patch"
-			{
-				"gid" "6EA110C27E13E437A42CBA7A3ADE1D2A"
-				"size" "84ADD6F0A617E7A8C470134F64ED499A"
-				"download" "7897FEDFBE07F04CFF5AD3A50C5AAA91"
-			}
-			"trial_shipping"
-			{
-				"gid" "5EB404A4490C56D88F5CA52A28A9C6DC"
-				"size" "C090EA812B528DF6AA556583C6AC6F31"
-				"download" "2DE41E1761120EE6527FAD07EE5B08F9"
-			}
-			"xeen_dev"
-			{
-				"gid" "DBE0F1C77C36AF3DFC856747DA0DA848"
-				"size" "828D02FE4F9E6A1EA583CAD1488E5171"
-				"download" "9BFDB00C355DAB30023B53C405C08407"
+				"gid" "8083844143022549109"
+				"size" "21473523129"
+				"download" "18142398832"
 			}
 		}
 	}
@@ -477,70 +419,11 @@
 	{
 		"public"
 		{
-			"buildid" "15469191"
-			"timeupdated" "1729159330"
-		}
-		"shipping"
-		{
-			"buildid" "14938501"
-			"pwdrequired" "1"
-			"timeupdated" "1720152900"
-		}
-		"shipping_denuvo"
-		{
-			"buildid" "14938445"
-			"pwdrequired" "1"
-			"timeupdated" "1720152888"
-		}
-		"shipping_denuvo_patch"
-		{
-			"buildid" "15469191"
-			"pwdrequired" "1"
-			"timeupdated" "1724399555"
-		}
-		"shipping_denuvo_patch_work"
-		{
-			"buildid" "16146108"
-			"pwdrequired" "1"
-			"timeupdated" "1729661362"
-		}
-		"shipping_patch"
-		{
-			"buildid" "15469229"
-			"pwdrequired" "1"
-			"timeupdated" "1724399580"
-		}
-		"shipping_patch_work"
-		{
-			"buildid" "16133229"
-			"pwdrequired" "1"
-			"timeupdated" "1729661384"
-		}
-		"test"
-		{
-			"buildid" "14972667"
-			"pwdrequired" "1"
-			"timeupdated" "1720504155"
-		}
-		"test_patch"
-		{
-			"buildid" "15489753"
-			"pwdrequired" "1"
-			"timeupdated" "1724649738"
-		}
-		"trial_shipping"
-		{
-			"buildid" "15402493"
-			"pwdrequired" "1"
-			"timeupdated" "1723866892"
-		}
-		"xeen_dev"
-		{
-			"buildid" "16133229"
-			"pwdrequired" "1"
-			"timeupdated" "1729584692"
+			"buildid" "16547604"
+			"timeupdated" "1733972524"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -558,6 +441,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25894866"
-"_sha" "976d7d1c9972aa672d6e4134d92fcaaeeb6a20cc"
-"_size" "11547"
+"_change_number" "26603813"
+"_sha" "34f3c17dd8c55aa76e722e5681d92838a0659af9"
+"_size" "9075"
