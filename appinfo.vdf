@@ -14,6 +14,7 @@
 	"languages"
 	{
 		"english" "1"
+		"koreana" "1"
 		"tchinese" "1"
 		"japanese" "1"
 		"vietnamese" "1"
@@ -22,6 +23,7 @@
 	{
 		"japanese" "シンフォニック＝レイン"
 		"vietnamese" "Mưa giao hưởng"
+		"koreana" "심포닉 레인"
 	}
 	"steam_deck_compatibility"
 	{
@@ -70,6 +72,48 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "100.46674445740955"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100.46674445740955"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1703636855"
@@ -134,6 +178,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1497488420"
 	"community_visible_stats" "1"
@@ -153,8 +202,8 @@
 		"9" "1684"
 		"10" "1742"
 		"11" "4947"
-		"12" "4182"
-		"13" "5984"
+		"12" "5984"
+		"13" "4182"
 	}
 	"review_score" "9"
 	"review_percentage" "96"
@@ -193,18 +242,18 @@
 		{
 			"public"
 			{
-				"gid" "7674232517604450136"
-				"size" "2269884701"
-				"download" "2182058528"
+				"gid" "9082023407649307606"
+				"size" "2278427789"
+				"download" "2190440704"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "C5C867ADB92CC763A2485834A2403D03"
-				"size" "BC5F0CC3D1AE47E1DC0BD04652C3E2EB"
-				"download" "ADDED750CA1DFA9124CA737F4DD50BE0"
+				"gid" "113A26C5A7059C26DD3C07EDAF5D0CE7"
+				"size" "1A5C28ED20A8DDEFF477B439442934AF"
+				"download" "E3DCEA98B3099FB6AF5EB8B78ABC9DAA"
 			}
 		}
 	}
@@ -218,18 +267,18 @@
 		{
 			"public"
 			{
-				"gid" "663546805240964766"
-				"size" "127891735"
-				"download" "121589360"
+				"gid" "4822034585229488605"
+				"size" "127895055"
+				"download" "121591904"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "7BECED4B23B58C861C8CB38D29D56C77"
-				"size" "C1BA0632717CA5CF5500519BE33A2D5D"
-				"download" "E33926AAEF0AF4C0292D4244CA3FF947"
+				"gid" "2951DB0BFE354ACCBD49C984C1E3A4FD"
+				"size" "91F1B965E19D3187780A7682193D2DB6"
+				"download" "7A2AEC8B24F94E9AC2412F02773EEBE4"
 			}
 		}
 	}
@@ -243,18 +292,18 @@
 		{
 			"public"
 			{
-				"gid" "7845062622011092290"
-				"size" "122960228"
-				"download" "120872272"
+				"gid" "6925685311045658879"
+				"size" "122963548"
+				"download" "120876400"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "DBC3AE7BD96DA18E6339BEE0C294C9EB"
-				"size" "0B382EF715E49ACFBCF7A4312D22562D"
-				"download" "CE56518A1554B95DC341DAF2ADBD440D"
+				"gid" "A7A0457DD9CABEB9131DEDF7D9FF2963"
+				"size" "C0C71A7A8F6FC3481EDAC4A913EA48E4"
+				"download" "353125AFA6D90F4B2FC1F73A3F47BC56"
 			}
 		}
 	}
@@ -268,18 +317,18 @@
 		{
 			"public"
 			{
-				"gid" "2733828752442012489"
-				"size" "128560951"
-				"download" "122263824"
+				"gid" "8311650308320701596"
+				"size" "128563759"
+				"download" "122267280"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "8B9D7849429F4C6FB2A8928BA79CF63E"
-				"size" "BDD979E50A7ABE92A4BDA24C56FFF5D1"
-				"download" "F3B12870C6A28E309D35D926771D566C"
+				"gid" "B56A51EA282955A1B2851B70F214B1EA"
+				"size" "D86EB1368C6627455D1604B89CD2631B"
+				"download" "1844ECCA1E1E7F618FBDFF13915EB5DA"
 			}
 		}
 	}
@@ -293,18 +342,18 @@
 		{
 			"public"
 			{
-				"gid" "2866340610552408840"
-				"size" "126898643"
-				"download" "120550560"
+				"gid" "4783184062913475981"
+				"size" "126901451"
+				"download" "120553920"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "E4FDE1ABB405C7E1917BAA73C1DC0704"
-				"size" "348D9FA22280D103A4FB996ADA181C71"
-				"download" "D5AC83BBC166EC55D75E8BC3594AEBED"
+				"gid" "56C2B79EC5E1F80E32294275A6DA46CD"
+				"size" "F8BD442AE1613567E7D7B2D67F41CF00"
+				"download" "16508BF346039A0C6513ADBA1B9723F8"
 			}
 		}
 	}
@@ -318,18 +367,18 @@
 		{
 			"public"
 			{
-				"gid" "2581164774298213715"
-				"size" "126081709"
-				"download" "124045824"
+				"gid" "6413974365400709870"
+				"size" "126085029"
+				"download" "124048576"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "41B0F4EE5B817EC5847558763B718302"
-				"size" "240E1763D458322C3CB8D05B0E14690A"
-				"download" "DB0B0D7C9851FEA305A1BF64A132496E"
+				"gid" "38AE279EABA891D9740A40715FB33318"
+				"size" "090A5D23A1E513157E0DD9E61E16B7F3"
+				"download" "20684E8E7F120D638227B6845363DD96"
 			}
 		}
 	}
@@ -343,18 +392,43 @@
 		{
 			"public"
 			{
-				"gid" "8555361420858424697"
-				"size" "111725208"
-				"download" "109818704"
+				"gid" "6473657796421247154"
+				"size" "111728528"
+				"download" "109821360"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "03BF2C226E80952A8182485548B8DC20"
-				"size" "BEF85F815F0AB28D4918C4A812066A36"
-				"download" "EB121645BCFBC7EA799D54FE684D742E"
+				"gid" "E75152D06961C0F754E0770690468C32"
+				"size" "36D79297004B61A53F55E9BD99A1DAC2"
+				"download" "DB74AC44AFCD651C64A82471C2E131E3"
+			}
+		}
+	}
+	"629658"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4458587953081413421"
+				"size" "106408287"
+				"download" "103895744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "32C506CD91D4D3DCBEEBDC98509883FD"
+				"size" "83E8B01DE5E11C7077CDFB5BA95EAA69"
+				"download" "3D057ABA4BD5D8D78693BE0F6405EA5A"
 			}
 		}
 	}
@@ -362,14 +436,14 @@
 	{
 		"public"
 		{
-			"buildid" "12960069"
-			"timeupdated" "1703236659"
+			"buildid" "16701741"
+			"timeupdated" "1734021618"
 		}
 		"test"
 		{
-			"buildid" "12960069"
+			"buildid" "16701741"
 			"pwdrequired" "1"
-			"timeupdated" "1702547558"
+			"timeupdated" "1733881678"
 		}
 	}
 }
@@ -393,3 +467,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26614945"
+"_sha" "255818bc98acc4391589702f326de6a190475613"
+"_size" "7851"
