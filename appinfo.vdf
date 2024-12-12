@@ -155,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723633074"
+	"store_asset_mtime" "1734003411"
 	"associations"
 	{
 		"0"
@@ -193,6 +193,10 @@
 		"category_22" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_27" "1"
+		"category_44" "1"
+		"category_39" "1"
+		"category_24" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -269,24 +273,24 @@
 		"8" "17389"
 		"9" "3859"
 		"10" "4325"
-		"11" "1684"
-		"12" "1685"
+		"11" "1685"
+		"12" "1684"
 		"13" "3843"
-		"14" "1717"
-		"15" "3841"
+		"14" "3841"
+		"15" "1717"
 		"16" "7368"
 		"17" "1695"
 		"18" "4182"
 		"19" "1775"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
 	"deckresolutionoverride" "1920x1080"
 	"absolutemousecoordinates" "0"
-	"remoteplaytogethertestingbranches" "code"
+	"remoteplaytogethertestingbranches" "default,console_experimental,code,experimental,release_vip,curve_qa"
 	"developer" "IronOak Games"
 	"publisher" "Curve Games"
 	"homepage" "https://www.ironoakgames.com"
@@ -320,36 +324,42 @@
 		{
 			"public"
 			{
-				"gid" "5690020749912522067"
-				"size" "5948991156"
-				"download" "5020549920"
+				"gid" "3993031239636696519"
+				"size" "6657738136"
+				"download" "5544357968"
+			}
+			"experimental"
+			{
+				"gid" "9133057740977865798"
+				"size" "6559227346"
+				"download" "5462493760"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"design_testing"
 			{
-				"gid" "1C012AA31DC422521F77A747559EAE22"
-				"size" "6510ADFB3B27F32F25F74F24FBA3153C"
-				"download" "4820B8BC71FD5F87AA7B71BE0A7DEB58"
+				"gid" "E1892F7A4079A71ADC55DB895688FFC1"
+				"size" "9980CB9B5B2E597F8B8A99D8347AEC9A"
+				"download" "EF1B5B3099767D44F2CBD1C8354037EE"
 			}
 			"design_testing_temp"
 			{
-				"gid" "2B17B4D0C2FDC3F5AFE5681593B32E78"
-				"size" "1C6E988892B60CCA1E8F451AE4BA8DD5"
-				"download" "7E21D783EEF0CADEF20E4953B582DB2B"
+				"gid" "0F591BAA4C79D3E8FE855F8AC01B137C"
+				"size" "88FD95804603D5AB5D94D5983C7B6B3C"
+				"download" "A2832EA032DCF5016E681A95F1C90CE7"
 			}
 			"console_experimental"
 			{
-				"gid" "DE248584012E7C0FD893CF8EFD74DA9A"
-				"size" "2804D14FA41B0F1A7948B58CADAC22BB"
-				"download" "AFFEBC9ED5B5BA046F2A02DCE82D3359"
+				"gid" "3A66FB0AE4793FC6319EC2DBB19BECBA"
+				"size" "1F6491C6C7686DB54EA8430726705D8A"
+				"download" "691068CD30F2B1339E7942927D7F310F"
 			}
 			"development_testing"
 			{
-				"gid" "B28B10E66FEEFB36212AC257F9759D51"
-				"size" "7ECA4AF3326C08322B1221ED427013D2"
-				"download" "8665F2065468B6D74FC10A93528E35C0"
+				"gid" "FB9884902FD9D5257CDE1B5D065133A9"
+				"size" "7E4BE55E2CBA9068D9DA9BA31BD3AAD9"
+				"download" "71AE589B08BC74EC49D5B5F2946E99FA"
 			}
 			"base"
 			{
@@ -371,27 +381,21 @@
 			}
 			"code"
 			{
-				"gid" "BCFD92E4C89A3396ABF4A4B47B0DB57E"
-				"size" "4CD25051B03F17AD486CA937F503EE34"
-				"download" "B61C4C3BC03D14EB77299461D45B15A8"
-			}
-			"experimental"
-			{
-				"gid" "298B2F7975F07E7B07B9AFF6B35D5356"
-				"size" "731B352B2662833CB75A91E453C09F00"
-				"download" "2D1456DBE6C31D67B4D44929F708A7E7"
+				"gid" "22A6D9271741A476893BFFDF7C0603F6"
+				"size" "78FE1A468FE62F33EE0210296F592585"
+				"download" "A6C919CA7B353CBC8DF771DE8E2DAFD6"
 			}
 			"dlc_experimental"
 			{
-				"gid" "6744C04D66CA3D95CA4E8DE8B4800073"
-				"size" "715B92EFBEC1B9FC1A342536D88359F0"
-				"download" "ABAE1FDD4E04CD75D2A31CDFDC1EF860"
+				"gid" "3B74933D3B07EADEA65C64971C4B7310"
+				"size" "92337BAB8E504F9319529D41ADC6516D"
+				"download" "255960A0F52344908999CECB7DB06A41"
 			}
 			"game_t"
 			{
-				"gid" "6A24BBFADE1A83118DFD4D51C21025B6"
-				"size" "E32A92A0C94E74605B9BA5DA02315B4E"
-				"download" "0B3F5E0B9998BA1C4CBE117F044684E3"
+				"gid" "88A3DAF2B9D4134BFCDA50E3A762427D"
+				"size" "AAA1DC1C2EE2239E1526D33CCA5D5A7A"
+				"download" "039DD4CF7493F771FE212AFB5017D5A7"
 			}
 			"release_vip"
 			{
@@ -401,15 +405,15 @@
 			}
 			"resistance_staging"
 			{
-				"gid" "569891646BCF928CEDCCE37B8FD1BFB8"
-				"size" "B5322D13E300FE720C3121B39758B8E6"
-				"download" "AAC1C051B16CC9FD78E45DD7D3CA320E"
+				"gid" "E77DB93C0DD96889A6B37678CCC08AF5"
+				"size" "7C560286502BDDEDC451E06DC220DAF6"
+				"download" "20785EE9B8087637A6EC00A20788AD3F"
 			}
 			"the_resistance"
 			{
-				"gid" "4EA0F4F2269265C794A8B0E9325697D0"
-				"size" "FB420517A777B8930EBD400C4F078DBC"
-				"download" "3179DB6087EAA4E83FBB0B790C77DB55"
+				"gid" "E62D0001AA74D27310A27E1AF48A8988"
+				"size" "AA17DB59E1E9E423A31E847E9D531FEE"
+				"download" "8DCE57537369EEF051596457DF1AE5CD"
 			}
 			"vendor_qa"
 			{
@@ -419,21 +423,21 @@
 			}
 			"curve_qa"
 			{
-				"gid" "DFCB922B95C843E9D9626BAB87ACD93C"
-				"size" "1E39B55AB3F80B6213E92287241D78D9"
-				"download" "23ACC1D6852FE65336DE7D121CAE4F7B"
+				"gid" "E8ED8249B60AAB763FFA3CD92FAB2588"
+				"size" "17E6B1A8C878278D32DD8CDD37687298"
+				"download" "BF68611C509E563C340CD3EC5D52CE29"
 			}
 			"staging_release"
 			{
-				"gid" "D67F220E82B424A9EB0B21D5C15FC928"
-				"size" "14B4504081398C13BE144ECC7D578972"
-				"download" "400264100387B2FED60DC0E90E8368D2"
+				"gid" "B62A030CCA4DBE4A59CEFA7F2AB8E07D"
+				"size" "E7E78D1C34F9DF80C2780783A0BC827E"
+				"download" "92712F6276175D69C4CDA1B8A0BB9B52"
 			}
 			"staging"
 			{
-				"gid" "9FDC4F6939C4C84A090C56A4E4E37291"
-				"size" "B6626C09E44ED69504494E5183923217"
-				"download" "D728A5B3D288AF26A2CDF583E8102D04"
+				"gid" "1BE5AC4BA0FB65FA9BCE5DA6EE371908"
+				"size" "766A91A26907BCC71213728541508ABD"
+				"download" "E84DF19D75BBBC196A0DBE122C230ECA"
 			}
 		}
 	}
@@ -468,32 +472,32 @@
 	{
 		"public"
 		{
-			"buildid" "15653810"
-			"timeupdated" "1725986292"
+			"buildid" "16725033"
+			"timeupdated" "1734026336"
 		}
 		"design_testing"
 		{
-			"buildid" "15463106"
+			"buildid" "15550937"
 			"pwdrequired" "1"
-			"timeupdated" "1724350116"
+			"timeupdated" "1733865791"
 		}
 		"design_testing_temp"
 		{
-			"buildid" "15454229"
+			"buildid" "16128666"
 			"pwdrequired" "1"
-			"timeupdated" "1724287370"
+			"timeupdated" "1729551032"
 		}
 		"console_experimental"
 		{
-			"buildid" "15052783"
+			"buildid" "16637922"
 			"pwdrequired" "1"
-			"timeupdated" "1721153366"
+			"timeupdated" "1733368067"
 		}
 		"development_testing"
 		{
-			"buildid" "15323609"
+			"buildid" "16607868"
 			"pwdrequired" "1"
-			"timeupdated" "1723237897"
+			"timeupdated" "1733186014"
 		}
 		"base"
 		{
@@ -515,27 +519,27 @@
 		}
 		"code"
 		{
-			"buildid" "15550937"
+			"buildid" "16661368"
 			"pwdrequired" "1"
-			"timeupdated" "1725066052"
+			"timeupdated" "1733780606"
 		}
 		"experimental"
 		{
-			"buildid" "14821660"
-			"pwdrequired" "1"
-			"timeupdated" "1719262151"
+			"buildid" "16413004"
+			"description" "experimental testing branch"
+			"timeupdated" "1731628689"
 		}
 		"dlc_experimental"
 		{
-			"buildid" "15142403"
+			"buildid" "16607728"
 			"pwdrequired" "1"
-			"timeupdated" "1722014960"
+			"timeupdated" "1733185174"
 		}
 		"game_t"
 		{
-			"buildid" "14460291"
+			"buildid" "16213790"
 			"pwdrequired" "1"
-			"timeupdated" "1716412276"
+			"timeupdated" "1730196855"
 		}
 		"release_vip"
 		{
@@ -545,15 +549,15 @@
 		}
 		"resistance_staging"
 		{
-			"buildid" "15130362"
+			"buildid" "16448263"
 			"pwdrequired" "1"
-			"timeupdated" "1721774355"
+			"timeupdated" "1731957298"
 		}
 		"the_resistance"
 		{
-			"buildid" "15130362"
+			"buildid" "16130491"
 			"pwdrequired" "1"
-			"timeupdated" "1721784078"
+			"timeupdated" "1729636825"
 		}
 		"vendor_qa"
 		{
@@ -563,21 +567,21 @@
 		}
 		"curve_qa"
 		{
-			"buildid" "15550937"
+			"buildid" "16696023"
 			"pwdrequired" "1"
-			"timeupdated" "1725066234"
+			"timeupdated" "1733845774"
 		}
 		"staging_release"
 		{
-			"buildid" "15551214"
+			"buildid" "16688731"
 			"pwdrequired" "1"
-			"timeupdated" "1725068423"
+			"timeupdated" "1733801421"
 		}
 		"staging"
 		{
-			"buildid" "15551214"
+			"buildid" "16688731"
 			"pwdrequired" "1"
-			"timeupdated" "1725068758"
+			"timeupdated" "1733801439"
 		}
 	}
 }
@@ -602,6 +606,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25160787"
-"_sha" "21cd1eb220e8ed8fdb7aaa1390c6bcab7ee808f3"
-"_size" "12211"
+"_change_number" "26616639"
+"_sha" "65c6c85cfbf2f94d91fbcda8d7716a1111d9fe6a"
+"_size" "12331"
