@@ -11,6 +11,55 @@
 	"osarch" "64"
 	"osextended" ""
 	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727308800"
+		"tested_build_id" "14666581"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -173,7 +222,7 @@
 		"19" "597"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "48"
 }
 "extended"
 {
@@ -199,9 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "2170939553929421901"
-				"size" "4271899200"
-				"download" "1911455200"
+				"gid" "3210613503537632147"
+				"size" "4290441076"
+				"download" "1915430800"
 			}
 		}
 	}
@@ -209,8 +258,12 @@
 	{
 		"public"
 		{
-			"buildid" "14666581"
-			"timeupdated" "1718039870"
+			"buildid" "16602102"
+			"timeupdated" "1733151595"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26471363"
+"_sha" "bdf3289ca283733c24ffc1bc99e11b7e4f73fcb8"
+"_size" "4549"
