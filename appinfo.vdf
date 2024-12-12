@@ -1,0 +1,792 @@
+"appid" "1346020"
+"common"
+{
+	"name" "Wargroove 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "c96c2638be50d98f26912002fcc52985c9cb589b"
+	"clienttga" "d33f67a061b447cb72414e8b7427f63d602bf01b"
+	"icon" "c93dd912ba8db28a5151462d3273efebf2b759db"
+	"name_localized"
+	{
+		"tchinese" "戰律 2"
+		"schinese" "战律 2"
+		"japanese" "ウォーグルーヴ 2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1701129600"
+		"tested_build_id" "12765327"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wargroove 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.612602100350074"
+			"height_pct" "34.4217525528378"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.612602100350074"
+				"height_pct" "34.4217525528378"
+			}
+		}
+	}
+	"store_asset_mtime" "1730825735"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Chucklefish"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Robotality"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Chucklefish"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Wargroove"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1696503593"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wargroove-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1346020"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "1775"
+		"2" "17770"
+		"3" "1741"
+		"4" "3964"
+		"5" "3841"
+		"6" "3859"
+		"7" "9"
+		"8" "1684"
+		"9" "17305"
+		"10" "14139"
+		"11" "1716"
+		"12" "5350"
+		"13" "1685"
+		"14" "21725"
+		"15" "1664"
+		"16" "4684"
+		"17" "7368"
+		"18" "3871"
+		"19" "4305"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Chucklefish"
+	"publisher" "Chucklefish"
+	"homepage" "https://wargroove.com/"
+}
+"config"
+{
+	"installdir" "Wargroove 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "win64_bin/wargroove64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "wargroove.app/Contents/MacOS/wargroove"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1346021"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "859160808833765248"
+				"size" "503317574"
+				"download" "485628528"
+			}
+			"legacy"
+			{
+				"gid" "1163059692379089217"
+				"size" "503310552"
+				"download" "485621664"
+			}
+			"preview"
+			{
+				"gid" "355766655016477659"
+				"size" "503310281"
+				"download" "485620992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "FA6DA3A2E3F619F7105D2CBD8ACFB012"
+				"size" "AD616A5F0A23C855E8EDA673FDE0D567"
+				"download" "191B1BC55C0053A7D67EA1E58AB4D92D"
+			}
+			"alpha-campaign"
+			{
+				"gid" "AD6F186E2C33DD380115950E978CF661"
+				"size" "6133C13206F6E0D25413BC0832D699A8"
+				"download" "7B9EB8B58D31B5956DA5069E99B9D325"
+			}
+			"alpha-stable"
+			{
+				"gid" "64ACE320D04869C4E8DA261A22A4F547"
+				"size" "C46BC4E3E9B52EFC8019F57012DDEB2B"
+				"download" "FA4DCAA567A3347199FFAB752E91355B"
+			}
+			"map-designer"
+			{
+				"gid" "E4E48759E38D8860D22A731322919BEE"
+				"size" "7D141AFCF8C6E6E2CCFC416DEE55EF71"
+				"download" "5D9A09EF1D16567048D5115175327300"
+			}
+			"nightly"
+			{
+				"gid" "4E5FA97DB5B2905C4472FAE9A8C32B1D"
+				"size" "FED58A9987BD40B44B45CF11F7D73848"
+				"download" "1ABBD048FC06514CA99E30C0FC515C31"
+			}
+			"press"
+			{
+				"gid" "3DEDDA493CEC1FBC15CA8E3F0F69F14C"
+				"size" "669CDCE949F0F247FFA99AE4312D21A0"
+				"download" "868FC373D56B8CDD90666CFCE0C5A0BA"
+			}
+			"steam-demo"
+			{
+				"gid" "7E46F2662F17AC1D351A2C9D6577C857"
+				"size" "E11468ED1E790FF624D5A537A77642D9"
+				"download" "C5F0623E129DEFDA3600E82430528534"
+			}
+			"trailer"
+			{
+				"gid" "9591616B06195E5B38F2A1034397028D"
+				"size" "E4051A732D6B9CA1875F8624BD344E08"
+				"download" "B3EE8B577007DD497E358B8471FABBAE"
+			}
+			"cross-platform"
+			{
+				"gid" "5FF93E5825327D55B9A759C2A3A15768"
+				"size" "04E4EB71E621558AA79674C306E5C813"
+				"download" "3F916DA41DC237344D3A37EF24E9C3A4"
+			}
+			"develop"
+			{
+				"gid" "28B657740E9A803DA15C2C1BFB102DF0"
+				"size" "EB9BF55A27AC686A66AB3FD167A4A965"
+				"download" "A21C2A81F8993B40E78C4DA8146DAD49"
+			}
+			"unstable"
+			{
+				"gid" "6BC95CDDD793CB60612165E7B3012FD3"
+				"size" "FA0D93B55FD26C818CC7AD59DDFF9FDC"
+				"download" "CDCDF4B06D7E60B6AF106A4EB816629B"
+			}
+			"unstable-release"
+			{
+				"gid" "1B538D343667223022C1E4C20E7ABB78"
+				"size" "9D6222C8A0690F2465073022A9DB4A0C"
+				"download" "F41CCF4D685FFAFADB2381562827ADBE"
+			}
+		}
+	}
+	"1346022"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6131097311588250171"
+				"size" "29458241"
+				"download" "10228272"
+			}
+			"legacy"
+			{
+				"gid" "8466003860530773766"
+				"size" "29548865"
+				"download" "10248336"
+			}
+			"preview"
+			{
+				"gid" "2866424043386036411"
+				"size" "29447489"
+				"download" "10227664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "D0730E9866D301E6034E3CEC4754FA73"
+				"size" "801E5848955AF9B44CB65484E5328B7D"
+				"download" "F8ACB1C348391B1F8C75640BDB5F703D"
+			}
+			"alpha-campaign"
+			{
+				"gid" "6F3C19092A0ADE89B562233B161BC0DC"
+				"size" "2C567275B91FD1495BA34F78009E2D66"
+				"download" "D79590BE3BAEDA39D1E7CC5A3EA7976C"
+			}
+			"alpha-stable"
+			{
+				"gid" "996C7B1D4B95415E7F4E5CB9AD8FEA8F"
+				"size" "4927D4D55569836001F52AC3338DCB7F"
+				"download" "12830E67A1E34B59A810505C2E56B4B1"
+			}
+			"map-designer"
+			{
+				"gid" "DACC2E3A778F8F14C4DAE79D4621BA21"
+				"size" "3993E8E5266ABCDAADAC9C1730613FF0"
+				"download" "C9F17EB08F99FE6FF1116800FAC933B0"
+			}
+			"nightly"
+			{
+				"gid" "86B5FDB31027FEF60BCBE54DBCB75E16"
+				"size" "955917D2E9FB58DDAC45515B58B4E7E1"
+				"download" "C875DB06D7726B37BF020131F7872050"
+			}
+			"press"
+			{
+				"gid" "3A95F7BDC54D1995BAFD4F8B1E905625"
+				"size" "651BD4600A5ED2C68779707A7E83D5AB"
+				"download" "AEC59B166C034FCF2BBB1269E99362C1"
+			}
+			"steam-demo"
+			{
+				"gid" "16803BBA0CF745248DA82D4CBA7D7157"
+				"size" "7E0B011BF925133A9782F3D7807FA283"
+				"download" "63A739651B2DE40A3B5D18AD71D4999C"
+			}
+			"trailer"
+			{
+				"gid" "742BF5830EE6A1017F6A01088885740C"
+				"size" "F9B67569D72777256912DA18F146789B"
+				"download" "1D27282C1B4D5848B35F9A035AC9AF69"
+			}
+			"cross-platform"
+			{
+				"gid" "B406A93E01E11D672855C829835F2A71"
+				"size" "06B140E3B60D6884189859F164D32ECA"
+				"download" "6F1543E47A2D18B79867BF8DF4C6B108"
+			}
+			"develop"
+			{
+				"gid" "7B3E6E333C1509E38B647C11DA2008F9"
+				"size" "47203524DD6C2C726B7F8195F906619D"
+				"download" "72CE91290AFFC7BB2C93A05E435B27E8"
+			}
+			"unstable"
+			{
+				"gid" "5502524961F23F3B43139682E87B09F9"
+				"size" "1D2576EA9078C2961216705F8D57FF1C"
+				"download" "13EE17286AA47CE2BED5AB1158738319"
+			}
+			"unstable-release"
+			{
+				"gid" "DF5021D067AB92AB408C3468DE4EED6E"
+				"size" "274C5A7B0A2F506FD5C6D22EEB61981A"
+				"download" "711EC83476C012765D95B26A3DF21FFC"
+			}
+		}
+	}
+	"1346024"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4593201105561956357"
+				"size" "535386132"
+				"download" "492514992"
+			}
+			"legacy"
+			{
+				"gid" "298610420998874770"
+				"size" "535374206"
+				"download" "492508848"
+			}
+			"preview"
+			{
+				"gid" "3842677711300350651"
+				"size" "535365063"
+				"download" "492506640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F8EBCCD2CF7F88FB679433E805947988"
+				"size" "92517C243A86ED9EC4BA0CDDE4DADF8C"
+				"download" "34B55C1392E802A6A01048C174EA1060"
+			}
+			"alpha-campaign"
+			{
+				"gid" "7168B7FF035402419118B709AE9F6D22"
+				"size" "5E0BE559712ECDBA871016E26FAD2EEC"
+				"download" "3FBEA663537CC3DD321FFC37C13515EA"
+			}
+			"alpha-stable"
+			{
+				"gid" "E2CB2B4ACBB2697E8A1BE94677FAA13A"
+				"size" "E984C0140C11E8B89243CBA78598E992"
+				"download" "7C7212A525873B8C0F3E5D8DDE27F13C"
+			}
+			"map-designer"
+			{
+				"gid" "830DC30C6BDE3740A0237D6D91CC73EC"
+				"size" "B3B7D1F4D0DAD869E4E4EEABB9910217"
+				"download" "ADB78E852127C48606394B028CA6A796"
+			}
+			"nightly"
+			{
+				"gid" "E6B7FADA9415E96BE1C03D5990A63270"
+				"size" "DE2F383F08DE93CA07F486EE791ECACA"
+				"download" "E0EFD1E08E84DA89EDE1E70925D12372"
+			}
+			"press"
+			{
+				"gid" "72F69421C487BE15E28A63C3221DDD01"
+				"size" "E01295A91B33021AB1C41CDA18066FE3"
+				"download" "ECFBF2C992AA636CC20F3B7D1AE94965"
+			}
+			"steam-demo"
+			{
+				"gid" "016F1E2AAFF7425D538FFA464A3F153F"
+				"size" "3A5384EB4E9B41FE40063C6145366E6E"
+				"download" "9D969BA56C13C13FC2D4EC86961E3996"
+			}
+			"trailer"
+			{
+				"gid" "32BF6EFD9FF47712F1F2D18DF4405A5C"
+				"size" "98B1B8B2E7574E3A951FEBB11B9802FE"
+				"download" "2F0148B7E7076CB5AC0B371495B65256"
+			}
+			"cross-platform"
+			{
+				"gid" "7244BA582E6A2145FDDED51713C9C932"
+				"size" "42B4831825858E2B63DC55EDD3903214"
+				"download" "20DBB90AA36F77A5A3B7AA9AF1EC3798"
+			}
+			"develop"
+			{
+				"gid" "347B0A185A5DA7E02D59E7D6C9E9E169"
+				"size" "5A91D7CEE873FD0F2ED51376414105AA"
+				"download" "20DAACE72B51230A7E37E985D261C8FD"
+			}
+			"unstable"
+			{
+				"gid" "681C7F5B71FA1C3D05D3037822DD2CB1"
+				"size" "69E0EC012C958F1571A6919E03B56FE0"
+				"download" "FC1E7545545B167890DC9297CBE05909"
+			}
+			"unstable-release"
+			{
+				"gid" "460F1E202DFEF8CB565200936761EB51"
+				"size" "A56D8FA1BB8B83DC964AD1A46D769803"
+				"download" "5DDB848603CED8452173868C3B606B53"
+			}
+		}
+	}
+	"1346025"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "FA059968ABDD92BBF5D13ADDF2515988"
+				"size" "6D3890E1E37C90541D5775C716A27577"
+				"download" "DFB6D6242CAC5FC87D43D616DB26EEB3"
+			}
+			"alpha-campaign"
+			{
+				"gid" "6B165367170EC6566708304AB89C8036"
+				"size" "23ED4D1FC52E91FA452AEA68ACEB0D27"
+				"download" "51AEF7669180E17A71D12E73EF0E0065"
+			}
+			"alpha-stable"
+			{
+				"gid" "102F252CFF257D697EFE24E5E1359B52"
+				"size" "828FA2CC3F67F5786F6628D591643AFB"
+				"download" "EEB07EF48770D5ED848B5E02B9310E0A"
+			}
+			"press"
+			{
+				"gid" "8A35F63BF0E5981414136EE8BF1F50F3"
+				"size" "1D4CB4BED31003F6965FA1F67D568CED"
+				"download" "F651208A9A827D5390B539B600FC8D29"
+			}
+			"steam-demo"
+			{
+				"gid" "B1905C7596BDB81CFC5DFD99CFA565C6"
+				"size" "21A0B331BF1FA107CDCE713248F2F140"
+				"download" "37208A98770FFD279718732DE32C93DE"
+			}
+			"trailer"
+			{
+				"gid" "2BB0252B2201C8A3C06D6819B1A036D3"
+				"size" "6182A13F4B9D5391B60B35C55E5D780A"
+				"download" "DB6FBEA64994D19BB82713FC80B22E12"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16686728"
+			"timeupdated" "1733832171"
+		}
+		"alpha"
+		{
+			"buildid" "12752319"
+			"pwdrequired" "1"
+			"timeupdated" "1700502035"
+		}
+		"alpha-campaign"
+		{
+			"buildid" "11990761"
+			"pwdrequired" "1"
+			"timeupdated" "1692629275"
+		}
+		"alpha-stable"
+		{
+			"buildid" "10621252"
+			"pwdrequired" "1"
+			"timeupdated" "1677166660"
+		}
+		"map-designer"
+		{
+			"buildid" "13321542"
+			"pwdrequired" "1"
+			"timeupdated" "1706688444"
+		}
+		"nightly"
+		{
+			"buildid" "12457303"
+			"pwdrequired" "1"
+			"timeupdated" "1697508815"
+		}
+		"press"
+		{
+			"buildid" "12113029"
+			"pwdrequired" "1"
+			"timeupdated" "1693918582"
+		}
+		"steam-demo"
+		{
+			"buildid" "11662875"
+			"pwdrequired" "1"
+			"timeupdated" "1688966905"
+		}
+		"trailer"
+		{
+			"buildid" "11792290"
+			"pwdrequired" "1"
+			"timeupdated" "1690444792"
+		}
+		"cross-platform"
+		{
+			"buildid" "15502341"
+			"pwdrequired" "1"
+			"timeupdated" "1724744988"
+		}
+		"develop"
+		{
+			"buildid" "16686728"
+			"pwdrequired" "1"
+			"timeupdated" "1733785963"
+		}
+		"legacy"
+		{
+			"buildid" "15744948"
+			"description" "Previous version (1.2.3)"
+			"timeupdated" "1733832119"
+		}
+		"preview"
+		{
+			"buildid" "14431379"
+			"description" "Public preview version"
+			"timeupdated" "1716271994"
+		}
+		"unstable"
+		{
+			"buildid" "16444200"
+			"pwdrequired" "1"
+			"timeupdated" "1731934646"
+		}
+		"unstable-release"
+		{
+			"buildid" "16444186"
+			"pwdrequired" "1"
+			"timeupdated" "1731934633"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "256"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Chucklefish/Wargroove2/save"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Chucklefish/Wargroove2/save"
+					"replace" "/Library/Chucklefish/Wargroove2/save"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26574349"
+"_sha" "1de56527246e5688fffb0057b904f42edeadb045"
+"_size" "16479"
