@@ -18,6 +18,7 @@
 		"russian" "1"
 		"polish" "1"
 		"czech" "1"
+		"brazilian" "1"
 	}
 	"logo" "9466db0e5938597e3444bc0b6a572a40b1e2c390"
 	"logo_small" "9466db0e5938597e3444bc0b6a572a40b1e2c390_thumb"
@@ -44,6 +45,48 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "72.52619324796277"
 			"height_pct" "58.35905960579436"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "72.52619324796277"
+				"height_pct" "58.35905960579436"
+			}
 		}
 	}
 	"store_asset_mtime" "1572396283"
@@ -118,6 +161,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1475265469"
 	"community_visible_stats" "1"
@@ -135,6 +183,7 @@
 		"7" "7208"
 		"8" "3964"
 		"9" "5350"
+		"10" "1625"
 	}
 	"review_score" "9"
 	"review_percentage" "98"
@@ -183,7 +232,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,spanish,russian,polish,czech"
+	"baselanguages" "english,german,french,koreana,spanish,russian,polish,czech"
 	"228985"
 	{
 		"config"
@@ -204,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "2610975363437899804"
-				"size" "76687079"
-				"download" "71682960"
+				"gid" "2900024331851551855"
+				"size" "76712880"
+				"download" "71699168"
 			}
 		}
 	}
@@ -220,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "2712482997943868906"
-				"size" "77100444"
-				"download" "71978240"
+				"gid" "3075227561309116815"
+				"size" "77126245"
+				"download" "71994448"
 			}
 		}
 	}
@@ -236,9 +285,9 @@
 		{
 			"public"
 			{
-				"gid" "50365516522171347"
-				"size" "81412253"
-				"download" "72670752"
+				"gid" "8400814860256866144"
+				"size" "81436494"
+				"download" "72686960"
 			}
 		}
 	}
@@ -246,8 +295,8 @@
 	{
 		"public"
 		{
-			"buildid" "4479504"
-			"timeupdated" "1576022704"
+			"buildid" "16701954"
+			"timeupdated" "1733930169"
 		}
 	}
 }
@@ -256,3 +305,7 @@
 	"quota" "400000"
 	"maxnumfiles" "200"
 }
+"_missing_token" "False"
+"_change_number" "26610236"
+"_sha" "a3de04b04e5a2c3713f04ff7dea334297db0c975"
+"_size" "4869"
