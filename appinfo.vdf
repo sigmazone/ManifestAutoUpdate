@@ -1,0 +1,251 @@
+"appid" "2909110"
+"common"
+{
+	"name" "Nuclear Nightmare"
+	"type" "Game"
+	"icon" "f29d271dd632fa4b8340d825779a132eb9535c1e"
+	"clienttga" "126db002418ccd559243f9e6453dd8ca1aadccc8"
+	"clienticon" "c9484be7e1fcdae1837ca056d7465894e4a01360"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "85.12252042007"
+			"height_pct" "82.29636665875088"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "85.12252042007"
+				"height_pct" "82.29636665875088"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729466909"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BG Productions"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BG Productions"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729486441"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2909110"
+	"store_tags"
+	{
+		"0" "3978"
+		"1" "3843"
+		"2" "1667"
+		"3" "1685"
+		"4" "3839"
+		"5" "1721"
+		"6" "3834"
+		"7" "4136"
+		"8" "3942"
+		"9" "4166"
+		"10" "6730"
+		"11" "1695"
+		"12" "1673"
+		"13" "21"
+		"14" "19"
+		"15" "3859"
+		"16" "493"
+		"17" "4106"
+		"18" "1759"
+		"19" "5125"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "BG Productions"
+	"publisher" "BG Productions"
+}
+"config"
+{
+	"installdir" "Nuclear Nightmare"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NuclearNightmare.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2909111"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9107802580721970709"
+				"size" "8520792882"
+				"download" "7973812240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16724051"
+			"timeupdated" "1734021311"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "6"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "\\NuclearNightmare\\Saved\\SaveGames\\"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26614807"
+"_sha" "1581d77c38da56d54e49cbbee016cbfdea436d96"
+"_size" "3815"
