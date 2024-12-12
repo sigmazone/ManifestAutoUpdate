@@ -1,0 +1,992 @@
+"appid" "1601580"
+"common"
+{
+	"name" "Frostpunk 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macosapplesilicon,macosnotarized"
+	"logo" "4fa6f6613e16144d60b67b9f5d6555baa8caf809"
+	"logo_small" "4fa6f6613e16144d60b67b9f5d6555baa8caf809_thumb"
+	"icon" "5e66161686d4e2503a8a42aab9e8bc1c46c68fc1"
+	"clienticon" "304eb948e48e3df819053e159c6cad189212eab0"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"name_localized"
+	{
+		"schinese" "冰汽时代2"
+		"tchinese" "冰汽時代2"
+		"japanese" "フロストパンク2"
+		"koreana" "프로스트펑크2"
+	}
+	"clienticns" "ae92722f72c7538c6a0b8eb61a4a20ba7357c309"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1601580_eula_0"
+			"name" "Frostpunk 2 EULA"
+			"url" "https://store.steampowered.com//eula/1601580_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1726790400"
+		"tested_build_id" "15756052"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Frostpunk 2"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "2c5b053c630a9cb57fa71e6eb018c2a0b008c05b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733845660"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "11 bit studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "11 bit studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "11 bit studios"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726851646"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/frostpunk-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1601580"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4328"
+		"2" "1662"
+		"3" "8945"
+		"4" "3835"
+		"5" "599"
+		"6" "4182"
+		"7" "1777"
+		"8" "5230"
+		"9" "4166"
+		"10" "12472"
+		"11" "6426"
+		"12" "7332"
+		"13" "4667"
+		"14" "1756"
+		"15" "26921"
+		"16" "9803"
+		"17" "220585"
+		"18" "4754"
+		"19" "1721"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "11 bit studios"
+	"publisher" "11 bit studios"
+	"homepage" "http://www.frostpunk2.com/"
+	"listofdlc" "2791490,2791500"
+}
+"config"
+{
+	"installdir" "Frostpunk2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Frostpunk2.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Frostpunk2.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"workshopdepot" "1601580"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1601581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "926682620247366471"
+				"size" "15278058654"
+				"download" "12040441408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"celestial"
+			{
+				"gid" "CFFE5F05CFA91048AAFBA391FE032839"
+				"size" "5F77AE8B2838A0D2803971CABB407B39"
+				"download" "D68D5F36A5A5AEE98A2F63CAD75E5B5E"
+			}
+			"breeze"
+			{
+				"gid" "731B1CB99DB1066ABCCA97613335E6A3"
+				"size" "20086FA115B523251683AA948EF9B5B0"
+				"download" "E707E7315AA46878EBA5FD9980C6B29D"
+			}
+			"chinook"
+			{
+				"gid" "55869BB010996D84BC1A21A8C09FEE12"
+				"size" "B01E746EAF9430D24CBF0119B07F7431"
+				"download" "43FE726FC16EDF11B32C09B47C137185"
+			}
+			"coral"
+			{
+				"gid" "512EEDF4B96152A0DE513DEFDB524058"
+				"size" "0FD5DB322BD34887B7EAF153FE3831C6"
+				"download" "B667266E05FBF1B3E890840E412F3A3B"
+			}
+			"development"
+			{
+				"gid" "A113F3CD1FEE4A2B3FD6365F1B593040"
+				"size" "75A2EDF53E50F34A36DCEE0E314E97DC"
+				"download" "71034CD442196670F7AF793ACCE4D18D"
+			}
+			"eclipse"
+			{
+				"gid" "58A6F592F19F3F562FEFBF3AB951510E"
+				"size" "0B760A30A8CE461B46A7E00F649965D8"
+				"download" "AC4A3C637B4D122D48BD04E8A9BE970D"
+			}
+			"glimmer"
+			{
+				"gid" "B2B4AF831C1316AF414D4411F3C9ECA6"
+				"size" "A89379A95160E4C177BDCABC91D6DC15"
+				"download" "14CF37573BFEE39C08094046CBE981FD"
+			}
+			"mist"
+			{
+				"gid" "6B6013E112F36EA04FA4DBD111631EE3"
+				"size" "4CE34D5ADE8D3F00EB4F34920703B83F"
+				"download" "E06AE7AAEAFED4A0C14BCD9B4312CCF4"
+			}
+			"monsoon"
+			{
+				"gid" "4E9B80A8D12D38308334BA282C66C6E6"
+				"size" "169AB65845BDC2FC5FFF2A0B52D1EC3A"
+				"download" "23E925A9F0969DD27AFAC3D5DFDF7F33"
+			}
+			"nebula"
+			{
+				"gid" "4A09FA5E804F39DAE632DC3B1F6DF839"
+				"size" "2D5A72773D5DB30FCA08E3F224FBB6EB"
+				"download" "03B24ADA06A9DA9A265525B1C9E1B17E"
+			}
+			"nova"
+			{
+				"gid" "1711354C8301D8077ABC392DE126D31F"
+				"size" "394118BF7030E972D8ED63CF675D18B1"
+				"download" "08F5EAFA48565CB5E8D9E6AA95B7A327"
+			}
+			"radiance"
+			{
+				"gid" "58233CE4F3E8BC291396E248A48462BF"
+				"size" "6D420D98058029F87BCFD85CA3B6EAAF"
+				"download" "0E7EBF39FF45A81D6509F62BD2169D7E"
+			}
+			"rainbow"
+			{
+				"gid" "989D03E9F5F192E31CBC8486A0427BF6"
+				"size" "53F48A373DDEA6F35A79AC909883BF3B"
+				"download" "F3B63864BD9FABF38162D3DBF05920EA"
+			}
+			"sleet"
+			{
+				"gid" "6A326A53B9A76CF3A5DE8425072CB7AC"
+				"size" "53D10356EFF188F6AC2212A5E09FD8E2"
+				"download" "DB76287AC4A1DA4210AEE365B4DB0871"
+			}
+			"tempest"
+			{
+				"gid" "4C930CEB5F9C1BF857907CC9A0ECF231"
+				"size" "3D2988887DB515C9CDDEE337F80301DB"
+				"download" "A3547A90AE8B1EE8C9DEC9D450B2D53B"
+			}
+			"thunderstorm"
+			{
+				"gid" "E4651129341F1FBBD3890D4C03DAFB23"
+				"size" "D7EB663BC8FC21332BADD90286D447DD"
+				"download" "694173758876D3ABACE9DD65F9E68F04"
+			}
+			"tornado"
+			{
+				"gid" "B0957013CAA1ED6F14DB7402C068260C"
+				"size" "124F47BF8D2A04FF79192FE4E54A17E2"
+				"download" "3FC839F3183B309B300217B967766B70"
+			}
+			"updraft"
+			{
+				"gid" "AAC9C8D5DEFC46DCA100F3661493202E"
+				"size" "AE18DB21A9B6825A618503E0F6B08439"
+				"download" "188A5CA03C722552EAD66ACEC28F3000"
+			}
+			"zenith"
+			{
+				"gid" "03191E5F7DE85ED39F48C3A7D278EDA7"
+				"size" "1FB1FA24F0071D36D437B2370AF2B224"
+				"download" "433BEEAA2E37A82F590AECB365DA5604"
+			}
+		}
+	}
+	"2791500"
+	{
+		"dlcappid" "2791500"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8765680838166969488"
+				"size" "166236316"
+				"download" "112476960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"celestial"
+			{
+				"gid" "35A326B571C3A57197C931B123EF6FCD"
+				"size" "317EED92FADC41D71D886FB4BE0C030E"
+				"download" "317EED92FADC41D71D886FB4BE0C030E"
+			}
+			"breeze"
+			{
+				"gid" "C1D8DCC9D8E215F6B5163F22B8888765"
+				"size" "7930FA3463A9E6E4F2C95F6568402729"
+				"download" "462512775D51C3CC58AC382926B1F173"
+			}
+			"chinook"
+			{
+				"gid" "866BA161F94F26AC1ABED61FD04FAD50"
+				"size" "BC529E1A5DAF65F431A666E49FB092BF"
+				"download" "C7D22E099ADB977C7DE325916DCD5A94"
+			}
+			"coral"
+			{
+				"gid" "DA70B5B2D547A333101A33BE23D93E34"
+				"size" "BCF787E304080D427EF884566F7D3488"
+				"download" "BCF787E304080D427EF884566F7D3488"
+			}
+			"development"
+			{
+				"gid" "369F5B254B9C9C5FD8B24EA42BE74B4A"
+				"size" "A8A2C580F6946D53C12BFD1375F495EF"
+				"download" "D056FAA48D44B98D7DBB0FEBBFA47C59"
+			}
+			"eclipse"
+			{
+				"gid" "2400367BAA6D6195C05CC38045C0B4F1"
+				"size" "CCFCB263B29F30C8D7E5E5874D0BE814"
+				"download" "537F136C81087704603B08E3C71FB4DF"
+			}
+			"glimmer"
+			{
+				"gid" "A98DD77818AB2EFEC70DE5CD259A6547"
+				"size" "22D5F391E512656B619F032573430DEA"
+				"download" "D7A4CB808286C62248F4CE6A17F9A2CD"
+			}
+			"mist"
+			{
+				"gid" "5FB51D56C0651B5A49724DC8055A48B5"
+				"size" "291FCDD8772C853B31CD57FAECFF7C73"
+				"download" "241FBBEBCCB789D1CFCB1F6D46D6E6A5"
+			}
+			"monsoon"
+			{
+				"gid" "792B564F3873D5222C57A5D59CFD6851"
+				"size" "3FC72FE528CFE61DE73E10FF615A4EEC"
+				"download" "18EFA5B45D6FD78EAA7316BCB16EB986"
+			}
+			"nebula"
+			{
+				"gid" "CE89155DBBE340BBBF191C8310B820FF"
+				"size" "17769F1A6D4BAB381AE494E6E035DB3C"
+				"download" "17769F1A6D4BAB381AE494E6E035DB3C"
+			}
+			"nova"
+			{
+				"gid" "B14D52F6CE12BC45F952689189BA5762"
+				"size" "5EE784A116A54389B5748E26572DE523"
+				"download" "85A3EE2C84D4FA029326E84CF1F7204D"
+			}
+			"radiance"
+			{
+				"gid" "F63A6F1A7B0991E0516C26AABDD73DFA"
+				"size" "C7286CAB5903B5750A30F1540DAED38B"
+				"download" "95B331B317811000F96A626C6D3F1313"
+			}
+			"rainbow"
+			{
+				"gid" "432775746F625E550185FF78DF4A817C"
+				"size" "E403713BA1B7F2F6D2A173B9250D6378"
+				"download" "B8D33BDCDFE011A3BA4C0B723986CB9C"
+			}
+			"sleet"
+			{
+				"gid" "4E2572CB958380CC16E5CD78749B0580"
+				"size" "D4B1A484D3F7672DCD5EF02CCA4558FF"
+				"download" "D4B1A484D3F7672DCD5EF02CCA4558FF"
+			}
+			"tempest"
+			{
+				"gid" "C70877634911638AAA132FF7B1866E0A"
+				"size" "EBACDFAB5650BF3B74F7A928D9C4B5D8"
+				"download" "EBACDFAB5650BF3B74F7A928D9C4B5D8"
+			}
+			"tornado"
+			{
+				"gid" "F0F8287CEDAF57EA88CE7719DE01E519"
+				"size" "72AE8436217D1663957C959F86A22E2E"
+				"download" "72AE8436217D1663957C959F86A22E2E"
+			}
+			"zenith"
+			{
+				"gid" "3482287EA71788B278CCC44EA8456C64"
+				"size" "5C395B8AF722A1ADDADB9DFA8F4E0105"
+				"download" "5C395B8AF722A1ADDADB9DFA8F4E0105"
+			}
+		}
+	}
+	"1601582"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4089602523324603681"
+				"size" "11869406133"
+				"download" "11005428048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"breeze"
+			{
+				"gid" "06F938EDAFF63D68456B8A798259C2A0"
+				"size" "899DE2F6B73E8D5C8345FB8A394D5B93"
+				"download" "8768A264FC613FE249A9E9A955101136"
+			}
+			"chinook"
+			{
+				"gid" "CBC218D71D0A40F85A20C37F026BD39A"
+				"size" "D06CA45E8A3A6B0EA23021F75676B53A"
+				"download" "DEC4ACECF18B160557B7C49D827B3BA9"
+			}
+			"coral"
+			{
+				"gid" "9BC51C03D0B35014B5675C4C18BB2AA2"
+				"size" "81585660D094C915BEDD4747FB2AB3D2"
+				"download" "C3F7AD94F36BCDC0D74C15C94379900A"
+			}
+			"development"
+			{
+				"gid" "F65A7B2E9D4DA0173C16A59532E3AB6D"
+				"size" "9FCCA407A76FCAEB2DA624D17B7B2859"
+				"download" "F63BBD904AE672A298EFE42ACFA8B7AB"
+			}
+			"eclipse"
+			{
+				"gid" "2BADA271D05B16D2484A6D2671BA6757"
+				"size" "D09FD1C719205923158124EE70F6AA51"
+				"download" "CC30CEF5AA60025DDD6D4EC178387C13"
+			}
+			"glimmer"
+			{
+				"gid" "75F0593361213CD74795BB4335852FDA"
+				"size" "221A3AB1EA5690D7F879FEAC8D2F16E8"
+				"download" "05A4AC3337C4E063F4707F41D7157CAA"
+			}
+			"mist"
+			{
+				"gid" "A3972056F9FC5E175CF7179C3F49ECA6"
+				"size" "A77F4B64058A13541B99F823735DB93C"
+				"download" "6D23D1E62E100AD87FB3B324D4E58557"
+			}
+			"monsoon"
+			{
+				"gid" "A07D7CB968A10D2EB38577E0ECA989CF"
+				"size" "7CBD6F4094840EB99B95826BD1923827"
+				"download" "BF00BB3BD45D4528BB7C31338DA3CF6F"
+			}
+			"nova"
+			{
+				"gid" "0C415814413377C596343F1230E8BDC2"
+				"size" "8069FEEE2A0878067B7EF380C7CC608C"
+				"download" "D6E420AEE012F630D86025396FFC2CEE"
+			}
+			"radiance"
+			{
+				"gid" "C3052BFC4092BA22EABD1DFB578045B2"
+				"size" "43992DF53C1E6EC8D05DBDF4825C7809"
+				"download" "28E8C6E68F96960A30CF982C3C605F77"
+			}
+			"rainbow"
+			{
+				"gid" "C86641E49B793441A7103FBFEE58ECC2"
+				"size" "28C6FEEA4CB326D65A884E8C6765EEAB"
+				"download" "E9BB25EA740B6B6E8EBEB2F202C90C8F"
+			}
+			"sleet"
+			{
+				"gid" "3B07DEF578693553537FC7C34DAA1132"
+				"size" "2C25147C763CBEFB00F6061D043D931F"
+				"download" "C0D0EEC2CD0D2A0927D25DAE51FFAAEE"
+			}
+			"tempest"
+			{
+				"gid" "34B30058638FFDDF1329EC0B035143BD"
+				"size" "581FEF13970C57264912B44D386A9677"
+				"download" "483F6ADF63D514460BDA3B6C52FB425F"
+			}
+			"tornado"
+			{
+				"gid" "7858F0294873090BBD86548EEA741303"
+				"size" "ED4D4F688366C497D6885D298C86DFD6"
+				"download" "717933C2627F895D28797203E960F48F"
+			}
+			"zenith"
+			{
+				"gid" "306B473C49FC331071128D1A6794BBF5"
+				"size" "51A4563667570EB3DBB5D84D4D2DD108"
+				"download" "3175F05041BF240FB191919FB54041C9"
+			}
+		}
+	}
+	"1601583"
+	{
+		"dlcappid" "2791500"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4762798089113415455"
+				"size" "11988411464"
+				"download" "11105861632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chinook"
+			{
+				"gid" "641A01E4D7A6CEF85A0055D400B5F954"
+				"size" "AA111BABDF4B7638589F33FFDEA31780"
+				"download" "0AFED710B119C9A25440DB3CB10F3867"
+			}
+			"development"
+			{
+				"gid" "1D0366012ECAFD21ADD4CB46CAE3C9EA"
+				"size" "D5A674C0AF065EECF893623C0C14656F"
+				"download" "62E5F74A9C3DD906DF0E26BDF5D60700"
+			}
+			"eclipse"
+			{
+				"gid" "D861CDAFF1CCBE42DD284016EFC140CA"
+				"size" "6A2E97EE0C8BB061183B5450E734A5C4"
+				"download" "59E904BA7979E146E813192210E41A46"
+			}
+			"glimmer"
+			{
+				"gid" "C74B92CCA8272B1975212A521188C75D"
+				"size" "9902453D008799C5AFDC4E0BAD6B543B"
+				"download" "FA6F8A2A0EF8A9C6CB112E8A7924AEEB"
+			}
+			"nova"
+			{
+				"gid" "6E9A676C35111AC4B72DFB9EA2C23904"
+				"size" "CED49A02A5CABD8D037F1A693D019D71"
+				"download" "8A5C92C7BD76031C63DEFC04314B2A9E"
+			}
+			"zenith"
+			{
+				"gid" "180B7E03C1D23BB11FD3B8338A1F62E4"
+				"size" "471D830FB236DA200665025E41C44A8E"
+				"download" "0E6357F6D4290C87206C9CB7D4F1C40F"
+			}
+		}
+	}
+	"2791490"
+	{
+		"dlcappid" "2791490"
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5534266034783623960"
+				"size" "262961032"
+				"download" "246494896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"coral"
+			{
+				"gid" "EE906086514ABA2EFC8961CEDDD3DD8B"
+				"size" "01682CFF8C599EE62CED86B5D0E68255"
+				"download" "E49E9003193B302A57ED3FDA85704736"
+			}
+			"eclipse"
+			{
+				"gid" "9979AEAE282E717CA411020D316F1773"
+				"size" "3662487A044887BA316996852731BC1B"
+				"download" "3DDD1CFB191AA79F9ABF5B6428DA29DA"
+			}
+			"glimmer"
+			{
+				"gid" "74D749406E99AD1ACC4B83B132B58B66"
+				"size" "968F51E878FF3BC4E3570F8BBDC4618C"
+				"download" "E4C5FF09891B64131151A8BE4C6B1424"
+			}
+			"nova"
+			{
+				"gid" "2CDE00B50AC64FEEF4759554D0493909"
+				"size" "F6D1D77993D52E546553C89FAD918D78"
+				"download" "25491B5B2BF1FC73E33A7C9C1717CE07"
+			}
+			"zenith"
+			{
+				"gid" "B19EB08A4754D69C616B7933B7125276"
+				"size" "D093FDEE597BC81E7B78DBF142B98373"
+				"download" "4DF9AC55450654CEB3766F3AD4106722"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16722200"
+			"timeupdated" "1734012602"
+		}
+		"celestial"
+		{
+			"buildid" "14110580"
+			"pwdrequired" "1"
+			"timeupdated" "1713535318"
+		}
+		"breeze"
+		{
+			"buildid" "15504062"
+			"pwdrequired" "1"
+			"timeupdated" "1724754158"
+		}
+		"chinook"
+		{
+			"buildid" "16065126"
+			"pwdrequired" "1"
+			"timeupdated" "1729080199"
+		}
+		"coral"
+		{
+			"buildid" "15663838"
+			"pwdrequired" "1"
+			"timeupdated" "1726067438"
+		}
+		"development"
+		{
+			"buildid" "16717198"
+			"pwdrequired" "1"
+			"timeupdated" "1733983728"
+		}
+		"eclipse"
+		{
+			"buildid" "16709047"
+			"pwdrequired" "1"
+			"timeupdated" "1734000897"
+		}
+		"glimmer"
+		{
+			"buildid" "16123824"
+			"pwdrequired" "1"
+			"timeupdated" "1730376400"
+		}
+		"mist"
+		{
+			"buildid" "15702330"
+			"pwdrequired" "1"
+			"timeupdated" "1726329340"
+		}
+		"monsoon"
+		{
+			"buildid" "15702330"
+			"pwdrequired" "1"
+			"timeupdated" "1726329393"
+		}
+		"nebula"
+		{
+			"buildid" "16601002"
+			"pwdrequired" "1"
+			"timeupdated" "1733145066"
+		}
+		"nova"
+		{
+			"buildid" "16722200"
+			"pwdrequired" "1"
+			"timeupdated" "1734011990"
+		}
+		"radiance"
+		{
+			"buildid" "15321467"
+			"pwdrequired" "1"
+			"timeupdated" "1723624088"
+		}
+		"rainbow"
+		{
+			"buildid" "15702330"
+			"pwdrequired" "1"
+			"timeupdated" "1726329405"
+		}
+		"sleet"
+		{
+			"buildid" "15616603"
+			"pwdrequired" "1"
+			"timeupdated" "1725628122"
+		}
+		"tempest"
+		{
+			"buildid" "15594706"
+			"pwdrequired" "1"
+			"timeupdated" "1725527436"
+		}
+		"thunderstorm"
+		{
+			"buildid" "16717596"
+			"pwdrequired" "1"
+			"timeupdated" "1733986949"
+		}
+		"tornado"
+		{
+			"buildid" "15567806"
+			"pwdrequired" "1"
+			"timeupdated" "1725285693"
+		}
+		"updraft"
+		{
+			"buildid" "15631670"
+			"pwdrequired" "1"
+			"timeupdated" "1725818958"
+		}
+		"zenith"
+		{
+			"buildid" "15731036"
+			"pwdrequired" "1"
+			"timeupdated" "1726589802"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "11bitstudios/Frostpunk2/Steam/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "11bitstudios/Frostpunk2/Steam/Saved/SaveGames"
+					"replace" "11bitstudios/Frostpunk2/MacSteam/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26612241"
+"_sha" "e71a9f0afc8f0e795634c0f9efa27d5950076096"
+"_size" "20886"
