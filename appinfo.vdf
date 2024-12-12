@@ -3,9 +3,9 @@
 {
 	"name" "Rituals in the Dark"
 	"type" "Game"
-	"oslist" "windows,linux"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"logo" "c3755b8524187d44475c24cffc5fe1656c24e88e"
 	"logo_small" "c3755b8524187d44475c24cffc5fe1656c24e88e_thumb"
 	"icon" "575490fbcbacc2cb51679bcfdacde6fa99c19acc"
@@ -76,7 +76,41 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1638298272"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.37564322469983"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1732504569"
 	"associations"
 	{
 		"0"
@@ -120,6 +154,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1574279888"
 	"community_visible_stats" "1"
@@ -149,7 +188,7 @@
 		"19" "7250"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -201,9 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "6804656711354776189"
-				"size" "500716926"
-				"download" "361894896"
+				"gid" "8780800815785978416"
+				"size" "508676142"
+				"download" "368253968"
 			}
 		}
 	}
@@ -211,8 +250,12 @@
 	{
 		"public"
 		{
-			"buildid" "14503429"
-			"timeupdated" "1716786653"
+			"buildid" "16519472"
+			"timeupdated" "1732502083"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26342529"
+"_sha" "f29d3b15e1be77cb8e10bf0f2fd857a03d04db16"
+"_size" "4481"
