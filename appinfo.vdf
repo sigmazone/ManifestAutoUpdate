@@ -1,0 +1,342 @@
+"appid" "1020100"
+"common"
+{
+	"name" "Liftoff - Night Fever"
+	"type" "DLC"
+	"parent" "410340"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"icon" "1d00bec072c59ba351116222adbbdeae58a2e2f3"
+	"osextended" "macos64"
+	"metacritic_name" "Liftoff - Night Fever"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_ff584959d9a1c28267429699a90dad6cd1ce02bb.jpg"
+	"store_asset_mtime" "1580738273"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LuGus Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LuGus Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Liftoff® Drone Simulations"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "9"
+		"2" "28"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_17" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1550526911"
+	"gameid" "1020100"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "699"
+		"2" "701"
+		"3" "492"
+	}
+	"review_score" "7"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"dlcforappid" "410340"
+	"mustownapptopurchase" "410340"
+	"developer" "LuGus Studios"
+	"publisher" "LuGus Studios"
+	"homepage" "http://www.liftoff-game.com"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1020104"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"dlcappid" "1020100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4751368696021242308"
+				"size" "3791463994"
+				"download" "2970844400"
+			}
+			"liftoff_1.2.11"
+			{
+				"gid" "3262187279319121778"
+				"size" "9623395338"
+				"download" "3658856144"
+			}
+			"liftoff_1.3.15"
+			{
+				"gid" "4751368696021242308"
+				"size" "3791463994"
+				"download" "2970844400"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "4751368696021242308"
+				"size" "3791463994"
+				"download" "2970844400"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "4751368696021242308"
+				"size" "3791463994"
+				"download" "2970844400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "13F01A92C31FA50761EEC72326E428DB"
+				"size" "E4D380DC5D530F82CFBD03EE547AC6BF"
+				"download" "BDFBE8F762D2FA45A513D514B1B7F3EB"
+			}
+		}
+	}
+	"1020101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "1020100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8050097211760721327"
+				"size" "3130893213"
+				"download" "2336736544"
+			}
+			"liftoff_1.2.11"
+			{
+				"gid" "3833607631357216986"
+				"size" "9623395338"
+				"download" "3657899504"
+			}
+			"liftoff_1.3.15"
+			{
+				"gid" "308791071711373982"
+				"size" "3791472809"
+				"download" "2970771664"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "6433743371871288707"
+				"size" "2064047254"
+				"download" "1451112928"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "4970765644837436695"
+				"size" "3696186836"
+				"download" "2833961408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "4539FB192C3D8078443F95D800CAC37C"
+				"size" "5C2E150BA3AD51360EC6891FFF1B7824"
+				"download" "CB97C43698B7D07A62E7A89C51A9875B"
+			}
+		}
+	}
+	"1020102"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"dlcappid" "1020100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3457003577400549564"
+				"size" "3106411779"
+				"download" "2318830512"
+			}
+			"liftoff_1.2.11"
+			{
+				"gid" "4348453445640888055"
+				"size" "9588052703"
+				"download" "3651061504"
+			}
+			"liftoff_1.3.15"
+			{
+				"gid" "4306353615199461328"
+				"size" "3770318374"
+				"download" "2957454656"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "3741178714047801780"
+				"size" "2059694595"
+				"download" "1447780256"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "5813851195104857599"
+				"size" "3687574645"
+				"download" "2828909872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "B1F363FC38ED01A551D411EDE2FF2078"
+				"size" "D26BCBAF7969129C9C89B2C53D354DA7"
+				"download" "C7695237CB86374C2AE36DD51050F474"
+			}
+		}
+	}
+	"1020103"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"dlcappid" "1020100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8164654253772811052"
+				"size" "3124594309"
+				"download" "2331397616"
+			}
+			"liftoff_1.2.11"
+			{
+				"gid" "4339761330388142536"
+				"size" "9588052702"
+				"download" "3650195616"
+			}
+			"liftoff_1.3.15"
+			{
+				"gid" "7484096217775931929"
+				"size" "3786949852"
+				"download" "2967968368"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "3154171882241306956"
+				"size" "2063391059"
+				"download" "1450484624"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "4937306526628517256"
+				"size" "3694887259"
+				"download" "2832969904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "32151BAD21D949DAB8F15DC1CA397C22"
+				"size" "676C7E7811E868FAA22FBB5AD5091D5A"
+				"download" "C7A1630B05A86351E17BED2711FE7CF7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16718874"
+			"timeupdated" "1734007493"
+		}
+		"liftoff_1.2.11"
+		{
+			"buildid" "4910879"
+			"description" "Liftoff Legacy v1.2"
+			"timeupdated" "1600870403"
+		}
+		"liftoff_1.3.15"
+		{
+			"buildid" "6946850"
+			"description" "Liftoff Legacy v1.3"
+			"timeupdated" "1641290376"
+		}
+		"liftoff_1.4.10"
+		{
+			"buildid" "9940301"
+			"description" "Liftoff Legacy v1.4"
+			"timeupdated" "1674033777"
+		}
+		"alphatesting"
+		{
+			"buildid" "16718874"
+			"pwdrequired" "1"
+			"timeupdated" "1733995340"
+		}
+		"elimination_tournaments"
+		{
+			"buildid" "16184381"
+			"description" "Elimination tournament testing"
+			"timeupdated" "1730200253"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26610859"
+"_sha" "b32981564476738b95e9601502751ed883c8147a"
+"_size" "6266"
