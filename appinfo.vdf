@@ -1,0 +1,237 @@
+"appid" "1891780"
+"common"
+{
+	"name" "Liftoff - DJI FPV"
+	"type" "DLC"
+	"parent" "410340"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_8d2d65d3bd6af55a1cbf41de5873bc17e5222937.jpg"
+	"store_asset_mtime" "1645618670"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LuGus Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LuGus Studios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "9"
+		"2" "28"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_17" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_36" "1"
+		"category_25" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1646986826"
+	"gameid" "1891780"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "699"
+		"2" "701"
+		"3" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"dlcforappid" "410340"
+	"mustownapptopurchase" "410340"
+	"developer" "LuGus Studios"
+	"publisher" "LuGus Studios"
+	"homepage" "http://www.liftoff-game.com"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1891781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7250528278186992085"
+				"size" "114467067"
+				"download" "100937632"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "8840609003171061949"
+				"size" "114290064"
+				"download" "100842736"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "4765725447683077190"
+				"size" "114418319"
+				"download" "100908928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "650FE0D89D0FDF05D1B244D58525FFFF"
+				"size" "35C002239070C94220B4ED6554B3BD48"
+				"download" "8B3A40B428684919F322E7E8D55B955D"
+			}
+		}
+		"dlcappid" "1891780"
+	}
+	"1891782"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8636127971578166822"
+				"size" "114466731"
+				"download" "100937760"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "7520223570773470912"
+				"size" "114289941"
+				"download" "100842176"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "652018380891182446"
+				"size" "114420892"
+				"download" "100934656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "47EB8AEB701D808311711796A14F8993"
+				"size" "EDCC7367DEFC695048EA744337EB045E"
+				"download" "3894B051F034752FC70B37994159B0F9"
+			}
+		}
+		"dlcappid" "1891780"
+	}
+	"1891783"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7946138600770644786"
+				"size" "114466906"
+				"download" "100937600"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "5732234319965294734"
+				"size" "114290006"
+				"download" "100842144"
+			}
+			"elimination_tournaments"
+			{
+				"gid" "7810324633353767846"
+				"size" "114420983"
+				"download" "100934832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphatesting"
+			{
+				"gid" "E881DF30F3493AC2766F931007EDE620"
+				"size" "C8CE843190F18CB8C80F1F89FF1151D5"
+				"download" "5606102626DD2E58DAD81DDBF572C6A6"
+			}
+		}
+		"dlcappid" "1891780"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16718958"
+			"timeupdated" "1734007495"
+		}
+		"liftoff_1.4.10"
+		{
+			"buildid" "9940167"
+			"description" "Liftoff Legacy v1.4"
+			"timeupdated" "1674033855"
+		}
+		"alphatesting"
+		{
+			"buildid" "16718958"
+			"pwdrequired" "1"
+			"timeupdated" "1733995756"
+		}
+		"elimination_tournaments"
+		{
+			"buildid" "16185098"
+			"description" "Elimination tournament testing"
+			"timeupdated" "1730200330"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26610861"
+"_sha" "2eecc648960f4be455d23a97972a7bb0e670c6eb"
+"_size" "4139"
