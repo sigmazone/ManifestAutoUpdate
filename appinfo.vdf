@@ -238,8 +238,8 @@
 	{
 		"0" "4231"
 		"1" "3964"
-		"2" "42804"
-		"3" "1646"
+		"2" "1646"
+		"3" "42804"
 		"4" "122"
 		"5" "3859"
 		"6" "1685"
@@ -248,9 +248,9 @@
 		"9" "21"
 		"10" "3871"
 		"11" "1716"
-		"12" "3959"
-		"13" "4791"
-		"14" "3841"
+		"12" "4791"
+		"13" "3841"
+		"14" "3959"
 		"15" "4885"
 		"16" "1684"
 		"17" "4026"
@@ -276,7 +276,7 @@
 	{
 		"0"
 		{
-			"executable" "bin/start_protected_game.exe"
+			"executable" "bin/Hero_Siege.exe"
 			"workingdir" "bin"
 			"config"
 			{
@@ -341,44 +341,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"269211"
-	{
-		"systemdefined" "1"
-		"config"
-		{
-			"language" "english"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "5133187974537516394"
-				"size" "2465285388"
-				"download" "562712992"
-			}
-			"herosiege1"
-			{
-				"gid" "7623323863527142409"
-				"size" "3575935730"
-				"download" "872933056"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "17747C72BCB51C36762F467A42C5ED21"
-				"size" "B49AD273EF876D038D3A2D3352FC36ED"
-				"download" "FE2E459D3A9C901A128DD03A7AE515A2"
-			}
-			"pasclosedtest"
-			{
-				"gid" "DAE055753AF93B33AA4C9E156B42CE69"
-				"size" "1D1E336F4D385E41C4A00279411AF693"
-				"download" "7AF76513254AAA2DC23E4A8167BC851F"
-			}
-		}
-	}
 	"269213"
 	{
 		"manifests"
@@ -406,9 +368,43 @@
 			}
 			"pasclosedtest"
 			{
-				"gid" "084715410BBB02E53FC74E73B0D46F1B"
-				"size" "213583BEB10965D9DB03EA2867A46DD3"
-				"download" "1E923EEF93F9E57884B52D993B1F3516"
+				"gid" "3468DAC3755588838C88584B4894CA40"
+				"size" "F55726D4696DCAE663A3944F60AAE2AC"
+				"download" "D14F967E85CB601A4A1194EE5B1F7C1A"
+			}
+		}
+	}
+	"269211"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8649293728111967636"
+				"size" "2953382484"
+				"download" "1362296992"
+			}
+			"herosiege1"
+			{
+				"gid" "7623323863527142409"
+				"size" "3575935730"
+				"download" "872933056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "17747C72BCB51C36762F467A42C5ED21"
+				"size" "B49AD273EF876D038D3A2D3352FC36ED"
+				"download" "FE2E459D3A9C901A128DD03A7AE515A2"
+			}
+			"pasclosedtest"
+			{
+				"gid" "1ADDFA8C69DA6F6722E167D2B939B582"
+				"size" "F7245EF6DBAA2A2E48FA08ECAA580190"
+				"download" "8ACE8140CACC8204097F37711C788433"
 			}
 		}
 	}
@@ -416,8 +412,8 @@
 	{
 		"public"
 		{
-			"buildid" "16164406"
-			"timeupdated" "1729768061"
+			"buildid" "16734484"
+			"timeupdated" "1734089404"
 		}
 		"closedbeta"
 		{
@@ -433,9 +429,9 @@
 		}
 		"pasclosedtest"
 		{
-			"buildid" "15149448"
+			"buildid" "16733677"
 			"pwdrequired" "1"
-			"timeupdated" "1721905593"
+			"timeupdated" "1734085496"
 		}
 	}
 }
@@ -445,6 +441,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "25875120"
-"_sha" "9b9bb38155925ef20f57d31a86c483051b9ba2f2"
-"_size" "8623"
+"_change_number" "26628374"
+"_sha" "690291f4568883abd529b1d2f25913180e71074f"
+"_size" "8566"
