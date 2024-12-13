@@ -1,0 +1,378 @@
+"appid" "2845630"
+"common"
+{
+	"name" "Ocean Keeper"
+	"type" "Game"
+	"icon" "b2030da67559ef988fab7d10b50070d539454bd4"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"clienttga" "ac16f278873ba861fb0abdd802d430991611e802"
+	"linuxclienticon" "3011e232a57377b0c9e04f1c00934e0dfb69243a"
+	"clienticon" "d82f90fec21acf2aaf4728d287f78027627c4424"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.67137829877478"
+			"height_pct" "74.47739386263487"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.67137829877478"
+				"height_pct" "74.47739386263487"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732610718"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RetroStyle Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RetroStyle Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1721370949"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2845630"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4637"
+		"2" "5981"
+		"3" "21"
+		"4" "5125"
+		"5" "7332"
+		"6" "4821"
+		"7" "9157"
+		"8" "19780"
+		"9" "3959"
+		"10" "1720"
+		"11" "4777"
+		"12" "4711"
+		"13" "16689"
+		"14" "4182"
+		"15" "5030"
+		"16" "4166"
+		"17" "4295"
+		"18" "11333"
+		"19" "8945"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "RetroStyle Games"
+	"publisher" "RetroStyle Games"
+	"homepage" "https://retrostylegames.com/games/ocean-keeper-roguelike-survival-game/"
+}
+"config"
+{
+	"installdir" "CodenameOceanKeeper"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "9"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "CodenameOceanKeeper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "CodenameOceanKeeper"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"5"
+		{
+			"executable" "CodenameOceanKeeper.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2845631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6580676442148882655"
+				"size" "896015770"
+				"download" "670381840"
+			}
+		}
+	}
+	"2845632"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7806567031359469307"
+				"size" "921639120"
+				"download" "691897232"
+			}
+		}
+	}
+	"2845633"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138922392793307152"
+				"size" "919014120"
+				"download" "679398368"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16722749"
+			"timeupdated" "1734019743"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RetroStyleGames/CodenameOceanKeeper"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26614410"
+"_sha" "f1b61e4ca9c4561ba7b56e956f8f54e3b8feb60e"
+"_size" "5787"
