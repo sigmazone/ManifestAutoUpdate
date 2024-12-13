@@ -17,10 +17,17 @@
 		"english" "1"
 		"koreana" "1"
 	}
+	"name_localized"
+	{
+		"koreana" "스펙트럴 스크림"
+		"schinese" "幽灵尖叫"
+		"japanese" "スペクトラル・スクリーム"
+		"tchinese" "幽靈尖叫"
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "5450a71cd0cf3660d33f3c5b8f304d2ef662d540/capsule_231x87.jpg"
+		"english" "b659fa2e808ace87d96fc755c988eab9288f249f/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -30,13 +37,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "44.77917591047927"
-			"height_pct" "100"
+			"pinned_position" "BottomCenter"
+			"width_pct" "38.52795089110509"
+			"height_pct" "56.60036319647227"
 		}
 	}
 	"library_assets_full"
@@ -45,54 +53,61 @@
 		{
 			"image2x"
 			{
-				"english" "3417fc15addfd2c3a8dbcd5502f1beac798d842f/library_600x900_2x.jpg"
+				"english" "0246ab35e725fb39f566a296441544d66a794fb5/library_600x900_2x.jpg"
 			}
 			"image"
 			{
-				"english" "3417fc15addfd2c3a8dbcd5502f1beac798d842f/library_600x900.jpg"
+				"english" "0246ab35e725fb39f566a296441544d66a794fb5/library_600x900.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "ab5a104db6ea64a4e6edbc5f98ea7237775754cf/library_hero_2x.jpg"
+				"english" "f7aab9808574a7d7a3d57239f5e546fbb5159c76/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "ab5a104db6ea64a4e6edbc5f98ea7237775754cf/library_hero.jpg"
+				"english" "f7aab9808574a7d7a3d57239f5e546fbb5159c76/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f7aab9808574a7d7a3d57239f5e546fbb5159c76/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "53fe2120735605d8e69355eba5bf7da3ed942fbb/logo.png"
+				"english" "ac9dd2bb3ba251e1d39e8b981dd25cd50f79bb6a/logo.png"
 			}
 			"image2x"
 			{
-				"english" "53fe2120735605d8e69355eba5bf7da3ed942fbb/logo_2x.png"
+				"english" "ac9dd2bb3ba251e1d39e8b981dd25cd50f79bb6a/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "44.77917591047927"
-				"height_pct" "100"
+				"pinned_position" "BottomCenter"
+				"width_pct" "38.52795089110509"
+				"height_pct" "56.60036319647227"
 			}
 		}
 		"library_header"
 		{
 			"image2x"
 			{
-				"english" "ec13faec7e93a604da75d859f5a497da7855f91e/library_header_2x.jpg"
+				"english" "0f7a97e866762b50989227eef580255b981032cd/library_header_2x.jpg"
 			}
 			"image"
 			{
-				"english" "ec13faec7e93a604da75d859f5a497da7855f91e/library_header.jpg"
+				"english" "0f7a97e866762b50989227eef580255b981032cd/library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729846294"
+	"store_asset_mtime" "1734053680"
 	"associations"
 	{
 		"0"
@@ -259,18 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "3578207240098761527"
-				"size" "7937246992"
-				"download" "3222946784"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "A1931FA923A5A3EBB1F93C400D8929A8"
-				"size" "D304E442C5CD39C8E85627A97557D8C7"
-				"download" "FF49AF7ECA798CA95E35BC5F5D8A48A7"
+				"gid" "3797567423928627627"
+				"size" "8472545318"
+				"download" "3575493232"
 			}
 		}
 	}
@@ -279,14 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "16388696"
-			"timeupdated" "1731490160"
-		}
-		"test"
-		{
-			"buildid" "16284085"
-			"pwdrequired" "1"
-			"timeupdated" "1730701819"
+			"buildid" "16716836"
+			"timeupdated" "1733990333"
 		}
 	}
 }
@@ -329,6 +329,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26171936"
-"_sha" "8f66648e7ba420a370916526a53044c4065c0e12"
-"_size" "5589"
+"_change_number" "26621730"
+"_sha" "f3da7102ccc6071e13e7548f55c450812f07445b"
+"_size" "5663"
