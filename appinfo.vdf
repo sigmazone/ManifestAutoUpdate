@@ -38,6 +38,8 @@
 		"swedish" "1"
 		"brazilian" "1"
 	}
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -103,7 +105,45 @@
 			"height_pct" "86.7014960816908"
 		}
 	}
-	"store_asset_mtime" "1667256471"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.098016336055984"
+				"height_pct" "86.7014960816908"
+			}
+		}
+	}
+	"store_asset_mtime" "1728941823"
 	"associations"
 	{
 		"0"
@@ -235,8 +275,8 @@
 	"store_tags"
 	{
 		"0" "492"
-		"1" "1625"
-		"2" "3841"
+		"1" "3841"
+		"2" "1625"
 		"3" "4166"
 		"4" "7208"
 		"5" "21"
@@ -256,7 +296,7 @@
 		"19" "4975"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -315,7 +355,9 @@
 	}
 	"nativesteamcontroller" "1"
 	"steamcontrollertemplateindex" "1"
-	"steamcontrollerconfigfileids" "770904194"
+	"steamcontrollerconfigdetails"
+	{
+	}
 }
 "depots"
 {
@@ -341,9 +383,9 @@
 		{
 			"public"
 			{
-				"gid" "5949289636577644021"
-				"size" "2565983832"
-				"download" "1624827792"
+				"gid" "298748365534807613"
+				"size" "2127510575"
+				"download" "1193959872"
 			}
 		}
 		"encryptedmanifests"
@@ -372,12 +414,6 @@
 				"size" "21B81C5A502398988DDBDE78EF6A62BD"
 				"download" "CBBD93854075D9197CE030C5E7BB612D"
 			}
-			"testing"
-			{
-				"gid" "4C2F17A00F2532D358C1C8C2870F2004"
-				"size" "748117061CAA4E2FB230230894A6A26C"
-				"download" "DC9E9A3093FA83D56693351D0A63494A"
-			}
 			"win10-beta"
 			{
 				"gid" "C1CD278779738A4CEE9D13C531EBE113"
@@ -386,9 +422,15 @@
 			}
 			"development"
 			{
-				"gid" "D719DCC63A7D5DC58A31FF86FB750C4A"
-				"size" "14A80B56156A7BEABA2360959FE13887"
-				"download" "32ACF08E55704A47A4CA421AD11C4772"
+				"gid" "8FBBCFF7A2C09557C0B881BD7F76951B"
+				"size" "11E9F9DA7223068C67EDFE2F83892ED9"
+				"download" "D03BCDACA55A23DC0CD70EEBEA0BD8A5"
+			}
+			"testing"
+			{
+				"gid" "B883B6AE046211CF5796914251E4EB71"
+				"size" "E03956244873D22E167B24732604F700"
+				"download" "4EA168ADF41D4B86D048575CCB04BB5F"
 			}
 		}
 	}
@@ -403,9 +445,9 @@
 		{
 			"public"
 			{
-				"gid" "3414217284178104968"
-				"size" "2549199425"
-				"download" "1598470720"
+				"gid" "9054515232069418566"
+				"size" "2150502353"
+				"download" "1200044816"
 			}
 		}
 		"encryptedmanifests"
@@ -434,12 +476,6 @@
 				"size" "82EBB7FA749347D57C70620CCB4DD2A4"
 				"download" "00B97C0A73812B9BACD106E21F395E42"
 			}
-			"testing"
-			{
-				"gid" "811EB923CA2B9A919AE1DDC3B4573DB9"
-				"size" "B2F67C4B39C41E2BE6E70F032D77ADE6"
-				"download" "B7B59C12E673C54DFFC0C8F270C695B7"
-			}
 			"win10-beta"
 			{
 				"gid" "99A2345FDEDA6D925FA5CEEEA01AEBC2"
@@ -448,9 +484,15 @@
 			}
 			"development"
 			{
-				"gid" "53DB5E326E153DB267DCD76BF1C1251F"
-				"size" "3C917B158FFD76F94355D65BBD221E1E"
-				"download" "C6E91B7AACB7C9A9993FE6504A19B457"
+				"gid" "7456B93860AED1960DA377A53A6241B2"
+				"size" "D3BAFB9D5A373F0DE32B2AF00AB01750"
+				"download" "B8A7810D98B760C8FB6280D055B0C3DE"
+			}
+			"testing"
+			{
+				"gid" "4873A82265E4FFC1BAB89683C648AB25"
+				"size" "145F12FE9305955AE915FC63C9C36946"
+				"download" "B26721A9D8F44A7A0A1546B302D5AC7F"
 			}
 		}
 	}
@@ -496,12 +538,6 @@
 				"size" "5752642856F5BC2BB99B693CEB96A441"
 				"download" "BF9277CEDA891FC219894C40A5AC37EE"
 			}
-			"testing"
-			{
-				"gid" "203008F02972A15A01F33FEBD7DE69C6"
-				"size" "5236C37B26B74C0D26F38537FC293571"
-				"download" "68796CF4C9C652B073418DB0F69752C8"
-			}
 			"win10-beta"
 			{
 				"gid" "A21F87C37CC8234787783C480F9D4353"
@@ -513,6 +549,12 @@
 				"gid" "E7517E96600329DF9326A7803EE37FBB"
 				"size" "C96E1877964010B92622E928ED98F5CA"
 				"download" "C1F60FA3303D0E2E9DC2CD571A4C1FAA"
+			}
+			"testing"
+			{
+				"gid" "203008F02972A15A01F33FEBD7DE69C6"
+				"size" "5236C37B26B74C0D26F38537FC293571"
+				"download" "68796CF4C9C652B073418DB0F69752C8"
 			}
 		}
 	}
@@ -559,12 +601,6 @@
 				"size" "163EF3F7172AD5B602182DD04B945409"
 				"download" "BF6CA277F6E391986211CEABC9ACF561"
 			}
-			"testing"
-			{
-				"gid" "3DED1401795928B3BFC60B7C04B6960B"
-				"size" "203C5B4B95C7DD29E9BBE0F19348419D"
-				"download" "DA2146D5EC7C57F224534E3FDA37EC64"
-			}
 			"win10-beta"
 			{
 				"gid" "4F1CE2FAED852ED5C001D69F1E52AA72"
@@ -576,6 +612,12 @@
 				"gid" "044ED399D0AB5E76B5BD92F551A6A1EE"
 				"size" "B731A32925C028F5A3EAE0BC87E4CA5D"
 				"download" "952100153E5FF8220CA726FC83EE6E73"
+			}
+			"testing"
+			{
+				"gid" "3DED1401795928B3BFC60B7C04B6960B"
+				"size" "203C5B4B95C7DD29E9BBE0F19348419D"
+				"download" "DA2146D5EC7C57F224534E3FDA37EC64"
 			}
 		}
 	}
@@ -622,12 +664,6 @@
 				"size" "163EF3F7172AD5B602182DD04B945409"
 				"download" "BF6CA277F6E391986211CEABC9ACF561"
 			}
-			"testing"
-			{
-				"gid" "56D20BD9CE1BBEBA848ECB80C66065FB"
-				"size" "203C5B4B95C7DD29E9BBE0F19348419D"
-				"download" "DA2146D5EC7C57F224534E3FDA37EC64"
-			}
 			"win10-beta"
 			{
 				"gid" "F78F77B42AC1C853BA1B30E103D9DE2A"
@@ -639,6 +675,12 @@
 				"gid" "3E746A33BB2AD5E8A50F0DE7AB5B1319"
 				"size" "B731A32925C028F5A3EAE0BC87E4CA5D"
 				"download" "952100153E5FF8220CA726FC83EE6E73"
+			}
+			"testing"
+			{
+				"gid" "56D20BD9CE1BBEBA848ECB80C66065FB"
+				"size" "203C5B4B95C7DD29E9BBE0F19348419D"
+				"download" "DA2146D5EC7C57F224534E3FDA37EC64"
 			}
 		}
 	}
@@ -653,9 +695,9 @@
 		{
 			"public"
 			{
-				"gid" "7198940283097568823"
-				"size" "4013384298"
-				"download" "2658236560"
+				"gid" "3103328053163119286"
+				"size" "3991582732"
+				"download" "2651443328"
 			}
 		}
 		"encryptedmanifests"
@@ -678,12 +720,6 @@
 				"size" "68C2A5386960485F3DB5F32652E02375"
 				"download" "C443164F7C2FA91B4A0560DB1D8451E1"
 			}
-			"testing"
-			{
-				"gid" "6B0D587E386B8986A926C45D08D43DA4"
-				"size" "71D0970A4A2EF1973BCE271B22D0FE0A"
-				"download" "E8346ACA79220505E2D27D4AC4CADD7C"
-			}
 			"win10-beta"
 			{
 				"gid" "97B6287ECF7D2FB9CDD2FE41CCC5B25F"
@@ -695,6 +731,12 @@
 				"gid" "A87FBE9060790CDBE46D7529DE5DDF3F"
 				"size" "9827EA778ABA0EDB8AD9315C753135D6"
 				"download" "DEF371BAB31618D8FA7CE9AB535578C4"
+			}
+			"testing"
+			{
+				"gid" "6B0D587E386B8986A926C45D08D43DA4"
+				"size" "71D0970A4A2EF1973BCE271B22D0FE0A"
+				"download" "E8346ACA79220505E2D27D4AC4CADD7C"
 			}
 		}
 	}
@@ -735,12 +777,6 @@
 				"size" "7BA4A253C0EC9910DD2F714BEB0BFE56"
 				"download" "CA0249F5705893B43E6D0B3E148F4FEC"
 			}
-			"testing"
-			{
-				"gid" "DF14C11A66A049603445EF492B1552AE"
-				"size" "AC943A993386BEA6F530C78963BB234D"
-				"download" "D2EEC146E2B3494B99498B3AF222C0EE"
-			}
 			"win10-beta"
 			{
 				"gid" "38A79A7DE996F67753C2D56732D3CFF6"
@@ -753,14 +789,20 @@
 				"size" "9F658BB4F2A7AD22CC90E45A2D9732CB"
 				"download" "0EB167215279E6895BBF117D966170C9"
 			}
+			"testing"
+			{
+				"gid" "DF14C11A66A049603445EF492B1552AE"
+				"size" "AC943A993386BEA6F530C78963BB234D"
+				"download" "D2EEC146E2B3494B99498B3AF222C0EE"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "1399820"
-			"timeupdated" "1479862509"
+			"buildid" "16726705"
+			"timeupdated" "1734036894"
 		}
 		"beta"
 		{
@@ -785,12 +827,6 @@
 			"buildid" "779640"
 			"pwdrequired" "1"
 		}
-		"testing"
-		{
-			"buildid" "1325476"
-			"pwdrequired" "1"
-			"timeupdated" "1473372628"
-		}
 		"win10-beta"
 		{
 			"buildid" "1302667"
@@ -799,9 +835,15 @@
 		}
 		"development"
 		{
-			"buildid" "14192927"
+			"buildid" "16726705"
 			"pwdrequired" "1"
-			"timeupdated" "1714186860"
+			"timeupdated" "1734036145"
+		}
+		"testing"
+		{
+			"buildid" "15796364"
+			"pwdrequired" "1"
+			"timeupdated" "1727104028"
 		}
 	}
 }
@@ -839,6 +881,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23323933"
-"_sha" "650bfa0060808cabbd1fd85eaf0b8fbf6233d1a9"
-"_size" "17366"
+"_change_number" "26618735"
+"_sha" "0eebf569df54b9ded7d12c26274f3b113b6f3f06"
+"_size" "17996"
