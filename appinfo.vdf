@@ -1,0 +1,307 @@
+"appid" "2464530"
+"common"
+{
+	"name" "VOIN"
+	"type" "Game"
+	"icon" "b1a04369266ece66f5694bd29120c2d435859cc8"
+	"clienticon" "8e5df5e8ca4a5a2fff7189fb2f93c724c47b4cf3"
+	"clienttga" "4d4b669eb42769a5420cd73ed76b88cc29584613"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "雷霆孤影 (VOIN)"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "0d0ae21bb510948f0b4691da52ec9a728837f7fa/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.604844811948624"
+			"height_pct" "55.96503716055288"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "8e9c8da9c4295bd3e529269c7ec8beda9e02ee63/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "8e9c8da9c4295bd3e529269c7ec8beda9e02ee63/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.604844811948624"
+				"height_pct" "55.96503716055288"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733948049"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nikita Sozidar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "tinyBuild"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "tinyBuild"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_59" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733853037"
+	"community_hub_visible" "1"
+	"gameid" "2464530"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "42804"
+		"3" "4231"
+		"4" "4106"
+		"5" "29482"
+		"6" "1716"
+		"7" "1646"
+		"8" "3959"
+		"9" "3839"
+		"10" "1695"
+		"11" "4252"
+		"12" "4604"
+		"13" "3952"
+		"14" "4172"
+		"15" "4004"
+		"16" "4182"
+		"17" "492"
+		"18" "1199779"
+		"19" "4345"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Nikita Sozidar"
+	"publisher" "tinyBuild"
+	"homepage" "https://www.vointhegame.com/"
+}
+"config"
+{
+	"installdir" "VOIN"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VOIN\\Binaries\\Win64\\VOIN-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2464531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "906336477780252235"
+				"size" "1613376029"
+				"download" "1428080160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16722011"
+			"timeupdated" "1734011389"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20971520"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "VOIN/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26631178"
+"_sha" "9e7b65267eb8fb4df98eac0f54e6ed6f01148f57"
+"_size" "4841"
