@@ -34,15 +34,35 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1726704000"
-		"tested_build_id" "15478216"
+		"category" "2"
+		"test_timestamp" "1729728000"
+		"tested_build_id" "16083861"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -55,7 +75,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-2RC"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -162,6 +182,8 @@
 		"category_22" "1"
 		"category_28" "1"
 		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -221,35 +243,35 @@
 	"store_tags"
 	{
 		"0" "7918"
-		"1" "1100689"
-		"2" "3834"
-		"3" "7332"
-		"4" "21"
-		"5" "1702"
-		"6" "3843"
-		"7" "1662"
-		"8" "1695"
-		"9" "4747"
-		"10" "1684"
-		"11" "1697"
-		"12" "1643"
-		"13" "3859"
-		"14" "1742"
-		"15" "4182"
-		"16" "5125"
-		"17" "3810"
-		"18" "3993"
-		"19" "4145"
+		"1" "1662"
+		"2" "1100689"
+		"3" "3859"
+		"4" "1695"
+		"5" "21"
+		"6" "1643"
+		"7" "7332"
+		"8" "3843"
+		"9" "1702"
+		"10" "3810"
+		"11" "3834"
+		"12" "4747"
+		"13" "1684"
+		"14" "1697"
+		"15" "1742"
+		"16" "4182"
+		"17" "4145"
+		"18" "5125"
+		"19" "3993"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "Free Range Games"
 	"publisher" "North Beach Games"
 	"homepage" "https://www.returntomoria.com/"
-	"listofdlc" "3184500"
+	"listofdlc" "3184500,3308250,3349540"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -293,90 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "5257057080048819113"
-				"size" "15819746506"
-				"download" "15269018336"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"release_1.3.0_test"
-			{
-				"gid" "2CCE15283668786BE0D3273DA1AA849A"
-				"size" "ED30EBA355BB265A2637AF5306C720A8"
-				"download" "4004736005E2F23CBB5222FD29133325"
-			}
-			"release_ship"
-			{
-				"gid" "79FCE22152E4396D80BCA7FAA15A93FF"
-				"size" "CE63CBDCF5EA2BE11291D54467D0B832"
-				"download" "F8142767334C85BEA2AF7BB7D5A4B931"
-			}
-			"release_test"
-			{
-				"gid" "2A0B04C517562BBC17E392AC81D49201"
-				"size" "D05423F9618ECA658E71F86370C94D0F"
-				"download" "D07F4374CA064D8A41DC08D4A46E1BB4"
-			}
-			"main_autobuild_dev"
-			{
-				"gid" "687A94997089E2470E67F7C60118D87F"
-				"size" "6211522FBFD4B7852F5179DA25307FC9"
-				"download" "E525D6CF30D9741CB17E1DD9FA8C70D8"
-			}
-			"stage_ship"
-			{
-				"gid" "362C8C3C3AEAA0D6E42EB4E1C312F837"
-				"size" "E066C6385936D77A20612D1441B0D4E5"
-				"download" "31905DDCEC4D8F3C7B961DFFE9096348"
-			}
-			"main_test"
-			{
-				"gid" "FC26C32754C55A98706A0E30CE615267"
-				"size" "00DD49BCC428E431E7D4D4DF1D687FC4"
-				"download" "523F2E0A5A3824EF38B2A6959E9CCFFD"
-			}
-			"main_nightly_dev"
-			{
-				"gid" "AFCAE487F7923038D655DC1CEC40B530"
-				"size" "5F45459822DDCDF4DB56C9DAC0EAC102"
-				"download" "984222614D5A61FB9953A12064811830"
-			}
-			"main_ship"
-			{
-				"gid" "626EAD86672DF5826A66B791156CDEB5"
-				"size" "5AFB82968B44697171BF02B5FA91B6B7"
-				"download" "8FA489692BB1548A5C93E489AB9ABAB9"
-			}
-			"playtest"
-			{
-				"gid" "D962A3CF9CED3946ED8D04C08EE313AA"
-				"size" "DEA75F0D0740598845E5E07C74B5639D"
-				"download" "88B37ABB173F03EE15A44FC810B7A840"
-			}
-			"review"
-			{
-				"gid" "A670A3318A5285BA152F658530DD9DFC"
-				"size" "523C6B5267B07F076EDE8950DB182699"
-				"download" "CB1627B62A797B24793E2A88B575DCBA"
-			}
-			"release_1.3.0"
-			{
-				"gid" "37DA37744A07A91DCD453F7BFF91FA23"
-				"size" "613A9C1885A69E56CCFEEFFEEEA7D9FB"
-				"download" "35BACEE618CCB66122D9A9AA098092AE"
-			}
-			"stage_dev"
-			{
-				"gid" "4B196033F4DB65EAE869824038F75214"
-				"size" "B26DE0E54AC27A5ABDF4785A96C26D3C"
-				"download" "A4903ED75B41D671E7C52B7E656F7A5B"
-			}
-			"stage_test"
-			{
-				"gid" "F9C4DE6F7C52F50FED0426023589E0D4"
-				"size" "4D04B6A8BC5FD61C66BCA8179F04A539"
-				"download" "CB293E135E7767ABA32536708248F19A"
+				"gid" "4246407349026587548"
+				"size" "15937244476"
+				"download" "15381470064"
 			}
 		}
 	}
@@ -396,108 +337,22 @@
 				"download" "16812080"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release_1.3.0_test"
-			{
-				"gid" "A87983159393A5D0EDFF0E4F1CC2463F"
-				"size" "80F1E5CBE95105FA16A96EA64710D80B"
-				"download" "CFC57DD4D417782610C11FC6EE6FEBE6"
-			}
-			"release_1.3.0"
-			{
-				"gid" "33A32452431FF5B1AB7BB6581A7E3FE0"
-				"size" "06C0C98F3D7D45F026D03DBFB99A3537"
-				"download" "6072185F274BC52DEACC9203C31E761C"
-			}
-		}
+	}
+	"2933132"
+	{
+	}
+	"2933133"
+	{
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16083861"
-			"timeupdated" "1729181352"
-		}
-		"release_1.3.0_test"
-		{
-			"buildid" "15827218"
-			"pwdrequired" "1"
-			"timeupdated" "1727293214"
-		}
-		"release_ship"
-		{
-			"buildid" "16045065"
-			"pwdrequired" "1"
-			"timeupdated" "1728954283"
-		}
-		"release_test"
-		{
-			"buildid" "16044747"
-			"pwdrequired" "1"
-			"timeupdated" "1728951477"
-		}
-		"main_autobuild_dev"
-		{
-			"buildid" "16094867"
-			"pwdrequired" "1"
-			"timeupdated" "1729249383"
-		}
-		"stage_ship"
-		{
-			"buildid" "15688522"
-			"pwdrequired" "1"
-			"timeupdated" "1726218470"
-		}
-		"main_test"
-		{
-			"buildid" "16095653"
-			"pwdrequired" "1"
-			"timeupdated" "1729253297"
-		}
-		"main_nightly_dev"
-		{
-			"buildid" "16089920"
-			"pwdrequired" "1"
-			"timeupdated" "1729220035"
-		}
-		"main_ship"
-		{
-			"buildid" "15675383"
-			"pwdrequired" "1"
-			"timeupdated" "1726134957"
-		}
-		"playtest"
-		{
-			"buildid" "14685195"
-			"pwdrequired" "1"
-			"timeupdated" "1718224894"
-		}
-		"review"
-		{
-			"buildid" "15882185"
-			"pwdrequired" "1"
-			"timeupdated" "1728949061"
-		}
-		"release_1.3.0"
-		{
-			"buildid" "15478216"
-			"pwdrequired" "1"
-			"timeupdated" "1725992256"
-		}
-		"stage_dev"
-		{
-			"buildid" "16041063"
-			"pwdrequired" "1"
-			"timeupdated" "1728932333"
-		}
-		"stage_test"
-		{
-			"buildid" "16023243"
-			"pwdrequired" "1"
-			"timeupdated" "1728774621"
+			"buildid" "16725362"
+			"timeupdated" "1734028326"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -520,6 +375,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25785233"
-"_sha" "cd8c38b1b82022fb5c74db1e2807a2cc2356c8e0"
-"_size" "10135"
+"_change_number" "26623796"
+"_sha" "065ce1fb633fc3cad5278b9a25257e258dbe0297"
+"_size" "6607"
