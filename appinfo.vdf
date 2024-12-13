@@ -1,0 +1,516 @@
+"appid" "1283230"
+"common"
+{
+	"name" "Autopsy Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "68f1d33c859bf126f5690f79b74c6a7963a65b93"
+	"clienticns" "6e90ab2cd95c8ab3dafd8290d3fae863a799b12a"
+	"clienttga" "1a92e77a175001822c2c89452e18248399f33f9f"
+	"icon" "ca64cdd108d701dcc6cd4e1804feabf81ca648d7"
+	"logo" "e749f4b4de7b829d79eed24e1885f8f293ec55aa"
+	"logo_small" "e749f4b4de7b829d79eed24e1885f8f293ec55aa_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "验尸模拟器"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1718755200"
+		"tested_build_id" "14624110"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "995adceca6566cd2fa9d0d780a2b7267c1767951/capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.67313698115494"
+			"height_pct" "85.926516048324"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "61f8059c6aebef4ecee71c0d58e7755794b96b3d/library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "61f8059c6aebef4ecee71c0d58e7755794b96b3d/library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.67313698115494"
+				"height_pct" "85.926516048324"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "9be5220bd1a1d9c957df19d0ee531e5b47b006aa/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734028253"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Woodland Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17 Digital Ltd"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17 Digital Ltd"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1717689562"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1283230"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "492"
+		"2" "6650"
+		"3" "1667"
+		"4" "4345"
+		"5" "1100688"
+		"6" "5611"
+		"7" "3839"
+		"8" "4175"
+		"9" "1721"
+		"10" "5228"
+		"11" "4182"
+		"12" "4342"
+		"13" "4166"
+		"14" "1742"
+		"15" "21"
+		"16" "12095"
+	}
+	"review_score" "5"
+	"review_percentage" "48"
+}
+"extended"
+{
+	"developer" "Woodland Games"
+	"publisher" "Team17 Digital Ltd"
+	"homepage" "https://www.autopsysimulator.com/"
+	"listofdlc" "3017520"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Autopsy Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Autopsy Simulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish"
+	"1283231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3365010653441807332"
+				"size" "21781507685"
+				"download" "8746253392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"autopsy_alpha"
+			{
+				"gid" "5B70D8705909775FC2F3B0047E1E85CC"
+				"size" "F4A78DF9C8323D951E2068937895FD0B"
+				"download" "ED703ABA0266F12A212F493DE967E214"
+			}
+			"demo"
+			{
+				"gid" "CAD2D82B45D4E410ADA059F28EC7B692"
+				"size" "ACFA7280D459FE1DCCC7EE03E238E00A"
+				"download" "91A06DCF06685BB2269BDDDF1936E3DD"
+			}
+			"autopsy_only_preview"
+			{
+				"gid" "42460131DA9B246C75010E0EF1BF7ABF"
+				"size" "0601C412D81D4C264A418A3CE0536F38"
+				"download" "784146E97AEC05AFE734D452289CBB3F"
+			}
+			"autopsy_only_staging"
+			{
+				"gid" "5B54DCCB04735A6206F6349F71ACF3AA"
+				"size" "13716694A2EB4E34090D4FB4B31952C4"
+				"download" "AC085365F4CAF7DE1CFF5B5568CFBC5B"
+			}
+			"dailybuild"
+			{
+				"gid" "0758D81EAA35D822B56B03F01A559869"
+				"size" "41ABB4BA685328D37E81A96F2AC8EFE6"
+				"download" "683D0B2E50A7F2AA1A0A20E8C2696248"
+			}
+			"localization"
+			{
+				"gid" "3C97976E67177D43EA4F14C6DD12F26D"
+				"size" "58996E46E7B73921148E799A4C679739"
+				"download" "1638FD7EE661B86157893B1A5DF42840"
+			}
+			"release"
+			{
+				"gid" "151C7F4D9BD1EBDF4E7307B74E233BA0"
+				"size" "A482B3E52064D49A08CAA989415971BF"
+				"download" "EEE727E87C6092D8E7D8A524BFDCC6C5"
+			}
+			"staging_branch"
+			{
+				"gid" "91F99369B54434E4A0002FDE2F7443A0"
+				"size" "66DE12D624105A100637340BEFF17811"
+				"download" "1524775F6D63E562726311EDF6531C4A"
+			}
+			"steam_build_review"
+			{
+				"gid" "B866235B4554AC3B9C5410F30BC732C4"
+				"size" "8A68F121A2A413D58CFA1A5DCEEF92D2"
+				"download" "F905B679803B73DB329414B61BD2206A"
+			}
+		}
+	}
+	"3017520"
+	{
+		"dlcappid" "3017520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5621270297597602334"
+				"size" "50294590"
+				"download" "49145680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"autopsy_only_preview"
+			{
+				"gid" "55DA82AEF3B61A1508F876D7CB9525D8"
+				"size" "1125E747DEFB691846E8544DB3983F69"
+				"download" "44C3DEDBE83D3C17AA6DF58CE70FBECC"
+			}
+			"autopsy_only_staging"
+			{
+				"gid" "D2EBE1127FD2C4A8CDF6058C61206008"
+				"size" "149BE59A3695075D8554A08DB680A6F0"
+				"download" "E32F9D7C79D788E2291C2A33D0090E9B"
+			}
+			"dailybuild"
+			{
+				"gid" "FFE6922EDE1D392E0F79FFE04ADE1909"
+				"size" "C4B2383CA3B57263F0BC704C2BA00FBA"
+				"download" "A39B2A9B8223C8AC45230706A9EB0947"
+			}
+			"localization"
+			{
+				"gid" "9A368AA6F219163BDCA9F35088A77E78"
+				"size" "90046EB6343A42568C0E4983C32ABF3B"
+				"download" "6936EC08E83D1BA454CE9832383CB2A9"
+			}
+			"staging_branch"
+			{
+				"gid" "7F48046D014125AFE8566D6741475827"
+				"size" "8A1D9350CDA623C8CE95D63B6D236C11"
+				"download" "95E13F01A1078C5A5D7053C38CFBF243"
+			}
+			"steam_build_review"
+			{
+				"gid" "E067046F88C09F6743CF74A5E389EF58"
+				"size" "0D79D1E5369F7EBEAB742EC47DA904D3"
+				"download" "E8D293DE9711F2D02E4186AE16BC57E6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16689897"
+			"timeupdated" "1734019204"
+		}
+		"autopsy_alpha"
+		{
+			"buildid" "9034794"
+			"pwdrequired" "1"
+			"timeupdated" "1656574369"
+		}
+		"demo"
+		{
+			"buildid" "9281375"
+			"pwdrequired" "1"
+			"timeupdated" "1660052352"
+		}
+		"autopsy_only_preview"
+		{
+			"buildid" "16405337"
+			"pwdrequired" "1"
+			"timeupdated" "1731654656"
+		}
+		"autopsy_only_staging"
+		{
+			"buildid" "16405337"
+			"pwdrequired" "1"
+			"timeupdated" "1731589098"
+		}
+		"dailybuild"
+		{
+			"buildid" "16731401"
+			"pwdrequired" "1"
+			"timeupdated" "1734070716"
+		}
+		"localization"
+		{
+			"buildid" "16574829"
+			"pwdrequired" "1"
+			"timeupdated" "1732870998"
+		}
+		"release"
+		{
+			"buildid" "14520732"
+			"pwdrequired" "1"
+			"timeupdated" "1716914841"
+		}
+		"staging_branch"
+		{
+			"buildid" "16689897"
+			"pwdrequired" "1"
+			"timeupdated" "1733826574"
+		}
+		"steam_build_review"
+		{
+			"buildid" "14583076"
+			"pwdrequired" "1"
+			"timeupdated" "1717406945"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Woodland Games/Autopsy Simulator"
+			"pattern" "profiles.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Woodland Games/Autopsy Simulator/Gameplay"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26624331"
+"_sha" "d15683365f8ca997d9df45465a6f29d947e5dbcb"
+"_size" "10355"
