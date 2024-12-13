@@ -18,6 +18,12 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -118,13 +124,13 @@
 	"genres"
 	{
 		"0" "23"
-		"1" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -135,8 +141,67 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1667476686"
+	"steam_release_date" "1733975230"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1549440"
@@ -164,7 +229,7 @@
 		"19" "3854"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -213,18 +278,18 @@
 		{
 			"public"
 			{
-				"gid" "8453764462710429127"
-				"size" "3297141565"
-				"download" "2800207008"
+				"gid" "5711005499580559691"
+				"size" "3153503080"
+				"download" "2896882416"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "94A17123FB442D920FDE596EB4C31AF4"
-				"size" "C10136B91514B58D75B5B6A4E8E821C2"
-				"download" "DDEC36F2E81EF4CDCB4C2CDA719F14E0"
+				"gid" "5BD8414C6FFD4BE4C5CFE00AFE0D9547"
+				"size" "F1160C39CB688366AB66E2F7270DD5FA"
+				"download" "13D2364C23337686D2E7B327F4BAEADE"
 			}
 		}
 	}
@@ -233,14 +298,14 @@
 	{
 		"public"
 		{
-			"buildid" "10737127"
-			"timeupdated" "1678437937"
+			"buildid" "16706589"
+			"timeupdated" "1733974932"
 		}
 		"alpha"
 		{
-			"buildid" "11200570"
+			"buildid" "16706589"
 			"pwdrequired" "1"
-			"timeupdated" "1683735721"
+			"timeupdated" "1733916417"
 		}
 	}
 }
@@ -262,3 +327,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26604239"
+"_sha" "ed4d2896c68b82e0c02431cad14dea6d1acc3732"
+"_size" "5594"
