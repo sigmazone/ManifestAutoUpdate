@@ -74,6 +74,8 @@
 		}
 	}
 	"metacritic_name" "Hunt and Snare"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -92,6 +94,44 @@
 			"pinned_position" "BottomCenter"
 			"width_pct" "53.440010702420665"
 			"height_pct" "96.20060807894869"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "53.440010702420665"
+				"height_pct" "96.20060807894869"
+			}
 		}
 	}
 	"store_asset_mtime" "1720150762"
@@ -129,6 +169,9 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -145,26 +188,26 @@
 	"gameid" "944330"
 	"store_tags"
 	{
-		"0" "12095"
-		"1" "24904"
-		"2" "6650"
-		"3" "44868"
-		"4" "5611"
-		"5" "916648"
-		"6" "3834"
-		"7" "1695"
-		"8" "4747"
+		"0" "44868"
+		"1" "3834"
+		"2" "916648"
+		"3" "15172"
+		"4" "12095"
+		"5" "1695"
+		"6" "3814"
+		"7" "24904"
+		"8" "3810"
 		"9" "9564"
-		"10" "122"
-		"11" "21"
-		"12" "19"
-		"13" "493"
-		"14" "4182"
-		"15" "4191"
+		"10" "4106"
+		"11" "4747"
+		"12" "7208"
+		"13" "122"
+		"14" "4191"
+		"15" "3835"
 		"16" "1697"
-		"17" "7208"
-		"18" "3814"
-		"19" "15172"
+		"17" "3854"
+		"18" "19"
+		"19" "1684"
 	}
 	"review_score" "8"
 	"review_percentage" "83"
@@ -318,7 +361,18 @@
 			}
 		}
 	}
-	"steamcontrollertemplateindex" "6"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2874225033"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -360,9 +414,9 @@
 		{
 			"public"
 			{
-				"gid" "5053975133531476138"
-				"size" "10692726130"
-				"download" "3631698032"
+				"gid" "4738329889895771912"
+				"size" "12011057888"
+				"download" "4001111600"
 			}
 		}
 	}
@@ -377,9 +431,9 @@
 		{
 			"public"
 			{
-				"gid" "4740262728686283712"
-				"size" "10732552112"
-				"download" "3640327760"
+				"gid" "7624582249969373813"
+				"size" "12048266902"
+				"download" "4009504752"
 			}
 		}
 	}
@@ -394,9 +448,9 @@
 		{
 			"public"
 			{
-				"gid" "1316743278596771752"
-				"size" "10725615264"
-				"download" "3641693856"
+				"gid" "636490156428474319"
+				"size" "12047770518"
+				"download" "4013281104"
 			}
 		}
 	}
@@ -405,8 +459,8 @@
 	{
 		"public"
 		{
-			"buildid" "14060791"
-			"timeupdated" "1713212047"
+			"buildid" "16743305"
+			"timeupdated" "1734149354"
 		}
 	}
 }
@@ -458,3 +512,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26642472"
+"_sha" "327eacdb2a71de6c4e99a0c7bee471c2a1ed9d57"
+"_size" "9045"
