@@ -27,6 +27,7 @@
 		"russian" "1"
 		"japanese" "1"
 		"polish" "1"
+		"turkish" "1"
 		"brazilian" "1"
 	}
 	"oslist" "windows"
@@ -39,7 +40,7 @@
 			"id" "2358720_eula_0"
 			"name" "Black Myth: Wukong EULA"
 			"url" "https://store.steampowered.com//eula/2358720_eula_0"
-			"version" "5"
+			"version" "6"
 		}
 	}
 	"content_descriptors"
@@ -164,7 +165,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725006861"
+	"store_asset_mtime" "1734108979"
 	"associations"
 	{
 		"0"
@@ -262,6 +263,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1724119108"
 	"community_visible_stats" "1"
@@ -272,8 +278,8 @@
 		"0" "16094"
 		"1" "4231"
 		"2" "19"
-		"3" "122"
-		"4" "29482"
+		"3" "29482"
+		"4" "122"
 		"5" "3993"
 		"6" "1742"
 		"7" "4182"
@@ -336,6 +342,7 @@
 				"russian" "Играть в Black Myth: Wukong (режим совместимости)"
 				"japanese" "黒神話：悟空をプレイ（互換モード）"
 				"polish" "Graj w Black Myth: Wukong (tryb zgodności)"
+				"turkish" "Black Myth: Wukong oyna (Uyumluluk modu)"
 				"brazilian" "Jogar Black Myth: Wukong (modo de compatibilidade)"
 			}
 			"description" "Play Black Myth: Wukong (Compatibility Mode)"
@@ -389,18 +396,9 @@
 		{
 			"public"
 			{
-				"gid" "7916875498924164311"
-				"size" "138189369484"
-				"download" "126755751040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"b1_game_test"
-			{
-				"gid" "9AA0BDEDEDEAD2F1D136D66AF4333DCF"
-				"size" "890DA675197E35F4319FD4CE2D656ECA"
-				"download" "BAEA804754AB66FBBD589EA95443A511"
+				"gid" "5687035132414929313"
+				"size" "140134206791"
+				"download" "128582141472"
 			}
 		}
 	}
@@ -408,16 +406,11 @@
 	{
 		"public"
 		{
-			"buildid" "15767368"
-			"timeupdated" "1727078402"
-		}
-		"b1_game_test"
-		{
-			"buildid" "15767368"
-			"pwdrequired" "1"
-			"timeupdated" "1726823560"
+			"buildid" "16734191"
+			"timeupdated" "1734141454"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -437,3 +430,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26639120"
+"_sha" "1afdaaa461a6bd823ebc5d260b3d2ba7dba3e08e"
+"_size" "8379"
