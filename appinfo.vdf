@@ -166,7 +166,7 @@
 	"developer" "Emre Tanirgan"
 	"publisher" "Emre Tanirgan"
 	"homepage" "http://paradiddleapp.com"
-	"listofdlc" "3134110"
+	"listofdlc" "3134110,3373930"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -220,9 +220,9 @@
 		{
 			"public"
 			{
-				"gid" "5321475941554322462"
-				"size" "2104649508"
-				"download" "1844643216"
+				"gid" "648646060876937476"
+				"size" "2152014624"
+				"download" "1891983456"
 			}
 			"pre-v1"
 			{
@@ -319,9 +319,9 @@
 			}
 			"steamvrdebugging"
 			{
-				"gid" "614C36F7668620A32F8C7E57B2F1B791"
-				"size" "FFD541B22E5D6DA8F93071E5A9BDBAD5"
-				"download" "C225AF5E7EDBD45C3406D54B35240F86"
+				"gid" "23879DCC6B51B807AF50E14769204950"
+				"size" "8FADE1B77E7D1290622E5FC73C4036C9"
+				"download" "0C678B8D9C2FD9CBCA02BACFE602F933"
 			}
 		}
 	}
@@ -332,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "205865514031993597"
-				"size" "312389913"
-				"download" "309550656"
+				"gid" "662983641413958302"
+				"size" "0"
+				"download" "0"
 			}
 			"prev_version"
 			{
@@ -379,13 +379,14 @@
 	}
 	"3134110"
 	{
+		"dlcappid" "3134110"
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6479802668892895696"
-				"size" "468165427"
-				"download" "469616768"
+				"gid" "1012779713640605797"
+				"size" "468143029"
+				"download" "469653536"
 			}
 		}
 		"encryptedmanifests"
@@ -398,19 +399,44 @@
 			}
 			"steamvrdebugging"
 			{
-				"gid" "3A8B719A70540D62AAD7CA3406C82E1C"
-				"size" "19A5C38FED3C76943D9C9F7C96099D7C"
-				"download" "D0AE51E2B72A1A407BC592A5582380ED"
+				"gid" "8A03773DB1B02AE71DDDD72366F91F13"
+				"size" "3893F269206E5ABD15E2F9C34E401B5D"
+				"download" "FA0AD1AF1CE3826013C5C3E4B3586A12"
 			}
 		}
-		"dlcappid" "3134110"
+	}
+	"3373930"
+	{
+		"dlcappid" "3373930"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7363221081391346627"
+				"size" "503175367"
+				"download" "503562576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steamvrdebugging"
+			{
+				"gid" "FB26B3CAA963F7391143F8B5E190482E"
+				"size" "1A4501A3562F1347767C8A4376212E2F"
+				"download" "452296AF5F1E34B99A95597A2D963535"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15296179"
-			"timeupdated" "1723075994"
+			"buildid" "16715381"
+			"timeupdated" "1733971306"
 		}
 		"alex_test"
 		{
@@ -504,9 +530,9 @@
 		}
 		"steamvrdebugging"
 		{
-			"buildid" "16383236"
+			"buildid" "16715381"
 			"pwdrequired" "1"
-			"timeupdated" "1731441632"
+			"timeupdated" "1733969389"
 		}
 	}
 }
@@ -516,6 +542,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "26163541"
-"_sha" "dd223c410dfa2523f2fecba0720fd33e69e18362"
-"_size" "10433"
+"_change_number" "26603648"
+"_sha" "4cf7e581cdf1b937882458eef374c380a954fdcd"
+"_size" "10869"
