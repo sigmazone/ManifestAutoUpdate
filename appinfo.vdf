@@ -1,0 +1,468 @@
+"appid" "947890"
+"common"
+{
+	"name" "VirtualCast"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "947890_eula_0"
+			"name" "VirtualCast EULA"
+			"url" "https://store.steampowered.com//eula/947890_eula_0"
+		}
+	}
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+		"seated" "1"
+	}
+	"clienticon" "47d1475b60df3cbb2729a24dc584040aa00a6b38"
+	"clienttga" "530662b5b9be900e95efba71824587b71305f83e"
+	"icon" "00e6efcbe3cad41b03bb7d0f75a37893fc5f7773"
+	"logo" "2c1ef76c52a5651688e6e065d6ee8d8db1df69b1"
+	"logo_small" "2c1ef76c52a5651688e6e065d6ee8d8db1df69b1_thumb"
+	"openvrsupport" "1"
+	"releasestate" "released"
+	"openvr_controller_bindings"
+	{
+		"0"
+		{
+			"controller_type" "holographic_controller"
+			"url" "vr-input-workshop://2061656048"
+		}
+	}
+	"metacritic_name" "Virtual Cast"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.90900403012751"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.90900403012751"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1650354410"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "VirtualCast, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "VirtualCast, Inc."
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "37"
+		"1" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_2" "1"
+		"category_20" "1"
+		"category_27" "1"
+		"category_52" "1"
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1523602800"
+	"steam_release_date" "1564384207"
+	"community_hub_visible" "1"
+	"gameid" "947890"
+	"exfgls" "3"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "128"
+		"2" "4085"
+		"3" "21978"
+		"4" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"disableoverlay" "1"
+	"developer" "VirtualCast, Inc."
+	"publisher" "VirtualCast, Inc."
+	"homepage" "https://virtualcast.jp/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "VirtualCast"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VirtualCast.exe"
+			"arguments" "-platform-steam"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "japanese"
+	"947893"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7288995697287868779"
+				"size" "1233089862"
+				"download" "560314368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2.6.1a_consumer"
+			{
+				"gid" "52B3F110CFB44FF47EB495829215164B"
+				"size" "948540DB470905A3CEFCF4D125FD468E"
+				"download" "D485EB564B9296F6F3FAE603BED7E09B"
+			}
+			"2.6.1a_debug"
+			{
+				"gid" "230516404344B61FC6DDC8CAE62EA95F"
+				"size" "823A7584A013B186CBD5E4DEF9A69BDB"
+				"download" "A243D180B4F8384DEF2D99889CBEC007"
+			}
+			"2.6.1b_consumer"
+			{
+				"gid" "D51199A3D35D6A114A61B05570455C01"
+				"size" "21BE8578822E2C882D0BA275B8EE2DE4"
+				"download" "146788F65E33F1AA757E25B7410B4EEF"
+			}
+			"2.6.1b_debug"
+			{
+				"gid" "9FEE1C9492428AE1007D2D746EC550C7"
+				"size" "CC19284E54A3B6712A9DAE685E1D776C"
+				"download" "165616520AE8124C16BB53284648EF4E"
+			}
+			"2.6.2a_consumer"
+			{
+				"gid" "0DFCE1B1F6EAE09959ACBD44DB07D7A0"
+				"size" "4CE21A79DDCE0B0DD3B6F7FC4F078E5D"
+				"download" "9AF4993C0B5C9D6DED3A5D0E09841D49"
+			}
+			"2.6.2a_debug"
+			{
+				"gid" "011AF3FAD3D84F6FFDE7131FB0A59808"
+				"size" "206EC2584BC4EA5938E82A0264CDDF29"
+				"download" "2FF2A3231A0C68EC6553EBBA035307C5"
+			}
+			"2.6.2b_consumer"
+			{
+				"gid" "CA01FF4150851E06D27C9F030CF74A1E"
+				"size" "7A9C8AA17883F936EFFD7E8D5177BACD"
+				"download" "F17D9321CFC18F516B9FE9C4D2EF3A68"
+			}
+			"2.6.2b_debug"
+			{
+				"gid" "A7D39AB226E799906DAAB209988AE094"
+				"size" "C7935A110CD9085EB65FE0D38F8A7009"
+				"download" "ACA75185B0131284135E81E051FE21E1"
+			}
+			"2.6.3a_consumer"
+			{
+				"gid" "FF45BD06AF237E0B16CB08F931D993F4"
+				"size" "262B02A6CD502AADD46179A4E1321538"
+				"download" "4EBB94ECF429044169827FDE430381D3"
+			}
+			"2.6.3a_debug"
+			{
+				"gid" "23C4BB626D9859EF6FBE1E2F7F68579D"
+				"size" "6F8CEBB40F6CE3C5F6D425F3065DD291"
+				"download" "9B94C0DC65C6B634CB29D459330B1E25"
+			}
+			"2.6.4a_consumer"
+			{
+				"gid" "A1F7C3E17B450A75F45276CBDB1C44FD"
+				"size" "466E1EEF93F8D945626CC26388C5E01F"
+				"download" "BF4E74DCAA8A7AAEE8C70FE16C91EE54"
+			}
+			"2.6.4a_debug"
+			{
+				"gid" "58CEA189579EAA92897D90DB73761AA7"
+				"size" "BDD10261848FCA388099DB89D68D94CD"
+				"download" "1DA6AA9B089B60DC2411FC942638C9A6"
+			}
+			"2.6.5a_consumer"
+			{
+				"gid" "86D9F7B34A48D8593D7915AEA3BA4F86"
+				"size" "3F7BD0D9290B34E96D6C6A9B49BCF7A8"
+				"download" "5D46B9FA761F4A93CDB96B81CAF5BC18"
+			}
+			"2.6.5a_debug"
+			{
+				"gid" "DFCF9BB2FEDCE06C9BD101ED6A7CA8F7"
+				"size" "6AEAFBB51E518A5C9AE9F94ACB587295"
+				"download" "A78777B6A8725173C75A4FAD8D07D805"
+			}
+			"2.6.6_debug"
+			{
+				"gid" "BEDAD878C5D88902CB77A509D7E89095"
+				"size" "EB70B29F89403D5BE8EFAA25A9D0BA8C"
+				"download" "EE338A2D4D3656307E19370945A8D9CE"
+			}
+			"2.6.6a_consumer"
+			{
+				"gid" "5191BE3A74AEEEA522483D6FB040D06A"
+				"size" "7B69D67FFF1CF03B99B508319CE676A5"
+				"download" "3D831F733DB7DC99DB92B85F8119CCAE"
+			}
+			"2.6.6b_debug"
+			{
+				"gid" "6BCA85668A968EBB5C6EDAC6623FD125"
+				"size" "A13A0A7AF77EAB907B69E1B3F1957593"
+				"download" "C358457AF66E88552E9DF473A7E276BE"
+			}
+			"release_check"
+			{
+				"gid" "E9A727D5FF0F4761D9EC38C9A153F6FF"
+				"size" "C2265B526F46A3CFBBA7A063B57BBDA4"
+				"download" "8EDDBDBB98D6C20B4ABEB66CAC43A1E4"
+			}
+			"release_check2"
+			{
+				"gid" "7D18B74F1A7C5D545847101E7E274D1F"
+				"size" "B1FE601E339AB9A69B25B09F9F9E3221"
+				"download" "B84F8BD721676E1C431B0CD32C10B299"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16721213"
+			"timeupdated" "1734009634"
+		}
+		"2.6.1a_consumer"
+		{
+			"buildid" "15120734"
+			"pwdrequired" "1"
+			"timeupdated" "1721713968"
+		}
+		"2.6.1a_debug"
+		{
+			"buildid" "15120278"
+			"pwdrequired" "1"
+			"timeupdated" "1721713956"
+		}
+		"2.6.1b_consumer"
+		{
+			"buildid" "15289234"
+			"pwdrequired" "1"
+			"timeupdated" "1723032906"
+		}
+		"2.6.1b_debug"
+		{
+			"buildid" "15288691"
+			"pwdrequired" "1"
+			"timeupdated" "1723032890"
+		}
+		"2.6.2a_consumer"
+		{
+			"buildid" "15434564"
+			"pwdrequired" "1"
+			"timeupdated" "1724203099"
+		}
+		"2.6.2a_debug"
+		{
+			"buildid" "15433804"
+			"pwdrequired" "1"
+			"timeupdated" "1724203167"
+		}
+		"2.6.2b_consumer"
+		{
+			"buildid" "15502094"
+			"pwdrequired" "1"
+			"timeupdated" "1724743964"
+		}
+		"2.6.2b_debug"
+		{
+			"buildid" "15501591"
+			"pwdrequired" "1"
+			"timeupdated" "1724743951"
+		}
+		"2.6.3a_consumer"
+		{
+			"buildid" "15692207"
+			"pwdrequired" "1"
+			"timeupdated" "1726540093"
+		}
+		"2.6.3a_debug"
+		{
+			"buildid" "15691481"
+			"pwdrequired" "1"
+			"timeupdated" "1726540110"
+		}
+		"2.6.4a_consumer"
+		{
+			"buildid" "16063358"
+			"pwdrequired" "1"
+			"timeupdated" "1729071246"
+		}
+		"2.6.4a_debug"
+		{
+			"buildid" "16062390"
+			"pwdrequired" "1"
+			"timeupdated" "1729071232"
+		}
+		"2.6.5a_consumer"
+		{
+			"buildid" "16373479"
+			"pwdrequired" "1"
+			"timeupdated" "1731383046"
+		}
+		"2.6.5a_debug"
+		{
+			"buildid" "16373007"
+			"pwdrequired" "1"
+			"timeupdated" "1731383063"
+		}
+		"2.6.6_debug"
+		{
+			"buildid" "16678641"
+			"pwdrequired" "1"
+			"timeupdated" "1733793923"
+		}
+		"2.6.6a_consumer"
+		{
+			"buildid" "16679431"
+			"pwdrequired" "1"
+			"timeupdated" "1733793935"
+		}
+		"2.6.6b_debug"
+		{
+			"buildid" "16720945"
+			"pwdrequired" "1"
+			"timeupdated" "1734005841"
+		}
+		"release_check"
+		{
+			"buildid" "16721213"
+			"pwdrequired" "1"
+			"timeupdated" "1734007013"
+		}
+		"release_check2"
+		{
+			"buildid" "14738404"
+			"pwdrequired" "1"
+			"timeupdated" "1718601139"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26611436"
+"_sha" "8e87760895d8f67bc02273d62f666394ef18e4f2"
+"_size" "9362"
