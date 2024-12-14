@@ -238,26 +238,26 @@
 	"gameid" "1169740"
 	"store_tags"
 	{
-		"0" "3859"
-		"1" "7368"
-		"2" "353880"
-		"3" "4885"
-		"4" "4637"
-		"5" "1716"
-		"6" "1774"
-		"7" "4758"
-		"8" "5125"
-		"9" "3841"
-		"10" "42804"
-		"11" "1685"
-		"12" "3959"
-		"13" "4252"
-		"14" "4791"
-		"15" "4115"
-		"16" "1759"
-		"17" "4305"
-		"18" "19"
-		"19" "4182"
+		"0" "4255"
+		"1" "7481"
+		"2" "42804"
+		"3" "3959"
+		"4" "4791"
+		"5" "1759"
+		"6" "4305"
+		"7" "4252"
+		"8" "353880"
+		"9" "4885"
+		"10" "4115"
+		"11" "4758"
+		"12" "4637"
+		"13" "1774"
+		"14" "1773"
+		"15" "1716"
+		"16" "4747"
+		"17" "5752"
+		"18" "4191"
+		"19" "5125"
 	}
 	"review_score" "6"
 	"review_percentage" "71"
@@ -306,8 +306,7 @@
 }
 "depots"
 {
-	"hasdepotsindlc" "1"
-	"228986"
+	"228989"
 	{
 		"config"
 		{
@@ -316,6 +315,8 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
 	"1169741"
 	{
 		"config"
@@ -326,18 +327,18 @@
 		{
 			"public"
 			{
-				"gid" "7459282384325837232"
-				"size" "1653930658"
-				"download" "574626368"
+				"gid" "2432550364400052799"
+				"size" "1676106198"
+				"download" "581857088"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"_development"
 			{
-				"gid" "E07AD1BC7BAB67F5D8B7CB75D78C93C4"
-				"size" "380973A7BE0B54C93EB85FADBDA5D780"
-				"download" "1241DE079C024F22D370004D6CA53106"
+				"gid" "B93979B04E6CCDCEBC9BA7DCB664C60D"
+				"size" "137B29B0BB7838EB89B718DBB4BB3390"
+				"download" "C63EDE9CA15798FF89CA39816F1B1D47"
 			}
 		}
 	}
@@ -351,18 +352,18 @@
 		{
 			"public"
 			{
-				"gid" "3006154209938094145"
-				"size" "1722892809"
-				"download" "631654736"
+				"gid" "7604384933961354698"
+				"size" "1754539029"
+				"download" "640008448"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"_development"
 			{
-				"gid" "C607031C4E246E4D51374ADCB3B3BC27"
-				"size" "E4D8A2294A2F069B3E21146DB9F353B1"
-				"download" "56E48AE0FB12BE4671FF37F95F5B74BA"
+				"gid" "B7FBC9D6D3488F502D0A9EBE1D1B61B2"
+				"size" "3BC1D288148E410DA6624EF5034A1D24"
+				"download" "34ED8C9B8277746AFEF6F34DE9313F3B"
 			}
 		}
 	}
@@ -394,19 +395,41 @@
 	"1877120"
 	{
 		"dlcappid" "1877120"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5728708463808392534"
+				"size" "1676106198"
+				"download" "581785488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"_development"
+			{
+				"gid" "A96B139E91CE39C7AAB8DB01080143CD"
+				"size" "137B29B0BB7838EB89B718DBB4BB3390"
+				"download" "09FF1610D74F8ADD8576BDAD21F8DB40"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "8427314"
-			"timeupdated" "1648080909"
+			"buildid" "16744875"
+			"timeupdated" "1734171437"
 		}
 		"_development"
 		{
-			"buildid" "8427314"
+			"buildid" "16744875"
 			"pwdrequired" "1"
-			"timeupdated" "1648078568"
+			"timeupdated" "1734171302"
 		}
 	}
 }
@@ -435,6 +458,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26144951"
-"_sha" "4e299f25d380118e25c7701725d2a1bcf0124e83"
-"_size" "7849"
+"_change_number" "26641866"
+"_sha" "c4bc497f68a7a74a3de19200b9999730c0dbe1f2"
+"_size" "8279"
