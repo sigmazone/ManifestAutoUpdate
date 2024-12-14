@@ -1,0 +1,372 @@
+"appid" "2856370"
+"common"
+{
+	"name" "Into the Emberlands"
+	"type" "Game"
+	"icon" "47481a574826f80acf349029f47ce73010e5a895"
+	"clienticon" "ad4af406ab07d5fb5544d283d8bf7dfdf5a7c34c"
+	"clienttga" "93c8088aa0ca2cf7b5a6334bf2ace89cfbc8da0b"
+	"name_localized"
+	{
+		"schinese" "雾方福地 - Into the Emberlands"
+		"tchinese" "漫遊祕境 - Into the Emberlands"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1725926400"
+		"tested_build_id" "15577237"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.66321913380739"
+			"height_pct" "100.69444444444444"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.66321913380739"
+				"height_pct" "100.69444444444444"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729681969"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tiny Roar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1718807177"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2856370"
+	"store_tags"
+	{
+		"0" "97376"
+		"1" "552282"
+		"2" "4726"
+		"3" "3834"
+		"4" "21"
+		"5" "492"
+		"6" "493"
+		"7" "597"
+		"8" "1716"
+		"9" "1654"
+		"10" "9"
+		"11" "1662"
+		"12" "4195"
+		"13" "4305"
+		"14" "5350"
+		"15" "7481"
+		"16" "5125"
+		"17" "4182"
+		"18" "5851"
+		"19" "7569"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Tiny Roar"
+	"publisher" "Daedalic Entertainment"
+	"listofdlc" "2904410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Into the Emberlands"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wanderful.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "i_a_b, development_access"
+			}
+		}
+		"1"
+		{
+			"executable" "Into The Emberlands.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65528"
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2856371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3587022886639747666"
+				"size" "596954946"
+				"download" "177676720"
+			}
+		}
+	}
+	"2904410"
+	{
+		"dlcappid" "2904410"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16695477"
+			"timeupdated" "1733849978"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Tiny Roar/Into The Emberlands"
+			"pattern" "*.savegame"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Tiny Roar/Into The Emberlands"
+			"pattern" "Savegame.meta"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26631034"
+"_sha" "7ba8559470fd2c47d5b2ab42b60e54661d711955"
+"_size" "6512"
