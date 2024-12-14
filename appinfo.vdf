@@ -1,0 +1,275 @@
+"appid" "1169460"
+"common"
+{
+	"name" "遠古大陸外傳-古道的盡頭"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "843a9f6e2458a3399c80dcb992c0c90a5f9ad4ac"
+	"logo" "457bb1287a89291fa8d4d07978ddc65fb798da44"
+	"logo_small" "457bb1287a89291fa8d4d07978ddc65fb798da44_thumb"
+	"icon" "774a6c99999bb28f496d56519455e863f6ace798"
+	"clienticon" "3ebf9204bc4e95a398c53728dc6c5d77c04f958b"
+	"metacritic_name" "遠古大陸外傳-古道的盡頭"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,en"
+		"library_hero" "zh-tw,en"
+		"library_logo" "zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.599870717517803"
+			"height_pct" "67.36111111111111"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"tchinese" "library_hero_tchinese.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.599870717517803"
+				"height_pct" "67.36111111111111"
+			}
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667006430"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "chi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "chi"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "RMAsia"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "遠古大陸"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "RMAsia"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_18" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1589476498"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1169460"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "5577"
+		"3" "7368"
+		"4" "7250"
+		"5" "3955"
+	}
+}
+"extended"
+{
+	"developer" "chi"
+	"publisher" "chi"
+	"gamemanualurl" "https://store.steampowered.com/manual/1169460/"
+}
+"config"
+{
+	"installdir" "Ancient continent"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "11"
+	"steamcontrollerconfigdetails"
+	{
+		"3382900513"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"3382901109"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"3382900863"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese"
+	"hasdepotsindlc" "0"
+	"1169461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "89457056737964377"
+				"size" "1297856882"
+				"download" "1007971664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "840C87FF907346DCA857A3639F60E6A4"
+				"size" "580D7F42D8280303C86AD72970C74ED9"
+				"download" "9257A6880A8CD4F4A06C50E4F839662A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16729473"
+			"timeupdated" "1734054917"
+		}
+		"test"
+		{
+			"buildid" "16729473"
+			"pwdrequired" "1"
+			"timeupdated" "1734054881"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "www/save"
+			"pattern" "*.rpgsave"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"appidredirect" "1169460"
+}
+"_missing_token" "False"
+"_change_number" "26621989"
+"_sha" "624c1049df5f4c8bafc1c3f5d89305bb0e7a0f39"
+"_size" "4792"
