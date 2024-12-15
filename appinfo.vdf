@@ -87,7 +87,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732612034"
+	"store_asset_mtime" "1732765787"
 	"associations"
 	{
 		"0"
@@ -156,12 +156,13 @@
 	{
 		"1"
 		{
-			"executable" "ShifuIos.exe"
+			"executable" "Windows/ShifuIos.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
+				"realm" "steamglobal"
 			}
 			"description_loc"
 			{
@@ -169,6 +170,16 @@
 				"schinese" "新版本用他"
 			}
 			"description" "Update on click this"
+		}
+		"2"
+		{
+			"executable" "ShifuIos.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -211,15 +222,15 @@
 		{
 			"public"
 			{
-				"gid" "1615647970308791133"
-				"size" "993337107"
-				"download" "838071408"
+				"gid" "5808244938821304414"
+				"size" "993343422"
+				"download" "838050432"
 			}
 			"test"
 			{
-				"gid" "1615647970308791133"
-				"size" "993337107"
-				"download" "838071408"
+				"gid" "5808244938821304414"
+				"size" "993343422"
+				"download" "838050432"
 			}
 		}
 		"encryptedmanifests"
@@ -253,31 +264,40 @@
 				"download" "838047344"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "A606CE3FFC3DEB054BB850F211F8F1FE"
+				"size" "079E5F9EDEA24C8A1520C6C8FC574AF4"
+				"download" "D198844798B49B65B5AF636DA6AB0A49"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16468224"
-			"timeupdated" "1732081379"
+			"buildid" "16720400"
+			"timeupdated" "1734002681"
 		}
 		"test"
 		{
 			"sc_schinese" "测试"
-			"buildid" "16468210"
+			"buildid" "16720366"
 			"description" "测试"
-			"timeupdated" "1732081268"
+			"timeupdated" "1734002539"
 		}
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16467868"
+			"buildid" "16565179"
 			"pwdrequired" "1"
-			"timeupdated" "1732079285"
+			"timeupdated" "1732792578"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26363472"
-"_sha" "1b3ad2ff97ed09fab9e3bd4f758333cdcc4ef1a9"
-"_size" "5212"
+"_change_number" "26640008"
+"_sha" "5cfdbb8f6ed02472dd09a873b46466ff14794e79"
+"_size" "5613"
