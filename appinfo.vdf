@@ -98,6 +98,54 @@
 			"height_pct" "89.40397350993376"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "53.43140843215161"
+				"height_pct" "89.40397350993376"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1708005590"
 	"associations"
 	{
@@ -109,7 +157,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Different Tales"
+			"name" "Pretty Soon"
 		}
 		"2"
 		{
@@ -119,7 +167,7 @@
 		"3"
 		{
 			"type" "franchise"
-			"name" "Different Tales"
+			"name" "Pretty Soon"
 		}
 	}
 	"primary_genre" "28"
@@ -136,6 +184,7 @@
 		"category_2" "1"
 		"category_1" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -196,34 +245,34 @@
 	"gameid" "2020710"
 	"store_tags"
 	{
-		"0" "493"
-		"1" "9"
-		"2" "4328"
-		"3" "220585"
-		"4" "3810"
-		"5" "22602"
-		"6" "255534"
-		"7" "1643"
-		"8" "1702"
-		"9" "12472"
-		"10" "7332"
-		"11" "87918"
+		"0" "9"
+		"1" "4328"
+		"2" "220585"
+		"3" "3810"
+		"4" "22602"
+		"5" "255534"
+		"6" "1643"
+		"7" "1702"
+		"8" "12472"
+		"9" "7332"
+		"10" "87918"
+		"11" "10235"
 		"12" "3859"
-		"13" "10235"
-		"14" "1654"
-		"15" "1695"
+		"13" "1654"
+		"14" "1695"
+		"15" "599"
 		"16" "597"
-		"17" "599"
-		"18" "8945"
-		"19" "1685"
+		"17" "8945"
+		"18" "9204"
+		"19" "16689"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "87"
 }
 "extended"
 {
 	"developer" "YYZ"
-	"publisher" "Different Tales"
+	"publisher" "Pretty Soon"
 	"homepage" "https://differenttales.com/havendock"
 }
 "config"
@@ -274,36 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "2139033550242662986"
-				"size" "998455703"
-				"download" "289934576"
+				"gid" "7582996052719648029"
+				"size" "1273449449"
+				"download" "375531376"
 			}
 			"experimental"
 			{
-				"gid" "4677634948467649508"
-				"size" "998455635"
-				"download" "289939520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"default_auto"
-			{
-				"gid" "EC2B40B5585CA5286B64466D439FD368"
-				"size" "68C9AB311C9FC3B5FB750FDAB126AF5B"
-				"download" "F8615AC65918EA52CAE545E7BEA4B95A"
-			}
-			"testing"
-			{
-				"gid" "EFD07482F611BFB8BCFE27F809834B39"
-				"size" "AEB1D1DBC16D18776C180DCE54E5D16E"
-				"download" "F786D93510FE5EB414980040959D375F"
-			}
-			"unsupported_platforms"
-			{
-				"gid" "E477FDA3286AD303E663ACBFFBE4A96E"
-				"size" "8D523AB21B0181105A8656F0B1962CD8"
-				"download" "4D6DC88E3DD579E4164D69E30DD54982"
+				"gid" "2423066221298353797"
+				"size" "1274824949"
+				"download" "376091840"
 			}
 		}
 	}
@@ -317,24 +345,15 @@
 		{
 			"public"
 			{
-				"gid" "6889741483773585854"
-				"size" "1021849633"
-				"download" "297240608"
+				"gid" "519157467262413978"
+				"size" "1298199808"
+				"download" "383379312"
 			}
 			"experimental"
 			{
 				"gid" "4993144700556735441"
 				"size" "732086339"
 				"download" "228434784"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"unsupported_platforms"
-			{
-				"gid" "29AA14EFA577D7B4ED026514A3AF01AC"
-				"size" "DBE0FDEAABFC7C2829C6323F0D7FF0BE"
-				"download" "7C3B966F15DD39EC61FC147C82F556BF"
 			}
 		}
 	}
@@ -348,9 +367,9 @@
 		{
 			"public"
 			{
-				"gid" "7007096286365073685"
-				"size" "1087799970"
-				"download" "316412496"
+				"gid" "4925635723433001096"
+				"size" "1398658453"
+				"download" "436817264"
 			}
 			"experimental"
 			{
@@ -359,48 +378,22 @@
 				"download" "245494384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"unsupported_platforms"
-			{
-				"gid" "9066ADD9B2F484BBE73F793D9272B727"
-				"size" "3B10C0A8EA7DE67D7F4B39E90B67E8FD"
-				"download" "68AE328B7A4DEED07595BE6BFE8D6F05"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13811975"
-			"timeupdated" "1711035088"
-		}
-		"default_auto"
-		{
-			"buildid" "13810721"
-			"pwdrequired" "1"
-			"timeupdated" "1711028311"
+			"buildid" "16746300"
+			"timeupdated" "1734191023"
 		}
 		"experimental"
 		{
-			"buildid" "13810410"
+			"buildid" "16718117"
 			"description" "Windows experimental builds"
-			"timeupdated" "1711026604"
-		}
-		"testing"
-		{
-			"buildid" "12474672"
-			"pwdrequired" "1"
-			"timeupdated" "1697651184"
-		}
-		"unsupported_platforms"
-		{
-			"buildid" "13811851"
-			"pwdrequired" "1"
-			"timeupdated" "1711034397"
+			"timeupdated" "1733990905"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -423,6 +416,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22855303"
-"_sha" "b49e723791f667acdd6af321992082f023892246"
-"_size" "7555"
+"_change_number" "26643664"
+"_sha" "648f84a3310245d465a05cd8b056f42a45d7e2c5"
+"_size" "7179"
