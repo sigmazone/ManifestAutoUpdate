@@ -57,7 +57,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "3dd250d9dca5935525579e44bcb4e0572e2de848/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -82,11 +82,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "003d8c872228a1192daa7e5b2c3dfd30febde726/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "003d8c872228a1192daa7e5b2c3dfd30febde726/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -121,11 +121,11 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "3a9d70f5d8d760a998f3aa41f7ea64395392496e/library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1703113125"
+	"store_asset_mtime" "1734041898"
 	"associations"
 	{
 		"0"
@@ -735,13 +735,14 @@
 		"19" "1685"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "87"
 }
 "extended"
 {
 	"developer" "NullReferenceException"
 	"publisher" "No Liability Productions"
-	"listofdlc" "2251690,2256870"
+	"homepage" "https://www.remdigitalstudios.com"
+	"listofdlc" "2251690,2256870,2805470,3242480"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -781,18 +782,9 @@
 		{
 			"public"
 			{
-				"gid" "1233250194482075411"
-				"size" "325797788"
-				"download" "164728912"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "84E07D3656DC470D1DB2C3C221100B70"
-				"size" "4ABC8830AA1413A2BEA52D3ABDD6EEBD"
-				"download" "3E53935A399EC2F37139C1B736AA1437"
+				"gid" "6902538363667689356"
+				"size" "330044162"
+				"download" "165003664"
 			}
 		}
 	}
@@ -806,15 +798,6 @@
 				"gid" "6251315898039590249"
 				"size" "858182989"
 				"download" "788638720"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "F98967DFF4138E9307940120E426DDA7"
-				"size" "7CDD806734789319C082595FBBC5B19A"
-				"download" "524AB2726F4E28C8B0938E27E07DE5BD"
 			}
 		}
 		"config"
@@ -834,13 +817,30 @@
 				"download" "154226976"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"2805470"
+	{
+		"dlcappid" "2805470"
+		"manifests"
 		{
-			"testing"
+			"public"
 			{
-				"gid" "310DB26323656E6820F7DDB09C862C23"
-				"size" "7550D57DEA93F893DF3685BCC7F92FC9"
-				"download" "D71CAA1DF6B8175D5E52D170BE4E08D3"
+				"gid" "6804062406196512436"
+				"size" "492692088"
+				"download" "487824976"
+			}
+		}
+	}
+	"3242480"
+	{
+		"dlcappid" "3242480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7749275966508118652"
+				"size" "9675575"
+				"download" "5916064"
 			}
 		}
 	}
@@ -848,16 +848,11 @@
 	{
 		"public"
 		{
-			"buildid" "13377189"
-			"timeupdated" "1707195836"
-		}
-		"testing"
-		{
-			"buildid" "13377189"
-			"pwdrequired" "1"
-			"timeupdated" "1707195249"
+			"buildid" "16698567"
+			"timeupdated" "1734040820"
 		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
 "ufs"
@@ -875,16 +870,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_score" "%SCORE%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26647901"
+"_sha" "54c17d45e6ee5796008b8590071a3d004ee23308"
+"_size" "14598"
