@@ -1,0 +1,303 @@
+"appid" "1847210"
+"common"
+{
+	"name" "中国传统武术 八卦掌 六十四手 Chinese martial arts (kungfu) The 64 Hands of Bagua Zhang"
+	"type" "Application"
+	"releasestate" "released"
+	"clienttga" "7fd0674e144601f9d3b868abc19d79a43e1abaec"
+	"clienticon" "a045a5ab8ac4a2b00299a4b7594d3e436d104b4e"
+	"icon" "b670dff31b7c166dff686c084c989add0a76e3a4"
+	"clienticns" "a045a5ab8ac4a2b00299a4b7594d3e436d104b4e"
+	"linuxclienticon" "a045a5ab8ac4a2b00299a4b7594d3e436d104b4e"
+	"logo" "e2595c58211a2936e6c4f4837b86910032375dc4"
+	"logo_small" "e2595c58211a2936e6c4f4837b86910032375dc4_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "中国传统武术 八卦掌 六十四手 Chinese martial arts (kungfu) The 64 Hands of Bagua Zhang"
+	}
+	"releasestatesteamchina" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-xc,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"sc_schinese" "logo_sc_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732765787"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "北京彩蛋科技有限公司"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "北京彩蛋科技有限公司"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "中国传统武术"
+		}
+	}
+	"primary_genre" "54"
+	"genres"
+	{
+		"0" "37"
+		"1" "54"
+		"2" "56"
+	}
+	"category"
+	{
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1642474860"
+	"community_hub_visible" "1"
+	"gameid" "1847210"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "1036"
+		"2" "1445"
+		"3" "6915"
+		"4" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"enablegameoverlayforapp" "1"
+	"developer" "北京彩蛋科技有限公司"
+	"publisher" "北京彩蛋科技有限公司"
+	"homepage" "https://www.easteregg.cn"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "八卦掌六十四手（The 64 Hands of Bagua Zhang）"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Windows/ShifuIos.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"realm" "steamglobal"
+			}
+			"description_loc"
+			{
+				"english" "Update on click this"
+				"schinese" "新版本用他"
+			}
+			"description" "Update on click this"
+		}
+		"2"
+		{
+			"executable" "ShifuIos.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+		"steam_china_duration_control_show_interstitial" "0"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1847211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5808244938821304414"
+				"size" "993343422"
+				"download" "838050432"
+			}
+			"test"
+			{
+				"gid" "5808244938821304414"
+				"size" "993343422"
+				"download" "838050432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "066EAE4F2F98A5B5D6D96D46F6209DE2"
+				"size" "079E5F9EDEA24C8A1520C6C8FC574AF4"
+				"download" "ED728F8C08F4A1B7203FD9E2AE1CCF5C"
+			}
+		}
+	}
+	"1847212"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "207382213114003104"
+				"size" "993339155"
+				"download" "838047344"
+			}
+			"test"
+			{
+				"gid" "207382213114003104"
+				"size" "993339155"
+				"download" "838047344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "A606CE3FFC3DEB054BB850F211F8F1FE"
+				"size" "079E5F9EDEA24C8A1520C6C8FC574AF4"
+				"download" "D198844798B49B65B5AF636DA6AB0A49"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16720400"
+			"timeupdated" "1734002681"
+		}
+		"test"
+		{
+			"sc_schinese" "测试"
+			"buildid" "16720366"
+			"description" "测试"
+			"timeupdated" "1734002539"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "16565179"
+			"pwdrequired" "1"
+			"timeupdated" "1732792578"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26640008"
+"_sha" "5cfdbb8f6ed02472dd09a873b46466ff14794e79"
+"_size" "5613"
