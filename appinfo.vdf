@@ -1,0 +1,615 @@
+"appid" "1171690"
+"common"
+{
+	"name" "Wayfinder"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "6cad63324337f7aca25397028065098968312c2c"
+	"clienttga" "363a0616aad49e2feda4faf7b708700c539ed6da"
+	"icon" "5417ebd0f3bb76842036f00df6ebc5a66cddf0b7"
+	"name_localized"
+	{
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1171690_eula_0"
+			"name" "Wayfinder EULA"
+			"url" "https://store.steampowered.com//eula/1171690_eula_0"
+			"version" "4"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1724457600"
+		"tested_build_id" "15142229"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Wayfinder"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "67.50291715285883"
+			"height_pct" "73.17739254333887"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "67.50291715285883"
+				"height_pct" "73.17739254333887"
+			}
+		}
+	}
+	"store_asset_mtime" "1729527798"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Airship Syndicate"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Airship Syndicate"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729526757"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1171690/discussions/0/4751948774785819057/"
+	"metacritic_score" "73"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wayfinder\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1171690"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "3843"
+		"2" "4236"
+		"3" "1720"
+		"4" "1697"
+		"5" "3834"
+		"6" "19"
+		"7" "122"
+		"8" "7481"
+		"9" "21"
+		"10" "10695"
+		"11" "4106"
+		"12" "1685"
+		"13" "1695"
+		"14" "4182"
+		"15" "597"
+		"16" "1684"
+		"17" "5711"
+		"18" "4166"
+		"19" "3859"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "Airship Syndicate"
+	"publisher" "Airship Syndicate"
+	"homepage" "http://playwayfinder.com/"
+	"listofdlc" "2362380,2362390,2362391,3230340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wayfinder"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wayfinder.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1171691"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "284420704927363740"
+				"size" "57925268333"
+				"download" "50191363520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "368F39FD7A5C2AA16045F58000249DFF"
+				"size" "615E07B7F5B14A11A8080AACC6E95735"
+				"download" "8768BC47F5990E3EEB55E498E9D139AE"
+			}
+			"cert1"
+			{
+				"gid" "260C69BA6F03105D14168CD9FBC67ED9"
+				"size" "05AAAA29D67C9990D478CDE61D60AECE"
+				"download" "CE19111E8D886B2294FBDDC78009DC69"
+			}
+			"cert2"
+			{
+				"gid" "63EAECD5F58681531DA163A82A2A4455"
+				"size" "EDDC9606B4925F972F112C703C575C82"
+				"download" "BB4D24734763D9401060EBDECB6CC535"
+			}
+			"delta"
+			{
+				"gid" "169521574CA6946847F89546476707E3"
+				"size" "80B00B8C1A9623C046F22EF12E14B7DB"
+				"download" "DF27A666E27BE885CA2A037CD94FF1CA"
+			}
+			"devs"
+			{
+				"gid" "3250153C999E180C57F3060877794B45"
+				"size" "DB40651C808875DF89F2E768DAF44621"
+				"download" "24D7DCEAB1480C8E2B9FB8F369170837"
+			}
+			"epsilon"
+			{
+				"gid" "142C0E6167DC631F685958E816D6F82F"
+				"size" "2A8969D2F90B475A028553B20DDF7A0B"
+				"download" "73A81802ABBE5CAA01C6B89BD800C488"
+			}
+			"gamma"
+			{
+				"gid" "73953099AE5033B185AA21F189A07664"
+				"size" "26405CE0AA6B6F32335093646276C39C"
+				"download" "7022B92B3676B0C49454A4A72A5F9BD5"
+			}
+			"iota"
+			{
+				"gid" "CAAB716AF9980D9F8AD0C269E423EE65"
+				"size" "8E21A1A343CC8FFEF9DC1D08F94CBCA8"
+				"download" "247D8CF76351258B1A4468F226DE016E"
+			}
+			"kappa"
+			{
+				"gid" "C9A59DCFC6C3D56F43B90AE91F24593B"
+				"size" "E54B0F92D7E6A1A9DD3673B7BF782F8B"
+				"download" "8E1A7113BE78246C94E2AFF3E4F5E882"
+			}
+			"launch_preview"
+			{
+				"gid" "AC59AD1B8A924EE14981B3DAAF217109"
+				"size" "47E2FDA529AAE183B9128A5E2BE8C48E"
+				"download" "1B81904E171D490E5EE63CC8054DC915"
+			}
+			"qa_branch"
+			{
+				"gid" "E8C458888466BE88B63227F22B470BD9"
+				"size" "E247F276EC65914525DD023474838832"
+				"download" "43CB5067BB7BB3AABBD52A987CDE8F4D"
+			}
+			"qa2_branch"
+			{
+				"gid" "2972CA6BBF44FB98A5EDBA18915B2735"
+				"size" "ADEDB34BA1A020BC78EDD81267D6E4DD"
+				"download" "D3A2A39E1C2FE9A0210D4346980D47C3"
+			}
+			"qa3_branch"
+			{
+				"gid" "379EB5ABF4BDC8EEDF9E4AC64CECBECF"
+				"size" "1221C7DBECE4483CE76B8B805E084A58"
+				"download" "81FDCE526CCD5D869917315754ADC8F8"
+			}
+			"rho_"
+			{
+				"gid" "DDDF542CCB5056DC4A74B9080F2A90D7"
+				"size" "F6BA3A4CAE3EF485610DB270E6AFF68E"
+				"download" "4551B77E754CFC42A9643E3306768441"
+			}
+			"sigma"
+			{
+				"gid" "F8BB02C9DDD64E077C04EE1F50275415"
+				"size" "E601DD891B7A4B5654CCB022104E69A3"
+				"download" "2A0470FA10534BDBAC7307A4A36FF4BD"
+			}
+			"staging"
+			{
+				"gid" "75AF1149EBCCAA00680FE3FCAC79E097"
+				"size" "F2939B77D7A908DE320148ABA52D01F4"
+				"download" "A0148CE69EDF390408D0742731DE70E1"
+			}
+			"sync_test"
+			{
+				"gid" "7AA38A9697F092A943F03E5C979D407B"
+				"size" "163FF050CECC8DE4620FF98E47720E1C"
+				"download" "6C88F8CCE42589BA63943BB7D2366FC6"
+			}
+			"theta"
+			{
+				"gid" "578831B42C48061E076C9B179B2D092E"
+				"size" "B238EF019675491921E320ACCAF45666"
+				"download" "8488D9C1ABC217C65C2A1BE1DA304088"
+			}
+			"zeta"
+			{
+				"gid" "D65CE915F6206CB7C7A0D82BA91419A1"
+				"size" "E0CFE31F9DF2C6F300CD79572711D530"
+				"download" "93D64BE9276442A837FAEC4A366F3349"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16715196"
+			"timeupdated" "1734043485"
+		}
+		"baseline"
+		{
+			"buildid" "9782967"
+			"pwdrequired" "1"
+			"timeupdated" "1666612617"
+		}
+		"cert1"
+		{
+			"buildid" "16023366"
+			"pwdrequired" "1"
+			"timeupdated" "1730149779"
+		}
+		"cert2"
+		{
+			"buildid" "15541308"
+			"pwdrequired" "1"
+			"timeupdated" "1725003266"
+		}
+		"delta"
+		{
+			"buildid" "16657053"
+			"pwdrequired" "1"
+			"timeupdated" "1733505308"
+		}
+		"devs"
+		{
+			"buildid" "16728051"
+			"pwdrequired" "1"
+			"timeupdated" "1734044181"
+		}
+		"epsilon"
+		{
+			"buildid" "16715196"
+			"pwdrequired" "1"
+			"timeupdated" "1733967802"
+		}
+		"gamma"
+		{
+			"buildid" "16729217"
+			"pwdrequired" "1"
+			"timeupdated" "1734052760"
+		}
+		"iota"
+		{
+			"buildid" "16721257"
+			"pwdrequired" "1"
+			"timeupdated" "1734007234"
+		}
+		"kappa"
+		{
+			"buildid" "16729217"
+			"pwdrequired" "1"
+			"timeupdated" "1734067844"
+		}
+		"launch_preview"
+		{
+			"buildid" "16106176"
+			"pwdrequired" "1"
+			"timeupdated" "1729358562"
+		}
+		"qa_branch"
+		{
+			"buildid" "16717319"
+			"pwdrequired" "1"
+			"timeupdated" "1734010244"
+		}
+		"qa2_branch"
+		{
+			"buildid" "16717932"
+			"pwdrequired" "1"
+			"timeupdated" "1734010256"
+		}
+		"qa3_branch"
+		{
+			"buildid" "16160737"
+			"pwdrequired" "1"
+			"timeupdated" "1729802390"
+		}
+		"rho_"
+		{
+			"buildid" "16721257"
+			"pwdrequired" "1"
+			"timeupdated" "1734067831"
+		}
+		"sigma"
+		{
+			"buildid" "14373755"
+			"pwdrequired" "1"
+			"timeupdated" "1715801899"
+		}
+		"staging"
+		{
+			"buildid" "15511543"
+			"pwdrequired" "1"
+			"timeupdated" "1724800377"
+		}
+		"sync_test"
+		{
+			"buildid" "14222186"
+			"pwdrequired" "1"
+			"timeupdated" "1714486688"
+		}
+		"theta"
+		{
+			"buildid" "16017348"
+			"pwdrequired" "1"
+			"timeupdated" "1728699233"
+		}
+		"zeta"
+		{
+			"buildid" "16128685"
+			"pwdrequired" "1"
+			"timeupdated" "1731944348"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Wayfinder/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "26623941"
+"_sha" "49d7d1c58263af6f7f9b4a905ff7a7d78af5bc40"
+"_size" "11969"
