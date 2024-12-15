@@ -1,0 +1,227 @@
+"appid" "1494840"
+"common"
+{
+	"name" "Scoot"
+	"type" "Game"
+	"clienticon" "4a1e9131a725182865368cd9bea687ac2c12933e"
+	"clienttga" "6be8177a84819cb07f5c1923a3b347490dbe2100"
+	"icon" "540a539b2426dbbc15d018182bdf6fb8eda5934b"
+	"logo" "af228c8bf85ac7ba6eb6683bc1e0af25942da373"
+	"logo_small" "af228c8bf85ac7ba6eb6683bc1e0af25942da373_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"nokeyboardmouse" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.94488616319775"
+			"height_pct" "67.32367608644026"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.94488616319775"
+				"height_pct" "67.32367608644026"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1720451431"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Seafront Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Seafront Games"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "18"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_60" "1"
+		"category_9" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1609171236"
+	"community_hub_visible" "1"
+	"gameid" "1494840"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "701"
+		"2" "4191"
+		"3" "4175"
+		"4" "5350"
+		"5" "1654"
+		"6" "599"
+		"7" "3968"
+		"8" "493"
+		"9" "4182"
+		"10" "492"
+		"11" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Seafront Games"
+	"publisher" "Seafront Games"
+}
+"config"
+{
+	"installdir" "SCOOT"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Scoot.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1494841"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3361140476413353854"
+				"size" "2626625971"
+				"download" "1034098736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devprivate"
+			{
+				"gid" "51B844E585BC445C671080B95BD12F1D"
+				"size" "327E655A9161F35CC3D088AFABE11FD0"
+				"download" "17C77DC73187D752133A92CEBFB43CA4"
+			}
+			"pre_release"
+			{
+				"gid" "3E7C8C57EB509E9406024E0273D0FF6F"
+				"size" "D9661F00E50088CC62CCD5116D68855F"
+				"download" "32F92E6195F4FA52FF21478B04983BF0"
+			}
+			"testers"
+			{
+				"gid" "1E0B908FC59E524F433115A96687BE43"
+				"size" "9EE45FA959F088F95B102B1FF1D69FEC"
+				"download" "89EA4D6E227D3D8F814E1607424B86CF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16747049"
+			"timeupdated" "1734201943"
+		}
+		"devprivate"
+		{
+			"buildid" "16560712"
+			"pwdrequired" "1"
+			"timeupdated" "1732761444"
+		}
+		"pre_release"
+		{
+			"buildid" "16747049"
+			"pwdrequired" "1"
+			"timeupdated" "1734201554"
+		}
+		"testers"
+		{
+			"buildid" "16714676"
+			"pwdrequired" "1"
+			"timeupdated" "1733963914"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26644826"
+"_sha" "374d59ba8fda14c7db537bd4e4c914fbf9ae5af0"
+"_size" "3816"
