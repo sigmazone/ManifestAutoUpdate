@@ -1,0 +1,449 @@
+"appid" "2218750"
+"common"
+{
+	"name" "Halls of Torment"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "9fec2ded1ecfea4bc04814440294bde9f235684e"
+	"clienticon" "35022e01a7288521bc746f0d611cf25e717dadcf"
+	"clienttga" "84dd5644a4bb43098136eca276b4612f11f6a3d7"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "Halls of Torment 苦痛殿堂"
+		"tchinese" "Halls of Torment 苦痛殿堂"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1686614400"
+		"tested_build_id" "11378852"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Halls of Torment"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "de862be4dbf80a39e1e3f5e08479461ac2f2789b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "59.00415495746566"
+			"height_pct" "98.10030403947434"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "496d794f7c9586dc76874702f30e92af9ed36e3e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "496d794f7c9586dc76874702f30e92af9ed36e3e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "cb2604589cfa27a74af539324f05e7a8c7e499c9/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "cb2604589cfa27a74af539324f05e7a8c7e499c9/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "cb2604589cfa27a74af539324f05e7a8c7e499c9/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "c2f9715db2b4552ab5923554cef8ec511d31f3d7/logo.png"
+			}
+			"image2x"
+			{
+				"english" "c2f9715db2b4552ab5923554cef8ec511d31f3d7/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "59.00415495746566"
+				"height_pct" "98.10030403947434"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ffefaf6c014b2a59241fdbbd199d2feca64c167d/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ffefaf6c014b2a59241fdbbd199d2feca64c167d/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727097395"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Chasing Carrots"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Chasing Carrots"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727182803"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/halls-of-torment\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2218750"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "4885"
+		"3" "3964"
+		"4" "4231"
+		"5" "4604"
+		"6" "1716"
+		"7" "19"
+		"8" "122"
+		"9" "1773"
+		"10" "1646"
+		"11" "3871"
+		"12" "4791"
+		"13" "4182"
+		"14" "4166"
+		"15" "4342"
+		"16" "9541"
+		"17" "1684"
+		"18" "3952"
+		"19" "4172"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Chasing Carrots"
+	"publisher" "Chasing Carrots"
+}
+"config"
+{
+	"installdir" "Halls of Torment"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HallsOfTorment.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "HallsOfTorment.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "force_gpu.bat"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Force Dedicated GPU"
+			}
+			"description" "Force Dedicated GPU"
+		}
+		"3"
+		{
+			"executable" "HallsOfTorment.exe"
+			"arguments" "--rendering-driver opengl3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "OpenGL (has lower performance)"
+			}
+			"description" "OpenGL (has lower performance)"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchtemplateindex" "9"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"2218751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8050379629518009970"
+				"size" "1578129675"
+				"download" "716329248"
+			}
+			"experimental"
+			{
+				"gid" "8050379629518009970"
+				"size" "1578129675"
+				"download" "716329248"
+			}
+		}
+	}
+	"2218752"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4585646247726794060"
+				"size" "1595394061"
+				"download" "720724432"
+			}
+			"experimental"
+			{
+				"gid" "4585646247726794060"
+				"size" "1595394061"
+				"download" "720724432"
+			}
+		}
+	}
+	"3386980"
+	{
+		"dlcappid" "3386980"
+		"manifests"
+		{
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,brazilian,ukrainian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16008916"
+			"timeupdated" "1728650421"
+		}
+		"experimental"
+		{
+			"buildid" "16008916"
+			"description" "testing out few essential changes ahead of the time"
+			"timeupdated" "1728650401"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26641991"
+"_sha" "34621921aceaa83b3fa48b245073439d6946c28b"
+"_size" "8152"
