@@ -4,7 +4,7 @@
 	"name" "Arctic Eggs"
 	"type" "Game"
 	"releasestate" "released"
-	"icon" "5461c61f258f4aee2f0fdddde67d5f30d5b1301f"
+	"icon" "42218a56fd99cf5f93d69dd311cb65182e9222f3"
 	"clienticon" "21ff0dbd49ad6b14730a8667373aa3129bb6e0ce"
 	"clienttga" "4af3a49cf4b109d3833afab0f461f73926d3afb5"
 	"oslist" "windows,macos,linux"
@@ -208,6 +208,7 @@
 		"category_55" "1"
 		"category_56" "1"
 		"category_22" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -304,13 +305,13 @@
 		"2" "3968"
 		"3" "1710"
 		"4" "3834"
-		"5" "3839"
-		"6" "4166"
+		"5" "4166"
+		"6" "3839"
 		"7" "3854"
 		"8" "6378"
-		"9" "15045"
-		"10" "1695"
-		"11" "4115"
+		"9" "1695"
+		"10" "4115"
+		"11" "15045"
 		"12" "4845"
 		"13" "13906"
 		"14" "8369"
@@ -373,24 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "4930875926844028856"
-				"size" "621172877"
-				"download" "349256176"
+				"gid" "5014140045881227203"
+				"size" "623513485"
+				"download" "349400640"
 			}
 			"beta"
 			{
 				"gid" "3678679845358169102"
 				"size" "584810929"
 				"download" "319883344"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private_beta_branch"
-			{
-				"gid" "D6B78519EDE04C9BE34CE5894E5DA7D1"
-				"size" "630CEF95CE604B64819D0F9BFBDC9FFF"
-				"download" "51509ED387E70EB5DBBD2358C31CCE97"
 			}
 		}
 	}
@@ -415,15 +407,6 @@
 				"download" "314888096"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"private_beta_branch"
-			{
-				"gid" "484EFE0345881DF865705A47FE194D74"
-				"size" "B7BCBD3FF8B2C30612EE73572C648552"
-				"download" "8CD898B01C60CD1A488173210A460A67"
-			}
-		}
 	}
 	"2763674"
 	{
@@ -431,9 +414,9 @@
 		{
 			"public"
 			{
-				"gid" "8303073471945577929"
-				"size" "549125904"
-				"download" "333175456"
+				"gid" "107994112396845663"
+				"size" "551464912"
+				"download" "333320480"
 			}
 			"beta"
 			{
@@ -442,22 +425,13 @@
 				"download" "315796368"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"private_beta_branch"
-			{
-				"gid" "DAF88C3185B364F7E5A33C08572B13F7"
-				"size" "5BF1414332959C2F9694A997DC4BB669"
-				"download" "4008031AB2FAD56DB6240267F21B1B8B"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16166524"
-			"timeupdated" "1729778910"
+			"buildid" "16754422"
+			"timeupdated" "1734316104"
 		}
 		"beta"
 		{
@@ -465,15 +439,10 @@
 			"description" "Beta Channel"
 			"timeupdated" "1722973690"
 		}
-		"private_beta_branch"
-		{
-			"buildid" "15461391"
-			"pwdrequired" "1"
-			"timeupdated" "1724338956"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25877944"
-"_sha" "e08ccc34222e0da1261a6cda93c933b8fa3a4bfa"
-"_size" "8230"
+"_change_number" "26654662"
+"_sha" "f7c4fae4c5d6b405d6c637fce9c808a187b93aa9"
+"_size" "7503"
