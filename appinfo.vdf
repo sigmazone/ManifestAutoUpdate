@@ -9,11 +9,11 @@
 		"tchinese" "三國志：建安外史"
 		"japanese" "三國志：建安外史"
 	}
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" ""
-	"osextended" ""
-	"clienticon" "03a17306cc248d7b75ff63b3e4772b129066ea04"
-	"clienttga" "c1c73d71b65f36c5c011f3c5c2c83eaefba86762"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"clienticon" "64b7c5354d08aa5ae0589a6615924cad142e236b"
+	"clienttga" "c135cce1c846aaed6ef9b64ff271e935a2cd0ab3"
 	"clienticns" "8a3263bf1845a06e16a48f96374ac2b77ae0b376"
 	"icon" "5dc02004918fe1c563351e3efa0268d955153959"
 	"releasestate" "released"
@@ -182,6 +182,8 @@
 		"18" "4562"
 		"19" "493"
 	}
+	"review_score" "7"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -227,6 +229,15 @@
 }
 "depots"
 {
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"baselanguages" "schinese,tchinese"
 	"3362991"
 	{
@@ -238,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "2078100628644624749"
-				"size" "719430432"
-				"download" "626917168"
+				"gid" "1214430744309274124"
+				"size" "720186846"
+				"download" "622672112"
 			}
 		}
 	}
@@ -254,18 +265,25 @@
 		{
 			"public"
 			{
-				"gid" "942785904567593570"
-				"size" "757846580"
-				"download" "632621568"
+				"gid" "8813175703079959398"
+				"size" "769049614"
+				"download" "636230592"
 			}
+		}
+	}
+	"3362993"
+	{
+		"config"
+		{
+			"oslist" "windows"
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16705558"
-			"timeupdated" "1733910880"
+			"buildid" "16756697"
+			"timeupdated" "1734339918"
 		}
 	}
 	"privatebranches" "1"
@@ -309,6 +327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26590503"
-"_sha" "c48c0e26716d584249e6badf87be661a31626e72"
-"_size" "5381"
+"_change_number" "26657848"
+"_sha" "ccea5f44977430d05042a38e62ca0ded9e426c98"
+"_size" "5661"
