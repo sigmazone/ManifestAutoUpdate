@@ -31,6 +31,7 @@
 			"url" "https://store.steampowered.com//eula/893030_eula_0"
 		}
 	}
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -78,6 +79,29 @@
 			"pinned_position" "BottomCenter"
 			"width_pct" "100"
 			"height_pct" "87.50000000000001"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "87.50000000000001"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1580158084"
@@ -323,3 +347,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "be37543040f4551cdd785906f8c76a41acca6d2a"
+"_size" "5998"
