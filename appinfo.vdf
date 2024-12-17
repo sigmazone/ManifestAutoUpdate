@@ -38,8 +38,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -111,7 +109,45 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1684254627"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.94152046783626"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734363854"
 	"associations"
 	{
 		"0"
@@ -148,6 +184,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -221,26 +258,26 @@
 		"0" "122"
 		"1" "1716"
 		"2" "9"
-		"3" "1100689"
-		"4" "1662"
+		"3" "1662"
+		"4" "5125"
 		"5" "1677"
-		"6" "4182"
-		"7" "3871"
-		"8" "3964"
-		"9" "1720"
-		"10" "4325"
-		"11" "492"
+		"6" "1100689"
+		"7" "3964"
+		"8" "3871"
+		"9" "4182"
+		"10" "1720"
+		"11" "4325"
 		"12" "4604"
-		"13" "4026"
-		"14" "3810"
+		"13" "492"
+		"14" "4026"
 		"15" "4711"
 		"16" "4172"
-		"17" "493"
-		"18" "17389"
-		"19" "4667"
+		"17" "3810"
+		"18" "493"
+		"19" "17389"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -300,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "5442600894061870380"
-				"size" "394741794"
-				"download" "247551360"
+				"gid" "3394422338594447221"
+				"size" "535883956"
+				"download" "284284656"
 			}
 			"0.5.7.8"
 			{
@@ -352,26 +389,32 @@
 				"size" "415124034"
 				"download" "244734816"
 			}
+			"0.8.2.10"
+			{
+				"gid" "5442600894061870380"
+				"size" "394741794"
+				"download" "247551360"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"closed"
 			{
-				"gid" "57AE113F5CD64567CD940A2BACD2C8C5"
-				"size" "4BE0E8D78F52BF16B52761530971B1F6"
-				"download" "56E40BB83AB9184991C84777D1AB0178"
+				"gid" "96F35523A1C0CDC23EBE3B9069BD85F6"
+				"size" "9A9AD2FD0D2E0AF18EA5AE7FC92F725D"
+				"download" "D230A2C68D53EA3BF56EBA3FA047C781"
 			}
 			"closedupdate"
 			{
-				"gid" "BD97BEFD04A87631556E906B68833D74"
-				"size" "FD0FB7752DFDBACA58BCE9446583A550"
-				"download" "E61AD8B0312B12C758E47E5428468CC8"
+				"gid" "07859623E38D965780D96186DD2431D4"
+				"size" "4290BFB2CEE092E28890DB866016F71F"
+				"download" "B58DE28438968B91534D18F3D83D7967"
 			}
 			"test"
 			{
-				"gid" "5C374AE1F2F896351072527439709C6F"
-				"size" "1467D51279DF55868B037CF0A7EF6BA3"
-				"download" "FB106150F905AF5F9D820B093A6B261A"
+				"gid" "28AA7FE20DA97A00DCFE4C2E63E12F4B"
+				"size" "9621DFFBDA7BF6457FE308F4C39FB0A3"
+				"download" "7DA690D10B49FB5CA582C9F861DC5742"
 			}
 		}
 	}
@@ -438,6 +481,12 @@
 				"size" "248085081"
 				"download" "197341120"
 			}
+			"0.8.2.10"
+			{
+				"gid" "115715783342124391"
+				"size" "248085081"
+				"download" "197341120"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -449,15 +498,15 @@
 			}
 			"closedupdate"
 			{
-				"gid" "7EC9D1CFD9E02859BB6F7B10B562E7FE"
-				"size" "E281FCE80F0B573FC93B2A4989F95BE3"
-				"download" "11BA0331E5410FA84BFD2EEF090DA281"
+				"gid" "B3D3C289E660C044401EAE98860ED826"
+				"size" "74A29C497603F7183C1FAC4D55B46477"
+				"download" "0C8D12DC46C33AE9B00FBA2806DF054E"
 			}
 			"test"
 			{
-				"gid" "BD9FA23E09F77758259173CE754D6C40"
-				"size" "C2130668205E30C5C7BC0D37445DC4B9"
-				"download" "A374B5E502AE9651CE17566EACA082CB"
+				"gid" "947E8F496656A94AE731C486AD4987F1"
+				"size" "7B9A230CC46E00239BF7BE76EDDF7D2B"
+				"download" "F3E4A633A02260342440C146DE1EB67A"
 			}
 		}
 	}
@@ -472,9 +521,9 @@
 		{
 			"public"
 			{
-				"gid" "2065383590557299978"
-				"size" "391414549"
-				"download" "245838064"
+				"gid" "101924261486144071"
+				"size" "433473308"
+				"download" "266990544"
 			}
 			"0.5.7.8.18"
 			{
@@ -518,26 +567,32 @@
 				"size" "411177502"
 				"download" "241641840"
 			}
+			"0.8.2.10"
+			{
+				"gid" "2065383590557299978"
+				"size" "391414549"
+				"download" "245838064"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"closed"
 			{
-				"gid" "6340564F1F5623BF8B73312CBBC2D836"
-				"size" "03D3E694782B598946D61719172784AF"
-				"download" "199737381D321D9BBCDF6C7FC2DD93F4"
+				"gid" "218E6D69E6C80A889E459D8A8B55BF75"
+				"size" "A8732959D5A94D3F2CEA6F2342B29B8D"
+				"download" "E3BEA989E8FC3CFC92B586C43CADB1D0"
 			}
 			"closedupdate"
 			{
-				"gid" "896E88EB48B3C494AF49909519C00DDF"
-				"size" "1C30DBA260E5CD6BD41747E4A16D199D"
-				"download" "D29CC99D38FDB755B71A699CCE4CCD6F"
+				"gid" "2CB5CBC5C1281DDB8C96BEBD9D721C72"
+				"size" "638283B179240D6BBEDADA4889C0F578"
+				"download" "B8D1CAC6330F8A370CEFBD02ACCDE60D"
 			}
 			"test"
 			{
-				"gid" "894F7F8C916A5AB75BE411CB1ECCC526"
-				"size" "C5AF763F8F04E73A28E425716BFD671B"
-				"download" "B1F3378CCA27117E2668DA266351BF1F"
+				"gid" "8ED65D7E2A9E573A4F4A8EB83DC87783"
+				"size" "C1FA30F35F6CDA288EE6FF87FC8E060A"
+				"download" "C48D48F25D2A8F1E84D92D9C11404DB1"
 			}
 		}
 	}
@@ -545,8 +600,8 @@
 	{
 		"public"
 		{
-			"buildid" "12396464"
-			"timeupdated" "1696877860"
+			"buildid" "16767337"
+			"timeupdated" "1734400416"
 		}
 		"0.5.7.8"
 		{
@@ -596,23 +651,29 @@
 			"description" "Forgotten Lore - Last 32bit Support"
 			"timeupdated" "1675613793"
 		}
+		"0.8.2.10"
+		{
+			"buildid" "12396464"
+			"description" "Equipment Update III + content update"
+			"timeupdated" "1734360003"
+		}
 		"closed"
 		{
-			"buildid" "11631858"
+			"buildid" "16724731"
 			"pwdrequired" "1"
-			"timeupdated" "1688569953"
+			"timeupdated" "1734024589"
 		}
 		"closedupdate"
 		{
-			"buildid" "12201273"
+			"buildid" "16760190"
 			"pwdrequired" "1"
-			"timeupdated" "1694798355"
+			"timeupdated" "1734360418"
 		}
 		"test"
 		{
-			"buildid" "7796937"
+			"buildid" "16711735"
 			"pwdrequired" "1"
-			"timeupdated" "1638527398"
+			"timeupdated" "1733944741"
 		}
 	}
 }
@@ -633,6 +694,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21727424"
-"_sha" "95718215b9ca7a20d0c23e6663716240aff2fe22"
-"_size" "11910"
+"_change_number" "26670427"
+"_sha" "30f77e73a0ed789eccadc4093f9b0f55469250ab"
+"_size" "12908"
