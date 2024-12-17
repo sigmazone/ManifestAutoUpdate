@@ -16,6 +16,50 @@
 	{
 		"schinese" "萌护全宇宙 Dimensionals"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732924800"
+		"tested_build_id" "16529493"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -152,7 +196,7 @@
 		"19" "9"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -211,24 +255,9 @@
 		{
 			"public"
 			{
-				"gid" "3596365616640806720"
-				"size" "2863366585"
-				"download" "2031817008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev-debug"
-			{
-				"gid" "11440F364F8230A5D0B6793C18003909"
-				"size" "1BF81F14298F59870A910A8D35879537"
-				"download" "36C1659F31505B0A6D88ECA8F81C7758"
-			}
-			"release-candidate"
-			{
-				"gid" "61ABEFDB793F3CE239FBBEC509116315"
-				"size" "B0EB2865C7B5D8C9FE0D2B678C28E2AD"
-				"download" "C235B901F3E819BA332260E09E7135FC"
+				"gid" "7350534061669425584"
+				"size" "2823754018"
+				"download" "2053330432"
 			}
 		}
 	}
@@ -243,24 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "165915500257485767"
-				"size" "2762973734"
-				"download" "2008866768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev-debug"
-			{
-				"gid" "D49D319DF03EFCCD2C55C18A6116AA43"
-				"size" "1E0FEABBF43060BEFBF8852DF8E5F51C"
-				"download" "848DCD75D643B5BF64B5EDAC2BD9E498"
-			}
-			"release-candidate"
-			{
-				"gid" "327B4BDF95D9E9B2DFE2CEDB768F9CF2"
-				"size" "56E3DC3B2B86A227197C0DFB79A82270"
-				"download" "AAA2F3AF18BDC8BCF2216ECDB127180D"
+				"gid" "5389318990359446211"
+				"size" "2819767303"
+				"download" "2053569280"
 			}
 		}
 	}
@@ -268,24 +282,13 @@
 	{
 		"public"
 		{
-			"buildid" "16571385"
-			"timeupdated" "1732827504"
-		}
-		"dev-debug"
-		{
-			"buildid" "16368688"
-			"pwdrequired" "1"
-			"timeupdated" "1731348276"
-		}
-		"release-candidate"
-		{
-			"buildid" "16570362"
-			"pwdrequired" "1"
-			"timeupdated" "1732819517"
+			"buildid" "16762712"
+			"timeupdated" "1734374744"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26412583"
-"_sha" "77e8650e0791a79e122e4bec33bcf30c00d7ebf2"
-"_size" "5008"
+"_change_number" "26665984"
+"_sha" "a4682fe96ea7dbc1c5425261a57d3930acd35db2"
+"_size" "5132"
