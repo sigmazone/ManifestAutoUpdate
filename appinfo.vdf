@@ -249,16 +249,6 @@
 	"installdir" "The Jackbox Party Starter"
 	"launch"
 	{
-		"0"
-		{
-			"executable" "The Jackbox Party Starter.exe"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-		}
 		"1"
 		{
 			"executable" "The Jackbox Party Starter.app"
@@ -277,6 +267,36 @@
 				"oslist" "linux"
 				"osarch" "64"
 			}
+		}
+		"3"
+		{
+			"executable" "launch_mp.bat"
+			"arguments" "game/the-jackbox-party-starter"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "in The Jackbox Games Megapicker"
+			}
+			"description" "in The Jackbox Games Megapicker"
+		}
+		"4"
+		{
+			"executable" "The Jackbox Party Starter.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Standalone"
+			}
+			"description" "Standalone"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -313,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "4341881863410918079"
-				"size" "5068025515"
-				"download" "4709611904"
+				"gid" "2498330376969091723"
+				"size" "5068290101"
+				"download" "4709573808"
 			}
 		}
 		"encryptedmanifests"
@@ -346,15 +366,15 @@
 			}
 			"latest"
 			{
-				"gid" "5F1F97AAC6447FC714E53C0A1908A412"
-				"size" "73FFBFECEA4A7C0D2F9024955E85B7E9"
-				"download" "B5D38A705FAF3B18BF18CC2641A43AFD"
+				"gid" "6B81956A1AF4D6B36B0C3458D020DC52"
+				"size" "5B66F950DADDD5D0CC240A84ADE02282"
+				"download" "69B7F7C90F675A4E35C2FF0E124FF618"
 			}
 			"test"
 			{
-				"gid" "E10779B5AB6E06D32B5C8C3DBD72A6CA"
-				"size" "FB8D8F7F30FD4C613794DFDFFC6F40AB"
-				"download" "D2397D95B6C06549F5A17D4F3F785882"
+				"gid" "401022D0507D9983677FD3A532834973"
+				"size" "12641C28F4A8239134E7A6398A97D683"
+				"download" "97AABE2223AE2564005D08BF14636DD3"
 			}
 		}
 	}
@@ -369,9 +389,9 @@
 		{
 			"public"
 			{
-				"gid" "4641985724737524961"
-				"size" "22081088"
-				"download" "6327040"
+				"gid" "5337096692379644688"
+				"size" "22090304"
+				"download" "6327696"
 			}
 		}
 		"encryptedmanifests"
@@ -402,15 +422,15 @@
 			}
 			"latest"
 			{
-				"gid" "8E540A1E827AE3EE08AA746BC0EA16F8"
-				"size" "4E952F7091E08DBC53E77EDF92414F0C"
-				"download" "CE19677C811E78A21A20D16C9A02DAC6"
+				"gid" "38E2310B8727773C3BE13E49009D5C29"
+				"size" "70B8A1CFD930F15FC2A50CB4FDC5B5AD"
+				"download" "DD1781577275DAF5A88C9D060255318C"
 			}
 			"test"
 			{
-				"gid" "5D93EFAFFDF3D1B45B84E8636523C094"
-				"size" "905879772252DB80DDCD4EB16247C1A9"
-				"download" "E08AF0F69F44C3CD3FD7117983D85612"
+				"gid" "028D3A71F18375560D4D51CCDD2415D6"
+				"size" "42478A0B5626D541EADE0029B087E02D"
+				"download" "4F09B68CD3E8886F9FE81B880ED9FC77"
 			}
 		}
 	}
@@ -425,9 +445,9 @@
 		{
 			"public"
 			{
-				"gid" "6746295297273495179"
-				"size" "5168199183"
-				"download" "4729275776"
+				"gid" "4836054818831015340"
+				"size" "5115079063"
+				"download" "4720603584"
 			}
 		}
 		"encryptedmanifests"
@@ -458,15 +478,15 @@
 			}
 			"latest"
 			{
-				"gid" "3581B384958BC5DEA63F9C546908A203"
-				"size" "590D097F0D0336747EDFC0089FEAB0C1"
-				"download" "AF431734C9709C4D5C6854880F5340BB"
+				"gid" "2292981DC933D4ECD8F1822DCD6B0403"
+				"size" "FB207DC0E1308EE824ADCD1E0BAD23C7"
+				"download" "DCAA6645424EDB518C97F404A657E282"
 			}
 			"test"
 			{
-				"gid" "038F3D66C05D24E3A366476DC0BD8616"
-				"size" "3DCC43464C8EED9E21E0C607E608ABB5"
-				"download" "D35BCDF34AD27083A711686B22A86C74"
+				"gid" "6CDA718BAD7E3C903D2EA10493168363"
+				"size" "0F9C41D389F047B7A76CF3F4785E26E0"
+				"download" "B9F5621B8FF89CA37F3FD1B5B29763EE"
 			}
 		}
 	}
@@ -514,9 +534,9 @@
 			}
 			"latest"
 			{
-				"gid" "7764650D7E700A5F7CC9D6F81604A7BB"
-				"size" "14E99D43CC2BD9FB3FF21281ED877F57"
-				"download" "F4B0AD502595FC281EE42C4100EA157D"
+				"gid" "DE3A2E8B8E8FDF3634878D4379F049DF"
+				"size" "696770E1EEFE1F12EEDCF9C7C393C6BB"
+				"download" "48A66283F189628D8F92AC7CFA7DB4D3"
 			}
 			"test"
 			{
@@ -526,12 +546,25 @@
 			}
 		}
 	}
+	"2828508"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5145691608909662874"
+				"size" "2021"
+				"download" "848"
+			}
+		}
+		"depotfromapp" "2828500"
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15439716"
-			"timeupdated" "1724191354"
+			"buildid" "16032382"
+			"timeupdated" "1728931016"
 		}
 		"beta"
 		{
@@ -559,15 +592,15 @@
 		}
 		"latest"
 		{
-			"buildid" "15832557"
+			"buildid" "16755764"
 			"pwdrequired" "1"
-			"timeupdated" "1727331698"
+			"timeupdated" "1734331382"
 		}
 		"test"
 		{
-			"buildid" "15303297"
+			"buildid" "16032382"
 			"pwdrequired" "1"
-			"timeupdated" "1723154023"
+			"timeupdated" "1728922621"
 		}
 	}
 }
@@ -576,3 +609,7 @@
 	"quota" "5000000"
 	"maxnumfiles" "2"
 }
+"_missing_token" "False"
+"_change_number" "26656377"
+"_sha" "089dbf1e80060c4d881b7f7e911fff7f68732c44"
+"_size" "11949"
