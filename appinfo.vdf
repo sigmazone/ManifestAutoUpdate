@@ -85,7 +85,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "ea81edb46e049da59dc377cd14446a0ceb37b3db/capsule_231x87.jpg"
+		"english" "5885031cc4b9dcc6044aff9c6b00b43242af5b3f/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -95,6 +95,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -108,24 +109,31 @@
 	{
 		"library_capsule"
 		{
-			"image2x"
-			{
-				"english" "library_600x900_2x.jpg"
-			}
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "be4606006cfea7bd68d2494d4d40b13aee2271b3/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "be4606006cfea7bd68d2494d4d40b13aee2271b3/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "12c48c88a1ac32ebaee8ed2a9291bbbbe3f49419/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "12c48c88a1ac32ebaee8ed2a9291bbbbe3f49419/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "12c48c88a1ac32ebaee8ed2a9291bbbbe3f49419/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -149,15 +157,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "f40d002f7e81e7b950e4780bd63741b42df80a0d/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_header_2x.jpg"
+				"english" "f40d002f7e81e7b950e4780bd63741b42df80a0d/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1726856688"
+	"store_asset_mtime" "1733252394"
 	"associations"
 	{
 		"0"
@@ -486,9 +494,9 @@
 		{
 			"public"
 			{
-				"gid" "7903729519343144646"
-				"size" "33805200959"
-				"download" "30779216960"
+				"gid" "6900557032803112050"
+				"size" "33788655634"
+				"download" "30756843984"
 			}
 		}
 		"encryptedmanifests"
@@ -507,27 +515,33 @@
 			}
 			"dealer"
 			{
-				"gid" "1633142218C38C273E57BA3A29ADECB8"
-				"size" "90835E9E0CD81F44FDDD1B4CCA94B6FD"
-				"download" "7D3C0F8CF8350636BDC03B09E7BCFFA6"
+				"gid" "4404F2DDB8EC3870F2B338AB7E5D5366"
+				"size" "2C8FFA5061DE44EDFA3EB36E9E9F37FE"
+				"download" "83FE16CB65E525FFA88F7A65AAF93124"
 			}
 			"devqa"
 			{
-				"gid" "ED7CE60379429F6BBCA592821A2C2299"
-				"size" "526AF4475CA94F02457E29334EFA3E3E"
-				"download" "E15F93C9A6E50BE1618547E08C1BC3FE"
+				"gid" "F29D624CC6D75E401AF67F4D47BBBE41"
+				"size" "1C49495366A5F8AB7D139E2003493F99"
+				"download" "56C429EF6B0C97D108A3C5361683576C"
 			}
 			"enzyme"
 			{
-				"gid" "2A538F45901EECEB1070F561C381C31B"
-				"size" "36D8017BDA3E2E7DB0F5850CAF0EDF3C"
-				"download" "25655532CB512800C312B73FADDEE830"
+				"gid" "25A8D302EABB3B7602F3EED556F54457"
+				"size" "41FBA960AEBA63B42813DD663C85F90F"
+				"download" "B6E03A7AAEECD716CED4F7159EBB8FDE"
 			}
 			"enzyme2"
 			{
 				"gid" "B9052C3E37ABF08898E252B90515E28B"
 				"size" "15C12ACABA0C21C4900A061A557D43F2"
 				"download" "12167DFBE35FA80AFA5A0A66DF8F9727"
+			}
+			"liveops"
+			{
+				"gid" "A917C4691325E711CEEB24ED2CAD78F0"
+				"size" "0FD0C750A23B124166371E4645389866"
+				"download" "BD694C12EF61A0C2AD4CEBD80A31D6DF"
 			}
 			"localize"
 			{
@@ -537,15 +551,15 @@
 			}
 			"nightly"
 			{
-				"gid" "D8336825735F2C26091A8D884D3B62AF"
-				"size" "9675B07D281A6CBBDCB99014CBE862D2"
-				"download" "8BE0223640D18AC59EA3DF72721870D3"
+				"gid" "4F5F7711DB4702AC037FCFFD06DF12D1"
+				"size" "0455B7884C873DC5AAC01881D8A1919A"
+				"download" "3BC62D2958806A1D4149DCB82EC926F6"
 			}
 			"playtests"
 			{
-				"gid" "CCF2E1DB92FFADBE409AA14794FAC6EC"
-				"size" "238B423B8436FF5FE7B3273221D4CAAC"
-				"download" "0EB08081DAF747939CC5C8B862091732"
+				"gid" "ADBABC19D94011BA8177BBA550A3B91E"
+				"size" "5D4F103BEA730B7B11C565701F8B41D9"
+				"download" "EF5154B12AA57DAB939CA98A1FDBC26B"
 			}
 			"psyonix2scrub"
 			{
@@ -555,15 +569,15 @@
 			}
 			"qa-staging"
 			{
-				"gid" "04B10B8DC4DF764A8D0ECEFF15951EF9"
-				"size" "F7176D14FA40A95B2B62C408FA97DE9C"
-				"download" "8B64F39DC98377B2D27F0A0D4F532FA2"
+				"gid" "ED3FB9580166A4332773085B297ADC69"
+				"size" "3979E107DCCEA77FE6AB054B62B942E3"
+				"download" "4E5E0E39B16E1066E27C70FE4A3A288A"
 			}
 			"qa-test"
 			{
-				"gid" "E9FB212411635DE3287D13BD16DF61DF"
-				"size" "42EB022DF6FE535A3522843EB5B63B2E"
-				"download" "CEFE88AABC6C6445EB245659CAFF6237"
+				"gid" "6215266DD8C98E82BF6539354DD99300"
+				"size" "43FB57A3E30E87D96F50DF13341A0664"
+				"download" "696CF9B747C1AFB5FBE221D298BE4DD5"
 			}
 		}
 	}
@@ -620,6 +634,12 @@
 				"size" "8FE73EC284810D29CF133E497F43812A"
 				"download" "8FE73EC284810D29CF133E497F43812A"
 			}
+			"liveops"
+			{
+				"gid" "2342B78C9AA2275EC4034E5BE7138D40"
+				"size" "9A4427894B0A48F94BB9E04D8F11F9B5"
+				"download" "260EF1F99C7E0D09CD5C6E2BC048F74A"
+			}
 			"localize"
 			{
 				"gid" "437E4C9734D8B3C4B5A93B2F22889339"
@@ -634,9 +654,9 @@
 			}
 			"playtests"
 			{
-				"gid" "BF9BF9D7E1224C6BB1C143BD830B8438"
-				"size" "C0F6D5FCFC72EE8BBBCFA2C4B5CD9454"
-				"download" "3380D3FFF307852CC3AA0F115B53CB86"
+				"gid" "3D4C8117AAEA796E83D1E7230BBDE8DF"
+				"size" "476818460E1C03FF83283AEA6C6AA6DF"
+				"download" "476818460E1C03FF83283AEA6C6AA6DF"
 			}
 			"psyonix2scrub"
 			{
@@ -711,6 +731,12 @@
 				"size" "8FE73EC284810D29CF133E497F43812A"
 				"download" "8FE73EC284810D29CF133E497F43812A"
 			}
+			"liveops"
+			{
+				"gid" "8F7DC8866BC40A0180A840C79F54A449"
+				"size" "9B1BF7F69F4D4A1642C541C0AB34B18B"
+				"download" "84E5C2DFD7D9587D6B067E23099E9073"
+			}
 			"localize"
 			{
 				"gid" "F567028976A575EB239E6820FD706B39"
@@ -725,9 +751,9 @@
 			}
 			"playtests"
 			{
-				"gid" "4B044E8D15897C9B6AFE1829477430B6"
-				"size" "586464B5C54E3E5CD4A363696DACF371"
-				"download" "5020BE4C076767D8E7A29EC7075EFB35"
+				"gid" "F1CBA283BA4D2D84AAAB64B7E5C848E5"
+				"size" "476818460E1C03FF83283AEA6C6AA6DF"
+				"download" "476818460E1C03FF83283AEA6C6AA6DF"
 			}
 			"psyonix2scrub"
 			{
@@ -801,6 +827,12 @@
 				"gid" "7BA3C4CF39778691371A0346E32B0F95"
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
+			}
+			"liveops"
+			{
+				"gid" "67FF18FA45EB09E542490EA5E6574B0F"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
 			}
 			"localize"
 			{
@@ -893,6 +925,12 @@
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
 			}
+			"liveops"
+			{
+				"gid" "16D09DB04D786FE26438BE5347F98682"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
+			}
 			"localize"
 			{
 				"gid" "11BD1A30B3C450FD4596A054884E9F20"
@@ -983,6 +1021,12 @@
 				"gid" "F8B9B062D88D417204259CC85C8B1734"
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
+			}
+			"liveops"
+			{
+				"gid" "3F12C45577280B3FAB86E939A0C81A44"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
 			}
 			"localize"
 			{
@@ -1075,6 +1119,12 @@
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
 			}
+			"liveops"
+			{
+				"gid" "9D06EB4F5B5A9F1442DEB27A7127C1C8"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
+			}
 			"localize"
 			{
 				"gid" "E28CB60FF9B1925C9D71787C1DFD90E2"
@@ -1165,6 +1215,12 @@
 				"gid" "9A639AD2D515F4DF8926328632170360"
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
+			}
+			"liveops"
+			{
+				"gid" "C21FA2F76283114C605FB7113255712E"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
 			}
 			"localize"
 			{
@@ -1257,6 +1313,12 @@
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
 			}
+			"liveops"
+			{
+				"gid" "C631351FD7D125A7E305A489D050EF1E"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
+			}
 			"localize"
 			{
 				"gid" "0A50A76F79E015E03FD3272ED38BF45F"
@@ -1347,6 +1409,12 @@
 				"gid" "22C0398C88736A7CA2ED1028B567AFAB"
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
+			}
+			"liveops"
+			{
+				"gid" "C6D44E87A492CF10783C5783CE78C697"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
 			}
 			"localize"
 			{
@@ -1439,6 +1507,12 @@
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
 			}
+			"liveops"
+			{
+				"gid" "2AFA0E4790E5AB708E6E5060B00C3A59"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
+			}
 			"localize"
 			{
 				"gid" "BCF3891F9A9404AEBB98ACBE4B13C181"
@@ -1529,6 +1603,12 @@
 				"gid" "2F53E3AC0255712D25D5E52D839470A3"
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
+			}
+			"liveops"
+			{
+				"gid" "A2DD5E368F7BB88CED6EF987119D3A28"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
 			}
 			"localize"
 			{
@@ -1621,6 +1701,12 @@
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
 			}
+			"liveops"
+			{
+				"gid" "4B27ECDFEE31C18D8E8843C5256C299E"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
+			}
 			"localize"
 			{
 				"gid" "D1BCA7D70921875877E28823D04E993B"
@@ -1712,6 +1798,12 @@
 				"size" "F95CC04D34A9DC3C4A06515F1521AAB9"
 				"download" "2C1FDA68FAD3301240CBA6CEF3E9874C"
 			}
+			"liveops"
+			{
+				"gid" "4A08D0A2582481373FA608A7C6EAF024"
+				"size" "BD69FF6A845E149E841054E0901F998D"
+				"download" "6252189318F1743A66AA525111E8018B"
+			}
 			"localize"
 			{
 				"gid" "0D10ADDC183F86D747F9065B1020912D"
@@ -1754,8 +1846,8 @@
 	{
 		"public"
 		{
-			"buildid" "16482707"
-			"timeupdated" "1733270321"
+			"buildid" "16663290"
+			"timeupdated" "1734393559"
 		}
 		"releaseteamtraining"
 		{
@@ -1771,27 +1863,33 @@
 		}
 		"dealer"
 		{
-			"buildid" "16559212"
+			"buildid" "16741596"
 			"pwdrequired" "1"
-			"timeupdated" "1733249222"
+			"timeupdated" "1734372179"
 		}
 		"devqa"
 		{
-			"buildid" "16482707"
+			"buildid" "16741596"
 			"pwdrequired" "1"
-			"timeupdated" "1733163066"
+			"timeupdated" "1734135603"
 		}
 		"enzyme"
 		{
-			"buildid" "16620516"
+			"buildid" "16766845"
 			"pwdrequired" "1"
-			"timeupdated" "1733265288"
+			"timeupdated" "1734399168"
 		}
 		"enzyme2"
 		{
 			"buildid" "16055250"
 			"pwdrequired" "1"
 			"timeupdated" "1729037561"
+		}
+		"liveops"
+		{
+			"buildid" "16727890"
+			"pwdrequired" "1"
+			"timeupdated" "1734043333"
 		}
 		"localize"
 		{
@@ -1801,15 +1899,15 @@
 		}
 		"nightly"
 		{
-			"buildid" "16609900"
+			"buildid" "16743469"
 			"pwdrequired" "1"
-			"timeupdated" "1733201428"
+			"timeupdated" "1734151901"
 		}
 		"playtests"
 		{
-			"buildid" "16257931"
+			"buildid" "16729920"
 			"pwdrequired" "1"
-			"timeupdated" "1730416206"
+			"timeupdated" "1734065417"
 		}
 		"psyonix2scrub"
 		{
@@ -1819,15 +1917,15 @@
 		}
 		"qa-staging"
 		{
-			"buildid" "16620516"
+			"buildid" "16766845"
 			"pwdrequired" "1"
-			"timeupdated" "1733265367"
+			"timeupdated" "1734398137"
 		}
 		"qa-test"
 		{
-			"buildid" "16185683"
+			"buildid" "16742515"
 			"pwdrequired" "1"
-			"timeupdated" "1729901367"
+			"timeupdated" "1734202581"
 		}
 	}
 }
@@ -1903,6 +2001,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26479421"
-"_sha" "5705a74f7ac1d8a14acb5935deb7a50cdb66ed2c"
-"_size" "44667"
+"_change_number" "26670220"
+"_sha" "fd6d32be1402e7d5ebf2cda8a2068b5c523808b2"
+"_size" "47606"
