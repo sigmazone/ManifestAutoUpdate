@@ -21,6 +21,7 @@
 		"schinese" "1"
 		"russian" "1"
 		"japanese" "1"
+		"turkish" "1"
 	}
 	"content_descriptors"
 	{
@@ -222,6 +223,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1701964500"
 	"community_visible_stats" "1"
@@ -301,126 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "4670345972597202807"
-				"size" "37879430673"
-				"download" "27293036176"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"modding"
-			{
-				"gid" "8D966DDBCB6F1E4674E807A5C57A4A60"
-				"size" "2427047261823E7422A5AB5DAB6038CE"
-				"download" "2427047261823E7422A5AB5DAB6038CE"
-			}
-			"modding-beta"
-			{
-				"gid" "DC9DC47C3A179D8F5DDC2D5C0295897E"
-				"size" "C47C445B3BA9A088B7CC65F85585D48F"
-				"download" "E1ED94EE3B00E951F895C0E0F0833DEA"
-			}
-			"owlcat-test"
-			{
-				"gid" "D2CDD712BA17E375D69EF85B2582FC14"
-				"size" "1122E4896DC1627439AE01D0D498B544"
-				"download" "F8D6A5D66FD34C381E4C154DAE9678B5"
-			}
-			"test-deploy"
-			{
-				"gid" "D08B8BA79A61D2E721B62ABE2A9F5FDD"
-				"size" "5FC97980AC360CEE7F05186C430A135A"
-				"download" "D0495EFB3DA8FEC2A4F20C6292036F3C"
-			}
-			"test-dlc"
-			{
-				"gid" "66897A1131399DD355ED4C57E8E843F4"
-				"size" "363D9B1BFE36FB45EB1A495E84ABEE74"
-				"download" "53744B07BC975502D37A833B32F60583"
-			}
-			"dialogue-opentest"
-			{
-				"gid" "8559CD337B2A98DA6F479F65865A56F6"
-				"size" "A30C7EAA5FA9C5AADA7356AC0BF67183"
-				"download" "148062AA0BFEC97EA5D64FC6A8911A19"
-			}
-			"dlc-debug"
-			{
-				"gid" "EE936E325CBF39C3161F4737F5F27B6D"
-				"size" "5E9CF381D504DB9B8082FFF072A116AD"
-				"download" "A374DBA29B179E08F632B7F9329C9D7F"
-			}
-			"dlc-release"
-			{
-				"gid" "80B72BEE0EA85302BBF1587F2F10EBC5"
-				"size" "78BC1944CE9543EDDF7CC1D095AFD299"
-				"download" "47E39B544FCD2EC4ED8DAA86BA17C710"
-			}
-			"gamesworkshop"
-			{
-				"gid" "26FD56A177DC30F058896723279C6FB3"
-				"size" "2BAB02507106276AFC2ECA94FF1C79A9"
-				"download" "D7E6E98308A50EDE0EF893419C39560E"
-			}
-			"media"
-			{
-				"gid" "E61E2C132A050CAE689986559FEAC10F"
-				"size" "BD1049CCB536A8BB733DE66F0D30B27C"
-				"download" "D74D6951C7CEA5A9EC4C82DDFF423A73"
-			}
-			"modding-opentest"
-			{
-				"gid" "9D1A82A954EBC38D5357AF723DDD87B1"
-				"size" "95184D6FE2128C4A1B1267227A843EBE"
-				"download" "F946E24DC8645429269C91AC012FA8DB"
-			}
-			"owlcat-egs-test"
-			{
-				"gid" "CE2B0761DA73871F1758D352DCA728E9"
-				"size" "A5D5F753E0193B3304A5B1195A8466A2"
-				"download" "CF0B18C549322C002605735B18D787A1"
-			}
-			"owlcat-playtest"
-			{
-				"gid" "CF852DA0C9316CE577CE743F5FF13428"
-				"size" "93FE3C36F3C9FA7475C38DB7CA870AA7"
-				"download" "F1C13A6633A5E580FC3660895FEB5322"
-			}
-			"owlcat-release-debug"
-			{
-				"gid" "226FD12C0F7149D9FF60EB554AC27760"
-				"size" "08A29FE3DDB270990FE2053E0BB4FF08"
-				"download" "FBC54D8740BC2E165EA4753755650104"
-			}
-			"owlcat-release-test"
-			{
-				"gid" "6DCC0EE205CD5A17714AE8F5C9A6817E"
-				"size" "3DCB7A442A301DD2B23841F65ED42DC4"
-				"download" "3E5EB4CB7C5ED6CF0BA10A7DE96E23B4"
-			}
-			"owlcat_feature_debug"
-			{
-				"gid" "8F8219F5A3194AD35434449E80CC9D06"
-				"size" "90CC92BB421EFC1D871D6F88DDE06C7F"
-				"download" "1EF27A1C3B2191B6CB1828A9DF624CAF"
-			}
-			"owlcat_feature_release"
-			{
-				"gid" "28F049D3CF2A30878989E69798426009"
-				"size" "AE2B2BC169B198CF28264B53714661F0"
-				"download" "FEF0224486A086B337259A7F8C375D8B"
-			}
-			"previous-patch"
-			{
-				"gid" "B1DE19074568CBFB0AB94E7D16453BA1"
-				"size" "B94BCE2FEAE406764C6A5686E282B94D"
-				"download" "FB34DF161F8FFE3C9C5CDEFBDCA2D99F"
-			}
-			"steamdeck-test"
-			{
-				"gid" "78EE05C09AD7C8075F5606AA76E16335"
-				"size" "A26F3C7A029C8C01318058162C4F6A79"
-				"download" "FB56B994EE45AEAAFFFC330F71AD757A"
+				"gid" "7095619580333186160"
+				"size" "37884039901"
+				"download" "27293321568"
 			}
 		}
 	}
@@ -434,108 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "6212070578744842258"
-				"size" "32900773874"
-				"download" "25966304656"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test-deploy"
-			{
-				"gid" "BD580484A37FEA125DF99DFF62A40408"
-				"size" "D615AA382C35303302F313E972DFA052"
-				"download" "F9538DC26F331A524990EA9013CEAADF"
-			}
-			"test-dlc"
-			{
-				"gid" "F99EC5104717A97AFC015A28868C0099"
-				"size" "6F683504A63FD952167A41404B7C57C4"
-				"download" "1C5ABB891A5D5A066CF296402463FF8A"
-			}
-			"dialogue-opentest"
-			{
-				"gid" "705319F2BDD993EAE489AB4F2B1FEA81"
-				"size" "5E93C4EF3438D9C78C4C8838BC565123"
-				"download" "E583427F10900CA071D3F7FFE0393E24"
-			}
-			"dlc-debug"
-			{
-				"gid" "5300B2CD4048BA78217BA4E1D442BADC"
-				"size" "EC3B2DDE70AD124A29717CF54121287C"
-				"download" "F2623A6BD6EA19AA9A00D197D20EB728"
-			}
-			"dlc-release"
-			{
-				"gid" "7DD443C23E2DF72E2F2E8C173693F971"
-				"size" "E4DF573B8E633E3619D9F3256D7DC009"
-				"download" "2CCEF509DA026D47A095577B0A2EE737"
-			}
-			"gamesworkshop"
-			{
-				"gid" "902C56AA171F18B348203E708DAE3E77"
-				"size" "ACA379CB2A16905455C52FE825F4D1F8"
-				"download" "FD8F2333583AFE0CC97AFE447D3F13C1"
-			}
-			"media"
-			{
-				"gid" "C77404900C6CBA0E64A204B572DAFCD7"
-				"size" "935864AD5ACE3B5E55DBAD8CBAA35B6E"
-				"download" "4BCAE5CEEDA0F573A7193CF9CAAA4EC7"
-			}
-			"modding-opentest"
-			{
-				"gid" "ECD7A09A05F0CB96036468F39CD8EAAB"
-				"size" "B265DA94F82CF959397ADC23C8CE4CF1"
-				"download" "7E200C321D242E79B99880EF38116476"
-			}
-			"owlcat-egs-test"
-			{
-				"gid" "AE44D8A6F43B58B566D2C921356E89DA"
-				"size" "4AE1AB0840C3085CB90AC0D6E5AD3826"
-				"download" "06E9CC74C25AA197A9E98639B761777C"
-			}
-			"owlcat-playtest"
-			{
-				"gid" "E5D2918997AD8103CF4A8DA5606BEC5D"
-				"size" "47BE17DA2950C759F45360DB90041364"
-				"download" "BBD14EA783BFBD0B359B3A037487BEF4"
-			}
-			"owlcat-release-debug"
-			{
-				"gid" "05B545A722C62862EAF29C1B4423BCA3"
-				"size" "C24C986EF941524D25F6DD94FFF8E1F1"
-				"download" "46A4E3504102E3956D824594EE1188DD"
-			}
-			"owlcat-release-test"
-			{
-				"gid" "ACC39189DE3048AC09BBDAB28BAA7683"
-				"size" "8F20CE3577DE2BF67E49CDB207520DC0"
-				"download" "743F9850CDD29210D192CC70516C19E4"
-			}
-			"owlcat_feature_debug"
-			{
-				"gid" "4067056740D356F92882F956C59E5CEB"
-				"size" "5EAE2EAC2C21C2AF81F177402061886A"
-				"download" "3077A767E2C4BF3FF9CD4335FE3AE485"
-			}
-			"owlcat_feature_release"
-			{
-				"gid" "C81DB3C2FF82A7F0424FEEE07D66421B"
-				"size" "1FC4145012528342DE48F804BC76A815"
-				"download" "1A02E08488A8D0FC5BA56D8A66BCE056"
-			}
-			"previous-patch"
-			{
-				"gid" "24443CEACF53C6B53B3046EF99DCF919"
-				"size" "B5AF0CCE03B03C193CC772CFF2947B43"
-				"download" "CEA65006B846E9367195FB673EC6202F"
-			}
-			"steamdeck-test"
-			{
-				"gid" "38203154106F285E943DA5E6A114FF40"
-				"size" "8E5D687950212889B613806B640BB175"
-				"download" "C751EB05A858181BDFE4F0BB59135455"
+				"gid" "5997878462050131229"
+				"size" "32900922125"
+				"download" "25966300608"
 			}
 		}
 	}
@@ -559,87 +349,6 @@
 				"download" "1891343648"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test-deploy"
-			{
-				"gid" "E47BC6B482F0F36818247EE15A26EA3A"
-				"size" "B60BB8EF08B0E72098DFD4F4445F5362"
-				"download" "7771B935F35800FA5528786C3AA0D39B"
-			}
-			"test-dlc"
-			{
-				"gid" "6B3AFCC86D9F32F11C2BFAFC4EEADA27"
-				"size" "659F9676B7407B6BFF37C274F233B093"
-				"download" "EAF981708595194317F9AACF776399EF"
-			}
-			"dialogue-opentest"
-			{
-				"gid" "6749E5ED859F5D5E0CDCE55BD7ECA718"
-				"size" "EE1FCAA9123A86FF32BBECAC6C7FDAA0"
-				"download" "20FB258066B7C794C086205E537BE61D"
-			}
-			"dlc-debug"
-			{
-				"gid" "7CA564BE981065ED3FFF5A69D270D618"
-				"size" "9C7BE147D2D943DCAD94AAE0A9C9F5EC"
-				"download" "0F802B15B2321F70790016F5C43EA7E8"
-			}
-			"dlc-release"
-			{
-				"gid" "B914965A7623D20E2984D4D5B0EA2946"
-				"size" "B3D59FA1049B235CCE5013ED25C6B8D3"
-				"download" "6EE9D7C2FFC1ACFB53ACDFE07F9A269D"
-			}
-			"gamesworkshop"
-			{
-				"gid" "E1B00A0A99FFD2750487FDBE22DABC53"
-				"size" "F57E146B84F123CF7AB8FEC1D9369F34"
-				"download" "31B8D6A6FA4384525AE0AE13A1219485"
-			}
-			"modding-opentest"
-			{
-				"gid" "0AF8A9F55461C795A2CE5874E690A7F8"
-				"size" "346095F3F62FF038D5D432101327C56F"
-				"download" "9811098E5A66017262B71D9ACDC989A4"
-			}
-			"owlcat-playtest"
-			{
-				"gid" "14792ECEBFD3F823480DFF20CF3CFBCF"
-				"size" "ED913E215D86639EE0BAFBCFCF988D5A"
-				"download" "E018E9B1FD1B64B8F0A064B848EF3CCC"
-			}
-			"owlcat-release-debug"
-			{
-				"gid" "61228BE1CC9FEE03EF6E86DC146E1BEF"
-				"size" "96F4C7CF6FF6133A6EFAFF432CBBB362"
-				"download" "F9CA2957293C80DA218311669DBDE842"
-			}
-			"owlcat_feature_debug"
-			{
-				"gid" "3EFE91E3C8F11F17EB43FA270AD9EE45"
-				"size" "474D9B34F9138CF80C46267E1E65670C"
-				"download" "220F947EDC60D6A3147ADAA46D0C5941"
-			}
-			"owlcat_feature_release"
-			{
-				"gid" "26313BC9AEAFF0C8AAADF9EA2F5A4C1A"
-				"size" "3649CFE3DC4124A0F77AAEBA97924DAA"
-				"download" "6EADFD6E76C846847A299A8233ACE849"
-			}
-			"previous-patch"
-			{
-				"gid" "1692B249BAF41FE4E3F2930C75FAF3D7"
-				"size" "0B75EA5C9EE3E22A3E902718BF7790E2"
-				"download" "FAD2469A83F3A3F3ECA827956564ED05"
-			}
-			"steamdeck-test"
-			{
-				"gid" "90A06B82A536DC754CA63F6083050145"
-				"size" "6F56476503DA1DE1595103D434D84122"
-				"download" "B8879489BAD46FDB4F31B1F30DA77BFF"
-			}
-		}
 	}
 	"2696650"
 	{
@@ -653,124 +362,11 @@
 	{
 		"public"
 		{
-			"buildid" "16691907"
-			"timeupdated" "1733824572"
-		}
-		"modding"
-		{
-			"buildid" "10754948"
-			"pwdrequired" "1"
-			"timeupdated" "1678702943"
-		}
-		"modding-beta"
-		{
-			"buildid" "11361830"
-			"pwdrequired" "1"
-			"timeupdated" "1685550890"
-		}
-		"owlcat-test"
-		{
-			"buildid" "13468757"
-			"pwdrequired" "1"
-			"timeupdated" "1708080154"
-		}
-		"test-deploy"
-		{
-			"buildid" "12888690"
-			"pwdrequired" "1"
-			"timeupdated" "1701857941"
-		}
-		"test-dlc"
-		{
-			"buildid" "12851761"
-			"pwdrequired" "1"
-			"timeupdated" "1701445764"
-		}
-		"dialogue-opentest"
-		{
-			"buildid" "14873106"
-			"pwdrequired" "1"
-			"timeupdated" "1719584090"
-		}
-		"dlc-debug"
-		{
-			"buildid" "16683827"
-			"pwdrequired" "1"
-			"timeupdated" "1733767602"
-		}
-		"dlc-release"
-		{
-			"buildid" "16683510"
-			"pwdrequired" "1"
-			"timeupdated" "1733765764"
-		}
-		"gamesworkshop"
-		{
-			"buildid" "15793755"
-			"pwdrequired" "1"
-			"timeupdated" "1727089400"
-		}
-		"media"
-		{
-			"buildid" "16696555"
-			"pwdrequired" "1"
-			"timeupdated" "1733848425"
-		}
-		"modding-opentest"
-		{
-			"buildid" "16659283"
-			"pwdrequired" "1"
-			"timeupdated" "1733503242"
-		}
-		"owlcat-egs-test"
-		{
-			"buildid" "15770579"
-			"pwdrequired" "1"
-			"timeupdated" "1726835493"
-		}
-		"owlcat-playtest"
-		{
-			"buildid" "14875132"
-			"pwdrequired" "1"
-			"timeupdated" "1719596793"
-		}
-		"owlcat-release-debug"
-		{
-			"buildid" "16696546"
-			"pwdrequired" "1"
-			"timeupdated" "1733848410"
-		}
-		"owlcat-release-test"
-		{
-			"buildid" "16678213"
-			"pwdrequired" "1"
-			"timeupdated" "1733735713"
-		}
-		"owlcat_feature_debug"
-		{
-			"buildid" "16693841"
-			"pwdrequired" "1"
-			"timeupdated" "1733834759"
-		}
-		"owlcat_feature_release"
-		{
-			"buildid" "16693370"
-			"pwdrequired" "1"
-			"timeupdated" "1733832339"
-		}
-		"previous-patch"
-		{
-			"buildid" "14869835"
-			"pwdrequired" "1"
-			"timeupdated" "1719566648"
-		}
-		"steamdeck-test"
-		{
-			"buildid" "14403184"
-			"pwdrequired" "1"
-			"timeupdated" "1715949085"
+			"buildid" "16771922"
+			"timeupdated" "1734432758"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -803,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26578683"
-"_sha" "42ac78d8f6d34139d3f1ea31dfd5de4d61bb7c9d"
-"_size" "17564"
+"_change_number" "26676307"
+"_sha" "ca11f55edbb6d48443e595e19e752a8602d3ea09"
+"_size" "6828"
