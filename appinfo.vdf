@@ -1,0 +1,380 @@
+"appid" "2103140"
+"common"
+{
+	"name" "Magicraft"
+	"type" "Game"
+	"icon" "d11359b9136bef5ea70d8878e0d296d6acc43dd0"
+	"clienticon" "3896a1f7da855b0c77f8aca7a030d81e298dcf46"
+	"clienttga" "1701a24f7c7e394bd4efcf9f9f9dc9b861c88d10"
+	"name_localized"
+	{
+		"english" "Magicraft"
+		"schinese" "魔法工艺 Magicraft"
+		"tchinese" "魔法工藝 Magicraft"
+		"koreana" "마법 공예 Magicraft"
+		"japanese" "マジッククラフト Magicraft"
+		"arabic" "حرفة سحرية Magicraft"
+		"czech" "kouzelnické řemeslo Magicraft"
+		"finnish" "taikuutta Magicraft"
+		"french" "artisanat magique Magicraft"
+		"german" "Zauberhandwerk Magicraft"
+		"hungarian" "varázsmesterség Magicraft"
+		"italian" "mestiere magico Magicraft"
+		"polish" "sztuki magiczne Magicraft"
+		"brazilian" "artesanato mágico Magicraft"
+		"russian" "магическое ремесло Magicraft"
+		"spanish" "artesanía mágica Magicraft"
+		"thai" "มายากล Magicraft"
+		"turkish" "sihirli zanaat Magicraft"
+		"sc_schinese" "魔法工艺"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1720051200"
+		"tested_build_id" "14383698"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"japanese" "a3b34c8c50a2c838f4b3aee6123b16d0ec54b53b/capsule_231x87_japanese.jpg"
+		"english" "fbfbf75e24feac033eae90cf5c49a281ed2329a4/capsule_231x87.jpg"
+		"tchinese" "ce011a7fabc466759e8333a5cf2da0a7bedcc176/capsule_231x87_tchinese.jpg"
+		"schinese" "c1b46f9a74421bb115471c1906a55794bce3e7c7/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,zh-tw,ja"
+		"library_hero" "zh-cn,en"
+		"library_hero_blur" "zh-cn,en"
+		"library_logo" "en,zh-cn,ja,zh-tw"
+		"library_header" "zh-cn,en,zh-tw,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.10611472691018"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "90c32370d889ff957e44244c119a6c876251b894/library_600x900_schinese.jpg"
+				"english" "175cc8351b6892910d5e8f630a37cf309807b849/library_600x900.jpg"
+				"tchinese" "732f6c5c690572dd8ac002ba10895f024654a351/library_600x900_tchinese.jpg"
+				"japanese" "4fa0cd296e02015150376ed924874b3af42dae37/library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "90c32370d889ff957e44244c119a6c876251b894/library_600x900_schinese_2x.jpg"
+				"english" "175cc8351b6892910d5e8f630a37cf309807b849/library_600x900_2x.jpg"
+				"tchinese" "732f6c5c690572dd8ac002ba10895f024654a351/library_600x900_tchinese_2x.jpg"
+				"japanese" "4fa0cd296e02015150376ed924874b3af42dae37/library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese_2x.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_blur_schinese.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.10611472691018"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "00a46238dbc36f9336e83f5b2acfeda1d44a0fcd/library_header_schinese.jpg"
+				"english" "31c5cc404966a1f51a58f7c0f1429463a7ac5ba0/library_header.jpg"
+				"tchinese" "2a8abb674a6ea47511a29ac603ac07249ace235f/library_header_tchinese.jpg"
+				"japanese" "c61ad956498e0f5d4f01a5fe0502fa7bacd98b71/library_header_japanese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "00a46238dbc36f9336e83f5b2acfeda1d44a0fcd/library_header_schinese_2x.jpg"
+				"english" "31c5cc404966a1f51a58f7c0f1429463a7ac5ba0/library_header_2x.jpg"
+				"tchinese" "2a8abb674a6ea47511a29ac603ac07249ace235f/library_header_tchinese_2x.jpg"
+				"japanese" "c61ad956498e0f5d4f01a5fe0502fa7bacd98b71/library_header_japanese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732009121"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wave Game"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "bilibili"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "bilibili"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730514660"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2103140"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3959"
+		"2" "4885"
+		"3" "353880"
+		"4" "17305"
+		"5" "1716"
+		"6" "454187"
+		"7" "122"
+		"8" "4791"
+		"9" "32322"
+		"10" "5125"
+		"11" "19"
+		"12" "7432"
+		"13" "4057"
+		"14" "1702"
+		"15" "21"
+		"16" "4182"
+		"17" "492"
+		"18" "4190"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Wave Game"
+	"publisher" "bilibili"
+	"homepage" "https://game.bilibili.com/magicraft/"
+}
+"config"
+{
+	"installdir" "Magicraft"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Magicraft.exe"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"2103141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8633774211465857403"
+				"size" "2430128251"
+				"download" "425761728"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16756190"
+			"timeupdated" "1734353709"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bolang/Magicraft"
+			"pattern" "*.Json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26660781"
+"_sha" "909fa9f1a6c8510e8cfadd2b51453248b668ccff"
+"_size" "8765"
