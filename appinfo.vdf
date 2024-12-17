@@ -1,0 +1,478 @@
+"appid" "1781890"
+"common"
+{
+	"name" "The Coma 2B: Catacomb"
+	"type" "Game"
+	"name_localized"
+	{
+		"koreana" "더 코마 2B: 카타콤"
+		"schinese" "昏迷 2B：地下墓穴"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "abe99c1eb1d82bbf4ebe4bf40741ff5188b84227"
+	"clienttga" "5f0d3e844ae5deacef2f9b559dcc8496365e050f"
+	"icon" "5b0662d86bb87292ea4d5992e93e393a106e3b28"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"turkish" "1"
+		"ukrainian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1729123200"
+		"tested_build_id" "16009958"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "73.30634595357274"
+			"height_pct" "97.22094127220942"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "73.30634595357274"
+				"height_pct" "97.22094127220942"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731662473"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dvora Studio Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Headup"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Nordic Stone Studio"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Headup"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729868058"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1781890"
+	"store_tags"
+	{
+		"0" "4342"
+		"1" "1667"
+		"2" "19"
+		"3" "21"
+		"4" "4182"
+		"5" "3978"
+		"6" "3871"
+		"7" "5716"
+		"8" "1742"
+		"9" "1662"
+		"10" "3799"
+		"11" "1664"
+		"12" "198631"
+		"13" "3834"
+		"14" "6815"
+		"15" "3854"
+		"16" "7432"
+		"17" "1721"
+		"18" "4085"
+		"19" "4667"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Dvora Studio Co., Ltd."
+	"publisher" "Headup"
+	"homepage" "https://www.dvorastudio.com/"
+	"listofdlc" "3267780,3267790,3267800,3267810"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "TheComa2B"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheComa2B.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Windows Version"
+			}
+			"description" "Windows Version"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,koreana"
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1781891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3736386165019858681"
+				"size" "3480165614"
+				"download" "1302857008"
+			}
+			"hardcore_mode"
+			{
+				"gid" "8948217115838616625"
+				"size" "3463031899"
+				"download" "1305719152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chromatest"
+			{
+				"gid" "184F3DE9177EAF98982CEB65AB962A14"
+				"size" "A0E699DA7C180523D0FCEE418748C3D0"
+				"download" "02DAA76C29491939ED947E092E3C555F"
+			}
+			"digitaldemo"
+			{
+				"gid" "6F15530F635F0201288FE8F6A30406DD"
+				"size" "B539BEC74DBA45CEC41436D7C50C9222"
+				"download" "B2691D1FD176E24D9F1330FB11ACA10C"
+			}
+			"dlcfix"
+			{
+				"gid" "5D4F3B9A673CD398D44FB39C19CCC96B"
+				"size" "E85A88FDEE67C925B1BCFD9D7ECC4CE8"
+				"download" "329051C994B38CF005B6FB65B999235A"
+			}
+			"hardcoremode_inhousetest"
+			{
+				"gid" "EED5BFEA9E2B8B041E680F12D1E3BC75"
+				"size" "9E1DFE1A388E0EB9EC082427B8BDA4FF"
+				"download" "A309EF7840D92F2F26F832208475B3B9"
+			}
+			"inhousesteamdecktest"
+			{
+				"gid" "D221BBCE3DA61F36844EB35FD4610581"
+				"size" "E0C213D74770D5CAFEAF9BD9805E82FE"
+				"download" "FC67260E07D419E15A7B3B52B203733E"
+			}
+			"inhousetest"
+			{
+				"gid" "91535EF2323B446E4C4425106370249B"
+				"size" "FEDDEF988C4DE1E79DBF9984CB70B207"
+				"download" "9B3A5200397E031E6F715026153C584F"
+			}
+			"jpntest"
+			{
+				"gid" "6A08581EEB5449459F1E27BAE2A716A8"
+				"size" "58FFC7B7EB0024F81423371EDE3CB230"
+				"download" "A44FC97EB7E87E8F6115549656714289"
+			}
+			"offlinedemo"
+			{
+				"gid" "75E88D1C78FDE91F1F7B08D1F68D56F6"
+				"size" "1DB613D9DB0D2DD5D1EDDE092BFBC0E3"
+				"download" "B72D8425F583DD8D69B8007CA158D037"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16732954"
+			"timeupdated" "1734352605"
+		}
+		"chromatest"
+		{
+			"buildid" "16640701"
+			"pwdrequired" "1"
+			"timeupdated" "1733389125"
+		}
+		"digitaldemo"
+		{
+			"buildid" "15283991"
+			"pwdrequired" "1"
+			"timeupdated" "1722993383"
+		}
+		"dlcfix"
+		{
+			"buildid" "16203727"
+			"pwdrequired" "1"
+			"timeupdated" "1730106898"
+		}
+		"hardcore_mode"
+		{
+			"buildid" "16248979"
+			"description" "Hardcore Mode"
+			"timeupdated" "1730707774"
+		}
+		"hardcoremode_inhousetest"
+		{
+			"buildid" "16248979"
+			"pwdrequired" "1"
+			"timeupdated" "1730530016"
+		}
+		"inhousesteamdecktest"
+		{
+			"buildid" "16009958"
+			"pwdrequired" "1"
+			"timeupdated" "1728653392"
+		}
+		"inhousetest"
+		{
+			"buildid" "16732954"
+			"pwdrequired" "1"
+			"timeupdated" "1734081670"
+		}
+		"jpntest"
+		{
+			"buildid" "16338379"
+			"pwdrequired" "1"
+			"timeupdated" "1731052256"
+		}
+		"offlinedemo"
+		{
+			"buildid" "15283991"
+			"pwdrequired" "1"
+			"timeupdated" "1722993397"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "3000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DvoraStudio/TheComa2B/"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26660566"
+"_sha" "bca2df1691454bf471cb76e25db9d41cc2ed1a3f"
+"_size" "8763"
