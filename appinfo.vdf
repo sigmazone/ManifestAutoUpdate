@@ -218,18 +218,18 @@
 	"store_tags"
 	{
 		"0" "4684"
-		"1" "3813"
-		"2" "4168"
+		"1" "4168"
+		"2" "3813"
 		"3" "1676"
-		"4" "5179"
-		"5" "9"
+		"4" "9"
+		"5" "5179"
 		"6" "1678"
 		"7" "1741"
 		"8" "13276"
 		"9" "3987"
 		"10" "1775"
-		"11" "599"
-		"12" "4175"
+		"11" "4175"
+		"12" "599"
 		"13" "1708"
 		"14" "7743"
 		"15" "1685"
@@ -245,7 +245,7 @@
 {
 	"developer" "Eugen Systems"
 	"publisher" "Eugen Systems"
-	"listofdlc" "2978610,2978620,2978630,2978640,2978650,2981540,3017370,3025400,3261230,3309840,3333270"
+	"listofdlc" "2978610,2978620,2978630,2978640,2978650,2981540,3017370,3025400,3261230,3309840,3333270,3363540"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -304,6 +304,12 @@
 		{
 			"public"
 			{
+				"gid" "2051638280315518852"
+				"size" "49483776476"
+				"download" "41203355360"
+			}
+			"compat_139445"
+			{
 				"gid" "2656822284020982446"
 				"size" "43219222168"
 				"download" "35736040880"
@@ -314,44 +320,38 @@
 				"size" "60549523998"
 				"download" "41003478832"
 			}
-			"compat_save_older_than_93194"
-			{
-				"gid" "1043691251633282674"
-				"size" "55595923320"
-				"download" "46318260512"
-			}
-			"compat_138477"
-			{
-				"gid" "130165893755872694"
-				"size" "41046933248"
-				"download" "34341962752"
-			}
 			"compat_save_older_than_122779"
 			{
 				"gid" "8928887078388739384"
 				"size" "74615941204"
 				"download" "47975284336"
 			}
+			"compat_save_older_than_93194"
+			{
+				"gid" "1043691251633282674"
+				"size" "55595923320"
+				"download" "46318260512"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"compat_vip"
 			{
-				"gid" "821E54341D4002847285726A923E7317"
-				"size" "494E1BE7761C91E9F70244F031158616"
-				"download" "53F1203468761337F2F7E630986A4F1C"
+				"gid" "524EB05671B8E3135AE35C9D1079295A"
+				"size" "480B5831BD08A6FF876F84DA1CF5A7ED"
+				"download" "78AE0C4FC702DB4E8CE18BB3B7EA4F2F"
 			}
 			"full_vip"
 			{
-				"gid" "E0793A3B16AD0976483C06060086F343"
-				"size" "2272F259A73A1F1ADF64F72FF6958F96"
-				"download" "AE0DEA09C7E611D67078D03CDFAEC311"
+				"gid" "AFD4B062D9DD0BEDF9B0DE1B5CA07CBF"
+				"size" "7119903E7FA34025FA10CB66BEF52DDE"
+				"download" "57317CB12DEB9D915720BE52D6960214"
 			}
 			"qa_test"
 			{
-				"gid" "C0D518DF2A3A4905049630688E522831"
-				"size" "F6ED17CA231C5232664D2E42FEC5DEE4"
-				"download" "C3275D9DCDFC65389681043D5E4E5951"
+				"gid" "784C7324150B816B3C5CCA147A0F83D2"
+				"size" "F5742C6306D7819D3D0247C8CB2EEAC0"
+				"download" "55A69479A12EF814DF9E5CD98175E468"
 			}
 		}
 	}
@@ -359,50 +359,50 @@
 	{
 		"public"
 		{
+			"buildid" "16759867"
+			"timeupdated" "1734423084"
+		}
+		"compat_139445"
+		{
 			"buildid" "16548882"
-			"timeupdated" "1732698363"
+			"description" "Compatibility for mods based on version 139445, compatibility for saves and replays prior to or equal to 139445"
+			"timeupdated" "1734423521"
 		}
 		"compat_save_older_than_110364"
 		{
 			"buildid" "12789556"
-			"description" "Compatibility for replays older than version 110364"
+			"description" "(Old)"
 			"timeupdated" "1704960352"
-		}
-		"compat_save_older_than_93194"
-		{
-			"buildid" "10839866"
-			"description" "Compatibility for saves and replays older than version 93194"
-			"timeupdated" "1679588606"
-		}
-		"compat_138477"
-		{
-			"buildid" "16444100"
-			"description" "Compatibility for mods based on version 138477, compatibility for saves and replays prior to or equal to 138477"
-			"timeupdated" "1732529539"
 		}
 		"compat_save_older_than_122779"
 		{
 			"buildid" "13893485"
-			"description" "Compatibility for saves and replays older than version 122779"
+			"description" "(Old)"
 			"timeupdated" "1716448147"
+		}
+		"compat_save_older_than_93194"
+		{
+			"buildid" "10839866"
+			"description" "(Old)"
+			"timeupdated" "1679588606"
 		}
 		"compat_vip"
 		{
-			"buildid" "16469102"
+			"buildid" "16759867"
 			"pwdrequired" "1"
-			"timeupdated" "1732292034"
+			"timeupdated" "1734423408"
 		}
 		"full_vip"
 		{
-			"buildid" "16548882"
+			"buildid" "16759867"
 			"pwdrequired" "1"
-			"timeupdated" "1732698457"
+			"timeupdated" "1734361277"
 		}
 		"qa_test"
 		{
-			"buildid" "16548882"
+			"buildid" "16759867"
 			"pwdrequired" "1"
-			"timeupdated" "1732692830"
+			"timeupdated" "1734358425"
 		}
 	}
 }
@@ -412,6 +412,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26382175"
-"_sha" "92cf949aa13508ff0b59063bf871cee63c5ee315"
-"_size" "8159"
+"_change_number" "26674027"
+"_sha" "c5be5c34d9a87eb9452980997e58a279e7d1315b"
+"_size" "8011"
