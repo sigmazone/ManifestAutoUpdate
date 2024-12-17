@@ -29,8 +29,8 @@
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomCenter"
-			"width_pct" "72.40373395565928"
+			"pinned_position" "CenterCenter"
+			"width_pct" "32.08877332573806"
 			"height_pct" "100"
 		}
 	}
@@ -58,21 +58,21 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "5f2b76a136e58e2e2293d6a0d7d5c6bde2ea580c/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "5f2b76a136e58e2e2293d6a0d7d5c6bde2ea580c/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomCenter"
-				"width_pct" "72.40373395565928"
+				"pinned_position" "CenterCenter"
+				"width_pct" "32.08877332573806"
 				"height_pct" "100"
 			}
 		}
 	}
-	"store_asset_mtime" "1595112241"
+	"store_asset_mtime" "1734373604"
 	"associations"
 	{
 		"0"
@@ -134,6 +134,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1520013018"
 	"community_visible_stats" "1"
@@ -163,15 +168,13 @@
 		"19" "7481"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
 	"developer" "TERNOX"
 	"publisher" "TERNOX"
 	"homepage" "http://ternoxgames.com/"
-	"listofdlc" "495640"
-	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -235,19 +238,17 @@
 		{
 			"public"
 			{
-				"gid" "8745991297219107710"
-				"size" "153718787"
-				"download" "135550720"
+				"gid" "4911745264855809321"
+				"size" "121232402"
+				"download" "110015312"
 			}
 		}
 	}
 	"495640"
 	{
-		"dlcappid" "495640"
 	}
 	"495641"
 	{
-		"dlcappid" "495640"
 		"manifests"
 		{
 			"public"
@@ -258,12 +259,24 @@
 			}
 		}
 	}
+	"491012"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8595625913789715977"
+				"size" "30168602"
+				"download" "23276016"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13692719"
-			"timeupdated" "1710029003"
+			"buildid" "16761820"
+			"timeupdated" "1734369065"
 		}
 	}
 }
@@ -300,6 +313,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25561782"
-"_sha" "deb7bd6f6efa0dee5c3cede8540a8f99e80af280"
-"_size" "4727"
+"_change_number" "26665998"
+"_sha" "9da14557c6d9c643998dca27a92580e6a53a61ce"
+"_size" "4934"
