@@ -185,24 +185,24 @@
 	"store_tags"
 	{
 		"0" "122"
-		"1" "19"
-		"2" "21"
-		"3" "4231"
+		"1" "4231"
+		"2" "19"
+		"3" "21"
 		"4" "4726"
-		"5" "5395"
-		"6" "4191"
-		"7" "4747"
+		"5" "4747"
+		"6" "5395"
+		"7" "4191"
 		"8" "4252"
 		"9" "1684"
 		"10" "6691"
-		"11" "4166"
-		"12" "1710"
+		"11" "12095"
+		"12" "4166"
 		"13" "3993"
-		"14" "6730"
+		"14" "1710"
 		"15" "3859"
-		"16" "12095"
-		"17" "1775"
-		"18" "4182"
+		"16" "6730"
+		"17" "4182"
+		"18" "1775"
 		"19" "493"
 	}
 	"review_score" "9"
@@ -241,18 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "6396467756222567553"
-				"size" "298960791"
-				"download" "128216592"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"unstable"
-			{
-				"gid" "F06463BC92836BADE4AD3449CB5616BA"
-				"size" "F2C9900D679A1EE4DDCDCFA37EFA4320"
-				"download" "6A1031FAE5A06F2B666BB95832D51D1B"
+				"gid" "675454897029148140"
+				"size" "299186367"
+				"download" "128264160"
 			}
 		}
 	}
@@ -260,18 +251,28 @@
 	{
 		"public"
 		{
-			"buildid" "16639476"
-			"timeupdated" "1733380776"
+			"buildid" "16767561"
+			"timeupdated" "1734402025"
 		}
-		"unstable"
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "35"
+	"savefiles"
+	{
+		"0"
 		{
-			"buildid" "16639028"
-			"pwdrequired" "1"
-			"timeupdated" "1733377611"
+			"root" "gameinstall"
+			"path" "ATLYSS_Data/profileCollections/"
+			"pattern" "*"
+			"recursive" "1"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26502406"
-"_sha" "9bfdc3e3a12bc417a1181bdd369c256282bbaec7"
-"_size" "4756"
+"_change_number" "26670744"
+"_sha" "cc3c17a23933150854b33f658ee77ef4bf44c7dc"
+"_size" "4676"
