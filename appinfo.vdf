@@ -107,7 +107,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729772202"
+	"store_asset_mtime" "1734451025"
 	"associations"
 	{
 		"0"
@@ -124,6 +124,11 @@
 		{
 			"type" "franchise"
 			"name" "Citadelum"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Top Indie Developers"
 		}
 	}
 	"primary_genre" "28"
@@ -222,6 +227,8 @@
 	"developer" "Abylight Barcelona"
 	"publisher" "Abylight Studios"
 	"homepage" "https://abylight.com/es/juego/citadelum/"
+	"listofdlc" "3358500"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -268,18 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "4507408347449857615"
-				"size" "6273645551"
-				"download" "2016967072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "7178EABB2D40C90E0CB2950FB6952455"
-				"size" "CECE178B2871A69B93993557FC618E71"
-				"download" "5ACD584ACBE79AD4DC63E5CA1E66F64C"
+				"gid" "8340371719809113761"
+				"size" "6365021143"
+				"download" "2056405872"
 			}
 		}
 	}
@@ -288,16 +286,11 @@
 	{
 		"public"
 		{
-			"buildid" "16404805"
-			"timeupdated" "1731670668"
-		}
-		"development"
-		{
-			"buildid" "16404805"
-			"pwdrequired" "1"
-			"timeupdated" "1731582473"
+			"buildid" "16692841"
+			"timeupdated" "1734446869"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -318,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26210872"
-"_sha" "10c31bc6ec0fc37e262a9331bf0eabe956f9d8ae"
-"_size" "5595"
+"_change_number" "26680611"
+"_sha" "e8d045eb8ea17f23ea0ac65b1e17252eec90484a"
+"_size" "5431"
