@@ -42,6 +42,55 @@
 			"version" "5"
 		}
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1733443200"
+		"tested_build_id" "16586134"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -574,108 +623,9 @@
 		{
 			"public"
 			{
-				"gid" "4302814983714276454"
-				"size" "48093730448"
-				"download" "44774881376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"branch-dev"
-			{
-				"gid" "676247B65DE742DB070461BBCFC17691"
-				"size" "409D2BDDDE5671A2C8EB2CB34C25CEB1"
-				"download" "DFF19D176BB1B9A092A1E73CB2164223"
-			}
-			"branch-dev-qa1"
-			{
-				"gid" "944A49A46E43AFE03DE7B579C88547A3"
-				"size" "551CF4E74D0A119BB7AE86AB61C4BFB0"
-				"download" "CA562329A9131631037A303F3A49269E"
-			}
-			"branch-rel-qa1"
-			{
-				"gid" "F4B2C5B937E570B0842B8529E1A0FAD7"
-				"size" "882074E4E83226E652C87D27226B03F9"
-				"download" "221EC0AF0CB38065871DDC0E318D900B"
-			}
-			"dev-qa1"
-			{
-				"gid" "AC35FDE0D25CA66C70459C68C42677B4"
-				"size" "BDA558DF27FB024776DBD9195AA3237E"
-				"download" "4C439F293970DF171B6B01DF438EBA62"
-			}
-			"rel-qa1"
-			{
-				"gid" "95A2D0483A81B8541D81DA596DBEF93B"
-				"size" "CA09A759FE1E8C1C1259FCE042746D09"
-				"download" "EFB65C0AF8D44759572F7FBA80D98AF6"
-			}
-			"branch-dev-gamedo"
-			{
-				"gid" "8CD6AE7583848E1C911240C7AF8E307E"
-				"size" "7ECB922E44014FB4224FDA976BAD1AEC"
-				"download" "FCCAB0E0942F889533BAF30FD66C4807"
-			}
-			"branch-release"
-			{
-				"gid" "43AB9134EB3FBA39B6918919266E3841"
-				"size" "EB4AC2F029F309E1E46B788AD70AECE5"
-				"download" "29635190FEB52A6863E4BC77C6C60AAE"
-			}
-			"dev-gamedo"
-			{
-				"gid" "E6F5109DA8C667C1CAC3079BCA7901DE"
-				"size" "93E0F383EEB90820900C9F617D3CA232"
-				"download" "F57C44BD262D92859FDB0468F75F9D0E"
-			}
-			"develop"
-			{
-				"gid" "7C1CE083C2F4616255E23ED17C772984"
-				"size" "3F34BFD4980B20DE925FD7D429230278"
-				"download" "9741A8CF8DC78793026349383F817C0C"
-			}
-			"develop-without-log"
-			{
-				"gid" "48DCAEAE22938FEBDDB6276B5CBDDD88"
-				"size" "F4CE42DB2517FB4D3A20E8ED9C966757"
-				"download" "BE7AD3960E97D4084CD84454A82703F9"
-			}
-			"empty"
-			{
-				"gid" "92CCDE674AF81F76B3917E6C1B607120"
-				"size" "EF2006CE7528779282DB7538BFB150B6"
-				"download" "EF2006CE7528779282DB7538BFB150B6"
-			}
-			"program1"
-			{
-				"gid" "58284ECBD499F023A1B33BEE23C83E18"
-				"size" "74045B4DFBACDB20A0CCCC1AB2456A50"
-				"download" "6B96B67429300E0312181666BAA4333C"
-			}
-			"release"
-			{
-				"gid" "2E604F0ABEE1BAB57703707F81D6F1B3"
-				"size" "ABB849E9DA1F164F8A7BFBA64B5F2E0B"
-				"download" "80055CCC626E2AD0D480D829ADAF43F9"
-			}
-			"temporary"
-			{
-				"gid" "575CE6FF0EC125FF84C797E7DE5539A8"
-				"size" "1DBB0D4DC6EE4010320ABEF6F01AF2F7"
-				"download" "C08FDC6A914562F3385BECF3C92FE83C"
-			}
-			"staging_dev"
-			{
-				"gid" "5A612032F1074024193E82BEDF135F0B"
-				"size" "DFB8A9403C123FFF7AC307385C0D89B2"
-				"download" "03C65B479497A1C2372EB3C215276794"
-			}
-			"staging"
-			{
-				"gid" "999A7B0A775A7840983525FFF4D8C288"
-				"size" "9BA5597F2E75EE964B03EF7A2C759C2F"
-				"download" "5221CD979D8440DE7C679D8DE536C485"
+				"gid" "8032793372502381565"
+				"size" "48096292671"
+				"download" "44777007280"
 			}
 		}
 	}
@@ -687,106 +637,11 @@
 	{
 		"public"
 		{
-			"buildid" "16586134"
-			"timeupdated" "1732975469"
-		}
-		"branch-dev"
-		{
-			"buildid" "16579841"
-			"pwdrequired" "1"
-			"timeupdated" "1732889204"
-		}
-		"branch-dev-qa1"
-		{
-			"buildid" "16579841"
-			"pwdrequired" "1"
-			"timeupdated" "1732889203"
-		}
-		"branch-rel-qa1"
-		{
-			"buildid" "16580609"
-			"pwdrequired" "1"
-			"timeupdated" "1732893018"
-		}
-		"dev-qa1"
-		{
-			"buildid" "16589004"
-			"pwdrequired" "1"
-			"timeupdated" "1732990714"
-		}
-		"rel-qa1"
-		{
-			"buildid" "16589271"
-			"pwdrequired" "1"
-			"timeupdated" "1732994463"
-		}
-		"branch-dev-gamedo"
-		{
-			"buildid" "16579841"
-			"pwdrequired" "1"
-			"timeupdated" "1732889205"
-		}
-		"branch-release"
-		{
-			"buildid" "16580609"
-			"pwdrequired" "1"
-			"timeupdated" "1732893019"
-		}
-		"dev-gamedo"
-		{
-			"buildid" "16589004"
-			"pwdrequired" "1"
-			"timeupdated" "1732990713"
-		}
-		"develop"
-		{
-			"buildid" "16589004"
-			"pwdrequired" "1"
-			"timeupdated" "1732990712"
-		}
-		"develop-without-log"
-		{
-			"buildid" "16589118"
-			"pwdrequired" "1"
-			"timeupdated" "1732992572"
-		}
-		"empty"
-		{
-			"buildid" "11312160"
-			"pwdrequired" "1"
-			"timeupdated" "1685625045"
-		}
-		"program1"
-		{
-			"buildid" "13364294"
-			"pwdrequired" "1"
-			"timeupdated" "1713529896"
-		}
-		"release"
-		{
-			"buildid" "16589271"
-			"pwdrequired" "1"
-			"timeupdated" "1732994462"
-		}
-		"temporary"
-		{
-			"buildid" "16577648"
-			"pwdrequired" "1"
-			"timeupdated" "1732878188"
-		}
-		"staging_dev"
-		{
-			"buildid" "16586250"
-			"pwdrequired" "1"
-			"timeupdated" "1732975048"
-		}
-		"staging"
-		{
-			"buildid" "16586134"
-			"pwdrequired" "1"
-			"timeupdated" "1732947359"
+			"buildid" "16718917"
+			"timeupdated" "1734484046"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -794,6 +649,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26436971"
-"_sha" "832ba02538b0dfab40eb5edd8f622dd269648c2a"
-"_size" "19660"
+"_change_number" "26686886"
+"_sha" "416bfa49743e6c875aeb98e67f9f0d38255d4653"
+"_size" "16348"
