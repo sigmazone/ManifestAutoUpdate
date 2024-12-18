@@ -25,11 +25,6 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
-	"content_descriptors"
-	{
-		"0" "2"
-		"1" "5"
-	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -76,7 +71,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "05f72b6bdc82141fd207e96bb4e6209ec401abb7/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -86,6 +81,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -95,7 +91,59 @@
 			"height_pct" "39.42307673685648"
 		}
 	}
-	"store_asset_mtime" "1717707694"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "4957d09ba96ae75345680128fc1a96d2df9cb7f6/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "4957d09ba96ae75345680128fc1a96d2df9cb7f6/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "a36ca65aadbe40b5801a62474ac1541185622797/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "a36ca65aadbe40b5801a62474ac1541185622797/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "a36ca65aadbe40b5801a62474ac1541185622797/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.980834105345075"
+				"height_pct" "39.42307673685648"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "9a776bbef003b07fdb33e74547857eb1b5837bae/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733768335"
 	"associations"
 	{
 		"0"
@@ -180,14 +228,14 @@
 		"4" "4182"
 		"5" "19"
 		"6" "1663"
-		"7" "4345"
-		"8" "6691"
-		"9" "3839"
-		"10" "4975"
-		"11" "4191"
-		"12" "9541"
-		"13" "7208"
-		"14" "4057"
+		"7" "6691"
+		"8" "3839"
+		"9" "4975"
+		"10" "4191"
+		"11" "9541"
+		"12" "7208"
+		"13" "4057"
+		"14" "4345"
 		"15" "7481"
 		"16" "5765"
 		"17" "5547"
@@ -233,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "5695755171632722669"
-				"size" "9758242412"
-				"download" "2530940928"
+				"gid" "6570237376719685562"
+				"size" "10161202307"
+				"download" "4063285712"
 			}
 			"chapter2_wargression"
 			{
@@ -246,23 +294,41 @@
 		}
 		"encryptedmanifests"
 		{
+			"chapter_3_playtest"
+			{
+				"gid" "E44550B589F345CBB3EE85A55527EC55"
+				"size" "22C1BCCB6227D6D94EDFA5711379DD35"
+				"download" "0E24DD43C93741CB5A4A51DFBED1B28D"
+			}
 			"devqa"
 			{
-				"gid" "0259CF51E82F41404F77E846E0A8061A"
-				"size" "4645AEB28B0FE4B690CC1F9BA6F71521"
-				"download" "BE14F10C92631F42B6FB38A0C1364DE8"
+				"gid" "9D40D8BBD0A1755816165AA28079BCDC"
+				"size" "629BEB3EF586F250EC645C85F2BAF216"
+				"download" "43164DD814D873FFBFC7C17358DABB7E"
+			}
+			"ng_plus"
+			{
+				"gid" "9D621C4F82A702FC07A15E7E0ADE3E15"
+				"size" "B8BF6E764E09F42AB65C244BA22283A9"
+				"download" "66BD8C91F35B28661A1E7CC55499ACE1"
 			}
 			"production"
 			{
-				"gid" "C6F14F95C28F96EF5FE1F95D69549DCF"
-				"size" "8B8E24B7B04FF964DC0D08C432D3D9DC"
-				"download" "CFEF1053B80759BE31372707F8E43DAE"
+				"gid" "CD5CB35897F0655E7B5F1F2CEDE33FF4"
+				"size" "0D83BBBE0A0D023E855AA4D4CEC29F26"
+				"download" "A726C7444D99D1B487D4584C7586B96E"
+			}
+			"pw2_test_nov_2024"
+			{
+				"gid" "F064CC8502D0B0FD4DE97C7B00A1D84D"
+				"size" "D25C811379CE128413D979304159EA6D"
+				"download" "A1AB269B7004EC8829FCCE6021BB83C7"
 			}
 			"system_rework"
 			{
-				"gid" "703468F79BFBC8B55E5B1C182EF475C9"
-				"size" "AD3AB314438C9A1C89C4C19AE360D314"
-				"download" "878DEDA2B9C2FCBFF95996E87258DE5B"
+				"gid" "8CE6E8E3AEFF80F660784B805BB7AFFD"
+				"size" "E70F953B2A89F7CA9C73D6ABAFA3551B"
+				"download" "453AF3599F8870D7BF3569E88F4A3712"
 			}
 		}
 	}
@@ -284,8 +350,14 @@
 	{
 		"public"
 		{
-			"buildid" "14907027"
-			"timeupdated" "1720115215"
+			"buildid" "16474788"
+			"timeupdated" "1732125820"
+		}
+		"chapter_3_playtest"
+		{
+			"buildid" "16424928"
+			"pwdrequired" "1"
+			"timeupdated" "1731700148"
 		}
 		"chapter2_wargression"
 		{
@@ -295,21 +367,33 @@
 		}
 		"devqa"
 		{
-			"buildid" "14907027"
+			"buildid" "16404161"
 			"pwdrequired" "1"
-			"timeupdated" "1719929928"
+			"timeupdated" "1731584208"
+		}
+		"ng_plus"
+		{
+			"buildid" "16712101"
+			"pwdrequired" "1"
+			"timeupdated" "1733946832"
 		}
 		"production"
 		{
-			"buildid" "14907027"
+			"buildid" "16722884"
 			"pwdrequired" "1"
-			"timeupdated" "1719926606"
+			"timeupdated" "1734015545"
+		}
+		"pw2_test_nov_2024"
+		{
+			"buildid" "16518803"
+			"pwdrequired" "1"
+			"timeupdated" "1732494974"
 		}
 		"system_rework"
 		{
-			"buildid" "14929330"
+			"buildid" "16519079"
 			"pwdrequired" "1"
-			"timeupdated" "1720084540"
+			"timeupdated" "1732498083"
 		}
 	}
 }
@@ -332,39 +416,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"polish"
-		{
-			"tokens"
-			{
-				"#mainmenu" "W Menu Głównym"
-				"#level_e1_m1" "W trakcie E1M1 - Zamek Palmera"
-				"#level_e1_m2" "W trakcie E1M2 - Stara Wioska"
-				"#level_e1_m3" "W trakcie E1M3 - Starożytne Ruiny"
-				"#level_e1_m4" "W trakcie E1M4 - Podziemny Komplex"
-				"#level_e1_m5" "W trakcie E1M5 - Zamek Nekromanty"
-				"#level_e1_m6" "W trakcie E1M6 - Wilcza Nora"
-			}
-		}
-		"english"
-		{
-			"tokens"
-			{
-				"#mainmenu" "At Main Menu"
-				"#level_e1_m1" "Playing E1M1 - Palmer\'s Castle"
-				"#level_e1_m2" "Playing E1M2 - Old Village"
-				"#level_e1_m3" "Playing E1M3 - The Ancient Ruins"
-				"#level_e1_m4" "Playing E1M4 - The Underground Complex"
-				"#level_e1_m5" "Playing E1M5 - Necromancer\'s Castle"
-				"#level_e1_m6" "Playing E1M6 - The Wolf\'s Den"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24240500"
-"_sha" "e197b40292d9d6ddd2ba5ae6ee728240150035e0"
-"_size" "6926"
+"_change_number" "26612999"
+"_sha" "158d62285d9c2a69c85dff2e490ded9ed194225a"
+"_size" "7939"
