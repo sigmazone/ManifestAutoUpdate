@@ -1,0 +1,391 @@
+"appid" "573090"
+"common"
+{
+	"name" "Stormworks: Build and Rescue"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "88940a6acba10eb20c7d0b481814aeae9ecb1ad7"
+	"logo_small" "88940a6acba10eb20c7d0b481814aeae9ecb1ad7_thumb"
+	"clienticon" "67fa8bf9b3b1a81c3db10071a38a28314d991a71"
+	"clienttga" "834ef971e259b0e303992ed4652c624be72514f5"
+	"icon" "debf65da510a0a555c36da4f69c73f603e28b37b"
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "573090_eula_0"
+			"name" "Stormworks: Build and Rescue EULA"
+			"url" "https://store.steampowered.com//eula/573090_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7664618"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Stormworks: Build and Rescue"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "65.09477980114576"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "65.09477980114576"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732200671"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Geometa"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Geometa"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1600358492"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "573090"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "7332"
+		"2" "1695"
+		"3" "9204"
+		"4" "1643"
+		"5" "255534"
+		"6" "15045"
+		"7" "1775"
+		"8" "5432"
+		"9" "3968"
+		"10" "3834"
+		"11" "13577"
+		"12" "12057"
+		"13" "1662"
+		"14" "1616"
+		"15" "1100689"
+		"16" "6910"
+		"17" "3839"
+		"18" "1697"
+		"19" "4747"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"gamedir" "Stormworks"
+	"serverbrowsername" "Stormworks"
+	"developer" "Geometa"
+	"publisher" "Geometa"
+	"homepage" "https://geometa.co.uk/stormworks"
+	"gamemanualurl" "https://store.steampowered.com/manual/573090/"
+	"listofdlc" "1542360,2124750,2383250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Stormworks"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "stormworks.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "stormworks.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "stormworks64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "stormworks64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229020"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"workshopdepot" "573090"
+	"573091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2823640189357473367"
+				"size" "2257487092"
+				"download" "391105728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"major-testing"
+			{
+				"gid" "3460A4B32BF9603F4E4790B83991B2BC"
+				"size" "2084BBB1BD1529BCE33475A50404592E"
+				"download" "9472F911BA9E244088AB2B15DCF9742D"
+			}
+			"minor-testing"
+			{
+				"gid" "191F901877381BEBDC3B386AD3EB3AA8"
+				"size" "F2AF7C327383419BC4864B833FD6C28D"
+				"download" "D50DEE0218AF5FD96DE046EEBA44158F"
+			}
+		}
+	}
+	"573092"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2535800106099452610"
+				"size" "1323945460"
+				"download" "278851696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"major-testing"
+			{
+				"gid" "BC2FC90B1FF096081FACF3E36A51E343"
+				"size" "6749FB227D7BB6E36C6726E795F111FA"
+				"download" "85E2FF995104CD8B2A91AE516B7F86EC"
+			}
+			"minor-testing"
+			{
+				"gid" "3AF37A6F4BC3838D2F42A0F3B4590531"
+				"size" "FA200B6F7181FD07287589F16C9E7082"
+				"download" "75C822EAA78AF0B1994833FEF4C18DFB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16719700"
+			"timeupdated" "1734540673"
+		}
+		"major-testing"
+		{
+			"buildid" "16680443"
+			"pwdrequired" "1"
+			"timeupdated" "1734510498"
+		}
+		"minor-testing"
+		{
+			"buildid" "16786664"
+			"pwdrequired" "1"
+			"timeupdated" "1734524754"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1024"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26698912"
+"_sha" "7c8e700d4080b9410c98857a62850339570dc10a"
+"_size" "7010"
