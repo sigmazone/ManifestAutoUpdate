@@ -1,0 +1,829 @@
+"appid" "2344520"
+"common"
+{
+	"name" "Diablo® IV"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"exfgls" "1"
+	"clienticon" "8c5e04162b8710e58d21ea31bfecc0ad1a3f9196"
+	"clienttga" "a2c01d688938714bbd586ca4650bb3984891354b"
+	"icon" "15d3e861875701ec9b01f9d9b606c7c8379e6115"
+	"name_localized"
+	{
+		"french" "Diablo® IV"
+		"german" "Diablo® IV"
+		"italian" "Diablo® IV"
+		"polish" "Diablo® IV"
+		"russian" "Diablo® IV"
+		"spanish" "Diablo® IV"
+		"turkish" "Diablo® IV"
+		"portuguese" "Diablo® IV"
+		"latam" "Diablo® IV"
+		"japanese" "ディアブロ IV"
+		"koreana" "디아블로® IV"
+		"tchinese" "《暗黑破壞神® IV》"
+		"schinese" "《暗黑破坏神® IV》"
+		"brazilian" "Diablo® IV"
+		"thai" "Diablo® IV"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2344520_eula_0"
+			"name" "Diablo® IV EULA"
+			"url" "https://store.steampowered.com//eula/2344520_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697068800"
+		"tested_build_id" "12370081"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ru,zh-tw,zh-cn,tr,pl,ko"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-tw"
+		"library_header" "en,ja,ru,tr,zh-cn,pl,pt-br,ko,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.78623125491805"
+			"height_pct" "57.985533171849106"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "edafafc31f5bc5b83d263f11b5f5c6db76136e76/library_600x900.jpg"
+				"japanese" "2d6ddac9dad11ff3fc4f1952b8838f02ee3c40f3/library_600x900_japanese.jpg"
+				"russian" "4dfdfc08170f57d5ad7a7eb0d18f5cce87714488/library_600x900_russian.jpg"
+				"tchinese" "c151c9c8407c9d3f30ace464d06528cf49dff64a/library_600x900_tchinese.jpg"
+				"schinese" "9a0852a3d52dba2fd0a6c7e3669ec45894c10b56/library_600x900_schinese.jpg"
+				"turkish" "4e89c8c13451863b8c2656bfb485f8b3fd61cfb5/library_600x900_turkish.jpg"
+				"polish" "ddf435656506185149ea543902452aece6a26aee/library_600x900_polish.jpg"
+				"koreana" "21616724bded48c80c1a98495a2b4a1091ba9efb/library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "edafafc31f5bc5b83d263f11b5f5c6db76136e76/library_600x900_2x.jpg"
+				"japanese" "2d6ddac9dad11ff3fc4f1952b8838f02ee3c40f3/library_600x900_japanese_2x.jpg"
+				"russian" "4dfdfc08170f57d5ad7a7eb0d18f5cce87714488/library_600x900_russian_2x.jpg"
+				"tchinese" "c151c9c8407c9d3f30ace464d06528cf49dff64a/library_600x900_tchinese_2x.jpg"
+				"schinese" "9a0852a3d52dba2fd0a6c7e3669ec45894c10b56/library_600x900_schinese_2x.jpg"
+				"turkish" "4e89c8c13451863b8c2656bfb485f8b3fd61cfb5/library_600x900_turkish_2x.jpg"
+				"polish" "ddf435656506185149ea543902452aece6a26aee/library_600x900_polish_2x.jpg"
+				"koreana" "21616724bded48c80c1a98495a2b4a1091ba9efb/library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "a6dd55393c251111ee4b6b8900d97cc8a2b34aea/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "a6dd55393c251111ee4b6b8900d97cc8a2b34aea/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "a6dd55393c251111ee4b6b8900d97cc8a2b34aea/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.78623125491805"
+				"height_pct" "57.985533171849106"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8b94181580f3b38248568ec725978292d608fb51/library_header.jpg"
+				"japanese" "2734446df7f023e7607a71ea830eaf114b942c58/library_header_japanese.jpg"
+				"russian" "c6d6b0f2052dc2dd9cb88f0b1d8ed3c81f536355/library_header_russian.jpg"
+				"turkish" "d89b4345e7a008e02bf7db8ef2bbbb473673bb3b/library_header_turkish.jpg"
+				"schinese" "48e82ef8093484b1ddec48337971d1f5dd243247/library_header_schinese.jpg"
+				"polish" "6f86cd8a862ea80d31851ae5435b8d206502c4b1/library_header_polish.jpg"
+				"brazilian" "cb0685ac4317271bd0083d6716877519ecc122e7/library_header_brazilian.jpg"
+				"koreana" "70263b24f206fead4a2839f0ac388dcaae1d67bc/library_header_koreana.jpg"
+				"tchinese" "0c21e98e727b01adb6663ee4d1d753c7b1040f3d/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "8b94181580f3b38248568ec725978292d608fb51/library_header_2x.jpg"
+				"japanese" "2734446df7f023e7607a71ea830eaf114b942c58/library_header_japanese_2x.jpg"
+				"russian" "c6d6b0f2052dc2dd9cb88f0b1d8ed3c81f536355/library_header_russian_2x.jpg"
+				"turkish" "d89b4345e7a008e02bf7db8ef2bbbb473673bb3b/library_header_turkish_2x.jpg"
+				"schinese" "48e82ef8093484b1ddec48337971d1f5dd243247/library_header_schinese_2x.jpg"
+				"polish" "6f86cd8a862ea80d31851ae5435b8d206502c4b1/library_header_polish_2x.jpg"
+				"brazilian" "cb0685ac4317271bd0083d6716877519ecc122e7/library_header_brazilian_2x.jpg"
+				"koreana" "70263b24f206fead4a2839f0ac388dcaae1d67bc/library_header_koreana_2x.jpg"
+				"tchinese" "0c21e98e727b01adb6663ee4d1d753c7b1040f3d/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728494107"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blizzard Entertainment, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " Blizzard Entertainment, Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Diablo"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_55" "1"
+		"category_28" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697568600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2344520"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "1646"
+		"2" "4236"
+		"3" "5851"
+		"4" "122"
+		"5" "3843"
+		"6" "4182"
+		"7" "1685"
+		"8" "1720"
+		"9" "3859"
+		"10" "19"
+		"11" "1697"
+		"12" "1684"
+		"13" "6730"
+		"14" "4604"
+		"15" "1742"
+		"16" "4345"
+		"17" "1698"
+		"18" "4667"
+		"19" "3834"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Blizzard Entertainment, Inc."
+	"publisher" " Blizzard Entertainment, Inc."
+	"homepage" "https://diablo4.blizzard.com/"
+	"listofdlc" "2453170,2453190,2572010,2572020,2572030,2575620,2575630,2575640,2721550,2721560,2721570,2941030,2941050,2941060,3043530,3184520"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Diablo IV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Diablo IV.exe"
+			"arguments" "-cedar -launch"
+		}
+		"2"
+		{
+			"executable" "game.exe"
+			"arguments" "-cedar -launch"
+			"config"
+			{
+				"betakey" "beta2"
+			}
+		}
+		"3"
+		{
+			"executable" "game_ra.exe"
+			"arguments" "-cedar"
+			"config"
+			{
+				"betakey" "beta2"
+			}
+			"description_loc"
+			{
+				"english" "RA"
+			}
+			"description" "RA"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam"
+	"2344521"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1049819858019545102"
+				"size" "68562807072"
+				"download" "67405322592"
+			}
+			"local"
+			{
+				"gid" "3094797185448071747"
+				"size" "70133729345"
+				"download" "69010826960"
+			}
+		}
+	}
+	"2344522"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3215180851982095254"
+				"size" "313301579"
+				"download" "158919808"
+			}
+			"local"
+			{
+				"gid" "7862448680180680049"
+				"size" "595834763"
+				"download" "267301440"
+			}
+		}
+	}
+	"2344523"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2033019948905216889"
+				"size" "1468118101"
+				"download" "1408685392"
+			}
+			"local"
+			{
+				"gid" "1084619435789912766"
+				"size" "1489716082"
+				"download" "1426758704"
+			}
+		}
+	}
+	"2344524"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "870006389135035978"
+				"size" "1858997606"
+				"download" "1798756496"
+			}
+			"local"
+			{
+				"gid" "4385240087514332585"
+				"size" "1874740660"
+				"download" "1813504064"
+			}
+		}
+	}
+	"2344525"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7165579513085044633"
+				"size" "1931384019"
+				"download" "1859820112"
+			}
+			"local"
+			{
+				"gid" "5110791826304618751"
+				"size" "1948839191"
+				"download" "1876914400"
+			}
+		}
+	}
+	"2344526"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7637137356806840600"
+				"size" "1731553038"
+				"download" "1673140240"
+			}
+			"local"
+			{
+				"gid" "6402056507319944253"
+				"size" "1747248412"
+				"download" "1688420432"
+			}
+		}
+	}
+	"2344527"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1964645904334743108"
+				"size" "1838673175"
+				"download" "1769175344"
+			}
+			"local"
+			{
+				"gid" "6969738564183256495"
+				"size" "1855694919"
+				"download" "1785630208"
+			}
+		}
+	}
+	"2344528"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5356649520976185156"
+				"size" "1767258187"
+				"download" "1704772848"
+			}
+			"local"
+			{
+				"gid" "4863949974493680853"
+				"size" "1783204946"
+				"download" "1719760832"
+			}
+		}
+	}
+	"2344529"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5027542131633612525"
+				"size" "2146163883"
+				"download" "1927268752"
+			}
+			"local"
+			{
+				"gid" "3453843003724006946"
+				"size" "2163499959"
+				"download" "1943541280"
+			}
+		}
+	}
+	"2452970"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3225185940230500249"
+				"size" "1832098497"
+				"download" "1771317088"
+			}
+			"local"
+			{
+				"gid" "7278374360004952853"
+				"size" "1848292718"
+				"download" "1787031472"
+			}
+		}
+	}
+	"2452971"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "28835875339076969"
+				"size" "1879100239"
+				"download" "1818545616"
+			}
+			"local"
+			{
+				"gid" "8084802256735143704"
+				"size" "1896283936"
+				"download" "1835371216"
+			}
+		}
+	}
+	"2452972"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6162993491519717241"
+				"size" "1726569777"
+				"download" "1666702992"
+			}
+			"local"
+			{
+				"gid" "1012102399644630829"
+				"size" "1741800925"
+				"download" "1680745008"
+			}
+		}
+	}
+	"2452973"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2347247233125772314"
+				"size" "1863897295"
+				"download" "1792398032"
+			}
+			"local"
+			{
+				"gid" "6190150272232893684"
+				"size" "1879893054"
+				"download" "1807271088"
+			}
+		}
+	}
+	"2452974"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3364912933809737411"
+				"size" "1468118101"
+				"download" "1408685392"
+			}
+			"local"
+			{
+				"gid" "5284274469394716281"
+				"size" "1489716082"
+				"download" "1426758704"
+			}
+		}
+	}
+	"2452975"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "283927307141903508"
+				"size" "1701501463"
+				"download" "1625747856"
+			}
+			"local"
+			{
+				"gid" "6649242550050264336"
+				"size" "1716082870"
+				"download" "1638802256"
+			}
+		}
+	}
+	"2452976"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6209045573717391075"
+				"size" "1703277420"
+				"download" "1640870064"
+			}
+			"local"
+			{
+				"gid" "8057335157689324805"
+				"size" "1716779191"
+				"download" "1653969264"
+			}
+		}
+	}
+	"2453170"
+	{
+		"dlcappid" "2453170"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2603657170379420944"
+				"size" "57601347373"
+				"download" "57653455024"
+			}
+			"local"
+			{
+				"gid" "4390866120928674940"
+				"size" "59192699358"
+				"download" "59249036912"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16544805"
+			"timeupdated" "1733421597"
+		}
+		"local"
+		{
+			"buildid" "16138792"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1729612620"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26584428"
+"_sha" "a77d7c44f6e58724a72d213c3ae58dba734ede18"
+"_size" "16619"
