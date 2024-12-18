@@ -7,9 +7,9 @@
 	"clienttga" "f45cf66aed6cf08e4b1edb316da6ca59712cf8b2"
 	"clienticns" "87a3428e53cfa3ee4e492b68ae654614aa60cfbc"
 	"icon" "61da157d6d34530aa26fccbba0701522f1fdcb1d"
-	"oslist" "windows,linux"
+	"oslist" "windows,macos,linux"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"releasestate" "released"
 	"name_localized"
 	{
@@ -43,6 +43,50 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1732752000"
+		"tested_build_id" "16463509"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -178,6 +222,7 @@
 		"category_41" "1"
 		"category_42" "1"
 		"category_43" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -320,6 +365,15 @@
 				"oslist" "linux"
 			}
 		}
+		"2"
+		{
+			"executable" "Forbidden-Fantasy.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollerconfigdetails"
@@ -360,26 +414,13 @@
 {
 	"2638561"
 	{
-		"config"
-		{
-			"oslist" "windows,linux"
-		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5886588929464215326"
-				"size" "14487862255"
-				"download" "14022815872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop"
-			{
-				"gid" "AD0D25AEB72B7DED02C9C34D20E951BB"
-				"size" "3FE5D56842B1B3645E5934EC66165876"
-				"download" "9855D5A09AF6AAB56526228E2C70A0EB"
+				"gid" "2420798311855937723"
+				"size" "14560271976"
+				"download" "14075789936"
 			}
 		}
 	}
@@ -390,57 +431,9 @@
 		{
 			"public"
 			{
-				"gid" "6146445590420051209"
-				"size" "566849063"
-				"download" "360893280"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop"
-			{
-				"gid" "023A0B8E77FB071ECCCAA63843BAA7C3"
-				"size" "55F154C195E3EC1C708B7981DDF717B8"
-				"download" "EC14A15D634D4A697D086E786C15C1A3"
-			}
-		}
-	}
-	"2638562"
-	{
-		"config"
-		{
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-		}
-		"encryptedmanifests"
-		{
-			"develop"
-			{
-				"gid" "FD2E6C4B15AA7CDE0841263934C47C83"
-				"size" "CC9AB2259CD1ACAE2C5496E8DF571840"
-				"download" "4867731B2A8EFE5362DF8A26948CA796"
-			}
-		}
-	}
-	"3292861"
-	{
-		"dlcappid" "3292860"
-		"config"
-		{
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-		}
-		"encryptedmanifests"
-		{
-			"develop"
-			{
-				"gid" "AEB48D8E17DE4A96596366152CF560F1"
-				"size" "4231B2B7B4F1AD2ED23ACBFACADB00A4"
-				"download" "4539E729B24C21C4F42F646EA1FA85D4"
+				"gid" "8543938203558702980"
+				"size" "567087101"
+				"download" "361135216"
 			}
 		}
 	}
@@ -448,16 +441,11 @@
 	{
 		"public"
 		{
-			"buildid" "16582417"
-			"timeupdated" "1732907473"
-		}
-		"develop"
-		{
-			"buildid" "16584413"
-			"pwdrequired" "1"
-			"timeupdated" "1732922646"
+			"buildid" "16787835"
+			"timeupdated" "1734531478"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -507,6 +495,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26429954"
-"_sha" "46f0091cc62485a61aba76df4cc69746de5c2726"
-"_size" "9666"
+"_change_number" "26696635"
+"_sha" "00755f6f20150c078dd67c4e056c00dc326be6f3"
+"_size" "9792"
