@@ -1,0 +1,759 @@
+"appid" "2252570"
+"common"
+{
+	"name" "Football Manager 2024"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"greek" "1"
+	}
+	"logo" "71d1e6362381855578830315c52bb84bb65d438a"
+	"logo_small" "71d1e6362381855578830315c52bb84bb65d438a_thumb"
+	"clienticon" "1622e91509748c1130e024e093fddb116cec3ead"
+	"clienttga" "feaf5cc2fbe848840a7253c3ce024193a9e026f4"
+	"icon" "c9d24946c681929ab1d3e27da1fb14bc487ae9c6"
+	"clienticns" "ecca8b1e24c67bd702d8774ad7dda359e8d676b7"
+	"oslist" "windows,macos"
+	"releasestate" "released"
+	"linuxclienticon" "55d1e782b749dac680a08c4589fa920efc2f4d7e"
+	"type" "Game"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2252570_eula_1"
+			"name" "Football Manager 2024 EULA"
+			"url" "https://store.steampowered.com//eula/2252570_eula_1"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1702339200"
+		"tested_build_id" "12782059"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1702976768"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sports Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SEGA"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699286335"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2252570"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "701"
+		"2" "9"
+		"3" "12472"
+		"4" "1254546"
+		"5" "3859"
+		"6" "4695"
+		"7" "5055"
+		"8" "3813"
+		"9" "4182"
+		"10" "4191"
+		"11" "31275"
+		"12" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Sports Interactive"
+	"publisher" "SEGA"
+	"homepage" "https://www.footballmanager.com/"
+	"listofdlc" "2473420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Football Manager 2024"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "fm.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "fm.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3054563523"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,turkish,greek"
+	"2252571"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5589525811326891733"
+				"size" "5147335222"
+				"download" "4572325024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"3p-test"
+			{
+				"gid" "A7A9B841613D163175B11E708621F9FF"
+				"size" "A676980177259D61EE5D7A21BDCA5C4D"
+				"download" "FACE7491B69157FDFA9A9CB94251524C"
+			}
+			"3p-test2"
+			{
+				"gid" "1D9921C673FE373D8481DA3D20BA3E99"
+				"size" "F13D08B41807448A392175B416E1F64F"
+				"download" "C7F59DB088CD7964DC648A0D037F3513"
+			}
+			"celeb-build_backup"
+			{
+				"gid" "D27C5A9F2AF9C3BD8F6DC543FDB3E1E8"
+				"size" "582B1E12C25158EFC5C33F6CFD505F58"
+				"download" "8F2204CE04EB57B1AFD8B61777C9E7F9"
+			}
+			"day0"
+			{
+				"gid" "D1177E6D0FFE19BF92AB2AEF1BF4644C"
+				"size" "365F2C99779DBD6DAAB679F2059DD8A7"
+				"download" "412D52CE4971FE9EDB8F6BEEA012933F"
+			}
+			"early_access_bu"
+			{
+				"gid" "89B1E91899FB78A84C6FF79BE53F0CE0"
+				"size" "846C19EB56FEEFC1D666AB317EC5AFE8"
+				"download" "6F6EE9BB6D7420403A3624111DDC63DE"
+			}
+			"lqa-test"
+			{
+				"gid" "BB1A19B8CB2AA3C5D2E8E09DBD811FE0"
+				"size" "A7C115EC407D63164496244854C97473"
+				"download" "45971BC3E723554B0C1C6158DC82C0A5"
+			}
+			"mu1_bu"
+			{
+				"gid" "031A4DD154F399E6F96731F1D0444963"
+				"size" "C65882A9FF4901AADB66FCCCA7C53CAA"
+				"download" "444CBA6855DEE34A9D339644E8699B42"
+			}
+			"private_beta"
+			{
+				"gid" "F5326A1BC21A4DFD67D6396F6EE3DE46"
+				"size" "7B13863F491B9C2BE791E9D2352828B3"
+				"download" "6E03DC07E18F74B01FCB7D06D5D7E973"
+			}
+			"release-test"
+			{
+				"gid" "8288E1CF6022894C85240B1D21EF4EB2"
+				"size" "4035DBD6C366D321A1F0405D151644E5"
+				"download" "943DB90D14E9B1AB38A78BAD0BB476FD"
+			}
+			"sega-test"
+			{
+				"gid" "B32F00641690C4191722B15B5C125502"
+				"size" "55B2242AFAB62F255066E0805079831E"
+				"download" "C05BC13FDF14C1AAEBE3A5F6E56C3CF2"
+			}
+			"si-weekend"
+			{
+				"gid" "293620885DCF9B30EBE07E219E245C81"
+				"size" "27BA9F842FECA42F2CCB606B806234DD"
+				"download" "C59ABF4EACA0F63024E093F7F6435E85"
+			}
+			"nightly"
+			{
+				"gid" "D149798483432139C8138BDB5E59A2FC"
+				"size" "AC87D8E4E2E89114E3004985CEC6F1CE"
+				"download" "0C03C33EC31030A760B54744C92AAD2A"
+			}
+			"si-bvt"
+			{
+				"gid" "BE082493E77A7F9A648AFB9F1EE4F6DF"
+				"size" "F5ECFD46E4063E85868AA05542A60BD3"
+				"download" "103FB30C3B6D48AD6E292F9595DC8A4A"
+			}
+			"si-test"
+			{
+				"gid" "CFA2E8892A3F5778A534227FC3A964BA"
+				"size" "03EE243CD2E4C98C16BB1B35C85D161D"
+				"download" "F9C3186A904AC992953AA2FE6A9E67E1"
+			}
+		}
+	}
+	"2252572"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2520387396210855964"
+				"size" "546022381"
+				"download" "293139984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"3p-test"
+			{
+				"gid" "14BE509EB2B3FE4E6976F01EFAAA5289"
+				"size" "AC6E54B81961605FA25B555C92C4EA63"
+				"download" "F3887F83BC9C3581B438C9E5792304A6"
+			}
+			"3p-test2"
+			{
+				"gid" "7F6F93B17CC2502B1224D1CF44E5F521"
+				"size" "95AAA0CC46567199E18864B333900040"
+				"download" "1168D087AC70451B39BD6567257F8644"
+			}
+			"celeb-build_backup"
+			{
+				"gid" "F67F284F582FF3408404BFDC37F2584F"
+				"size" "AB59C3AF67B4A4DA4F6B41932C1EF8FD"
+				"download" "6B6B146802517858561B400200675360"
+			}
+			"day0"
+			{
+				"gid" "F2B53CED2B63C6018CA41215B753C090"
+				"size" "F8352A23DAC9F4D61797987B341FB5C0"
+				"download" "4A8E8AB237073DC8C5B85FAFC556718F"
+			}
+			"early_access_bu"
+			{
+				"gid" "3996B2005EEE19E9CAA0D1F71DD56201"
+				"size" "DCEBE0563A70057F5BA55D5C05360091"
+				"download" "A925AA5734C42FAC05C46C9850407F2A"
+			}
+			"lqa-test"
+			{
+				"gid" "E4B5685908ED760953B92232C67C4CCF"
+				"size" "84D07D0C6D344A7E7D4D5F5DD0AC536E"
+				"download" "89D3D942480EBD03CCE69A2B38050FF8"
+			}
+			"mu1_bu"
+			{
+				"gid" "2986BB67D6334E6FFC70AC4E55B17CFC"
+				"size" "31E68B2862E747CBC9ED08CADCF9D71E"
+				"download" "ADEECACE7913DAD5D1E251A856EBD18E"
+			}
+			"private_beta"
+			{
+				"gid" "DE492E2EDBF61AEEC1747406CDC82234"
+				"size" "243E1E90EF1AFD34434454A49CF6F69C"
+				"download" "88BFEB994F9E27B0B80641143F3A2DC2"
+			}
+			"release-test"
+			{
+				"gid" "B644625076EB11E356A97089AB46E810"
+				"size" "DBF5F8D9DF4DD1C6D6C6DB70BC4265A7"
+				"download" "F3ECDB9510BADC0370DC6AF75C1F3AD7"
+			}
+			"sega-test"
+			{
+				"gid" "F9D9E6A8C6AD0E3D8502AC3D23C84870"
+				"size" "E22EAB7D6D3398F95B6646DBAC926258"
+				"download" "0B7B32664C2A853D7F6920268267E187"
+			}
+			"si-weekend"
+			{
+				"gid" "A0D0CD96AE4C9FF0CAEA1E3177B3DCD3"
+				"size" "1810FB41040195B23AE017EC862E9B94"
+				"download" "53FCAA46F62AC01285A6F2524DB3ED93"
+			}
+			"nightly"
+			{
+				"gid" "606660103D731D14936423706C4563CE"
+				"size" "3E98A6FC3EFBE2FAE65E2686D6B99FA8"
+				"download" "F34A1C0DBD5D027DF74DB5BF2A81299A"
+			}
+			"si-bvt"
+			{
+				"gid" "F1C608E1DF60A25E324646402BA2675E"
+				"size" "B6C555296706ED26802A2346A1FDA65D"
+				"download" "594816EE06075AFE2BAB11839059388B"
+			}
+			"si-test"
+			{
+				"gid" "2917900F7AAFB9EA0872F5F5D1F398CE"
+				"size" "327A005619BCEF1B8CD73257D9693FDB"
+				"download" "012F601D7E7042BE33CAC9F1DB32A755"
+			}
+		}
+	}
+	"2252573"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1550728886821722996"
+				"size" "249859968"
+				"download" "78613120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"3p-test"
+			{
+				"gid" "CD63623013169CE5AAB025EEE0B4E466"
+				"size" "5CA541A135FC73AC80EBDA7A4B043DCB"
+				"download" "BAB9C431BED813A2C9A7404A00994145"
+			}
+			"3p-test2"
+			{
+				"gid" "C043DE6C27B9723DDA9FB0CCBD3E8B1F"
+				"size" "C548075A414EA87E77C074963BA449DF"
+				"download" "A85A610344CE4598F6B28FB13E3C4BE2"
+			}
+			"celeb-build_backup"
+			{
+				"gid" "C3CD445D050FD0C015F87A8FAD9AF2F2"
+				"size" "D77A83C64952D4246DC83937408EC375"
+				"download" "F0F68C11E6E10D45FA4C43EF94E9B1E4"
+			}
+			"day0"
+			{
+				"gid" "F7C5B28E015CA466F04DC91113097602"
+				"size" "DFB62AF30D6CA38E9DBE0217E2ACE35A"
+				"download" "BFA916F920A453296674E0A941A1E5ED"
+			}
+			"early_access_bu"
+			{
+				"gid" "53D5BA3B31BCEFD7269AD6020CC79997"
+				"size" "776D887435AD14D48F4B5215BC416C6B"
+				"download" "69721B9DA20126E76507A9AB3FB473F5"
+			}
+			"lqa-test"
+			{
+				"gid" "637E0118D191245F7747CC207A94F232"
+				"size" "01D1FA0F1A771B012E43E73B105D2594"
+				"download" "68C29E089ACDA02EF8A99056E39DD45A"
+			}
+			"mu1_bu"
+			{
+				"gid" "1A9AF6C78670DBC9C4C3D2CF13EA7A7F"
+				"size" "B5AFBB87875E9CC29EA40B641E134FCC"
+				"download" "3DBA896817847D3AE7708862C7DA289C"
+			}
+			"private_beta"
+			{
+				"gid" "A1E1BCEF39F7276117FC58C3529FD206"
+				"size" "6644EBE9384AFD0D1F233233AFF91830"
+				"download" "04B52601BB486EFFC699C25B7B999C7B"
+			}
+			"release-test"
+			{
+				"gid" "EA106AFFF90C126C6EC91AD80E18EABF"
+				"size" "1FE75A39004AA001C934EE07A32FA52B"
+				"download" "8AA430FDA749AE037619AAE5CB1EF276"
+			}
+			"sega-test"
+			{
+				"gid" "D7388DE7435F7948B1E928DD66CC2D1D"
+				"size" "9AF7ABA5B73E8AB0DBD6BC8A1939E12C"
+				"download" "ED8BF6C66AFDB9C268254AD44741895C"
+			}
+			"si-weekend"
+			{
+				"gid" "2AEABDC5D49828CB55EE18636B4490DA"
+				"size" "2760C63C53EB09241C36A6B2EF118D78"
+				"download" "CD34CF5568873B87BA2ADF1B10F4F67D"
+			}
+			"nightly"
+			{
+				"gid" "205383FFFCB803E6C0F67803196EDFB8"
+				"size" "24BC2C7FFB16A2BC6675379D30BE14FA"
+				"download" "854846DBE1B7B096326BE0B2FD2D0C51"
+			}
+			"si-bvt"
+			{
+				"gid" "109A960FC17092FDB616AB91F7716905"
+				"size" "BEEB5EEAD85B4AAB8A64A146FF847773"
+				"download" "9B6DE4B6CC092AE1650412706E87836D"
+			}
+			"si-test"
+			{
+				"gid" "0DE84774648AEBAC56496D05C8F3E9CE"
+				"size" "E06ECD3F9D64DD51D2B000DD51A1E45F"
+				"download" "F50E8F5D07650A289FB5A35F5855E2C6"
+			}
+		}
+	}
+	"workshopdepot" "2252570"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16602578"
+			"timeupdated" "1733328048"
+		}
+		"3p-test"
+		{
+			"buildid" "12685323"
+			"pwdrequired" "1"
+			"timeupdated" "1699868646"
+		}
+		"3p-test2"
+		{
+			"buildid" "12685323"
+			"pwdrequired" "1"
+			"timeupdated" "1699868665"
+		}
+		"celeb-build_backup"
+		{
+			"buildid" "12379153"
+			"pwdrequired" "1"
+			"timeupdated" "1697012713"
+		}
+		"day0"
+		{
+			"buildid" "12496500"
+			"pwdrequired" "1"
+			"timeupdated" "1698422249"
+		}
+		"early_access_bu"
+		{
+			"buildid" "12472916"
+			"pwdrequired" "1"
+			"timeupdated" "1699278557"
+		}
+		"lqa-test"
+		{
+			"buildid" "13395851"
+			"pwdrequired" "1"
+			"timeupdated" "1707333825"
+		}
+		"mu1_bu"
+		{
+			"buildid" "12652511"
+			"pwdrequired" "1"
+			"timeupdated" "1699886377"
+		}
+		"private_beta"
+		{
+			"buildid" "14010992"
+			"pwdrequired" "1"
+			"timeupdated" "1712764677"
+		}
+		"release-test"
+		{
+			"buildid" "13943938"
+			"pwdrequired" "1"
+			"timeupdated" "1712196645"
+		}
+		"sega-test"
+		{
+			"buildid" "13789586"
+			"pwdrequired" "1"
+			"timeupdated" "1710877021"
+		}
+		"si-weekend"
+		{
+			"buildid" "12367244"
+			"pwdrequired" "1"
+			"timeupdated" "1696530539"
+		}
+		"nightly"
+		{
+			"buildid" "16348116"
+			"pwdrequired" "1"
+			"timeupdated" "1731108050"
+		}
+		"si-bvt"
+		{
+			"buildid" "16602578"
+			"pwdrequired" "1"
+			"timeupdated" "1733154059"
+		}
+		"si-test"
+		{
+			"buildid" "16179772"
+			"pwdrequired" "1"
+			"timeupdated" "1731668038"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Sports Interactive/Football Manager 2024/cloud/games"
+			"pattern" "*.fm"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Sports Interactive/Football Manager 2024/cloud"
+			"pattern" "*.fmf"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26491416"
+"_sha" "5aecd88e570c56c846d9080ad651b6f9f2ee032a"
+"_size" "15957"
