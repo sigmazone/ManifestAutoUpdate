@@ -1,0 +1,678 @@
+"appid" "1442430"
+"common"
+{
+	"name" "Storage Hunter"
+	"type" "Game"
+	"logo" "9208ef015863ed857ec8a897346f0e4d52c832ce"
+	"logo_small" "9208ef015863ed857ec8a897346f0e4d52c832ce_thumb"
+	"icon" "2f423fd712f6f10b40ddfb853be40fd31a684fb7"
+	"clienticon" "21b21eebc07a596531c9d0d9ef73a791ca6ff6d8"
+	"clienttga" "9d1870624dba01f22698be9b7d4d4293cefb43e7"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1729900800"
+		"tested_build_id" "16151088"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "0acf389f715002243cb26df2a35d278e46ea5a77/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.623588249678562"
+			"height_pct" "60.235929820241466"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "2dde0e5ccda2459e02c7096c497e3c33a49fac04/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "2dde0e5ccda2459e02c7096c497e3c33a49fac04/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "a1e6f630ba4536631e02a0b72b189d817b35d51a/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "a1e6f630ba4536631e02a0b72b189d817b35d51a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "a1e6f630ba4536631e02a0b72b189d817b35d51a/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.623588249678562"
+				"height_pct" "60.235929820241466"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "89f7c74de06e0751bbb3bc6c5beaea6dd3f49e6b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "89f7c74de06e0751bbb3bc6c5beaea6dd3f49e6b/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734432366"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Raccoons Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BeardedBrothers.Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Raccoons Studio"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "BBG Simulators"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728575749"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1442430/discussions/0/4690027546080349715/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1442430"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "12472"
+		"2" "4695"
+		"3" "9204"
+		"4" "4182"
+		"5" "4202"
+		"6" "4236"
+		"7" "3839"
+		"8" "1654"
+		"9" "8945"
+		"10" "1644"
+		"11" "4845"
+		"12" "4191"
+		"13" "3810"
+		"14" "4175"
+		"15" "13190"
+		"16" "597"
+		"17" "1662"
+		"18" "6276"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Raccoons Studio"
+	"publisher" "BeardedBrothers.Games"
+}
+"config"
+{
+	"installdir" "Storage Hunter"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StorageHunter.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "StorageHunter\\Binaries\\Win64\\StorageHunter-Win64-Shipping.exe"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Settings for Steam Deck"
+				"german" "Einstellungen für Steam Deck"
+				"french" "Paramètres pour Steam Deck"
+				"italian" "Impostazioni per Steam Deck"
+				"koreana" "Steam Deck 설정"
+				"spanish" "Configuración para Steam Deck"
+				"schinese" "Steam Deck 设置"
+				"tchinese" "Steam Deck 設定"
+				"russian" "Настройки для Steam Deck"
+				"thai" "การตั้งค่าสำหรับ Steam Deck"
+				"japanese" "Steam Deck の設定"
+				"portuguese" "Definições para Steam Deck"
+				"polish" "Ustawienia Steam Deck"
+				"danish" "Indstillinger for Steam Deck"
+				"dutch" "Instellingen voor Steam Deck"
+				"finnish" "Asetukset Steam Deck"
+				"norwegian" "Innstillinger for Steam Deck"
+				"swedish" "Inställningar för Steam Deck"
+				"hungarian" "Beállítások a Steam Deck számára"
+				"czech" "Nastavení pro Steam Deck"
+				"romanian" "Setări pentru Steam Deck"
+				"turkish" "Steam Deck için Ayarlar"
+				"brazilian" "Configurações para Steam Deck"
+				"bulgarian" "Настройки за Steam Deck"
+				"greek" "Ρυθμίσεις για το Steam Deck"
+				"ukrainian" "Налаштування для Steam Deck"
+				"latam" "Configuración para Steam Deck"
+				"vietnamese" "Cài đặt cho Steam Deck"
+				"indonesian" "Pengaturan untuk Steam Deck"
+			}
+			"description" "Settings for Steam Deck"
+		}
+		"2"
+		{
+			"executable" "StorageHunter.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 11"
+				"german" "DirectX 11"
+				"french" "DirectX 11"
+				"italian" "DirectX 11"
+				"koreana" "DirectX 11"
+				"spanish" "DirectX 11"
+				"schinese" "DirectX 11"
+				"tchinese" "DirectX 11"
+				"russian" "DirectX 11"
+				"thai" "DirectX 11"
+				"japanese" "DirectX 11"
+				"portuguese" "DirectX 11"
+				"polish" "DirectX 11"
+				"danish" "DirectX 11"
+				"dutch" "DirectX 11"
+				"finnish" "DirectX 11"
+				"norwegian" "DirectX 11"
+				"swedish" "DirectX 11"
+				"hungarian" "DirectX 11"
+				"czech" "DirectX 11"
+				"romanian" "DirectX 11"
+				"turkish" "DirectX 11"
+				"brazilian" "DirectX 11"
+				"bulgarian" "DirectX 11"
+				"greek" "DirectX 11"
+				"ukrainian" "DirectX 11"
+				"latam" "DirectX 11"
+				"vietnamese" "DirectX 11"
+				"indonesian" "DirectX 11"
+			}
+			"description" "DirectX 11"
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1442431"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2282540844040022099"
+				"size" "12790483317"
+				"download" "10241594928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"presentation"
+			{
+				"gid" "B54274CF8B57D99C5CBDDB25784EFBA8"
+				"size" "CA32078536D11A18EE43CF0E7A7300DF"
+				"download" "2B56C214EF9D8D9B0D52CB976F72DDD3"
+			}
+			"backtracking_builds"
+			{
+				"gid" "7E47B8DF1707ADD364FA332E75C0F88A"
+				"size" "08EEB382B5956906431B5F839EA2743F"
+				"download" "F20BA24F9A2F7FF53092027956382D0A"
+			}
+			"darek_branch"
+			{
+				"gid" "0C8FFE6AA5A279CBA42D31138DAC870A"
+				"size" "807755E172FA0BECC096350B1B82A858"
+				"download" "05B0BE291097CBCD7D96B21B07F82A38"
+			}
+			"marketing"
+			{
+				"gid" "7030A4B8E2D7B59D08C70B9D5C43295F"
+				"size" "1F6ACADC0C49A4244B3E4D74F6D1CDE8"
+				"download" "9CA6578013A7757524FED42A4629712B"
+			}
+			"old-build"
+			{
+				"gid" "F8B21215BD2BC5FCEBD486FEACA85E49"
+				"size" "1A768505F4E2BA6405CD5EA8B8CAA861"
+				"download" "E4D4E52776E24F22110DC0074E12E8EA"
+			}
+			"openbeta"
+			{
+				"gid" "95574986F503661E357BB9395D9DE2B8"
+				"size" "17705131609FCE6FE04761E6465BB375"
+				"download" "9E16429093B2A01D2E92187AA7F59F66"
+			}
+			"performance_test"
+			{
+				"gid" "86296DC65E8C47C76ACC5D53784BFA7F"
+				"size" "FEEFD97CFC96591C041188CE68293216"
+				"download" "BFADA013A514ADFC4C9FCD9EFCCB4FBB"
+			}
+			"rc-build"
+			{
+				"gid" "A823C1EC7F2D80FCCE1BEEEF9EFC5183"
+				"size" "C04128D97A97B066274ED558E34A6C59"
+				"download" "65296E162E74A4D865D775E6540F6436"
+			}
+			"reales-build-10-10"
+			{
+				"gid" "CBDC71D54F456BC2F68B7A0B5FF97E54"
+				"size" "34A469F2F98DFCCF8DC3A1DC6FDB0ECF"
+				"download" "1F87B97A59D59FB54F629CE630A6E53C"
+			}
+			"unstable"
+			{
+				"gid" "89E4EB2DBDE7552128E1EE039D77251E"
+				"size" "922B1B084F8E8DC40F859DFD531E639E"
+				"download" "4CF425ED3FAC029794AD33333088F238"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16785582"
+			"timeupdated" "1734528378"
+		}
+		"presentation"
+		{
+			"buildid" "13771012"
+			"pwdrequired" "1"
+			"timeupdated" "1710760276"
+		}
+		"backtracking_builds"
+		{
+			"buildid" "16733139"
+			"pwdrequired" "1"
+			"timeupdated" "1734082633"
+		}
+		"darek_branch"
+		{
+			"buildid" "16407661"
+			"pwdrequired" "1"
+			"timeupdated" "1731659670"
+		}
+		"marketing"
+		{
+			"buildid" "16221204"
+			"pwdrequired" "1"
+			"timeupdated" "1730206480"
+		}
+		"old-build"
+		{
+			"buildid" "6950871"
+			"pwdrequired" "1"
+			"timeupdated" "1713962272"
+		}
+		"openbeta"
+		{
+			"buildid" "16760832"
+			"pwdrequired" "1"
+			"timeupdated" "1734381979"
+		}
+		"performance_test"
+		{
+			"buildid" "15340835"
+			"pwdrequired" "1"
+			"timeupdated" "1723548132"
+		}
+		"rc-build"
+		{
+			"buildid" "16760832"
+			"pwdrequired" "1"
+			"timeupdated" "1734364133"
+		}
+		"reales-build-10-10"
+		{
+			"buildid" "15952429"
+			"pwdrequired" "1"
+			"timeupdated" "1731063770"
+		}
+		"unstable"
+		{
+			"buildid" "16785582"
+			"pwdrequired" "1"
+			"timeupdated" "1734519129"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "536870912"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "Slot*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "GameInstanceSave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "EnhancedInputUserSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "Slot*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"4"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "GameInstanceSave.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"5"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "EnhancedInputUserSettings.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"6"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StorageHunter/Saved/SaveGames"
+			"pattern" "AvailableOutfitsSave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"7"
+		{
+			"root" "LinuxHome"
+			"path" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+			"pattern" "AvailableOutfitsSave.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "home/deck/.local/share/Steam/steamapps/compatdata/1442430/pfx/drive_c/users/steamuser/AppData/Local/StorageHunter/Saved/SaveGames"
+					"replace" "StorageHunter/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26695618"
+"_sha" "f51833bee32b2e28d20736bff7402c4c97b359af"
+"_size" "14247"
