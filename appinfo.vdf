@@ -1,0 +1,799 @@
+"appid" "1809540"
+"common"
+{
+	"name" "Nine Sols"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"icon" "9ba25f8e1b636ee56cc37196eb6fbcc13defac8e"
+	"clienticon" "880883c0b681c02a9236ef29b7fac6bc2a5b91f7"
+	"clienttga" "07ddadc5189eae6b345fbb5d1b2237d41e50f372"
+	"logo" "fa62460b1afeb4665af401a460ca6170dc909d19"
+	"logo_small" "fa62460b1afeb4665af401a460ca6170dc909d19_thumb"
+	"clienticns" "1b888c0d096e2dea1dc8f4406de4637f07266ae2"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Nine Sols"
+		"tchinese" "九日"
+		"schinese" "九日"
+		"japanese" "九日ナインソール"
+		"koreana" "나인 솔즈"
+	}
+	"linuxclienticon" "5465a017708927ecbd3ad5a203084740a6f65f5c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1718236800"
+		"tested_build_id" "14643189"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.7629407351838"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.7629407351838"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724676846"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RedCandleGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RedCandleGames"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716965604"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1809540"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "19"
+		"2" "29482"
+		"3" "4026"
+		"4" "1625"
+		"5" "3871"
+		"6" "6815"
+		"7" "21"
+		"8" "4166"
+		"9" "17894"
+		"10" "4604"
+		"11" "1742"
+		"12" "3942"
+		"13" "4345"
+		"14" "16094"
+		"15" "492"
+		"16" "4182"
+		"17" "6915"
+		"18" "4106"
+		"19" "1751"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "RedCandleGames"
+	"publisher" "RedCandleGames"
+	"homepage" "https://redcandlegames.com/"
+}
+"config"
+{
+	"installdir" "Nine Sols"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NineSols.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "<Windows>"
+			}
+			"description" "<Windows>"
+		}
+		"1"
+		{
+			"executable" "NineSols.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "<MacOS>"
+			}
+			"description" "<MacOS>"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
+	"1809541"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "931782496300954351"
+				"size" "6566997162"
+				"download" "3946098928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"|develop-packing|"
+			{
+				"gid" "BE5F8C477526567368A4EB147D77E02F"
+				"size" "FD8945130FEE0B26C3ACA9744B9E029F"
+				"download" "227636ADC01E65BC5ACBDADA05F44533"
+			}
+			"|feature-dev-henry|"
+			{
+				"gid" "EEE9CACEC8CB1D1B676A495DC2AE2D50"
+				"size" "B88502626D2AF1EE81BB1F56D03FA23D"
+				"download" "FC467DD1C27BA46CD439DF579F9A8C1C"
+			}
+			"|feature-dev-jerryee|"
+			{
+				"gid" "1DD7F182D9E6FDD8370EF2B9DA8D93C7"
+				"size" "AC6ADFC09DA2FB05C292C472CE3C11E1"
+				"download" "EFD3CFF3761255EAD93EF725F808D583"
+			}
+			"|preproduction-packing|"
+			{
+				"gid" "990553B5B8AFEE0DFC6590FC140C8DA9"
+				"size" "33C1D157B6F1D35AEAEE133AF8EF95D1"
+				"download" "7F2BB202C906E46886796A242387A799"
+			}
+			"|ps4-dev|"
+			{
+				"gid" "0A310188C01FFA320E4C1024F283AB23"
+				"size" "A6EF1D74C93E800E38342E360B563909"
+				"download" "7A16ADF8C6A70AE9A858DEF59AFFD191"
+			}
+			"|ps4-production|"
+			{
+				"gid" "7924EDCD0EFA830305BF786D95CAC931"
+				"size" "3D5FA6443E0182FCD4F07DBBC1FDD3B1"
+				"download" "3CBF94A1B68F6DAA98BF1694217A38D5"
+			}
+			"|ps5-dev|"
+			{
+				"gid" "7C0A37A26DB3063BA7873A705F545788"
+				"size" "795F64F46152E143D22E0AD89AAE8463"
+				"download" "59FD6475BC916F3ECFDE689CC9B2948F"
+			}
+			"|ps5-production|"
+			{
+				"gid" "0D5091151769F677010AA8F2CD736177"
+				"size" "C7E8FF9E5F1DD2C0B91E12C178C3938E"
+				"download" "05F0B712C6CF48A05E444C4D71BFE115"
+			}
+			"|switch-dev|"
+			{
+				"gid" "3FDBFE788502FCD460CA2079BFA09042"
+				"size" "F993E650F738E0169540B819EB28D7F9"
+				"download" "2EFCD45BBCFBB26560B4CBC248C80206"
+			}
+			"|switch-production|"
+			{
+				"gid" "4D5D53AE441723911BB6E720798BF5D4"
+				"size" "617829614CA041CF17A47172596D9857"
+				"download" "DE1E3833D64FDE83DE90F40384405509"
+			}
+			"|win-store-dev|"
+			{
+				"gid" "0EA718DBFD3CE4E518FF9899C29F24EB"
+				"size" "4B5666B9AF1A184E7F671DBE3A911FBC"
+				"download" "CA41872F5896B1875AD2596C17E7F832"
+			}
+			"|win-store-production|"
+			{
+				"gid" "A0448DD384ACD516F1E0A4099509C793"
+				"size" "C22876D75E1ACC20FA9B26A06F80B9BE"
+				"download" "2A8782DB30BF2B478B69AA73836A7F51"
+			}
+			"|xbox-one-dev|"
+			{
+				"gid" "982AA6AB20B90736E5631AC7BBB6038B"
+				"size" "024EB4E3D400152919CA0B575DF4CD47"
+				"download" "D5C75B3EE75974B7C200E4809AD8BD5C"
+			}
+			"|xbox-one-production|"
+			{
+				"gid" "04C361C0CEB6495EBCC530BFE21701AA"
+				"size" "15F0BD4AA6CBF1752D2766F624171B08"
+				"download" "9336AA30563F5075FA61F680A966F835"
+			}
+			"|xbox-series-dev|"
+			{
+				"gid" "DCE71F98CC1F2A948B095A10212276AE"
+				"size" "AEE5410C1E884EE89AB6EF81D50C0A9E"
+				"download" "C2DC1BDD8E9606678414A002E07CD590"
+			}
+			"|xbox-series-production|"
+			{
+				"gid" "6AA67DF800281FDB6421720EED82E96E"
+				"size" "8169FCC834B3D4CCEEA89477EA956396"
+				"download" "74727EF83D42216F003AA30D1D2F2DDA"
+			}
+			"laststabledev"
+			{
+				"gid" "58EB0A79281EDCE43A0E62B905F47940"
+				"size" "2F8CA693080D782269377F93A8A58E3B"
+				"download" "9D26F75D2182523A40B562E90DBFC0DA"
+			}
+			"laststableproduction"
+			{
+				"gid" "6FF4C13C8530DCF1A8F4B59188A3F101"
+				"size" "FCC713192DE2E39A3DA5924B6F61D2CC"
+				"download" "7F5A9FE1937237E6A4F068625A78A9D5"
+			}
+			"lqa-test-branch"
+			{
+				"gid" "548731DE0C79CBC00E9F53DDDF0A8D94"
+				"size" "E0F42C7D7059DC626536E73D9B50C6E8"
+				"download" "2E873CFA0FB67B20F800F1445C2EF2F4"
+			}
+			"speedrun20240618"
+			{
+				"gid" "49C7F171E801D3F808DEF6FFC4262966"
+				"size" "0101C328C61A4E6FB041F26CD3AD498D"
+				"download" "B2E8E537FB97856269B806BF88CEA3B7"
+			}
+		}
+	}
+	"1809542"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "512912116704800017"
+				"size" "8893827549"
+				"download" "3959993328"
+			}
+			"local"
+			{
+				"gid" "1410053766624351650"
+				"size" "905937261"
+				"download" "287893344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"|develop-packing|"
+			{
+				"gid" "DDDA83124E9BA92C373FA9954D33EA1A"
+				"size" "89FB21624CCAA97D26FCFF73C2E73EAD"
+				"download" "E6EA3DA43AC273B27FB4CCCB274AB8F0"
+			}
+			"|feature-dev-henry|"
+			{
+				"gid" "F4E49BAFAD1660E0CBD293D9F3102103"
+				"size" "6EC6482210843F12B0D5B434A6933277"
+				"download" "E35CEAE0E6A1B6A28D3D512442D99AAA"
+			}
+			"|feature-dev-jerryee|"
+			{
+				"gid" "6D98D6F55B12B671C852423B8D220463"
+				"size" "9BB4BD40EF0D4B1CE37829BD28CD1741"
+				"download" "93BCA82BD3141E78F92606EAB348C3B1"
+			}
+			"|preproduction-packing|"
+			{
+				"gid" "468ACF14DDE3F36A48FF671EBD211FBB"
+				"size" "B280B8B6915AA21D47BF1141BD45101A"
+				"download" "0BF1EC8F30697327622EA57625C2314E"
+			}
+			"|ps4-dev|"
+			{
+				"gid" "E9C0B7A21676038433F525FD83721340"
+				"size" "4C2161288840B03E2A4E9B6C5829243A"
+				"download" "3E18CBB4123386C7B1EA6A57AAC5238A"
+			}
+			"|ps4-production|"
+			{
+				"gid" "1FAB23D11F9DD9DB0735959C5714A1C6"
+				"size" "10D6C94E1F0F89549799C2C66A46BED7"
+				"download" "22674F2F001DAFA595E6479F242482E3"
+			}
+			"|ps5-dev|"
+			{
+				"gid" "AE68047737958F2AED0C677B23FCC1A8"
+				"size" "56195F34DFE8353D6DC302C220F6C2B0"
+				"download" "5A4DDF45C4979D4C92AF83D4FF9EBC7A"
+			}
+			"|ps5-production|"
+			{
+				"gid" "9090C29A7F46A2E0C3B37B0101C62CCB"
+				"size" "8A31F8073BA40A34ACFAC888B95162C2"
+				"download" "5F1026C5012B4C6A30A4502727FCD959"
+			}
+			"|switch-dev|"
+			{
+				"gid" "DFE6D9E33E45F4356736A59871591B54"
+				"size" "CA506A563FE79987DF149777A7B14108"
+				"download" "D705ED54450B0221321B895DF3B30700"
+			}
+			"|switch-production|"
+			{
+				"gid" "A960F93C8E519096A2A1D5F02E807C85"
+				"size" "CFE5F7EC2FE322A219A387574483FE82"
+				"download" "8768D147D8A93026DE407462EFCEC827"
+			}
+			"|win-store-dev|"
+			{
+				"gid" "E2E4A5138D2DAF6B19F835F40E6CBF29"
+				"size" "87A7DDC3EA52D55D4118F6AFEDADFA33"
+				"download" "086B83B14B2B1BE8C660FA668A78EA63"
+			}
+			"|win-store-production|"
+			{
+				"gid" "117E54EBF13D8254BEB441C5C64237BB"
+				"size" "68548429FA80788CB15A5B182C578C6D"
+				"download" "D9D0395DCFD1A25F9F445DBA0C728C07"
+			}
+			"|xbox-one-dev|"
+			{
+				"gid" "925DF596206763194BBCB1D463161453"
+				"size" "5618EC6E236BFE83AAD37B48C86B79A2"
+				"download" "837490B6E9EC6CD576D0A4EB9F499FB1"
+			}
+			"|xbox-one-production|"
+			{
+				"gid" "69FE91F090B103CE698A23D4F13E78D1"
+				"size" "7F145894EB4B5AA4DD58C82542E9DFF8"
+				"download" "40197D4F6FD8FDD0FF19BBFD06866CF7"
+			}
+			"|xbox-series-dev|"
+			{
+				"gid" "02464DE561B87E5B39DD05CC8FF9D62C"
+				"size" "0B9688AF2145B7E7EE73311D25E82414"
+				"download" "777ED7F1D886C92BD45BD86B3C1EB396"
+			}
+			"|xbox-series-production|"
+			{
+				"gid" "B8EB438E6F6BE5B057F5F6772C6B1164"
+				"size" "11B22843A83DFFD797CD8C7F4446F321"
+				"download" "75FD346C857F903734B0B82E60DD5617"
+			}
+			"laststabledev"
+			{
+				"gid" "F68D386CE06305790F99406E7F8E9D1D"
+				"size" "6EA22F65D1C6422455AB60ECED03A67C"
+				"download" "80E166D70D472175DEB2A34B30527C59"
+			}
+			"laststableproduction"
+			{
+				"gid" "13C5EF8CDD0D45DB8215C3DC6F193858"
+				"size" "32348B945313CB3A662585F888F3BD5F"
+				"download" "39B2D37E41B63CDA893307B0A0BA4FD3"
+			}
+			"lqa-test-branch"
+			{
+				"gid" "6B27935D9DA99CBE4078A23A355076FC"
+				"size" "63B5D7878FEECF1AEBDD00F200D4FA95"
+				"download" "3707BD90B2E06423DB4D5C1F67713305"
+			}
+			"speedrun20240618"
+			{
+				"gid" "1F3881966573E2F00EF549AA89BD8134"
+				"size" "A43E57C0E9022134E634145E70AE0BCF"
+				"download" "45BE6AAFAF144D7B786415BCBA99D0CA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16761629"
+			"timeupdated" "1734369785"
+		}
+		"local"
+		{
+			"buildid" "8221279"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1645093784"
+		}
+		"|develop-packing|"
+		{
+			"buildid" "16774674"
+			"pwdrequired" "1"
+			"timeupdated" "1734447475"
+		}
+		"|feature-dev-henry|"
+		{
+			"buildid" "15121793"
+			"pwdrequired" "1"
+			"timeupdated" "1721721233"
+		}
+		"|feature-dev-jerryee|"
+		{
+			"buildid" "15776925"
+			"pwdrequired" "1"
+			"timeupdated" "1726873783"
+		}
+		"|preproduction-packing|"
+		{
+			"buildid" "16773334"
+			"pwdrequired" "1"
+			"timeupdated" "1734440415"
+		}
+		"|ps4-dev|"
+		{
+			"buildid" "16776550"
+			"pwdrequired" "1"
+			"timeupdated" "1734457519"
+		}
+		"|ps4-production|"
+		{
+			"buildid" "16775147"
+			"pwdrequired" "1"
+			"timeupdated" "1734449592"
+		}
+		"|ps5-dev|"
+		{
+			"buildid" "16775824"
+			"pwdrequired" "1"
+			"timeupdated" "1734453663"
+		}
+		"|ps5-production|"
+		{
+			"buildid" "16774293"
+			"pwdrequired" "1"
+			"timeupdated" "1734445587"
+		}
+		"|switch-dev|"
+		{
+			"buildid" "16712471"
+			"pwdrequired" "1"
+			"timeupdated" "1733949022"
+		}
+		"|switch-production|"
+		{
+			"buildid" "15963116"
+			"pwdrequired" "1"
+			"timeupdated" "1728468451"
+		}
+		"|win-store-dev|"
+		{
+			"buildid" "16713127"
+			"pwdrequired" "1"
+			"timeupdated" "1733953259"
+		}
+		"|win-store-production|"
+		{
+			"buildid" "16714221"
+			"pwdrequired" "1"
+			"timeupdated" "1733959790"
+		}
+		"|xbox-one-dev|"
+		{
+			"buildid" "16715333"
+			"pwdrequired" "1"
+			"timeupdated" "1733968902"
+		}
+		"|xbox-one-production|"
+		{
+			"buildid" "16715901"
+			"pwdrequired" "1"
+			"timeupdated" "1733972966"
+		}
+		"|xbox-series-dev|"
+		{
+			"buildid" "16718386"
+			"pwdrequired" "1"
+			"timeupdated" "1733992652"
+		}
+		"|xbox-series-production|"
+		{
+			"buildid" "16717608"
+			"pwdrequired" "1"
+			"timeupdated" "1733987029"
+		}
+		"laststabledev"
+		{
+			"buildid" "15634600"
+			"pwdrequired" "1"
+			"timeupdated" "1726819348"
+		}
+		"laststableproduction"
+		{
+			"buildid" "16521831"
+			"pwdrequired" "1"
+			"timeupdated" "1734340213"
+		}
+		"lqa-test-branch"
+		{
+			"buildid" "16760356"
+			"pwdrequired" "1"
+			"timeupdated" "1734369812"
+		}
+		"speedrun20240618"
+		{
+			"buildid" "14751814"
+			"pwdrequired" "1"
+			"timeupdated" "1728022724"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1052428800"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedCandleGames/NineSols"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26682132"
+"_sha" "435766a7325ad23e50407f7035f494c4a10aa653"
+"_size" "17043"
