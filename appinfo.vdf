@@ -165,6 +165,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1730480420"
 	"community_visible_stats" "1"
@@ -174,8 +179,8 @@
 	{
 		"0" "12095"
 		"1" "6650"
-		"2" "5611"
-		"3" "7208"
+		"2" "7208"
+		"3" "5611"
 		"4" "24904"
 		"5" "9130"
 		"6" "6426"
@@ -194,7 +199,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -232,18 +237,15 @@
 		{
 			"public"
 			{
-				"gid" "3327006457369404161"
-				"size" "1563213417"
-				"download" "1334855312"
+				"gid" "8014623268706532387"
+				"size" "3048813330"
+				"download" "1180905056"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"backup"
 			{
-				"gid" "77D6B387ED69C15970E00997CA8576A4"
-				"size" "48FFC7CC998DDCE8DEA39904FFA32107"
-				"download" "5F49D3D9A90F2489FC23C79A044404A5"
+				"gid" "3282858257879833136"
+				"size" "3048812484"
+				"download" "1180890832"
 			}
 		}
 	}
@@ -251,16 +253,17 @@
 	{
 		"public"
 		{
-			"buildid" "16320445"
-			"timeupdated" "1730935748"
+			"buildid" "16764078"
+			"timeupdated" "1734384222"
 		}
-		"beta"
+		"backup"
 		{
-			"buildid" "16320445"
-			"pwdrequired" "1"
-			"timeupdated" "1730935288"
+			"buildid" "16754979"
+			"description" "0.7h"
+			"timeupdated" "1734419548"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -282,6 +285,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26216594"
-"_sha" "86732ee44ce6f64e9c69f558aa7e61a1bcac3cb9"
-"_size" "4396"
+"_change_number" "26673471"
+"_sha" "0ed0c6cf6863d02d9b762d6390921c811416c798"
+"_size" "4408"
