@@ -150,8 +150,8 @@
 		"1" "5900"
 		"2" "21"
 		"3" "4191"
-		"4" "3839"
-		"5" "1721"
+		"4" "1721"
+		"5" "3839"
 		"6" "1710"
 		"7" "4175"
 		"8" "4166"
@@ -175,12 +175,36 @@
 		"0"
 		{
 			"executable" "WuRenGame.exe"
+			"arguments" "-dx12"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "DirectX 12"
+				"schinese" "DirectX 12"
+			}
+			"description" "DirectX 12"
+		}
+		"1"
+		{
+			"executable" "WuRenGame.exe"
+			"arguments" "-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Try this if the first option causes problems"
+				"schinese" "上一个有问题试试这个"
+			}
+			"description" "Try this if the first option causes problems"
 		}
 	}
 }
@@ -215,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "3122089511103120798"
-				"size" "4022247180"
-				"download" "3928011024"
+				"gid" "8350210081266159890"
+				"size" "4054250744"
+				"download" "3959437952"
 			}
 		}
 	}
@@ -226,12 +250,12 @@
 	{
 		"public"
 		{
-			"buildid" "16758650"
-			"timeupdated" "1734350909"
+			"buildid" "16775504"
+			"timeupdated" "1734451783"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26660248"
-"_sha" "3fffd9d36dd1112d8e552db2242d2708741e53aa"
-"_size" "4508"
+"_change_number" "26680926"
+"_sha" "5783bc7a718e958473ee910f233d12e9270ff78e"
+"_size" "5041"
