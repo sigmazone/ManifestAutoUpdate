@@ -1,0 +1,852 @@
+"appid" "1818750"
+"common"
+{
+	"name" "MultiVersus"
+	"type" "Game"
+	"icon" "01fb7eab28b80a06e4da69a6b3d76dbe383bea8e"
+	"logo" "31f076aa25290f9c7ca070b0e1861d70faa613c1"
+	"logo_small" "31f076aa25290f9c7ca070b0e1861d70faa613c1_thumb"
+	"clienticon" "2abeebd75f2b6d2de65ac5b3057002e34e5c2794"
+	"clienttga" "73d7076555b081ab8ef721be0e8599d0b0254732"
+	"name_localized"
+	{
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1818750_eula_0"
+			"name" "MultiVersus EULA"
+			"url" "https://store.steampowered.com//eula/1818750_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726704000"
+		"tested_build_id" "14897671"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "MultiVersus"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "19.726208550524035"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "17c25330b93269dbfb83e455de750f06abda3adb/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "17c25330b93269dbfb83e455de750f06abda3adb/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "17c25330b93269dbfb83e455de750f06abda3adb/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "19.726208550524035"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "f6cf23f5ff0533ee54ee2dc779631a6454165afe/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731437096"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Player First Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_28" "1"
+		"category_2" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_44" "1"
+		"category_27" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1658246400"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/multiversus\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1818750"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "4736"
+		"2" "1685"
+		"3" "19"
+		"4" "113"
+		"5" "3878"
+		"6" "4158"
+		"7" "4562"
+		"8" "1684"
+		"9" "5379"
+		"10" "3871"
+		"11" "4305"
+		"12" "1671"
+		"13" "10397"
+		"14" "4136"
+		"15" "1751"
+		"16" "6815"
+		"17" "7743"
+		"18" "6691"
+		"19" "4747"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Player First Games"
+	"publisher" "Warner Bros. Games"
+	"homepage" "https://www.multiversus.com/"
+	"isfreeapp" "1"
+	"listofdlc" "2015370,2015371,2015372"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "MultiVersus"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65532"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internaldev"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"2"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "urtesting"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"3"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam -ExecCmds=\"PFG.EnableCommonUI true\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internaldev"
+			}
+			"description_loc"
+			{
+				"english" "With New Front End"
+			}
+			"description" "With New Front End"
+		}
+		"4"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam -ExecCmds=\"PFG.EnableCommonUI true\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "privatetest"
+			}
+			"description_loc"
+			{
+				"english" "With New Front End"
+			}
+			"description" "With New Front End"
+		}
+		"5"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "publishingqa"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"6"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "publishingqa2"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"7"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "publishingqa_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"8"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "publishingqa2_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"9"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "prodstaging"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"10"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "prodstaging_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"11"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "publishing"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+		"12"
+		{
+			"executable" "MultiVersus.exe"
+			"arguments" "-allowsteam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "predeploy"
+			}
+			"description_loc"
+			{
+				"english" "Without Easy Anti-Cheat"
+			}
+			"description" "Without Easy Anti-Cheat"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1818751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4868680773928613483"
+				"size" "16832505996"
+				"download" "16344925056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"catt"
+			{
+				"gid" "E669F45DC137C0234AF5288383E635FB"
+				"size" "51D78C80E7E601FA55377DE977B67D49"
+				"download" "540DB03311222CA27F8C25A3993D2791"
+			}
+			"mock"
+			{
+				"gid" "726DA7642B947A96B1817504D4A36E79"
+				"size" "BC2B69F722CFE994A7752E25A891A510"
+				"download" "84EDCA9AFF1F870E941F778FEDDFE6B8"
+			}
+			"press2"
+			{
+				"gid" "F2357EB1768D08DB1756F91D2CA2EECF"
+				"size" "9C3EFA46EB1E2C4D60D9F0A905267609"
+				"download" "BE840F2AEEB72249E0ED9EC3A0B3920C"
+			}
+			"prodmirror"
+			{
+				"gid" "640F9956E232B8C3AFDE0171FD583B32"
+				"size" "06EBEBC8869BD6A971048D68DED27D7C"
+				"download" "389229D06F66F507A8475BD32C59764F"
+			}
+			"events"
+			{
+				"gid" "782F8EC692BB2FE8CE631DA5C7B68145"
+				"size" "B74062D09B2E963EFBF2897008D57EFE"
+				"download" "93D6516C5C2929AEFF9AB37CF2817462"
+			}
+			"internaldev"
+			{
+				"gid" "C4F2D8831DAD31282548098700E8A36D"
+				"size" "A8369F9F8900260736985017C480191E"
+				"download" "AD24461B2C9514413DDBA439A3BB28F1"
+			}
+			"livestaging"
+			{
+				"gid" "58E76BEDC986ED337BA653E0DEC3FE49"
+				"size" "F167790EB4635DAAFFAE7A5B9ED4A177"
+				"download" "87D7E91D1AF0E9B58049BA6683B184CB"
+			}
+			"livestaging_shipping"
+			{
+				"gid" "82084D52E78EFC8868AEF77988F227C9"
+				"size" "AB7E546F7DF90E20B2618961BFA2C798"
+				"download" "8B30A91CB582AA836FD0FD87E97D9C7B"
+			}
+			"predeploy"
+			{
+				"gid" "6E64EB822F05C09CFAEEF725F162968C"
+				"size" "1CD4532857E0D30E2571B3F97E4EDFC2"
+				"download" "D11FEE5D69ABA2243406ED30C38A00BF"
+			}
+			"privatetest"
+			{
+				"gid" "63AC31FD2BFD4F763BB2942A34E2994D"
+				"size" "4650C630A018312CE349385A88E24E40"
+				"download" "A5DEF6E647B58231D3F21763F6DEE7D4"
+			}
+			"prodstaging"
+			{
+				"gid" "3AE891F68AFF8541F24E0DC7E3756D5A"
+				"size" "64E77BB2B074C0D29959221E798EA022"
+				"download" "908754CE0788AC69CE15505B0FFD955F"
+			}
+			"prodstaging_shipping"
+			{
+				"gid" "C5AFC73273F4ED3FCB69929DF105E960"
+				"size" "6AFE778B0B225F9DD27299B57D67F39D"
+				"download" "3452FE15D38CD5555A3249B7A457E1D8"
+			}
+			"publicbetaenvironment"
+			{
+				"gid" "7EC21565B3C209A29208CD376220878C"
+				"size" "928EF83EAA4037ABF74727F58386D325"
+				"download" "6260DF1E897376850BDF4F134D0B3FCF"
+			}
+			"publishing"
+			{
+				"gid" "2EAE84396BC4C8F1157B426146019897"
+				"size" "BB757F6D7B93C6F0B7F9347D341EA554"
+				"download" "98D9551C9C609A38E828FF702BF87C29"
+			}
+			"publishingqa"
+			{
+				"gid" "B4463E2B5309531E341107D0E76C760D"
+				"size" "2724088AC4D9C5266D2354DE1874B6B0"
+				"download" "5424FA151E6509A42BF8FB95115B1273"
+			}
+			"publishingqa_shipping"
+			{
+				"gid" "175845E136EBACD4AB89A579AA118508"
+				"size" "A5F4AD66D556AEF97F201FC1821B8C77"
+				"download" "7FC48FBEB5555CC861531E8A04D600F9"
+			}
+			"publishingqa2"
+			{
+				"gid" "2DF14A26CD11D772BF6FA5DDC6DBAC68"
+				"size" "02639E3736BB6676DCEDF1A30E73DE21"
+				"download" "CBBF75C3F64E9336CB25325FDF9EA184"
+			}
+			"publishingqa2_shipping"
+			{
+				"gid" "9F0E85EEB44E0161B0051A9070AF453C"
+				"size" "F5C097AF15BA5BBBA186B6D55440E35D"
+				"download" "EF3C7244EF04405B678DED23AFE587E3"
+			}
+			"urtesting"
+			{
+				"gid" "54BDFCF45C40B5FB7AD3FB4F05465A88"
+				"size" "A2239CE0309DB0C6C5D87CC0BB99C785"
+				"download" "FE221FAA897E2075DB9D33FEF821969A"
+			}
+			"ageratings"
+			{
+				"gid" "FEF0F26B929E4D0FB8CD784341BBE5D1"
+				"size" "B75FA597325011AC3422CEDD6CA73D8C"
+				"download" "BD0DDC134801F7B080F5ACAFB9AB3C91"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16740693"
+			"timeupdated" "1734455021"
+		}
+		"catt"
+		{
+			"buildid" "14106527"
+			"pwdrequired" "1"
+			"timeupdated" "1713512898"
+		}
+		"mock"
+		{
+			"buildid" "14340282"
+			"pwdrequired" "1"
+			"timeupdated" "1715493111"
+		}
+		"press2"
+		{
+			"buildid" "14335172"
+			"pwdrequired" "1"
+			"timeupdated" "1715412918"
+		}
+		"prodmirror"
+		{
+			"buildid" "15534094"
+			"pwdrequired" "1"
+			"timeupdated" "1724948711"
+		}
+		"events"
+		{
+			"buildid" "15577325"
+			"pwdrequired" "1"
+			"timeupdated" "1725389012"
+		}
+		"internaldev"
+		{
+			"buildid" "16777814"
+			"pwdrequired" "1"
+			"timeupdated" "1734465280"
+		}
+		"livestaging"
+		{
+			"buildid" "14829343"
+			"pwdrequired" "1"
+			"timeupdated" "1719369301"
+		}
+		"livestaging_shipping"
+		{
+			"buildid" "14828832"
+			"pwdrequired" "1"
+			"timeupdated" "1719369318"
+		}
+		"predeploy"
+		{
+			"buildid" "16740693"
+			"pwdrequired" "1"
+			"timeupdated" "1734126040"
+		}
+		"privatetest"
+		{
+			"buildid" "16661678"
+			"pwdrequired" "1"
+			"timeupdated" "1734454986"
+		}
+		"prodstaging"
+		{
+			"buildid" "16716511"
+			"pwdrequired" "1"
+			"timeupdated" "1733978144"
+		}
+		"prodstaging_shipping"
+		{
+			"buildid" "16716089"
+			"pwdrequired" "1"
+			"timeupdated" "1733974537"
+		}
+		"publicbetaenvironment"
+		{
+			"buildid" "10668574"
+			"pwdrequired" "1"
+			"timeupdated" "1677706396"
+		}
+		"publishing"
+		{
+			"buildid" "14313789"
+			"pwdrequired" "1"
+			"timeupdated" "1715279242"
+		}
+		"publishingqa"
+		{
+			"buildid" "16762576"
+			"pwdrequired" "1"
+			"timeupdated" "1734374006"
+		}
+		"publishingqa_shipping"
+		{
+			"buildid" "16763130"
+			"pwdrequired" "1"
+			"timeupdated" "1734377429"
+		}
+		"publishingqa2"
+		{
+			"buildid" "16416149"
+			"pwdrequired" "1"
+			"timeupdated" "1731652490"
+		}
+		"publishingqa2_shipping"
+		{
+			"buildid" "16416536"
+			"pwdrequired" "1"
+			"timeupdated" "1731655763"
+		}
+		"urtesting"
+		{
+			"buildid" "14114742"
+			"pwdrequired" "1"
+			"timeupdated" "1713562187"
+		}
+		"ageratings"
+		{
+			"buildid" "14313789"
+			"pwdrequired" "1"
+			"timeupdated" "1715294931"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26683763"
+"_sha" "6c67e6a07d78e977f8a5c45c56bff5b017f60ae7"
+"_size" "17165"
