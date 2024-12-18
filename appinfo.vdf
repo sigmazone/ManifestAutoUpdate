@@ -1,0 +1,1992 @@
+"appid" "2967990"
+"common"
+{
+	"name" "Train Sim World® 5"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "f17406b3f26ba454e54739ab3b91104cc9ae9e36"
+	"clienttga" "cbf43d6c8ccaca69e19da56d5bfa825ff9050700"
+	"clienticon" "87e039d394502529ed4d7348b775211f9f72b8ae"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2967990_eula_0"
+			"name" "Train Sim World® 5 EULA"
+			"url" "https://store.steampowered.com//eula/2967990_eula_0"
+			"version" "2"
+		}
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726790400"
+		"tested_build_id" "15544197"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "41.07140001988307"
+			"height_pct" "47.060504755227996"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "41.07140001988307"
+				"height_pct" "47.060504755227996"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734514105"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dovetail Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dovetail Games - TSW"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dovetail Games - TSW"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dovetail Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Train Sim World"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726592413"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2967990"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "21"
+		"2" "9204"
+		"3" "3839"
+		"4" "1100687"
+		"5" "1616"
+		"6" "4175"
+		"7" "1644"
+		"8" "4166"
+		"9" "1654"
+		"10" "10383"
+		"11" "5350"
+		"12" "3968"
+		"13" "4182"
+		"14" "1695"
+		"15" "1742"
+		"16" "22602"
+		"17" "1721"
+		"18" "24904"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Dovetail Games"
+	"publisher" "Dovetail Games - TSW"
+	"homepage" "http://trainsimworld.com/"
+	"listofdlc" "2969390,2969400,2969410,2969420,2969430,2969440,2969450,2969460,2969470,2969480,2969490,2969500,2969510,2969520,2969530,2969540,2969550,2969560,2969570,2969580,2969600,2969610,2969620,2969630,2969640,2969650,2969660,2969670,2969680,2969690,2969720,2969730,2969740,2969760,2969780,2969800,2969820,2969840,2969870,2969890,2969930,2969940,2969950,2969980,2969990,2970000,2970010,2970020,2970030,2970040,2970050,2970060,2970070,2970090,2970100,2970110,2970120,2970130,2970140,2970150,2970170,2970180,2970190,2970200"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Train Sim World 5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WindowsNoEditor\\TrainSimWorld.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,polish"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2967991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "649655659435332346"
+				"size" "7321304432"
+				"download" "6686453424"
+			}
+		}
+	}
+	"2969400"
+	{
+		"dlcappid" "2969400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5518645160805997230"
+				"size" "3862826845"
+				"download" "3735996032"
+			}
+		}
+	}
+	"2969410"
+	{
+		"dlcappid" "2969410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2627380986486154955"
+				"size" "2372181062"
+				"download" "2289983472"
+			}
+		}
+	}
+	"2969390"
+	{
+		"dlcappid" "2969390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1937415739792336323"
+				"size" "4605253713"
+				"download" "4453071264"
+			}
+		}
+	}
+	"2969440"
+	{
+		"dlcappid" "2969440"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5473161499248773376"
+				"size" "4840124059"
+				"download" "4674087152"
+			}
+		}
+	}
+	"2969420"
+	{
+		"dlcappid" "2969420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2949355158729534729"
+				"size" "3699832574"
+				"download" "3561061248"
+			}
+		}
+	}
+	"2969430"
+	{
+		"dlcappid" "2969430"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5600198132651951027"
+				"size" "4505343626"
+				"download" "4327424624"
+			}
+		}
+	}
+	"2969460"
+	{
+		"dlcappid" "2969460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1416174537035195662"
+				"size" "3369043461"
+				"download" "3232462864"
+			}
+		}
+	}
+	"2969450"
+	{
+		"dlcappid" "2969450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6395221822599886078"
+				"size" "87128482"
+				"download" "84391664"
+			}
+		}
+	}
+	"2969470"
+	{
+		"dlcappid" "2969470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2533767653575114416"
+				"size" "236106457"
+				"download" "227329024"
+			}
+		}
+	}
+	"2969480"
+	{
+		"dlcappid" "2969480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3287780389806632313"
+				"size" "152450697"
+				"download" "149330704"
+			}
+		}
+	}
+	"2969490"
+	{
+		"dlcappid" "2969490"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9096812984434293027"
+				"size" "84291434"
+				"download" "81011488"
+			}
+		}
+	}
+	"2969520"
+	{
+		"dlcappid" "2969520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6720027525444398447"
+				"size" "3864884944"
+				"download" "3749187440"
+			}
+		}
+	}
+	"2969510"
+	{
+		"dlcappid" "2969510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8563952732938231936"
+				"size" "4241077903"
+				"download" "4068675328"
+			}
+		}
+	}
+	"2969500"
+	{
+		"dlcappid" "2969500"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2829384864839445837"
+				"size" "234014981"
+				"download" "226601728"
+			}
+		}
+	}
+	"2969550"
+	{
+		"dlcappid" "2969550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7635974735993982755"
+				"size" "3904459966"
+				"download" "3720601360"
+			}
+		}
+	}
+	"2969540"
+	{
+		"dlcappid" "2969540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "836484709812773604"
+				"size" "135138768"
+				"download" "132659632"
+			}
+		}
+	}
+	"2969530"
+	{
+		"dlcappid" "2969530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6128504211501736202"
+				"size" "4455668795"
+				"download" "4266433840"
+			}
+		}
+	}
+	"2969570"
+	{
+		"dlcappid" "2969570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "919431237766112468"
+				"size" "2512822853"
+				"download" "2367814832"
+			}
+		}
+	}
+	"2969560"
+	{
+		"dlcappid" "2969560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7151969500951014971"
+				"size" "243097112"
+				"download" "230905184"
+			}
+		}
+	}
+	"2969580"
+	{
+		"dlcappid" "2969580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2210123848439044055"
+				"size" "110614570"
+				"download" "107522528"
+			}
+		}
+	}
+	"2969600"
+	{
+		"dlcappid" "2969600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7135255075225659855"
+				"size" "2868623608"
+				"download" "2744411040"
+			}
+		}
+	}
+	"2969630"
+	{
+		"dlcappid" "2969630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "438627698981732013"
+				"size" "134141939"
+				"download" "130491824"
+			}
+		}
+	}
+	"2969610"
+	{
+		"dlcappid" "2969610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1220813102676783617"
+				"size" "122244797"
+				"download" "119187504"
+			}
+		}
+	}
+	"2969620"
+	{
+		"dlcappid" "2969620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1773590193714420632"
+				"size" "134101614"
+				"download" "130528336"
+			}
+		}
+	}
+	"2969640"
+	{
+		"dlcappid" "2969640"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9157278481928992257"
+				"size" "2359277771"
+				"download" "2099837216"
+			}
+		}
+	}
+	"2969650"
+	{
+		"dlcappid" "2969650"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6946145885943798031"
+				"size" "4497898809"
+				"download" "4349528688"
+			}
+		}
+	}
+	"2969680"
+	{
+		"dlcappid" "2969680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7092336766841530269"
+				"size" "224677555"
+				"download" "218768800"
+			}
+		}
+	}
+	"2969670"
+	{
+		"dlcappid" "2969670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4877241596588373317"
+				"size" "157721079"
+				"download" "153554288"
+			}
+		}
+	}
+	"2969660"
+	{
+		"dlcappid" "2969660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2158266607940669329"
+				"size" "179946096"
+				"download" "176730672"
+			}
+		}
+	}
+	"2969690"
+	{
+		"dlcappid" "2969690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8523148018377480749"
+				"size" "3972609772"
+				"download" "3827158544"
+			}
+		}
+	}
+	"2969730"
+	{
+		"dlcappid" "2969730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1344762712518726865"
+				"size" "3740919856"
+				"download" "3640360624"
+			}
+		}
+	}
+	"2969720"
+	{
+		"dlcappid" "2969720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4731531568602394764"
+				"size" "3912660687"
+				"download" "3633192784"
+			}
+		}
+	}
+	"2969740"
+	{
+		"dlcappid" "2969740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4543655988090048894"
+				"size" "209029028"
+				"download" "204030992"
+			}
+		}
+	}
+	"2969760"
+	{
+		"dlcappid" "2969760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6166511477205395963"
+				"size" "445302873"
+				"download" "429943008"
+			}
+		}
+	}
+	"2969780"
+	{
+		"dlcappid" "2969780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6362323226475243260"
+				"size" "3783719434"
+				"download" "3663247184"
+			}
+		}
+	}
+	"2969820"
+	{
+		"dlcappid" "2969820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2031166808943001574"
+				"size" "4605294212"
+				"download" "4452430224"
+			}
+		}
+	}
+	"2969800"
+	{
+		"dlcappid" "2969800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3368990359954502150"
+				"size" "175261589"
+				"download" "167483104"
+			}
+		}
+	}
+	"2969870"
+	{
+		"dlcappid" "2969870"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7615800161065960293"
+				"size" "246475419"
+				"download" "225644960"
+			}
+		}
+	}
+	"2969840"
+	{
+		"dlcappid" "2969840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6081387953683143387"
+				"size" "3364791725"
+				"download" "3243501328"
+			}
+		}
+	}
+	"2969890"
+	{
+		"dlcappid" "2969890"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "266918041160052968"
+				"size" "7025937412"
+				"download" "6765750352"
+			}
+		}
+	}
+	"2969930"
+	{
+		"dlcappid" "2969930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5609478572691129305"
+				"size" "6734531037"
+				"download" "6552670544"
+			}
+		}
+	}
+	"2969950"
+	{
+		"dlcappid" "2969950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2107805873898256260"
+				"size" "5486665439"
+				"download" "5242589840"
+			}
+		}
+	}
+	"2969940"
+	{
+		"dlcappid" "2969940"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3926745128154211064"
+				"size" "5379112896"
+				"download" "5233619744"
+			}
+		}
+	}
+	"2969990"
+	{
+		"dlcappid" "2969990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "215736813413432173"
+				"size" "5764977391"
+				"download" "5615369152"
+			}
+		}
+	}
+	"2969980"
+	{
+		"dlcappid" "2969980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1986905744548930973"
+				"size" "3330429415"
+				"download" "3205223344"
+			}
+		}
+	}
+	"2970000"
+	{
+		"dlcappid" "2970000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3544290328289564882"
+				"size" "172995624"
+				"download" "169811648"
+			}
+		}
+	}
+	"2970020"
+	{
+		"dlcappid" "2970020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "179192334505783458"
+				"size" "7061625916"
+				"download" "6878508608"
+			}
+		}
+	}
+	"2970010"
+	{
+		"dlcappid" "2970010"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7299702694021072675"
+				"size" "280359273"
+				"download" "263445984"
+			}
+		}
+	}
+	"2970030"
+	{
+		"dlcappid" "2970030"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8975835821857077013"
+				"size" "4140688601"
+				"download" "4003375552"
+			}
+		}
+	}
+	"2970040"
+	{
+		"dlcappid" "2970040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "147713198431723061"
+				"size" "5155459164"
+				"download" "4991270064"
+			}
+		}
+	}
+	"2970070"
+	{
+		"dlcappid" "2970070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1244943637737286010"
+				"size" "7703655169"
+				"download" "7468723536"
+			}
+		}
+	}
+	"2970050"
+	{
+		"dlcappid" "2970050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5853167298413237693"
+				"size" "11288231588"
+				"download" "11024285616"
+			}
+		}
+	}
+	"2970060"
+	{
+		"dlcappid" "2970060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "407905859140765211"
+				"size" "8509280655"
+				"download" "8307943168"
+			}
+		}
+	}
+	"2970100"
+	{
+		"dlcappid" "2970100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4878223503721168288"
+				"size" "9345461650"
+				"download" "9191293280"
+			}
+		}
+	}
+	"2970090"
+	{
+		"dlcappid" "2970090"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3281853759398989209"
+				"size" "5376575227"
+				"download" "5199243600"
+			}
+		}
+	}
+	"2970120"
+	{
+		"dlcappid" "2970120"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4581492851215545601"
+				"size" "4615029030"
+				"download" "4423417088"
+			}
+		}
+	}
+	"2970110"
+	{
+		"dlcappid" "2970110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7241662802552980371"
+				"size" "4153363744"
+				"download" "3997902064"
+			}
+		}
+	}
+	"2970130"
+	{
+		"dlcappid" "2970130"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1853398739791957302"
+				"size" "4092520673"
+				"download" "3957890032"
+			}
+		}
+	}
+	"2970140"
+	{
+		"dlcappid" "2970140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1065348399250934853"
+				"size" "437265025"
+				"download" "385965440"
+			}
+		}
+	}
+	"2970150"
+	{
+		"dlcappid" "2970150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "716678978053516253"
+				"size" "2950140978"
+				"download" "2659416912"
+			}
+		}
+	}
+	"2970180"
+	{
+		"dlcappid" "2970180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8895755495743467478"
+				"size" "302056450"
+				"download" "293439696"
+			}
+		}
+	}
+	"2970170"
+	{
+		"dlcappid" "2970170"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2875603475048109846"
+				"size" "220622827"
+				"download" "214241952"
+			}
+		}
+	}
+	"2970210"
+	{
+		"dlcappid" "2970210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2700044417907903482"
+				"size" "4958765925"
+				"download" "4801967632"
+			}
+		}
+	}
+	"2970200"
+	{
+		"dlcappid" "2970200"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5464041754761837259"
+				"size" "5204594386"
+				"download" "5073350080"
+			}
+		}
+	}
+	"2970190"
+	{
+		"dlcappid" "2970190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7364893006925590338"
+				"size" "159665269"
+				"download" "154360416"
+			}
+		}
+	}
+	"2970240"
+	{
+		"dlcappid" "2970240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5355106840587580729"
+				"size" "140237312"
+				"download" "135571760"
+			}
+		}
+	}
+	"2970230"
+	{
+		"dlcappid" "2970230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "653655573073110132"
+				"size" "304843393"
+				"download" "299144560"
+			}
+		}
+	}
+	"2970220"
+	{
+		"dlcappid" "2970220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "314883064329862602"
+				"size" "165179109"
+				"download" "160491856"
+			}
+		}
+	}
+	"2970250"
+	{
+		"dlcappid" "2970250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "101350161837844288"
+				"size" "1212281923"
+				"download" "1181812336"
+			}
+		}
+	}
+	"2970260"
+	{
+		"dlcappid" "2970260"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2130350294197551975"
+				"size" "5401040366"
+				"download" "5215641120"
+			}
+		}
+	}
+	"2970270"
+	{
+		"dlcappid" "2970270"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5744426146420821872"
+				"size" "514080167"
+				"download" "486725712"
+			}
+		}
+	}
+	"2970280"
+	{
+		"dlcappid" "2970280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "492724831266821435"
+				"size" "189338088"
+				"download" "179491712"
+			}
+		}
+	}
+	"2970290"
+	{
+		"dlcappid" "2970290"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "627036511287118285"
+				"size" "224002698"
+				"download" "215472080"
+			}
+		}
+	}
+	"2970320"
+	{
+		"dlcappid" "2970320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2427777157971111566"
+				"size" "9350878879"
+				"download" "9122652720"
+			}
+		}
+	}
+	"2970300"
+	{
+		"dlcappid" "2970300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2824459056308844415"
+				"size" "6695615431"
+				"download" "6467613040"
+			}
+		}
+	}
+	"2970310"
+	{
+		"dlcappid" "2970310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "960013977613528701"
+				"size" "7090805782"
+				"download" "6795225472"
+			}
+		}
+	}
+	"2970330"
+	{
+		"dlcappid" "2970330"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3178912559779681162"
+				"size" "6110486131"
+				"download" "5954854544"
+			}
+		}
+	}
+	"2970350"
+	{
+		"dlcappid" "2970350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4098043725350123746"
+				"size" "5211832450"
+				"download" "5016633936"
+			}
+		}
+	}
+	"2970370"
+	{
+		"dlcappid" "2970370"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5684483472299639379"
+				"size" "264515323"
+				"download" "256834176"
+			}
+		}
+	}
+	"2970360"
+	{
+		"dlcappid" "2970360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "946140036183651183"
+				"size" "282113282"
+				"download" "250001952"
+			}
+		}
+	}
+	"2970380"
+	{
+		"dlcappid" "2970380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8546669342227506427"
+				"size" "443328460"
+				"download" "412347040"
+			}
+		}
+	}
+	"2970400"
+	{
+		"dlcappid" "2970400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2404550199096050916"
+				"size" "4016625519"
+				"download" "3879505120"
+			}
+		}
+	}
+	"2970390"
+	{
+		"dlcappid" "2970390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3843047710467428261"
+				"size" "167192628"
+				"download" "161456352"
+			}
+		}
+	}
+	"2970420"
+	{
+		"dlcappid" "2970420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2337087033715576269"
+				"size" "9295569629"
+				"download" "9112363616"
+			}
+		}
+	}
+	"2970410"
+	{
+		"dlcappid" "2970410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8352994852831705276"
+				"size" "377192016"
+				"download" "332713136"
+			}
+		}
+	}
+	"2970440"
+	{
+		"dlcappid" "2970440"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5866256373412474017"
+				"size" "7442365163"
+				"download" "7306323184"
+			}
+		}
+	}
+	"2970430"
+	{
+		"dlcappid" "2970430"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4837569882903939448"
+				"size" "7887737002"
+				"download" "7685554224"
+			}
+		}
+	}
+	"2970460"
+	{
+		"dlcappid" "2970460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3299785575133744277"
+				"size" "4703963934"
+				"download" "4597159296"
+			}
+		}
+	}
+	"2970450"
+	{
+		"dlcappid" "2970450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5251319357710923893"
+				"size" "311916278"
+				"download" "298689168"
+			}
+		}
+	}
+	"2970470"
+	{
+		"dlcappid" "2970470"
+	}
+	"2970480"
+	{
+		"dlcappid" "2970480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2625464447697640654"
+				"size" "224097507"
+				"download" "220314176"
+			}
+		}
+	}
+	"2970490"
+	{
+		"dlcappid" "2970490"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4787787649307627717"
+				"size" "343721008"
+				"download" "275708160"
+			}
+		}
+	}
+	"2970510"
+	{
+		"dlcappid" "2970510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5463265523439903098"
+				"size" "342968467"
+				"download" "332916656"
+			}
+		}
+	}
+	"2970500"
+	{
+		"dlcappid" "2970500"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8751657660917424799"
+				"size" "197714467"
+				"download" "192704976"
+			}
+		}
+	}
+	"2970530"
+	{
+		"dlcappid" "2970530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2146615997206158098"
+				"size" "8515505080"
+				"download" "8252028688"
+			}
+		}
+	}
+	"2970520"
+	{
+		"dlcappid" "2970520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6565844340138294160"
+				"size" "5036178918"
+				"download" "4883038256"
+			}
+		}
+	}
+	"2970560"
+	{
+		"dlcappid" "2970560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7230692823070246376"
+				"size" "219354111"
+				"download" "212764160"
+			}
+		}
+	}
+	"2970540"
+	{
+		"dlcappid" "2970540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "218476359818770403"
+				"size" "6808098380"
+				"download" "6675330624"
+			}
+		}
+	}
+	"2970550"
+	{
+		"dlcappid" "2970550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3451714073240810640"
+				"size" "5548500487"
+				"download" "5435112272"
+			}
+		}
+	}
+	"2970570"
+	{
+		"dlcappid" "2970570"
+		"manifests"
+		{
+		}
+	}
+	"2970610"
+	{
+		"dlcappid" "2970610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5862410547589755609"
+				"size" "212156481"
+				"download" "199730368"
+			}
+		}
+	}
+	"2970580"
+	{
+		"dlcappid" "2970580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6298279202025634041"
+				"size" "7621268649"
+				"download" "7421991280"
+			}
+		}
+	}
+	"2970630"
+	{
+		"dlcappid" "2970630"
+		"manifests"
+		{
+		}
+	}
+	"2970680"
+	{
+		"dlcappid" "2970680"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5814193606072664199"
+				"size" "18143390947"
+				"download" "17644271936"
+			}
+		}
+	}
+	"2970660"
+	{
+		"dlcappid" "2970660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3766981414312087358"
+				"size" "6864817461"
+				"download" "6731100272"
+			}
+		}
+	}
+	"2970700"
+	{
+		"dlcappid" "2970700"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4795212649754967172"
+				"size" "267875824"
+				"download" "260357664"
+			}
+		}
+	}
+	"2970750"
+	{
+		"dlcappid" "2970750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216799591660303672"
+				"size" "418903792"
+				"download" "388410496"
+			}
+		}
+	}
+	"2970720"
+	{
+		"dlcappid" "2970720"
+		"manifests"
+		{
+		}
+	}
+	"2970760"
+	{
+		"dlcappid" "2970760"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3458784825754618302"
+				"size" "250478581"
+				"download" "236922880"
+			}
+		}
+	}
+	"2970770"
+	{
+		"dlcappid" "2970770"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2648673516199063916"
+				"size" "6368"
+				"download" "3744"
+			}
+		}
+	}
+	"2970790"
+	{
+		"dlcappid" "2970790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8945329114152564054"
+				"size" "9445466546"
+				"download" "9220540976"
+			}
+		}
+	}
+	"2970780"
+	{
+		"dlcappid" "2970780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3926362508052861626"
+				"size" "6367"
+				"download" "3744"
+			}
+		}
+	}
+	"2970810"
+	{
+		"dlcappid" "2970810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2235308124725095356"
+				"size" "10664258083"
+				"download" "10384832896"
+			}
+		}
+	}
+	"2970800"
+	{
+		"dlcappid" "2970800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4696631957627549517"
+				"size" "8828119215"
+				"download" "8566332128"
+			}
+		}
+	}
+	"2970830"
+	{
+		"dlcappid" "2970830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8731725668718567210"
+				"size" "317702322"
+				"download" "290700896"
+			}
+		}
+	}
+	"2970820"
+	{
+		"dlcappid" "2970820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5427492848559772372"
+				"size" "366763597"
+				"download" "338713776"
+			}
+		}
+	}
+	"2970860"
+	{
+		"dlcappid" "2970860"
+		"manifests"
+		{
+		}
+	}
+	"2970840"
+	{
+		"dlcappid" "2970840"
+		"manifests"
+		{
+		}
+	}
+	"2970880"
+	{
+		"dlcappid" "2970880"
+	}
+	"2970920"
+	{
+		"dlcappid" "2970920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3313800801916416606"
+				"size" "8621651005"
+				"download" "8384381920"
+			}
+		}
+	}
+	"2971180"
+	{
+		"dlcappid" "2971180"
+		"manifests"
+		{
+		}
+	}
+	"2971200"
+	{
+		"dlcappid" "2971200"
+	}
+	"2971210"
+	{
+		"dlcappid" "2971210"
+		"manifests"
+		{
+		}
+	}
+	"2971190"
+	{
+		"dlcappid" "2971190"
+		"manifests"
+		{
+		}
+	}
+	"2971230"
+	{
+		"dlcappid" "2971230"
+		"manifests"
+		{
+		}
+	}
+	"2971220"
+	{
+		"dlcappid" "2971220"
+		"manifests"
+		{
+		}
+	}
+	"2971240"
+	{
+		"dlcappid" "2971240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1540377158250474544"
+				"size" "115510704"
+				"download" "113074960"
+			}
+		}
+	}
+	"2971250"
+	{
+		"dlcappid" "2971250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4591565230362433233"
+				"size" "36955061"
+				"download" "34934272"
+			}
+		}
+	}
+	"2971260"
+	{
+		"dlcappid" "2971260"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7030935818569171171"
+				"size" "255903531"
+				"download" "245921968"
+			}
+		}
+	}
+	"2971270"
+	{
+		"dlcappid" "2971270"
+		"manifests"
+		{
+		}
+	}
+	"3260370"
+	{
+		"dlcappid" "3260370"
+		"manifests"
+		{
+		}
+	}
+	"3260380"
+	{
+		"dlcappid" "3260380"
+		"manifests"
+		{
+		}
+	}
+	"3260400"
+	{
+		"dlcappid" "3260400"
+	}
+	"3260390"
+	{
+		"dlcappid" "3260390"
+	}
+	"3260410"
+	{
+		"dlcappid" "3260410"
+	}
+	"3260430"
+	{
+		"dlcappid" "3260430"
+	}
+	"3260420"
+	{
+		"dlcappid" "3260420"
+	}
+	"3260440"
+	{
+		"dlcappid" "3260440"
+	}
+	"3260450"
+	{
+		"dlcappid" "3260450"
+	}
+	"3260460"
+	{
+		"dlcappid" "3260460"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16725973"
+			"timeupdated" "1734433824"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26692084"
+"_sha" "4f6265f0d4dd685149dedc5a47a2a37644884d61"
+"_size" "29276"
