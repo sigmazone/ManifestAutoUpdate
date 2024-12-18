@@ -10,6 +10,51 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1734048000"
+		"tested_build_id" "16640506"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "ANTONBLAST"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -141,31 +186,33 @@
 		}
 	}
 	"steam_release_date" "1733245230"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/antonblast\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1887400"
 	"store_tags"
 	{
 		"0" "5379"
-		"1" "19"
-		"2" "5363"
-		"3" "3834"
-		"4" "1734"
-		"5" "4182"
-		"6" "1751"
-		"7" "4195"
-		"8" "5537"
-		"9" "4004"
-		"10" "1664"
-		"11" "1625"
-		"12" "492"
-		"13" "3871"
-		"14" "4106"
-		"15" "1710"
-		"16" "7481"
-		"17" "4305"
-		"18" "4975"
-		"19" "5154"
+		"1" "4026"
+		"2" "19"
+		"3" "1734"
+		"4" "492"
+		"5" "3871"
+		"6" "5363"
+		"7" "3834"
+		"8" "4182"
+		"9" "1751"
+		"10" "4195"
+		"11" "5537"
+		"12" "4004"
+		"13" "1664"
+		"14" "1625"
+		"15" "4106"
+		"16" "1710"
+		"17" "7481"
+		"18" "4305"
+		"19" "4975"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -196,18 +243,18 @@
 		{
 			"public"
 			{
-				"gid" "5543742955322807928"
-				"size" "516383230"
-				"download" "360651024"
+				"gid" "7193885558087331170"
+				"size" "516714260"
+				"download" "360739760"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "36A76A6B4AB573E7233475F38D1368C2"
-				"size" "F8A9AA81BC964146CA795349DF69131A"
-				"download" "F26336EF4730C21007C97B32F2CEF262"
+				"gid" "8195289BA419D1B2EE1FCFFE8E8F5D1B"
+				"size" "55A183B4648DC3A3574B5E25F539BDB6"
+				"download" "58640A9A18D6121083055C253D8DF241"
 			}
 		}
 	}
@@ -215,14 +262,14 @@
 	{
 		"public"
 		{
-			"buildid" "16713044"
-			"timeupdated" "1733952908"
+			"buildid" "16782249"
+			"timeupdated" "1734499063"
 		}
 		"internal"
 		{
-			"buildid" "16713044"
+			"buildid" "16782249"
 			"pwdrequired" "1"
-			"timeupdated" "1733952734"
+			"timeupdated" "1734498389"
 		}
 	}
 }
@@ -264,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26604406"
-"_sha" "e41619dcfeeb47fef3340df8f9c5f5a8f3cbc85c"
-"_size" "4254"
+"_change_number" "26703449"
+"_sha" "83647f3d60d91788ac8a9fb3abc1d31378f88fc7"
+"_size" "5504"
