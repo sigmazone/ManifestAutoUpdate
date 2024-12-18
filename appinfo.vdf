@@ -13,6 +13,22 @@
 	{
 	}
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
 	"aicontenttype" "1"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -81,7 +97,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732211146"
+	"store_asset_mtime" "1734450841"
 	"associations"
 	{
 		"0"
@@ -317,21 +333,21 @@
 		{
 			"public"
 			{
-				"gid" "2159067064455346281"
-				"size" "14430557265"
-				"download" "6863847296"
+				"gid" "8715130416356761966"
+				"size" "14531843074"
+				"download" "6922598464"
 			}
 			"previous_version"
 			{
-				"gid" "3530563343573513561"
-				"size" "13353317349"
-				"download" "6331520752"
-			}
-			"test_edition"
-			{
 				"gid" "2159067064455346281"
 				"size" "14430557265"
 				"download" "6863847296"
+			}
+			"test_edition"
+			{
+				"gid" "8715130416356761966"
+				"size" "14531843074"
+				"download" "6922598464"
 			}
 		}
 		"encryptedmanifests"
@@ -350,27 +366,27 @@
 			}
 			"scion_mvp"
 			{
-				"gid" "744AD6585DF4DDD30ED9405E35DCEF94"
-				"size" "456DE3E2E294B4078E5DB86AC626CB04"
-				"download" "D353B63A478EA51028909D947EF77114"
+				"gid" "D201F9217E4C7B1B23305DAE337C6EA0"
+				"size" "29B99C908094A9782C679C8ED7EE26E3"
+				"download" "55DDE6DF481FE704BB2F90F4D62AB34D"
 			}
 			"test_dev"
 			{
-				"gid" "518B53937A78235B93CCB60B5443E81F"
-				"size" "BDA0C61FB73D0F3FB5D6CF765514074E"
-				"download" "437B8A9BAEAFCD67B67635A2B3740085"
+				"gid" "57492EBFE0F2204F03748B8EEE68B391"
+				"size" "176677E0C26EB99CF3D92DF5E71FF821"
+				"download" "F328CE1C885A716F106CA02D411A7AC1"
 			}
 			"publishing"
 			{
-				"gid" "C97B2695216ADC842A5E5981648EF035"
-				"size" "61006A1326CFD487CB9E92C41ABC2490"
-				"download" "F006D654E8266313E433CAAB715DB395"
+				"gid" "935F5C07E697EA4B2548B65FFA8029C1"
+				"size" "395D998C8045BC22156042D93E6A5984"
+				"download" "4DE9D8C3DD6D21B1546C2EA9D6352234"
 			}
 			"marketing"
 			{
-				"gid" "C49D9DECD82E2E11F2F62C6D0155A485"
-				"size" "A61534D9B0E477AB66775919163AC4D2"
-				"download" "1C75BDF0B8AC6ED70E1E356C463423F4"
+				"gid" "AE81E66706B371DCC1832241D4964EF5"
+				"size" "34DB6DB23AE5CB3954C849A72C60C870"
+				"download" "EAA38AEBFE655B6AD3BF2804F15E9A21"
 			}
 		}
 	}
@@ -502,8 +518,8 @@
 	{
 		"public"
 		{
-			"buildid" "16632855"
-			"timeupdated" "1733336682"
+			"buildid" "16775897"
+			"timeupdated" "1734454108"
 		}
 		"media"
 		{
@@ -519,39 +535,39 @@
 		}
 		"previous_version"
 		{
-			"buildid" "15933417"
-			"description" "v28.16 Build"
-			"timeupdated" "1732197051"
+			"buildid" "16632855"
+			"description" "v1.30 Build"
+			"timeupdated" "1734450971"
 		}
 		"scion_mvp"
 		{
-			"buildid" "16632855"
+			"buildid" "16775897"
 			"pwdrequired" "1"
-			"timeupdated" "1733336615"
+			"timeupdated" "1734454056"
 		}
 		"test_dev"
 		{
-			"buildid" "16632855"
+			"buildid" "16775897"
 			"pwdrequired" "1"
-			"timeupdated" "1733335297"
+			"timeupdated" "1734454064"
 		}
 		"test_edition"
 		{
-			"buildid" "16632855"
+			"buildid" "16775897"
 			"description" "Try out new versions early"
-			"timeupdated" "1733336648"
+			"timeupdated" "1734454072"
 		}
 		"publishing"
 		{
-			"buildid" "16632855"
+			"buildid" "16775897"
 			"pwdrequired" "1"
-			"timeupdated" "1733336627"
+			"timeupdated" "1734454080"
 		}
 		"marketing"
 		{
-			"buildid" "16632855"
+			"buildid" "16775897"
 			"pwdrequired" "1"
-			"timeupdated" "1733336636"
+			"timeupdated" "1734454088"
 		}
 	}
 }
@@ -592,6 +608,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26494019"
-"_sha" "7d4daba34993fc6e1eda082ea4d2dd7adb930664"
-"_size" "11124"
+"_change_number" "26683119"
+"_sha" "e668596b1e6309e55a5ada86832b426fc41c1949"
+"_size" "11377"
