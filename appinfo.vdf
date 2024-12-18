@@ -243,8 +243,8 @@
 	{
 		"0"
 		{
-			"executable" "start_protected_game.exe"
-			"arguments" "-env ptr -dx12 -login steam"
+			"executable" "Stormgate.exe"
+			"arguments" "-noEOS -env ptr -dx12 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -259,8 +259,8 @@
 		}
 		"2"
 		{
-			"executable" "start_protected_game.exe"
-			"arguments" "-env ptr -dx11 -login steam"
+			"executable" "Stormgate.exe"
+			"arguments" "-noEOS -env ptr -dx11 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -275,8 +275,8 @@
 		}
 		"5"
 		{
-			"executable" "start_protected_game.exe"
-			"arguments" "-env stage -dx11 -login steam"
+			"executable" "Stormgate.exe"
+			"arguments" "-noEOS -env stage -dx11 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -290,8 +290,8 @@
 		}
 		"6"
 		{
-			"executable" "start_protected_game.exe"
-			"arguments" "-env stage -dx12 -login steam"
+			"executable" "Stormgate.exe"
+			"arguments" "-noEOS -env stage -dx12 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -347,6 +347,21 @@
 			}
 			"description" "Stormgate - Stage + DX11"
 		}
+		"11"
+		{
+			"executable" "start_protected_game.exe"
+			"arguments" "-env stage -login steam"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "reducedviolence_testing"
+			}
+			"description_loc"
+			{
+				"english" "Stormgate - Reduced Violence Staging"
+			}
+			"description" "Stormgate - Reduced Violence Staging"
+		}
 	}
 }
 "depots"
@@ -375,36 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "2672761380588850292"
-				"size" "10004327264"
-				"download" "8546632288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_fetch_old_build"
-			{
-				"gid" "D8D5AD2C05CFD74E1633DD9599F1E62D"
-				"size" "096811361B33DEDF7B907938A173FAC9"
-				"download" "0D61A4A9AA9C379BD940F3E68F65D196"
-			}
-			"localization_testing"
-			{
-				"gid" "50583274656CAF1D90CEF76B716F38B2"
-				"size" "53757CE43FF05416754AC635F5624630"
-				"download" "BF1178E0F6B35823A89B9FC5B666670D"
-			}
-			"prod_automated"
-			{
-				"gid" "408EB829FA910409ABFD02381CC4BF3C"
-				"size" "AB5BCD0D398413160086EE70115123B3"
-				"download" "2E94D1C039A9B643A6049D794279E60E"
-			}
-			"staging_cinnamon"
-			{
-				"gid" "F4B46ED881B90EE1421A1AD976463467"
-				"size" "AA350425704B393C42FB6FAA273041E4"
-				"download" "B9627BF89BD3303247BED5D4BF7BF6A5"
+				"gid" "2161720575124530288"
+				"size" "10377888575"
+				"download" "8861073936"
 			}
 		}
 	}
@@ -412,36 +400,13 @@
 	{
 		"public"
 		{
-			"buildid" "16399048"
-			"timeupdated" "1731547256"
-		}
-		"dev_fetch_old_build"
-		{
-			"buildid" "16070162"
-			"pwdrequired" "1"
-			"timeupdated" "1729127856"
-		}
-		"localization_testing"
-		{
-			"buildid" "16173311"
-			"pwdrequired" "1"
-			"timeupdated" "1730142916"
-		}
-		"prod_automated"
-		{
-			"buildid" "11141946"
-			"pwdrequired" "1"
-			"timeupdated" "1683074374"
-		}
-		"staging_cinnamon"
-		{
-			"buildid" "16399048"
-			"pwdrequired" "1"
-			"timeupdated" "1731543038"
+			"buildid" "16743609"
+			"timeupdated" "1734467730"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26184812"
-"_sha" "4085ea072b3164ca89da23403d8975e079a85fc5"
-"_size" "8043"
+"_change_number" "26684237"
+"_sha" "8de39d379b9404294dc179ac9886fb97c2fa6d44"
+"_size" "7170"
