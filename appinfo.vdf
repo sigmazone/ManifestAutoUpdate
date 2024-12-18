@@ -262,8 +262,8 @@
 		"3" "21"
 		"4" "599"
 		"5" "5981"
-		"6" "15564"
-		"7" "1702"
+		"6" "1702"
+		"7" "15564"
 		"8" "22602"
 		"9" "3834"
 		"10" "597"
@@ -272,13 +272,13 @@
 		"13" "3843"
 		"14" "4182"
 		"15" "4747"
-		"16" "1643"
-		"17" "4726"
+		"16" "4726"
+		"17" "1643"
 		"18" "4520"
 		"19" "1684"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -327,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "7721413019743016233"
-				"size" "4083079059"
-				"download" "2067301808"
+				"gid" "1510453432398146102"
+				"size" "4083077429"
+				"download" "2067294592"
 			}
 		}
 	}
@@ -337,8 +337,8 @@
 	{
 		"public"
 		{
-			"buildid" "16721876"
-			"timeupdated" "1734017188"
+			"buildid" "16785465"
+			"timeupdated" "1734521057"
 		}
 	}
 	"privatebranches" "1"
@@ -389,9 +389,22 @@
 			"path" "FeelFreeGames\\Luma Island\\Config\\{64BitSteamID}"
 			"pattern" "settings"
 		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "FeelFreeGames\\Luma Island\\Config\\{64BitSteamID}"
+			"pattern" "account"
+		}
+		"7"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "My Games\\Luma Island\\Config\\{64BitSteamID}"
+			"pattern" "account"
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26613613"
-"_sha" "09b099ac44ad535d5953a1356f6f9d94ca114b4d"
-"_size" "7443"
+"_change_number" "26693872"
+"_sha" "4081e8c6f03b5ce65e4fe7e6d79b0a7e87669824"
+"_size" "7738"
