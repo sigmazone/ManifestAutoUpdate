@@ -1,0 +1,3991 @@
+"appid" "427100"
+"common"
+{
+	"name" "Fernbus Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "9b7c173e78ca7894e099b727895a1d7f78358484"
+	"clienttga" "c756ced534faa277bebe911074fdf376358319ae"
+	"icon" "7b8d2c569268cdca5410b3bf4ab74baefecb6011"
+	"logo" "56368b536a544573aba6b0c93bfb03061adb8ba3"
+	"logo_small" "56368b536a544573aba6b0c93bfb03061adb8ba3_thumb"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "427100_eula_1"
+			"name" "Fernbus Simulator EULA 1"
+			"url" "http://store.steampowered.com//eula/427100_eula_1"
+			"version" "1"
+		}
+	}
+	"osarch" "64"
+	"name_localized"
+	{
+		"schinese" "长途客车模拟"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1688688000"
+		"tested_build_id" "11535047"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Fernbus Simulator"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"german" "capsule_231x87_german.jpg"
+	}
+	"header_image"
+	{
+		"german" "header_german.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,de"
+		"library_hero" "en"
+		"library_logo" "en,de"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.070011668611414"
+			"height_pct" "98.10030403947435"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"german" "library_600x900_german.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"german" "logo_german.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"german" "logo_german_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.070011668611414"
+				"height_pct" "98.10030403947435"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1710253677"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TML-Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Aerosoft GmbH"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "aerosoft"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Aerosoft"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1472108940"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "427100"
+	"store_tags"
+	{
+		"0" "1100687"
+		"1" "599"
+		"2" "1644"
+		"3" "4175"
+		"4" "3859"
+		"5" "1695"
+		"6" "4182"
+		"7" "1669"
+		"8" "3839"
+		"9" "4166"
+		"10" "597"
+		"11" "3834"
+		"12" "1654"
+		"13" "3968"
+		"14" "12472"
+		"15" "21"
+		"16" "4305"
+		"17" "4711"
+		"18" "3843"
+		"19" "113"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "TML-Studios"
+	"publisher" "Aerosoft GmbH"
+	"homepage" "https://www.tml-studios.de/"
+	"gamemanualurl" "https://store.steampowered.com/manual/427100/"
+	"listofdlc" "569700,602730,612260,612261,654120,686280,724420,724440,729490,937720,1026740,1121030,1121090,1140660,1140661,1140662,1154770,1158120,1250730,1370010,1446990,1446991,1471310,1635100,1847550,2294410,2294411,2294412,2294413,2407421"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Fernbus Simulator"
+	"steamcontrollertemplateindex" "2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fernbus\\Binaries\\Win64\\Fernbus-Win64-Shipping.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 12 (Default)"
+				"german" "DirectX 12 (Standard)"
+			}
+			"description" "DirectX 12 (Default)"
+		}
+		"1"
+		{
+			"executable" "Fernbus\\Binaries\\Win64\\Fernbus-Win64-Shipping.exe"
+			"arguments" "FDLC_Main"
+			"type" "option2"
+			"config"
+			{
+				"ownsdlc" "729490"
+			}
+			"description_loc"
+			{
+				"english" "Fußball Mannschaftsbus"
+			}
+			"description" "Fußball Mannschaftsbus"
+		}
+		"2"
+		{
+			"executable" "Fernbus\\Binaries\\Win64\\Fernbus-Win64-Shipping.exe"
+			"arguments" "-dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 11 (for older hardware)"
+				"german" "DirectX 11 (für ältere Hardware)"
+			}
+			"description" "DirectX 11 (for older hardware)"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,swedish,hungarian,turkish,arabic,brazilian"
+	"workshopdepot" "427100"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"427101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5032106288689558037"
+				"size" "34893695491"
+				"download" "26903656352"
+			}
+			"last_ue4"
+			{
+				"gid" "6006381499418517083"
+				"size" "17892392368"
+				"download" "14441037728"
+			}
+			"beta"
+			{
+				"gid" "5032106288689558037"
+				"size" "34893695491"
+				"download" "26903656352"
+			}
+			"local"
+			{
+				"gid" "6922694134884114551"
+				"size" "34893695491"
+				"download" "26906756320"
+			}
+			"previousversion"
+			{
+				"gid" "7816694438407756206"
+				"size" "25297133499"
+				"download" "19817621744"
+			}
+			"test_local"
+			{
+				"gid" "8725237048228006398"
+				"size" "35000278524"
+				"download" "26989521536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "9D302A7EC13ABCB39E59CD5FD1782704"
+				"size" "02093CB359BF7B9EB2B5BFA1D5D6BBF6"
+				"download" "5A6B4CDA99BD6DACA2F1FF1A2686C22C"
+			}
+			"closed_beta"
+			{
+				"gid" "A9AA6527BE7CC0F10E645E710CF941E6"
+				"size" "D178CA3A7050CDD24521D84F05C66DB4"
+				"download" "8C4F3C72E2BD908ECEA9BD38D53F7746"
+			}
+			"denuvo"
+			{
+				"gid" "D9861C4CACC882C961670BE91CEC093A"
+				"size" "FE6B7D83F0E13655B762EBD887FA4989"
+				"download" "A5522DC5149767524838A2E96DD964DD"
+			}
+			"gamescom"
+			{
+				"gid" "3797ED3F84AC40B855A3EBFF21010026"
+				"size" "F853BAF2AD7020C75D7537CCEB28CD71"
+				"download" "1A4BEF141B2EA8922FB44B2EAEC3C703"
+			}
+			"halycon"
+			{
+				"gid" "DCC968E1F52ADCF318BF94967A444165"
+				"size" "BCFD97916601097909962C2340DF4751"
+				"download" "F45E6594A96A2316C6557623D366B68F"
+			}
+			"localisation"
+			{
+				"gid" "BF156A3CEA4E8AE9B4B0200FC6BBD18B"
+				"size" "72D3B02D06204717FC41038F39107989"
+				"download" "55817142520BEF1210DD193D579EE21F"
+			}
+			"nightlybuild"
+			{
+				"gid" "C1CFD3476B1D9909E0D5DF1114FBBC2D"
+				"size" "F406C1257FA0D03CBB5A1B26EA3CAE20"
+				"download" "5FF71A0D58A0BFE59AA694E585BE86D4"
+			}
+			"test"
+			{
+				"gid" "039FACAD360E8EB2735C049E0EA90830"
+				"size" "718BEF32ABC091A64BA23B063C0569E1"
+				"download" "86D7624171691F9D5B2D6EFA3C5CEB01"
+			}
+		}
+	}
+	"427102"
+	{
+		"dlcappid" "569700"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3039167669064314363"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "537536275568981351"
+				"size" "53030151"
+				"download" "42400864"
+			}
+			"beta"
+			{
+				"gid" "3039167669064314363"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "3039167669064314363"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "3039167669064314363"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "3039167669064314363"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "A7B73E32F8EB579867DD7FA2C3FA29ED"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "0FEA5C936EBDA93E314BADEFF4A8061F"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "0ADBACC07052D5A609ED941A54E35FC3"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "1D8B6B87244CB2B0577078A9147C5CD4"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "17366663335C0D8ACFB59721E3AA094E"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "9167F0D4753C004B8AABCE1882BD9730"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "D62C051633E656FB8DE5E51B1782A9C1"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "5691FF1FA27A97DE8634E63139B3FD66"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"427103"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "602730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3230596282498798904"
+				"size" "710765220"
+				"download" "657904464"
+			}
+			"last_ue4"
+			{
+				"gid" "4803355736509766210"
+				"size" "831536959"
+				"download" "840845840"
+			}
+			"beta"
+			{
+				"gid" "3230596282498798904"
+				"size" "710765220"
+				"download" "657904464"
+			}
+			"local"
+			{
+				"gid" "3230596282498798904"
+				"size" "710765220"
+				"download" "657904464"
+			}
+			"previousversion"
+			{
+				"gid" "6307038282355530486"
+				"size" "774404249"
+				"download" "720910384"
+			}
+			"test_local"
+			{
+				"gid" "3230596282498798904"
+				"size" "710765220"
+				"download" "657904464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "505DF8105F216DF7BB24D6AAD33586DC"
+				"size" "0492D22C743D3DDA470D3E430C212F89"
+				"download" "88A67D81F3C4761C390E7332C691B290"
+			}
+			"closed_beta"
+			{
+				"gid" "882DA988AB4D7B6BB38C417CD339954B"
+				"size" "5664A06731C2965B1547D279AF7E0266"
+				"download" "F3F3A9F0A9C7B7F511DFA25B2A03B374"
+			}
+			"denuvo"
+			{
+				"gid" "E993F69D55087762D29E80535472A16C"
+				"size" "3666D45BCD85A1727CC93A3EE1E63535"
+				"download" "41EC04CF331B46BEC3F28154BE3D27D5"
+			}
+			"gamescom"
+			{
+				"gid" "CF63100F00D74936F680DEC1AD889BA7"
+				"size" "30A71D1B55D5FBE3106E19709C8C9B61"
+				"download" "A39EA7F4CEFB2915D5773935DF492BA2"
+			}
+			"halycon"
+			{
+				"gid" "24BF45E10208FB9E2747B46AABDC4064"
+				"size" "DD3BAA8DF6E03295F625459879B9DA24"
+				"download" "4059EB70DC61F4A61112B9BF738A0835"
+			}
+			"localisation"
+			{
+				"gid" "E5C1717EF02085FAD280A75532EF7483"
+				"size" "EE7BBE4136F20FB7D8BD100F8E88DC2A"
+				"download" "4BE5584E094E399AE0432CC44F8132A0"
+			}
+			"nightlybuild"
+			{
+				"gid" "76FBBD2F4B6BC0D3EB27C7643C2C8982"
+				"size" "9B0BD74F761A7168C53D3CD4603589F9"
+				"download" "C4F0805FB2DC981A61322DE8DEEDFB08"
+			}
+			"test"
+			{
+				"gid" "A51304DC1F19651DCEF7140AF81AA5FE"
+				"size" "6C44195A1DE7349F0BDFBA372203FCD2"
+				"download" "76DF6E645A48C365EF3BA9F399CBCE39"
+			}
+		}
+	}
+	"427104"
+	{
+		"dlcappid" "612260"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "299553215479527120"
+				"size" "196090664"
+				"download" "133806400"
+			}
+			"last_ue4"
+			{
+				"gid" "21633646188346921"
+				"size" "180341738"
+				"download" "129953824"
+			}
+			"beta"
+			{
+				"gid" "299553215479527120"
+				"size" "196090664"
+				"download" "133806400"
+			}
+			"local"
+			{
+				"gid" "299553215479527120"
+				"size" "196090664"
+				"download" "133806400"
+			}
+			"previousversion"
+			{
+				"gid" "2693200379982381436"
+				"size" "197138990"
+				"download" "133788032"
+			}
+			"test_local"
+			{
+				"gid" "8564398459978305108"
+				"size" "196090776"
+				"download" "133810304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "DAD23C0545BF0948B161C4A72A1395EA"
+				"size" "0E16AED06BBC38AE139336645A68CB2C"
+				"download" "51F4DCEF6F6F6E3E1B8E8A529225A1CD"
+			}
+			"closed_beta"
+			{
+				"gid" "6C98D72B5233F22F9C971261ACC209C7"
+				"size" "1FF0B7AFB331B592F8DBA38AB4655AAE"
+				"download" "BEA22D8EF553DE96EA1FCF29C3864C82"
+			}
+			"denuvo"
+			{
+				"gid" "95FBFB66DDDB2D24EDEEC24A9A88F83D"
+				"size" "3D0F7BD5BA925C3F96CF98C71BB88115"
+				"download" "48659A4808EA638B2CAFC0F2282F6198"
+			}
+			"gamescom"
+			{
+				"gid" "23DB2DD42E656A89D16DF6BEA8A68440"
+				"size" "7498D4F5DAEA1CD893B6CA466F9BFFB7"
+				"download" "EE572D6B82073382434B310606178456"
+			}
+			"halycon"
+			{
+				"gid" "E5C53DB5A5F527D2838AA6C535CB5DE5"
+				"size" "AE4475542338F04DDAB4400D484B8745"
+				"download" "523642229667DA10FD5FF28020DD712E"
+			}
+			"localisation"
+			{
+				"gid" "1CEA5E62A81DF059841FE53097C53A8A"
+				"size" "9861367198BF43F1F5D0B6DC1AC57632"
+				"download" "48E7AA3DD2227B097A6B5C47D064DD3B"
+			}
+			"nightlybuild"
+			{
+				"gid" "1184951F8235858FC0E0E3788FA7DC95"
+				"size" "76599D34EE2A3EA4AE5B7C14A4355434"
+				"download" "FAB959921B326C8BFDB85D9C84C07832"
+			}
+			"test"
+			{
+				"gid" "1ECDB9A3CAAC673B746D9A262193867C"
+				"size" "C8FA9C27F5CCA02B297B46B5FB18CE59"
+				"download" "9AE802D1DC11148C72CF06AFADDAB2A0"
+			}
+		}
+	}
+	"427105"
+	{
+		"dlcappid" "612261"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4148920806485315865"
+				"size" "1417804336"
+				"download" "1229281360"
+			}
+			"last_ue4"
+			{
+				"gid" "2105150201104052430"
+				"size" "1302419087"
+				"download" "1076984672"
+			}
+			"beta"
+			{
+				"gid" "4148920806485315865"
+				"size" "1417804336"
+				"download" "1229281360"
+			}
+			"local"
+			{
+				"gid" "8538292100890920589"
+				"size" "1417804336"
+				"download" "1229282032"
+			}
+			"previousversion"
+			{
+				"gid" "6028815350381654197"
+				"size" "1298205823"
+				"download" "1110504816"
+			}
+			"test_local"
+			{
+				"gid" "329196875820123677"
+				"size" "1404174610"
+				"download" "1214510208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "8AD01E3CEA9B9F3702EF2FEBBCB4C6D6"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "B7669D9EE425FB23E665BD61B855B3A3"
+				"size" "7018149112AC18576133420A4FF8B0E0"
+				"download" "C7C337AD4A667128576BEEE80B0AAFA1"
+			}
+			"denuvo"
+			{
+				"gid" "66DE65EEBD79D97A2A82FC32E505C1C1"
+				"size" "83F30C4FD26254E89B495503E596FF9B"
+				"download" "0C6C50A98C5612E024B96295655B4DE3"
+			}
+			"gamescom"
+			{
+				"gid" "CED1BC739790482C1544D93238D601D5"
+				"size" "C3AEF7448D8A499DDF0C8A54F86D3FC5"
+				"download" "53E5C816104EB043447E8FCF66EE0175"
+			}
+			"halycon"
+			{
+				"gid" "95243D8376E0FA5F039A1099EB6BD3C1"
+				"size" "4CEF20B1BE6F4760B80382CBA681941E"
+				"download" "7CCC64E786CCE2FE7B41F58DE10E7E95"
+			}
+			"localisation"
+			{
+				"gid" "FDAE1C9C3FBC9C86A71B63D103413C24"
+				"size" "9B2510F1DC398F7C84F0E0EAEF61C4FF"
+				"download" "5B3967E660EFDD2665EB3F7D8F682F61"
+			}
+			"nightlybuild"
+			{
+				"gid" "059C7DE15C1801642CB878F62C6CC72E"
+				"size" "07470C1C9B9BB9D5DBB44269FA2BAA05"
+				"download" "1D4DE6B4476406D8021AD2F098EB166C"
+			}
+			"test"
+			{
+				"gid" "581A31F974A77E422AAE2FF90DC05012"
+				"size" "05A08C92618F5B9FE431772E42DF2FB7"
+				"download" "4E896D8E18C4DA872639E009CF74828A"
+			}
+		}
+	}
+	"427106"
+	{
+		"dlcappid" "654120"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6410608524541558477"
+				"size" "7049671460"
+				"download" "6076604944"
+			}
+			"last_ue4"
+			{
+				"gid" "2808688637662165816"
+				"size" "4702229783"
+				"download" "3655430640"
+			}
+			"beta"
+			{
+				"gid" "6410608524541558477"
+				"size" "7049671460"
+				"download" "6076604944"
+			}
+			"local"
+			{
+				"gid" "6911819985482051863"
+				"size" "7049671460"
+				"download" "6076614800"
+			}
+			"previousversion"
+			{
+				"gid" "3460697932929617008"
+				"size" "5647093024"
+				"download" "4723166544"
+			}
+			"test_local"
+			{
+				"gid" "6136308502069883345"
+				"size" "7164022975"
+				"download" "6181584880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "E93AFFBC311FA7DE6F96D6D5F05FFC06"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "924168A7D074B95616FD3340674DD47E"
+				"size" "57DB33BC9FAB22A50678D88F32142393"
+				"download" "1072FB050677EE314C3E78DA1FBB244B"
+			}
+			"denuvo"
+			{
+				"gid" "E55E678A49723452DE544208548B7167"
+				"size" "896CD8A4920BA5200AE2AC737DEEBEE2"
+				"download" "626DC3C38BCAD2939A2537AA0F8B5BAA"
+			}
+			"gamescom"
+			{
+				"gid" "B315B2B873FDFAE6B865816E7173E751"
+				"size" "5DA993033494BC4215464FA2DE19A31C"
+				"download" "0710900F3CD5E7DD4B4C2A071460B5FA"
+			}
+			"halycon"
+			{
+				"gid" "89EE4CADE240C90B1D5E51E603B9A6DF"
+				"size" "2A0BB72E4912A8B69D103A3908912B2B"
+				"download" "A03A8910EBBB4BFB00C24578743D101D"
+			}
+			"localisation"
+			{
+				"gid" "23E89DB09E03B920F904E3BB02806400"
+				"size" "7904A43B67C7C0764EBB6FCE94FC59A0"
+				"download" "902C8BAD74BEC7E01D9003F4C6229283"
+			}
+			"nightlybuild"
+			{
+				"gid" "D9E9E48341DA9C47E8AA1BFE3A99F4DD"
+				"size" "06BB86B2BD4539B8C67BC85F7E863D80"
+				"download" "BCE56FCC452AD46C9C694A50B23D1DC1"
+			}
+			"test"
+			{
+				"gid" "DC3FA88CDDA29158B851E3890AFAF3D0"
+				"size" "875D5599BE4492DEC4E8B2DD2569963A"
+				"download" "B8142162C39BC975DA9B07E72559BA18"
+			}
+		}
+	}
+	"427107"
+	{
+		"dlcappid" "686280"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2171741504326019609"
+				"size" "29525855"
+				"download" "7085696"
+			}
+			"last_ue4"
+			{
+				"gid" "1646432525140859107"
+				"size" "52329786"
+				"download" "5764992"
+			}
+			"beta"
+			{
+				"gid" "2171741504326019609"
+				"size" "29525855"
+				"download" "7085696"
+			}
+			"local"
+			{
+				"gid" "2171741504326019609"
+				"size" "29525855"
+				"download" "7085696"
+			}
+			"previousversion"
+			{
+				"gid" "6830371198400069659"
+				"size" "29524705"
+				"download" "7082240"
+			}
+			"test_local"
+			{
+				"gid" "6235603666925245693"
+				"size" "29525855"
+				"download" "7086208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "658EA5502E922404D180236EAE303676"
+				"size" "AA84C5DA624C16153F8D34BF23C77645"
+				"download" "3E6725602E668AF5F42140D4E773E81B"
+			}
+			"closed_beta"
+			{
+				"gid" "7C611BABE7A1DA156F47C22C65C10B38"
+				"size" "42812C5DCB1F38D29025FA55EA66142C"
+				"download" "015DC0D2D5D0EB0039966BD92C181618"
+			}
+			"denuvo"
+			{
+				"gid" "349A1C585985B034FEF744D0DC072A71"
+				"size" "E04E376D3157DFAD61720ED622EC0BD3"
+				"download" "DD5D44D99D248ED8984947EEC643A3F8"
+			}
+			"gamescom"
+			{
+				"gid" "61576BABC656BC3B0D20FCD30A1E2D12"
+				"size" "841FC9C3FB8E227BE438FA7C6D1CE408"
+				"download" "7B3729E05625988CB0D0F877685EF60E"
+			}
+			"halycon"
+			{
+				"gid" "B7CD177A30C300F6D4D7AD9E8421249A"
+				"size" "037EA139D405A1DE1B893D3505C8D1FB"
+				"download" "56BB6F546F955B76B3EC6AC4043EF57B"
+			}
+			"localisation"
+			{
+				"gid" "C7526FC6397E0BA334914FF3AF28717E"
+				"size" "C818641D446F721576368A6379CDE8CD"
+				"download" "9533631970BE07BB46CF7D5DFEE238A6"
+			}
+			"nightlybuild"
+			{
+				"gid" "C3E6DFC37A031021A7DAE2E63352CC74"
+				"size" "B1B9E522C9DD37710CE0CB70C035CF98"
+				"download" "F85EC27F04D5C94A1F049C186698B385"
+			}
+			"test"
+			{
+				"gid" "FB904C4915BBA4DB6CD9E121BA3F1A82"
+				"size" "94BDC293D7981AEEA011BFEBFD6BDD10"
+				"download" "A3A1911723208B3F86558E26BF9FBA70"
+			}
+		}
+	}
+	"427108"
+	{
+		"dlcappid" "724420"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6451832587382769975"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "3551655388300072267"
+				"size" "146659565"
+				"download" "128358816"
+			}
+			"beta"
+			{
+				"gid" "6451832587382769975"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "6451832587382769975"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "6451832587382769975"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "6451832587382769975"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "3B1674FE0AE1CD450B0F580114A8AFCD"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "095F4B593CBDCEABF0207680DA76C32D"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "1D0CA119C7BC4C1FDAA74C0CB34B3DB4"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "631E8585AC5C1B1DD60FDF31247A1B93"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "8D70C944E16A18950F839A7E0F1A18CE"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "FA82F418E2D8A249FBB52E754A0C645B"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "DA958CD7893A0E29D7CB222B8011D06D"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "3CEF0C392E3DB70E10C9C7A7D76266E9"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"427109"
+	{
+		"dlcappid" "724440"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "576903352774981856"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "4377590248487353292"
+				"size" "127059894"
+				"download" "108387952"
+			}
+			"beta"
+			{
+				"gid" "576903352774981856"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "576903352774981856"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "576903352774981856"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "576903352774981856"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "DB32A9E55648CEAB0DD0A9DAFECFC541"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "BC84C8950F03857C3C598D3DE63EAAEB"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "B4CB91A0D7645E0392A9A9FE94B4ACEB"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "65919569486F3844775B1678320B2630"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "8324B0AB05DA0CDE76B636FEBD67877E"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "04A79C5001FF33E733B74C76ABDFCCDB"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "9D5B170463CD3BA474ABA89DA9918DC4"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "BBBA12411F16BDA680893DEFF4EFA31C"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"427110"
+	{
+		"dlcappid" "729490"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1049470228287365905"
+				"size" "138439433"
+				"download" "106940256"
+			}
+			"last_ue4"
+			{
+				"gid" "4003310702166613993"
+				"size" "119431357"
+				"download" "94158800"
+			}
+			"beta"
+			{
+				"gid" "1049470228287365905"
+				"size" "138439433"
+				"download" "106940256"
+			}
+			"local"
+			{
+				"gid" "1049470228287365905"
+				"size" "138439433"
+				"download" "106940256"
+			}
+			"previousversion"
+			{
+				"gid" "8782324229081944541"
+				"size" "117451426"
+				"download" "91798992"
+			}
+			"test_local"
+			{
+				"gid" "1548546376544633905"
+				"size" "138439433"
+				"download" "106938176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "56F51CA7126825BD3253BF7800CF6776"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "8DA9C21EFFC971B5D1DFE0A917169ADE"
+				"size" "C7851184AB5076F9516FBCF68CA81FD2"
+				"download" "526E961F069EFA6FE2670319FFC95427"
+			}
+			"denuvo"
+			{
+				"gid" "303270026354297E329BD33A71FDDC4E"
+				"size" "9EC92B535CAEFBF15977F42E9076DCF8"
+				"download" "908F4D915105C7A58AD8EB0E5E48FE70"
+			}
+			"gamescom"
+			{
+				"gid" "F1654CEE761007F6192BB22EF72D7A0F"
+				"size" "2726A52839D6017B2F7A9309877CE9D7"
+				"download" "CE0E1A184984C3F691E16B33D8E8A62E"
+			}
+			"halycon"
+			{
+				"gid" "15ACCBB7B4E1226CF6A9A5FF414E7F7D"
+				"size" "690820EA171326004FAD89E7E954F6A5"
+				"download" "62CA1B9FE93988309166FAAE4DAA5162"
+			}
+			"localisation"
+			{
+				"gid" "CD087EDAEBA8F97468353C9DBD9C0B2C"
+				"size" "C175C625049B7437BF6C91001897E087"
+				"download" "EFAE0C5E6D4E93C3A9A66B06BE8E0B28"
+			}
+			"nightlybuild"
+			{
+				"gid" "F8C47DF33FA209BBE5D716DD0EA4559E"
+				"size" "98DD391BBFC7FF156326319064C333DA"
+				"download" "202AE41D1CA784A8747BD1ADAB2CD88E"
+			}
+			"test"
+			{
+				"gid" "A76BF9E3FA78072EF5CEF82E41409E01"
+				"size" "E77BE64DBC77C409A684C0B3B401CF16"
+				"download" "EBD64DCFA7E132F251F24BE093896780"
+			}
+		}
+	}
+	"427111"
+	{
+		"dlcappid" "937720"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1425848201720604132"
+				"size" "5676377"
+				"download" "4896656"
+			}
+			"last_ue4"
+			{
+				"gid" "749663090472946942"
+				"size" "4800486"
+				"download" "4029904"
+			}
+			"beta"
+			{
+				"gid" "1425848201720604132"
+				"size" "5676377"
+				"download" "4896656"
+			}
+			"local"
+			{
+				"gid" "1425848201720604132"
+				"size" "5676377"
+				"download" "4896656"
+			}
+			"previousversion"
+			{
+				"gid" "4744178058418458905"
+				"size" "5681329"
+				"download" "4895904"
+			}
+			"test_local"
+			{
+				"gid" "5544785484119791867"
+				"size" "5676587"
+				"download" "4896672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "821FD396AA292D41E57306478DFFCC9B"
+				"size" "B2A0BD0258E5C0405B3E0CCD692FA759"
+				"download" "4BA1986BF32A17E2B7316A3B204CD6B4"
+			}
+			"closed_beta"
+			{
+				"gid" "EEF31F2DDBCC6E88E2DFE4F81B953229"
+				"size" "4D9737807E90B8101DF60862FAB53039"
+				"download" "D0868CDA98FD8B5A652C7434A86CB5BA"
+			}
+			"denuvo"
+			{
+				"gid" "7A89BFD2A8C3974DC0129D900E05AB69"
+				"size" "4A5E4645F5055F0B97B5194F9F6EFECC"
+				"download" "666DF3024374F8D84DC695D454142952"
+			}
+			"gamescom"
+			{
+				"gid" "F388BEA062D90498E3F2A4645205F3AC"
+				"size" "1A98CA473F10831FAEB1700BD9C29CF3"
+				"download" "CCB7909EEE80A687B2B140FE7A2A9593"
+			}
+			"halycon"
+			{
+				"gid" "4E7D98505D46DDDED1CE0E67348CDF10"
+				"size" "29958F36A5F5BC39F648361547D55383"
+				"download" "5A4F28F311E42D282BB329E58050FA9E"
+			}
+			"localisation"
+			{
+				"gid" "08E33BD50336444427EE47BFD6084F44"
+				"size" "8649C1AC33EE28C97808C33C89F6CE5D"
+				"download" "C4900457C34BF6EBB5BE939625800E0C"
+			}
+			"nightlybuild"
+			{
+				"gid" "AE746B69EBAB0C45CC778F6FEF2D5C7D"
+				"size" "07D031318670F60259FFACACCC5C8270"
+				"download" "29E2B8BA034DDAA5892C1D9744E35341"
+			}
+			"test"
+			{
+				"gid" "9E038BF58AAE5A8251343757D3A27CB2"
+				"size" "30DC9C4E99FBE71D047A878F31E53836"
+				"download" "EEB438B4F2CD0EC558AA7AA9ECDFE3F0"
+			}
+		}
+	}
+	"427112"
+	{
+		"dlcappid" "1026740"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6745388767416594167"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "2413983893752570637"
+				"size" "57238610"
+				"download" "49493104"
+			}
+			"beta"
+			{
+				"gid" "6745388767416594167"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "6745388767416594167"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "6745388767416594167"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "6745388767416594167"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "41B2893FB686812AE06F499EBCF3A440"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "5E4685A0E43DE7663D7E86352E96BBFF"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "0EF99B8CB412C223FD5262C8F4CC5078"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "9117D9C701345B080BEE3C7F20D15A63"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "230E042DFC7256C8DD0B2916C1DA0211"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "3DEDD52C0E16BE838DC7E1E9FBAC6D3B"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "2CB645A1E1D836D20AE6681E4F2BA2E1"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "97E6DCBE87AB24E4029929B1EE3239FB"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"427113"
+	{
+		"dlcappid" "1121030"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3246510030392480116"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "2572650453083588072"
+				"size" "83729580"
+				"download" "71645216"
+			}
+			"beta"
+			{
+				"gid" "3246510030392480116"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "3246510030392480116"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "3246510030392480116"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "3246510030392480116"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "AA2F2078F5A147577362CC03EA5D5291"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "07A92311077AD2BA0269CD4628A3912E"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "12E17C2FA18EDA8C3BD5A5E430D48AD9"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "7260CF3D4BF560C9C4C183BDCDA80F71"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "363AC9C8A9AE0304677E3E760919B0B8"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "4FDDE02307685B9651225F76D63A0EF2"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "D3FDD0D98D18E65BF007F70C1090A094"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "220AEE520ECE9312D4B56F614784F9B0"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"427114"
+	{
+		"dlcappid" "1121090"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "297611507167523911"
+				"size" "120899717"
+				"download" "106082416"
+			}
+			"last_ue4"
+			{
+				"gid" "4784540777969433742"
+				"size" "62311142"
+				"download" "37704240"
+			}
+			"beta"
+			{
+				"gid" "297611507167523911"
+				"size" "120899717"
+				"download" "106082416"
+			}
+			"local"
+			{
+				"gid" "8317403336707709695"
+				"size" "120899717"
+				"download" "106082208"
+			}
+			"previousversion"
+			{
+				"gid" "6979723871985226279"
+				"size" "68077015"
+				"download" "55418512"
+			}
+			"test_local"
+			{
+				"gid" "5223950296511406378"
+				"size" "120883328"
+				"download" "106059872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "18C90771BE461117C6CE1505AF649AD3"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "E0E85F4400815892E654F35117EBF06C"
+				"size" "EC5A7576E02C729A0AFB8DD55F2A2FC9"
+				"download" "EDBBB156C5BB020F5CE0A71EB397D1E0"
+			}
+			"denuvo"
+			{
+				"gid" "0C08C42F7AE236B9D23CCA287BF87423"
+				"size" "CE73449200EAC99B20A9D22F224F4D26"
+				"download" "52BF55AF5DC39834A7DCB1B61596F3AB"
+			}
+			"gamescom"
+			{
+				"gid" "51DABC34D5AD9B0EAF3572100DCECDA4"
+				"size" "32B9FD9D222EA92EACEE234E8F6EE770"
+				"download" "7637A6973BEA573CEDB0D45F3CD2CDE8"
+			}
+			"halycon"
+			{
+				"gid" "FB9F6E4508CEC619C724837D50CEA7C9"
+				"size" "6C00DE3892640733EF17D08C00CED862"
+				"download" "7707B7FE702B09029ABD05E83DB0BCCF"
+			}
+			"localisation"
+			{
+				"gid" "DEDB8807673788C49186C1408ADC06D1"
+				"size" "F06A3EF277132DF7D310490A586652EE"
+				"download" "F7B1EA1D608E584A931B04E474638AC1"
+			}
+			"nightlybuild"
+			{
+				"gid" "1150EDEE5DE159FE92DE931873619601"
+				"size" "26B463D33F3534FD6A9896610E7B113D"
+				"download" "0DAEA3A3E19BAF44DBF39DD504DE7AE9"
+			}
+			"test"
+			{
+				"gid" "80BE30C2365D286C0B645A753C37D547"
+				"size" "6A9BA18BC73F6D1F939DE0416CD2BE4B"
+				"download" "7B21690605AE926647515DA6B4356CE3"
+			}
+		}
+	}
+	"427115"
+	{
+		"dlcappid" "1140660"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5171563531289982901"
+				"size" "978920345"
+				"download" "898310016"
+			}
+			"last_ue4"
+			{
+				"gid" "7735897822842432885"
+				"size" "557274632"
+				"download" "449182320"
+			}
+			"beta"
+			{
+				"gid" "5171563531289982901"
+				"size" "978920345"
+				"download" "898310016"
+			}
+			"local"
+			{
+				"gid" "4425123692394909098"
+				"size" "978920345"
+				"download" "898313808"
+			}
+			"previousversion"
+			{
+				"gid" "5351592571403954911"
+				"size" "674710067"
+				"download" "612368912"
+			}
+			"test_local"
+			{
+				"gid" "8771733588880275834"
+				"size" "964234076"
+				"download" "886159808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "C4A63DF3E97E56EA48BB34ED54C57BE7"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "7E549D803B7EAC93E708CE960F66C3E0"
+				"size" "FCA878439862E6CCB53F844E87CE5469"
+				"download" "96D90979763CFEF11F41E7663C7B6108"
+			}
+			"denuvo"
+			{
+				"gid" "A37647B766D9861EC5CEAF8A5EE96B9C"
+				"size" "FA2B2EC88CCD3D1460152338C6DFCA77"
+				"download" "5A737A3E20B056801BFB84611DBCFB6B"
+			}
+			"gamescom"
+			{
+				"gid" "60477919B737944060E19EDF80B6A2F6"
+				"size" "8AB0168940C53CA5955179B09944BCD4"
+				"download" "A88B2AEE7FCA6C088DA88D489A9E0B74"
+			}
+			"halycon"
+			{
+				"gid" "C1A30751558A2400DAAB128F4D675C70"
+				"size" "296BECD05CCC7733F076830DEB0E55DB"
+				"download" "C5101034B4AC92B8AD3D821BA8E09048"
+			}
+			"localisation"
+			{
+				"gid" "B2A6F49DA7B59BE38CA1441CEC835763"
+				"size" "CAA7285F028D730D3FDE17FC0702181C"
+				"download" "C1869F7B82A198BE1F9295357C4A076E"
+			}
+			"nightlybuild"
+			{
+				"gid" "9BB98C292ED99F2EB376B92143FE987E"
+				"size" "444298B6876E8A6C655912C5CAF6AC19"
+				"download" "CC9AF52169C770D25D17876386CF4E8C"
+			}
+			"test"
+			{
+				"gid" "A92CFF417929967E56BFF1E236FF851D"
+				"size" "ACC0EDFCD98782658CDF1E1CAC6EC08D"
+				"download" "F3444087704D7FABBC94287990EFEFE9"
+			}
+		}
+	}
+	"427116"
+	{
+		"dlcappid" "1140661"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4753703356415113321"
+				"size" "886811135"
+				"download" "788503168"
+			}
+			"last_ue4"
+			{
+				"gid" "4359212454903041451"
+				"size" "527487178"
+				"download" "387683264"
+			}
+			"beta"
+			{
+				"gid" "4753703356415113321"
+				"size" "886811135"
+				"download" "788503168"
+			}
+			"local"
+			{
+				"gid" "7926942670695799526"
+				"size" "886811135"
+				"download" "788504368"
+			}
+			"previousversion"
+			{
+				"gid" "8629169184950804926"
+				"size" "601990735"
+				"download" "519129888"
+			}
+			"test_local"
+			{
+				"gid" "3189443211428936987"
+				"size" "908842057"
+				"download" "809587232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "0369FFCCF26ED24E8433CCC014F48282"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "321252A64771E80DA75705361D6C017F"
+				"size" "056784386007276CBE169715DB6FF775"
+				"download" "B921924D280B7E679C657E872E6322B6"
+			}
+			"denuvo"
+			{
+				"gid" "718AC0A7E6F13B7B4A4479D5D76DBA2C"
+				"size" "23CEA50C4741D6376B5A0D1C1EB1AF2C"
+				"download" "54C17F21A0D853B59AAE8A07D30FCAC4"
+			}
+			"gamescom"
+			{
+				"gid" "7541F591B6D3F28CEB959732DFA74206"
+				"size" "35D881D0A44844A67E59B630A28260C7"
+				"download" "D9B74600674727485656C99A008DF50C"
+			}
+			"halycon"
+			{
+				"gid" "3F2C577264E7447568072C30CF6D4CD8"
+				"size" "435704886E32527BE7C2E3A4BB8F4FAF"
+				"download" "F89807F7AA12FE3FBDC5814907AF85BC"
+			}
+			"localisation"
+			{
+				"gid" "C7B8ED7A56CDCC4DC57EFFF78BC36306"
+				"size" "3781B749DE1BA6039C7B2E94E0364FC9"
+				"download" "8EB47A8991D6B98FBCE1791FA0F589D4"
+			}
+			"nightlybuild"
+			{
+				"gid" "712D0241B80DCB1B7EA40D502676468F"
+				"size" "0730742BA6EADED0FBC4E1A3DBA65268"
+				"download" "5766956ECC385E65AB3E58CF12DBE7ED"
+			}
+			"test"
+			{
+				"gid" "79CF2B7F2FE21EFDB6D1EA7D73978D62"
+				"size" "A4CAE5DB5957B5C1746721BB60D3875D"
+				"download" "58FAA24F70F15231360F12DA3D485C3B"
+			}
+		}
+	}
+	"427117"
+	{
+		"dlcappid" "1140662"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5186325823729509808"
+				"size" "90612584"
+				"download" "84862752"
+			}
+			"last_ue4"
+			{
+				"gid" "495375826196610677"
+				"size" "78481557"
+				"download" "68319728"
+			}
+			"beta"
+			{
+				"gid" "5186325823729509808"
+				"size" "90612584"
+				"download" "84862752"
+			}
+			"local"
+			{
+				"gid" "8257940488909124841"
+				"size" "90612584"
+				"download" "84857040"
+			}
+			"previousversion"
+			{
+				"gid" "5133582389766637343"
+				"size" "89978485"
+				"download" "83865888"
+			}
+			"test_local"
+			{
+				"gid" "2611231625075138790"
+				"size" "113910753"
+				"download" "106386640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "3A229B2ADA58C702CE3C46834E6612C2"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "6B013794F2A07E7AB24C50BA3B6014F8"
+				"size" "AC39DE62D01A54FBBFE891B7E2C5103A"
+				"download" "200DABBB63B8829FE2E2A4FF223CAD38"
+			}
+			"denuvo"
+			{
+				"gid" "44653FDB6FA72A192509F10D2055EE9C"
+				"size" "3F0E7D4B669336EEC4E94A957797A724"
+				"download" "706151F929AE177D1C1D415B06E63062"
+			}
+			"gamescom"
+			{
+				"gid" "1DE8BC8A7AFD6BBAD47C5C7FC76FDF68"
+				"size" "481162D44E2C74243BBBC7F56EC745E7"
+				"download" "D7592DB47F24D4800F57A93339025342"
+			}
+			"halycon"
+			{
+				"gid" "309C307D4A65250D6CF5D719772C09A3"
+				"size" "248C33262B7239E2EA18C75E01E23BF2"
+				"download" "B26D6A2CE6D80ABFB2A92A1D20829CFE"
+			}
+			"localisation"
+			{
+				"gid" "D30A7E81A1BB0A76116AF5F9F053B144"
+				"size" "D3734EA77CD52CD3DD0C4E31CC85E82B"
+				"download" "415561915479B8AF4E5458D68CAAEC7C"
+			}
+			"nightlybuild"
+			{
+				"gid" "319F1EA97120BFC7B048AC95EE97336E"
+				"size" "C1F35C2CEAF5C93F0E3982F9D167667D"
+				"download" "CE84A242EF4F37BA690C959CF2F54F12"
+			}
+			"test"
+			{
+				"gid" "AD6B5E5CA1F1FA156DD4D3A110615106"
+				"size" "C9488D6FF950C6F2AA34E2A62E742C99"
+				"download" "FEA78BAA238E335F7CCC16084F3FC1D1"
+			}
+		}
+	}
+	"427118"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4474882443771904749"
+				"size" "3418644"
+				"download" "2349056"
+			}
+			"last_ue4"
+			{
+				"gid" "2558785952567008502"
+				"size" "3133531"
+				"download" "2061312"
+			}
+			"beta"
+			{
+				"gid" "4474882443771904749"
+				"size" "3418644"
+				"download" "2349056"
+			}
+			"local"
+			{
+				"gid" "6660164477607061429"
+				"size" "3418644"
+				"download" "2349088"
+			}
+			"previousversion"
+			{
+				"gid" "7348041695843004234"
+				"size" "3436360"
+				"download" "2366384"
+			}
+			"test_local"
+			{
+				"gid" "9107147557773844497"
+				"size" "3418666"
+				"download" "2348976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "350B39CAC7D2268909B881A72B1BFA46"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "41C9DAFECBA8187F1E2C2A1205CD5577"
+				"size" "B70500777EABC48AEC542C2E07099E28"
+				"download" "1E1F1D36C330717DAE5ADB27B36AFA41"
+			}
+			"denuvo"
+			{
+				"gid" "8C0F026D196CBEC285C2BE5BA08600EC"
+				"size" "BA0301E711237C3BC6F337539CD180BC"
+				"download" "10792B628C0988327BAC746B34683035"
+			}
+			"gamescom"
+			{
+				"gid" "DBBFB4A32F635271FB8F6196618EF82E"
+				"size" "F6FAB865B5AD2F4D278B74D454E982D4"
+				"download" "A5B787564BDB51F0B547BD2EA3CE76E0"
+			}
+			"halycon"
+			{
+				"gid" "2AD78C27FA3EF0A39B4B2B68D702EFB5"
+				"size" "DCA7FD50A5BC9526841C24C05633B494"
+				"download" "B516796F932AB6F8DB6D4E69D30E24D8"
+			}
+			"localisation"
+			{
+				"gid" "BFC9C8A98A285665C586D18C7DC0AF01"
+				"size" "298D3E7FB4769FDC8E64D877593356A5"
+				"download" "17402BF377CD5708A2897F20AFFA6EBF"
+			}
+			"nightlybuild"
+			{
+				"gid" "D2D241702ED7879D2EE77B58C79E20A4"
+				"size" "2A43373BB2B9C86048A5FB91B95979E5"
+				"download" "04A42B422322D25A448767357B0C204D"
+			}
+			"test"
+			{
+				"gid" "F437AB2EC6F8ADE4270137B90CB07FDA"
+				"size" "AA90E2357F06477AEE199E13288224DC"
+				"download" "531F5264C75A83FAEF4D1D82C2CE8E2E"
+			}
+		}
+	}
+	"427119"
+	{
+		"dlcappid" "1158120"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1128993684715194911"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "2022948793326014009"
+				"size" "69745089"
+				"download" "60936576"
+			}
+			"beta"
+			{
+				"gid" "1128993684715194911"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "1128993684715194911"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "1128993684715194911"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "1128993684715194911"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "E7BED1001428D40078869294AB3A809F"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "6226407AB2440E76928477F1AA1D7797"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "597ADA2464BE4AFE375CA455166A561C"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "7893FF8A32C68EA85FF51BBBDC333272"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "28F2B04B51FB1615E034C7FA0E451770"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "2BF9901BF21C9667F71211B7CD035C77"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "97F52F6406CFE357F9C5C4C8C5378BAD"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "23C783EBE0A38FD62DE030304C9DAC27"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"569701"
+	{
+		"dlcappid" "1250730"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8497909674161473596"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "3329296700794891310"
+				"size" "38167506"
+				"download" "32437584"
+			}
+			"beta"
+			{
+				"gid" "8497909674161473596"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "8497909674161473596"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "8497909674161473596"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "8497909674161473596"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "D01B8E57CA97E96352A797B439EA4B20"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "79ADC0A914D6AF6FB03B7104CF59A6D8"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "2E7AC49EBEA7BEAB05CDF624816853FD"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "4A44002240574CC80F6401CB38CC8069"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "B25FC79EFB32B3A32BCC524704E608C9"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "835B6177D18BDA8BABABBF81A8135727"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "3EF335D16C26A7B696D9D1218B7698E1"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "30C6D25C28FD2268221484BC6BCEFEB5"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"569702"
+	{
+		"dlcappid" "1154770"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2278123645898777675"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "4356156209048730706"
+				"size" "150349578"
+				"download" "129280176"
+			}
+			"beta"
+			{
+				"gid" "2278123645898777675"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "2278123645898777675"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "2278123645898777675"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "2278123645898777675"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "F7FF5BCCA930A979F94D41C14B8ECC29"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "CE78CE9272F79F5096DBFD981271C630"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "374CA8E188C3B2AD3E57216E2EFA8777"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "1685137F4216F84A72F057C367FDCE86"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "5124D48D14E45B70962B790B6D5B8600"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "6C2F5DCC21F16DBA8776F333E2371227"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "F80CF0DE90A8751876D3D754D768838E"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "4925C777DB20E05089876D592CD69E99"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"569703"
+	{
+		"dlcappid" "1370010"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1588070790492004896"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "1248739782823975069"
+				"size" "179086980"
+				"download" "161795664"
+			}
+			"beta"
+			{
+				"gid" "1588070790492004896"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "1588070790492004896"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "1588070790492004896"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "1588070790492004896"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "0FA16B774D484862097EED15C4D620B7"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "CD1CCC308AD9A0CC7643BBA0C61B0E7B"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "9F199A56C38FC7F67F3A5CAF07832C85"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "1E6DFB53ADEDB871C469056DCCFCC6D0"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "D174B17DA38EC464F88C7D8C8F495E45"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "D4F343D15799046A627F5B38B7706DD7"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "D846FD2E4839DEEAA94716265B0F448A"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "12578C60CE1629B8B96365C98EDEEA94"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"569704"
+	{
+		"dlcappid" "1446990"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8241915247667569153"
+				"size" "491203840"
+				"download" "413783136"
+			}
+			"last_ue4"
+			{
+				"gid" "75139470031168703"
+				"size" "0"
+				"download" "0"
+			}
+			"beta"
+			{
+				"gid" "8241915247667569153"
+				"size" "491203840"
+				"download" "413783136"
+			}
+			"local"
+			{
+				"gid" "9176477720401979195"
+				"size" "491203840"
+				"download" "413784624"
+			}
+			"previousversion"
+			{
+				"gid" "6680715512284680474"
+				"size" "438182122"
+				"download" "362585152"
+			}
+			"test_local"
+			{
+				"gid" "6247894200128543740"
+				"size" "491203840"
+				"download" "413838496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "AE07DF2882D77E83F2C885DB813778BF"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "19B2E3CFF1B21E4591F0D53C8E799698"
+				"size" "C329E24E25068A87C6A61EB525FB17E5"
+				"download" "743570984BE01EEB54739E4220AC33EF"
+			}
+			"denuvo"
+			{
+				"gid" "D06FDD77B5BA7FFA66A3D71D1B582B4C"
+				"size" "C495CE865F531CB7650DBDD38668D524"
+				"download" "53F73E8487FBAC4A006305AFFA9B1986"
+			}
+			"gamescom"
+			{
+				"gid" "65A820104FEE38CDBA28702B28AECBE7"
+				"size" "5A07C28B83E9459A34CE0E70D431F09F"
+				"download" "06596E8EF4B359C149F2F76EA0812C50"
+			}
+			"halycon"
+			{
+				"gid" "3F22397B62B1534F633DFF449D2082D3"
+				"size" "2C49234542F4B9BCD53B1997374B2135"
+				"download" "9B1730FA90EB3C41D3BD596555DE5BA5"
+			}
+			"localisation"
+			{
+				"gid" "917E95E108AB7D6B4F56DA56C9E2364B"
+				"size" "226B961B98A5B5C40E69E55220B60168"
+				"download" "4C8B74B84F88507DB791F898888F42FF"
+			}
+			"nightlybuild"
+			{
+				"gid" "0ED82761C3DE33CB3BFC06321DCD495A"
+				"size" "DB1F978641C1CFDE74FF94A165F18FEF"
+				"download" "ADD9D678E9DC596893DD77685BB78210"
+			}
+			"test"
+			{
+				"gid" "6952337F3EB520E3183924B14EBEFEEC"
+				"size" "CA424E146FBC716AAFCBF4EC604A8212"
+				"download" "84944CB5FF850D79AF879620A4DCAEA9"
+			}
+		}
+	}
+	"569705"
+	{
+		"dlcappid" "1446991"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1471600460178143918"
+				"size" "653082651"
+				"download" "569131856"
+			}
+			"last_ue4"
+			{
+				"gid" "8103434572531024869"
+				"size" "538757915"
+				"download" "442864240"
+			}
+			"beta"
+			{
+				"gid" "1471600460178143918"
+				"size" "653082651"
+				"download" "569131856"
+			}
+			"local"
+			{
+				"gid" "7559732334823825455"
+				"size" "653082651"
+				"download" "569131616"
+			}
+			"previousversion"
+			{
+				"gid" "907122494431769312"
+				"size" "595384344"
+				"download" "515736256"
+			}
+			"test_local"
+			{
+				"gid" "5095585355862908892"
+				"size" "623726535"
+				"download" "538753424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "038A4E058E60994876A576E46CA5017B"
+				"size" "7791F52669F1DCEB837E3C447611E2C2"
+				"download" "678B9E298E2B5B4A0A129A4536021DA4"
+			}
+			"closed_beta"
+			{
+				"gid" "7191351061EDE63D8E9549F8C399EE14"
+				"size" "11BCA4FC3EA6376F8499170B990E9169"
+				"download" "F442B729AB608DB7EC4E1F8EE0A11B2F"
+			}
+			"denuvo"
+			{
+				"gid" "42F7F20C3CD863AB990D848C6D4B658E"
+				"size" "72CCA7BC8700CE1862CF9D6D51F3A1EB"
+				"download" "67306D405C7E2E6A8965702CFDB84824"
+			}
+			"gamescom"
+			{
+				"gid" "D326F98B3E00B6584666F1C26DA4BFA3"
+				"size" "7D45CE63383E33C6EC83D1808FFC2C6B"
+				"download" "B6FCF176B9D1C270A1265FE10F45AC56"
+			}
+			"halycon"
+			{
+				"gid" "6E892B23C564B896D1FEB7FC460D19C1"
+				"size" "CC0527A3EABDBFFD7AA999FA10D7DE83"
+				"download" "D8603D4DA8A5981A1E0EA61C8B690865"
+			}
+			"localisation"
+			{
+				"gid" "02F9A5EC34AAD161A95EA452FAF45820"
+				"size" "05CAADE8644422F1242B5B030FD7B4D6"
+				"download" "5A87DDBED0AAC4DDDDD9CA8F3CDC38FD"
+			}
+			"nightlybuild"
+			{
+				"gid" "FA6546F56F9DD4120F3779DEBA092030"
+				"size" "34D284B0F395D37D63016A418F5F7BAD"
+				"download" "06E356CA034C0B846CBAF7ADF92DCA7A"
+			}
+			"test"
+			{
+				"gid" "A88E90D5519C41E84B6C6428273E539C"
+				"size" "2D7DABBE6BB7246F7BAD7EDA5FED31AC"
+				"download" "6D9CECB9CFFD7ED198804D43E2899507"
+			}
+		}
+	}
+	"569706"
+	{
+		"dlcappid" "1471310"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5812155523438372901"
+				"size" "4985644"
+				"download" "3273280"
+			}
+			"last_ue4"
+			{
+				"gid" "3064686177672163007"
+				"size" "3833849"
+				"download" "2744112"
+			}
+			"beta"
+			{
+				"gid" "5812155523438372901"
+				"size" "4985644"
+				"download" "3273280"
+			}
+			"local"
+			{
+				"gid" "5812155523438372901"
+				"size" "4985644"
+				"download" "3273280"
+			}
+			"previousversion"
+			{
+				"gid" "2678206188129191697"
+				"size" "4986977"
+				"download" "3317696"
+			}
+			"test_local"
+			{
+				"gid" "9201189869096091046"
+				"size" "4987339"
+				"download" "3274832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "EB9366D4CD19ED68658691D1109CC19C"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "3A8D37533F0D0217DB1063FE512ABDCC"
+				"size" "294623EB0A24C7F15B43F0716515597A"
+				"download" "655383D8B180D016BB6F288ACE1B753C"
+			}
+			"denuvo"
+			{
+				"gid" "0DFA78A28BCC2756FDA6285280C08A39"
+				"size" "06EBB10DF4EEC6BA91133C9508FA38E1"
+				"download" "4FCA7D0714114941D8308F5358E66EF6"
+			}
+			"gamescom"
+			{
+				"gid" "53DA86490408A9537530997850532994"
+				"size" "B734129976AB58F79557A8F4C0666EEC"
+				"download" "8BAA1F090393D96DF9B19248939B0631"
+			}
+			"halycon"
+			{
+				"gid" "D41816E34E8B8E1E9E0B6C1A954AFF27"
+				"size" "41233B5AE94A75082F14A4AF84FF0B12"
+				"download" "DED3F29890AB0CFC7837D7357A356136"
+			}
+			"localisation"
+			{
+				"gid" "F881CDBFD6E90F499D3BCE5A296CFB19"
+				"size" "7B8DD564CA85E6C28922825D1D7191D9"
+				"download" "FE04A02458DFBC62A58E97F568B4A471"
+			}
+			"nightlybuild"
+			{
+				"gid" "296D047421CD3215258CF4A22C2764C6"
+				"size" "34D693E550378FD01570FF019B03F8C8"
+				"download" "81339FFD5BF0C8730A18CB1E237DBA9E"
+			}
+			"test"
+			{
+				"gid" "1C17B6BC6420F478A20AB81769EB1F32"
+				"size" "D3C324AD3CCB24C09B749D862CC97328"
+				"download" "1613213B182715CD96252D6D5D1FF986"
+			}
+		}
+	}
+	"569707"
+	{
+		"dlcappid" "1635100"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "656604482770622335"
+				"size" "2672390422"
+				"download" "2237200976"
+			}
+			"last_ue4"
+			{
+				"gid" "366950732446986374"
+				"size" "0"
+				"download" "0"
+			}
+			"beta"
+			{
+				"gid" "656604482770622335"
+				"size" "2672390422"
+				"download" "2237200976"
+			}
+			"local"
+			{
+				"gid" "6577417769575697852"
+				"size" "2672390422"
+				"download" "2237217712"
+			}
+			"previousversion"
+			{
+				"gid" "5081236089038902587"
+				"size" "2482501736"
+				"download" "2071458976"
+			}
+			"test_local"
+			{
+				"gid" "8283808732061438669"
+				"size" "2664019073"
+				"download" "2223393520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "34CA3440134B08E3FA58A22EE6F3B08A"
+				"size" "D060095A235FEC9E49F3703725088F4D"
+				"download" "B692C3A1BBB9E6201AE6BD67AD0EB470"
+			}
+			"closed_beta"
+			{
+				"gid" "7C340C022CA876D7ECDF9C0DD2A7CACC"
+				"size" "1240B983FAD9FF72994F4E1CCEB2D1F3"
+				"download" "7A001146FA6DCFED8867C70676C60A98"
+			}
+			"denuvo"
+			{
+				"gid" "106505E62973CF904B9B61662D57AEF3"
+				"size" "CC7EF786922A0DEB1B75D8D848702FCD"
+				"download" "511A5DFBDEC2DE60AF727776D227127A"
+			}
+			"gamescom"
+			{
+				"gid" "BEAF1B3CBCC365946C556F408F85602B"
+				"size" "9A473E18687FDD705D103F88A42874EB"
+				"download" "2D318B91AC2AC06E615FE0FC1B655637"
+			}
+			"halycon"
+			{
+				"gid" "B6EAD229A4728725E0B253456266448B"
+				"size" "9B6FE891418B5F72EA462A0A5E9BFF04"
+				"download" "A82BA679793E75420154BC26463F9D0F"
+			}
+			"localisation"
+			{
+				"gid" "77DB6CEB5CB96A2A375EF01C0CF0BF8F"
+				"size" "3E50AAA481A5D460A0F9F52F8484E687"
+				"download" "6A118BED0BFF8105AF71265C0330BB55"
+			}
+			"nightlybuild"
+			{
+				"gid" "F3B912D72CD9029D60E989BD135B7BD5"
+				"size" "6A381C071833ACECB2213F7AA742DF3E"
+				"download" "26E1284AC2E27572A4BA196A0C322AAB"
+			}
+			"test"
+			{
+				"gid" "6D840B68F52FD5CDF3BFF9A4B53CE96E"
+				"size" "6D4F2DFC060C7E0D22751FDF9E955691"
+				"download" "32ACA877BC4DA535E908990996D96B81"
+			}
+		}
+	}
+	"569708"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8063992118282527498"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "6785822808189121992"
+				"size" "4600"
+				"download" "1376"
+			}
+			"beta"
+			{
+				"gid" "8063992118282527498"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "8063992118282527498"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "8063992118282527498"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "8063992118282527498"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "CFA9E9465219F984853367EA7B8361C1"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "B3CD18A0F8F72521EB53A1A46908F02B"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "663B42ECEACB0E4A73F4FE91B2EB6D35"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "9A513A27F7C3626CADAA0C5937345FAB"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "93643BD3B070A215AE94168302B97AA6"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "84DADC2D7DE895ADF9CCFE803F2C82B6"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "98E06D1118D0DC3E7B78176442965EF7"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "001243C1ADAD00D4A31456FFFA3AF740"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"569709"
+	{
+		"dlcappid" "1840740"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6555616446876098615"
+				"size" "30572821"
+				"download" "23142800"
+			}
+			"last_ue4"
+			{
+				"gid" "1924451918602726246"
+				"size" "28486531"
+				"download" "22468832"
+			}
+			"beta"
+			{
+				"gid" "6555616446876098615"
+				"size" "30572821"
+				"download" "23142800"
+			}
+			"local"
+			{
+				"gid" "6555616446876098615"
+				"size" "30572821"
+				"download" "23142800"
+			}
+			"previousversion"
+			{
+				"gid" "4703634809644234384"
+				"size" "29522852"
+				"download" "22913344"
+			}
+			"test_local"
+			{
+				"gid" "7008119950373275833"
+				"size" "29522877"
+				"download" "22914672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "2AF4F76ED7517E776997FDEC52539CD3"
+				"size" "78929F8540C01F4A9C4FB1AF1AA116B0"
+				"download" "14CF84340FDB168A2BF6BB46AEC707D8"
+			}
+			"closed_beta"
+			{
+				"gid" "B43797F254E94B09FDF0A8327BCD9AFB"
+				"size" "52212C32DB38951CED31D43FAFB6B44C"
+				"download" "2EF39FF54E0C93391BFD53FA86F9795A"
+			}
+			"denuvo"
+			{
+				"gid" "5ABBA0916D7A85FDE214BC599ABBAC6B"
+				"size" "48FC3E84883709ACACD3F370C2E0AEBD"
+				"download" "E6E967C7813DA392A24512FD6A5C3D05"
+			}
+			"gamescom"
+			{
+				"gid" "7E35C22B0B0F01BC8D8AA6DA5F2901D6"
+				"size" "DD1B77D365A203AEC7C198000B01FB5A"
+				"download" "4A4AF204EE19616D8F72818A5AF4F7DD"
+			}
+			"halycon"
+			{
+				"gid" "5005D5D132B02DB66FC648149DB588A9"
+				"size" "2261BABCE8ED96F9EECD3E438B578571"
+				"download" "1951DC4EE05D2F74F32F3AAF0C0D667B"
+			}
+			"localisation"
+			{
+				"gid" "EA28EC9BC3C603212D3BC8953C59C3F5"
+				"size" "755FF8FA642E84FBD13B5E70C42990ED"
+				"download" "3DF2CDF07AF353297E89789BE7379BE0"
+			}
+			"nightlybuild"
+			{
+				"gid" "B591B9627285966F265D0700B4ECEC21"
+				"size" "953F3B37FC47AFD40ADCB465F003CE89"
+				"download" "F6E8AAAD68DD930EFF03CF8FCBFACC95"
+			}
+			"test"
+			{
+				"gid" "B9ABACE9FA3BFDCDEE20A683B3D5731B"
+				"size" "972498E261BF8B22D832C155D1A66B75"
+				"download" "A0D847AD2A78D307910BFB9663DD96E0"
+			}
+		}
+	}
+	"602731"
+	{
+		"dlcappid" "1847550"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5949501301683070979"
+				"size" "0"
+				"download" "0"
+			}
+			"last_ue4"
+			{
+				"gid" "3545566859027106542"
+				"size" "263536822"
+				"download" "214616464"
+			}
+			"beta"
+			{
+				"gid" "5949501301683070979"
+				"size" "0"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "5949501301683070979"
+				"size" "0"
+				"download" "0"
+			}
+			"previousversion"
+			{
+				"gid" "5949501301683070979"
+				"size" "0"
+				"download" "0"
+			}
+			"test_local"
+			{
+				"gid" "5949501301683070979"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "8F73AFD597057F4FCBA3650026EEF02E"
+				"size" "2A88281C1B28F32E0710BF8B88966920"
+				"download" "2A88281C1B28F32E0710BF8B88966920"
+			}
+			"closed_beta"
+			{
+				"gid" "A5E47AB123E72B469FF0BF96D307DCB5"
+				"size" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+				"download" "28677B88A965B7A2B6FC4CA91C8BFFAC"
+			}
+			"denuvo"
+			{
+				"gid" "5AE37197D0DEDB9BCB8D150836C1AB5C"
+				"size" "FB44F703FAA5984E00EFA8F69BED8B63"
+				"download" "FB44F703FAA5984E00EFA8F69BED8B63"
+			}
+			"gamescom"
+			{
+				"gid" "CBBE32E091EA1DDA8FE86D0BFAE96BCC"
+				"size" "7D1BD21AECC46A1841D8E37A734A9823"
+				"download" "7D1BD21AECC46A1841D8E37A734A9823"
+			}
+			"halycon"
+			{
+				"gid" "ABC30A9AF41ADFD65160CDC0A43921C5"
+				"size" "EB04A173985C33611B779860A229D235"
+				"download" "EB04A173985C33611B779860A229D235"
+			}
+			"localisation"
+			{
+				"gid" "897F84EE959F7E6C5D674A6A0E8D1116"
+				"size" "CE2E743DFBAA9B60BAC09EE497E25834"
+				"download" "CE2E743DFBAA9B60BAC09EE497E25834"
+			}
+			"nightlybuild"
+			{
+				"gid" "565481239AD564631E6B5AEB9D02C9B4"
+				"size" "83B309F34DF4A0B564C1C255E28A382D"
+				"download" "83B309F34DF4A0B564C1C255E28A382D"
+			}
+			"test"
+			{
+				"gid" "EA397B2C9FAB2CB10E4EC7F3DA68A412"
+				"size" "70F3F2496446D64F335A3E28506E263E"
+				"download" "70F3F2496446D64F335A3E28506E263E"
+			}
+		}
+	}
+	"602732"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9153795955842064459"
+				"size" "180814011"
+				"download" "153713792"
+			}
+			"last_ue4"
+			{
+				"gid" "1953620346787530125"
+				"size" "197640093"
+				"download" "162718688"
+			}
+			"beta"
+			{
+				"gid" "9153795955842064459"
+				"size" "180814011"
+				"download" "153713792"
+			}
+			"local"
+			{
+				"gid" "8918248909577621460"
+				"size" "180814011"
+				"download" "153713792"
+			}
+			"previousversion"
+			{
+				"gid" "7350595007960861615"
+				"size" "197589299"
+				"download" "164838304"
+			}
+			"test_local"
+			{
+				"gid" "8430800121593010251"
+				"size" "180814011"
+				"download" "153718528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "109EC4C83B9AC8762E9F20E8A8B39015"
+				"size" "68721B3043BB590351D95704494A915F"
+				"download" "2688C089ADB0D78509C27C6972F901B1"
+			}
+			"closed_beta"
+			{
+				"gid" "7E7B63F049FE1ECD9ACA707AB2408A35"
+				"size" "26A254553DE2DB9BC09D17C9F0537C7A"
+				"download" "AD0C44523B52D06F3224C8427B093310"
+			}
+			"denuvo"
+			{
+				"gid" "73B2EE41F31595E10BB954CCFD08C4E8"
+				"size" "0C9057D2189E41FFC54B47865FC63D42"
+				"download" "AB7A309460ED0064A3508ACABD66B7B1"
+			}
+			"gamescom"
+			{
+				"gid" "07CA592E8039681AE20B9860B7CB10CC"
+				"size" "0ECA76941643FD059F573F12E7864985"
+				"download" "437DB34F788C3C8EE482FE4578A03F4F"
+			}
+			"halycon"
+			{
+				"gid" "67985D59AA3337EBA10CE524C4B07B49"
+				"size" "B6D52E0BA641D40CAEE0DEFF11DA43FB"
+				"download" "6D57DA66E7B3E01E4AA3A4E85618ED86"
+			}
+			"localisation"
+			{
+				"gid" "8EA7EC982A10BE9D14BC43AEA14AC734"
+				"size" "126DAFE0FCD6D20974B124BD1F5296B4"
+				"download" "2E9C534B3EA19609B0F5BDE8DBBAE9F8"
+			}
+			"nightlybuild"
+			{
+				"gid" "D598B6123EA17D1D054AF8B63F43F082"
+				"size" "EAD8452793BC76D5B2D15DF61AD66771"
+				"download" "8F1C6EA339CFBA3F1C61CCB5EDD2A726"
+			}
+			"test"
+			{
+				"gid" "40C5B320A12065ED36337C2DA87DA0DF"
+				"size" "D9FB5E7551FE5F8AA2D6F236AE78F8DC"
+				"download" "EE710B0EB4F87E9CE07F81CFEA4F6BFA"
+			}
+		}
+	}
+	"602733"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2166027615961945004"
+				"size" "175550890"
+				"download" "149741408"
+			}
+			"last_ue4"
+			{
+				"gid" "1536129242013916077"
+				"size" "192392340"
+				"download" "158977584"
+			}
+			"beta"
+			{
+				"gid" "2166027615961945004"
+				"size" "175550890"
+				"download" "149741408"
+			}
+			"local"
+			{
+				"gid" "4179188675464087113"
+				"size" "175550890"
+				"download" "149741408"
+			}
+			"previousversion"
+			{
+				"gid" "7971016190769532395"
+				"size" "191277546"
+				"download" "159915552"
+			}
+			"test_local"
+			{
+				"gid" "6586870689984164525"
+				"size" "175550890"
+				"download" "149745264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "3C94EF9C878E796E2B87996A31E8DD78"
+				"size" "B801DD2710859B6BA98B73F350BDD597"
+				"download" "7009B7C178D2DEF6A5F724C1B5349869"
+			}
+			"closed_beta"
+			{
+				"gid" "D9E46DE9D782CC74F8C7A5F9E829FA25"
+				"size" "D92058D4DE1FCE6F5440416CBB2924EC"
+				"download" "901AE6D97E82D1A0A37E148A3D484CD7"
+			}
+			"denuvo"
+			{
+				"gid" "39D1BCD1D00E8407AFE716A466A9D83C"
+				"size" "ED0876780484BEBD9D7C7A118B4B4FB0"
+				"download" "95D16E8A200622B79BE9247853C2DD1C"
+			}
+			"gamescom"
+			{
+				"gid" "0462F3DF25E95833584855FFBA5125D5"
+				"size" "D7E3B5E936FDE0CB4F952E7F644418F5"
+				"download" "C5908148181DEC55ABE1671665A9B71E"
+			}
+			"halycon"
+			{
+				"gid" "FA7198E586674188650A291C464AD76B"
+				"size" "89580002F9FC149CB6AE0947255F4D9B"
+				"download" "7A74C02A9D5C7D8425A696B3DB33D584"
+			}
+			"localisation"
+			{
+				"gid" "C74314D3B241FBEA7C915A76CFAF8161"
+				"size" "9DD285D0B7F07736C554D9B8591155FD"
+				"download" "08F9FC1060FACC86233A33DEEAD21BE7"
+			}
+			"nightlybuild"
+			{
+				"gid" "D66159FF445BDB4278732DFAD7F2D78B"
+				"size" "DBA22425F166B3DBCBA1AA6C9FF0D466"
+				"download" "D56D44711719B4C3184F2F2D0200EEA6"
+			}
+			"test"
+			{
+				"gid" "C80780EFBF627EDAF5C63C27FEB14095"
+				"size" "BE358870D5E64F043AB8FD0A9503FB15"
+				"download" "948F9CFA447CB1B0FAE83CB619011DBD"
+			}
+		}
+	}
+	"602734"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2582751182954504011"
+				"size" "175550786"
+				"download" "149248240"
+			}
+			"last_ue4"
+			{
+				"gid" "5323828536312683130"
+				"size" "191343580"
+				"download" "157656480"
+			}
+			"beta"
+			{
+				"gid" "2582751182954504011"
+				"size" "175550786"
+				"download" "149248240"
+			}
+			"local"
+			{
+				"gid" "2582751182954504011"
+				"size" "175550786"
+				"download" "149248240"
+			}
+			"previousversion"
+			{
+				"gid" "1063006380637424719"
+				"size" "191277382"
+				"download" "158954960"
+			}
+			"test_local"
+			{
+				"gid" "8703323188423498112"
+				"size" "175550786"
+				"download" "149252896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "1D749A91586A5108A6C258F5EA9063F9"
+				"size" "21182DB9694F397A640E13B5E525C018"
+				"download" "E8B92BFC4D8DAD785EC2663FCA3C7396"
+			}
+			"closed_beta"
+			{
+				"gid" "4801A13C9E231E9E1C35398B0A9FC67D"
+				"size" "991C641CBD784D8922ABA15F2FE46714"
+				"download" "4102936278E077727F9F93FC2F05A2A4"
+			}
+			"denuvo"
+			{
+				"gid" "7066A1EAB0931CF3297DBC590E51D36C"
+				"size" "66BF8E4BA9B8CE706362F491897FB5FE"
+				"download" "31D00ED2458127DF0FAA5EE9596B803B"
+			}
+			"gamescom"
+			{
+				"gid" "3730AF5BCF3F7C20181F65A7CFBE9E90"
+				"size" "77F3EDDBD9D6060EBB7C4D4DA72C388D"
+				"download" "86A9A0C3245AB1777F42D3CD81EA6CE5"
+			}
+			"halycon"
+			{
+				"gid" "AAA265F8A43FA4866714200E79436315"
+				"size" "27DAB0367B418834FF775EAAE955297B"
+				"download" "95361DA78169407A20393FA58BCA7E3B"
+			}
+			"localisation"
+			{
+				"gid" "1A978E230134F1B4EE22F52FA7885E5C"
+				"size" "B7AC72A78BD70EA8511575B59C7C4AC9"
+				"download" "65DFF8417A51EE67D495068C8B20D603"
+			}
+			"nightlybuild"
+			{
+				"gid" "8F2B3C9B7ACFD89D065F944522F160B5"
+				"size" "F9F1DC60BE47FD32A1B20F29F1D8B3CC"
+				"download" "CF4D3DA74F3641D0D03817D980D066BD"
+			}
+			"test"
+			{
+				"gid" "5ADB97E5CA818970C7E52CA6782C1130"
+				"size" "BD7B33384208E2105756381E5D7AD5CE"
+				"download" "7FFFEAD404AAACAE18FBE384C654EC70"
+			}
+		}
+	}
+	"602735"
+	{
+		"dlcappid" "2294410"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4485518084780346063"
+				"size" "98273690"
+				"download" "83547088"
+			}
+			"last_ue4"
+			{
+				"gid" "1978766946313285252"
+				"size" "101392254"
+				"download" "84666144"
+			}
+			"beta"
+			{
+				"gid" "4485518084780346063"
+				"size" "98273690"
+				"download" "83547088"
+			}
+			"local"
+			{
+				"gid" "4485518084780346063"
+				"size" "98273690"
+				"download" "83547088"
+			}
+			"previousversion"
+			{
+				"gid" "5021299479110012269"
+				"size" "103516884"
+				"download" "88372560"
+			}
+			"test_local"
+			{
+				"gid" "8671808031918890476"
+				"size" "98273682"
+				"download" "83545600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "1F30099241C60127A465F24EF12E79E4"
+				"size" "E1212AE8141F0831B3D1DB7F389701A0"
+				"download" "2F4691F3C8788F007F2F63168A1D4F44"
+			}
+			"closed_beta"
+			{
+				"gid" "0AA2D069EE447CF294E71AEC89E85B6D"
+				"size" "FCF8342A5FF1088D3CCC3FF726FA6593"
+				"download" "699C47340D08136021F2F8E3127C0348"
+			}
+			"denuvo"
+			{
+				"gid" "F61D1FC3B8159C8981135C031A589775"
+				"size" "46ECA45094B4B9885523C1C9A230CDEC"
+				"download" "CC41CC90D809B4F7194C5931449B1C55"
+			}
+			"gamescom"
+			{
+				"gid" "5DAF128C6CF71C9B1721906262C56629"
+				"size" "1F53CB48D4130380D03845D5212BB510"
+				"download" "878E753A26737D866EDC051D73F5A728"
+			}
+			"halycon"
+			{
+				"gid" "2CB464D0BA85FB348CC51E08A71B9823"
+				"size" "81716A43A1858E6A661D06623599726C"
+				"download" "74269E57FCD7D2783C58F8863AFA3FCC"
+			}
+			"localisation"
+			{
+				"gid" "F5ECA453237B2E6D0FE9FF4CF12BDFA1"
+				"size" "D26D71783D78AECF673A1CDC8F5B1D51"
+				"download" "E44F6434142015F1A57A4328D551119D"
+			}
+			"nightlybuild"
+			{
+				"gid" "41E3C37E0CCBFD8BB2EFFE0F4E99EBF1"
+				"size" "F01FE3304E3DEFA15A40647FEF561F63"
+				"download" "37E598BA2CC2D6218626CAF7383360C5"
+			}
+			"test"
+			{
+				"gid" "9EB90F3E1F42C3831940A8FAAC37DAF1"
+				"size" "4C4B83A4340C1966F0E2C0A89ED6B1A9"
+				"download" "61F3FDEE24E7B7046A17990D70A58897"
+			}
+		}
+	}
+	"602736"
+	{
+		"dlcappid" "2407421"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5542387387914818603"
+				"size" "102438889"
+				"download" "90007120"
+			}
+			"last_ue4"
+			{
+				"gid" "6196634222643787986"
+				"size" "114930225"
+				"download" "97778848"
+			}
+			"beta"
+			{
+				"gid" "5542387387914818603"
+				"size" "102438889"
+				"download" "90007120"
+			}
+			"local"
+			{
+				"gid" "5542387387914818603"
+				"size" "102438889"
+				"download" "90007120"
+			}
+			"previousversion"
+			{
+				"gid" "8438061860942556724"
+				"size" "114930227"
+				"download" "97782608"
+			}
+			"test_local"
+			{
+				"gid" "5522635432192811494"
+				"size" "102438759"
+				"download" "89989376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "C7B4E2A9CBA60742D9836A7085F52509"
+				"size" "7F278AA5D2D22A90BFF7FA30D7DADECD"
+				"download" "A1A573585E7613F88078B05B99B53549"
+			}
+			"closed_beta"
+			{
+				"gid" "4254A7DEA7FC1A577BB5734DF529C211"
+				"size" "5641BD70A5CEC3080139A2556F291B9A"
+				"download" "EEEB8E06D916E62B7B25D11013B5642B"
+			}
+			"denuvo"
+			{
+				"gid" "0B373256E80CFDD7323765688725307D"
+				"size" "B8671A3A5B2193AA3454DAF9F3F3228F"
+				"download" "B98F585C8025D09DE9EDAA47E19F8C55"
+			}
+			"gamescom"
+			{
+				"gid" "EB26AF44D1FE3B725E83BFA563938898"
+				"size" "2728D87B30E6E18A16E12A11A40CB839"
+				"download" "500E89D6EA0EFE61D823658ACB36074C"
+			}
+			"halycon"
+			{
+				"gid" "84274423B3F7066BE6299C7923FDB543"
+				"size" "5291297D00635A9D88801C904BBE961E"
+				"download" "F0F7F47C21B99FB23EC0A35BE2400246"
+			}
+			"localisation"
+			{
+				"gid" "F7670EAF132C81342E14D56EA5EE0347"
+				"size" "CF34F48CCC5AE380AA040417DCAE650D"
+				"download" "E9C21A983C53A7EC160C955A2CCF75B2"
+			}
+			"nightlybuild"
+			{
+				"gid" "DFA3D84B30B0C4CEEA235B13D47C140A"
+				"size" "296B91F0D700C3E24CFD622B7CE70087"
+				"download" "F4437AEFC6743D5DD30A2739D811B4F0"
+			}
+			"test"
+			{
+				"gid" "5205D3FC7E289E608BC45E1A4704F6C1"
+				"size" "D837F0DAABF86EF5303F25F3A2A526C6"
+				"download" "3DDC9C6D516630A207B3D03B771F588A"
+			}
+		}
+	}
+	"602737"
+	{
+		"dlcappid" "2407420"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7043158036541886774"
+				"size" "105481904"
+				"download" "88220240"
+			}
+			"last_ue4"
+			{
+				"gid" "5052617884543312681"
+				"size" "103350047"
+				"download" "87238912"
+			}
+			"beta"
+			{
+				"gid" "7043158036541886774"
+				"size" "105481904"
+				"download" "88220240"
+			}
+			"local"
+			{
+				"gid" "7043158036541886774"
+				"size" "105481904"
+				"download" "88220240"
+			}
+			"previousversion"
+			{
+				"gid" "7056738369400304842"
+				"size" "108593675"
+				"download" "92945792"
+			}
+			"test_local"
+			{
+				"gid" "1182904430151136571"
+				"size" "105481900"
+				"download" "88213680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"aerosoft"
+			{
+				"gid" "C7A0A12782E8F94B3119620CD6EE2EFF"
+				"size" "3B1427B95613FD04E5A8903FBD387C97"
+				"download" "FF619A957BC596277F7B1B9897C7F90C"
+			}
+			"closed_beta"
+			{
+				"gid" "AAFA1D27C335DC16C00E2FC8E7AE25D5"
+				"size" "37EB7A834CA7BFBAEC0E043C45B89D3B"
+				"download" "C1B0A847A6947BFC0345F1E129BABD8D"
+			}
+			"denuvo"
+			{
+				"gid" "A4E2A1CDD289F6E01A7D3219E8930980"
+				"size" "DF5444B029640092952B7FD36570C35F"
+				"download" "4F39C4EAF0AF6D5212026D56909520CF"
+			}
+			"gamescom"
+			{
+				"gid" "4F50648DE861ED73EC16DFF8AB8F023B"
+				"size" "6474E918E924AA8F4E01893E330FD359"
+				"download" "50EFD1E8D5E8CC5B938E40086ECC9068"
+			}
+			"halycon"
+			{
+				"gid" "5381D77F2227F150F23163D3BF16A897"
+				"size" "588E16F740C2084ACFD0D0C6A95139D3"
+				"download" "E9843433FEB36D4E5BFB29F36D8A0551"
+			}
+			"localisation"
+			{
+				"gid" "0F83673944E2937453ABCD05B00E2AE0"
+				"size" "971CF697295ECC66566E432CC799EDF3"
+				"download" "D9A3B6DDB6C9B686D5686BA0952876B1"
+			}
+			"nightlybuild"
+			{
+				"gid" "CE12D4A6DE52697B005B353C0B47A2C8"
+				"size" "A26BA48E033C48187D946ACB57C4F36A"
+				"download" "C89B9BDAF9B76394F065A9CC4BB907C1"
+			}
+			"test"
+			{
+				"gid" "40576F5ADDD891DD6227BE38118045AA"
+				"size" "6DD8AD814C2C14AF2147E7200366E87D"
+				"download" "94A2A5C112666AE7C46D6C5905D9B52E"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16769695"
+			"timeupdated" "1734441642"
+		}
+		"aerosoft"
+		{
+			"buildid" "12351371"
+			"pwdrequired" "1"
+			"timeupdated" "1696496483"
+		}
+		"last_ue4"
+		{
+			"buildid" "11569137"
+			"description" "Last Version with Unreal Engine 4"
+			"timeupdated" "1687871139"
+		}
+		"beta"
+		{
+			"buildid" "16769695"
+			"timeupdated" "1734441583"
+		}
+		"closed_beta"
+		{
+			"buildid" "16769695"
+			"pwdrequired" "1"
+			"timeupdated" "1734441562"
+		}
+		"denuvo"
+		{
+			"buildid" "16238260"
+			"pwdrequired" "1"
+			"timeupdated" "1730299099"
+		}
+		"gamescom"
+		{
+			"buildid" "15409551"
+			"pwdrequired" "1"
+			"timeupdated" "1724059057"
+		}
+		"halycon"
+		{
+			"buildid" "14763389"
+			"pwdrequired" "1"
+			"timeupdated" "1718781175"
+		}
+		"local"
+		{
+			"buildid" "16769482"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1734417854"
+		}
+		"localisation"
+		{
+			"buildid" "16769695"
+			"pwdrequired" "1"
+			"timeupdated" "1734441598"
+		}
+		"nightlybuild"
+		{
+			"buildid" "16769695"
+			"pwdrequired" "1"
+			"timeupdated" "1734419757"
+		}
+		"previousversion"
+		{
+			"buildid" "14348650"
+			"timeupdated" "1734422655"
+		}
+		"test"
+		{
+			"buildid" "14465713"
+			"pwdrequired" "1"
+			"timeupdated" "1716453336"
+		}
+		"test_local"
+		{
+			"buildid" "16549620"
+			"description" "-"
+			"lcsrequired" "1"
+			"timeupdated" "1732808290"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Fernbus/Saved/Profiles"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Fernbus/Settings"
+			"pattern" "GlobalSettings.cfg"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26678199"
+"_sha" "cc324cbdb219e66b17d606ff70b225aeac9fa8da"
+"_size" "87723"
