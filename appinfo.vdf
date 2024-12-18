@@ -1,0 +1,258 @@
+"appid" "1461980"
+"common"
+{
+	"name" "Nine：Ambition"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "九州：立志"
+		"tchinese" "九州：立誌"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "33a81cec33c2aa7a973b153427cddcedc6469ab0"
+	"clienticon" "295a7409cc4d0e32077a207dfae7ab3a48ea7b86"
+	"icon" "845bb8a3ef051da2c7f9e87b056c970450b28d3b"
+	"clienticns" "295a7409cc4d0e32077a207dfae7ab3a48ea7b86"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.38273045507585"
+			"height_pct" "60.10217947703105"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.38273045507585"
+				"height_pct" "60.10217947703105"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730436530"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "xbgzs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "xbgzs"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "九州行"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732154329"
+	"community_hub_visible" "1"
+	"gameid" "1461980"
+	"store_tags"
+	{
+		"0" "4202"
+		"1" "4845"
+		"2" "3993"
+		"3" "12472"
+		"4" "1695"
+		"5" "3987"
+		"6" "4695"
+		"7" "3834"
+		"8" "4328"
+		"9" "122"
+		"10" "3810"
+		"11" "14139"
+		"12" "3871"
+		"13" "9551"
+		"14" "4325"
+		"15" "599"
+		"16" "6815"
+		"17" "21"
+		"18" "8945"
+		"19" "1643"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "xbgzs"
+	"publisher" "xbgzs"
+}
+"config"
+{
+	"installdir" "NineAmbition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NineAmbition.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"1461981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7202372413647466440"
+				"size" "924352970"
+				"download" "359714752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "E68612021EAFA1FBF0048A175F018F9E"
+				"size" "FF3978E126DE0944E7E7B2109B51A7EE"
+				"download" "42BD2BF8173218AD572CADE42F018AF6"
+			}
+			"self"
+			{
+				"gid" "972FF216F8A15E16CCF444A8CCE21874"
+				"size" "E67D0A9A88F2E9844957020F91C64606"
+				"download" "C48CA0170E8F5A839F16BF2E0DC1A394"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16784265"
+			"timeupdated" "1734518286"
+		}
+		"develop"
+		{
+			"buildid" "16784265"
+			"pwdrequired" "1"
+			"timeupdated" "1734512721"
+		}
+		"self"
+		{
+			"buildid" "15898515"
+			"pwdrequired" "1"
+			"timeupdated" "1727851342"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1104857600"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "xbgzs/NineAmbition/save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26693213"
+"_sha" "7a5979152e802849756e09b3659269d7a57e30b4"
+"_size" "4073"
