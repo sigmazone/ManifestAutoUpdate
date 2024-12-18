@@ -1,0 +1,356 @@
+"appid" "1574900"
+"common"
+{
+	"name" "Salt 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "e5aa8d7620869ddb98d4c5530c2c303bf9bc1bdf"
+	"logo_small" "e5aa8d7620869ddb98d4c5530c2c303bf9bc1bdf_thumb"
+	"icon" "8610d9c9c3aa12349f2b4647b76a8ba34fee87d9"
+	"clienticon" "83f3fd620d5932dd41989b9e60b7f636153eafac"
+	"clienttga" "d810bcec7e8ae4e32c8b3d0aa27a8e05090a3cce"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1715817600"
+		"tested_build_id" "14258360"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.74418604651164"
+			"height_pct" "73.55734979814774"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "66.74418604651164"
+				"height_pct" "73.55734979814774"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1710420866"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lavaboots Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lavaboots Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1663682298"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1574900"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1662"
+		"2" "13577"
+		"3" "1681"
+		"4" "1702"
+		"5" "3834"
+		"6" "3810"
+		"7" "4106"
+		"8" "6730"
+		"9" "6910"
+		"10" "5125"
+		"11" "4747"
+		"12" "4191"
+		"13" "3839"
+		"14" "19"
+		"15" "21"
+		"16" "4236"
+		"17" "6869"
+		"18" "15564"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Lavaboots Studios"
+	"publisher" "Lavaboots Studios"
+	"homepage" "https://www.saltthegame.com/"
+}
+"config"
+{
+	"installdir" "Salt 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Salt2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1574901"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3223932299932376830"
+				"size" "2298845236"
+				"download" "1845560000"
+			}
+			"2023.1.9"
+			{
+				"gid" "5539168838984352738"
+				"size" "4396807059"
+				"download" "3178891392"
+			}
+			"2023.2.7_before_unity_update"
+			{
+				"gid" "9180187467308833161"
+				"size" "1779350619"
+				"download" "1429505968"
+			}
+			"local"
+			{
+				"gid" "7094446788770976057"
+				"size" "908974494"
+				"download" "654635536"
+			}
+			"beta"
+			{
+				"gid" "3223932299932376830"
+				"size" "2298845236"
+				"download" "1845560000"
+			}
+			"previous"
+			{
+				"gid" "4607493383058249073"
+				"size" "2225973746"
+				"download" "1791477520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "F66F35893FB27007541C504DC2C02C25"
+				"size" "C068CDE00D5C5AB514B3E1381ACAABA3"
+				"download" "885B6633A56CE0BCE12277364FFFD45F"
+			}
+			"testing"
+			{
+				"gid" "B00889A3F82D01EC4E0E0106C2D348B3"
+				"size" "154E5E2A67A00FF326FDB17FDCA89124"
+				"download" "3F1DD93C2EC4FD87097D387C014D3044"
+			}
+		}
+	}
+	"2071570"
+	{
+		"dlcappid" "2071570"
+	}
+	"2118590"
+	{
+		"dlcappid" "2118590"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16700195"
+			"timeupdated" "1734368380"
+		}
+		"2023.1.9"
+		{
+			"buildid" "10732309"
+			"description" "An older version of the game"
+			"timeupdated" "1684267523"
+		}
+		"2023.2.7_before_unity_update"
+		{
+			"buildid" "11415321"
+			"description" "Game version 2023.2.7 but on previous version of Unity to avoid a crash some people are experiencing"
+			"timeupdated" "1686170240"
+		}
+		"local"
+		{
+			"buildid" "9014650"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1656341532"
+		}
+		"beta"
+		{
+			"buildid" "16700195"
+			"description" "Test upcoming patches"
+			"timeupdated" "1733879445"
+		}
+		"development"
+		{
+			"buildid" "16790332"
+			"pwdrequired" "1"
+			"timeupdated" "1734544691"
+		}
+		"previous"
+		{
+			"buildid" "15153608"
+			"description" "the build before the most recent"
+			"timeupdated" "1731601598"
+		}
+		"testing"
+		{
+			"buildid" "16036455"
+			"pwdrequired" "1"
+			"timeupdated" "1728911745"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Saves"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26699827"
+"_sha" "6276a37768c289ecfcbea1740f12877fa8a13c26"
+"_size" "6590"
