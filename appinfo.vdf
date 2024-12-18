@@ -85,6 +85,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "82.61095651977507"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1575466300"
 	"associations"
 	{
@@ -122,6 +164,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_49" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -190,15 +233,15 @@
 		"11" "5708"
 		"12" "19"
 		"13" "1719"
-		"14" "6730"
-		"15" "4026"
+		"14" "4026"
+		"15" "6730"
 		"16" "492"
 		"17" "1669"
 		"18" "1756"
 		"19" "5179"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -225,8 +268,16 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,italian,spanish,russian,hungarian,czech"
 	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
 	{
 		"config"
 		{
@@ -244,15 +295,16 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"baselanguages" "english,german,french,italian,spanish,russian,hungarian,czech"
 	"944011"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7152052882242780621"
-				"size" "2849373608"
-				"download" "2576374576"
+				"gid" "6782356958521255803"
+				"size" "2853401611"
+				"download" "2577555056"
 			}
 		}
 		"encryptedmanifests"
@@ -262,12 +314,6 @@
 				"gid" "47DE4F11738E75BCC7C51ABF75F101E6"
 				"size" "109004961C5380100B8AC10C7A8A0127"
 				"download" "0415AFABE12B2A0E7C2EB7735FC87B17"
-			}
-			"development"
-			{
-				"gid" "529D05C1E05AE07C5D8AB0FDBA52B644"
-				"size" "8F84E17624F3BB00C34148B546667C4E"
-				"download" "7C8C8D69A78AB2CB92BC776D1B536715"
 			}
 			"gameshow"
 			{
@@ -293,11 +339,23 @@
 				"size" "BEE3FF614550332A771C2AF32381C495"
 				"download" "359DDE16DF3ABC22C6173176DB63683B"
 			}
+			"beta-1.7"
+			{
+				"gid" "0FE43AB2E87A95517B1E05233C894558"
+				"size" "DC5150885E3A73E77163F60E381F5B59"
+				"download" "37548E6D65E4DBC23F6FCBC6C9F76441"
+			}
+			"development"
+			{
+				"gid" "65AC0EAC5BA0FE3DCD7FB5C58ABA3FFA"
+				"size" "3184A763B2E0F4245A947BD041E75156"
+				"download" "BE714AC347784C0299FC056A4A1AC6F3"
+			}
 			"staging"
 			{
-				"gid" "43C26A808288B345641059974C6C8D11"
-				"size" "09E2FDB444F10369B2D234665C57800D"
-				"download" "3C52DBC39BDBD2BB73068B2143B4F77B"
+				"gid" "0E7459F66E17EAF524C4C8D38262977F"
+				"size" "42EF3B8AB281FCA4428DA779CA4CC92F"
+				"download" "463420C35834BE6DED378C279603A404"
 			}
 		}
 	}
@@ -306,20 +364,14 @@
 	{
 		"public"
 		{
-			"buildid" "8362837"
-			"timeupdated" "1648218034"
+			"buildid" "16722525"
+			"timeupdated" "1734343322"
 		}
 		"baseline"
 		{
 			"buildid" "3777295"
 			"pwdrequired" "1"
 			"timeupdated" "1556524209"
-		}
-		"development"
-		{
-			"buildid" "4273887"
-			"pwdrequired" "1"
-			"timeupdated" "1570690525"
 		}
 		"gameshow"
 		{
@@ -345,11 +397,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1559559566"
 		}
+		"beta-1.7"
+		{
+			"buildid" "16722525"
+			"pwdrequired" "1"
+			"timeupdated" "1734013978"
+		}
+		"development"
+		{
+			"buildid" "16722525"
+			"pwdrequired" "1"
+			"timeupdated" "1734013870"
+		}
 		"staging"
 		{
-			"buildid" "8362837"
+			"buildid" "16722525"
 			"pwdrequired" "1"
-			"timeupdated" "1647193469"
+			"timeupdated" "1734343162"
 		}
 	}
 }
@@ -380,6 +444,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20086165"
-"_sha" "6e135e328db82c9d6606d8d851cf8f7f153c7c71"
-"_size" "7223"
+"_change_number" "26658712"
+"_sha" "3723f26b77f40d94094ac3b54d7a8946ce2c665a"
+"_size" "8254"
