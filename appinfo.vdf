@@ -34,32 +34,27 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1732752000"
-		"tested_build_id" "16484578"
+		"category" "3"
+		"test_timestamp" "1733529600"
+		"tested_build_id" "16642152"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-			}
-			"3"
-			{
-				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
-			"4"
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -77,7 +72,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
-			"gamescope_frame_limiter_not_supported" "0"
+			"gamescope_frame_limiter_not_supported" "1"
 			"hdr_support" "0"
 		}
 	}
@@ -290,8 +285,8 @@
 		"11" "3959"
 		"12" "7948"
 		"13" "4004"
-		"14" "9"
-		"15" "1720"
+		"14" "1720"
+		"15" "9"
 		"16" "4026"
 		"17" "3871"
 		"18" "4252"
@@ -356,30 +351,15 @@
 		{
 			"public"
 			{
-				"gid" "1662622439627944368"
-				"size" "815168145"
-				"download" "151554336"
+				"gid" "9177248745385743075"
+				"size" "908785593"
+				"download" "160478976"
 			}
 			"testing"
 			{
-				"gid" "1662622439627944368"
-				"size" "815168145"
-				"download" "151554336"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "AEB952F17AEBC9AD05B11FEBE13355D9"
-				"size" "FD93CB30465F53948C1A8B6E428630C5"
-				"download" "DF63C0B84FC33CC4618C031183291994"
-			}
-			"oldest_version"
-			{
-				"gid" "8C167D6D2D88003C4859A0FE66C163F5"
-				"size" "1A73C6AF72E6FF65A05DA17296F83E3F"
-				"download" "E9F2BBE9BA63FF71716A7ED366FDBD2E"
+				"gid" "9177248745385743075"
+				"size" "908785593"
+				"download" "160478976"
 			}
 		}
 	}
@@ -394,30 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "6103924860125568856"
-				"size" "808086936"
-				"download" "149547568"
+				"gid" "8627298852084728588"
+				"size" "901704384"
+				"download" "158468720"
 			}
 			"testing"
 			{
-				"gid" "6103924860125568856"
-				"size" "808086936"
-				"download" "149547568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "4A55A4E41B41EE62283A64FAFB7D69E5"
-				"size" "F39C8D5C999AD53BFBA032E01C61062B"
-				"download" "CA5CF098EF68008938AF33217E1EC2A7"
-			}
-			"oldest_version"
-			{
-				"gid" "42E3615921FBC9D8149581A98EE83179"
-				"size" "DD1BC5DD0F2C46F37B7C40F43D213AEF"
-				"download" "1A41EC136A5EFDF350040C92F36824BB"
+				"gid" "8627298852084728588"
+				"size" "901704384"
+				"download" "158468720"
 			}
 		}
 	}
@@ -432,30 +397,15 @@
 		{
 			"public"
 			{
-				"gid" "993728468986202790"
-				"size" "854144991"
-				"download" "150996848"
+				"gid" "9156104329039636805"
+				"size" "947762439"
+				"download" "159915968"
 			}
 			"testing"
 			{
-				"gid" "993728468986202790"
-				"size" "854144991"
-				"download" "150996848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "AFADD515C8333EBB57D04D394BEF569E"
-				"size" "F667EC2D024B130A641D67815E73E8B9"
-				"download" "3009DA81A29A73E085FF599152C8D803"
-			}
-			"oldest_version"
-			{
-				"gid" "F14A961BE2DC799E39F7926146B330E9"
-				"size" "07BF7071AE69894AC08970890009F2CE"
-				"download" "3C458E07C8952EC925BB1C970F75FDA2"
+				"gid" "9156104329039636805"
+				"size" "947762439"
+				"download" "159915968"
 			}
 		}
 	}
@@ -463,28 +413,17 @@
 	{
 		"public"
 		{
-			"buildid" "16642152"
-			"timeupdated" "1733399396"
-		}
-		"internal"
-		{
-			"buildid" "16645148"
-			"pwdrequired" "1"
-			"timeupdated" "1733411963"
-		}
-		"oldest_version"
-		{
-			"buildid" "12533266"
-			"pwdrequired" "1"
-			"timeupdated" "1733412959"
+			"buildid" "16778707"
+			"timeupdated" "1734513567"
 		}
 		"testing"
 		{
-			"buildid" "16642152"
+			"buildid" "16778707"
 			"description" "Test upcoming updates"
-			"timeupdated" "1733399198"
+			"timeupdated" "1734470933"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -541,6 +480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26510470"
-"_sha" "2334d4ef802d183bfb0a8afda51da9a736a91ee9"
-"_size" "10258"
+"_change_number" "26691977"
+"_sha" "f458634c85099ae961f9952f7ebe5a6e84909cde"
+"_size" "8792"
