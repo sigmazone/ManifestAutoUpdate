@@ -1,0 +1,245 @@
+"appid" "2240860"
+"common"
+{
+	"name" "Harry Potter: Quidditch Champions Playtest"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"releasestate" "unavailable"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "cb50ef4d1d3ff11e4d13a7b98383834013d46192"
+	"clienttga" "d7fcdfdff1ea8b58c8806bf6dba091de1c533fbb"
+	"icon" "c52b3eae3414df33ea97e6e13a9f02d2fd11ca84"
+	"gameid" "2240860"
+	"exfgls" "8"
+}
+"config"
+{
+	"installdir" "RavenExt"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "QuidditchChampions.exe"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2240861"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5343163754652069776"
+				"size" "3447296"
+				"download" "2363168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"techtest01_ship"
+			{
+				"gid" "C7FBC29FA8589FFA3EF35C5DD1184955"
+				"size" "9499E8574DFA344A4B29308819219FBD"
+				"download" "15F98A9C4456313DD850523B1EB06E47"
+			}
+			"techtest01_dev"
+			{
+				"gid" "2D8F0DF1C95E5ED327EDD5C8C95F51FB"
+				"size" "ECCA72674D970574C7C1FF8493ACE075"
+				"download" "9A3FF7E4FA7CFE443A8642F870207D6C"
+			}
+			"bot_test"
+			{
+				"gid" "6D0BBD682987886D81E8AFF4154996F0"
+				"size" "D53995E6DA5910C3624AD30F72FB23D0"
+				"download" "8314512BCBF769217DF8D0EF7BA56AB8"
+			}
+			"bot_test_2"
+			{
+				"gid" "B8E32A00388134DD98D41305633C93DB"
+				"size" "26FC33F30B2ACBAFBC19BC0BB739C160"
+				"download" "A7F4005B06873C785C6D4B361939A90F"
+			}
+			"bot_test_3"
+			{
+				"gid" "A7CA15CEC493A997AB42DE4CF2DF8898"
+				"size" "A16A7B46B2248EDE1EBC32D4BB61D708"
+				"download" "44876B0CD28F813DD936A1DD4A21E16A"
+			}
+			"defaultlaunchapp_dontchange"
+			{
+				"gid" "CF930961D18C32E03A93E4C43C8CDF9F"
+				"size" "9A5B18CFEA5DBFC2A755829A2B2FBA7B"
+				"download" "3C7E4E9932DCFD043ED93625F614BDAF"
+			}
+			"huwiz_compat"
+			{
+				"gid" "47F82E54368D16D73BFE04788A874168"
+				"size" "F3FF4AC6B6EA0D6401BE08C5DF5DFEBD"
+				"download" "F301000003C3F6FB3F82800F4F78AD57"
+			}
+			"qa_testing"
+			{
+				"gid" "09DE9E56A00528F5F3E80991C8B4F0F9"
+				"size" "3E19036CFD8A0B7D235DFBDA0F28F6CE"
+				"download" "FA1006C26B0210DAA3675FEFAF40F63F"
+			}
+			"qa_testing_dev"
+			{
+				"gid" "9BDB201FDC384E34752BA7A5DBD55CC4"
+				"size" "DCC87105686C837CBF9AFFE61478FCA2"
+				"download" "0F2B2D629B91E3BF38AF2CC2276A819F"
+			}
+			"ubsqa_shipping"
+			{
+				"gid" "90BD66B04591AB4BC2939A67A4847543"
+				"size" "DACA61D562B986EE64400FA95A588B5A"
+				"download" "ACE194B139FDBBD7F79E7FB2B10C797C"
+			}
+			"ubsqa_test"
+			{
+				"gid" "3735BACE4DC4779DCB142E72DA084186"
+				"size" "5C70BF88B80880E1165D06FD510A3277"
+				"download" "11680287073049203F4CC47FC99A6EA9"
+			}
+			"wbqa_partner"
+			{
+				"gid" "4714112CDF128B51D86B2570FFCA0459"
+				"size" "BCD01823016A5E597A9C3AE5926B25F2"
+				"download" "D6423A3AB0840BFDAA6E9CC6457A85DE"
+			}
+			"wb_guest"
+			{
+				"gid" "7EB2B1004C843530CF437B36BAA3DF82"
+				"size" "F443B8F3335DF9216ED44A5829A84160"
+				"download" "B930ABA7C31285C569134F93254095C6"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11258170"
+			"timeupdated" "1722787636"
+		}
+		"techtest01_ship"
+		{
+			"buildid" "15168935"
+			"pwdrequired" "1"
+			"timeupdated" "1722047802"
+		}
+		"techtest01_dev"
+		{
+			"buildid" "15168902"
+			"pwdrequired" "1"
+			"timeupdated" "1722047815"
+		}
+		"bot_test"
+		{
+			"buildid" "15157838"
+			"pwdrequired" "1"
+			"timeupdated" "1723751546"
+		}
+		"bot_test_2"
+		{
+			"buildid" "15168913"
+			"pwdrequired" "1"
+			"timeupdated" "1722046099"
+		}
+		"bot_test_3"
+		{
+			"buildid" "12239993"
+			"pwdrequired" "1"
+			"timeupdated" "1695244344"
+		}
+		"defaultlaunchapp_dontchange"
+		{
+			"buildid" "11258170"
+			"pwdrequired" "1"
+			"timeupdated" "1686612658"
+		}
+		"huwiz_compat"
+		{
+			"buildid" "12398651"
+			"pwdrequired" "1"
+			"timeupdated" "1697128435"
+		}
+		"qa_testing"
+		{
+			"buildid" "15157892"
+			"pwdrequired" "1"
+			"timeupdated" "1721964484"
+		}
+		"qa_testing_dev"
+		{
+			"buildid" "15157838"
+			"pwdrequired" "1"
+			"timeupdated" "1721964518"
+		}
+		"ubsqa_shipping"
+		{
+			"buildid" "14565984"
+			"pwdrequired" "1"
+			"timeupdated" "1721070096"
+		}
+		"ubsqa_test"
+		{
+			"buildid" "14565953"
+			"pwdrequired" "1"
+			"timeupdated" "1721070111"
+		}
+		"wbqa_partner"
+		{
+			"buildid" "12575170"
+			"pwdrequired" "1"
+			"timeupdated" "1698709945"
+		}
+		"wb_guest"
+		{
+			"buildid" "12340436"
+			"pwdrequired" "1"
+			"timeupdated" "1696885409"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26375805"
+"_sha" "b892be36331fdec088e9b025be676e54b687da77"
+"_size" "5147"
