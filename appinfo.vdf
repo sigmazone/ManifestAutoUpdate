@@ -1,0 +1,558 @@
+"appid" "1903560"
+"common"
+{
+	"name" "Atomic Picnic"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "33ab5773b6566606524017e19fac93ca6c47ea9d"
+	"clienttga" "e47dcc6c10f64aacf11a29576b718ac2b204949a"
+	"clienticon" "d4309aa1f868c957f23039b0329ee19525289c3f"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1903560_eula_0"
+			"name" "Atomic Picnic EULA"
+			"url" "https://store.steampowered.com//eula/1903560_eula_0"
+			"version" "6"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"brazilian" "header_brazilian.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,pt-br"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.133460767632798"
+			"height_pct" "53.129267325340884"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.133460767632798"
+				"height_pct" "53.129267325340884"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731630670"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BitCake Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mad Mushroom"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730994660"
+	"community_hub_visible" "1"
+	"gameid" "1903560"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "493"
+		"2" "42804"
+		"3" "3959"
+		"4" "353880"
+		"5" "19"
+		"6" "3843"
+		"7" "492"
+		"8" "4182"
+		"9" "1774"
+		"10" "1716"
+		"11" "4085"
+		"12" "3814"
+		"13" "6730"
+		"14" "4885"
+		"15" "1697"
+		"16" "3859"
+		"17" "4191"
+		"18" "7208"
+		"19" "1734"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "BitCake Studio"
+	"publisher" "Mad Mushroom"
+}
+"config"
+{
+	"installdir" "AtomicPicnic"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Atomic_Picnic.exe"
+			"type" "default"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"1903561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7969624662835351355"
+				"size" "7534755839"
+				"download" "2445090032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"atomic-lab"
+			{
+				"gid" "3636360E734B249EC2D360BE68C5DEE2"
+				"size" "013A893C307265EA936CB288338AABE3"
+				"download" "56BB95E75B74AF08737EC1E60DCD79E0"
+			}
+			"content-creators"
+			{
+				"gid" "0A5E4D7F9E676B0732D41D0D48FDD8E6"
+				"size" "6B0AE2D6060218B70F58C569A9E2D0C5"
+				"download" "D926B87913DA3C4612C72F58A13F16E7"
+			}
+			"dev-andre"
+			{
+				"gid" "EDDC1B17CA964F033C32A030FC09C107"
+				"size" "C65D2BB2EA7A8B95E4C5E48FBE5152DB"
+				"download" "ABFD1F7BA9EE4F32DAA322362E177254"
+			}
+			"dev-chiquim"
+			{
+				"gid" "912E69ABBA13FF866B0E499B95050038"
+				"size" "00A4336ED5F45B8B525871252AD72D05"
+				"download" "F64ACF4C82006564B9413956D7D9A625"
+			}
+			"dev-claudia"
+			{
+				"gid" "8FC2238C7956CF7D4CA332C1498A4ACC"
+				"size" "D11CEF2F5983F72B7023C9E961696735"
+				"download" "91039A9223BB9598664288ADBF757702"
+			}
+			"dev-debug"
+			{
+				"gid" "539CC6530C0A09B6C4FBE77CC8711AEC"
+				"size" "D1972BEB4348AB1E8D89669CF427E619"
+				"download" "E925E2CBD8EA3FF788D27E89070781F6"
+			}
+			"dev-generic-1"
+			{
+				"gid" "CB4F85D95A48D04592754D4831312E91"
+				"size" "E201ABD38DEE891F179C0D4C59C3165B"
+				"download" "819BF089B1B10B71C9251F75B3EAA4C1"
+			}
+			"dev-generic-2"
+			{
+				"gid" "289198060958D956B9CD290A68F9D5DB"
+				"size" "C698145FE8FCEAA6706B50C696AA582D"
+				"download" "6F295DBFD42D58818141ECE962839240"
+			}
+			"dev-generic-3"
+			{
+				"gid" "C892EB94F9E4BF1D1983E88E6FEAE10B"
+				"size" "7A211E4535C2171D8F94D01A9D86794A"
+				"download" "99A2DC5661A75BD4DBD18B6180A08768"
+			}
+			"dev-iago"
+			{
+				"gid" "8F2B86784E2C114BEF54DA511A3531A0"
+				"size" "929B03542631CCB42F343D0511734AFC"
+				"download" "947BF609123480BC6FDC50B0DB25ACAE"
+			}
+			"dev-lamhut"
+			{
+				"gid" "EB4840BDECC0EC3B2C1252C41B1C8A0F"
+				"size" "6272E78E68A24A67662FC3C0E54DCCEE"
+				"download" "DE79D7E4E89F5E6BBF62C05751085B31"
+			}
+			"dev-matheus"
+			{
+				"gid" "B6E94BEBB448718345EE6342F13C9033"
+				"size" "5B0F695CBD20E71934D201676A14824E"
+				"download" "612F319D79B1A23647CE4521F88585C2"
+			}
+			"dev-perds"
+			{
+				"gid" "714D017B0A28672D9080EE440003C446"
+				"size" "C54BB8AC34EE1CB0E68704CCB5DD0B32"
+				"download" "E5D5599360F74E5235DCDBC279C8A86B"
+			}
+			"dev-pessego"
+			{
+				"gid" "EAB17411B831C9D75F10015B0FBC717A"
+				"size" "F76D7BC693593AAF8BC149E12A4A4251"
+				"download" "651BDC031D88CC589CB9FC7CD71193CF"
+			}
+			"dev-puce"
+			{
+				"gid" "AE51648B2E6F4816A18B5A859382FA4D"
+				"size" "E80DF718BDB5E3E8F852E9BA6783D501"
+				"download" "1D4E5F4BF147C86DE92473EC95C8A429"
+			}
+			"dev-saishy"
+			{
+				"gid" "E0CF783F9BE53CEC37434916D0B82FB2"
+				"size" "F4DB075DBFF9256BBCF32662501E2997"
+				"download" "148AE7C7A4E501214D0444C9B2FBA820"
+			}
+			"dev-stella"
+			{
+				"gid" "C60812A98CCC6D02E479F75250386FDD"
+				"size" "47702CAB0A4236FAA72AE0F1B0A18C59"
+				"download" "2C0D6BF850145BF4A238E46FF993F302"
+			}
+			"dev-thomaz"
+			{
+				"gid" "63DFC80A70C89F62856870D2DFF45D0F"
+				"size" "1300A92B55F7782697A5AE8B7676D49E"
+				"download" "CE669BFEC4B145EBD9B22F6ADF18429B"
+			}
+			"develop"
+			{
+				"gid" "47935DF0C898D72479812C4BFE0A83CA"
+				"size" "6994AFF5F401DD5AD1F5DF0D62118909"
+				"download" "020645BEEF25FD5685361926FF55633D"
+			}
+			"mm-qa"
+			{
+				"gid" "41ED9A0077CE88D5057D8655BB2C934F"
+				"size" "4AC2D2F70B5E223ABD344E2DFCCDA815"
+				"download" "FFF1DA8DE9BAAFAEBD271ECF38EAFF18"
+			}
+			"mm-trailer"
+			{
+				"gid" "88583FE75520033674E714A21CA41422"
+				"size" "221A334352EF8D80D418B251F787F2B6"
+				"download" "033BEA74DB6F14395110DF6C073D5101"
+			}
+			"press"
+			{
+				"gid" "735BCAB31C09EA876570ABE350E36F8B"
+				"size" "9472FB80AC3B1CD14FF795FDF45229AC"
+				"download" "142A761AE9AACB4F34706A0DD152B8B6"
+			}
+			"prod-internal"
+			{
+				"gid" "B55081BE8C6567D5229414886622AC31"
+				"size" "093CF6BDC03FE1E82D2F2F0FC6916967"
+				"download" "3E5177C319F26EDC842D93B7C6EE0742"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16763937"
+			"timeupdated" "1734385434"
+		}
+		"atomic-lab"
+		{
+			"buildid" "16140536"
+			"pwdrequired" "1"
+			"timeupdated" "1729623952"
+		}
+		"content-creators"
+		{
+			"buildid" "16268677"
+			"pwdrequired" "1"
+			"timeupdated" "1730923355"
+		}
+		"dev-andre"
+		{
+			"buildid" "16384079"
+			"pwdrequired" "1"
+			"timeupdated" "1731447195"
+		}
+		"dev-chiquim"
+		{
+			"buildid" "16570179"
+			"pwdrequired" "1"
+			"timeupdated" "1732818350"
+		}
+		"dev-claudia"
+		{
+			"buildid" "16569927"
+			"pwdrequired" "1"
+			"timeupdated" "1732817005"
+		}
+		"dev-debug"
+		{
+			"buildid" "16726435"
+			"pwdrequired" "1"
+			"timeupdated" "1734034594"
+		}
+		"dev-generic-1"
+		{
+			"buildid" "16411742"
+			"pwdrequired" "1"
+			"timeupdated" "1731620140"
+		}
+		"dev-generic-2"
+		{
+			"buildid" "16425901"
+			"pwdrequired" "1"
+			"timeupdated" "1731706994"
+		}
+		"dev-generic-3"
+		{
+			"buildid" "16557616"
+			"pwdrequired" "1"
+			"timeupdated" "1732739487"
+		}
+		"dev-iago"
+		{
+			"buildid" "16527521"
+			"pwdrequired" "1"
+			"timeupdated" "1732557730"
+		}
+		"dev-lamhut"
+		{
+			"buildid" "16369674"
+			"pwdrequired" "1"
+			"timeupdated" "1731354673"
+		}
+		"dev-matheus"
+		{
+			"buildid" "16571199"
+			"pwdrequired" "1"
+			"timeupdated" "1732826154"
+		}
+		"dev-perds"
+		{
+			"buildid" "16571299"
+			"pwdrequired" "1"
+			"timeupdated" "1732826862"
+		}
+		"dev-pessego"
+		{
+			"buildid" "16530432"
+			"pwdrequired" "1"
+			"timeupdated" "1732576231"
+		}
+		"dev-puce"
+		{
+			"buildid" "16527122"
+			"pwdrequired" "1"
+			"timeupdated" "1732555297"
+		}
+		"dev-saishy"
+		{
+			"buildid" "16347173"
+			"pwdrequired" "1"
+			"timeupdated" "1731100593"
+		}
+		"dev-stella"
+		{
+			"buildid" "16538948"
+			"pwdrequired" "1"
+			"timeupdated" "1732630387"
+		}
+		"dev-thomaz"
+		{
+			"buildid" "16557296"
+			"pwdrequired" "1"
+			"timeupdated" "1732737505"
+		}
+		"develop"
+		{
+			"buildid" "16577191"
+			"pwdrequired" "1"
+			"timeupdated" "1732875967"
+		}
+		"mm-qa"
+		{
+			"buildid" "16763844"
+			"pwdrequired" "1"
+			"timeupdated" "1734382502"
+		}
+		"mm-trailer"
+		{
+			"buildid" "16394765"
+			"pwdrequired" "1"
+			"timeupdated" "1731516595"
+		}
+		"press"
+		{
+			"buildid" "16544386"
+			"pwdrequired" "1"
+			"timeupdated" "1732659561"
+		}
+		"prod-internal"
+		{
+			"buildid" "16698945"
+			"pwdrequired" "1"
+			"timeupdated" "1734023988"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BitCake Studio/Atomic Picnic/{64BitSteamID}"
+			"pattern" "*.config"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "BitCake Studio/Atomic Picnic/"
+					"replace" "com.BitCake-Studio.Atomic-Picnic"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26678449"
+"_sha" "308f8c2fa000389783778d4475c6cc7e0ee60b82"
+"_size" "10965"
