@@ -80,6 +80,44 @@
 			"height_pct" "43"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44"
+				"height_pct" "43"
+			}
+		}
+	}
 	"store_asset_mtime" "1639672315"
 	"associations"
 	{
@@ -92,6 +130,11 @@
 		{
 			"type" "publisher"
 			"name" "Crate Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Grim Dawn"
 		}
 	}
 	"primary_genre" "3"
@@ -199,24 +242,24 @@
 	{
 		"0" "4231"
 		"1" "1646"
-		"2" "4604"
-		"3" "122"
-		"4" "4236"
-		"5" "1720"
-		"6" "1685"
-		"7" "4342"
-		"8" "3859"
-		"9" "4182"
-		"10" "1684"
-		"11" "19"
+		"2" "4236"
+		"3" "5851"
+		"4" "4604"
+		"5" "122"
+		"6" "1720"
+		"7" "4182"
+		"8" "1685"
+		"9" "4747"
+		"10" "4342"
+		"11" "3859"
 		"12" "21"
-		"13" "5851"
-		"14" "4166"
-		"15" "3835"
-		"16" "492"
-		"17" "1659"
-		"18" "5153"
-		"19" "7113"
+		"13" "1684"
+		"14" "19"
+		"15" "4166"
+		"16" "3835"
+		"17" "1702"
+		"18" "1669"
+		"19" "6426"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -383,9 +426,9 @@
 		{
 			"public"
 			{
-				"gid" "7937391865242251361"
-				"size" "4646187513"
-				"download" "3393673536"
+				"gid" "2361016737119963902"
+				"size" "4682107149"
+				"download" "3421488272"
 			}
 			"v1.1.9.8"
 			{
@@ -396,23 +439,29 @@
 		}
 		"encryptedmanifests"
 		{
-			"legacy"
+			"1115"
 			{
-				"gid" "CC729302D657C36759014C627DF0E5A1"
-				"size" "78955E9C8EC2C5298B64E8125DD3101D"
-				"download" "E7443F5FF634B801B68D8D777286CDDB"
+				"gid" "06DB43408BDD2B1933F49C7B211D736D"
+				"size" "CED7C06A6CD29A444D6738C9EF32FDC5"
+				"download" "CA961BBB20B85555036D9ED3F233197E"
 			}
 			"internal"
 			{
-				"gid" "EB82ABA90D3A91408C2CFAB729AF58FD"
-				"size" "601EFC780C8409FA05B6B370303A3720"
-				"download" "668C05AE50C6F81CDC03C098779AB7CD"
+				"gid" "F3835D99063B8373C2A86D22E32D2116"
+				"size" "6302928844E920D5530342692486EB23"
+				"download" "2038FBE20F1907238351FF96865FA746"
+			}
+			"legacy"
+			{
+				"gid" "73DD541C136C10EB15CF13C610A0A7C0"
+				"size" "924B9A14697443A3A1C6883707EFB152"
+				"download" "7F3EDC7AEAC948B31CD00F086602BA3E"
 			}
 			"playtest"
 			{
-				"gid" "9AB9E8CF59AD03F3C946C831588678A3"
-				"size" "34B35657D228154B1BD5074E04EA90C5"
-				"download" "E1497DDDAC3C539D92393568FCD4AF33"
+				"gid" "50D840717492C17C0E97F3AFC9666432"
+				"size" "90C2AD16F2356D708F72A7F2D740535D"
+				"download" "30458FF03E401682A72E606D3212358F"
 			}
 		}
 	}
@@ -436,11 +485,23 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "9B3E45E8E5343689A2D9E14C85E481CD"
+				"size" "F0F92BBF946E14A0F886925A44E24232"
+				"download" "F0F92BBF946E14A0F886925A44E24232"
+			}
 			"internal"
 			{
 				"gid" "A139083EB16157B1AD78C2F72FB5DEF0"
 				"size" "7291AF089C674B5BAAEA13E14F4CCB58"
 				"download" "7291AF089C674B5BAAEA13E14F4CCB58"
+			}
+			"legacy"
+			{
+				"gid" "9CB74768A7DFA85896C71D813F1498AD"
+				"size" "7F3EDC7AEAC948B31CD00F086602BA3E"
+				"download" "7F3EDC7AEAC948B31CD00F086602BA3E"
 			}
 			"playtest"
 			{
@@ -470,11 +531,23 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "8FD8719266A910DB14C2E4706F197A41"
+				"size" "F0F92BBF946E14A0F886925A44E24232"
+				"download" "F0F92BBF946E14A0F886925A44E24232"
+			}
 			"internal"
 			{
 				"gid" "A709DDA0B569B6DAB3ED0F0E740F5285"
 				"size" "7291AF089C674B5BAAEA13E14F4CCB58"
 				"download" "7291AF089C674B5BAAEA13E14F4CCB58"
+			}
+			"legacy"
+			{
+				"gid" "372003A4A635AA757CA186CD478D441E"
+				"size" "7F3EDC7AEAC948B31CD00F086602BA3E"
+				"download" "7F3EDC7AEAC948B31CD00F086602BA3E"
 			}
 			"playtest"
 			{
@@ -491,9 +564,9 @@
 		{
 			"public"
 			{
-				"gid" "7008629937395559596"
-				"size" "177177269"
-				"download" "102868320"
+				"gid" "2063228828289345432"
+				"size" "177178316"
+				"download" "102868352"
 			}
 			"v1.1.9.8"
 			{
@@ -504,17 +577,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "7015DBA58715C80FEE44E7C98ACDFE96"
+				"size" "6F62CB6DBEC82B4ED944754FEE6BFE53"
+				"download" "99CF291D4E02302A24067216DB06234B"
+			}
 			"internal"
 			{
-				"gid" "29F0A4F93CED0DA0A8A65990994522A8"
-				"size" "DB817D77177A55FC9839221F0B702AAA"
-				"download" "8F0A1B91022CC4507B095C7C661B4F4E"
+				"gid" "D69A4426E9D36EE6816D8AF032B13A3A"
+				"size" "CA056AC607FC4285B0EB99AC67FBBDEA"
+				"download" "A836C983E7061B7A57603C315F1FDBCA"
+			}
+			"legacy"
+			{
+				"gid" "91DF562726E1FB9C7F42684777DF39B4"
+				"size" "7EF86868336FD9B10E8884A135D7FEAD"
+				"download" "03FB8E6D135B38ABCC09CEF7720BA22D"
 			}
 			"playtest"
 			{
-				"gid" "E4909E42E0F5BB31C2AB32F1422A1F04"
-				"size" "03B2BBF54F33C4D840C0BD350AFB8FAA"
-				"download" "94A70908FC9A20CF71BA1D973C69400E"
+				"gid" "841B8FD9D3FAB3A82E3F1BAF50CFEE13"
+				"size" "006E474191BEB80E6E1A26603C8B2437"
+				"download" "8DDAD5E3093AA80F3B27AE6BA23068C0"
 			}
 		}
 	}
@@ -525,9 +610,9 @@
 		{
 			"public"
 			{
-				"gid" "9009401855583810860"
-				"size" "2528829512"
-				"download" "1977017216"
+				"gid" "7085634309364740523"
+				"size" "2530385298"
+				"download" "1975998832"
 			}
 			"v1.1.9.8"
 			{
@@ -538,17 +623,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "E1E1CB98150EFBD01A153A56C0ABBA08"
+				"size" "BB33B097E260786B5AFE49B50293E39D"
+				"download" "94EC002B3BFEC60EECC61BB1488FD587"
+			}
 			"internal"
 			{
-				"gid" "6E0E7E175F681421BF4916D24D0CAB57"
-				"size" "7DA12E8F9ADC75D228315B5754EDA3F3"
-				"download" "454C74070384605DD5D25397184B1CB1"
+				"gid" "ED7FB853BDBFA4AC047E0986C39128B7"
+				"size" "72F95430AA9BA7F0037E3DED696BF9E9"
+				"download" "5CB5680ABF661508BFAC6EA5C6AF69D3"
+			}
+			"legacy"
+			{
+				"gid" "7E1725688614F5C8C92F5E04ADA808AC"
+				"size" "387A3860383D786A5399C6349D0E8FF8"
+				"download" "3F6227D6D3B0654F9D0F561611CADD98"
 			}
 			"playtest"
 			{
-				"gid" "672F271F8732D316B5BC5AFF4A037F48"
-				"size" "3C932170F67A4518B380397A14412DF8"
-				"download" "9C1847E30FE2D1E96306F19EE0543980"
+				"gid" "B65309CE55E1DD3083752B0CA574497C"
+				"size" "266B1DB9FFA635ABE46758CDEB8DC071"
+				"download" "7070F995265270DFD8C78760A9EBA089"
 			}
 		}
 	}
@@ -559,9 +656,9 @@
 		{
 			"public"
 			{
-				"gid" "3586501882461877866"
-				"size" "19717549"
-				"download" "12046160"
+				"gid" "1491106105407629970"
+				"size" "19670554"
+				"download" "12027808"
 			}
 			"v1.1.9.8"
 			{
@@ -572,17 +669,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "BEA0A2360DE4117F7E9910CF047D2090"
+				"size" "84290BC7D7617D8FB78C6325E4EBA6AC"
+				"download" "FEA24D50461157575CF131F68473AC93"
+			}
 			"internal"
 			{
-				"gid" "D05661672DD6E43BC5D700427637153F"
-				"size" "2141329B6447AEE96DCD5EAF336CC667"
-				"download" "BC5257319E80DF000035975FE68CF198"
+				"gid" "E5ABDD4ECBB646EB30ECB64DF1F6EAB2"
+				"size" "9C9FAB6A36C3CDCD17D6D183B61CC3D1"
+				"download" "7AE4F0FA7773F5FB31759893CAD05598"
+			}
+			"legacy"
+			{
+				"gid" "00A8C5793030D66A695A8CF650CBD9EB"
+				"size" "FB620873F34BB590804ECF01C78D66C0"
+				"download" "C4720A69DCB509BAC996145A4E63AABE"
 			}
 			"playtest"
 			{
-				"gid" "AFAAAEC6B10D980514D3B8302C20ABA7"
-				"size" "D3BB0C91F0A25A8266D370D46659628A"
-				"download" "14B98D07D479209D90622FA342151200"
+				"gid" "61B2509A7730D6280DBB5FBCC5BE1760"
+				"size" "8E39074A1A9200CDA8B480215C957E5A"
+				"download" "2D94C00268211CD84F276B0D810E6938"
 			}
 		}
 	}
@@ -593,9 +702,9 @@
 		{
 			"public"
 			{
-				"gid" "6228373409693109918"
-				"size" "3267000578"
-				"download" "2536622736"
+				"gid" "17098552000958371"
+				"size" "3268191396"
+				"download" "2536890400"
 			}
 			"v1.1.9.8"
 			{
@@ -606,17 +715,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "C40DBA6EC3A25E48E4AEC66DF12B90F4"
+				"size" "65DCE55CCA16BEF00CAAB16D03A94B1E"
+				"download" "98016EBFDD6F7F78ECEDCB5C86F8895C"
+			}
 			"internal"
 			{
-				"gid" "7110EC5FC2D7EBB6DB544A20C16197BD"
-				"size" "36990A369F1E37D900A21683B9F0B895"
-				"download" "8788BFD78C6DF321CBB2253586F36E1A"
+				"gid" "F223B46EF5087683D7873B2AD6AE2472"
+				"size" "6ABDCA692ED00907BC54AEC8E423A56C"
+				"download" "30E711D7CE4331A5D8326E6E4BC3D6AB"
+			}
+			"legacy"
+			{
+				"gid" "047C52B8C4952C739D537A876DF6F65D"
+				"size" "D838224C460301C64CE939F71F7C6D37"
+				"download" "BA0185C7F823A5C8C6F524E9F6904E34"
 			}
 			"playtest"
 			{
-				"gid" "EE6772AC76FB76724E000064D0C57AAF"
-				"size" "BD534F2347D4A576C3732F3E1DC6FAA4"
-				"download" "613BF89692C6440A964EE9030BB6028F"
+				"gid" "8822C4E3D44EC9325FE5D16435D02F4D"
+				"size" "481B0D18C5E6612D92F960568DA378E5"
+				"download" "A775F79FD749DAA0C0F41816E5245DEF"
 			}
 		}
 	}
@@ -627,9 +748,9 @@
 		{
 			"public"
 			{
-				"gid" "2234764393350770034"
-				"size" "5447908"
-				"download" "2402768"
+				"gid" "5312768952372151387"
+				"size" "5447694"
+				"download" "2400560"
 			}
 			"v1.1.9.8"
 			{
@@ -640,17 +761,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"1115"
+			{
+				"gid" "5EA9B99598117F241563EECBF230F1FE"
+				"size" "857980A44A88DBF4FB3CFCE2446BD055"
+				"download" "D5148662558DC93434DC015B4D5E8150"
+			}
 			"internal"
 			{
-				"gid" "C8EA1F0A5010D6F27E4EBBD55261BA7B"
-				"size" "4C54C4837E4305619BF8FF4361785CCF"
-				"download" "9C137D3EFA80ED4EC34AECE777AFBCE3"
+				"gid" "23B0EE0EF5223AF9CB0B96551D3F9DF1"
+				"size" "6B808A6D5EF7EDA7499276E11C21F295"
+				"download" "307A49672E4106071C2DEC7BCB0D1D94"
+			}
+			"legacy"
+			{
+				"gid" "E498F14C0DBD91F80D9322C646CAA6DB"
+				"size" "DAECA49157715541C2197746442F75CF"
+				"download" "5D8E299FE2F5B2EC3204E62167494B25"
 			}
 			"playtest"
 			{
-				"gid" "2C75A7D1163E43322E8FDA1656DEF2EF"
-				"size" "622AD41976B2C000B7BD10E5024E2FB3"
-				"download" "37D4E19A5A42C7B977CFED05266C9A30"
+				"gid" "C91EE4664D981E1FB9F4CBD457BBC324"
+				"size" "6C9120CD322DC51437A9B073F28CCF7D"
+				"download" "AE0410A6E9771203FEEEF5FB8D8B8A6F"
 			}
 		}
 	}
@@ -664,9 +797,9 @@
 		{
 			"internal"
 			{
-				"gid" "E4C284F4F69CB118DD30183865290A7B"
-				"size" "3EA27BA1A4C417C64255A870C24D138E"
-				"download" "8C8058B0430B0C1183DC554C1BAEC8E5"
+				"gid" "6D9869DE75D51A7CE21588378BF954FD"
+				"size" "9F8F541B6F06D7425889106038483A47"
+				"download" "958FB04D618F82205506817FE4355F5D"
 			}
 		}
 	}
@@ -680,9 +813,9 @@
 		{
 			"internal"
 			{
-				"gid" "410F107EF73B7435DF057D8BAA5B92C7"
-				"size" "71C2A843ECE3CD5762355757BD46710B"
-				"download" "B67197585CC739DB3537040DB5FE3B4D"
+				"gid" "79DAEB8612F19CBDE4DDE823E3715D7D"
+				"size" "7E035ACFF22A6C7EFCC626F29E2BDAB9"
+				"download" "04E09284B4244EA60260486FAFBA76C1"
 			}
 		}
 	}
@@ -690,13 +823,8 @@
 	{
 		"public"
 		{
-			"buildid" "14908469"
-			"timeupdated" "1719942177"
-		}
-		"legacy"
-		{
-			"buildid" "12196"
-			"pwdrequired" "1"
+			"buildid" "16769341"
+			"timeupdated" "1734457606"
 		}
 		"v1.1.9.8"
 		{
@@ -704,17 +832,29 @@
 			"description" "Grim Dawn v1.1.9.8"
 			"timeupdated" "1700154687"
 		}
+		"1115"
+		{
+			"buildid" "16429023"
+			"pwdrequired" "1"
+			"timeupdated" "1732310085"
+		}
 		"internal"
 		{
-			"buildid" "14262787"
+			"buildid" "16665317"
 			"pwdrequired" "1"
-			"timeupdated" "1714795794"
+			"timeupdated" "1733553677"
+		}
+		"legacy"
+		{
+			"buildid" "15154411"
+			"pwdrequired" "1"
+			"timeupdated" "1721935168"
 		}
 		"playtest"
 		{
-			"buildid" "14908469"
+			"buildid" "16769341"
 			"pwdrequired" "1"
-			"timeupdated" "1719937054"
+			"timeupdated" "1734416918"
 		}
 	}
 }
@@ -724,6 +864,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "24210785"
-"_sha" "744db742eb5a740bcceea90fa216356acb944fa1"
-"_size" "13665"
+"_change_number" "26682449"
+"_sha" "8dea7b9d6021a37f1c0b0e9064f9214dd627be5c"
+"_size" "16959"
