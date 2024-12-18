@@ -1,0 +1,611 @@
+"appid" "1556100"
+"common"
+{
+	"name" "Killer Klowns From Outer Space: The Game"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "23dc3f7c9ab6ca91eb60db10b762b414ce31fb86"
+	"clienttga" "510a8261c035c5c1c01353eada25539fe1babee7"
+	"icon" "e8e60b9fda14694c39515756a9bd044a1c942a81"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1556100_eula_0"
+			"name" "Killer Klowns from Outer Space: The Game EULA"
+			"url" "https://store.steampowered.com//eula/1556100_eula_0"
+			"version" "1"
+		}
+	}
+	"timeline_marker_updated" "1733181568"
+	"timeline_marker_svg" "9930f3154b48923448acc36828584c13ad74a34b/markers.svg"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1719532800"
+		"tested_build_id" "14816656"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.1907797114018"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "52.1907797114018"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1717519139"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IllFonic"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Teravision Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IllFonic Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_27" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1717516800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1556100"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "1667"
+		"2" "3978"
+		"3" "5711"
+		"4" "4667"
+		"5" "1687"
+		"6" "1697"
+		"7" "1662"
+		"8" "4747"
+		"9" "1685"
+		"10" "19"
+		"11" "1775"
+		"12" "3843"
+		"13" "4166"
+		"14" "3993"
+		"15" "3942"
+		"16" "4342"
+		"17" "7743"
+		"18" "1695"
+		"19" "4175"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"gamedir" "KKFOS"
+	"serverbrowsername" "KKFOS"
+	"developer" "IllFonic"
+	"publisher" "IllFonic Publishing"
+	"listofdlc" "2736800,2833400,2833410,2921240,2921250,2921260,2921270,2921290,3080640"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "KKFOS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_protected_game.exe"
+			"arguments" "-steam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1556101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8370075455725403390"
+				"size" "14355560085"
+				"download" "13675719648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sony_playtest"
+			{
+				"gid" "869FFF7360FF3F599EA966F1511DAF69"
+				"size" "86FF082A89754232A545C928768016C4"
+				"download" "547D6727C3927FE8E9C4F578033AA196"
+			}
+			"age_ratings"
+			{
+				"gid" "0ACCA553F4A86209ECE22390BB7B34BA"
+				"size" "81F33F5DAF927BC2ABD2812CC7321689"
+				"download" "09131C677F2241E64266EDC8E887C8B6"
+			}
+			"daily"
+			{
+				"gid" "4C3952ECBA5ED70DDB0C5D61CBF03CD0"
+				"size" "CBBA416BFA091482A1647BFBB01346BF"
+				"download" "D54CC03D3B7B1BCC5C5CADC6BA76233E"
+			}
+			"development"
+			{
+				"gid" "D2DBD45425D6284DECD7DEF9FF62E5D5"
+				"size" "F42D78CBCD554E8E9DC42AE91F846361"
+				"download" "DF9CC8E746BC3BE24DC1C44257515951"
+			}
+			"diony_playtest"
+			{
+				"gid" "8409E37AF9945FA656CDE24E7DC92A68"
+				"size" "9DD4A9595FA59821F728BB225B125B8E"
+				"download" "2D3D2B3325E2612AD125272F3878446F"
+			}
+			"epic_review"
+			{
+				"gid" "8D189C4002458A875D15CDB6B88696BA"
+				"size" "C672D77BEF0262D2E44BADBD239FA3ED"
+				"download" "A90811F3DB84F067D00DD10A5EB7B2D9"
+			}
+			"influencer_preview"
+			{
+				"gid" "10AB66898D5C70665519532E59E113B4"
+				"size" "DD5558FD30365CC3545B5515293616AB"
+				"download" "FBC56D07DA65F104B7C60655F98ECCD2"
+			}
+			"main"
+			{
+				"gid" "D62F7A284F6761D57918724B2401C2DC"
+				"size" "F683F5C528BFFCBB9A28ABCD6D512C41"
+				"download" "FF2F00C087C8F9C26227F4958EB4A98E"
+			}
+			"media_preview"
+			{
+				"gid" "FA4A4DB87E6BD4C1D8280E8D8F53A8D9"
+				"size" "75E6D8EEED68EA6DCBF597014318D9FE"
+				"download" "4E4A067836A86DD1A9B17536D1DEEED1"
+			}
+			"media_review"
+			{
+				"gid" "C6E5CAC0637AC85D5269AB5CDB46F45F"
+				"size" "D7885E00BD4C984F192922F89C6BE808"
+				"download" "0E4968032A51CA6AEC2EFA7F06C7EC6D"
+			}
+			"ne_playtest"
+			{
+				"gid" "4BA139FE28D9F1737E2E8A1E556DA5DF"
+				"size" "60606B33A6439912E4188D6A8F8F7DDF"
+				"download" "F02DA3F747E6078179155CDD62E0989A"
+			}
+			"nightly"
+			{
+				"gid" "2019256789EDA0CF7D498D5C75E75D4E"
+				"size" "3C270234587A1B91D03FC570962163E0"
+				"download" "4CAB773B1C77723A80996BBB41F687DD"
+			}
+			"partner"
+			{
+				"gid" "BAD609F23E79F2604475225C15B15C25"
+				"size" "66BC8797A4A38673F1CBBD25B8C4DF6D"
+				"download" "B13A3ECB98FFAFDF2ECD59DBE289D41D"
+			}
+			"production"
+			{
+				"gid" "4B73AF85DE88D912B1E48C1A15C7F0D6"
+				"size" "2348A628A2AAE0C765E461C12AD791A3"
+				"download" "58BCDB6E3F4664A65B27463EC2C32929"
+			}
+			"qa_test"
+			{
+				"gid" "AF601CC9B89A486866F5A52A860C8611"
+				"size" "2C493CED17C23EE0CC16EDCFF9E2851E"
+				"download" "8FD8120A11C1C790E779BB8F8ADCFF70"
+			}
+			"qashippingtest"
+			{
+				"gid" "E70DF25FAA5DFCCE50B0B366D41078B5"
+				"size" "2E3F79B1BB2AE3F9EB0F3BA11E2B695A"
+				"download" "71851115D9008FF61882DB45647EB543"
+			}
+			"release"
+			{
+				"gid" "4B68566043ED5FB2AF416892C568B91D"
+				"size" "FB66C2B555059C40E22A5E3C2642D31B"
+				"download" "A5D09E2853B79A5F1E44BCBC849CE538"
+			}
+			"shipping"
+			{
+				"gid" "4E8263E312A2EB074ACC6AF1E5A49E93"
+				"size" "E8C808FC0717B420C4630E621C9954E6"
+				"download" "C0C9A359B915057CEC98AF2A2D1A76C6"
+			}
+			"testing"
+			{
+				"gid" "14846052E712A69F00E5DADEE1CDC483"
+				"size" "45CE08B1815E57066A076FCBCAE6D6F7"
+				"download" "13A3753303E0300612BDEFC9B818E2EF"
+			}
+			"valve_review"
+			{
+				"gid" "B39859867D46EF45F98055DFF2D9048A"
+				"size" "BD3E9912B2872E65FC420A0081D9A255"
+				"download" "9A51291B6B39A2F03F500AD10C397A4C"
+			}
+		}
+	}
+	"2376220"
+	{
+		"dlcappid" "2376220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16741875"
+			"timeupdated" "1734462054"
+		}
+		"sony_playtest"
+		{
+			"buildid" "12442832"
+			"pwdrequired" "1"
+			"timeupdated" "1698689747"
+		}
+		"age_ratings"
+		{
+			"buildid" "14467444"
+			"pwdrequired" "1"
+			"timeupdated" "1716486599"
+		}
+		"daily"
+		{
+			"buildid" "15373992"
+			"pwdrequired" "1"
+			"timeupdated" "1723671137"
+		}
+		"development"
+		{
+			"buildid" "16258701"
+			"pwdrequired" "1"
+			"timeupdated" "1730419909"
+		}
+		"diony_playtest"
+		{
+			"buildid" "16729632"
+			"pwdrequired" "1"
+			"timeupdated" "1734108417"
+		}
+		"epic_review"
+		{
+			"buildid" "16780347"
+			"pwdrequired" "1"
+			"timeupdated" "1734492938"
+		}
+		"influencer_preview"
+		{
+			"buildid" "14165359"
+			"pwdrequired" "1"
+			"timeupdated" "1715385548"
+		}
+		"main"
+		{
+			"buildid" "16770232"
+			"pwdrequired" "1"
+			"timeupdated" "1734423186"
+		}
+		"media_preview"
+		{
+			"buildid" "14165359"
+			"pwdrequired" "1"
+			"timeupdated" "1714486611"
+		}
+		"media_review"
+		{
+			"buildid" "14436244"
+			"pwdrequired" "1"
+			"timeupdated" "1716571459"
+		}
+		"ne_playtest"
+		{
+			"buildid" "15586982"
+			"pwdrequired" "1"
+			"timeupdated" "1725468668"
+		}
+		"nightly"
+		{
+			"buildid" "16772138"
+			"pwdrequired" "1"
+			"timeupdated" "1734433835"
+		}
+		"partner"
+		{
+			"buildid" "14356110"
+			"pwdrequired" "1"
+			"timeupdated" "1715702289"
+		}
+		"production"
+		{
+			"buildid" "16698181"
+			"pwdrequired" "1"
+			"timeupdated" "1733857173"
+		}
+		"qa_test"
+		{
+			"buildid" "16780385"
+			"pwdrequired" "1"
+			"timeupdated" "1734483982"
+		}
+		"qashippingtest"
+		{
+			"buildid" "16780347"
+			"pwdrequired" "1"
+			"timeupdated" "1734483717"
+		}
+		"release"
+		{
+			"buildid" "16741875"
+			"pwdrequired" "1"
+			"timeupdated" "1734134663"
+		}
+		"shipping"
+		{
+			"buildid" "16772332"
+			"pwdrequired" "1"
+			"timeupdated" "1734434806"
+		}
+		"testing"
+		{
+			"buildid" "16741828"
+			"pwdrequired" "1"
+			"timeupdated" "1734370274"
+		}
+		"valve_review"
+		{
+			"buildid" "14816656"
+			"pwdrequired" "1"
+			"timeupdated" "1719252105"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100485760"
+	"maxnumfiles" "1000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Diony/Saved/SaveGames"
+			"pattern" "UserSettings*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26688438"
+"_sha" "709a4c7cef7b5e8868418815f85bb641f4bdee7e"
+"_size" "12129"
