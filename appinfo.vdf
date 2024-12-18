@@ -17,25 +17,25 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1722988800"
-		"tested_build_id" "15219466"
+		"category" "3"
+		"test_timestamp" "1733788800"
+		"tested_build_id" "16662667"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -49,11 +49,11 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -134,7 +134,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Suspicious Developments Inc"
+			"name" "Suspicious Developments"
 		}
 		"1"
 		{
@@ -184,13 +184,13 @@
 	"store_tags"
 	{
 		"0" "14139"
-		"1" "1741"
-		"2" "1664"
+		"1" "1664"
+		"2" "1741"
 		"3" "1742"
 		"4" "1677"
 		"5" "4136"
-		"6" "4182"
-		"7" "1708"
+		"6" "1708"
+		"7" "4182"
 		"8" "17305"
 		"9" "21725"
 		"10" "122"
@@ -209,7 +209,7 @@
 }
 "extended"
 {
-	"developer" "Suspicious Developments Inc"
+	"developer" "Suspicious Developments"
 	"publisher" "Suspicious Developments"
 	"homepage" "http://suspicious.dev"
 	"listofdlc" "3065010,3139350"
@@ -261,15 +261,15 @@
 		{
 			"public"
 			{
-				"gid" "1710081409972884275"
-				"size" "2523431478"
-				"download" "1113040224"
+				"gid" "8739398109245634430"
+				"size" "2523513528"
+				"download" "1113026944"
 			}
 			"nextversion"
 			{
-				"gid" "1710081409972884275"
-				"size" "2523431478"
-				"download" "1113040224"
+				"gid" "1982275952138244092"
+				"size" "2530207142"
+				"download" "1113239056"
 			}
 			"oldversion"
 			{
@@ -282,9 +282,9 @@
 		{
 			"private-testing"
 			{
-				"gid" "9C4386F53A3298714F745284E977A4B7"
-				"size" "B1E96BD8FD673DEEA44CD9B60AEA5456"
-				"download" "ECA7629305022CA8A5742189EFB02420"
+				"gid" "D6450847CB06844DEAD49B4884914808"
+				"size" "64840459FDF4EA83E563135E95DEB86E"
+				"download" "FFC3BB3FFD8354CABF987A6577EBD1D7"
 			}
 		}
 	}
@@ -329,14 +329,14 @@
 	{
 		"public"
 		{
-			"buildid" "16476256"
-			"timeupdated" "1732734894"
+			"buildid" "16776944"
+			"timeupdated" "1734460887"
 		}
 		"nextversion"
 		{
-			"buildid" "16476256"
+			"buildid" "16779572"
 			"description" "Test the next patch"
-			"timeupdated" "1732127517"
+			"timeupdated" "1734477484"
 		}
 		"oldversion"
 		{
@@ -346,9 +346,9 @@
 		}
 		"private-testing"
 		{
-			"buildid" "16476256"
+			"buildid" "16779572"
 			"pwdrequired" "1"
-			"timeupdated" "1732127032"
+			"timeupdated" "1734477195"
 		}
 	}
 }
@@ -451,6 +451,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26392522"
-"_sha" "2995ec8d4ebf480f8ae399c5e0429106c8c12623"
-"_size" "8729"
+"_change_number" "26686449"
+"_sha" "d381b9069a72b39a69ff70d960d8e29e01818e89"
+"_size" "8714"
