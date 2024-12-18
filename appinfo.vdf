@@ -1,0 +1,710 @@
+"appid" "1479140"
+"common"
+{
+	"name" "AK-xolotl: Together"
+	"type" "Game"
+	"logo" "c0beb00e186e8e386b80f746298518bc5cf40eac"
+	"logo_small" "c0beb00e186e8e386b80f746298518bc5cf40eac_thumb"
+	"icon" "12c5cc11413ba878e8b1ae12476e1fb91cbaa8b0"
+	"clienticon" "e3dc3a734c3deb152e25a41cc6c6498650d1fbb0"
+	"clienttga" "3eedf4d03f76237cf6e991335d4cc4977fcdd995"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1696550400"
+		"tested_build_id" "12346190"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "9f2973ab494b4445a917d37cd04c2f5e6a5e48b0/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "94.06312661558916"
+			"height_pct" "71.96467508355599"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8d5c3720df8bc08db1bba0967dda7fc8c5dea99b/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "8d5c3720df8bc08db1bba0967dda7fc8c5dea99b/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "0446553349facbcfee836d5bb5097648b6b29201/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "0446553349facbcfee836d5bb5097648b6b29201/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "0446553349facbcfee836d5bb5097648b6b29201/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "94.06312661558916"
+				"height_pct" "71.96467508355599"
+			}
+			"image"
+			{
+				"english" "2ddaac1652059a8f12476b4f6430bd14a0a5284b/logo.png"
+			}
+			"image2x"
+			{
+				"english" "2ddaac1652059a8f12476b4f6430bd14a0a5284b/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ad14e87596cd87417582e300ee88338030d48eee/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ad14e87596cd87417582e300ee88338030d48eee/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728042628"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "2Awesome Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Playstack"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "2Awesome Studio"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Playstack"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1694675122"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1479140"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "4885"
+		"2" "3964"
+		"3" "42804"
+		"4" "1716"
+		"5" "4726"
+		"6" "4026"
+		"7" "4195"
+		"8" "122"
+		"9" "4305"
+		"10" "3959"
+		"11" "4136"
+		"12" "3871"
+		"13" "19"
+		"14" "4747"
+		"15" "492"
+		"16" "4758"
+		"17" "5547"
+		"18" "4637"
+		"19" "5125"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,ak_2.0,multiplayer_playtest"
+	"developer" "2Awesome Studio"
+	"publisher" "Playstack"
+	"homepage" "https://www.akxolotl.com/"
+}
+"config"
+{
+	"installdir" "AK-xolotl"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ak-xolotl.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ak-xolotl.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ak-xolotl.exe"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1479141"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5732248698548376035"
+				"size" "594920688"
+				"download" "413899792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "7B094F6C5660ECEA60E79AA94FC3825A"
+				"size" "975C225D5F3EA65CC1D251B725FBB603"
+				"download" "2FA29B28AA9B4E020029F656E0C4CB36"
+			}
+			"gc23demo"
+			{
+				"gid" "7C0C97C432664FBDE9DD2980619CD20A"
+				"size" "B7E235DC6A37E8794825ED1AC86C0A8C"
+				"download" "21685740EEFC08DB95EF163106D41422"
+			}
+			"gmc1"
+			{
+				"gid" "E13EA455FCE6D43CF17348404B91BE37"
+				"size" "19F785455C2652CB6E46EEBF2D9A5073"
+				"download" "4F1FF49958C5AAC605911038919D85F0"
+			}
+			"gmc2"
+			{
+				"gid" "A8FF7A61B669BC218115FF6784E8738A"
+				"size" "6D61C4C30AE3D60E0945FD0599245E83"
+				"download" "E3B19FC37966898F9B8CD7C9C4F019CE"
+			}
+			"gmc3"
+			{
+				"gid" "507492130630E3A9932EE70A14814A59"
+				"size" "31C8A11744D6DB281CD8A028CB3C0765"
+				"download" "41649523B774C621F873F38E98AD86B4"
+			}
+			"prp1"
+			{
+				"gid" "04BD2D386F6C2F5A98F82222992759D1"
+				"size" "7C2F06034E775B52205A6CC071179BD2"
+				"download" "D7E7BAF832CDEFBBA1F044035651CC83"
+			}
+			"trailer_build"
+			{
+				"gid" "448DEAF1BF9494E373D49D55EEC9B812"
+				"size" "27E8B41219BE82D19E77013550831B84"
+				"download" "3F6A1729C1A87DA7EAFD2584E451B1A1"
+			}
+			"ak_2.0.2"
+			{
+				"gid" "1BA5E5B891FD755920E62F32A4439FE0"
+				"size" "4559DC269DC4C68740A38BDDA810C68C"
+				"download" "2498D55EEEBFA6536AAA38F1B7A9C9AC"
+			}
+			"gamedoctor"
+			{
+				"gid" "A25E7395B9F5E86C819174F00D75C0FB"
+				"size" "6E0A2D7757DFC4B21AFFD4F8C67FDB63"
+				"download" "5052AFF16F3D981761ABA7A78970D0C6"
+			}
+			"internal"
+			{
+				"gid" "32BC4E8A1143BDF646130C61BD11EE6F"
+				"size" "AD96CDF68C7C536C5CB9E7E26ACDB78A"
+				"download" "5AC8A12F7DF190AAE0CB1AF59BF570B2"
+			}
+			"macos"
+			{
+				"gid" "82A09B2FD5153BCA12CF2DCF010B5B3D"
+				"size" "85BAC7350C6BA4D85E096BD69F0F8D4F"
+				"download" "C4295284DBF9D0F60206CF856CC2D9F6"
+			}
+			"monthly_stable"
+			{
+				"gid" "AA095BB7BFD3A29496C362EAADDB38FE"
+				"size" "A1C4E1081B5E20BB1AA7EF3F2CD8648E"
+				"download" "6A48B756DC778AEAAAF55F4F67500900"
+			}
+			"multiplayer_playtest"
+			{
+				"gid" "5181818ECC223D8013E5C9B52DFDD230"
+				"size" "6B7A0A708CE0C9BCA4727CA45804C0B8"
+				"download" "C75CAE1AEE397F46BF6CA339FDBB83DB"
+			}
+			"onlinebeta"
+			{
+				"gid" "A209019F276FAC9172296BFC814E8EDF"
+				"size" "73A2341142EE89B72B157A5CA1AB551C"
+				"download" "4021102244EA94B6F1A98338431D8312"
+			}
+			"onlinebetaprereleasetesting"
+			{
+				"gid" "4DD9E308C2B36828AE58876D862740EA"
+				"size" "3861100445AD7E0467D0DCBCC5A3DD53"
+				"download" "68B7AB432A343153A34EE8E79D875AA8"
+			}
+			"playtest"
+			{
+				"gid" "186B3A2FDEB91820029B8562993BDD58"
+				"size" "CCCFA99BA637B597E92ECE4FD0C11A34"
+				"download" "8BA37BF7552DB403AB8D8B3B298EB0F6"
+			}
+			"tempbranch2"
+			{
+				"gid" "56C34B8E993BDEA09789F13EBAF71EDE"
+				"size" "30B63C4489DA1D08A8F2A3207AEB794A"
+				"download" "F1AA940DC1937CBC0C207A62F100E3A9"
+			}
+		}
+	}
+	"1479142"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1209203551963819186"
+				"size" "704693403"
+				"download" "430087856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "C45EE5039E5F2C07C6C73745B0E172F8"
+				"size" "B218964C3258A1C11FD9E77816BDDF82"
+				"download" "3B33DE6E9B4397E2221A4394EAC39051"
+			}
+			"ak_2.0.2"
+			{
+				"gid" "E742DE4187D453E2551B73262919DC1F"
+				"size" "50D5774C87F24A27603F2BA46121D58B"
+				"download" "78BBBBADC0FD0991CC5C2607BA27BF7E"
+			}
+			"gamedoctor"
+			{
+				"gid" "710DB77045A2070941CEF4673FB6C97B"
+				"size" "45D0EEB5CF380B3F9747E1915950EE84"
+				"download" "D14A66E878DF9D014DCBA0ACB0776789"
+			}
+			"macos"
+			{
+				"gid" "9069438A88FF2DA05FD3200961F2029A"
+				"size" "EAA6C57979CE10D665E82B2EEDC25158"
+				"download" "E953C66874453D5A106E1D54AE2514A6"
+			}
+			"monthly_stable"
+			{
+				"gid" "3C9483515E74C5E20668B40AF5D96D6C"
+				"size" "4238D442D5C84D6328D365D182129448"
+				"download" "9ABC54863FF6B4B06F58B1224B5115DB"
+			}
+			"multiplayer_playtest"
+			{
+				"gid" "51EE9C703871131F29D11D4142C7DAD2"
+				"size" "A913F5A55E43D5058BE031DC1B78AB2E"
+				"download" "9874F24966EF225E7F2FFBCAF79360D6"
+			}
+			"onlinebeta"
+			{
+				"gid" "147D7CD6436050D705A3EE4ACE7A3527"
+				"size" "B5AA6B660700EF6F0EE1D0E5C9862D94"
+				"download" "2F8B166083D58C381B30C69C2897CF8A"
+			}
+			"onlinebetaprereleasetesting"
+			{
+				"gid" "F04D7A9BED446476D3E0A82701ACF3C9"
+				"size" "0DCAFCAC1C6586B5CCEE71EA5396B778"
+				"download" "9DDFD7491C706DF5E609D993B85EB000"
+			}
+			"tempbranch2"
+			{
+				"gid" "F82A336B9491AE710F4ABD2C0C47FE6C"
+				"size" "659EE3824592028F6AE6A1CC7B1D42B0"
+				"download" "50A7764B045F45E04207C2ADA942C189"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16773018"
+			"timeupdated" "1734521344"
+		}
+		"alpha"
+		{
+			"buildid" "13858996"
+			"pwdrequired" "1"
+			"timeupdated" "1711467687"
+		}
+		"gc23demo"
+		{
+			"buildid" "11995770"
+			"pwdrequired" "1"
+			"timeupdated" "1692650500"
+		}
+		"gmc1"
+		{
+			"buildid" "11701117"
+			"pwdrequired" "1"
+			"timeupdated" "1689319667"
+		}
+		"gmc2"
+		{
+			"buildid" "11904493"
+			"pwdrequired" "1"
+			"timeupdated" "1691602390"
+		}
+		"gmc3"
+		{
+			"buildid" "12013942"
+			"pwdrequired" "1"
+			"timeupdated" "1692802607"
+		}
+		"prp1"
+		{
+			"buildid" "12125588"
+			"pwdrequired" "1"
+			"timeupdated" "1696937698"
+		}
+		"trailer_build"
+		{
+			"buildid" "11209308"
+			"pwdrequired" "1"
+			"timeupdated" "1685026218"
+		}
+		"ak_2.0.2"
+		{
+			"buildid" "16773018"
+			"pwdrequired" "1"
+			"timeupdated" "1734438638"
+		}
+		"gamedoctor"
+		{
+			"buildid" "15351069"
+			"pwdrequired" "1"
+			"timeupdated" "1723530032"
+		}
+		"internal"
+		{
+			"buildid" "16785664"
+			"pwdrequired" "1"
+			"timeupdated" "1734519577"
+		}
+		"macos"
+		{
+			"buildid" "16243477"
+			"pwdrequired" "1"
+			"timeupdated" "1730323605"
+		}
+		"monthly_stable"
+		{
+			"buildid" "16083133"
+			"pwdrequired" "1"
+			"timeupdated" "1729177819"
+		}
+		"multiplayer_playtest"
+		{
+			"buildid" "16786250"
+			"pwdrequired" "1"
+			"timeupdated" "1734522719"
+		}
+		"onlinebeta"
+		{
+			"buildid" "16772669"
+			"pwdrequired" "1"
+			"timeupdated" "1734521409"
+		}
+		"onlinebetaprereleasetesting"
+		{
+			"buildid" "16772669"
+			"pwdrequired" "1"
+			"timeupdated" "1734436912"
+		}
+		"playtest"
+		{
+			"buildid" "15227972"
+			"pwdrequired" "1"
+			"timeupdated" "1722522429"
+		}
+		"tempbranch2"
+		{
+			"buildid" "14291083"
+			"pwdrequired" "1"
+			"timeupdated" "1715090772"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Playstack/AK-xolotl/SaveFiles/AKSettingSlotSync"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Playstack/AK-xolotl/SaveFiles/AKSlot1"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Playstack/AK-xolotl/SaveFiles/AKSlot2"
+			"pattern" "*"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Playstack/AK-xolotl/SaveFiles/AKSlot3"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26694259"
+"_sha" "6289f2ebb1ce5629ea9d93ba1151fd560f674e64"
+"_size" "14431"
