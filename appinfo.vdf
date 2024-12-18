@@ -71,6 +71,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -85,10 +86,6 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
-			}
-			"image2x"
-			{
-				"english" "library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -111,8 +108,19 @@
 				"height_pct" "62.158632153882714"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "72ea5248d345dace420d1047b25a15c87d20ff1d/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "72ea5248d345dace420d1047b25a15c87d20ff1d/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1656357293"
+	"store_asset_mtime" "1734377705"
 	"associations"
 	{
 		"0"
@@ -272,9 +280,9 @@
 		{
 			"public"
 			{
-				"gid" "7907438362641009017"
-				"size" "462546963"
-				"download" "299766784"
+				"gid" "7135185488646273443"
+				"size" "469761972"
+				"download" "304697184"
 			}
 		}
 		"encryptedmanifests"
@@ -299,21 +307,21 @@
 			}
 			"env_prod"
 			{
-				"gid" "543A1FC9262DEC543E53C271CD78A94D"
-				"size" "DA397D9866281918721FD2C8E73C0F5A"
-				"download" "6EFE54804DA9E0270390BD24F1B1E953"
+				"gid" "64E12DCA07C4D825DECAE027385F015A"
+				"size" "958F94F5B480A257DFD2D99A61D4CF1A"
+				"download" "7697D312ED385C9726C40359B73A855C"
 			}
 			"env_qa"
 			{
-				"gid" "3A66CC43C63A3C1C496D9B797F2D19AF"
-				"size" "F8D46D8696B1C7F61C3F3977C54D3B88"
-				"download" "F1A35B34844AFA75A8B87506C9794300"
+				"gid" "CB91ADE8FEB9053D3271105C4600C5C4"
+				"size" "476CA6E8C54BF7BB7EDC6BE68385D94F"
+				"download" "682D147A58AE4F70B77013799C759005"
 			}
 			"env_stage"
 			{
-				"gid" "F47A144C5BA675EE1AD36B1FD3D96837"
-				"size" "B92B64F237F20FACAF17D700016ED92E"
-				"download" "E1BF48C2EB13AEA45508625371427DE0"
+				"gid" "2E594F1581609DF8D574DBA02E0AE7B1"
+				"size" "E30B362DEF4BDDED1352165DD6CF1BD9"
+				"download" "BF4ED175205551EE73B46F3069E73CD9"
 			}
 		}
 	}
@@ -329,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "8472727645574586686"
-				"size" "634629476"
-				"download" "314335792"
+				"gid" "6974520291181935320"
+				"size" "639878889"
+				"download" "318828096"
 			}
 		}
 		"encryptedmanifests"
@@ -356,21 +364,21 @@
 			}
 			"env_prod"
 			{
-				"gid" "0FD84BF0EFEFAB410101B9BBF09523C8"
-				"size" "21CC2ECA2FA4F7556C5B22B18ABC9FAE"
-				"download" "6957D673D006CDB6826B6A38C5E13D1D"
+				"gid" "9C4F3B9D2348AAC604CB96D1F5422B9E"
+				"size" "57E36F2F14960D010B2584D5E8693FC1"
+				"download" "3AFE32567975C627EFD55E128E66665D"
 			}
 			"env_qa"
 			{
-				"gid" "E850E57FF051A306CF08D4D74D3FFCB5"
-				"size" "BCD10C7C1FAD11B44D11581519FE0E9C"
-				"download" "67D7575C40A37CB9348D9BFE2F2DB195"
+				"gid" "0F45AA6442E5E6DFBF28C04A536DA23E"
+				"size" "FF076D0C6A8D385659D490B2B4058CAB"
+				"download" "2D33FE0C2D12C89D8BC560AD76046551"
 			}
 			"env_stage"
 			{
-				"gid" "3A2B26EA8626B5441F5DA37E0AF8D0C1"
-				"size" "2352555E5912120BBF597110F5594E38"
-				"download" "601EA260CC273AE6897C95197CF0070B"
+				"gid" "4593AAEC24C4BFAD9BEF4AF3DD527121"
+				"size" "4BF3370CED2DDC3CE0202D2EA2CFF20F"
+				"download" "45CCB1F06B0D40A99EBB22AB43515F19"
 			}
 		}
 	}
@@ -378,8 +386,8 @@
 	{
 		"public"
 		{
-			"buildid" "16097816"
-			"timeupdated" "1729800090"
+			"buildid" "16779038"
+			"timeupdated" "1734474005"
 		}
 		"env_local"
 		{
@@ -401,25 +409,25 @@
 		}
 		"env_prod"
 		{
-			"buildid" "16293286"
+			"buildid" "16779038"
 			"pwdrequired" "1"
-			"timeupdated" "1730759292"
+			"timeupdated" "1734473068"
 		}
 		"env_qa"
 		{
-			"buildid" "16578464"
+			"buildid" "16780263"
 			"pwdrequired" "1"
-			"timeupdated" "1732882103"
+			"timeupdated" "1734483099"
 		}
 		"env_stage"
 		{
-			"buildid" "16293271"
+			"buildid" "16777549"
 			"pwdrequired" "1"
-			"timeupdated" "1730759185"
+			"timeupdated" "1734463485"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26421774"
-"_sha" "4e084f7345f724b696c67a9099ceb84fc9e3c1c7"
-"_size" "8086"
+"_change_number" "26686729"
+"_sha" "de3b1540843f2a4599509f2e3c0f2de79772c281"
+"_size" "8284"
