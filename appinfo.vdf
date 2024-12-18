@@ -1,0 +1,430 @@
+"appid" "290100"
+"common"
+{
+	"name" "Bulwark Evolution: Falconeer Chronicles"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "27a7652f9dfc6eb2bc1b35da10a84b86435aecbc"
+	"logo_small" "27a7652f9dfc6eb2bc1b35da10a84b86435aecbc_thumb"
+	"clienttga" "d47079fd1f333a5c407fac5c159cc7cd230eba7a"
+	"clienticon" "cd22e3947c82821e923b5e2df170c3a9d3898631"
+	"icon" "92eff32ac164c0e55dd5299855a9808db6b8eeac"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "堡垒：猎鹰战纪"
+		"tchinese" "堡垒：猎鹰战纪"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1717113600"
+		"tested_build_id" "14466329"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "UntitledApp"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "40178ce8adfc0fef19bc5b3c36e5f19c372a959a/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-cn,zh-tw,en"
+		"library_header" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "78.7256696921299"
+			"height_pct" "85.41772203401467"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "78.7256696921299"
+				"height_pct" "85.41772203401467"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726692098"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tomas Sala"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wired Productions"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Falconeer Chronicles"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_61" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711475598"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "290100"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "4094"
+		"2" "7481"
+		"3" "3810"
+		"4" "9"
+		"5" "3834"
+		"6" "3993"
+		"7" "7332"
+		"8" "1643"
+		"9" "1654"
+		"10" "597"
+		"11" "4046"
+		"12" "1777"
+		"13" "3854"
+		"14" "4191"
+		"15" "4145"
+		"16" "1695"
+		"17" "4166"
+		"18" "4994"
+		"19" "4364"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Tomas Sala"
+	"publisher" "Wired Productions"
+	"homepage" "http://www.theFalconeer.com"
+	"listofdlc" "2727620,2789830,2789840,3165180,3165190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Bulwark"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bulwark.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"290102"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4347705635022931332"
+				"size" "2261946865"
+				"download" "972251232"
+			}
+			"beta"
+			{
+				"gid" "4347705635022931332"
+				"size" "2261946865"
+				"download" "972251232"
+			}
+			"debug"
+			{
+				"gid" "7877005178278294006"
+				"size" "1462514658"
+				"download" "859238048"
+			}
+			"hold"
+			{
+				"gid" "8202797277626580033"
+				"size" "1371170921"
+				"download" "881194208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "73868EA0BDD3F49F301E0664F3CD182D"
+				"size" "82E0F5DD6596870A3D29B96C4DB16A71"
+				"download" "CCF7C079B31C3C3CDDA920CC95AE503B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16771438"
+			"timeupdated" "1734430931"
+		}
+		"beta"
+		{
+			"buildid" "16771438"
+			"description" "Beta patch"
+			"timeupdated" "1734430338"
+		}
+		"debug"
+		{
+			"buildid" "16137087"
+			"description" "for troubleshooting issues"
+			"timeupdated" "1729604293"
+		}
+		"development"
+		{
+			"buildid" "16750779"
+			"pwdrequired" "1"
+			"timeupdated" "1734267046"
+		}
+		"hold"
+		{
+			"buildid" "14648040"
+			"description" "To hold upcoming updates"
+			"timeupdated" "1718979072"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Wired Productions/Bulwark"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26675856"
+"_sha" "16ec8eb20b676b56b39399fe81549b4295f433cd"
+"_size" "8001"
