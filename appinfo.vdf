@@ -36,6 +36,52 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "84.41860465116278"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1676086680"
 	"associations"
 	{
@@ -56,6 +102,7 @@
 		"0" "4"
 		"1" "23"
 		"2" "29"
+		"3" "37"
 	}
 	"category"
 	{
@@ -64,7 +111,6 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_48" "1"
-		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -110,10 +156,11 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1676618086"
+	"steam_release_date" "1676618040"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2084940"
+	"exfgls" "3"
 	"store_tags"
 	{
 		"0" "128"
@@ -131,19 +178,20 @@
 		"12" "1754"
 		"13" "5395"
 		"14" "1663"
-		"15" "1720"
-		"16" "3843"
+		"15" "3843"
+		"16" "1720"
 		"17" "4175"
 		"18" "4726"
 		"19" "3839"
 	}
-	"review_score" "5"
-	"review_percentage" "59"
+	"review_score" "4"
+	"review_percentage" "39"
 }
 "extended"
 {
 	"developer" "DuoDuoDog"
 	"publisher" "DuoDuoDog"
+	"isfreeapp" "1"
 }
 "config"
 {
@@ -183,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "2888335638560893947"
-				"size" "7261363687"
-				"download" "6953604080"
+				"gid" "7478425541950595438"
+				"size" "7286813340"
+				"download" "6963613552"
 			}
 		}
 	}
@@ -193,8 +241,12 @@
 	{
 		"public"
 		{
-			"buildid" "10680372"
-			"timeupdated" "1677814763"
+			"buildid" "16775076"
+			"timeupdated" "1734449759"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26680307"
+"_sha" "434433225d7455fcb0a78fa72602dbb53622c25e"
+"_size" "3935"
