@@ -1,0 +1,521 @@
+"appid" "991170"
+"common"
+{
+	"name" "BarnFinders"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "2c32b63526a5dd5b40fca34dffa009fdf3eaf3b9"
+	"logo_small" "2c32b63526a5dd5b40fca34dffa009fdf3eaf3b9_thumb"
+	"icon" "9cc0e86e261e3d72d4473a0cb14668948c72b8c6"
+	"clienticon" "ffca199ec570d4589d4142a5b6c87a8a98639409"
+	"clienttga" "e509410f3adbba7a306b1d36d85b59d9a62697c4"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "废品大亨"
+		"tchinese" "废品大亨"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1650326400"
+		"tested_build_id" "7777750"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Barn Finders"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "5e482dca4e02762a0e7267c692c92c43f03a9bb7/capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,zh-tw,en"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_hero_blur" "en"
+		"library_logo" "zh-cn,zh-tw,en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "0.4196843329291937"
+			"height_pct" "21.62583833733848"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"english" "362ac926b9b08c0ea9675d213e4994e661293e60/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"english" "362ac926b9b08c0ea9675d213e4994e661293e60/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "8d8ea687981a4a8c1eb8ad899dbcae38d5cb0cd7/library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "8d8ea687981a4a8c1eb8ad899dbcae38d5cb0cd7/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "8d8ea687981a4a8c1eb8ad899dbcae38d5cb0cd7/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "381d60bf390477c540e8909f7d625801c48e4004/logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "0.4196843329291937"
+				"height_pct" "21.62583833733848"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"english" "381d60bf390477c540e8909f7d625801c48e4004/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "7a1e2f487daf236aea4b29f043b203a181ed8ab0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "7a1e2f487daf236aea4b29f043b203a181ed8ab0/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734287768"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Duality Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Duality Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "HeartBeat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Duality Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1592233167"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "991170"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "597"
+		"2" "492"
+		"3" "4202"
+		"4" "4695"
+		"5" "4182"
+		"6" "3834"
+		"7" "12472"
+		"8" "3839"
+		"9" "3810"
+		"10" "4175"
+		"11" "4136"
+		"12" "1654"
+		"13" "3968"
+		"14" "4166"
+		"15" "6276"
+		"16" "21"
+		"17" "1036"
+		"18" "5350"
+		"19" "1693"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Duality Games"
+	"publisher" "Duality Games"
+	"homepage" "https://dualitygames.eu"
+	"listofdlc" "1424060,1554910"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "BarnFinders"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BarnFinders.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"991171"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3218321801051136189"
+				"size" "24405886441"
+				"download" "10583245424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "3831FB0AC754700B9A4E3FB2E3AE5F48"
+				"size" "2364B237101B625AED650968F1B51A13"
+				"download" "BB95C60DC6C90C5F7DFFA3792268BA2F"
+			}
+			"beta_test"
+			{
+				"gid" "0ED5D0CDEDCA7A9B220E7302599C9112"
+				"size" "39FC20DFF9DBFA6DB3A6CDA3F88963F9"
+				"download" "3290398071E4929FCA5446B5CA26F445"
+			}
+			"superhero"
+			{
+				"gid" "7DF22BF2C914FBBEC7D74FDE3959FB5F"
+				"size" "0FC3DF3CFB477E64444835E5EE3BA475"
+				"download" "37F6A110E1D8E67FD3B311E498AF8389"
+			}
+		}
+	}
+	"1424060"
+	{
+		"dlcappid" "1424060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2713477810408818662"
+				"size" "1647020494"
+				"download" "1626470960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "3E794D3E3D015E741773727CA6C6B2EE"
+				"size" "10925F9865C2D169C0EA07BF53EBC1DA"
+				"download" "23126BD8768FEE359CB792BF11A8EC22"
+			}
+			"beta_test"
+			{
+				"gid" "803647D4DCF0EAD9949CA24526D6162F"
+				"size" "DFA7C5B2F8520CD89C2E3E77D2DE23BD"
+				"download" "69FAF9F14DB81FBFE9DF34EBE6A6B6F1"
+			}
+			"superhero"
+			{
+				"gid" "D2F31FC93DE26884319F3B761F73D8BD"
+				"size" "B0287EA3C042486FA64B19DC115900FC"
+				"download" "374EC6D05144667B8CDFBD10FDDBE716"
+			}
+		}
+	}
+	"1554910"
+	{
+		"dlcappid" "1554910"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7071696888504665580"
+				"size" "3728261924"
+				"download" "3643268656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "8F5471A646F68C81AB051BCB14D8F4D6"
+				"size" "085C1F06B9D3399E071C0441AD59951C"
+				"download" "EA551AB90F0A569229F47AFD54ED8657"
+			}
+			"beta_test"
+			{
+				"gid" "20AE083D7DDD91F07F37B1C2563D90E9"
+				"size" "DCF598CE07D22E4F093276FF12A2F0C9"
+				"download" "FFA03A1AE5218D06DBA3B050F87A5C81"
+			}
+			"superhero"
+			{
+				"gid" "AB320EA28DD04591AF36D7A4745D0161"
+				"size" "111A6C559C614F50B74DD0B6565DBE88"
+				"download" "C8F051E4066345BF1F7905D21B193FE8"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16772612"
+			"timeupdated" "1734442765"
+		}
+		"beta"
+		{
+			"buildid" "16772612"
+			"pwdrequired" "1"
+			"timeupdated" "1734436568"
+		}
+		"beta_test"
+		{
+			"buildid" "16224056"
+			"pwdrequired" "1"
+			"timeupdated" "1730218903"
+		}
+		"superhero"
+		{
+			"buildid" "14976985"
+			"pwdrequired" "1"
+			"timeupdated" "1720538043"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BarnFinders/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26678490"
+"_sha" "4533c54940ca27792b6ecaec72dd8a32a99512fd"
+"_size" "10040"
