@@ -70,7 +70,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "652e4ce65e1116afabfbca77deb3112fcf087a8e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -80,7 +80,9 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -94,22 +96,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "e266e24b425c1fa16a3f4f32b27ce6a9730a3677/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "e266e24b425c1fa16a3f4f32b27ce6a9730a3677/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "2f9133d8623df1f407e92a9c3984e825839ab2b8/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "2f9133d8623df1f407e92a9c3984e825839ab2b8/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "2f9133d8623df1f407e92a9c3984e825839ab2b8/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -129,8 +138,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ce6ae8439a59e83c251e66fff003c6bda594b53b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ce6ae8439a59e83c251e66fff003c6bda594b53b/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1704869705"
+	"store_asset_mtime" "1733145407"
 	"associations"
 	{
 		"0"
@@ -295,7 +315,6 @@
 	}
 	"steamdecktouchscreen" "5"
 	"steamconfigurator3rdpartynative" "9"
-	"steamcontrollertemplateindex" "4"
 }
 "depots"
 {
@@ -309,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "6268335967673331767"
-				"size" "1341461736"
-				"download" "1157901232"
+				"gid" "3138143354063170530"
+				"size" "1428028040"
+				"download" "1237285552"
 			}
 		}
 	}
@@ -325,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "6024391583541609332"
-				"size" "1352945144"
-				"download" "1161574912"
+				"gid" "2345523540757425240"
+				"size" "1439511464"
+				"download" "1241039136"
 			}
 		}
 	}
@@ -335,8 +354,8 @@
 	{
 		"public"
 		{
-			"buildid" "16069235"
-			"timeupdated" "1729098381"
+			"buildid" "16775324"
+			"timeupdated" "1734450744"
 		}
 	}
 }
@@ -373,6 +392,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25751312"
-"_sha" "6e8d256ba1a42ad8c2a091aeeb84ce0745f6064a"
-"_size" "6415"
+"_change_number" "26680526"
+"_sha" "bda6f559941f2f65ff370270326541850498a0da"
+"_size" "7014"
