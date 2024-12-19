@@ -1,0 +1,778 @@
+"appid" "2124490"
+"common"
+{
+	"name" "SILENT HILL 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "17191c756ed1e6daac47bd633204d754996629ad"
+	"clienttga" "04fc558a0700bdc93063e90b5486c3468931946b"
+	"icon" "d60d84cc40d51279389e650dde72e443a607a594"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1730160000"
+		"tested_build_id" "16082357"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1717046050"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bloober Team SA"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KONAMI"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Silent Hill"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_57" "1"
+		"category_28" "1"
+		"category_60" "1"
+		"category_55" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728360060"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2124490"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "3978"
+		"2" "1667"
+		"3" "4166"
+		"4" "1742"
+		"5" "5708"
+		"6" "5186"
+		"7" "1756"
+		"8" "1697"
+		"9" "4182"
+		"10" "6971"
+		"11" "21"
+		"12" "19"
+		"13" "3834"
+		"14" "4145"
+		"15" "4667"
+		"16" "12095"
+		"17" "4191"
+		"18" "1693"
+		"19" "4106"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Bloober Team SA"
+	"publisher" "KONAMI"
+	"homepage" "https://www.konami.com/games/silenthill/2r/"
+	"listofdlc" "2951540,3097490,3097500"
+}
+"config"
+{
+	"installdir" "SILENT HILL 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SHProto.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch game"
+			}
+			"description" "Launch game"
+		}
+		"1"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "bleeding_edge"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"2"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "stable_edge_"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"3"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gpuvendors"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"4"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "te_sr"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"5"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gpuvendor_intel"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"6"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gpuvendor_intel_old"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"7"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sh2_reviews"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"8"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sh2_sdtest"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"9"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"arguments" "-RGPMarkers"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gpuvendors"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode, RDP Markers)"
+			}
+			"description" "Launch game (dev-mode, RDP Markers)"
+		}
+		"10"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sh2_razer"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"11"
+		{
+			"executable" "RecordPSO.bat"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "bleeding_edge"
+			}
+			"description_loc"
+			{
+				"english" "Record PSO"
+			}
+			"description" "Record PSO"
+		}
+		"12"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "pso_recorder"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+		"13"
+		{
+			"executable" "RecordPSO.bat"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "pso_recorder"
+			}
+			"description_loc"
+			{
+				"english" "Record PSO"
+			}
+			"description" "Record PSO"
+		}
+		"14"
+		{
+			"executable" "SHProto\\Binaries\\Win64\\SHProto.exe"
+			"workingdir" "SHProto\\Binaries\\Win64"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "old_edge"
+			}
+			"description_loc"
+			{
+				"english" "Launch game (dev-mode)"
+			}
+			"description" "Launch game (dev-mode)"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2124491"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6030786832332563114"
+				"size" "36305516490"
+				"download" "35295566272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bdg_edge"
+			{
+				"gid" "7452AAC1809490C6E155FE2445755B51"
+				"size" "8F0832DAD40DEAEA2722C17D8CBA95C1"
+				"download" "152BA98BA305C4D443E4CAD3CA7A774B"
+			}
+			"sh2_ratings"
+			{
+				"gid" "791270EEDCC976C7991C433213B6ABD2"
+				"size" "8C8FCA9DCD9916B1C7AFA4CBA35A5EFA"
+				"download" "E5A89D8DADFD88E7988C274D1DE0EA5C"
+			}
+			"sh2_reviews"
+			{
+				"gid" "CC70679755804AA2BBB477E8F9988E76"
+				"size" "E2C33D6014605FFD3CABB25D32453BAB"
+				"download" "0214F0827E792623E60DE77B6BA569DA"
+			}
+			"sh2_sdtest"
+			{
+				"gid" "A30A15A98C42B977A11D7482B0FF4496"
+				"size" "C8E262BA9D7DD1FE852EA7B5F70BFDD3"
+				"download" "C3DA69DF5C6577D1C0FA3EC6F4CB03C2"
+			}
+			"bleeding_edge"
+			{
+				"gid" "0A019347748F9989DA2CF075414D6847"
+				"size" "F61634E6E6ACF45AB3A5C9B926A626CF"
+				"download" "EABE7086C161C358AFEF584587237483"
+			}
+			"gpuvendor_intel"
+			{
+				"gid" "F25C961237F4B552AA8B0BC9A83A1175"
+				"size" "5CE72CC273BC9CEFC34AE50EE61AC7B2"
+				"download" "16175E31C72FAA14FB9114746C3FD137"
+			}
+			"gpuvendor_intel_old"
+			{
+				"gid" "212EDC0D63B3F965F6B5281AA9B1897D"
+				"size" "C18784A2BDED79143EFDD632FB0C6CA0"
+				"download" "437F6198414143358977BB79344E98BB"
+			}
+			"gpuvendors"
+			{
+				"gid" "7FBD1A0C079BC2962D73891630DB834B"
+				"size" "1FE20154898F78AC82D64DBA265C4DB0"
+				"download" "73D6F3364E8B8A37E6D9BA85D9DC7A6F"
+			}
+			"old_edge"
+			{
+				"gid" "66E88BD56A4AFDB70855FE359F50EBB1"
+				"size" "2817238EB1F88A317CEC806877922445"
+				"download" "E8C0D1FCA3FB874113AA55E77F825C73"
+			}
+			"partners_branch"
+			{
+				"gid" "6E64F86AAEAFAAD48B363F083FB5F2A5"
+				"size" "3C96CC07197FB1597C8F1F40D27A35F9"
+				"download" "79266D43CC8EEA3619675750EDE46B3E"
+			}
+			"pso_recorder"
+			{
+				"gid" "41228EEF0C21BF6318E4C6A8EB6284E3"
+				"size" "AC674E2FD9F60B35FF7AE6334653E125"
+				"download" "94385819BBF937291493BF7D9BFC5CE7"
+			}
+			"sh2_razer"
+			{
+				"gid" "86B99C3CDC0AE02849C9BB7B5AD9A4B0"
+				"size" "86B71C9D042BEDC66F7D65B76218E426"
+				"download" "CDA490C1C09B8A884BE6304B0108EB29"
+			}
+			"stable_edge"
+			{
+				"gid" "E08DEB72FC2E2F4A1D182CDBAD62D2F3"
+				"size" "41315EEACAC0B5422E6D26F9C96FAABC"
+				"download" "F08B42F8B8543A1DD3D3F6862C66F28F"
+			}
+			"te_sr"
+			{
+				"gid" "4FBF6C772290D1A76220A4AE4768A785"
+				"size" "F4CC08F42D92599C1EF2017FFFF714B6"
+				"download" "BC5B0EFA39680BC9895428465D139F04"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian,latam"
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16443373"
+			"timeupdated" "1732266040"
+		}
+		"bdg_edge"
+		{
+			"buildid" "9619764"
+			"pwdrequired" "1"
+			"timeupdated" "1668515945"
+		}
+		"sh2_ratings"
+		{
+			"buildid" "13241048"
+			"pwdrequired" "1"
+			"timeupdated" "1706102769"
+		}
+		"sh2_reviews"
+		{
+			"buildid" "13699764"
+			"pwdrequired" "1"
+			"timeupdated" "1710175944"
+		}
+		"sh2_sdtest"
+		{
+			"buildid" "13484790"
+			"pwdrequired" "1"
+			"timeupdated" "1708180927"
+		}
+		"bleeding_edge"
+		{
+			"buildid" "16507812"
+			"pwdrequired" "1"
+			"timeupdated" "1732330670"
+		}
+		"gpuvendor_intel"
+		{
+			"buildid" "16408431"
+			"pwdrequired" "1"
+			"timeupdated" "1731602545"
+		}
+		"gpuvendor_intel_old"
+		{
+			"buildid" "16217178"
+			"pwdrequired" "1"
+			"timeupdated" "1730185528"
+		}
+		"gpuvendors"
+		{
+			"buildid" "16443373"
+			"pwdrequired" "1"
+			"timeupdated" "1732097604"
+		}
+		"old_edge"
+		{
+			"buildid" "16166280"
+			"pwdrequired" "1"
+			"timeupdated" "1730100255"
+		}
+		"partners_branch"
+		{
+			"buildid" "15848526"
+			"pwdrequired" "1"
+			"timeupdated" "1727430369"
+		}
+		"pso_recorder"
+		{
+			"buildid" "16443048"
+			"pwdrequired" "1"
+			"timeupdated" "1731927221"
+		}
+		"sh2_razer"
+		{
+			"buildid" "15447338"
+			"pwdrequired" "1"
+			"timeupdated" "1724242407"
+		}
+		"stable_edge"
+		{
+			"buildid" "16443373"
+			"pwdrequired" "1"
+			"timeupdated" "1731929769"
+		}
+		"te_sr"
+		{
+			"buildid" "14387581"
+			"pwdrequired" "1"
+			"timeupdated" "1715869387"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "64000000"
+	"maxnumfiles" "64"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SilentHill2/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26326852"
+"_sha" "3d8b6462b13b78e6f0fe2e1c6bdf86942b093026"
+"_size" "15003"
