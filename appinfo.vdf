@@ -44,30 +44,30 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
-		"test_timestamp" "1732060800"
-		"tested_build_id" "11450522"
+		"test_timestamp" "1733961600"
+		"tested_build_id" "16474540"
 		"tests"
 		{
 			"0"
 			{
 				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 			}
 		}
 		"configuration"
 		{
-			"supported_input" "other"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "0"
-			"small_text" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
-			"hdr_support" "0"
+			"hdr_support" "2"
 		}
 	}
 	"controllertagwizard" "1"
@@ -319,7 +319,7 @@
 	"developer" "GSC Game World"
 	"publisher" "GSC Game World (worldwide)"
 	"homepage" "https://www.stalker2.com/"
-	"listofdlc" "1661620,1661621,1661622,1661623"
+	"listofdlc" "1661620,1661621,1661622,1661623,3399310"
 }
 "config"
 {
@@ -375,138 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "8291168419796770833"
-				"size" "165175578098"
-				"download" "154973594768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"jury_member_b26ac11d"
-			{
-				"gid" "8ABD1D960DC07870892D22786028AC14"
-				"size" "A5BFD3F2651E84E332B119A98914D554"
-				"download" "EBC5F9A6EF29BB29B370321A5D984776"
-			}
-			"porcupine"
-			{
-				"gid" "64FA661184B314D232107A84097DB1FD"
-				"size" "12D41ECD9269369C5E9B775DD12D5BBF"
-				"download" "150A9E51D0CE339603DDD681EFA01C4C"
-			}
-			"live_qa"
-			{
-				"gid" "914D3534006BA6E5FBA8EDA7018F6ADF"
-				"size" "C05FE5B83CE890A9D7DC1D075FEB5132"
-				"download" "1CE96C340D7B230374CEF1604E4A8427"
-			}
-			"test_crypto"
-			{
-				"gid" "26DF643B958D6D95B02070EEFACF1432"
-				"size" "64EBCA04D446C71350AFF5614E27400F"
-				"download" "F76027983F33B7D160CCE30831BD150D"
-			}
-			"test_crypto_hard"
-			{
-				"gid" "532603D48E2882CED0BF384AEF85ACF4"
-				"size" "6F54140AB9B1C16FBF6CDBFB4CCE9F9C"
-				"download" "02AC1E0DE6B3516F9BF269392CFA09AF"
-			}
-			"goldfish"
-			{
-				"gid" "8BDA8D09DC1006B9EF4D91CC0E368344"
-				"size" "1239B38D30B7E5A5B80CA57D5CC43FD3"
-				"download" "1E67758B79ABDEF93A8D3A7BFBD7D9CA"
-			}
-			"media_member_32be10a7"
-			{
-				"gid" "3ECAA35CAB8D7349E8B6AEDFCAFAF535"
-				"size" "1315C4D2F60F63D7F755B8FD54DB43A1"
-				"download" "6EBD7C27085A15481EC3E757C8E12F61"
-			}
-			"m_rw_12ik07w1"
-			{
-				"gid" "207A547905FE706FBCCA659B39C4729D"
-				"size" "DB29B2DE32449F580F2DDAE29FF1EBFA"
-				"download" "BC34DCD4D42ACBBA12407568841523AB"
-			}
-			"pre_cert"
-			{
-				"gid" "3FC0918489AB1DA24C4486EBD70321A9"
-				"size" "4808788FCBA64729270F52E1FD7D5A11"
-				"download" "15F7C76ABE43FD2FC1AC655ADE639D6F"
-			}
-			"purgatory"
-			{
-				"gid" "699B02D4C70779E32430EC0C84E6DB13"
-				"size" "53D79C02F93283D2BC27572BBA0A11D0"
-				"download" "B014D1175DB4D19F5B3F4D88B8E0A744"
-			}
-			"partner_build"
-			{
-				"gid" "99E5A41279D0633327CBE32688440EE3"
-				"size" "50ED2CDFA85EF4AE3924850BC3CAB79E"
-				"download" "65628249B03D8D07611FA0D73677842B"
-			}
-			"ptw_partner_build"
-			{
-				"gid" "EAB7CF165DF6CC0AE6E66A103524BDC2"
-				"size" "D1794FC80662780F2CC5F35921D20753"
-				"download" "DC6A404D04365FF2ACF5499266A3E219"
-			}
-			"compliance_pcr"
-			{
-				"gid" "B19111F6B4624FA58068F712E30313D4"
-				"size" "E50B1D363E40046FF1009E166346CFDA"
-				"download" "FB0F7CE9973AA64728C2D23BBB625955"
-			}
-			"release_candidate"
-			{
-				"gid" "6EAEB1F6C2EEFB34ED5F30DCB9A81648"
-				"size" "782B0B985CD164A78DC1035EF8F5361B"
-				"download" "36CB2707295BA74C1479A78CD66D0B7F"
-			}
-			"geforcenow_test"
-			{
-				"gid" "BE0A72F8A10186494A4160A7DEB76A87"
-				"size" "421E2B72A31D09848DF21A959125184C"
-				"download" "83D8849D451FA2DA643D66ED87C1C3C5"
-			}
-			"tr_pcr"
-			{
-				"gid" "79C5524C80E2D99321A540F94758B7FA"
-				"size" "AF6FCB686D7BF054FE5182087294B2B7"
-				"download" "B70DD6036DC8262EE6C05C7F6775219A"
-			}
-			"h2_partner_build"
-			{
-				"gid" "60901C222B74A5A7992E027E9C04A708"
-				"size" "48A0F57695F0AAF63ED18687BBF49A4F"
-				"download" "678AF3061AAC9E1CF2C8FC3B4FCB475E"
-			}
-			"nvidia_partner_build"
-			{
-				"gid" "2D779A90899699EF4376FD1CB4C2BE02"
-				"size" "21EA81AC443FD4E15B8D98870454F26F"
-				"download" "D7917035A6867EEC5D5DDC4725346941"
-			}
-			"intel_partner_build"
-			{
-				"gid" "97DEDD4CA59156CCCDF540D1B0847FC7"
-				"size" "A97FE6F7654DB11BBC50D9ABF45967FB"
-				"download" "62ECB781F45034D64130DB39F9E81566"
-			}
-			"4divinity_partner_build"
-			{
-				"gid" "3B0726F6DD1BBA64E6228E7FB7B913D5"
-				"size" "810AF7F3F94AB4AB3FB25C070027DF3B"
-				"download" "CD9A908D72342765E2E5F4E06C568687"
-			}
-			"awaken_partner_build"
-			{
-				"gid" "DC6CDACADD422F73CBF8860F5B2DB127"
-				"size" "91754779EF866E1394286E0E04E71A52"
-				"download" "C18EB8631DE00B619772BBEF497FFFA8"
+				"gid" "443882658552147187"
+				"size" "164043641387"
+				"download" "145371269296"
 			}
 		}
 	}
@@ -529,136 +400,11 @@
 	{
 		"public"
 		{
-			"buildid" "16611355"
-			"timeupdated" "1733248905"
-		}
-		"jury_member_b26ac11d"
-		{
-			"buildid" "16474540"
-			"pwdrequired" "1"
-			"timeupdated" "1732127785"
-		}
-		"porcupine"
-		{
-			"buildid" "16617988"
-			"pwdrequired" "1"
-			"timeupdated" "1733247384"
-		}
-		"live_qa"
-		{
-			"buildid" "16611355"
-			"pwdrequired" "1"
-			"timeupdated" "1733215961"
-		}
-		"test_crypto"
-		{
-			"buildid" "16468334"
-			"pwdrequired" "1"
-			"timeupdated" "1732095730"
-		}
-		"test_crypto_hard"
-		{
-			"buildid" "16468887"
-			"pwdrequired" "1"
-			"timeupdated" "1732095663"
-		}
-		"goldfish"
-		{
-			"buildid" "16584903"
-			"pwdrequired" "1"
-			"timeupdated" "1732948978"
-		}
-		"media_member_32be10a7"
-		{
-			"buildid" "16474540"
-			"pwdrequired" "1"
-			"timeupdated" "1732127775"
-		}
-		"m_rw_12ik07w1"
-		{
-			"buildid" "16337298"
-			"pwdrequired" "1"
-			"timeupdated" "1731081901"
-		}
-		"pre_cert"
-		{
-			"buildid" "16563165"
-			"pwdrequired" "1"
-			"timeupdated" "1732788868"
-		}
-		"purgatory"
-		{
-			"buildid" "16502083"
-			"pwdrequired" "1"
-			"timeupdated" "1733010203"
-		}
-		"partner_build"
-		{
-			"buildid" "15724633"
-			"pwdrequired" "1"
-			"timeupdated" "1726550952"
-		}
-		"ptw_partner_build"
-		{
-			"buildid" "16381181"
-			"pwdrequired" "1"
-			"timeupdated" "1731429446"
-		}
-		"compliance_pcr"
-		{
-			"buildid" "16611355"
-			"pwdrequired" "1"
-			"timeupdated" "1733227458"
-		}
-		"release_candidate"
-		{
-			"buildid" "16615699"
-			"pwdrequired" "1"
-			"timeupdated" "1733235585"
-		}
-		"geforcenow_test"
-		{
-			"buildid" "14640478"
-			"pwdrequired" "1"
-			"timeupdated" "1720773717"
-		}
-		"tr_pcr"
-		{
-			"buildid" "16382704"
-			"pwdrequired" "1"
-			"timeupdated" "1731523702"
-		}
-		"h2_partner_build"
-		{
-			"buildid" "16208368"
-			"pwdrequired" "1"
-			"timeupdated" "1730132223"
-		}
-		"nvidia_partner_build"
-		{
-			"buildid" "16562365"
-			"pwdrequired" "1"
-			"timeupdated" "1732788903"
-		}
-		"intel_partner_build"
-		{
-			"buildid" "16411963"
-			"pwdrequired" "1"
-			"timeupdated" "1731621546"
-		}
-		"4divinity_partner_build"
-		{
-			"buildid" "14640484"
-			"pwdrequired" "1"
-			"timeupdated" "1717769106"
-		}
-		"awaken_partner_build"
-		{
-			"buildid" "14670890"
-			"pwdrequired" "1"
-			"timeupdated" "1718063984"
+			"buildid" "16789501"
+			"timeupdated" "1734597021"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -691,6 +437,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26475141"
-"_sha" "70d384a35225ab3d042594b9550b408f21abf279"
-"_size" "13422"
+"_change_number" "26709706"
+"_sha" "7d3f376884b323a09acb55ae8befd5b166e983f3"
+"_size" "7305"
