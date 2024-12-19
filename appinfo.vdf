@@ -286,7 +286,7 @@
 	}
 	"steam_release_date" "1727880299"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/2694420"
-	"metacritic_score" "89"
+	"metacritic_score" "88"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/kill-knight\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -300,9 +300,9 @@
 		"4" "5154"
 		"5" "1646"
 		"6" "4026"
-		"7" "492"
-		"8" "1774"
-		"9" "4758"
+		"7" "4758"
+		"8" "492"
+		"9" "1774"
 		"10" "19"
 		"11" "5796"
 		"12" "7481"
@@ -339,42 +339,20 @@
 		}
 		"1"
 		{
-			"executable" "KILL KNIGHT.exe"
+			"executable" "KillKnightRunner.exe"
 			"type" "default"
 			"config"
 			{
-				"oslist" "windows"
-				"betakey" "trunk_shipping"
+				"betakey" "feature_branch_1"
 			}
 		}
 		"2"
 		{
-			"executable" "KILL KNIGHT.exe"
+			"executable" "KillKnightRunner.exe"
 			"type" "default"
 			"config"
 			{
-				"oslist" "windows"
-				"betakey" "trunk_debug"
-			}
-		}
-		"3"
-		{
-			"executable" "KILL KNIGHT.exe"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-				"betakey" "release_1_1"
-			}
-		}
-		"4"
-		{
-			"executable" "KILL KNIGHT.exe"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-				"betakey" "release_1_1_debug"
+				"betakey" "feature_branch_2"
 			}
 		}
 	}
@@ -393,102 +371,9 @@
 		{
 			"public"
 			{
-				"gid" "9167460693002364527"
-				"size" "3155112304"
-				"download" "1881502736"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"kk_external_facing"
-			{
-				"gid" "9B8B6CE4F5123DE3584AA39D51CF52CF"
-				"size" "F7BC8D3F2CB2CD9E2CF004A3328B7C63"
-				"download" "19C55E74A1E4C41AAB14025A912CBEF0"
-			}
-			"cpp_training"
-			{
-				"gid" "DAAC06309C5C842688B79D93163E9D84"
-				"size" "DAC3280DD6B842A98B8E4782F546986F"
-				"download" "3452CBCCBE3041983AEA10F23B537289"
-			}
-			"feature_branch_1"
-			{
-				"gid" "218297829B86C9EEF82A4FE0A3D1EFB4"
-				"size" "E2B7EE76F3C53DA643097BAC782A159E"
-				"download" "A644BF7B775CE7468257D190E5792BB6"
-			}
-			"feature_branch_2"
-			{
-				"gid" "FC0F78C8785C0B342D8B5D2FEE214C85"
-				"size" "C480A5DD65EC0AABDEF5BBE130B35FF2"
-				"download" "1E4E90717BAAAEC32F71F1B96B31A4DD"
-			}
-			"gamescom_demo"
-			{
-				"gid" "8E778C785AABA3C5B55D31064FC0EF82"
-				"size" "F55A3F22F58D3412CA8146027D7FFBC1"
-				"download" "D6217B9872DB4C8998056C488105C64C"
-			}
-			"gamescom_demo_debug"
-			{
-				"gid" "5DBC52E033B92CBFCE5907A708132E4A"
-				"size" "CF5E5FC3C0E98065A25B1FD262A730DB"
-				"download" "98EC4F6355FD6D2D3F1A7B5EE9C34838"
-			}
-			"media_preview"
-			{
-				"gid" "F4FFEC76A07C45699D73242796A76821"
-				"size" "8906C0AD1F0953588DCC581419D1BFA8"
-				"download" "90CACF918818BCE114C5E0DFCA67EA96"
-			}
-			"pax_aus_build"
-			{
-				"gid" "8D45860487FF83004C261895ACFA11F3"
-				"size" "4AC2ED210F9FE87F8A529C7D7A6183CA"
-				"download" "D2E2EF53B7D42C26E26A1F8212890954"
-			}
-			"pax_aus_build_2"
-			{
-				"gid" "DDCE1DDA8EE352EC4BA7AAB2BEAA9BD6"
-				"size" "A9E1621C386B2D519EC62EC909F3CF9A"
-				"download" "91422CA7D4537330F98C94742A791477"
-			}
-			"release_1_0_0"
-			{
-				"gid" "34B34647AB00FA1688F5014EA20A98C5"
-				"size" "508D14005A268021973E78379A7A4DB9"
-				"download" "2741FD02B178884EC86281F14DAE271F"
-			}
-			"release_1_0_0_debug"
-			{
-				"gid" "65BE1E4C491342FB844B2B7E7DA8103D"
-				"size" "31C03B8997A57C15E2E7B9C25C5004E3"
-				"download" "BEBB1D6A9BDC54543E37C50BC053AF3D"
-			}
-			"release_1_1"
-			{
-				"gid" "F598017A1CECC721A8E7EB006C511132"
-				"size" "35C1F612264E1EF69508D727A56DF8C7"
-				"download" "BD0A109DA70AFC85E8DF9E57FED46B56"
-			}
-			"release_1_1_debug"
-			{
-				"gid" "044AF3F40602771874A7F14EA4BA9A70"
-				"size" "D5E8234F8E48E9DF85D2B5BC8D0AC56B"
-				"download" "A391A4CF5FD8768F5EFF82033A8E7610"
-			}
-			"trunk_debug"
-			{
-				"gid" "B674BC5038E4BC4D00C526610C0368B8"
-				"size" "86CF6263538D7AC392A9BEF852B407AD"
-				"download" "AB49D21EC6168729593BA75FB72728EF"
-			}
-			"trunk_shipping"
-			{
-				"gid" "DA4044905966E13FB0B25A73B484FFD6"
-				"size" "89492B2356F5FECCF755141AF2299987"
-				"download" "F2056EFF0D38326E37D0F1F3F2B06532"
+				"gid" "7006837838608082788"
+				"size" "4308173325"
+				"download" "1945065360"
 			}
 		}
 	}
@@ -496,100 +381,11 @@
 	{
 		"public"
 		{
-			"buildid" "16247670"
-			"timeupdated" "1730363121"
-		}
-		"kk_external_facing"
-		{
-			"buildid" "12987287"
-			"pwdrequired" "1"
-			"timeupdated" "1703110077"
-		}
-		"cpp_training"
-		{
-			"buildid" "15563169"
-			"pwdrequired" "1"
-			"timeupdated" "1725252269"
-		}
-		"feature_branch_1"
-		{
-			"buildid" "16247570"
-			"pwdrequired" "1"
-			"timeupdated" "1730355820"
-		}
-		"feature_branch_2"
-		{
-			"buildid" "15884335"
-			"pwdrequired" "1"
-			"timeupdated" "1727759331"
-		}
-		"gamescom_demo"
-		{
-			"buildid" "15351127"
-			"pwdrequired" "1"
-			"timeupdated" "1723530533"
-		}
-		"gamescom_demo_debug"
-		{
-			"buildid" "15363706"
-			"pwdrequired" "1"
-			"timeupdated" "1723608983"
-		}
-		"media_preview"
-		{
-			"buildid" "15351084"
-			"pwdrequired" "1"
-			"timeupdated" "1723531770"
-		}
-		"pax_aus_build"
-		{
-			"buildid" "15684941"
-			"pwdrequired" "1"
-			"timeupdated" "1726191708"
-		}
-		"pax_aus_build_2"
-		{
-			"buildid" "16002435"
-			"pwdrequired" "1"
-			"timeupdated" "1728608839"
-		}
-		"release_1_0_0"
-		{
-			"buildid" "15712806"
-			"pwdrequired" "1"
-			"timeupdated" "1726476432"
-		}
-		"release_1_0_0_debug"
-		{
-			"buildid" "15686958"
-			"pwdrequired" "1"
-			"timeupdated" "1726208514"
-		}
-		"release_1_1"
-		{
-			"buildid" "16246981"
-			"pwdrequired" "1"
-			"timeupdated" "1730349934"
-		}
-		"release_1_1_debug"
-		{
-			"buildid" "16247670"
-			"pwdrequired" "1"
-			"timeupdated" "1730356506"
-		}
-		"trunk_debug"
-		{
-			"buildid" "16259338"
-			"pwdrequired" "1"
-			"timeupdated" "1730424844"
-		}
-		"trunk_shipping"
-		{
-			"buildid" "16259449"
-			"pwdrequired" "1"
-			"timeupdated" "1730425700"
+			"buildid" "16779036"
+			"timeupdated" "1734558737"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -624,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25999696"
-"_sha" "cad68374eafd4c4dd76e2c220637bf3c293ad4f6"
-"_size" "12962"
+"_change_number" "26702908"
+"_sha" "9e2fe831d5fc0b22d42a021976bc9d87fff64d81"
+"_size" "8219"
