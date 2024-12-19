@@ -1,0 +1,442 @@
+"appid" "306130"
+"common"
+{
+	"name" "The Elder Scrolls Online"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"clienticon" "8c6ccd16c7cfd661e009c2d3e437623e954bb521"
+	"clienttga" "7f0398af621f9d819e3d899f23135327cd0fb320"
+	"icon" "d077a46f739da1114717a870522267b266c94d52"
+	"clienticns" "a093885a88344dd509e30a9a252de2f24f0b4c3b"
+	"logo" "12b778bee50eb8d75f5ed04eb01117eae97f1e37"
+	"logo_small" "12b778bee50eb8d75f5ed04eb01117eae97f1e37_thumb"
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5901115518915285268/"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "《上古卷轴®OL》"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1724803200"
+		"tested_build_id" "14833811"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"6"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+			"proton_compat_config" "gamedrive,"
+		}
+	}
+	"metacritic_name" "The Elder Scrolls Online: Tamriel Unlimited"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "e064f5052d0139ccc22b004c39d6ac4bd874db90/capsule_231x87.jpg"
+		"schinese" "be2677d0cf95c6466d5e5217f3fa03525c2972ba/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.23220536756127"
+			"height_pct" "58.23581097126573"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.23220536756127"
+				"height_pct" "58.23581097126573"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cce16218a95df2cbf5c059a5f9a5d0d287ce2d7d/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "cce16218a95df2cbf5c059a5f9a5d0d287ce2d7d/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729786769"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ZeniMax Online Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Elder Scrolls"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_13" "1"
+		"category_35" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1396594800"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-elder-scrolls-online-tamriel-unlimited\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "306130"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1754"
+		"2" "1695"
+		"3" "1684"
+		"4" "21"
+		"5" "3834"
+		"6" "3859"
+		"7" "4182"
+		"8" "128"
+		"9" "19"
+		"10" "4747"
+		"11" "1775"
+		"12" "6730"
+		"13" "3854"
+		"14" "1742"
+		"15" "4486"
+		"16" "4057"
+		"17" "4155"
+		"18" "4231"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"disableosxdrmloader" "1"
+	"gamedir" ""
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5667413973008647877/"
+	"developer" "ZeniMax Online Studios"
+	"publisher" "Bethesda Softworks"
+	"homepage" "http://www.elderscrollsonline.com"
+	"aliases" "ESO"
+	"listofdlc" "311430,311431,311450,313720,313721,356590,356591,356592,356593,357130,357131,361170,361171,361172,361173,365030,365031,365032,365033,370930,370931,371160,371170,526150,535880,539001,582880,592670,592671,799520,799521,799522,799524,925100,925101,925102,925103,1049240,1205430,1382241,1400970,1754000,1754001,1754002,1754003,2172860,2662630,2986210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Zenimax Online"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "zosSteamStarter.exe"
+			"description" "Launcher"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "The Elder Scrolls Online (Steam).app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"noupdatesafterinstall" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054790830"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8124929965194586177"
+				"size" "19265607"
+				"download" "19214528"
+			}
+		}
+		"depotfromapp" "228980"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1829726630299308803"
+				"size" "102931551"
+				"download" "100658080"
+			}
+		}
+		"depotfromapp" "228980"
+	}
+	"306131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2330277769385689566"
+				"size" "146582407740"
+				"download" "128262212208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bluedove"
+			{
+				"gid" "221FC697DF0C9A0B26A861C7CA8316D0"
+				"size" "006BA3ACEB6E1F35E5C1C0F724DEA380"
+				"download" "7E6495685046D23F1B401975FCFC1CEC"
+			}
+			"delta"
+			{
+				"gid" "418FE95A23966BDAB4D47A83C4FFBDDF"
+				"size" "F90FF62A2E49B800375B9F4FAF4FE78A"
+				"download" "8ECBB59F3B80D8A4CA211FBC76F8B6C2"
+			}
+			"valve"
+			{
+				"gid" "ECBC131707714A04350F44D195E94B3E"
+				"size" "D08CAE534B6CD0A26AEE0EC971E18B1D"
+				"download" "AC69B08615704DAE6B60D994F7F6B041"
+			}
+			"beta"
+			{
+				"gid" "3878EC26A9D4109A3712323349102126"
+				"size" "3BBED08F8681F5E0EECD29611C0DA80B"
+				"download" "E47FC4185E7FB22CA15220872B487BCB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16180846"
+			"timeupdated" "1730383367"
+		}
+		"bluedove"
+		{
+			"buildid" "2883352"
+			"pwdrequired" "1"
+			"timeupdated" "1529595689"
+		}
+		"delta"
+		{
+			"buildid" "3289106"
+			"pwdrequired" "1"
+			"timeupdated" "1541795408"
+		}
+		"valve"
+		{
+			"buildid" "2800451"
+			"pwdrequired" "1"
+			"timeupdated" "1548901742"
+		}
+		"beta"
+		{
+			"buildid" "16180846"
+			"pwdrequired" "1"
+			"timeupdated" "1729861530"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25990378"
+"_sha" "4fa74b4c1b726fea957d0eb08570e3fd8b98db6e"
+"_size" "8996"
