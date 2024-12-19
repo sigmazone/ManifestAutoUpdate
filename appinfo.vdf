@@ -1,0 +1,664 @@
+"appid" "726840"
+"common"
+{
+	"name" "City Game Studio"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "5009226fad9f29c3ded9e8415bc48b0a93670d7f"
+	"logo_small" "5009226fad9f29c3ded9e8415bc48b0a93670d7f_thumb"
+	"icon" "012f7e42ba3960e488a19d8b192f33e2c33ac000"
+	"linuxclienticon" "271ee510a3a36916cd23501f22bffd15f31a0595"
+	"clienticon" "0a4c57c88c1019c6003ac9e3afdcf28adabbc47f"
+	"clienttga" "bfdec6b7f58d2d7bd5997aa91fa60dcc104a6b0f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1700265600"
+		"tested_build_id" "12669617"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "City Game Studio"
+	"small_capsule"
+	{
+		"english" "d67ca51a2e33e6fc7c7187d1ebe93e3b62457e10/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.51235256876049"
+			"height_pct" "78.35031901176595"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.51235256876049"
+				"height_pct" "78.35031901176595"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733330517"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Binogure Studio 🐺"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Binogure Studio 🐺"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Binogure Studio 🐺"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_33" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1629820800"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/726840/announcements/detail/3129445029373219963"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "726840"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "13906"
+		"2" "599"
+		"3" "9"
+		"4" "1643"
+		"5" "5432"
+		"6" "4845"
+		"7" "4695"
+		"8" "4328"
+		"9" "3810"
+		"10" "4747"
+		"11" "1669"
+		"12" "7332"
+		"13" "4182"
+		"14" "3871"
+		"15" "5851"
+		"16" "9204"
+		"17" "1702"
+		"18" "597"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Binogure Studio 🐺"
+	"publisher" "Binogure Studio 🐺"
+	"homepage" "https://www.city-game-studio.com/"
+}
+"config"
+{
+	"installdir" "City Game Studio"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CityGameStudio.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"1"
+		{
+			"executable" "CityGameStudio32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "CityGameStudio.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "CityGameStudio64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "CityGameStudio64.exe"
+			"arguments" "-ad RtAudio-DirectSound"
+			"description" "City Game Studio (Sound 5.1/7.1)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "CityGameStudio32.exe"
+			"arguments" "-ad RtAudio-DirectSound"
+			"description" "City Game Studio (Sound 5.1/7.1)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"6"
+		{
+			"executable" "CityGameStudio.sh"
+			"arguments" "-output_latency 50"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "City Game Studio (fix sound)"
+			}
+			"description" "City Game Studio (fix sound)"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2739076967"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,internal,oldstable,unstable"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2739149565"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,internal,oldstable,unstable"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65520"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,ukrainian"
+	"726842"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7399260764603251148"
+				"size" "370351252"
+				"download" "277604976"
+			}
+			"oldstable"
+			{
+				"gid" "8757294308409845471"
+				"size" "370070663"
+				"download" "277430288"
+			}
+			"unstable"
+			{
+				"gid" "7399260764603251148"
+				"size" "370351252"
+				"download" "277604976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "978C8858753DCC0E91597F2B1A28DD4F"
+				"size" "99B9FDED73715ED6AA42BE532FE6AF2C"
+				"download" "909AB76874AA83571D663D7DC3AB4990"
+			}
+		}
+	}
+	"726844"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2566621530538528183"
+				"size" "372976132"
+				"download" "278439232"
+			}
+			"oldstable"
+			{
+				"gid" "3707062458008569724"
+				"size" "372521975"
+				"download" "278195216"
+			}
+			"unstable"
+			{
+				"gid" "2566621530538528183"
+				"size" "372976132"
+				"download" "278439232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "35F8C8084A1FB56E98D927505F079774"
+				"size" "63338E39FFCD3334943BEBC891CA5E38"
+				"download" "A5B9D5E4B7B2E0A85DF57DF9A56BDE61"
+			}
+		}
+	}
+	"726841"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5994311612048011443"
+				"size" "376260687"
+				"download" "292698144"
+			}
+			"oldstable"
+			{
+				"gid" "6340509842121398816"
+				"size" "375878722"
+				"download" "292533728"
+			}
+			"unstable"
+			{
+				"gid" "5994311612048011443"
+				"size" "376260687"
+				"download" "292698144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "06CE8ED691529AEB1E1DCB623A0A0B8D"
+				"size" "BA078E322A4EB95D85BBF57AD65F51C4"
+				"download" "19A85C45F8FD6E7034E8C469E356E336"
+			}
+		}
+	}
+	"726843"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "20755638627153226"
+				"size" "381950987"
+				"download" "280364064"
+			}
+			"oldstable"
+			{
+				"gid" "8328364098725224772"
+				"size" "381569022"
+				"download" "280193888"
+			}
+			"unstable"
+			{
+				"gid" "20755638627153226"
+				"size" "381950987"
+				"download" "280364064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "ACEB75F4018A56DB181EA31F5E8A133C"
+				"size" "3BC882AF55E934D7FF21202E0F387EAF"
+				"download" "2059E9E1F52C7EFE752A1CD7824916E1"
+			}
+		}
+	}
+	"workshopdepot" "726840"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16787061"
+			"timeupdated" "1734527291"
+		}
+		"internal"
+		{
+			"buildid" "16787061"
+			"pwdrequired" "1"
+			"timeupdated" "1734527084"
+		}
+		"oldstable"
+		{
+			"buildid" "15874484"
+			"description" "Contains an older version of City Game Studio"
+			"timeupdated" "1733731412"
+		}
+		"unstable"
+		{
+			"buildid" "16787061"
+			"description" "Unstable branch, contains the newest features"
+			"timeupdated" "1734527273"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/CityGameStudio/"
+			"pattern" "*.cgs"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/CityGameStudio/"
+			"pattern" "*.cfg"
+		}
+		"4"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/CityGameStudio/"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Godot/app_userdata/CityGameStudio/"
+					"replace" ".godot/app_userdata/CityGameStudio/"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Godot/app_userdata/CityGameStudio/"
+					"replace" ".godot/app_userdata/CityGameStudio/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26695364"
+"_sha" "c838f1bf70abc0889cce0951733d79c38e8e3e51"
+"_size" "12083"
