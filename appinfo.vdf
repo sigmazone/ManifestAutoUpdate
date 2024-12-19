@@ -1,0 +1,656 @@
+"appid" "1063420"
+"common"
+{
+	"name" "Void Crew"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "fce405564dd17dcaa6a5d62a4adde3011a0a221e"
+	"clienticon" "962a1493a97258913c4ca3c1817b73485d0cd342"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "虚空航船"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1063420_eula_0"
+			"name" "Void Crew EULA"
+			"url" "https://store.steampowered.com//eula/1063420_eula_0"
+			"version" "2"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1732665600"
+		"tested_build_id" "16421600"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Void Crew"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "e0125bca0713c77bf1da9609654bcb8e39544a4b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "85.16483516483515"
+			"height_pct" "94.09602604096025"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "f35c3e63a8256734e3d19d4633d82c78f11b01c4/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "f35c3e63a8256734e3d19d4633d82c78f11b01c4/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "045be49e904ba590c7fba9de96aae4b4523dd3a0/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "045be49e904ba590c7fba9de96aae4b4523dd3a0/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "045be49e904ba590c7fba9de96aae4b4523dd3a0/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "85.16483516483515"
+				"height_pct" "94.09602604096025"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "643a0768af817ed3c184e14f065f20356ea02bba/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "643a0768af817ed3c184e14f065f20356ea02bba/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734620473"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hutlihut Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732553961"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/void-crew\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1063420"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "3859"
+		"2" "16598"
+		"3" "21"
+		"4" "1755"
+		"5" "3959"
+		"6" "3843"
+		"7" "6730"
+		"8" "3839"
+		"9" "19"
+		"10" "492"
+		"11" "3834"
+		"12" "4106"
+		"13" "4191"
+		"14" "4295"
+		"15" "4305"
+		"16" "3942"
+		"17" "15045"
+		"18" "4747"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Hutlihut Games"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-entmt.com/games/void-crew"
+	"listofdlc" "2445890"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Void Crew"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Void Crew.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1063421"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3205903351566743685"
+				"size" "6354401735"
+				"download" "2462479088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"focus_live_dev"
+			{
+				"gid" "0870960520E87078D6248ABED94B3272"
+				"size" "6ADCE5768234799ADA487F0128237CEE"
+				"download" "C33E05224DAB9191922EF70E6C4DDEC1"
+			}
+			"focus_live_rel"
+			{
+				"gid" "82CFA33E6297D87C83A63743EC031CF6"
+				"size" "0362490D468709F2F8DAD21223642D19"
+				"download" "40587E1F6519CF224405D0483CDF2DA2"
+			}
+			"ab_development"
+			{
+				"gid" "E1352F30BB26351FED71F1296C1CE4EC"
+				"size" "95A015E0C9E566C14F1645136B5BA239"
+				"download" "0039E0C2054F583A15ABC3BA37FCE368"
+			}
+			"ab_manual_request"
+			{
+				"gid" "CBB30CC7324D5F7AE05FD1F6B6F3DAC0"
+				"size" "7ACC743930DC4CF97D6C9F47ED2718B0"
+				"download" "03D8EBA4E7DEB24A84ED1D3ABC259773"
+			}
+			"ab_release_candidate"
+			{
+				"gid" "6ECF06883842E3BC4926B46CB55AA35E"
+				"size" "358564C71DD3382C004011D83839974C"
+				"download" "13E28C0E59539B8AA39887BECA9F168E"
+			}
+			"ab_staging"
+			{
+				"gid" "4619793D3D9C5B8C55FAD80FE250C96B"
+				"size" "4F92D141BBD8A919950E1B2680F09687"
+				"download" "F257BD9EECCCFE9DB0CA3F5BC0CF4B08"
+			}
+			"bugfix_validation_sim_platforms"
+			{
+				"gid" "85B9DA83A09213E59E82CE350FDF11C9"
+				"size" "9D1F14FE41F78965FB28BF919FDF072A"
+				"download" "78D096EDCEF577217AFB42D3410ADA63"
+			}
+			"experimental"
+			{
+				"gid" "805271E9D6A5DB7D999AE6BDE7C3B893"
+				"size" "3AEE60764139677732901303E925B48C"
+				"download" "78CA5A5F2582AE062AFC82167E487A30"
+			}
+			"experimental2"
+			{
+				"gid" "D280C2C5F3B21611F77B556EB597BBC1"
+				"size" "C0A42965415187B48AA561CC05231E60"
+				"download" "CC656D79A87F4C8ECF1A220DF69A58BA"
+			}
+			"fe_hw"
+			{
+				"gid" "4638CAFA15A8D2594CAF01081DED2FE3"
+				"size" "C008A56AA73779FD3E4DD3BC089D2408"
+				"download" "2F8BE5481B3A5F950FECC8FF9B94649D"
+			}
+			"fe_video"
+			{
+				"gid" "A24651CF3376B0A4AD0F1CD7A666D733"
+				"size" "68A9039004473D2CA2D2248D90283658"
+				"download" "01CE1A96FC27A0F31A10A170FBD1EA4B"
+			}
+			"focus_backup_dev"
+			{
+				"gid" "7F3A65F3C0A4D08FB3EE4E2793465513"
+				"size" "C0649B9C5D496EF9EC25F13F456C3CBA"
+				"download" "D788FCE5A2E23339208A48C561404B6F"
+			}
+			"focus_backup_rel"
+			{
+				"gid" "7E753DE6BF64CA0645419207C28AA31D"
+				"size" "36D2896034B09EB87FB729B8B153CB62"
+				"download" "257A59C972645E8DAF6E27EB3578F17A"
+			}
+			"focus_lqa"
+			{
+				"gid" "7FEC24FD5D1010F989854429617F6AFF"
+				"size" "C965D8191BCC9D03C6F8BA3BF465F6A9"
+				"download" "B232D32B7CBD597FD9372A8CACAE89AA"
+			}
+			"focus_patch_candidate_dev"
+			{
+				"gid" "AFCBEF294CD65098D6048924F30B8617"
+				"size" "91D646073518CD9C3ABAF23A5F8128A9"
+				"download" "49399D187205F955413D5714B4A3BA35"
+			}
+			"focus_patch_candidate_rel"
+			{
+				"gid" "3D2FBE9283F1322501CDCA290E53C62A"
+				"size" "7FDC5F6FF3B18C9483EA06708CA75B2A"
+				"download" "1FEADD4707B9A4492C9EF734B7CC673F"
+			}
+			"focus_production"
+			{
+				"gid" "083C1D60406DD781A6FCA1BEC377874B"
+				"size" "764A882D171BD94D3A55F6631A879D0D"
+				"download" "5C8C55E4D77E572C716FA76F941A8881"
+			}
+			"focus_update_candidate_dev"
+			{
+				"gid" "18D61E2E38F82097D07273076D06541B"
+				"size" "58A96EB94F3340E867489B66E15D0148"
+				"download" "010AB644AF4F7F0F00DB88F859B9344B"
+			}
+			"focus_update_candidate_rel"
+			{
+				"gid" "4308A3E9978B2A04085BDE2107CB1947"
+				"size" "D7D6AA764827E5617C396A02C909011D"
+				"download" "5B00BBA4BCA2E4CEC6A7006F396803C1"
+			}
+			"hutlihut_custom"
+			{
+				"gid" "1FA45E2DA8DB67A3E7278E98B25913D8"
+				"size" "243A942B71C31B9B52A0B5819E056DD4"
+				"download" "FDC60C2C9FC31A9030FB01EE90EDE021"
+			}
+			"hutlihut_external"
+			{
+				"gid" "D098D9E58073D790A7C5C2CA908E98A5"
+				"size" "50C2182CCFCF6F12F52257B9F3E439E6"
+				"download" "9743D05A552A6E34C0537DA9493B9A08"
+			}
+			"hutlihut_qa"
+			{
+				"gid" "266DFE87E8F686201D92882BF4C74A79"
+				"size" "750B8E5022799C739DD9EFAE3AC7DE33"
+				"download" "2F0D021EA2B42B195B1CB2FCE9A000D9"
+			}
+			"hutlihut_qa2"
+			{
+				"gid" "9764933FFC074E171256D4A32F5E36D6"
+				"size" "7344EBC03AB3C0FA34A818CF35847F98"
+				"download" "E3C30A71B02B9E9DFB5607CB4938A850"
+			}
+			"player_support"
+			{
+				"gid" "736D668265DA287992B82A79BFB77A75"
+				"size" "C761952029EBFA20404C558D04057BF3"
+				"download" "1AA26F44AFD4F94734FF4CA59D87109A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16757270"
+			"timeupdated" "1734614911"
+		}
+		"focus_live_dev"
+		{
+			"buildid" "13643530"
+			"pwdrequired" "1"
+			"timeupdated" "1710236133"
+		}
+		"focus_live_rel"
+		{
+			"buildid" "13643602"
+			"pwdrequired" "1"
+			"timeupdated" "1710236111"
+		}
+		"ab_development"
+		{
+			"buildid" "16800829"
+			"pwdrequired" "1"
+			"timeupdated" "1734612906"
+		}
+		"ab_manual_request"
+		{
+			"buildid" "16800979"
+			"pwdrequired" "1"
+			"timeupdated" "1734613949"
+		}
+		"ab_release_candidate"
+		{
+			"buildid" "16757270"
+			"pwdrequired" "1"
+			"timeupdated" "1734342513"
+		}
+		"ab_staging"
+		{
+			"buildid" "16757172"
+			"pwdrequired" "1"
+			"timeupdated" "1734341873"
+		}
+		"bugfix_validation_sim_platforms"
+		{
+			"buildid" "16757270"
+			"pwdrequired" "1"
+			"timeupdated" "1734639945"
+		}
+		"experimental"
+		{
+			"buildid" "16445325"
+			"pwdrequired" "1"
+			"timeupdated" "1732617555"
+		}
+		"experimental2"
+		{
+			"buildid" "14521360"
+			"pwdrequired" "1"
+			"timeupdated" "1716970169"
+		}
+		"fe_hw"
+		{
+			"buildid" "16234782"
+			"pwdrequired" "1"
+			"timeupdated" "1730717073"
+		}
+		"fe_video"
+		{
+			"buildid" "16125193"
+			"pwdrequired" "1"
+			"timeupdated" "1729766693"
+		}
+		"focus_backup_dev"
+		{
+			"buildid" "16723215"
+			"pwdrequired" "1"
+			"timeupdated" "1734346512"
+		}
+		"focus_backup_rel"
+		{
+			"buildid" "16723731"
+			"pwdrequired" "1"
+			"timeupdated" "1734346160"
+		}
+		"focus_lqa"
+		{
+			"buildid" "15113118"
+			"pwdrequired" "1"
+			"timeupdated" "1721721703"
+		}
+		"focus_patch_candidate_dev"
+		{
+			"buildid" "16757172"
+			"pwdrequired" "1"
+			"timeupdated" "1734345928"
+		}
+		"focus_patch_candidate_rel"
+		{
+			"buildid" "16757270"
+			"pwdrequired" "1"
+			"timeupdated" "1734346695"
+		}
+		"focus_production"
+		{
+			"buildid" "16069112"
+			"pwdrequired" "1"
+			"timeupdated" "1729172263"
+		}
+		"focus_update_candidate_dev"
+		{
+			"buildid" "16721508"
+			"pwdrequired" "1"
+			"timeupdated" "1734009879"
+		}
+		"focus_update_candidate_rel"
+		{
+			"buildid" "16757270"
+			"pwdrequired" "1"
+			"timeupdated" "1734345940"
+		}
+		"hutlihut_custom"
+		{
+			"buildid" "16696507"
+			"pwdrequired" "1"
+			"timeupdated" "1733848203"
+		}
+		"hutlihut_external"
+		{
+			"buildid" "16709519"
+			"pwdrequired" "1"
+			"timeupdated" "1734007665"
+		}
+		"hutlihut_qa"
+		{
+			"buildid" "16654111"
+			"pwdrequired" "1"
+			"timeupdated" "1733487300"
+		}
+		"hutlihut_qa2"
+		{
+			"buildid" "16377903"
+			"pwdrequired" "1"
+			"timeupdated" "1731412336"
+		}
+		"player_support"
+		{
+			"buildid" "16737433"
+			"pwdrequired" "1"
+			"timeupdated" "1734104510"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26720791"
+"_sha" "cb004024e3b00cf5956af3f1942dc6e689b98ba5"
+"_size" "13767"
