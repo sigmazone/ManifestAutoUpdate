@@ -22,6 +22,17 @@
 		}
 	}
 	"openvrsupport" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -132,6 +143,7 @@
 		"category_36" "1"
 		"category_27" "1"
 		"category_52" "1"
+		"category_22" "1"
 		"category_53" "1"
 		"category_62" "1"
 	}
@@ -172,6 +184,7 @@
 		}
 	}
 	"steam_release_date" "1699552734"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1969310"
 	"store_tags"
@@ -197,8 +210,8 @@
 		"18" "3859"
 		"19" "3843"
 	}
-	"review_score" "6"
-	"review_percentage" "70"
+	"review_score" "5"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -257,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "1114018083307662227"
-				"size" "3627667377"
-				"download" "3255801008"
+				"gid" "2216772793336909519"
+				"size" "3641903633"
+				"download" "3258598768"
 			}
 		}
 		"encryptedmanifests"
@@ -275,12 +288,6 @@
 				"gid" "E0014E1DA14D1F01F6E5CAB0DB0ED8BF"
 				"size" "A37AD1F08D0D87A3D4D7D896F621007F"
 				"download" "DC4C758E9D1396254B623F94EC1809DC"
-			}
-			"internalstable"
-			{
-				"gid" "98CCC80BB149BA2D5EA82BAE9714106D"
-				"size" "39B358E79AB4CA2719B781704A9FAB23"
-				"download" "BAB1B1E7752EF57382DE4A99E447E5BC"
 			}
 			"internaltesting"
 			{
@@ -330,14 +337,20 @@
 				"size" "D0362B3698B668BBA92F8A23224EB9B6"
 				"download" "70A7AD979C6949855EEEA4D0206F9746"
 			}
+			"internalstable"
+			{
+				"gid" "AADCDA32EB6BBE8D923E66A0E71D190B"
+				"size" "F02A2E18F6CA60D653649A2C33901672"
+				"download" "1F57DF2A234F0670F3295F37524CA80E"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14287079"
-			"timeupdated" "1715083054"
+			"buildid" "16761214"
+			"timeupdated" "1734366233"
 		}
 		"demotest"
 		{
@@ -350,12 +363,6 @@
 			"buildid" "13873177"
 			"pwdrequired" "1"
 			"timeupdated" "1711560139"
-		}
-		"internalstable"
-		{
-			"buildid" "14020279"
-			"pwdrequired" "1"
-			"timeupdated" "1713250595"
 		}
 		"internaltesting"
 		{
@@ -405,5 +412,15 @@
 			"pwdrequired" "1"
 			"timeupdated" "1715070302"
 		}
+		"internalstable"
+		{
+			"buildid" "16732482"
+			"pwdrequired" "1"
+			"timeupdated" "1734079073"
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26664038"
+"_sha" "1a7a6f8d8c86e358d47c7c7175d3cfd4ddbf4a30"
+"_size" "7843"
