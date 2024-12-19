@@ -1,0 +1,628 @@
+"appid" "1451190"
+"common"
+{
+	"name" "Undisputed"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "a2516b396d063594ff982f9ac90337040af7d181"
+	"logo_small" "a2516b396d063594ff982f9ac90337040af7d181_thumb"
+	"icon" "e19d544dff690b21742a0520b2b59c02c05bf574"
+	"clienttga" "1257ab5eb95f2fafb9ff5be4f57ac98b311af550"
+	"clienticon" "1ab0151aa04f62514f9fdc814c06f1258d079087"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1451190_eula_1"
+			"name" "Undisputed EULA"
+			"url" "https://store.steampowered.com//eula/1451190_eula_1"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1681516800"
+		"tested_build_id" "10766709"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"nokeyboardmouse" "1"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.74922375222529"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.74922375222529"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728480290"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Steel City Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deep Silver"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Undisputed"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_44" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1728401258"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1451190"
+	"store_tags"
+	{
+		"0" "6506"
+		"1" "1697"
+		"2" "4191"
+		"3" "3993"
+		"4" "7481"
+		"5" "12190"
+		"6" "1743"
+		"7" "701"
+		"8" "4175"
+		"9" "3859"
+		"10" "4182"
+		"11" "7368"
+		"12" "493"
+		"13" "599"
+		"14" "19"
+		"15" "5055"
+		"16" "6730"
+		"17" "1775"
+		"18" "4747"
+		"19" "9204"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,beta"
+	"developer" "Steel City Interactive"
+	"publisher" "Deep Silver"
+	"homepage" "http://www.playundisputed.com/"
+	"listofdlc" "2900100,2946350,3102510"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Undisputed"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Undisputed.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1451191"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6130270397798737239"
+				"size" "19754375870"
+				"download" "16026719392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_ratings"
+			{
+				"gid" "CFC13F65DC4798546953CACCE4E8AF4A"
+				"size" "4F2A4608F06F827C5E0D7F90AD0A646D"
+				"download" "FED98355CBFFD79BDCDFF370A67DEEC6"
+			}
+			"1_focustest"
+			{
+				"gid" "6F535E13FD3286D81E7AB8D355D9D0AE"
+				"size" "D53B7A6CE51BFAEAB2864CAFA717B817"
+				"download" "3EE84655DC7732FE429F4087ED4B4608"
+			}
+			"2_focustest"
+			{
+				"gid" "5AB8FD84034E85485BC75DC499E9380F"
+				"size" "B97E08CC01B81E686DFC3225D2E4AC05"
+				"download" "67058F82E4CD07F66C33277528C65649"
+			}
+			"abtest"
+			{
+				"gid" "9049F351B420BE004FBD85E9A84E3F53"
+				"size" "BEAC241A05FB19571FEC0B7CB94983C3"
+				"download" "4651B9376022D39B466828E68C9098FF"
+			}
+			"arttest"
+			{
+				"gid" "472BB57879B66973D5F34F8600A9D77C"
+				"size" "6DD1CF90C0755F4350F003C200A0059B"
+				"download" "50973F72D1A00DAAF2B554C949A55B14"
+			}
+			"bounceback"
+			{
+				"gid" "9B5ABCE1B7206FCAF85537678A7F412B"
+				"size" "A3D1B6A5A8933FA3902C2DDD21B614EA"
+				"download" "7AF8758FA356163ED9038441EBC791F2"
+			}
+			"demobranch"
+			{
+				"gid" "51748B6242A6B8E4C55975AA42F1B6ED"
+				"size" "551E87C57870D941219B0C68C054246C"
+				"download" "1B04E653981523ACE18ABCF40CFE6BAD"
+			}
+			"demobranch_2"
+			{
+				"gid" "ACE335EE59116805C4E43B0C4D0CFFC5"
+				"size" "6336F5850AE5D38B1567D30BC30765B7"
+				"download" "93441874C826A52D4C4C9873C6A36B5E"
+			}
+			"demobranch_3"
+			{
+				"gid" "39335E569AA010FD29872039EEE735FE"
+				"size" "CE106164879171828CD1FA2C2ACD22EE"
+				"download" "8998FF857F8DDA1805F10E1825CE87F7"
+			}
+			"demobranch_4"
+			{
+				"gid" "FDE6FCD45D0C196808006533C7B81854"
+				"size" "0A4961173B7DCACA1204F072AFDA49C9"
+				"download" "B747964419A424612F568B3FFF371D1F"
+			}
+			"demobranch_5"
+			{
+				"gid" "765D99960E4BB80B973C7FDE4C31FD57"
+				"size" "03FA3577B8F14BB12C2251264806DC0C"
+				"download" "9BB06A47C967C6D3D4CA6BB5C25129B8"
+			}
+			"demobranch_6"
+			{
+				"gid" "2EAB31F4401B208A34B4AA67AB14EC15"
+				"size" "15F653BB4CFF7DC2A6D4AEE20DF9BCBC"
+				"download" "04ED452677D36E41B1379E4013DBB1FD"
+			}
+			"digital_partner_review"
+			{
+				"gid" "EF4014B2257E9D783671FFC02426A0BC"
+				"size" "CFEA9966300AA249CDBFA1862539A6E4"
+				"download" "2B771F2506D4D8B78DCBEB6B132ED38D"
+			}
+			"ebbranch"
+			{
+				"gid" "B9E603EA656C5173A1C1C3C8617261ED"
+				"size" "FCE9EC3EF144F093C5A3BAB4F7A09F33"
+				"download" "4D3B5A49D3C8FE684F6EE899BBCCE1C9"
+			}
+			"gameplay_test"
+			{
+				"gid" "6A0CB0FD395C1D994F9EAAF12D5DACE0"
+				"size" "4DCE462161E0314A6E28F9F4F385CA35"
+				"download" "B5FFFD4B768B2DF2BA3D6E5900DC49AE"
+			}
+			"internal"
+			{
+				"gid" "D47AAA208A243F3B3ED9F93C36E2492F"
+				"size" "FA3FEB56CCD75FBD84B321856446A0B0"
+				"download" "CBFD537D0909AA3CE71B5076A3108E9F"
+			}
+			"marketing"
+			{
+				"gid" "3D2265FBE9A4590C0FFC1A3585DB0008"
+				"size" "A5640ED522E195FF06D0D7C3B66DE713"
+				"download" "5C8AD8D1658EE70ADF8B1B2952820DC7"
+			}
+			"neil_test"
+			{
+				"gid" "4EC53D9E8C93DAFC92075A0783AE81FA"
+				"size" "A99F2D975EC5EBC074BA5FAB61EFE716"
+				"download" "C6DF51E79E430F9BB718272DC1B6E24A"
+			}
+			"nightly"
+			{
+				"gid" "30A0ACFE1CCEA29596B5ECB8324797B4"
+				"size" "B2B3F12F2CB4476632857BBCEF34CE6D"
+				"download" "AFA3E193E6CF824DAC898E84EAC81AD4"
+			}
+			"plaion"
+			{
+				"gid" "4E0903B120D1DD5A45F3F2D0F689DCA2"
+				"size" "3897E712BD11016EEC41CB17D5EDA2B7"
+				"download" "445EB56F26BE67DD8B43CFFF2295B3E0"
+			}
+			"previews"
+			{
+				"gid" "ABF894026CAA17FD353645BB530D5310"
+				"size" "6F28A063AD0A0344DCEC0E189ACA38BE"
+				"download" "DC09565085978E0A1DD5D6A3F9D18513"
+			}
+			"previews_2"
+			{
+				"gid" "A22FBDB5191CF3AD0A1D8689DAA77232"
+				"size" "AB1C1FCBB7246F56A5D724B39D49CDF6"
+				"download" "9E7DE22D75462D8A073277FAA11EFAC7"
+			}
+			"qa_testing_branch"
+			{
+				"gid" "84BD0D0BC21107FC7FBC448986472D2E"
+				"size" "4FBE4D788F02408A3C9AFA831B7EC788"
+				"download" "5C9692B1C38E7FF4C94800C56F05237E"
+			}
+			"turners_test"
+			{
+				"gid" "7E6C7D40626DC041244FBADB4C6686FF"
+				"size" "9B31A8FFFD7B1707985317B62B6737F5"
+				"download" "744F5FDCE0F8811649468B9DD03C016B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16771401"
+			"timeupdated" "1734624167"
+		}
+		"age_ratings"
+		{
+			"buildid" "13612995"
+			"pwdrequired" "1"
+			"timeupdated" "1709300743"
+		}
+		"1_focustest"
+		{
+			"buildid" "16786829"
+			"pwdrequired" "1"
+			"timeupdated" "1734526603"
+		}
+		"2_focustest"
+		{
+			"buildid" "15728773"
+			"pwdrequired" "1"
+			"timeupdated" "1726575570"
+		}
+		"abtest"
+		{
+			"buildid" "16804415"
+			"pwdrequired" "1"
+			"timeupdated" "1734631542"
+		}
+		"arttest"
+		{
+			"buildid" "16341767"
+			"pwdrequired" "1"
+			"timeupdated" "1731069795"
+		}
+		"bounceback"
+		{
+			"buildid" "16459878"
+			"pwdrequired" "1"
+			"timeupdated" "1732027602"
+		}
+		"demobranch"
+		{
+			"buildid" "16365658"
+			"pwdrequired" "1"
+			"timeupdated" "1731331354"
+		}
+		"demobranch_2"
+		{
+			"buildid" "16542188"
+			"pwdrequired" "1"
+			"timeupdated" "1732700693"
+		}
+		"demobranch_3"
+		{
+			"buildid" "16699218"
+			"pwdrequired" "1"
+			"timeupdated" "1733927259"
+		}
+		"demobranch_4"
+		{
+			"buildid" "16542318"
+			"pwdrequired" "1"
+			"timeupdated" "1732700721"
+		}
+		"demobranch_5"
+		{
+			"buildid" "14400386"
+			"pwdrequired" "1"
+			"timeupdated" "1715934677"
+		}
+		"demobranch_6"
+		{
+			"buildid" "15431601"
+			"pwdrequired" "1"
+			"timeupdated" "1724143754"
+		}
+		"digital_partner_review"
+		{
+			"buildid" "16565121"
+			"pwdrequired" "1"
+			"timeupdated" "1732792242"
+		}
+		"ebbranch"
+		{
+			"buildid" "16804419"
+			"pwdrequired" "1"
+			"timeupdated" "1734631557"
+		}
+		"gameplay_test"
+		{
+			"buildid" "16759157"
+			"pwdrequired" "1"
+			"timeupdated" "1734354209"
+		}
+		"internal"
+		{
+			"buildid" "16771401"
+			"pwdrequired" "1"
+			"timeupdated" "1734432951"
+		}
+		"marketing"
+		{
+			"buildid" "16121209"
+			"pwdrequired" "1"
+			"timeupdated" "1729508720"
+		}
+		"neil_test"
+		{
+			"buildid" "16559648"
+			"pwdrequired" "1"
+			"timeupdated" "1732753712"
+		}
+		"nightly"
+		{
+			"buildid" "16801615"
+			"pwdrequired" "1"
+			"timeupdated" "1734616986"
+		}
+		"plaion"
+		{
+			"buildid" "16771401"
+			"pwdrequired" "1"
+			"timeupdated" "1734604790"
+		}
+		"previews"
+		{
+			"buildid" "15758287"
+			"pwdrequired" "1"
+			"timeupdated" "1726757768"
+		}
+		"previews_2"
+		{
+			"buildid" "15807375"
+			"pwdrequired" "1"
+			"timeupdated" "1727174546"
+		}
+		"qa_testing_branch"
+		{
+			"buildid" "13454262"
+			"pwdrequired" "1"
+			"timeupdated" "1734520003"
+		}
+		"turners_test"
+		{
+			"buildid" "16395020"
+			"pwdrequired" "1"
+			"timeupdated" "1731516081"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "150"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Steel City Interactive/Undisputed/Shared/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26719199"
+"_sha" "793251349e9dc5f77436758fb22d40cdf39a9907"
+"_size" "12501"
