@@ -33,6 +33,7 @@
 		"koreana" "1"
 		"schinese" "1"
 		"japanese" "1"
+		"turkish" "1"
 	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
@@ -256,6 +257,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1723685492"
 	"community_visible_stats" "1"
@@ -320,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "588391544040929705"
-				"size" "111976858"
-				"download" "87355808"
+				"gid" "7012507996051302141"
+				"size" "112055295"
+				"download" "87381920"
 			}
 			"v244_1021b"
 			{
@@ -342,14 +348,20 @@
 				"size" "111976858"
 				"download" "87355808"
 			}
+			"v249_1216"
+			{
+				"gid" "7012507996051302141"
+				"size" "112055295"
+				"download" "87381920"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16446050"
-			"timeupdated" "1731944755"
+			"buildid" "16756116"
+			"timeupdated" "1734591679"
 		}
 		"v244_1021b"
 		{
@@ -368,6 +380,12 @@
 			"buildid" "16446050"
 			"description" "v246_1118"
 			"timeupdated" "1731944237"
+		}
+		"v249_1216"
+		{
+			"buildid" "16756116"
+			"description" "v249_1216"
+			"timeupdated" "1734335163"
 		}
 	}
 }
@@ -390,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26246969"
-"_sha" "8feb2071d70cada590635a99aeb689efd427ff8a"
-"_size" "7917"
+"_change_number" "26708910"
+"_sha" "fede76376eb19b3d9406379d384e429e63af203c"
+"_size" "8236"
