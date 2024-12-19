@@ -9,6 +9,14 @@
 	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"osextended" "macos64"
+	"name_localized"
+	{
+		"russian" "Семь королевств: Высокий Латион - Бонусный Контент"
+		"schinese" "七界：拉菲恩圣地 - 额外内容"
+		"french" "Les Sept Mondes: Haut Lathión - Contenu Bonus"
+		"spanish" "Los Siete Reinos: Alto Latión - Contenido Adicional"
+		"latam" "Los Siete Reinos: Alto Latión - Contenido Adicional"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -26,7 +34,7 @@
 		"english" "header.jpg"
 	}
 	"store_screenshot" "ss_e448d6fe000541492c85ab99d698ff72a5e0d2e2.jpg"
-	"store_asset_mtime" "1731965339"
+	"store_asset_mtime" "1734463836"
 	"associations"
 	{
 		"0"
@@ -51,6 +59,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -70,6 +79,11 @@
 			"subtitles" "true"
 		}
 		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -118,9 +132,9 @@
 		{
 			"public"
 			{
-				"gid" "4953037283756274624"
-				"size" "1003529255"
-				"download" "998423248"
+				"gid" "3733596750373321089"
+				"size" "1103005353"
+				"download" "1095463968"
 			}
 		}
 		"dlcappid" "3277910"
@@ -129,9 +143,13 @@
 	{
 		"public"
 		{
-			"buildid" "16450582"
-			"timeupdated" "1731966654"
+			"buildid" "16785839"
+			"timeupdated" "1734603987"
 		}
 	}
 	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26711556"
+"_sha" "a190301209f7fcaa6fdd92dd35db59112b3128c1"
+"_size" "2744"
