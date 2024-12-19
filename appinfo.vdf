@@ -1,0 +1,485 @@
+"appid" "2356780"
+"common"
+{
+	"name" "Dungeon Clawler"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "b14d88f3121b361087efb0332fceaf4c50e2bb2b"
+	"clienticns" "ad11fafdecae469facb05a710df65b8c24412572"
+	"clienticon" "08f3e95184b57dee939f3010ebf3b5c756645122"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"linuxclienticon" "1ea24d5ddd59d0c38f539229ce1f32107f43d6f4"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "ダンジョンクロウラー幸運ウサギと魔法の爪"
+		"schinese" "抓抓地牢"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1733529600"
+		"tested_build_id" "16642152"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja"
+		"library_hero" "en,ja"
+		"library_logo" "en,zh-cn,ja"
+		"library_header" "en,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"japanese" "library_hero_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"japanese" "library_hero_japanese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"japanese" "library_header_japanese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731932238"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stray Fawn Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stray Fawn Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Playworks"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732204745"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/2356780/discussions/0/4635987888980453987/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2356780"
+	"store_tags"
+	{
+		"0" "1773"
+		"1" "4711"
+		"2" "1091588"
+		"3" "4325"
+		"4" "16250"
+		"5" "1716"
+		"6" "5125"
+		"7" "1741"
+		"8" "32322"
+		"9" "3968"
+		"10" "4726"
+		"11" "3959"
+		"12" "7948"
+		"13" "4004"
+		"14" "1720"
+		"15" "9"
+		"16" "4026"
+		"17" "3871"
+		"18" "4252"
+		"19" "4236"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Stray Fawn Studio"
+	"publisher" "Stray Fawn Publishing"
+	"homepage" "https://strayfawnstudio.com/"
+	"listofdlc" "3299430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dungeon Clawler"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windows/DungeonClawler.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Mac/DungeonClawler.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Linux/DungeonClawler.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2356782"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2116304208824783279"
+				"size" "908785633"
+				"download" "160474112"
+			}
+			"testing"
+			{
+				"gid" "2116304208824783279"
+				"size" "908785633"
+				"download" "160474112"
+			}
+		}
+	}
+	"2356783"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2334199950693210227"
+				"size" "901704424"
+				"download" "158468352"
+			}
+			"testing"
+			{
+				"gid" "2334199950693210227"
+				"size" "901704424"
+				"download" "158468352"
+			}
+		}
+	}
+	"2356784"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1574201375728463808"
+				"size" "947762479"
+				"download" "159917104"
+			}
+			"testing"
+			{
+				"gid" "1574201375728463808"
+				"size" "947762479"
+				"download" "159917104"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16797331"
+			"timeupdated" "1734594817"
+		}
+		"testing"
+		{
+			"buildid" "16797331"
+			"description" "Test upcoming updates"
+			"timeupdated" "1734594767"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Stray Fawn Studio/Dungeon Clawler"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Stray Fawn Studio/Dungeon Clawler"
+			"pattern" "Progress.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Stray Fawn Studio/Dungeon Clawler"
+					"replace" "com.strayfawnstudio.dungeonclawler"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Stray Fawn Studio/Dungeon Clawler"
+					"replace" ".config/unity3d/Stray Fawn Studio/Dungeon Clawler"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26709190"
+"_sha" "24dca7fe694dec7e1d9cbc51ec13b17f72e057fe"
+"_size" "8792"
