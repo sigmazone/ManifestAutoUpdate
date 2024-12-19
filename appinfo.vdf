@@ -1,0 +1,295 @@
+"appid" "2163330"
+"common"
+{
+	"name" "Yet Another Zombie Survivors"
+	"type" "Game"
+	"icon" "29d2fd0987cbbc1fdb23a356979d7bbb6584a9e5"
+	"clienticon" "622a676d9622056b24fd85f24d91c35bf7a7df4c"
+	"clienttga" "9933b9049a82fe6755439d04d43cbf877937e6e0"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "Yet Another Zombie Survivors - 又一个僵尸幸存者"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"polish" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690416000"
+		"tested_build_id" "11704942"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.64530290695044"
+			"height_pct" "86.43013634686275"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.64530290695044"
+				"height_pct" "86.43013634686275"
+			}
+		}
+	}
+	"store_asset_mtime" "1733515919"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Awesome Games Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Awesome Games Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Awesome Games Studio"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689267762"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/2163330/discussions/0/3462731694147534986/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2163330"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "492"
+		"2" "4885"
+		"3" "1773"
+		"4" "3959"
+		"5" "4231"
+		"6" "4182"
+		"7" "1716"
+		"8" "4191"
+		"9" "5154"
+		"10" "4637"
+		"11" "7481"
+		"12" "597"
+		"13" "19"
+		"14" "1662"
+		"15" "1659"
+		"16" "4791"
+		"17" "4342"
+		"18" "5673"
+		"19" "3835"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Awesome Games Studio"
+	"publisher" "Awesome Games Studio"
+	"homepage" "https://www.awesomegamesstudio.com"
+}
+"config"
+{
+	"installdir" "Yet Another Zombie Survivors"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Yet Another Zombie Survivors.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2163331"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8471417862043195330"
+				"size" "5943692828"
+				"download" "2911460848"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16802041"
+			"timeupdated" "1734623766"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "50"
+}
+"_missing_token" "False"
+"_change_number" "26716593"
+"_sha" "b81a62d7c5a320efed04bd6c296582658b1d42dd"
+"_size" "5651"
