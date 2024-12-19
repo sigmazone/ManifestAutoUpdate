@@ -1,0 +1,387 @@
+"appid" "1076160"
+"common"
+{
+	"name" "Command: Modern Operations"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ad7552f4b0fe3fe5689628a917cb404dbcebc22f"
+	"logo_small" "ad7552f4b0fe3fe5689628a917cb404dbcebc22f_thumb"
+	"icon" "0f734b8c2b18433acc9eaeb8a0ea67139f369555"
+	"clienticon" "830326dd1e18d802fe63c25203af6337d6556ce0"
+	"clienttga" "2b29bf2b8bf6f343ce2c3e4de2f1c7437a7caddc"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1076160_eula_0"
+			"name" "Command: Modern Operations EULA"
+			"url" "https://store.steampowered.com//eula/1076160_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644537600"
+		"tested_build_id" "7602861"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Command: Modern Operations"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "36.69778296382731"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "36.69778296382731"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1727367079"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Command Development Team"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1573738623"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1076160"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4168"
+		"2" "9"
+		"3" "4684"
+		"4" "1676"
+		"5" "5673"
+		"6" "4026"
+		"7" "4364"
+		"8" "5230"
+		"9" "4182"
+		"10" "1678"
+		"11" "1695"
+		"12" "4175"
+		"13" "1685"
+		"14" "4994"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"disableoverlay" "1"
+	"developer" "Command Development Team"
+	"publisher" "Slitherine Ltd."
+	"gamemanualurl" "https://store.steampowered.com/manual/1076160/"
+	"listofdlc" "1178900,1182290,1182291,1182292,1182293,1182294,1182300,1182301,1182302,1182303,1182304,1182305,1182306,1182307,1182308,1182309,1228660,1309690,1438050,1594140,1712070,2141010,2306370,2516840,2676020"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Command - Modern Operations"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"workshopdepot" "1076160"
+	"1076161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3723893375910704405"
+				"size" "27998661095"
+				"download" "15461072736"
+			}
+			"32-bitlegacy"
+			{
+				"gid" "2661544588576315632"
+				"size" "25289885466"
+				"download" "15222103104"
+			}
+			"beta"
+			{
+				"gid" "2107846341784508744"
+				"size" "27144098792"
+				"download" "14683524384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "907D0AC6250BD355EADF845F932ADA1F"
+				"size" "E084750232DEAAA4B9C0A2353028E6F2"
+				"download" "5B380FDDA1460BB718DC43AA227AA7DA"
+			}
+			"closedbeta"
+			{
+				"gid" "E6517B7281234F142299F3F01A990216"
+				"size" "B3CD05022895E6C771F44EAD23299B82"
+				"download" "33E48B2157A587FECDA3AD3FDD8295F1"
+			}
+			"devtest"
+			{
+				"gid" "863420A1AD6DDFD50FEE16F7ACA5D384"
+				"size" "20A12654019A8EEDC2E614A0B3CD1433"
+				"download" "FDD522E80736EA7EDC6DFDE183E2D9E9"
+			}
+			"devtest2"
+			{
+				"gid" "74F4BB7D71685520D32D99CD79460C34"
+				"size" "93E1F28831E8F5FD191E62CC6BDBB251"
+				"download" "28B13A3217846CA350A49BCC8F946AE6"
+			}
+		}
+	}
+	"1076162"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3383091648756203420"
+				"size" "191002077"
+				"download" "190797264"
+			}
+			"32-bitlegacy"
+			{
+				"gid" "1675218491816951014"
+				"size" "9516833"
+				"download" "7261216"
+			}
+			"beta"
+			{
+				"gid" "1054233806338255079"
+				"size" "10368543"
+				"download" "7835936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "59162F86110FA6CDA0C426F77F83C6F2"
+				"size" "CE36499E6444D8F77A07833A52599B99"
+				"download" "A4B0579A9AE771BEEAAC1D9496C83BEC"
+			}
+			"closedbeta"
+			{
+				"gid" "99EAF8A68DF4BE6F5DEB69021B5D4EDC"
+				"size" "A1200774FBAC44FEF123523488B55689"
+				"download" "E25B8813328F03FBE482C9E9717553B9"
+			}
+			"devtest"
+			{
+				"gid" "D23525406E47CC19F9FA4B60E6C2BD8D"
+				"size" "951E4AEAAE1955AB069A21665EB442FE"
+				"download" "AEA4514AB6A4AD6942323577782F94D5"
+			}
+			"devtest2"
+			{
+				"gid" "8486660C9B40AE80F7E00FFD4D3D0BC3"
+				"size" "DFF1091E1F776FAF6F367ACC57035195"
+				"download" "FEDF504C3486FD5EBF7616BB749509C0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16799192"
+			"timeupdated" "1734615828"
+		}
+		"32-bitlegacy"
+		{
+			"buildid" "11782180"
+			"description" "32-bit legacy"
+			"timeupdated" "1691504211"
+		}
+		"press"
+		{
+			"buildid" "13323181"
+			"pwdrequired" "1"
+			"timeupdated" "1706799216"
+		}
+		"beta"
+		{
+			"buildid" "15835116"
+			"description" "Open Beta"
+			"timeupdated" "1727362141"
+		}
+		"closedbeta"
+		{
+			"buildid" "16082944"
+			"pwdrequired" "1"
+			"timeupdated" "1729242633"
+		}
+		"devtest"
+		{
+			"buildid" "16799192"
+			"pwdrequired" "1"
+			"timeupdated" "1734604892"
+		}
+		"devtest2"
+		{
+			"buildid" "16082944"
+			"pwdrequired" "1"
+			"timeupdated" "1729178275"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26714359"
+"_sha" "8253843b715baae95bf70af7fac7d36de734f290"
+"_size" "7360"
