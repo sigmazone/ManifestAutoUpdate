@@ -17,12 +17,15 @@
 		"french" "1"
 		"schinese" "1"
 		"russian" "1"
+		"latam" "1"
 	}
 	"name_localized"
 	{
 		"schinese" "七界：拉菲恩圣地"
 		"french" "Les Sept Mondes: Haut Lathión"
 		"russian" "Семь королевств: Высокий Латион"
+		"spanish" "Los Siete Reinos: Alto Latión"
+		"latam" "Los Siete Reinos: Alto Latión"
 	}
 	"content_descriptors"
 	{
@@ -117,7 +120,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732006295"
+	"store_asset_mtime" "1734462228"
 	"associations"
 	{
 		"0"
@@ -155,6 +158,7 @@
 		"category_18" "1"
 		"category_55" "1"
 		"category_57" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -179,6 +183,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1732005001"
 	"community_visible_stats" "1"
@@ -191,24 +200,24 @@
 		"2" "5611"
 		"3" "24904"
 		"4" "3799"
-		"5" "9130"
-		"6" "4175"
+		"5" "4175"
+		"6" "9130"
 		"7" "6426"
 		"8" "4947"
-		"9" "9551"
-		"10" "1742"
+		"9" "1742"
+		"10" "9551"
 		"11" "4182"
 		"12" "6971"
 		"13" "4486"
-		"14" "4242"
-		"15" "4711"
-		"16" "21"
-		"17" "1684"
+		"14" "1684"
+		"15" "4242"
+		"16" "4711"
+		"17" "21"
 		"18" "4057"
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -270,18 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "6522585108589055719"
-				"size" "3389574522"
-				"download" "3246966352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "0A242101088AB2DC08A61D1DEF1CAC7A"
-				"size" "EB0E56ECF8D7D651B759BAB88A09A3AD"
-				"download" "0143076845F475EB61A8B901B1560362"
+				"gid" "7309356077604520386"
+				"size" "3639531511"
+				"download" "3498544496"
 			}
 		}
 	}
@@ -289,16 +289,11 @@
 	{
 		"public"
 		{
-			"buildid" "16448557"
-			"timeupdated" "1731959535"
-		}
-		"test"
-		{
-			"buildid" "16448557"
-			"pwdrequired" "1"
-			"timeupdated" "1731959381"
+			"buildid" "16785678"
+			"timeupdated" "1734603909"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26340186"
-"_sha" "5a1a11f3c2a6c4f85eaf12fec632caed6656b74f"
-"_size" "6043"
+"_change_number" "26716831"
+"_sha" "d4b6f2abbbe4fd199bd9a3601071963654457c7e"
+"_size" "5962"
