@@ -1,0 +1,546 @@
+"appid" "1016950"
+"common"
+{
+	"name" "Blood Bowl 3"
+	"type" "Game"
+	"clienticon" "25125936ce664c90d2afddd97429c05006dae5eb"
+	"clienttga" "c2635e2395f56a21ec5c212596d094b7aee9e62e"
+	"icon" "e99c92264379cb8871bbf5a16cc64a8d6474894e"
+	"logo" "302e7260cbb13d64001e899cca40bfdc5f6789d5"
+	"logo_small" "302e7260cbb13d64001e899cca40bfdc5f6789d5_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1016950_eula_0"
+			"name" "Blood Bowl 3 EULA"
+			"url" "https://store.steampowered.com//eula/1016950_eula_0"
+			"version" "22"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1677283200"
+		"tested_build_id" "10619862"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733991789"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cyanide Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Warhammer"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Blood Bowl"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "18"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677171651"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1016950"
+	"store_tags"
+	{
+		"0" "1775"
+		"1" "3859"
+		"2" "4182"
+		"3" "9"
+		"4" "1684"
+		"5" "1770"
+		"6" "1677"
+		"7" "122"
+		"8" "1741"
+		"9" "1708"
+		"10" "5310"
+		"11" "19"
+		"12" "4136"
+		"13" "4604"
+		"14" "14139"
+		"15" "4345"
+		"16" "4667"
+		"17" "701"
+		"18" "4172"
+		"19" "12472"
+	}
+	"review_score" "5"
+	"review_percentage" "47"
+}
+"extended"
+{
+	"developer" "Cyanide Studio"
+	"publisher" "Nacon"
+	"homepage" "http://www.bloodbowl-thegame.com/"
+	"listofdlc" "2197250,2197251,2197252,2197253,2197254,2245810"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Blood Bowl 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BB3.exe"
+			"arguments" "-SaveToUserDir"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "Engine\\Binaries\\Win64\\UE4Editor.exe"
+			"arguments" "BB3"
+			"type" "editor"
+			"config"
+			{
+				"betakey" "editor"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1016951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7078886631037237853"
+				"size" "13697034728"
+				"download" "12284443200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_deck_review"
+			{
+				"gid" "9106F76DA6787A8F5359354225D9CE87"
+				"size" "B9673C16448EFB213BFFB768DAAEC3F9"
+				"download" "02CA5F8D9A1324D58A3A9DEE729D4A68"
+			}
+			"delivery"
+			{
+				"gid" "95801C2D78D0319DE1F25407573A5916"
+				"size" "3A0CB9F39CBBD9293FA1844741F9064D"
+				"download" "AB6720A173AFA9D962D0F4AFB435FCFC"
+			}
+			"delivery_season5"
+			{
+				"gid" "D4C05EF084B74F38275DF1791EE9C737"
+				"size" "A0D62453ABFFB56D5361111912A562BC"
+				"download" "C8849E61BB240D04DA13D414E9B7EAA0"
+			}
+			"delivery_season6"
+			{
+				"gid" "C40AD4605F9670634D7E72954C1E31D5"
+				"size" "493BD99C0D363CAE7273E4867BA42E6D"
+				"download" "7054FBAE5086E0369D10B7812C2084AA"
+			}
+			"delivery_season7"
+			{
+				"gid" "EF1B78D3CBF375759EC1E2FA222FAF02"
+				"size" "2AD229EC3C3F99C6FC86AEE6421EC62C"
+				"download" "6E4C742925D3C99906BC28AF92C20FC7"
+			}
+			"editor"
+			{
+				"gid" "2A33AEFA4D8A93028D4F796DB714E75B"
+				"size" "1BCFE7262167BA2E32F8A2E70ED6B95C"
+				"download" "3479E31634F9F926E909E75369B775CD"
+			}
+			"external"
+			{
+				"gid" "621F5E6AA838DA0E8A4274F1BE4F4034"
+				"size" "9368FAC39182F2D7FAB36A0039DCC73C"
+				"download" "1DA87D1D817DE2235FEB28643898574A"
+			}
+			"internal"
+			{
+				"gid" "A13DC7F57AD37203195CAEBD61B45411"
+				"size" "9E0FFD468978C58F53CE17D94B9BD763"
+				"download" "81B9F5F767524261CDD6FC43218C4FD2"
+			}
+			"market"
+			{
+				"gid" "D5676E38C59B6D03788046F19EC7EF43"
+				"size" "1ADBD35D84AE4474807D93EF8D86B50F"
+				"download" "4739C40408848891B0AD097274715F38"
+			}
+			"preview"
+			{
+				"gid" "3976028DE888AC155ED3E46C587199EF"
+				"size" "B3EFCA7CBC93158A196DD215E82A85F7"
+				"download" "A1B8D9541CB8A662BA90505B98C596E7"
+			}
+			"review"
+			{
+				"gid" "E57019A6356BE271BDA37C3ED91B2240"
+				"size" "9B35B6685B949B9C22FB6A79091CAF9C"
+				"download" "1ABA24A3AE1791B21D56975E4E7B2651"
+			}
+			"test"
+			{
+				"gid" "C1FF74DBE4D5D053B1939788A62E4AF4"
+				"size" "2130C7F13D88334BE6F1C9A192E7A93D"
+				"download" "C0216C8A06ED11B20D84CF6D224189F7"
+			}
+			"vip_preview"
+			{
+				"gid" "B5DE31CEC7791665E6032B4F77211838"
+				"size" "2838402301852B6647EA5B76BD5BEE18"
+				"download" "969A94E433C87FA3AC0F69FDE91F2474"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16730757"
+			"timeupdated" "1734599560"
+		}
+		"steam_deck_review"
+		{
+			"buildid" "10497109"
+			"pwdrequired" "1"
+			"timeupdated" "1675937798"
+		}
+		"delivery"
+		{
+			"buildid" "16634807"
+			"pwdrequired" "1"
+			"timeupdated" "1733752954"
+		}
+		"delivery_season5"
+		{
+			"buildid" "14917348"
+			"pwdrequired" "1"
+			"timeupdated" "1720001029"
+		}
+		"delivery_season6"
+		{
+			"buildid" "15833652"
+			"pwdrequired" "1"
+			"timeupdated" "1727338398"
+		}
+		"delivery_season7"
+		{
+			"buildid" "16730757"
+			"pwdrequired" "1"
+			"timeupdated" "1734064905"
+		}
+		"editor"
+		{
+			"buildid" "16582182"
+			"pwdrequired" "1"
+			"timeupdated" "1732902594"
+		}
+		"external"
+		{
+			"buildid" "14694025"
+			"pwdrequired" "1"
+			"timeupdated" "1719838781"
+		}
+		"internal"
+		{
+			"buildid" "16793783"
+			"pwdrequired" "1"
+			"timeupdated" "1734566500"
+		}
+		"market"
+		{
+			"buildid" "16294025"
+			"pwdrequired" "1"
+			"timeupdated" "1730908714"
+		}
+		"preview"
+		{
+			"buildid" "16579816"
+			"pwdrequired" "1"
+			"timeupdated" "1732895807"
+		}
+		"review"
+		{
+			"buildid" "16579816"
+			"pwdrequired" "1"
+			"timeupdated" "1732895853"
+		}
+		"test"
+		{
+			"buildid" "15524580"
+			"pwdrequired" "1"
+			"timeupdated" "1724936025"
+		}
+		"vip_preview"
+		{
+			"buildid" "16579816"
+			"pwdrequired" "1"
+			"timeupdated" "1732895790"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BB3/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26710299"
+"_sha" "b98f6b7699fa9413e102cfb5731e34619a21c793"
+"_size" "10015"
