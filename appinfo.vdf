@@ -5,7 +5,7 @@
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows"
-	"osarch" ""
+	"osarch" "64"
 	"osextended" ""
 	"controllervr"
 	{
@@ -41,25 +41,25 @@
 	"openxrsupport" "1"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1727136000"
-		"tested_build_id" "15733049"
+		"category" "3"
+		"test_timestamp" "1733875200"
+		"tested_build_id" "16632834"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -74,7 +74,7 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-3RC"
@@ -83,6 +83,7 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -146,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1701285596"
+	"store_asset_mtime" "1701306758"
 	"associations"
 	{
 		"0"
@@ -177,6 +178,7 @@
 		"category_36" "1"
 		"category_27" "1"
 		"category_52" "1"
+		"category_55" "1"
 		"category_53" "1"
 		"category_62" "1"
 	}
@@ -205,8 +207,8 @@
 		"10" "6506"
 		"11" "19"
 		"12" "7368"
-		"13" "1743"
-		"14" "1775"
+		"13" "1775"
+		"14" "1743"
 		"15" "1684"
 		"16" "10816"
 		"17" "1669"
@@ -214,7 +216,7 @@
 		"19" "1697"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -271,24 +273,24 @@
 		{
 			"public"
 			{
-				"gid" "4999074740913220532"
-				"size" "1476212692"
-				"download" "416398592"
+				"gid" "8272865781135055078"
+				"size" "1879523391"
+				"download" "412649168"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"prototyping"
 			{
-				"gid" "856D09AE9BA6B13C2F4E9089A726D6E1"
-				"size" "AB831A1ADBF35F50C7B3A9A10E6502EA"
-				"download" "33251BF4369356194D0201BA905B7EEA"
+				"gid" "1B19D8F6784F8B6F27D22679F31CE6FA"
+				"size" "E7B67C737C030918E7F67EC948510176"
+				"download" "168FE571A564533EB56F4CD1AE800D14"
 			}
 			"staging"
 			{
-				"gid" "BF28BB871AA359D47BA168DAE64BA222"
-				"size" "3407E585B3F72D4F8A87D313421951F2"
-				"download" "C022F4A954C827ED32212AD3B5823548"
+				"gid" "F4ABDD5F27C81C95BFB5F430FCA3C328"
+				"size" "AA3DDF9A872ABD6EF72BEC6B3EA6C208"
+				"download" "DED791BED971FAB24030764CEF56B8C4"
 			}
 		}
 	}
@@ -296,20 +298,24 @@
 	{
 		"public"
 		{
-			"buildid" "15882614"
-			"timeupdated" "1727811392"
+			"buildid" "16790563"
+			"timeupdated" "1734552558"
 		}
 		"prototyping"
 		{
-			"buildid" "15655171"
+			"buildid" "16632834"
 			"pwdrequired" "1"
-			"timeupdated" "1725995150"
+			"timeupdated" "1733335173"
 		}
 		"staging"
 		{
-			"buildid" "15882614"
+			"buildid" "16790563"
 			"pwdrequired" "1"
-			"timeupdated" "1727744446"
+			"timeupdated" "1734546026"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26701737"
+"_sha" "07226694c22b2b0336e7e4fa80862501fb4b2a55"
+"_size" "5586"
