@@ -6,7 +6,7 @@
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64"
 	"icon" "b0a2cb848806f7db0f2430a8086fadadb8a1d4a8"
 	"clienttga" "95d45e3077cd2e819f6d372aa8e39acfea3dc2fa"
 	"clienticon" "2c7398bbc54ecc0ae2abe31309068159f75d2c2f"
@@ -115,7 +115,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726598972"
+	"store_asset_mtime" "1734559604"
 	"associations"
 	{
 		"0"
@@ -140,6 +140,14 @@
 	{
 		"category_2" "1"
 		"category_30" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_17" "1"
+		"category_44" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -335,18 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "8249905143620768166"
-				"size" "35110667"
-				"download" "11698624"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "2BA389ED0F9D6442F6BEADDE9B422004"
-				"size" "3C23F52DD54A917A0496419B4C32D61E"
-				"download" "08035E098FEEE308FBFDE01C9E332CE6"
+				"gid" "4875760581657269473"
+				"size" "35862344"
+				"download" "11735744"
 			}
 		}
 	}
@@ -360,18 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "981411290861851703"
-				"size" "29127993"
-				"download" "11570048"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "54EDDD83489FDCD95C12CA6E0DB9F3CD"
-				"size" "C18BABEAD9D5526455E2BCC4201341AF"
-				"download" "2DF8C479A1FBC885C72730C735297E11"
+				"gid" "659753245251965746"
+				"size" "34117334"
+				"download" "12513808"
 			}
 		}
 	}
@@ -384,14 +374,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"public"
 			{
-				"gid" "9409071D2398FBECCE8C8FBF938AC52A"
-				"size" "80EDB1FD58B13519381C5B4DB2012B39"
-				"download" "7662EFE38D0D9E110F72089BAAAD7E35"
+				"gid" "4082359056248993422"
+				"size" "30470079"
+				"download" "11486176"
 			}
 		}
 	}
@@ -399,16 +386,11 @@
 	{
 		"public"
 		{
-			"buildid" "12937596"
-			"timeupdated" "1702369824"
-		}
-		"beta"
-		{
-			"buildid" "16079229"
-			"pwdrequired" "1"
-			"timeupdated" "1729159743"
+			"buildid" "16796859"
+			"timeupdated" "1734591324"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -438,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25764491"
-"_sha" "163b360b01fed36c841feff06a4766cb9adae0d9"
-"_size" "7047"
+"_change_number" "26708538"
+"_sha" "249d142e4c9a18f8b4d4822fd4de1e587c642a5a"
+"_size" "6651"
