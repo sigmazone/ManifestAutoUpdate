@@ -61,6 +61,13 @@
 				"english" "1e9347d42cdb0ac012f42f341a7a9a146b44486c/library_hero_2x.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "1e9347d42cdb0ac012f42f341a7a9a146b44486c/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"logo_position"
@@ -135,15 +142,15 @@
 		"2" "4175"
 		"3" "1774"
 		"4" "1663"
-		"5" "4168"
-		"6" "1708"
+		"5" "1708"
+		"6" "4168"
 		"7" "6730"
 		"8" "1685"
 		"9" "493"
 		"10" "4191"
-		"11" "353880"
-		"12" "4342"
-		"13" "4182"
+		"11" "4182"
+		"12" "353880"
+		"13" "4342"
 		"14" "3993"
 		"15" "3859"
 		"16" "3839"
@@ -159,6 +166,8 @@
 	"developer" "Games Of Tomorrow GmbH"
 	"publisher" "Games Of Tomorrow GmbH"
 	"homepage" "https://incursionredriver.com/"
+	"listofdlc" "3405150"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -197,83 +206,22 @@
 		{
 			"public"
 			{
-				"gid" "6866942620430931839"
-				"size" "57343779590"
-				"download" "16553031680"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"creator"
-			{
-				"gid" "8857ADE1821E984E113579D79031F800"
-				"size" "A114604D62AAB01C26A1EF5D1738C25F"
-				"download" "AEE24BCF96E24DC7FE03F3B9BB8B788B"
-			}
-			"developer"
-			{
-				"gid" "0D597C18E262A0C227EECEDBA5E4A0C0"
-				"size" "9B19831F210C28D92C0502C0FC86484C"
-				"download" "D10BF79152FBD7F3708635C7A9EEA072"
-			}
-			"engineering"
-			{
-				"gid" "7337F63B1E4A4B531A7CAE045763FEA2"
-				"size" "3736E4108941A76080B45CB39D379E6B"
-				"download" "65AE71A65502877AC79808DE1D58F4BD"
-			}
-			"experimental"
-			{
-				"gid" "7648DBB2729788FF5BD50564D89205F3"
-				"size" "CF99FEDFE1599214705C1CE6F2AB8A60"
-				"download" "64CADB812FCD98E6C13CA4EFA5540813"
-			}
-			"mods"
-			{
-				"gid" "0F71523081CCCA7E48EB8CC094F554D6"
-				"size" "528008138F6EE7CC95B29F4510938E34"
-				"download" "7F711ADAE9979E54168E3A3367F432EB"
+				"gid" "4032826337533727420"
+				"size" "57332419392"
+				"download" "16560659568"
 			}
 		}
 	}
+	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16339647"
-			"timeupdated" "1731061148"
-		}
-		"creator"
-		{
-			"buildid" "16339647"
-			"pwdrequired" "1"
-			"timeupdated" "1731061157"
-		}
-		"developer"
-		{
-			"buildid" "16339647"
-			"pwdrequired" "1"
-			"timeupdated" "1731060210"
-		}
-		"engineering"
-		{
-			"buildid" "16339647"
-			"pwdrequired" "1"
-			"timeupdated" "1731059645"
-		}
-		"experimental"
-		{
-			"buildid" "16339647"
-			"pwdrequired" "1"
-			"timeupdated" "1731060276"
-		}
-		"mods"
-		{
-			"buildid" "15896533"
-			"pwdrequired" "1"
-			"timeupdated" "1727833174"
+			"buildid" "16766115"
+			"timeupdated" "1734631452"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -293,6 +241,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26105378"
-"_sha" "88f3b6b1097ca2b8771a14d69f166a54f105c44c"
-"_size" "5419"
+"_change_number" "26719184"
+"_sha" "a62d16eb2de4a483e07bfd1ff16ead77265c8ecd"
+"_size" "4226"
