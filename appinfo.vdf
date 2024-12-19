@@ -1,0 +1,1053 @@
+"appid" "1840080"
+"common"
+{
+	"name" "Homeworld 3"
+	"type" "Game"
+	"logo" "5b94fb63d6d5a30e72597fb16c2ebf02b38c4e96"
+	"logo_small" "5b94fb63d6d5a30e72597fb16c2ebf02b38c4e96_thumb"
+	"icon" "0c5773a6aac3820e8b29ed2ccbd63b47bd521981"
+	"clienticon" "fa56fdfb8dce3478e474b85bb88fce7dc9dbc830"
+	"clienttga" "bf565c035019ec3bc1acf104f5f47b1fc6992c52"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "家园3"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1840080_eula_0"
+			"name" "Homeworld 3 EULA"
+			"url" "https://store.steampowered.com//eula/1840080_eula_0"
+			"version" "2"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1714176000"
+		"tested_build_id" "14002590"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "37.790697674418595"
+			"height_pct" "46.20042745191164"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "37.790697674418595"
+				"height_pct" "46.20042745191164"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1715642788"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blackbird Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gearbox Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Homeworld"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715622503"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1840080"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "1676"
+		"2" "9"
+		"3" "3942"
+		"4" "1742"
+		"5" "4182"
+		"6" "3859"
+		"7" "1708"
+		"8" "1685"
+		"9" "1716"
+		"10" "4166"
+		"11" "3993"
+		"12" "7208"
+		"13" "4161"
+		"14" "4191"
+		"15" "3878"
+		"16" "5851"
+		"17" "599"
+		"18" "3959"
+		"19" "12472"
+	}
+	"review_score" "5"
+	"review_percentage" "40"
+}
+"extended"
+{
+	"developer" "Blackbird Interactive"
+	"publisher" "Gearbox Publishing"
+	"homepage" "https://homeworlduniverse.com"
+	"listofdlc" "2667180,2667190,2667200,2688040,2688050,2688060,2689700,2842180"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Homeworld 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Homeworld3.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Homeworld 3"
+			}
+			"description" "Play Homeworld 3"
+		}
+		"1"
+		{
+			"executable" "Homeworld3-Win64-Development.exe"
+			"arguments" "-ExecCmds=\"raven.showwatermark 1\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_stable, shelf_testing, post_launch, raven_nightly, milestone30, milestone30_day0, day0_nightly, qa_stable_day0, qa_online, raven_loc, userrresearch, milestone31, milestone31_day0, hotfix_staging, amd_testing,  patch_1.11_test, patch_1.21_test, patch_1.3_test, acos_desync_fix, patch_1.22_test, gbx_rm_dev"
+			}
+			"description_loc"
+			{
+				"english" "Development Mode"
+			}
+			"description" "Development Mode"
+		}
+		"4"
+		{
+			"executable" "Homeworld3-Win64-Test.exe"
+			"arguments" "-ExecCmds=\"raven.showwatermark 1\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "raven_nightly, milestone30, milestone30_day0, day0_nightly, milestone31, milestone31_day0, post_launch, gbx_rm_dev"
+			}
+			"description_loc"
+			{
+				"english" "Test Mode"
+			}
+			"description" "Test Mode"
+		}
+		"5"
+		{
+			"executable" "Homeworld3-Win64-Development.exe"
+			"arguments" "-ExecCmds=\"raven.showwatermark 1\" -logpso"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "raven_nightly, day0_nightly, gbx_rm_dev"
+			}
+			"description_loc"
+			{
+				"english" "Development (-logPSO)"
+			}
+			"description" "Development (-logPSO)"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3223468941"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,amd_testing,amd_testing2,day0_nightly,day0_staging,external_testing_1,gbm_perf_testing,intel_testing,master_checklist,milestone29,milestone29_day0,milestone29_dnv,milestone30,milestone30_day0,milestone30_day0_staging,nvidia_testing,qa_online,qa_stable,qa_stable_day0,raven_loc,raven_nightly,ugc_testing,userrresearch,video_capture"
+			"use_action_block" "false"
+		}
+		"3223471060"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,amd_testing,amd_testing2,day0_nightly,day0_staging,external_testing_1,gbm_perf_testing,intel_testing,master_checklist,milestone29,milestone29_day0,milestone29_dnv,milestone30,milestone30_day0,milestone30_day0_staging,nvidia_testing,qa_online,qa_stable,qa_stable_day0,raven_loc,raven_nightly,ugc_testing,userrresearch,video_capture"
+			"use_action_block" "false"
+		}
+		"3223474619"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,amd_testing,amd_testing2,day0_nightly,day0_staging,external_testing_1,gbm_perf_testing,intel_testing,master_checklist,milestone29,milestone29_day0,milestone29_dnv,milestone30,milestone30_day0,milestone30_day0_staging,nvidia_testing,qa_online,qa_stable,qa_stable_day0,raven_loc,raven_nightly,ugc_testing,userrresearch,video_capture"
+			"use_action_block" "false"
+		}
+		"3223484553"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,amd_testing,amd_testing2,day0_nightly,day0_staging,external_testing_1,gbm_perf_testing,intel_testing,master_checklist,milestone29,milestone29_day0,milestone29_dnv,milestone30,milestone30_day0,milestone30_day0_staging,nvidia_testing,qa_online,qa_stable,qa_stable_day0,raven_loc,raven_nightly,ugc_testing,userrresearch,video_capture"
+			"use_action_block" "false"
+		}
+		"3223515696"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,amd_testing,amd_testing2,day0_nightly,day0_staging,external_testing_1,gbm_perf_testing,intel_testing,master_checklist,milestone29,milestone29_day0,milestone29_dnv,milestone30,milestone30_day0,milestone30_day0_staging,nvidia_testing,qa_online,qa_stable,qa_stable_day0,raven_loc,raven_nightly,ugc_testing,userrresearch,video_capture"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2842180"
+	{
+		"dlcappid" "2842180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2687637638171612815"
+				"size" "54681008"
+				"download" "50542240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arc_crash_test_1"
+			{
+				"gid" "D674FD929780C5413D0357459FE276E6"
+				"size" "E902D78D08B672FAED4D06B8D21CEF89"
+				"download" "35D1D575ADCCA983DDAFE93C92C7AE11"
+			}
+			"arc_crash_test_2"
+			{
+				"gid" "6AFB1C79CEF97F58D33129AF99710F80"
+				"size" "36858EA27046E8AB5FE22758E44534B4"
+				"download" "E1AC5C686D8E27BE482A4161A9019324"
+			}
+			"arc_crash_test_3"
+			{
+				"gid" "D6FCA8B51C09FE82ABB1B03D6524B72E"
+				"size" "523828777948BA396EBD78D3D16DD45E"
+				"download" "48E24B33DDB19B4AFB09B6061FEECD2D"
+			}
+			"arc_crash_test_4"
+			{
+				"gid" "92D46CDBCB96B09D5385FDEF8C2AC5E6"
+				"size" "3C51D8D4FCF1571DA1A06FB8E74A0043"
+				"download" "6008EC72AC5E5F733C2B8DC601E0E93D"
+			}
+			"arc_crash_test_5"
+			{
+				"gid" "1EC7F757B79CE123FBABD1E2F6F5EDCB"
+				"size" "E309FB382E800DF3D1C12490D7488DE7"
+				"download" "8B0754BEE41468567A32CDDB12F4BAAA"
+			}
+			"gbx_rm_dev"
+			{
+				"gid" "D892494C2C28AC5F29F5C07B8D44B7D1"
+				"size" "3E187DB0FD335D6566951143066030E2"
+				"download" "FC1D039C2E84E95F750AD2DC1D014116"
+			}
+			"gbx_rm_staging"
+			{
+				"gid" "249B4A68C06B9ED8CEAD34F9558972A9"
+				"size" "12D081059B45B32249651C9FF0736714"
+				"download" "41ECD071DA7475A048FAC965FB1EF6ED"
+			}
+			"hotfix_staging"
+			{
+				"gid" "D9E5692F242079C016B3FC3B0B36C0AF"
+				"size" "B1596958EEE63F3E102E08C58D6ACD82"
+				"download" "48C8609FBB355E5E8BDDEE04B7741A23"
+			}
+			"hotfix_staging_shipping"
+			{
+				"gid" "CB95B881B9D83BE1C99CA0746B14A18A"
+				"size" "C25C6D37E3480E7B63AB5708C94C33E6"
+				"download" "BAEC17E9DFEAD2EA86C3C405C6FDD2C5"
+			}
+			"intel_testing"
+			{
+				"gid" "E3C25AC3111B0E348EF49E1780A6F11A"
+				"size" "C3188230BCA1EEC49D116D77DA286568"
+				"download" "BBB4DC68304438F40C23511F07D18121"
+			}
+			"master_checklist"
+			{
+				"gid" "5FB339E08EC27D7BF5B5F6D9912897DD"
+				"size" "1637033AD7CD21116581EE1F45F0B2D6"
+				"download" "D3A7F628CB3B3A299B8F51E4338AD1D8"
+			}
+			"old_build_testing"
+			{
+				"gid" "B5D820A626930D5F1940E615E3DD73EA"
+				"size" "A1BCC116A44417B2F72A3E040F4113C3"
+				"download" "E31B53EB04F6EDD545A8CDE5ADEFCE50"
+			}
+			"patch_1.11_test"
+			{
+				"gid" "80040FBFE20F12E5B3736E433EF414B6"
+				"size" "B74948F3841345570965390B397EB9F7"
+				"download" "8EFF855502252BAA8A931D02F3F8D810"
+			}
+			"patch_1.21_test"
+			{
+				"gid" "66F7F3C54C2A70BE19A59F5359FAEDEF"
+				"size" "30B0DDE39DB42C65BB2CF8B12C765E1D"
+				"download" "038F7DE3B0764861D14B4CBE03224CC6"
+			}
+			"patch_1.22_test"
+			{
+				"gid" "A3ECA43BEF2C792F53170D8E16D1D50A"
+				"size" "9467BDACFE0F13C7537743F7A80D3237"
+				"download" "EE927C8B8BEBFF4619100611A098F642"
+			}
+			"post_launch"
+			{
+				"gid" "1B01869FB8F62A9A36DBC1D004074190"
+				"size" "DCE5081D362CDCF030687CA866BDF617"
+				"download" "3409E169CFA7F73B77A0A7CABE89DFB6"
+			}
+			"post_launch_staging"
+			{
+				"gid" "4D74608F1A3707F4AB5BCF9C7A3136F9"
+				"size" "1E2A526577F1E34D05FEE8E94B1762DD"
+				"download" "985F9F37FA89BDC7C12C884BE16FF907"
+			}
+			"qa_online"
+			{
+				"gid" "D9B4E399ECD0104B642A04F346562670"
+				"size" "3CD3BC286BCFFC783E9E79B49A4173B4"
+				"download" "89A944F80B552A1B5DCD035133662818"
+			}
+			"qa_stable"
+			{
+				"gid" "D4BFA0508DEE145F72CFBC25C6A33252"
+				"size" "60052B77BCA2576579557866EE6A7788"
+				"download" "F8F41A12FE40B804D5DD53FDE3E17B39"
+			}
+			"raven_nightly"
+			{
+				"gid" "4B8D761E08238F55EAD485F92B05B61C"
+				"size" "EA90AB80B66BABE3877C17FB49D587FE"
+				"download" "454482CE1AC3FA30AEAD5991462CCBFE"
+			}
+			"release_1.0_test"
+			{
+				"gid" "8D1CBCE389766CDC1D58D6C4B5E75E77"
+				"size" "B212DB947F53D094E20FFB5811D5CF79"
+				"download" "198308D6DFD755F60CE13382EE2E2262"
+			}
+		}
+	}
+	"1840081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7845992215903932714"
+				"size" "34029062209"
+				"download" "30703751280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arc_crash_test_1"
+			{
+				"gid" "8DDC42709E05D1FA2EABD9B490E33A53"
+				"size" "F21F43828D2B7BA373B08F835736354C"
+				"download" "1DD6B5069184DDA93AEB4C6AB6A11B99"
+			}
+			"arc_crash_test_2"
+			{
+				"gid" "B6FACA789DD653C6F015071496A02BDA"
+				"size" "A1B405BD342E4D54CF1F5DF9815EB9F2"
+				"download" "4A1F63DF3D76D16B0E8C18137ABA9F86"
+			}
+			"arc_crash_test_3"
+			{
+				"gid" "671116917465D8D580262ACB5A0FC11C"
+				"size" "F3E9049FBAAACDDAEAAEA0971CFCD982"
+				"download" "96BC5306C7BD79164D3F971BBE296FDD"
+			}
+			"arc_crash_test_4"
+			{
+				"gid" "7B9A978BCCC00B0A82DF7B5B23C5F693"
+				"size" "610A4DBA2F10B0EDAD31A6A7322C26B5"
+				"download" "EF530A91FAE36B8C70E3D23FF5A6437E"
+			}
+			"arc_crash_test_5"
+			{
+				"gid" "D5920C012A817FCF063490F7900CCB4C"
+				"size" "E81036E3012C9FF1ECCC396D4C759B51"
+				"download" "640070A32EA20D5435FFD6A7DA3C3ABB"
+			}
+			"gbx_rm_dev"
+			{
+				"gid" "2AEDD9AC56502F6B452A96EB9EB951D6"
+				"size" "C7D945935115CE3AD5B89CCC7988D4DE"
+				"download" "0B3B9BD28B014A897D5D885F264233DA"
+			}
+			"gbx_rm_staging"
+			{
+				"gid" "3DA1C03C52772D04768AFE24CAB325D8"
+				"size" "0F6FD2B3620A1F1A2290794E9A22179D"
+				"download" "789521F09D23661E0E922616F708CA05"
+			}
+			"hotfix_staging"
+			{
+				"gid" "572F5C10F6E747A03D63CECF673BC53A"
+				"size" "C762FD797D2AAE411C33B41EAA234E9B"
+				"download" "83439E11E9CF5169DD201446B602A0C5"
+			}
+			"hotfix_staging_shipping"
+			{
+				"gid" "88C43031A7A272880DFE58533AABEA28"
+				"size" "847954A06B617A6DD134ABFB5EBD3FC0"
+				"download" "A58EAEE08C11F0FF592D069905CBA02B"
+			}
+			"intel_testing"
+			{
+				"gid" "7303DC22498F03B2870D871D0AB6DB2A"
+				"size" "9D99AFC93D4FF7CE2AA1C1DCDCAB2FC4"
+				"download" "181F266390E6FCAF758138A8213731C4"
+			}
+			"master_checklist"
+			{
+				"gid" "8A2F987EE170C566FFAA02292F21EAF8"
+				"size" "B85C96C9513E028777756DC919694B6C"
+				"download" "D2ABEEAF0174A290215ABCC58311FFCE"
+			}
+			"old_build_testing"
+			{
+				"gid" "293871CC82E96AFF9D706652B6FE78B1"
+				"size" "679B6931D557709DD19DEDA04E772278"
+				"download" "C49FFDCB818BF8CEB0023CFE606AF85B"
+			}
+			"patch_1.11_test"
+			{
+				"gid" "20C39D374E9F042879BC1B00431EC140"
+				"size" "991055EA4C5187EC111AF8E718368BFE"
+				"download" "1C9E45D89E73D62793013F91A22BAE0F"
+			}
+			"patch_1.21_test"
+			{
+				"gid" "FA92ABFD98FBCFB25403F58AD617A8C2"
+				"size" "1ABA13CECF7516E9E28FDA745E23966C"
+				"download" "412A01633A5766CD0F4FC8BD21B53180"
+			}
+			"patch_1.22_test"
+			{
+				"gid" "5BF784DFB6E6D0ADC910040CFEFCC7B3"
+				"size" "C8BFF2248D26557AD63761767611023A"
+				"download" "2EE0DEFCFA666303484F4EC086B0410B"
+			}
+			"post_launch"
+			{
+				"gid" "CD6EBE086DBA00520DA0533B427BA2E3"
+				"size" "BFB3C13C9CA7177B5F18EED5B0127AB8"
+				"download" "589C6B12A46FEBF17292949C66DA302E"
+			}
+			"post_launch_staging"
+			{
+				"gid" "5A41DBDDD0E76D35D68973B92D296674"
+				"size" "0CF9076B9BCFB03C8A328F0D273A86A1"
+				"download" "8B54BFDD1EC1936F0642E76FC3DC103D"
+			}
+			"qa_online"
+			{
+				"gid" "67F9A76E6B166597774AA8EF16AE5280"
+				"size" "40A7BC9BDC0FEFBB210369FB91D476D0"
+				"download" "50DCD03774E201C8505484ECF834E304"
+			}
+			"qa_stable"
+			{
+				"gid" "A7181E73A3CF5FD4B0838FF9A3B3A16D"
+				"size" "A6831A7B7D166D7BEF098CDEEAB18209"
+				"download" "DA98935236E900FCE3919B08A7297C63"
+			}
+			"qa_stable_day0"
+			{
+				"gid" "10CCD5F59230F2BF61B7FB7F17680427"
+				"size" "CEFE0DD37E795E2F88F21BF97ABBE9F9"
+				"download" "6C17C795901E8A6F77F634E9C23228AE"
+			}
+			"raven_nightly"
+			{
+				"gid" "DE6D779EC494F7014884366193EA7605"
+				"size" "264F1B3ECE5388340E4111700A978EDD"
+				"download" "1C55D87140350A7C2C9FAF20C6FCB082"
+			}
+			"release_1.0_test"
+			{
+				"gid" "101E8318363655E433E3C4F6A4A7B4FC"
+				"size" "9A31CB5E54747532F52D26975E12FF4E"
+				"download" "B6FDE0CD92ECE446549DFF3F95573877"
+			}
+		}
+	}
+	"1840082"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4789678897118929196"
+				"size" "1046080"
+				"download" "393680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arc_crash_test_1"
+			{
+				"gid" "40E4508F56C4F344804945FF03F502D4"
+				"size" "2D280057B9D44020D0B488B2C0036088"
+				"download" "053273FCCF5FAC32F5CA0AF4ECE4D809"
+			}
+			"arc_crash_test_2"
+			{
+				"gid" "9410D94704FAC31D7C99173EE78BC076"
+				"size" "EF9892C87DD20A110402CCE6B4B1C856"
+				"download" "19DB78E69EE8FAF8DEE21D5370A253E4"
+			}
+			"arc_crash_test_3"
+			{
+				"gid" "27FDC846ECDE4BDDB4424CF44635B7FE"
+				"size" "83E9388AB70839858C2D03140DF7A6A8"
+				"download" "270E976615B3325DD598D37BD7707ADB"
+			}
+			"arc_crash_test_4"
+			{
+				"gid" "D7A924B3537F556EAE2EF4B4E50E0D8E"
+				"size" "6D3E9787EFD4A0CEC80F234523636586"
+				"download" "0F692639B0EB4C6F0FDC49A39EF37365"
+			}
+			"arc_crash_test_5"
+			{
+				"gid" "FB392608B2258DBAA7DE42066EE883A4"
+				"size" "E92F579D39CCB8DEA8DA5064A70DB7E2"
+				"download" "9987659915A396BC8CDF91F83A9AC227"
+			}
+			"gbx_rm_dev"
+			{
+				"gid" "184A063A8F9196A2F41CAFCC2E982385"
+				"size" "2183BC9402498AFD54B9BE8BA86027DC"
+				"download" "B940CFD0D2B509654B5B6BD4FCA09F0C"
+			}
+			"gbx_rm_staging"
+			{
+				"gid" "15F77F4C1D3023608BCE65E33163DB9F"
+				"size" "430E87217AACDF5C18A96F0396B2650E"
+				"download" "628A8B022B3F8A21601F73C6DB27CF7F"
+			}
+			"hotfix_staging"
+			{
+				"gid" "438C279176C4CC96EBE534826178894A"
+				"size" "76498453FEB80340E1E5FBCD13186D96"
+				"download" "E642A9590AC732FECEE55AC64D04CEA7"
+			}
+			"hotfix_staging_shipping"
+			{
+				"gid" "639A9360AA4256605A8BC53A6FB29F69"
+				"size" "4EA3221EF202C2A80594F131303818CB"
+				"download" "8972B0404D1A271A4F9C9A70CD6F9F3B"
+			}
+			"intel_testing"
+			{
+				"gid" "8D63F58564B3E263AA87661699790DBA"
+				"size" "9878598F2781FC23906518EBCB2B0D62"
+				"download" "E37DBB240A17DB84B59E513B4FD4666E"
+			}
+			"master_checklist"
+			{
+				"gid" "DDF762F13E63AEC0347E941809E1139C"
+				"size" "08A66A6C47CB960C20D7C57DEAB7E606"
+				"download" "4D9AE5B90B887F2CF406CBE1AEA10CE7"
+			}
+			"old_build_testing"
+			{
+				"gid" "ACC794E10D9FE2DFE841DC05814BA9FB"
+				"size" "4FC90EA8F0F2DC806C3C950FA10D8537"
+				"download" "F7F0BDD2FB09268CF7AEACD1744A0667"
+			}
+			"patch_1.11_test"
+			{
+				"gid" "AE51EE2F69B557DCD2B4F7A8580FAFCD"
+				"size" "FEFFFB6E2267D835F517AD7B71D68048"
+				"download" "365166DCABF2A817D784A4839DC7AAD4"
+			}
+			"patch_1.21_test"
+			{
+				"gid" "182DDA65CBA160B028DB92DC9AF63ED3"
+				"size" "DE947AECB9D211B4403F4DC45CB43226"
+				"download" "B41CC647A8353B0816CED61F4DC8F7E4"
+			}
+			"patch_1.22_test"
+			{
+				"gid" "F0ACBBB81A7C8A367D60AA7FF25E8653"
+				"size" "EC768CEC0D6FAC26D27811CBEE585473"
+				"download" "9A7BBD415B7BF07C49454AA7A12C97BA"
+			}
+			"post_launch"
+			{
+				"gid" "EBD5CAF5B78DBD49BDD9E3B5C80EF343"
+				"size" "7E327002BF42B74641DEA6293024DB50"
+				"download" "152FFA440394F03D25A80192E8DA7BBC"
+			}
+			"post_launch_staging"
+			{
+				"gid" "81904C600C42B9B101C04971ABD3E244"
+				"size" "3F0E28603EF6E149EFE6EDBB72EE8887"
+				"download" "B625DF95A0D0E71BE9EED600D15301B3"
+			}
+			"qa_online"
+			{
+				"gid" "C058F23D69E94EF8FC80E144758791B2"
+				"size" "1E792C177D13FD975E279E68EC905D47"
+				"download" "849BF48BD80BE103FF5CA7C945E2A7C8"
+			}
+			"qa_stable"
+			{
+				"gid" "C3EA34CEE565CB968F60B0C4FC7C7A99"
+				"size" "07ED238A2753C7C09ACC2B93109EF2F7"
+				"download" "3A9F841F1E12CB02539A3A71EC73FAC8"
+			}
+			"raven_nightly"
+			{
+				"gid" "9FACA4D26B0A0EEC41FACDBC680303EE"
+				"size" "A64FF480B3A7B4E62213C9B16F434DEF"
+				"download" "72C8A0D5CF43155AB641D0A592CF350B"
+			}
+			"release_1.0_test"
+			{
+				"gid" "0D5DC6BBCD05FE5A68E69A841E1148F6"
+				"size" "08A762CF58C6D9923498E4582AF58FB4"
+				"download" "2D2128AAF937648A40ED3DAAA8E334E8"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16755669"
+			"timeupdated" "1734544282"
+		}
+		"arc_crash_test_1"
+		{
+			"buildid" "16604848"
+			"pwdrequired" "1"
+			"timeupdated" "1733166035"
+		}
+		"arc_crash_test_2"
+		{
+			"buildid" "16604871"
+			"pwdrequired" "1"
+			"timeupdated" "1733166099"
+		}
+		"arc_crash_test_3"
+		{
+			"buildid" "15832685"
+			"pwdrequired" "1"
+			"timeupdated" "1733166169"
+		}
+		"arc_crash_test_4"
+		{
+			"buildid" "15841778"
+			"pwdrequired" "1"
+			"timeupdated" "1733166219"
+		}
+		"arc_crash_test_5"
+		{
+			"buildid" "15846291"
+			"pwdrequired" "1"
+			"timeupdated" "1733166271"
+		}
+		"gbx_rm_dev"
+		{
+			"buildid" "16344028"
+			"pwdrequired" "1"
+			"timeupdated" "1731081536"
+		}
+		"gbx_rm_staging"
+		{
+			"buildid" "16333205"
+			"pwdrequired" "1"
+			"timeupdated" "1731013205"
+		}
+		"hotfix_staging"
+		{
+			"buildid" "16755869"
+			"pwdrequired" "1"
+			"timeupdated" "1734332559"
+		}
+		"hotfix_staging_shipping"
+		{
+			"buildid" "16755669"
+			"pwdrequired" "1"
+			"timeupdated" "1734330448"
+		}
+		"intel_testing"
+		{
+			"buildid" "16619887"
+			"pwdrequired" "1"
+			"timeupdated" "1733257430"
+		}
+		"master_checklist"
+		{
+			"buildid" "16542254"
+			"pwdrequired" "1"
+			"timeupdated" "1732646514"
+		}
+		"old_build_testing"
+		{
+			"buildid" "16541564"
+			"pwdrequired" "1"
+			"timeupdated" "1732642923"
+		}
+		"patch_1.11_test"
+		{
+			"buildid" "14700953"
+			"pwdrequired" "1"
+			"timeupdated" "1724970018"
+		}
+		"patch_1.21_test"
+		{
+			"buildid" "15283767"
+			"pwdrequired" "1"
+			"timeupdated" "1727289466"
+		}
+		"patch_1.22_test"
+		{
+			"buildid" "15999407"
+			"pwdrequired" "1"
+			"timeupdated" "1729016698"
+		}
+		"post_launch"
+		{
+			"buildid" "16247902"
+			"pwdrequired" "1"
+			"timeupdated" "1730358399"
+		}
+		"post_launch_staging"
+		{
+			"buildid" "16247636"
+			"pwdrequired" "1"
+			"timeupdated" "1730356111"
+		}
+		"qa_online"
+		{
+			"buildid" "15804475"
+			"pwdrequired" "1"
+			"timeupdated" "1732638164"
+		}
+		"qa_stable"
+		{
+			"buildid" "15831179"
+			"pwdrequired" "1"
+			"timeupdated" "1732637154"
+		}
+		"qa_stable_day0"
+		{
+			"buildid" "15976039"
+			"pwdrequired" "1"
+			"timeupdated" "1728451209"
+		}
+		"raven_nightly"
+		{
+			"buildid" "16782449"
+			"pwdrequired" "1"
+			"timeupdated" "1734499912"
+		}
+		"release_1.0_test"
+		{
+			"buildid" "15537280"
+			"pwdrequired" "1"
+			"timeupdated" "1724969745"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Homeworld3/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Homeworld3/Saved/SaveGames"
+			"pattern" "*.hwsg"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26699731"
+"_sha" "f5ecea3636a33c2cd2445458bdb7d4f14ccc8de9"
+"_size" "25419"
