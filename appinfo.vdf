@@ -1,0 +1,269 @@
+"appid" "1713350"
+"common"
+{
+	"name" "Project Castaway"
+	"type" "Game"
+	"icon" "910d3e59f1b0a3fceeaa8715e918722fdbcb0881"
+	"logo" "78950401e9548acdddc3c19fc0e208c0be603bec"
+	"logo_small" "78950401e9548acdddc3c19fc0e208c0be603bec_thumb"
+	"clienttga" "82c6d3298e8cbfe53cbaa6ea9078e97d7164b537"
+	"clienticon" "59f70e9cf6501ec739812e30672779b573b13380"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "a5229e3a9d97524ee9eb3df0707617f280fee369/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.20413857385076"
+			"height_pct" "57.154949574994376"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.20413857385076"
+				"height_pct" "57.154949574994376"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732732797"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mardonpol Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mardonpol Inc."
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727110845"
+	"community_hub_visible" "1"
+	"gameid" "1713350"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "1100689"
+		"2" "3810"
+		"3" "1662"
+		"4" "122"
+		"5" "3839"
+		"6" "9157"
+		"7" "1695"
+		"8" "7332"
+		"9" "19"
+		"10" "4175"
+		"11" "597"
+		"12" "1643"
+		"13" "1702"
+		"14" "3859"
+		"15" "1685"
+		"16" "21"
+		"17" "8945"
+		"18" "4182"
+		"19" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Mardonpol Inc."
+	"publisher" "Mardonpol Inc."
+	"homepage" "https://mardonpol.com/"
+}
+"config"
+{
+	"installdir" "Project Castaway"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Project Castaway.exe"
+		}
+	}
+}
+"depots"
+{
+	"1713351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6557611821250145697"
+				"size" "6147337055"
+				"download" "2804048160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16805992"
+			"timeupdated" "1734641707"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26721343"
+"_sha" "b3911c571629eb0121a248ab74f1f72339a8982a"
+"_size" "4258"
