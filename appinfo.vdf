@@ -384,6 +384,33 @@
 				"download" "138410928"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"dlc_beta"
+			{
+				"gid" "110F33A3303BBE4263F8BB0E34900D2A"
+				"size" "E86D06B8D30C25088A40BC43702A000D"
+				"download" "0A05C84FD360E69857A9560A3D634260"
+			}
+			"testing"
+			{
+				"gid" "15CBD33293D9694E0165DE816AAD57F1"
+				"size" "252DE161AC61239D22171F66CCCF2EF5"
+				"download" "21D269F183E921FAD355C898F8407FA3"
+			}
+			"testing-dlc-seaven"
+			{
+				"gid" "9FA801E7E1671CC9BF46497160D39A4E"
+				"size" "4F400CA81B47059AD34B4A1777C8C832"
+				"download" "3BF2C1E0548407691038EBA51376B62B"
+			}
+			"testing-seaven"
+			{
+				"gid" "1840C97684C832F144C496FB2458F78C"
+				"size" "D5F7BECF588EE91EBD785B38549A4CD3"
+				"download" "97A50EC5B8D4055939F31B5904232884"
+			}
+		}
 	}
 	"2868390"
 	{
@@ -419,6 +446,21 @@
 				"download" "52502480"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"dlc_beta"
+			{
+				"gid" "3EA0454C7923DE3AEFD80C58CA63E7B8"
+				"size" "71FFF5B8FCA850B04FCCEC77AFB31778"
+				"download" "AAE62C0415B6AAD166A26260FBD90ECB"
+			}
+			"testing"
+			{
+				"gid" "4F4D2BA9953D1E4C0795A96052128D3A"
+				"size" "C4E918A489C41F37A28E8012B43E3F30"
+				"download" "E9EB2C189426FA8EAB95C42A2264AF59"
+			}
+		}
 	}
 	"branches"
 	{
@@ -445,11 +487,35 @@
 			"description" "Test new updates before they go public, may be unstable"
 			"timeupdated" "1734619070"
 		}
+		"dlc_beta"
+		{
+			"buildid" "16222388"
+			"pwdrequired" "1"
+			"timeupdated" "1730213620"
+		}
 		"reset"
 		{
 			"buildid" "16182449"
 			"description" "(!) THIS BRANCH WILL RESET YOUR SAVE. Includes button to reset achievements"
 			"timeupdated" "1729870746"
+		}
+		"testing"
+		{
+			"buildid" "16801947"
+			"pwdrequired" "1"
+			"timeupdated" "1734618669"
+		}
+		"testing-dlc-seaven"
+		{
+			"buildid" "16097665"
+			"pwdrequired" "1"
+			"timeupdated" "1729263746"
+		}
+		"testing-seaven"
+		{
+			"buildid" "15048291"
+			"pwdrequired" "1"
+			"timeupdated" "1721127722"
 		}
 		"v1.1.0.0-compat"
 		{
@@ -464,7 +530,6 @@
 			"timeupdated" "1734432501"
 		}
 	}
-	"privatebranches" "1"
 }
 "ufs"
 {
@@ -482,6 +547,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26715395"
-"_sha" "508e8c9a847382553e19f3650d932a1adf18edcf"
-"_size" "8893"
+"_change_number" "26719627"
+"_sha" "c0a1a5758b10a3b861097addde3b2aca9d515a29"
+"_size" "10429"
