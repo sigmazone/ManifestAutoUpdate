@@ -7,9 +7,13 @@
 	"osarch" "64"
 	"osextended" ""
 	"icon" "23774542079e59bf10140a4be4ad6abd047474a3"
-	"clienttga" "352110272c753640499a85a369c8d876dc18ca41"
-	"clienticon" "cccf49868abe63899f11b08754b651e1ccf00dc2"
+	"clienttga" "795fd8eb82470f6a75c3d45d70e280e7b32e044e"
+	"clienticon" "db97a2bc765e17e0f339878f370bae5071e60b44"
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -158,9 +162,10 @@
 	"primary_genre" "2"
 	"genres"
 	{
-		"0" "4"
-		"1" "28"
-		"2" "2"
+		"0" "25"
+		"1" "4"
+		"2" "28"
+		"3" "2"
 	}
 	"category"
 	{
@@ -211,29 +216,29 @@
 	"gameid" "2506480"
 	"store_tags"
 	{
-		"0" "5613"
-		"1" "6378"
-		"2" "1770"
-		"3" "1664"
-		"4" "8369"
-		"5" "17389"
-		"6" "7368"
-		"7" "3859"
-		"8" "7178"
-		"9" "5716"
-		"10" "4711"
-		"11" "1741"
-		"12" "9"
-		"13" "5350"
-		"14" "6129"
-		"15" "4182"
-		"16" "597"
-		"17" "21"
-		"18" "4840"
-		"19" "4191"
+		"0" "597"
+		"1" "3859"
+		"2" "17389"
+		"3" "5613"
+		"4" "6378"
+		"5" "1770"
+		"6" "9"
+		"7" "1775"
+		"8" "1685"
+		"9" "3843"
+		"10" "4191"
+		"11" "4342"
+		"12" "1667"
+		"13" "599"
+		"14" "5716"
+		"15" "7368"
+		"16" "8369"
+		"17" "4182"
+		"18" "21"
+		"19" "1664"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -266,36 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "7915274743401629244"
-				"size" "2194804875"
-				"download" "1773559568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"external"
-			{
-				"gid" "80020DBED26D4177CE5F6E04E784C94C"
-				"size" "D024BBBA92A3D10B8FE5D007505C638A"
-				"download" "81C23F7012FC60BA0068EF4E7A19BD40"
-			}
-			"development"
-			{
-				"gid" "8CC356179B5EE7A752F23C9DCAF1D645"
-				"size" "04FBDEA4DF3A186A3D87D2386B9325FB"
-				"download" "0240A0E269BF42311394C75984EB6530"
-			}
-			"hasbro"
-			{
-				"gid" "A631170162A4D6B7D68F62991DCEF675"
-				"size" "FCCD62956B3D1E66325DE3519591ED56"
-				"download" "74F38026E103B9013CF6BD204F972E53"
-			}
-			"submission"
-			{
-				"gid" "E1469C75BF06E0702F1835052B29F20F"
-				"size" "F8D0FF3C00C3A8475A0EBCDD0638E56B"
-				"download" "07E1F866A6F7D10271B4F83D8029D0BB"
+				"gid" "1243567342058557879"
+				"size" "2201178427"
+				"download" "1775125216"
 			}
 		}
 	}
@@ -303,34 +281,11 @@
 	{
 		"public"
 		{
-			"buildid" "16329507"
-			"timeupdated" "1732549378"
-		}
-		"external"
-		{
-			"buildid" "13384186"
-			"pwdrequired" "1"
-			"timeupdated" "1707302478"
-		}
-		"development"
-		{
-			"buildid" "16368233"
-			"pwdrequired" "1"
-			"timeupdated" "1731345523"
-		}
-		"hasbro"
-		{
-			"buildid" "16069404"
-			"pwdrequired" "1"
-			"timeupdated" "1729159435"
-		}
-		"submission"
-		{
-			"buildid" "16329507"
-			"pwdrequired" "1"
-			"timeupdated" "1730993390"
+			"buildid" "16777967"
+			"timeupdated" "1734626061"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -348,6 +303,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26351694"
-"_sha" "6ec55df22e1b5f375f10788eeedf107b2a159e5b"
-"_size" "6977"
+"_change_number" "26717303"
+"_sha" "8ed350419fde07f285021845f5c471965589225e"
+"_size" "5898"
