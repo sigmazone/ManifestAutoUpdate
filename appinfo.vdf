@@ -25,6 +25,50 @@
 		"english" "1"
 		"schinese" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734048000"
+		"tested_build_id" "16598869"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -196,7 +240,7 @@
 		"19" "9130"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -229,53 +273,79 @@
 	"baselanguages" "english,schinese"
 	"1689081"
 	{
+		"config"
+		{
+			"realm" "steamglobal"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7448557666788265885"
-				"size" "4881845292"
-				"download" "1050780656"
+				"gid" "9214600707321370080"
+				"size" "4890271627"
+				"download" "1050817504"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"gameraqa"
 			{
-				"gid" "DCE39C2A5ADCDAB2E349744605AE1419"
-				"size" "85B97DF5B68147B747DA86D524CF87F0"
-				"download" "37B9EC5DB8886D76F50ECA87BB86881B"
+				"gid" "A23249F014849AA4AB328B31C399545D"
+				"size" "AD336D66C3586C21DE14B414D82731EF"
+				"download" "2DC4695C0E43592A79A289A17BC9CB9A"
 			}
 			"steam_china_only"
 			{
-				"gid" "1953E090DB04F7C1481B8F6EAFC7A066"
-				"size" "BE240AA3D1742F68687F24F847E04655"
-				"download" "120B640BF0A93DCAE72940E582D56753"
+				"gid" "CAC612E98E8F9B6077552E3D3D3761B1"
+				"size" "465EDD257CEC67F75D28B014E0789258"
+				"download" "64DCC91965707E9A9169FB1E40F332F5"
 			}
 		}
 	}
 	"1689082"
 	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4614814963734766454"
+				"size" "4881357904"
+				"download" "1053347424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "8F01EC81E5AD8DE05544AD0F0FD3E9F0"
+				"size" "465EDD257CEC67F75D28B014E0789258"
+				"download" "1CC6E57B9B31B65B050E8BD5E4E1313B"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16566466"
-			"timeupdated" "1732799544"
+			"buildid" "16810922"
+			"timeupdated" "1734679012"
 		}
 		"gameraqa"
 		{
-			"buildid" "16566466"
+			"buildid" "16810914"
 			"pwdrequired" "1"
-			"timeupdated" "1732798999"
+			"timeupdated" "1734678909"
 		}
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16496746"
+			"buildid" "16598791"
 			"pwdrequired" "1"
-			"timeupdated" "1732258859"
+			"timeupdated" "1733131848"
 		}
 	}
 }
@@ -299,6 +369,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26407250"
-"_sha" "7ee1aff3ab4e164234bb3faac24eacce4f40e382"
-"_size" "5857"
+"_change_number" "26728606"
+"_sha" "7c1e9aace5fabe4c99b8e64c503bb49dc680497f"
+"_size" "7410"
