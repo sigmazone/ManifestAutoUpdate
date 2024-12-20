@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730231676"
+	"store_asset_mtime" "1734731686"
 	"associations"
 	{
 		"0"
@@ -300,8 +300,8 @@
 		"8" "19"
 		"9" "3810"
 		"10" "4747"
-		"11" "6730"
-		"12" "1775"
+		"11" "1775"
+		"12" "6730"
 		"13" "4182"
 		"14" "128"
 		"15" "6276"
@@ -311,7 +311,7 @@
 		"19" "1669"
 	}
 	"review_score" "5"
-	"review_percentage" "58"
+	"review_percentage" "59"
 }
 "extended"
 {
@@ -329,7 +329,7 @@
 	"developer" "Studio Wildcard"
 	"publisher" "Studio Wildcard"
 	"homepage" "http://www.playark.com"
-	"listofdlc" "2827030,2849450,2881150,2972680,3059650,3282470"
+	"listofdlc" "2827030,2849450,2881150,2972680,3059650,3282470,3349320"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -403,6 +403,23 @@
 			}
 			"description" "Development mode, useful for collecting information excluded from shipping"
 		}
+		"4"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ArkAscended_BE.exe"
+			"arguments" "-VideoReplayEnabled=false -gpucrashdebugging"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "continuous, crossplay, farmhouse, enduring, spam"
+			}
+			"description_loc"
+			{
+				"english" "QA use this for everyday work. Standard shipping build with extra debugging arguments."
+			}
+			"description" "QA use this for everyday work. Standard shipping build with extra debugging arguments."
+		}
 	}
 }
 "depots"
@@ -432,156 +449,15 @@
 		{
 			"public"
 			{
-				"gid" "9148456639340535055"
-				"size" "177485427254"
-				"download" "158586375488"
+				"gid" "7011778603629762381"
+				"size" "219518592447"
+				"download" "196674798592"
 			}
 			"public_test_realm"
 			{
 				"gid" "4220789890992984378"
 				"size" "125609109769"
 				"download" "118932914160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"arktx"
-			{
-				"gid" "0FA89CE28345B7358599A7BB1AD150E3"
-				"size" "700268F721886E0CFBB32153D62E04F2"
-				"download" "AA22E9AC5EAF3DCAC106AF451D138E33"
-			}
-			"cachechecks"
-			{
-				"gid" "1C0ADAA085821D849E05383EC97F1B51"
-				"size" "A9B084838C2EE69C742EFCBEF4BB542A"
-				"download" "121872D6CE0D7D081C3F978BC68B9EE6"
-			}
-			"epicark"
-			{
-				"gid" "3FC7C90175D588E911D0DFE14B88868B"
-				"size" "073EB42B34410BF98BF30F9C8C409CD1"
-				"download" "348202A427A1D070430EA77C4C237A2F"
-			}
-			"goodvis"
-			{
-				"gid" "2F5BA6E3B6EC27332ADD3A32E3BCC121"
-				"size" "608B0DCED8B8F79721B940A59A329329"
-				"download" "E62E34FB0CF70C28DBB650AEF82E5C58"
-			}
-			"intelark"
-			{
-				"gid" "B501703069F72024C858A71F6924F630"
-				"size" "777AE67348B0D05D8530016476227938"
-				"download" "BB4D2A27A34C74D342E79165D6ED194F"
-			}
-			"nitradopc"
-			{
-				"gid" "7066A042D8BF384C1B81E6A377502619"
-				"size" "12AE5EAEF3232CFE28B06F2346C1CE51"
-				"download" "1A768341BD1011F7E6E7734E11CB70C2"
-			}
-			"rating_test"
-			{
-				"gid" "06E75F9A03FA2E6C4F93FDA57ACA0B74"
-				"size" "17EEC459A7C6256860FED6BAF6DA2567"
-				"download" "BF579BD94D896723BBC68C45CB75E52A"
-			}
-			"testmaps"
-			{
-				"gid" "9FAF95663DD57037B27906E4B6D87DB3"
-				"size" "84A21151A74974B77B48CBC8FCA3044B"
-				"download" "ECC0EEEA56CC8F21F2F8F00F973B8623"
-			}
-			"continuous"
-			{
-				"gid" "8914D8E15A8806F56144CF0C19CEFCAC"
-				"size" "008CC443EF3D9AC8747E32114B4B09D9"
-				"download" "B7DA86A9DBB5DE6D5D9233605E46E675"
-			}
-			"crossplay"
-			{
-				"gid" "6852B9ACFA89243BB9C0470F1F581AA6"
-				"size" "26089E218C481D5316F16F197A2BA732"
-				"download" "CED3830B6FC27341313FEFEC2E3D3F19"
-			}
-			"enduring"
-			{
-				"gid" "74069D078AD08C685251AFEF2D711DC9"
-				"size" "29B6759F0166E5162E2D238ECE7A5C3D"
-				"download" "D3F7855AECAF42A74A5359D25D8A121F"
-			}
-			"farmhouse"
-			{
-				"gid" "E6026D93F64B380885DFE4B767ECFCFF"
-				"size" "53847A41826C293140B7CBD794BDB7EB"
-				"download" "8FFB75651D2E0B8B3C73815556D98810"
-			}
-			"gander"
-			{
-				"gid" "9D781C8CDF0395612D0E3507ED257FCD"
-				"size" "7695A9AB09970DC530E0E0D97156B1CB"
-				"download" "69CB837506097CCFDF3AC5F504D76927"
-			}
-			"hotfixbeta"
-			{
-				"gid" "BDE79B5AE3E4633CB9EAD7E392E8C715"
-				"size" "FCF652A688965362BE1B9555C659278E"
-				"download" "C51E83A69176690B735E8EA7D74A788A"
-			}
-			"lastknowngood"
-			{
-				"gid" "3525A2A368590E0789767F453FB723B3"
-				"size" "E2EE37C1C15242FA9EDBE6C755BE31ED"
-				"download" "EC64F286CCC8DD38E9DC2FCE93D2CFA1"
-			}
-			"nightraider"
-			{
-				"gid" "E1C86B262FC61D46AAB48124FAD7A0C3"
-				"size" "6B04C6ED556CCDA6B6E8D894E849C6E7"
-				"download" "405707AAC32E7F08CD43B3FC97A2AAC1"
-			}
-			"notingscene"
-			{
-				"gid" "7FEF56284580C0181B63C4F0ECBF5DC2"
-				"size" "66123EC0C614D651D40F705EC4C39459"
-				"download" "2197FB1B16322CAFEB031ADF51DD277F"
-			}
-			"oldplaytest"
-			{
-				"gid" "D5C72412B0B348EAD0B3B3696645A1DB"
-				"size" "1768CEA7F4D7E4300DDC499C2B200EE1"
-				"download" "21BBC15AF47353B516A95E217786211F"
-			}
-			"playtest1"
-			{
-				"gid" "18B8266A55F33583CB983ECBF79B660A"
-				"size" "CD994E8C68CB0DA11C73309593528ABA"
-				"download" "70DE6E7F6DAB8A88A29FA59754DFF6A0"
-			}
-			"qa_staging"
-			{
-				"gid" "038C13A032A2D23A8B3CCDE12EE7AE0E"
-				"size" "78C437465937D77BC2E16B310C83FC8F"
-				"download" "AA4279609AFE3F07ED664F5EAD9EB3B6"
-			}
-			"spam"
-			{
-				"gid" "939EE30AFF494C3CBA46269EC0C11375"
-				"size" "C76C58162BF26B2C71A5CA2F37CC9E81"
-				"download" "057B253D7E32B8DC8E89C16C22334013"
-			}
-			"vector"
-			{
-				"gid" "FCD38DCF958667CE44920037531CF072"
-				"size" "A5387DB27D433DB2F014CE1547FF56E4"
-				"download" "B1226B050931CA25E791E07C39D2A7F5"
-			}
-			"yeoldebuild"
-			{
-				"gid" "83E287B21690BF45E26485FE7A37E321"
-				"size" "E1FC83175FE87FE5A07B6C5FC3A54258"
-				"download" "8F4FE67B8A28AA516AC2882C6C459812"
 			}
 		}
 	}
@@ -597,122 +473,8 @@
 	{
 		"public"
 		{
-			"buildid" "16619563"
-			"timeupdated" "1733338870"
-		}
-		"arktx"
-		{
-			"buildid" "12558309"
-			"pwdrequired" "1"
-			"timeupdated" "1708822436"
-		}
-		"cachechecks"
-		{
-			"buildid" "13869723"
-			"pwdrequired" "1"
-			"timeupdated" "1711544080"
-		}
-		"epicark"
-		{
-			"buildid" "12853112"
-			"pwdrequired" "1"
-			"timeupdated" "1701455136"
-		}
-		"goodvis"
-		{
-			"buildid" "11726932"
-			"pwdrequired" "1"
-			"timeupdated" "1689699902"
-		}
-		"intelark"
-		{
-			"buildid" "13499000"
-			"pwdrequired" "1"
-			"timeupdated" "1710792726"
-		}
-		"nitradopc"
-		{
-			"buildid" "12756425"
-			"pwdrequired" "1"
-			"timeupdated" "1700553312"
-		}
-		"rating_test"
-		{
-			"buildid" "12293807"
-			"pwdrequired" "1"
-			"timeupdated" "1696019738"
-		}
-		"testmaps"
-		{
-			"buildid" "12459505"
-			"pwdrequired" "1"
-			"timeupdated" "1710376614"
-		}
-		"continuous"
-		{
-			"buildid" "16631133"
-			"pwdrequired" "1"
-			"timeupdated" "1733326195"
-		}
-		"crossplay"
-		{
-			"buildid" "16610286"
-			"pwdrequired" "1"
-			"timeupdated" "1733204849"
-		}
-		"enduring"
-		{
-			"buildid" "16176602"
-			"pwdrequired" "1"
-			"timeupdated" "1729839971"
-		}
-		"farmhouse"
-		{
-			"buildid" "15879440"
-			"pwdrequired" "1"
-			"timeupdated" "1727993586"
-		}
-		"gander"
-		{
-			"buildid" "14738062"
-			"pwdrequired" "1"
-			"timeupdated" "1718614276"
-		}
-		"hotfixbeta"
-		{
-			"buildid" "15666420"
-			"pwdrequired" "1"
-			"timeupdated" "1726087703"
-		}
-		"lastknowngood"
-		{
-			"buildid" "16560910"
-			"pwdrequired" "1"
-			"timeupdated" "1733254181"
-		}
-		"nightraider"
-		{
-			"buildid" "15747967"
-			"pwdrequired" "1"
-			"timeupdated" "1726700375"
-		}
-		"notingscene"
-		{
-			"buildid" "14393687"
-			"pwdrequired" "1"
-			"timeupdated" "1715905717"
-		}
-		"oldplaytest"
-		{
-			"buildid" "15960121"
-			"pwdrequired" "1"
-			"timeupdated" "1728345120"
-		}
-		"playtest1"
-		{
-			"buildid" "16414372"
-			"pwdrequired" "1"
-			"timeupdated" "1731638317"
+			"buildid" "16816717"
+			"timeupdated" "1734715142"
 		}
 		"public_test_realm"
 		{
@@ -720,31 +482,8 @@
 			"description" "Try out the new stuff"
 			"timeupdated" "1718658381"
 		}
-		"qa_staging"
-		{
-			"buildid" "16619563"
-			"pwdrequired" "1"
-			"timeupdated" "1733255327"
-		}
-		"spam"
-		{
-			"buildid" "16071754"
-			"pwdrequired" "1"
-			"timeupdated" "1729112411"
-		}
-		"vector"
-		{
-			"buildid" "16251451"
-			"pwdrequired" "1"
-			"timeupdated" "1731968767"
-		}
-		"yeoldebuild"
-		{
-			"buildid" "16164714"
-			"pwdrequired" "1"
-			"timeupdated" "1730342895"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -752,6 +491,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "26494555"
-"_sha" "9be19fe80539cb0b8ca196ce57c3016bec87b74c"
-"_size" "15068"
+"_change_number" "26740351"
+"_sha" "6a834edd272ccd2b55c71899a005ae83aa2d433b"
+"_size" "9193"
