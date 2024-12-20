@@ -22,6 +22,8 @@
 		"english" "1"
 		"german" "1"
 		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
 		"japanese" "1"
 	}
@@ -143,7 +145,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "HOOK"
+			"name" "505 Pulse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Pulse"
 		}
 	}
 	"primary_genre" "23"
@@ -191,6 +198,21 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1711551812"
 	"community_visible_stats" "1"
@@ -220,12 +242,12 @@
 		"19" "3810"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
 	"developer" "Glowlight"
-	"publisher" "HOOK"
+	"publisher" "505 Pulse"
 }
 "config"
 {
@@ -252,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "6108124903139023394"
-				"size" "2102202811"
-				"download" "740043456"
+				"gid" "1577045191836769352"
+				"size" "2102777199"
+				"download" "740498048"
 			}
 		}
 		"encryptedmanifests"
@@ -267,9 +289,9 @@
 			}
 			"beta"
 			{
-				"gid" "C2EC438A5F25D7DB5288D6AAA09C31E7"
-				"size" "A93E861218A8063EEBF97CE4030D0821"
-				"download" "EE2036502A787525920E6B2DA6B3E931"
+				"gid" "09709B1DB5F4BBB8D2FC696A57084C22"
+				"size" "4D7779040B06C7FF98782DA4CB0D6306"
+				"download" "0D6DDA599E6F7F7BDB07D71AB67B224A"
 			}
 			"communitytranslations"
 			{
@@ -279,15 +301,15 @@
 			}
 			"development"
 			{
-				"gid" "EC15304308C3BCA29BE77B3D361DDF94"
-				"size" "47C20EA34ACA523D71846DB6E807C0CD"
-				"download" "C48D3BB92509F555CDE5149F64311B6D"
+				"gid" "4B26BD1BACA41A2921094DF843BDB29A"
+				"size" "B8FB9607489A7E28E317DE4332B3FD32"
+				"download" "B5F7F66E569EC52B534563F7D98BD8E9"
 			}
 			"localization"
 			{
-				"gid" "ED6851C57222F995321DB986356A6BFE"
-				"size" "83CDEBD49C79A04FE377BADFB928EAF6"
-				"download" "9AA7602717F3CDE5B28066DC56500AFB"
+				"gid" "B45A098A83919715D0AF8972019F0F74"
+				"size" "F7DA6DC827D027269F7DEBB364E946AC"
+				"download" "9362AAA1BC5E355F12D564F759AED262"
 			}
 			"steamdeck"
 			{
@@ -297,9 +319,9 @@
 			}
 			"test"
 			{
-				"gid" "DAFC88B2CB29BBE875819F692A830D36"
-				"size" "D341B404704C542268756A2E9BF84EC2"
-				"download" "2B6421B37649F551307F8153942066A7"
+				"gid" "CA30BB327FB597807F7A8591A1BE538A"
+				"size" "2D9B568510593C30D9419E41658222AF"
+				"download" "1E61796453E20F73E084DB03DF3CE9A9"
 			}
 		}
 	}
@@ -307,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "14872678"
-			"timeupdated" "1719932290"
+			"buildid" "16444717"
+			"timeupdated" "1733237804"
 		}
 		"debugging"
 		{
@@ -318,9 +340,9 @@
 		}
 		"beta"
 		{
-			"buildid" "14872678"
+			"buildid" "16444717"
 			"pwdrequired" "1"
-			"timeupdated" "1719581846"
+			"timeupdated" "1731937267"
 		}
 		"communitytranslations"
 		{
@@ -330,15 +352,15 @@
 		}
 		"development"
 		{
-			"buildid" "14872669"
+			"buildid" "16444702"
 			"pwdrequired" "1"
-			"timeupdated" "1719581817"
+			"timeupdated" "1731937173"
 		}
 		"localization"
 		{
-			"buildid" "15590485"
+			"buildid" "16444702"
 			"pwdrequired" "1"
-			"timeupdated" "1725454591"
+			"timeupdated" "1731937183"
 		}
 		"steamdeck"
 		{
@@ -348,9 +370,9 @@
 		}
 		"test"
 		{
-			"buildid" "14872669"
+			"buildid" "16444702"
 			"pwdrequired" "1"
-			"timeupdated" "1719581836"
+			"timeupdated" "1731937260"
 		}
 	}
 }
@@ -368,3 +390,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26541066"
+"_sha" "dc85c5215df7bd5f3804248ecb25e347a3f28eb9"
+"_size" "7358"
