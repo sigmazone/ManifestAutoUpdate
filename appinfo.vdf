@@ -1,0 +1,667 @@
+"appid" "315210"
+"common"
+{
+	"name" "Suicide Squad: Kill the Justice League"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ba2fa681b03ba92bfdd2d874e2c2a74dafe774c8"
+	"logo_small" "ba2fa681b03ba92bfdd2d874e2c2a74dafe774c8_thumb"
+	"icon" "6d177ce2aa04ed40633f9ebc1eaff347e89326aa"
+	"clienticns" "52fc4b4c5590eee4d716cf224e074c27be6e1402"
+	"clienticon" "e73f94297c030b737034c5ba6dcb09a2c2264efc"
+	"clienttga" "efb46be5834146b4c2341241b514a580458c6bf9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"koreana" "수어사이드 스쿼드: 킬 더 저스티스 리그"
+		"brazilian" "Esquadrão Suicida: Mate a Liga da Justiça"
+		"schinese" "自杀小队：消灭正义联盟"
+		"tchinese" "自殺突擊隊：戰勝正義聯盟"
+		"japanese" "スーサイド・スクワッド キル・ザ・ジャスティス・リーグ"
+		"polish" "Legion Samobójców: Śmierć Lidze Sprawiedliwości"
+		"russian" "Отряд самоубийц: Конец Лиги справедливости"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "315210_eula_0"
+			"name" "Suicide Squad: Kill the Justice League EULA"
+			"url" "https://store.steampowered.com//eula/315210_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1707523200"
+		"tested_build_id" "13328208"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.803979931525618"
+			"height_pct" "78.47378014545023"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "ec8a29fb4fd1d7ff9bc7bf12163ea483a2bb98be/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "ec8a29fb4fd1d7ff9bc7bf12163ea483a2bb98be/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ec8a29fb4fd1d7ff9bc7bf12163ea483a2bb98be/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.803979931525618"
+				"height_pct" "78.47378014545023"
+			}
+			"image2x"
+			{
+				"english" "d22683a6202b088fe276a89d07e9c4b5122fad52/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "d22683a6202b088fe276a89d07e9c4b5122fad52/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733763083"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rocksteady Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_27" "1"
+		"category_35" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706896600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "315210"
+	"store_tags"
+	{
+		"0" "4845"
+		"1" "3843"
+		"2" "44868"
+		"3" "1671"
+		"4" "3814"
+		"5" "353880"
+		"6" "19"
+		"7" "3859"
+		"8" "1695"
+		"9" "6730"
+		"10" "11333"
+		"11" "1697"
+		"12" "1774"
+		"13" "4853"
+		"14" "1721"
+		"15" "4667"
+		"16" "4182"
+		"17" "1751"
+		"18" "597"
+		"19" "4754"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"developer" "Rocksteady Studios"
+	"publisher" "Warner Bros. Games"
+	"listofdlc" "2474090,2474100,2474110,2716350"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Suicide Squad Kill the Justice League"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_protected_game.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,arabic,brazilian,latam"
+	"hasdepotsindlc" "0"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"315211"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8308838590983157334"
+				"size" "101766420516"
+				"download" "85486058960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "A8776F2CBB6045C631502A7793D7AA25"
+				"size" "7D0FD525AD15BF8E30FD430EBA6D4B08"
+				"download" "3067D20DE0156526E4B097F2CBFA9970"
+			}
+			"previous_live_build"
+			{
+				"gid" "94B5527D75B3D4F7AB14FD9FE513D1D9"
+				"size" "7908E3508A71D9B0539FAF20FA05E74A"
+				"download" "E44E6537DB9F34C208E0A0C404C18E47"
+			}
+		}
+	}
+	"315212"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1460590018614284788"
+				"size" "6167937536"
+				"download" "5806853344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "A0A037F9C6026893E77C733ED3D50C38"
+				"size" "178C6DDFE32A7C683807EF479972DB54"
+				"download" "5E9BA27E5A7EE916C59221191061F78C"
+			}
+			"previous_live_build"
+			{
+				"gid" "607B676B355907C7AC702FAE0A7C7B85"
+				"size" "D5D8B9F9F0FAB6E3FC163B332DC09136"
+				"download" "145FF94D2E5CE33FB69FB89A7BEACC48"
+			}
+		}
+	}
+	"315213"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4277648864190205713"
+				"size" "6463849942"
+				"download" "6072268960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "A74E163323B6B67BA1D288C03154491C"
+				"size" "AF3CE01FB3F8C2BFD98A8A1860BFF2CA"
+				"download" "F1E3BF219B4D1F753E6576DCAA7C018D"
+			}
+			"previous_live_build"
+			{
+				"gid" "730859E0549EED37F55FE46D400C79EE"
+				"size" "39D4F76386FA3642E3EBE0F0B30D7BD2"
+				"download" "7E091C46D158B8F19FD9CB6E1A921879"
+			}
+		}
+	}
+	"315214"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8887622070768758350"
+				"size" "6117140440"
+				"download" "5751484240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "55DEC195150BEB359D21AAE6969C8F07"
+				"size" "1712A00218DF6EC4C80C96861D12C16E"
+				"download" "7BB4FADAFAC70CB1239361EFCAF72E5C"
+			}
+			"previous_live_build"
+			{
+				"gid" "AAB7F16676BB44E5EE416645837C46C6"
+				"size" "BFA05A785ECDB3CA92CEDE022746D879"
+				"download" "C987D13BF0A154276312A90186A5232A"
+			}
+		}
+	}
+	"315215"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8498651171689777972"
+				"size" "5946448756"
+				"download" "5607714592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "3E70D6383C828E4A4043290E9A719716"
+				"size" "5FAE1D851B71FB25BC6110CFCCC9E43B"
+				"download" "6BA5C54353DFEB02AA6446F9DEB008F6"
+			}
+			"previous_live_build"
+			{
+				"gid" "82E38CCE127F1E5563E9DF9B6FD7E93B"
+				"size" "A457CB001AA0DAC026A8AFE6CC6B5760"
+				"download" "52E5D3A020B09BA9F04BC3EA0EF5F619"
+			}
+		}
+	}
+	"315216"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6438943320285857216"
+				"size" "6124317224"
+				"download" "5766294192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "84F82A531160FAB5FD2587DAB391FCFC"
+				"size" "C74D52C7880C668E27E0B5553CAB6560"
+				"download" "4D68DE3700A93EC7138FFDE0B59B37F2"
+			}
+			"previous_live_build"
+			{
+				"gid" "F6977707AAEB655D46E166522F78FB88"
+				"size" "2081CDB4B1256C7F35D3CA13F72D8F5A"
+				"download" "71AF3870D2151042DDED19746F54EC43"
+			}
+		}
+	}
+	"315217"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5024084034357406585"
+				"size" "6118773966"
+				"download" "5767396624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "6CD3F4D1AED05BCFC8B8C626B58CCA29"
+				"size" "FD7238F7BA0B84DA417BF0F05093E7E2"
+				"download" "FC254C23614A019B86AAA427933379DF"
+			}
+			"previous_live_build"
+			{
+				"gid" "D0AABEF41409A76EACE1043C20A98F82"
+				"size" "49D3B38BF60675340E21DFCF2EEB8F4E"
+				"download" "D514F13583EEA15106CDA0EC7E016A90"
+			}
+		}
+	}
+	"315218"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1814254105353662228"
+				"size" "6124190483"
+				"download" "5758781040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certqa_checks"
+			{
+				"gid" "FB8FA95DD2B95ED51E4233B37022740B"
+				"size" "93E37B3381A3C376DB289FCAAE5A746E"
+				"download" "768043BB02E32118FF09DAF884BA56F6"
+			}
+			"previous_live_build"
+			{
+				"gid" "D29A3E7C077EEDC939CDDB891C45E06A"
+				"size" "7B9E39B0DF30B90719F89337F0A7997F"
+				"download" "C5FCC69436A50A179C59A8CF15A232A3"
+			}
+		}
+	}
+	"2474090"
+	{
+		"dlcappid" "2474090"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16681191"
+			"timeupdated" "1733829023"
+		}
+		"certqa_checks"
+		{
+			"buildid" "15017748"
+			"pwdrequired" "1"
+			"timeupdated" "1721058485"
+		}
+		"previous_live_build"
+		{
+			"buildid" "14667102"
+			"pwdrequired" "1"
+			"timeupdated" "1721910560"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Suicide Squad - Kill the Justice League\\Saved\\SaveGames\\OfflineSaves"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26739041"
+"_sha" "1947739e1e7159a00bff9a4dce2643d2ff21e52c"
+"_size" "12947"
