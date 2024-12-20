@@ -1,0 +1,705 @@
+"appid" "1975580"
+"common"
+{
+	"name" "Wild Woods"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "376f76a291d0b8fb6b80d4a9b75b6e32a60fc616"
+	"clienticon" "d11c84f2c68477791c563a0fd3725e899816db90"
+	"clienttga" "103c223cbb2472b63e9f2b96b56b136f84d2603b"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "喵门镖局 - Wild Woods"
+		"tchinese" "狂野森林 - Wild Woods"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1733788800"
+		"tested_build_id" "16657937"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "585162d7496238eba2bb97d7ac787e7b737d958c/capsule_231x87.jpg"
+		"schinese" "9f2019c170a70f24ad24eedaa145648e61ce82b5/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "85.5309218203034"
+			"height_pct" "82.90192353360247"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "24d500db0700a367f7661403deda95e8f8c4c7da/library_600x900.jpg"
+				"schinese" "9cce4f65897577bbddf5d9d3b4208244d98fcacc/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "24d500db0700a367f7661403deda95e8f8c4c7da/library_600x900_2x.jpg"
+				"schinese" "9cce4f65897577bbddf5d9d3b4208244d98fcacc/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "2ed1e170694f2cfa8aed49bd70cb34d1581f720d/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "2ed1e170694f2cfa8aed49bd70cb34d1581f720d/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "2ed1e170694f2cfa8aed49bd70cb34d1581f720d/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "40e3f1eeb51f2c4b941a94a386cefdb1aa49bb76/logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "85.5309218203034"
+				"height_pct" "82.90192353360247"
+			}
+			"image2x"
+			{
+				"english" "40e3f1eeb51f2c4b941a94a386cefdb1aa49bb76/logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "9b106474a52e0f76fa0f230552734997b2b7e0f2/library_header.jpg"
+				"schinese" "8f8326ed7672c167df7ec514400581ecfa97d48b/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "9b106474a52e0f76fa0f230552734997b2b7e0f2/library_header_2x.jpg"
+				"schinese" "8f8326ed7672c167df7ec514400581ecfa97d48b/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734613138"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Octofox Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733765755"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1975580"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "42804"
+		"2" "1646"
+		"3" "3859"
+		"4" "3843"
+		"5" "3841"
+		"6" "597"
+		"7" "1773"
+		"8" "1702"
+		"9" "4195"
+		"10" "6730"
+		"11" "4305"
+		"12" "19"
+		"13" "4191"
+		"14" "7481"
+		"15" "1684"
+		"16" "4236"
+		"17" "3993"
+		"18" "8945"
+		"19" "7368"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Octofox Games"
+	"publisher" "Daedalic Entertainment"
+	"listofdlc" "3311820"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wild Woods"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wild Woods.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1975581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4222273865624304413"
+				"size" "1235805899"
+				"download" "834013152"
+			}
+			"fallback"
+			{
+				"gid" "4529976799411017747"
+				"size" "1099211936"
+				"download" "764182912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "0EBB56E34585A3DAFFAC833BB7A90608"
+				"size" "0EDDD8A9763DDACF7565A1DA1F605785"
+				"download" "57C4CE21987031B70311367ADFABA5CD"
+			}
+			"gamescom_demo"
+			{
+				"gid" "B2B21959A2E898531E5CEE7F1A39971A"
+				"size" "34AA581B08AB71DA736805D5C9EE85EB"
+				"download" "01D6EDAF374DEB543497B865879815A9"
+			}
+			"iab_build_gc22"
+			{
+				"gid" "EB40D35DA0D1894BC2414155357B481D"
+				"size" "D80E1E35F04D7FA3866B3524A57945BD"
+				"download" "EF6007247F3CAFBB703EA825B7A8FD61"
+			}
+			"milestone"
+			{
+				"gid" "DF2609B4D3CFE1E5B17E596302D8360C"
+				"size" "97C568E5CE7C1FF0CFFDD2F8B2D7706B"
+				"download" "7E648C5D6ECB08844FF180E0D495DE1B"
+			}
+			"beta"
+			{
+				"gid" "9FA7BDBEFF71751DB5757C7214306E82"
+				"size" "3641BFF929E23CCDBDC5571223E70BB3"
+				"download" "23170E2FBC74EB0C14A12FD8781F9433"
+			}
+			"conventions"
+			{
+				"gid" "B1874BBF064BC6E00F60A59D4130D761"
+				"size" "00ABE3AFAA19E51BE54C744BD1E76F4C"
+				"download" "6C7C7A4AE4AD114B1D3D60EBFC4C84DE"
+			}
+			"demo_testing"
+			{
+				"gid" "105BC66E3B315DDF015A6CBA69C21A31"
+				"size" "629423D04065668696F69185DA36053F"
+				"download" "37560C69A0E2D1CC6217C31E8B93B112"
+			}
+			"experimental"
+			{
+				"gid" "5465BB087CBF88F598C5F7AD552899A5"
+				"size" "F341673AA58877A95E080811D374AF90"
+				"download" "2F1E9502E3B599DF50ACA53F49E62C81"
+			}
+			"loca"
+			{
+				"gid" "05FF9F2A4D964283B1E94C90FC98D8BB"
+				"size" "A1072F0FCF3C9692A290CA7FBE501730"
+				"download" "5FC49B1CC4C09DABFCA49D8E28567628"
+			}
+			"playco"
+			{
+				"gid" "E5089186740B8113592BDCFD38070CFB"
+				"size" "20C26CCB138BCC630F8F6E1220481CDE"
+				"download" "73BF369FB03FBC2AFBD89EE909E59B10"
+			}
+			"press_preview"
+			{
+				"gid" "786F00DA73E542AC1219A301549B4997"
+				"size" "7680CD74483C3CDD48C9052CD886A5D5"
+				"download" "30BBB15C243C585B7662BC9ED4005626"
+			}
+			"qa_external"
+			{
+				"gid" "D6785279FCC038F238ABB3E6546F7DD6"
+				"size" "A92D33FA32967DA67DDF8AD67BFF2791"
+				"download" "B5502B3F3CB202F4A81A4DB78AE8D0C9"
+			}
+			"sound"
+			{
+				"gid" "990F7406BCBAF902C2DAFAEAFDABD7A7"
+				"size" "7C424B3BE7B0800DBDC9DB1CE451DDB3"
+				"download" "791438094263A3CAAE79F9502CFA36EB"
+			}
+			"staging"
+			{
+				"gid" "4C13A231C23353D189B2435F082FF74F"
+				"size" "097528F44FF529695C34553FA47AC597"
+				"download" "CF8E40DB1275C27BDB26BB14B0DC77ED"
+			}
+			"tested"
+			{
+				"gid" "91495C170CC3D3B66CCA808190406EA9"
+				"size" "F4A845115E2E725FDE6295BF823B5BF7"
+				"download" "E3770E0B0486BDDD13CCC009EB744303"
+			}
+			"tokyogameshow"
+			{
+				"gid" "95DF2A2E5FB6F2F7DA476E835958E83E"
+				"size" "DFDC607A16B328F1CA32F751FB0A6EAE"
+				"download" "B8383894362519DE17A7194AD70C06ED"
+			}
+			"trailer_1"
+			{
+				"gid" "6971E2AD8F2F8967E0AAB24D593F2218"
+				"size" "D3123E5C78271E24551B18D39FB9942A"
+				"download" "6C40325AECF2F22FBA28FA7F07AE1864"
+			}
+		}
+	}
+	"3311820"
+	{
+		"dlcappid" "3311820"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7336263642254190389"
+				"size" "0"
+				"download" "0"
+			}
+			"fallback"
+			{
+				"gid" "7336263642254190389"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "D7B135BD472FB3F1E040F11FBF605D22"
+				"size" "02D7A79716C252F10A7C4B53FFC7DED2"
+				"download" "02D7A79716C252F10A7C4B53FFC7DED2"
+			}
+			"experimental"
+			{
+				"gid" "A505E1837BE4631D1BA7A1835386884E"
+				"size" "1A74330A54C8D6CA4234337438AC39BA"
+				"download" "1A74330A54C8D6CA4234337438AC39BA"
+			}
+			"loca"
+			{
+				"gid" "993CE5A15C6261F3AF4D7FE53EC0FC19"
+				"size" "ABE1D3CD288244B3D61EC330E75D60C9"
+				"download" "3B402C59889C9EFF0ED1D48886842CE3"
+			}
+			"qa_external"
+			{
+				"gid" "224E35FAC1C530D38089FB6BB14FD502"
+				"size" "1536EE0A24EF34C9CB2A9DF4F93999E2"
+				"download" "1536EE0A24EF34C9CB2A9DF4F93999E2"
+			}
+			"sound"
+			{
+				"gid" "46C49C91516B4BB789F9AB1B6AFEE231"
+				"size" "CF810B1A0FD0F7E6BC55308F6814EFA0"
+				"download" "2B4E5C1FC351B0C7796C3B177600787D"
+			}
+			"staging"
+			{
+				"gid" "34EC0F56D589544EBAC01323D0F9052A"
+				"size" "0290ADEF8CB15B4AB8EFB5C8156B2821"
+				"download" "0290ADEF8CB15B4AB8EFB5C8156B2821"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16801235"
+			"timeupdated" "1734687595"
+		}
+		"demo"
+		{
+			"buildid" "13347544"
+			"pwdrequired" "1"
+			"timeupdated" "1706881227"
+		}
+		"gamescom_demo"
+		{
+			"buildid" "9325522"
+			"pwdrequired" "1"
+			"timeupdated" "1660666047"
+		}
+		"iab_build_gc22"
+		{
+			"buildid" "9348414"
+			"pwdrequired" "1"
+			"timeupdated" "1660917844"
+		}
+		"milestone"
+		{
+			"buildid" "12593223"
+			"pwdrequired" "1"
+			"timeupdated" "1698852742"
+		}
+		"beta"
+		{
+			"buildid" "16814154"
+			"pwdrequired" "1"
+			"timeupdated" "1734698602"
+		}
+		"conventions"
+		{
+			"buildid" "15506843"
+			"pwdrequired" "1"
+			"timeupdated" "1724787006"
+		}
+		"demo_testing"
+		{
+			"buildid" "16618303"
+			"pwdrequired" "1"
+			"timeupdated" "1733248770"
+		}
+		"experimental"
+		{
+			"buildid" "16801825"
+			"pwdrequired" "1"
+			"timeupdated" "1734617892"
+		}
+		"fallback"
+		{
+			"buildid" "16691349"
+			"description" "If an update causes errors, you can use this branch to revert to the previous version"
+			"timeupdated" "1734682456"
+		}
+		"loca"
+		{
+			"buildid" "16644769"
+			"pwdrequired" "1"
+			"timeupdated" "1733410553"
+		}
+		"playco"
+		{
+			"buildid" "16633146"
+			"pwdrequired" "1"
+			"timeupdated" "1733336689"
+		}
+		"press_preview"
+		{
+			"buildid" "16165857"
+			"pwdrequired" "1"
+			"timeupdated" "1730314857"
+		}
+		"qa_external"
+		{
+			"buildid" "16801790"
+			"pwdrequired" "1"
+			"timeupdated" "1734617733"
+		}
+		"sound"
+		{
+			"buildid" "16644769"
+			"pwdrequired" "1"
+			"timeupdated" "1733410506"
+		}
+		"staging"
+		{
+			"buildid" "16801235"
+			"pwdrequired" "1"
+			"timeupdated" "1734685670"
+		}
+		"tested"
+		{
+			"buildid" "15678878"
+			"pwdrequired" "1"
+			"timeupdated" "1726210686"
+		}
+		"tokyogameshow"
+		{
+			"buildid" "15679278"
+			"pwdrequired" "1"
+			"timeupdated" "1726155004"
+		}
+		"trailer_1"
+		{
+			"buildid" "16392369"
+			"pwdrequired" "1"
+			"timeupdated" "1731503138"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "300"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Octofox Games/Wild Woods/SaveData/{64BitSteamID}"
+			"pattern" "*.data"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Octofox Games/Wild Woods/SaveData/{64BitSteamID}"
+					"replace" "unity.OctofoxGames.WildWoods/SaveData/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Octofox Games/Wild Woods/SaveData/{64BitSteamID}"
+					"replace" ".config/unity3d/Octofox Games/Wild Woods/SaveData/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26732981"
+"_sha" "2a4886299b41662e2d602c8bf6c12f0087408763"
+"_size" "14599"
