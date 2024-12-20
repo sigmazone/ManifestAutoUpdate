@@ -18,7 +18,7 @@
 			"id" "489630_eula_0"
 			"name" "Warhammer 40,000: Gladius - Relics of War EULA"
 			"url" "http://store.steampowered.com//eula/489630_eula_0"
-			"version" "1"
+			"version" "2"
 		}
 	}
 	"languages"
@@ -335,6 +335,14 @@
 	"steamconfigurator3rdpartynative" "65535"
 	"uselaunchcommandline" "1"
 	"steamcontrollertouchtemplateindex" "9"
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+		}
+	}
 }
 "depots"
 {
@@ -355,9 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "7584268288841525297"
-				"size" "3552062369"
-				"download" "2145993088"
+				"gid" "1925324279166074977"
+				"size" "3552129955"
+				"download" "2146049184"
 			}
 			"lancherfix"
 			{
@@ -373,9 +381,9 @@
 			}
 			"openbeta"
 			{
-				"gid" "2851479456499715663"
-				"size" "3504512528"
-				"download" "2131078432"
+				"gid" "3443255107412095600"
+				"size" "3554403298"
+				"download" "2146754912"
 			}
 		}
 		"encryptedmanifests"
@@ -388,9 +396,9 @@
 			}
 			"devtest"
 			{
-				"gid" "88F7C165556B87854B93AF35A157E238"
-				"size" "0C7BB002C08F92C5BEC84E1D3FCEBF6F"
-				"download" "A04D724C889283B1A708AE787FC17768"
+				"gid" "9C43AEBC9411D696063907006EB21E31"
+				"size" "9018C2514271A22807D80D7FE2BE69BD"
+				"download" "8DD34209005DBDEF8842CB06BDAD1744"
 			}
 			"gwbranch"
 			{
@@ -410,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "6997907995576543665"
-				"size" "155809205"
-				"download" "40489296"
+				"gid" "5136942754817346398"
+				"size" "154408309"
+				"download" "40033920"
 			}
 			"lancherfix"
 			{
@@ -428,9 +436,9 @@
 			}
 			"openbeta"
 			{
-				"gid" "8341522413478768387"
-				"size" "150027395"
-				"download" "37065600"
+				"gid" "6964953405769793671"
+				"size" "148453235"
+				"download" "36437648"
 			}
 		}
 		"encryptedmanifests"
@@ -443,9 +451,9 @@
 			}
 			"devtest"
 			{
-				"gid" "996F4C89A71C8E421F67B579E592EED2"
-				"size" "2A747458303D8B3D6F44757EA92EAAA4"
-				"download" "C87D9BA9818A88A1CE1AB1D2CCB26F02"
+				"gid" "9F9633CE91687B573785B6B441959CC9"
+				"size" "14409903446FE1F94D2B827839EFA8FD"
+				"download" "4C806F41BD0A7728753914AB2970A210"
 			}
 			"gwbranch"
 			{
@@ -465,9 +473,9 @@
 		{
 			"public"
 			{
-				"gid" "5818790012289218488"
-				"size" "139639250"
-				"download" "35896848"
+				"gid" "3581469161805783227"
+				"size" "139635154"
+				"download" "35891968"
 			}
 			"lancherfix"
 			{
@@ -483,9 +491,9 @@
 			}
 			"openbeta"
 			{
-				"gid" "3022767385549544128"
-				"size" "139674554"
-				"download" "35876576"
+				"gid" "7753762345426903625"
+				"size" "139635154"
+				"download" "35891968"
 			}
 		}
 		"encryptedmanifests"
@@ -498,9 +506,9 @@
 			}
 			"devtest"
 			{
-				"gid" "C6F08B0A68186191CF2E7C50F0A479A1"
-				"size" "7A49EA89A9CE640E136684BB58CA3709"
-				"download" "97794F6FD99D77D81C3C1C02C0F9804D"
+				"gid" "4E7C455047FAAD08C176AE8804721516"
+				"size" "471EE1948D78463A870A4CFC0C42F2A8"
+				"download" "5221248307831A62BDF1C282745E9812"
 			}
 			"gwbranch"
 			{
@@ -1262,7 +1270,7 @@
 		{
 			"public"
 			{
-				"gid" "3726977383662034724"
+				"gid" "7375851679082319866"
 				"size" "128"
 				"download" "192"
 			}
@@ -1271,7 +1279,7 @@
 		{
 			"devtest"
 			{
-				"gid" "094269EA2A2F245F4239CC8A82701092"
+				"gid" "9090F1A1DCC5C955683434DEF90AB3FD"
 				"size" "0CB8622C70FA8F100C5E01E283AF1471"
 				"download" "1382A6BF6A5E12FECB327C333A15DEA4"
 			}
@@ -1287,8 +1295,8 @@
 	{
 		"public"
 		{
-			"buildid" "16682557"
-			"timeupdated" "1733840470"
+			"buildid" "16786526"
+			"timeupdated" "1734697604"
 		}
 		"lancherfix"
 		{
@@ -1310,9 +1318,9 @@
 		}
 		"devtest"
 		{
-			"buildid" "16682557"
+			"buildid" "16786526"
 			"pwdrequired" "1"
-			"timeupdated" "1733760513"
+			"timeupdated" "1734523997"
 		}
 		"gwbranch"
 		{
@@ -1322,9 +1330,9 @@
 		}
 		"openbeta"
 		{
-			"buildid" "16562400"
+			"buildid" "16762076"
 			"description" "Open Beta"
-			"timeupdated" "1732776222"
+			"timeupdated" "1734370654"
 		}
 	}
 }
@@ -1369,6 +1377,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26593950"
-"_sha" "faebeda93162b9a6c34519da6b88b3cd08f0bc68"
-"_size" "27298"
+"_change_number" "26732704"
+"_sha" "0a60f194ab7b63cd27a29629b84ea918b342f4e1"
+"_size" "27403"
