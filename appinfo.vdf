@@ -1,0 +1,548 @@
+"appid" "1304930"
+"common"
+{
+	"name" "The Outlast Trials"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "25b8a5b049091bf6cd84ae3492eddf302535435b"
+	"clienttga" "fd3d40f7103c121f81f5a4397ee9adf5946853e1"
+	"icon" "159a7d66ffd179c920eefe07392e6a261e899965"
+	"logo" "2b62b353f9b61b57d71f0b9e2d4be0e8ad9cde7c"
+	"logo_small" "2b62b353f9b61b57d71f0b9e2d4be0e8ad9cde7c_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1304930_eula_0"
+			"name" "The Outlast Trials EULA"
+			"url" "https://store.steampowered.com//eula/1304930_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1684281600"
+		"tested_build_id" "11239314"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "ae591639831d5d4c5ccf58714902a2407ef6c8ab/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.14379168775488"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "85e8f2e97cbd79031f10c11c8aaef6782f30f86b/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "85e8f2e97cbd79031f10c11c8aaef6782f30f86b/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "66.14379168775488"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3380451742c07730505463e1da14d65c42dbffdd/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3380451742c07730505463e1da14d65c42dbffdd/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734028486"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Barrels"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Red Barrels"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Outlast"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709650042"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1304930"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3859"
+		"2" "1685"
+		"3" "3978"
+		"4" "1721"
+		"5" "3839"
+		"6" "6730"
+		"7" "4747"
+		"8" "1687"
+		"9" "19"
+		"10" "4106"
+		"11" "1662"
+		"12" "5923"
+		"13" "4342"
+		"14" "4175"
+		"15" "4598"
+		"16" "4166"
+		"17" "5794"
+		"18" "21"
+		"19" "12472"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Red Barrels"
+	"publisher" "Red Barrels"
+	"homepage" "https://redbarrelsgames.com/games/the-outlast-trials/"
+	"listofdlc" "2328320,3030370,3307910"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Outlast Trials"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TOTClient.exe"
+			"type" "default"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "3"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchconfigdetails" "A"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1304931"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6923095757335701471"
+				"size" "45267248649"
+				"download" "43085615008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cert"
+			{
+				"gid" "FE1A995AC55707FF3D397BB287B898AD"
+				"size" "186BC61C376AE117234BAAC01DC33E78"
+				"download" "698956872092D63143BCCFA718B49ACA"
+			}
+			"live-candidate"
+			{
+				"gid" "791B67BC33C519F1C61D4348FE55AA88"
+				"size" "65B4AB83654E0FF1330DE5AA691AFE26"
+				"download" "F1AEFA98DAE9BE3473FF4FDB95E3F5FC"
+			}
+			"live-debug"
+			{
+				"gid" "ADF63707549BA33AF3E8BB8319FE5AEB"
+				"size" "766502C25C1276A630D8C527EEBCC4F0"
+				"download" "4D0E78FC8E05107415683DC6B30C23E4"
+			}
+			"media"
+			{
+				"gid" "BB8C5FAE2B5EE1B52609A82665D00B34"
+				"size" "84A7CDF5A296B2A570619F375E636270"
+				"download" "A1AE336407921DC55AEAC59402652D4E"
+			}
+			"oppqa"
+			{
+				"gid" "A46B5AFFBD3752FB8B6DDE6EE7181EE7"
+				"size" "F7A80069521C10373DF56BA7F4EC3017"
+				"download" "ADF5B03D366D16C853B6BB0D47EF6C4C"
+			}
+			"oppqa2"
+			{
+				"gid" "4C4C91137C003465A088675EB7514218"
+				"size" "FF610211316C31FC624501BF3B98EB8F"
+				"download" "B8B7B3B9947C7723CA10395C55617420"
+			}
+			"oppstable"
+			{
+				"gid" "F3ED19D9D25DA70F2010791B859783D9"
+				"size" "48F002A19B0FE2EB54AA255E029A49F0"
+				"download" "216C531A2BECB2FC563FD4C9E6F43254"
+			}
+			"oppstable-debug"
+			{
+				"gid" "FBA50D804E0FCB1ED8B304D873573EEF"
+				"size" "51CB1AB9BEBCF4BBB3E656E22A6D67C3"
+				"download" "55BADB620F16FF59321FFA87874BBBEE"
+			}
+			"opptest"
+			{
+				"gid" "FCB8F1C2E74FC9C692EC4FFE99D357A3"
+				"size" "619DEED5D8293948BD3B5B68848A26FA"
+				"download" "35A1D4F537BCBCDEC0DCB7EFAC0CDC52"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16791851"
+			"timeupdated" "1734706841"
+		}
+		"cert"
+		{
+			"buildid" "13200024"
+			"pwdrequired" "1"
+			"timeupdated" "1705600063"
+		}
+		"live-candidate"
+		{
+			"buildid" "16791851"
+			"pwdrequired" "1"
+			"timeupdated" "1734557694"
+		}
+		"live-debug"
+		{
+			"buildid" "15610435"
+			"pwdrequired" "1"
+			"timeupdated" "1725976871"
+		}
+		"media"
+		{
+			"buildid" "12524441"
+			"pwdrequired" "1"
+			"timeupdated" "1698180402"
+		}
+		"oppqa"
+		{
+			"buildid" "16813055"
+			"pwdrequired" "1"
+			"timeupdated" "1734697493"
+		}
+		"oppqa2"
+		{
+			"buildid" "16799301"
+			"pwdrequired" "1"
+			"timeupdated" "1734627798"
+		}
+		"oppstable"
+		{
+			"buildid" "16813521"
+			"pwdrequired" "1"
+			"timeupdated" "1734704077"
+		}
+		"oppstable-debug"
+		{
+			"buildid" "16813055"
+			"pwdrequired" "1"
+			"timeupdated" "1734704116"
+		}
+		"opptest"
+		{
+			"buildid" "16804810"
+			"pwdrequired" "1"
+			"timeupdated" "1734636204"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "OPP/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocal"
+			"path" "OPP/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26735007"
+"_sha" "9457478f428b42105401a3448c04f69d20e19b70"
+"_size" "10180"
