@@ -1,0 +1,868 @@
+"appid" "333640"
+"common"
+{
+	"name" "Caves of Qud"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "cb1f99e528ea29401cf47a9ffaeed9ed707611f6"
+	"logo_small" "cb1f99e528ea29401cf47a9ffaeed9ed707611f6_thumb"
+	"icon" "d301aa7d579383e6eeedf4a9cd26d703e6e5d5e0"
+	"clienttga" "32628130336a1e18c4b0a4f40b80071b02fdf5c3"
+	"clienticon" "3c11892d7318a84959ff405c76a54fbd0898da67"
+	"linuxclienticon" "e1d6706296852f6a435dac86afe2492d1ede0eff"
+	"releasestate" "released"
+	"clienticns" "371982ca470b0f1fec614d6bdca062a18e8e7c5a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "333640_eula_0"
+			"name" "Caves of Qud EULA"
+			"url" "http://store.steampowered.com//eula/333640_eula_0"
+		}
+	}
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645747200"
+		"tested_build_id" "8233278"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "33c8dafcca0476f3f8927a2ab09917e93665f0e3/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "08b49eb96720867bf18bf1feff1fa57cad93da97/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "08b49eb96720867bf18bf1feff1fa57cad93da97/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "01f2af293d788089e23359918c81baf5057d83a1/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "01f2af293d788089e23359918c81baf5057d83a1/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734012058"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Freehold Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kitfox Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1733417754"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "333640"
+	"store_tags"
+	{
+		"0" "5125"
+		"1" "4325"
+		"2" "1695"
+		"3" "1677"
+		"4" "4137"
+		"5" "3942"
+		"6" "4711"
+		"7" "454187"
+		"8" "1742"
+		"9" "1716"
+		"10" "122"
+		"11" "1662"
+		"12" "4166"
+		"13" "4747"
+		"14" "3964"
+		"15" "4474"
+		"16" "4026"
+		"17" "1669"
+		"18" "4182"
+		"19" "6426"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Freehold Games"
+	"publisher" "Kitfox Games"
+	"homepage" "http://www.cavesofqud.com"
+	"listofdlc" "3252660"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Caves of Qud"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CoQ.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CoQ.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "CoQ.x86_64"
+			"description" "Launch 64-bit"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "CoQ.x86"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "333640"
+	"hasdepotsindlc" "0"
+	"333641"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4087699009518346613"
+				"size" "1263297313"
+				"download" "850392432"
+			}
+			"2.0.199.x"
+			{
+				"gid" "6701830168070118875"
+				"size" "357333270"
+				"download" "173116960"
+			}
+			"200.x"
+			{
+				"gid" "6867159317519759938"
+				"size" "438918654"
+				"download" "242870112"
+			}
+			"201.x"
+			{
+				"gid" "9033853524968867751"
+				"size" "479697271"
+				"download" "267440592"
+			}
+			"202.x"
+			{
+				"gid" "6873933930587183182"
+				"size" "543782360"
+				"download" "301717344"
+			}
+			"203.x"
+			{
+				"gid" "6143968660986162517"
+				"size" "621477549"
+				"download" "329336688"
+			}
+			"2.0.204.118"
+			{
+				"gid" "3529099003503298624"
+				"size" "727537464"
+				"download" "425424368"
+			}
+			"205.x"
+			{
+				"gid" "1654017913296155990"
+				"size" "876039762"
+				"download" "559212976"
+			}
+			"2.0.206.78"
+			{
+				"gid" "5981098538961521055"
+				"size" "1032142955"
+				"download" "692557408"
+			}
+			"2.0.206.x"
+			{
+				"gid" "5981098538961521055"
+				"size" "1032142955"
+				"download" "692557408"
+			}
+			"207.x"
+			{
+				"gid" "2161701815752363537"
+				"size" "1099936542"
+				"download" "719584080"
+			}
+			"208.18"
+			{
+				"gid" "4093648339539194700"
+				"size" "1101820666"
+				"download" "719992864"
+			}
+			"208.21"
+			{
+				"gid" "6854186246781765503"
+				"size" "1101849959"
+				"download" "719999792"
+			}
+			"208.x"
+			{
+				"gid" "8912957930835752013"
+				"size" "1101849407"
+				"download" "720000064"
+			}
+			"209.40"
+			{
+				"gid" "3523211082148264264"
+				"size" "1263293491"
+				"download" "850393984"
+			}
+			"beta"
+			{
+				"gid" "4087699009518346613"
+				"size" "1263297313"
+				"download" "850392432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"endgame-testing"
+			{
+				"gid" "F586DE37F9D7A0173A728FEAD0690B48"
+				"size" "2DDDB1847B84434FFB2ABF9CED476432"
+				"download" "A763ADFF20F4A3221F5EE1E348A2A3C5"
+			}
+			"endgame-debug"
+			{
+				"gid" "FC23231D47CDBCF8636CCEF4BC314A3D"
+				"size" "126CDB5825AF3CC9A49711D3C71482B7"
+				"download" "789CCB7593304181CAFB587066FE1745"
+			}
+			"igf2024"
+			{
+				"gid" "BC6838103E6E0EE14B8E7D1213176380"
+				"size" "21FC1AC0705E4D7C83C04D4FC6368EF8"
+				"download" "E38B6D9B09ECF2738E18600D42C4ED73"
+			}
+		}
+	}
+	"333642"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5481317506511334760"
+				"size" "1242526253"
+				"download" "844598704"
+			}
+			"2.0.199.x"
+			{
+				"gid" "4439814972796118669"
+				"size" "417658188"
+				"download" "187633216"
+			}
+			"200.x"
+			{
+				"gid" "4856953902170906748"
+				"size" "499201940"
+				"download" "257769344"
+			}
+			"201.x"
+			{
+				"gid" "4479534606753561197"
+				"size" "486727179"
+				"download" "269524112"
+			}
+			"202.x"
+			{
+				"gid" "1151155505709640605"
+				"size" "546335289"
+				"download" "302717200"
+			}
+			"203.x"
+			{
+				"gid" "3354101054263150081"
+				"size" "623545555"
+				"download" "330230896"
+			}
+			"2.0.204.118"
+			{
+				"gid" "2387676736275971135"
+				"size" "758919208"
+				"download" "434731456"
+			}
+			"205.x"
+			{
+				"gid" "5379001091703387743"
+				"size" "886070372"
+				"download" "563342512"
+			}
+			"2.0.206.78"
+			{
+				"gid" "8362737539985715821"
+				"size" "1031149543"
+				"download" "693791200"
+			}
+			"2.0.206.x"
+			{
+				"gid" "8362737539985715821"
+				"size" "1031149543"
+				"download" "693791200"
+			}
+			"207.x"
+			{
+				"gid" "3864438822598881462"
+				"size" "1071504427"
+				"download" "715908720"
+			}
+			"208.18"
+			{
+				"gid" "4815172662914891700"
+				"size" "1073391033"
+				"download" "716329152"
+			}
+			"208.21"
+			{
+				"gid" "1519867129733512413"
+				"size" "1073420350"
+				"download" "716336160"
+			}
+			"208.x"
+			{
+				"gid" "3178455865806404355"
+				"size" "1073419774"
+				"download" "716338784"
+			}
+			"209.40"
+			{
+				"gid" "7611628853010366211"
+				"size" "1242522943"
+				"download" "844600272"
+			}
+			"beta"
+			{
+				"gid" "5481317506511334760"
+				"size" "1242526253"
+				"download" "844598704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"endgame-testing"
+			{
+				"gid" "34F1B228ADB6A7AB8015307EBDCBE795"
+				"size" "1F744C24D5844EE23C416E5710F716EE"
+				"download" "DCB0A52107AED8FF66EBF1B57C06E6D6"
+			}
+			"endgame-debug"
+			{
+				"gid" "2AF107D18DCA4DB8F76A933442A3FBD3"
+				"size" "6CA3B3FCB003AD9D0B33569A3E70B290"
+				"download" "7F9113A78D5D5D18866381EE3D965DCC"
+			}
+			"igf2024"
+			{
+				"gid" "BAEB182641600C839BD5DB0A09AF166A"
+				"size" "3147BEF8A6F9DB71896826BA2D8F20A9"
+				"download" "A5A68CBD4ADE4C4FA7F7FC9E561EE1F9"
+			}
+		}
+	}
+	"333643"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "491241801661801885"
+				"size" "1249393936"
+				"download" "839063968"
+			}
+			"2.0.199.x"
+			{
+				"gid" "2487641577839930845"
+				"size" "398480826"
+				"download" "185229856"
+			}
+			"200.x"
+			{
+				"gid" "333747000960844535"
+				"size" "480006330"
+				"download" "255388240"
+			}
+			"201.x"
+			{
+				"gid" "4341765644744012342"
+				"size" "496200491"
+				"download" "270646272"
+			}
+			"202.x"
+			{
+				"gid" "40880381980516661"
+				"size" "593313958"
+				"download" "304918192"
+			}
+			"203.x"
+			{
+				"gid" "4195306017120895437"
+				"size" "670860893"
+				"download" "332481360"
+			}
+			"2.0.204.118"
+			{
+				"gid" "7787428230785798334"
+				"size" "736422197"
+				"download" "426780624"
+			}
+			"205.x"
+			{
+				"gid" "9025523138061902582"
+				"size" "860174566"
+				"download" "554308064"
+			}
+			"2.0.206.78"
+			{
+				"gid" "7280860981450069976"
+				"size" "1004676329"
+				"download" "684616656"
+			}
+			"2.0.206.x"
+			{
+				"gid" "7280860981450069976"
+				"size" "1004676329"
+				"download" "684616656"
+			}
+			"207.x"
+			{
+				"gid" "6321374123857375721"
+				"size" "1086036588"
+				"download" "708212928"
+			}
+			"208.18"
+			{
+				"gid" "3876298189175425258"
+				"size" "1087920712"
+				"download" "708620544"
+			}
+			"208.21"
+			{
+				"gid" "5808195320761141135"
+				"size" "1087950517"
+				"download" "708627776"
+			}
+			"208.x"
+			{
+				"gid" "7926475179261707804"
+				"size" "1087949965"
+				"download" "708628416"
+			}
+			"209.40"
+			{
+				"gid" "2744039184657456171"
+				"size" "1249390626"
+				"download" "839062752"
+			}
+			"beta"
+			{
+				"gid" "491241801661801885"
+				"size" "1249393936"
+				"download" "839063968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"endgame-testing"
+			{
+				"gid" "31638979E4DD927B517A5E4B227B9AED"
+				"size" "08463ACD8E67E7DC78D9BEE51C60F1FB"
+				"download" "76F822EE710AB98F0DA0EDDE778FE83D"
+			}
+			"endgame-debug"
+			{
+				"gid" "5DC0E1EF10E6C10A1DEF44919C47F264"
+				"size" "2BF13F5DF468216529B851DCE675DF94"
+				"download" "40B1E00BC978AED507BE1B7BB884513D"
+			}
+			"igf2024"
+			{
+				"gid" "33E0C4EAB276225F1CCD623CBFDEB7A2"
+				"size" "23C2455AA61969183E874849B8503C32"
+				"download" "148791956E2D64E3D723BE16934764ED"
+			}
+		}
+	}
+	"3252660"
+	{
+		"dlcappid" "3252660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8893803301824573414"
+				"size" "87741"
+				"download" "51440"
+			}
+			"209.40"
+			{
+				"gid" "8893803301824573414"
+				"size" "87741"
+				"download" "51440"
+			}
+			"beta"
+			{
+				"gid" "8893803301824573414"
+				"size" "87741"
+				"download" "51440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"endgame-testing"
+			{
+				"gid" "CD6B1FFAEB5D5939D576329D3AED08DA"
+				"size" "4148C418BD27B6E7FFE5DFB4BDE03818"
+				"download" "F5364D37B1145F55C35C040359A72100"
+			}
+			"endgame-debug"
+			{
+				"gid" "5DD37EF10580FC93A49DCDC55083A4E9"
+				"size" "A9A819312B4745D4CD2AF1169729CCF1"
+				"download" "0BC09B0FD457B14EE3DC15E8F4D8560A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16803825"
+			"timeupdated" "1734628317"
+		}
+		"2.0.199.x"
+		{
+			"buildid" "5098304"
+			"description" "199.x"
+			"timeupdated" "1590807200"
+		}
+		"200.x"
+		{
+			"buildid" "5567676"
+			"description" "200.x"
+			"timeupdated" "1722640082"
+		}
+		"201.x"
+		{
+			"buildid" "7510588"
+			"description" "201.x"
+			"timeupdated" "1723244947"
+		}
+		"202.x"
+		{
+			"buildid" "7992958"
+			"description" "202.x"
+			"timeupdated" "1722640109"
+		}
+		"203.x"
+		{
+			"buildid" "9210438"
+			"description" "203.x"
+			"timeupdated" "1723244979"
+		}
+		"2.0.204.118"
+		{
+			"buildid" "12567608"
+			"description" "204.x"
+			"timeupdated" "1700029696"
+		}
+		"205.x"
+		{
+			"buildid" "12278835"
+			"description" "205.x"
+			"timeupdated" "1729119424"
+		}
+		"2.0.206.78"
+		{
+			"buildid" "14462303"
+			"description" "206.78"
+			"timeupdated" "1717639171"
+		}
+		"2.0.206.x"
+		{
+			"buildid" "14462303"
+			"description" "206.x"
+			"timeupdated" "1717389197"
+		}
+		"207.x"
+		{
+			"buildid" "16153878"
+			"description" "207.x"
+			"timeupdated" "1729700960"
+		}
+		"208.18"
+		{
+			"buildid" "16225580"
+			"description" "208.18"
+			"timeupdated" "1730598065"
+		}
+		"208.21"
+		{
+			"buildid" "16371160"
+			"description" "208.21"
+			"timeupdated" "1731460533"
+		}
+		"208.x"
+		{
+			"buildid" "16385910"
+			"description" "208.x"
+			"timeupdated" "1731460774"
+		}
+		"209.40"
+		{
+			"buildid" "16740086"
+			"description" "209.40"
+			"timeupdated" "1734552256"
+		}
+		"beta"
+		{
+			"buildid" "16803825"
+			"description" "beta"
+			"timeupdated" "1734628270"
+		}
+		"endgame-testing"
+		{
+			"buildid" "16608421"
+			"pwdrequired" "1"
+			"timeupdated" "1733523899"
+		}
+		"endgame-debug"
+		{
+			"buildid" "16608453"
+			"pwdrequired" "1"
+			"timeupdated" "1733190182"
+		}
+		"igf2024"
+		{
+			"buildid" "16115772"
+			"pwdrequired" "1"
+			"timeupdated" "1729463878"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Freehold Games/CavesOfQud/Synced"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Freehold Games/CavesOfQud/Synced"
+					"replace" "com.FreeholdGames.CavesOfQud/Synced"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Freehold Games/CavesOfQud/Synced"
+					"replace" ".config/unity3d/Freehold Games/CavesOfQud/Synced"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26718049"
+"_sha" "a623a0e83dd1185faee8277565c9fbc1f3567bba"
+"_size" "16318"
