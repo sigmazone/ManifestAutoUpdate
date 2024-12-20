@@ -72,6 +72,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
@@ -97,11 +98,18 @@
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "b40f302b0bf43d373519a4651e7c5659553fd187/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "b40f302b0bf43d373519a4651e7c5659553fd187/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b40f302b0bf43d373519a4651e7c5659553fd187/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -122,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1724960725"
+	"store_asset_mtime" "1732207750"
 	"associations"
 	{
 		"0"
@@ -156,6 +164,7 @@
 		"category_17" "1"
 		"category_36" "1"
 		"category_38" "1"
+		"category_22" "1"
 		"category_53" "1"
 		"category_62" "1"
 	}
@@ -182,8 +191,8 @@
 		"6" "3859"
 		"7" "7368"
 		"8" "699"
-		"9" "11104"
-		"10" "21978"
+		"9" "21978"
+		"10" "11104"
 		"11" "4305"
 		"12" "3839"
 		"13" "1697"
@@ -204,7 +213,7 @@
 	"publisher" "Horizon Hobby, LLC"
 	"homepage" "https://realflight.com/"
 	"gamemanualurl" "https://store.steampowered.com/manual/2069310/"
-	"listofdlc" "2253010,2253120,2253121,2253122,2253123,2253124,2377650,2385000,2385001,2385002,2385130,2396270,2396271,2396280,2396281,2396282,2396283,2396284,2396285,2396286,2396287,2396288,2417210,2759290,2759300,2759310,2759320,2759330,2759340,2759350,2759360,2759370,2759380,2759390,2759400,2759410,2759420,2759430,2759440,2759490,2782000"
+	"listofdlc" "2253010,2253120,2253121,2253122,2253123,2253124,2377650,2385000,2385001,2385002,2385130,2396270,2396271,2396280,2396281,2396282,2396283,2396284,2396285,2396286,2396287,2396288,2417210,2759290,2759300,2759310,2759320,2759330,2759340,2759350,2759360,2759370,2759380,2759390,2759400,2759410,2759420,2759430,2759440,2759450,2759460,2759470,2759480,2759490,2759500,2782000"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -264,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "8688522995790258259"
-				"size" "14167396473"
-				"download" "6351098064"
+				"gid" "2774750254216250004"
+				"size" "14367775853"
+				"download" "6439829088"
 			}
 			"directx9_deprecated"
 			{
@@ -276,9 +285,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "8688522995790258259"
-				"size" "14167396473"
-				"download" "6351098064"
+				"gid" "2774750254216250004"
+				"size" "14367775853"
+				"download" "6439829088"
 			}
 			"publicbeta_directx11"
 			{
@@ -287,58 +296,13 @@
 				"download" "7636950800"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "A2D3AC45A146E9E549088403BCBC0933"
-				"size" "2DD3DFC267C89A266B6D34B6CBA312A3"
-				"download" "11744FCD6BE0ABB76415F05A54F92422"
-			}
-			"internal_directx"
-			{
-				"gid" "9455F18767DAE9FE2E561F00CCD0CC9E"
-				"size" "A37A16A0BC5624617B8DF9E58CA56535"
-				"download" "398C159EFE37A7AAFC87295AE428BADC"
-			}
-			"internal"
-			{
-				"gid" "01F2EBD1B7C71502862E1AA4DD342E52"
-				"size" "2DAF73201D7151653498754CFB863741"
-				"download" "46E0695A5DFB33C74DC2B01444FC2BA6"
-			}
-			"privatebeta"
-			{
-				"gid" "3E4717FD0EA1BC7DA599260BFC666817"
-				"size" "2EFBF1FF10A75E24E44B96AE7E4CAC45"
-				"download" "1BD70F22CC2A39A73480750B41BC593E"
-			}
-			"privatebeta_directx"
-			{
-				"gid" "0A7D3F223278FC6432EE04B4827B8B40"
-				"size" "473EDB98EDB4E00DBD303CAF8C7188E9"
-				"download" "DCF76D4C28D81C8C85FF47F4711A4F69"
-			}
-			"ryantest"
-			{
-				"gid" "39941D5140F8FB7802AE58311F4FC608"
-				"size" "72F4FD57497EB9A07707D62836908D9B"
-				"download" "DF41C6BCB2DCDD07040F80BF84A31AF1"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15547888"
-			"timeupdated" "1725051927"
-		}
-		"demo"
-		{
-			"buildid" "10722872"
-			"pwdrequired" "1"
-			"timeupdated" "1678307130"
+			"buildid" "16808030"
+			"timeupdated" "1734657434"
 		}
 		"directx9_deprecated"
 		{
@@ -346,35 +310,11 @@
 			"description" "Final DirectX 9-based version for computers that don\'t support DirectX 11"
 			"timeupdated" "1700011806"
 		}
-		"internal_directx"
-		{
-			"buildid" "12965208"
-			"pwdrequired" "1"
-			"timeupdated" "1704480384"
-		}
-		"internal"
-		{
-			"buildid" "15547888"
-			"pwdrequired" "1"
-			"timeupdated" "1725051878"
-		}
-		"privatebeta"
-		{
-			"buildid" "15547888"
-			"pwdrequired" "1"
-			"timeupdated" "1725044517"
-		}
-		"privatebeta_directx"
-		{
-			"buildid" "15619607"
-			"pwdrequired" "1"
-			"timeupdated" "1725647058"
-		}
 		"publicbeta"
 		{
-			"buildid" "15547888"
+			"buildid" "16808030"
 			"description" "Distribution of public beta versions"
-			"timeupdated" "1725051906"
+			"timeupdated" "1734657460"
 		}
 		"publicbeta_directx11"
 		{
@@ -382,15 +322,10 @@
 			"description" "DirectX 11 public beta"
 			"timeupdated" "1715969272"
 		}
-		"ryantest"
-		{
-			"buildid" "15619607"
-			"pwdrequired" "1"
-			"timeupdated" "1725646880"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25345625"
-"_sha" "908cc60d3cb01ca6470c47f3768faa9967209987"
-"_size" "7749"
+"_change_number" "26724971"
+"_sha" "30a79b5cc40022d0b948ff4b22a407f951056757"
+"_size" "6341"
