@@ -89,7 +89,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726899988"
+	"store_asset_mtime" "1733053227"
 	"associations"
 	{
 		"0"
@@ -121,6 +121,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -215,7 +216,7 @@
 		"19" "4747"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "67"
 }
 "extended"
 {
@@ -238,10 +239,25 @@
 				"osarch" "64"
 			}
 		}
+		"1"
+		{
+			"executable" "Nympho_diary.pdf"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "3411040"
+			}
+			"description_loc"
+			{
+				"english" "Nympho Diary"
+			}
+			"description" "Nympho Diary"
+		}
 	}
 }
 "depots"
 {
+	"hasdepotsindlc" "1"
 	"228989"
 	{
 		"config"
@@ -275,23 +291,32 @@
 		{
 			"public"
 			{
-				"gid" "5178017727676101413"
-				"size" "16886014757"
-				"download" "15761875680"
+				"gid" "4426411536824783511"
+				"size" "17387330949"
+				"download" "16209412800"
 			}
+		}
+	}
+	"3411041"
+	{
+		"dlcappid" "3411040"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16552496"
-			"timeupdated" "1732730502"
+			"buildid" "16804077"
+			"timeupdated" "1734631747"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26430451"
-"_sha" "83becea05183f5d089f368ec6435a7cc7f00b21d"
-"_size" "4413"
+"_change_number" "26724796"
+"_sha" "a44a9e7b38ea35cd8b30089bcbb1e1d4ab0c0e09"
+"_size" "4805"
