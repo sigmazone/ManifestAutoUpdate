@@ -1,0 +1,394 @@
+"appid" "1995520"
+"common"
+{
+	"name" "Pax Dei"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1995520_eula_1"
+			"name" "Pax Dei EULA"
+			"url" "https://store.steampowered.com//eula/1995520_eula_1"
+			"version" "4"
+		}
+	}
+	"icon" "c8178ae9ac6e1def369e427b02bcdea967852493"
+	"clienticon" "090060e1bbb2683612023fdaf782f51ea864ed8d"
+	"clienttga" "00699e2536dd4f45021784d26f04f55d24140f89"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1733356800"
+		"tested_build_id" "14839992"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "6100fdafaa7612cf95d7122f342ca91bb515539d/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732877050"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mainframe Industries"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mainframe Industries"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "New Tales"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "29"
+		"1" "3"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1718711220"
+	"community_hub_visible" "1"
+	"gameid" "1995520"
+	"store_tags"
+	{
+		"0" "1754"
+		"1" "3810"
+		"2" "4172"
+		"3" "122"
+		"4" "3834"
+		"5" "1695"
+		"6" "1775"
+		"7" "6730"
+		"8" "1702"
+		"9" "4747"
+		"10" "4231"
+		"11" "128"
+		"12" "4175"
+		"13" "1662"
+		"14" "1697"
+		"15" "1685"
+		"16" "7332"
+		"17" "493"
+		"18" "1684"
+		"19" "4166"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "Mainframe Industries"
+	"publisher" "Mainframe Industries"
+	"homepage" "https://playpaxdei.com"
+	"listofdlc" "2919380,2919390,2919400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "PaxDei"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PaxDei.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1995521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8337388819380030524"
+				"size" "28396573984"
+				"download" "24703203968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"main"
+			{
+				"gid" "3C3341C7BEC0B9C520E19028282083D4"
+				"size" "520AC172F9B0681260555303713A8950"
+				"download" "93B054E28C79C64241ADA2D52FC4609B"
+			}
+			"main_shipping"
+			{
+				"gid" "59A1669C8B6A5C483825EF1422CABA8B"
+				"size" "FF317C29B71375E5B58881343B08838D"
+				"download" "DE54ABC441FD98B3BF471457542E7083"
+			}
+			"release_35_verse_2"
+			{
+				"gid" "4724B98BCAF9225D761B89E43400E05E"
+				"size" "CD8B8329A4E6091E18BEBC7B5ABDDF1E"
+				"download" "4C724DF3702DA241298276DAADE3B67F"
+			}
+			"release_35_verse_2_shipping"
+			{
+				"gid" "67F3A28762D44B96937C87A51865A202"
+				"size" "69E93F162DA08179CC6F42A2A13980D2"
+				"download" "7EAB220FF627E74B2E8ABBC05A1B7C38"
+			}
+			"foundation"
+			{
+				"gid" "4EE7B6BA4B1DFB28F5D7D674855EA59A"
+				"size" "EE030C2E60C877B18593F57DCE789144"
+				"download" "655E4D038EF225F7E9B10D39B28F8033"
+			}
+			"framework-dev"
+			{
+				"gid" "C98BD81BB0430F145978CF2383376893"
+				"size" "B097F8FF9E98FB61CCD44DD96177BEE6"
+				"download" "261797996E447DBF62FDECEE72324A33"
+			}
+			"task_art_trailer"
+			{
+				"gid" "7314C38F0C6F42D4487CF9937065E17D"
+				"size" "D7B3B89DF70CA4E795ADDB5BC855C5C9"
+				"download" "D7ADDAACF04DF6E81AEAC6E24D68A630"
+			}
+			"team_world"
+			{
+				"gid" "7A18A86AA99845DDFB320AA848F2D750"
+				"size" "C4B26670A3EDB1B93EC51DEF44AF5AA2"
+				"download" "277811942908B42C82B817FD576A87E3"
+			}
+			"prod_shipping_build"
+			{
+				"gid" "7124EE6EFCDB4C4665F140C984832C34"
+				"size" "CFE645BFAB3292FC30EC04F66CB15E75"
+				"download" "E8E292CF9248E0162E303C473746CEAC"
+			}
+			"proddevelopmentbuild"
+			{
+				"gid" "077493832DE9D0EF454704CFA05122A4"
+				"size" "BB6A781824188DC884EE81138BE6701C"
+				"download" "2C793D8AE9F6B6DFB9C0889B2FC2D109"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16772082"
+			"timeupdated" "1734606029"
+		}
+		"main"
+		{
+			"buildid" "16808167"
+			"pwdrequired" "1"
+			"timeupdated" "1734688134"
+		}
+		"main_shipping"
+		{
+			"buildid" "16809390"
+			"pwdrequired" "1"
+			"timeupdated" "1734688157"
+		}
+		"release_35_verse_2"
+		{
+			"buildid" "16771674"
+			"pwdrequired" "1"
+			"timeupdated" "1734439892"
+		}
+		"release_35_verse_2_shipping"
+		{
+			"buildid" "16772085"
+			"pwdrequired" "1"
+			"timeupdated" "1734439916"
+		}
+		"foundation"
+		{
+			"buildid" "16687640"
+			"pwdrequired" "1"
+			"timeupdated" "1733825132"
+		}
+		"framework-dev"
+		{
+			"buildid" "16282481"
+			"pwdrequired" "1"
+			"timeupdated" "1730717005"
+		}
+		"task_art_trailer"
+		{
+			"buildid" "14059716"
+			"pwdrequired" "1"
+			"timeupdated" "1713205776"
+		}
+		"team_world"
+		{
+			"buildid" "16650737"
+			"pwdrequired" "1"
+			"timeupdated" "1733474426"
+		}
+		"prod_shipping_build"
+		{
+			"buildid" "16710654"
+			"pwdrequired" "1"
+			"timeupdated" "1734014096"
+		}
+		"proddevelopmentbuild"
+		{
+			"buildid" "16771687"
+			"pwdrequired" "1"
+			"timeupdated" "1734602542"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26730481"
+"_sha" "ffc2b8113289a85aa46fbcdc802d84ece9909b23"
+"_size" "7501"
