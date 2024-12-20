@@ -46,6 +46,55 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1733529600"
+		"tested_build_id" "16560054"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -203,7 +252,7 @@
 		"19" "1664"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -270,18 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "4953392967286979612"
-				"size" "4942075865"
-				"download" "4663447904"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ss_rd_for_test"
-			{
-				"gid" "5CE79F3A7C17052D5E68A5ABB3BFA6D7"
-				"size" "F5E913CFC798B7DFBC952B8A253166B2"
-				"download" "D797E43AB5ADF0BCD0177DCF42690F76"
+				"gid" "2880819464268331259"
+				"size" "4971512362"
+				"download" "4690542048"
 			}
 		}
 	}
@@ -289,16 +329,11 @@
 	{
 		"public"
 		{
-			"buildid" "16560054"
-			"timeupdated" "1733219752"
-		}
-		"ss_rd_for_test"
-		{
-			"buildid" "16560054"
-			"pwdrequired" "1"
-			"timeupdated" "1732756952"
+			"buildid" "16798058"
+			"timeupdated" "1734667087"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -319,6 +354,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26467647"
-"_sha" "304748575c858a25de43ea6e38caa18df8400864"
-"_size" "5381"
+"_change_number" "26726867"
+"_sha" "cad0d2b88cac13811e7f3346070d8cf3805eb60c"
+"_size" "6321"
