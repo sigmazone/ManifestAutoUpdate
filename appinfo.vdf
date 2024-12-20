@@ -1,0 +1,290 @@
+"appid" "2399420"
+"common"
+{
+	"name" "Le Mans Ultimate"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "aa7f73aa4c412fc0fa8d6b1921e8d8ac471cd2c2"
+	"clienttga" "1b61005b472746a8d04b29aac40fe663f9408c96"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "5464fece9c8ce0d0fbd99aedeb8b536521aa1f29"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"name_localized"
+	{
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2399420_eula_0"
+			"name" "Le Mans Ultimate EULA"
+			"url" "https://store.steampowered.com//eula/2399420_eula_0"
+			"version" "3"
+		}
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1709251200"
+		"tested_build_id" "13577212"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "193f08cb39639c78cf87a14b51de788f11952695/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.030004086947656"
+			"height_pct" "88.24742475225433"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.030004086947656"
+				"height_pct" "88.24742475225433"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1cc2f20fe434012e150eab611790c62de66f0ba2/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733235799"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio 397"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Studio 397"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_18" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708430362"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2399420"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1100687"
+		"2" "1644"
+		"3" "21978"
+		"4" "3859"
+		"5" "4175"
+		"6" "9204"
+		"7" "4182"
+		"8" "493"
+		"9" "1775"
+		"10" "599"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Studio 397"
+	"publisher" "Studio 397"
+	"homepage" "http://lemansultimate.com"
+	"listofdlc" "2973280,2973290,2997280,3151390,3260810,3307210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Le Mans Ultimate"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Le Mans Ultimate.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Le Mans Ultimate"
+			}
+			"description" "Le Mans Ultimate"
+		}
+		"2"
+		{
+			"executable" "Le Mans Ultimate.exe"
+			"arguments" "+VR"
+			"type" "vr"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65531"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2399421"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8468618341855552288"
+				"size" "28811681536"
+				"download" "27300805520"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16799014"
+			"timeupdated" "1734696675"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26732532"
+"_sha" "895e4cc2cbf4a5a74a008aa7f7afa1d9e1ad2d07"
+"_size" "5076"
