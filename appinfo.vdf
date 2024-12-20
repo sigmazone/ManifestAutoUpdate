@@ -1,0 +1,423 @@
+"appid" "1793260"
+"common"
+{
+	"name" "Delivery INC"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "0fd5197bc4b9dae55dd6451d7e62960b646fa7aa"
+	"logo_small" "0fd5197bc4b9dae55dd6451d7e62960b646fa7aa_thumb"
+	"clienticon" "21a405ef26e8eb84c91032254e97edc2c528f29d"
+	"clienttga" "3167a9776a403d1cc8bbe9808f367075dfa41807"
+	"icon" "bdf4b42a5884b4565438c34a958c26b0def84165"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695168000"
+		"tested_build_id" "11879853"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "85.53727286436413"
+			"height_pct" "73.76923030740407"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "85.53727286436413"
+				"height_pct" "73.76923030740407"
+			}
+		}
+	}
+	"store_asset_mtime" "1699867962"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DIGIFOX"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Games Operators"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Games Operators"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1690474748"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1793260"
+	"store_tags"
+	{
+		"0" "3813"
+		"1" "12472"
+		"2" "3810"
+		"3" "10383"
+		"4" "9"
+		"5" "4975"
+		"6" "597"
+		"7" "6426"
+		"8" "599"
+		"9" "4175"
+		"10" "1708"
+		"11" "4166"
+		"12" "5673"
+		"13" "3859"
+		"14" "4182"
+		"15" "16689"
+		"16" "4695"
+		"17" "1676"
+		"18" "4094"
+		"19" "6129"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "DIGIFOX"
+	"publisher" "Games Operators"
+	"homepage" "https://digifox.games/delivery/"
+	"listofdlc" "2666560,3025980"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Delivery INC"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Delivery INC.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Delivery INC.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1793261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "243183119129048728"
+				"size" "4569790330"
+				"download" "2716660016"
+			}
+			"openbeta"
+			{
+				"gid" "243183119129048728"
+				"size" "4569790330"
+				"download" "2716660016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "A634629F38A295A12C4C2E4D8D05EADF"
+				"size" "3F6EB0B34BCD5E128325D2BC5DEA7BB7"
+				"download" "A1AECF9903DA5605E7C7AF9EA1141425"
+			}
+			"testing"
+			{
+				"gid" "ACFC18B27E9212EA5C325A11F70A7003"
+				"size" "C2C3EF2F6ACE0D20740FF9BB4949A3E9"
+				"download" "E676DB4A27F5394B2EC6E3440D318BD2"
+			}
+			"closedbeta"
+			{
+				"gid" "FB43E78B92942F5A71B83D78106E5AEB"
+				"size" "02796235B550BBD393DD35BC4EAA278C"
+				"download" "4E5508054ED0B53F1B775E616DF505B9"
+			}
+		}
+	}
+	"1793262"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5844736249341232682"
+				"size" "4084019043"
+				"download" "2634597792"
+			}
+			"openbeta"
+			{
+				"gid" "5844736249341232682"
+				"size" "4084019043"
+				"download" "2634597792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "979875382C539EFB2678D5351641A5D3"
+				"size" "E39C0FA312E10A86DFEBEB28441DCC78"
+				"download" "C5D64063BFB4B06C36952D8884FF5932"
+			}
+			"testing"
+			{
+				"gid" "836026EF58807A483DB23D0D6988B122"
+				"size" "D5E30F80ED099B34FC3B108E7356870F"
+				"download" "037B58A07CD36A8B031BB89D69A63A38"
+			}
+			"closedbeta"
+			{
+				"gid" "25ED3C813CE9EE067E276E696EE4DDEB"
+				"size" "C1388E69C50B05245910A4DCEDF60058"
+				"download" "070052E8B0CDA8F8EDF410D8257237F6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16707794"
+			"timeupdated" "1734598022"
+		}
+		"internal"
+		{
+			"buildid" "16707794"
+			"pwdrequired" "1"
+			"timeupdated" "1734597989"
+		}
+		"testing"
+		{
+			"buildid" "16707794"
+			"pwdrequired" "1"
+			"timeupdated" "1733922841"
+		}
+		"closedbeta"
+		{
+			"buildid" "16707794"
+			"pwdrequired" "1"
+			"timeupdated" "1734597999"
+		}
+		"openbeta"
+		{
+			"buildid" "16707794"
+			"description" "Open beta test branch"
+			"timeupdated" "1733923229"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "250"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DigiFox/Delivery INC/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "DigiFox/Delivery INC/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26722023"
+"_sha" "8db328fcb84dc948828219715ede8da7987da09a"
+"_size" "7603"
