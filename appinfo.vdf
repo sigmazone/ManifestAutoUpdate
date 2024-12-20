@@ -17,6 +17,7 @@
 		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"thai" "1"
 		"latam" "1"
 	}
 	"name_localized"
@@ -25,6 +26,7 @@
 		"tchinese" "辣妹連續中出"
 		"spanish" "La Gyarufiesta: Orgía en casa"
 		"latam" "La Gyarufiesta: Orgía en casa"
+		"thai" "บ้านพักหรรษา เซ็กซ์หมู่สาวแกล~"
 	}
 	"releasestate" "released"
 	"content_descriptors"
@@ -71,6 +73,7 @@
 		"latam" "capsule_231x87_latam.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 		"tchinese" "capsule_231x87_tchinese.jpg"
+		"thai" "071c353ae3e09241b7189e64494ec815b34906b6/capsule_231x87_thai.jpg"
 	}
 	"header_image"
 	{
@@ -79,12 +82,13 @@
 		"latam" "header_latam.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
+		"thai" "header_thai.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,es,es-419,zh-cn,zh-tw"
+		"library_capsule" "en,es,es-419,zh-cn,zh-tw,th"
 		"library_hero" "en"
-		"library_logo" "en,es,es-419,zh-cn,zh-tw"
+		"library_logo" "en,es,es-419,zh-cn,zh-tw,th"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -103,6 +107,7 @@
 				"latam" "library_600x900_latam.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 				"tchinese" "library_600x900_tchinese.jpg"
+				"thai" "ec017523eb9ef11b9727caa8fddde788cca60f66/library_600x900_thai.jpg"
 			}
 			"image2x"
 			{
@@ -111,6 +116,7 @@
 				"latam" "library_600x900_latam_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"thai" "ec017523eb9ef11b9727caa8fddde788cca60f66/library_600x900_thai_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -133,6 +139,7 @@
 				"latam" "logo_latam.png"
 				"schinese" "logo_schinese.png"
 				"tchinese" "logo_tchinese.png"
+				"thai" "8ccbeb29e2ff3d3c9c992ecd7d26380b810ed04f/logo_thai.png"
 			}
 			"image2x"
 			{
@@ -150,7 +157,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1642173590"
+	"store_asset_mtime" "1734629777"
 	"associations"
 	{
 		"0"
@@ -204,6 +211,11 @@
 			"subtitles" "true"
 		}
 		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -299,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "8728398162257926634"
-				"size" "1261592794"
-				"download" "1092614992"
+				"gid" "5374351629252002434"
+				"size" "1222263990"
+				"download" "1086181584"
 			}
 		}
 		"encryptedmanifests"
@@ -314,9 +326,9 @@
 			}
 			"testing"
 			{
-				"gid" "5106525BEE262F36DEA6E2BC05D59F88"
-				"size" "D3B236423438FEE14F3455A2EC4813A6"
-				"download" "A75B29ABBC3734042EA388AD561DBC4C"
+				"gid" "C172B94ABD4FDD71E53D9D36C8A72B3B"
+				"size" "4EBC0AE2DFAFC92CAED4FB11937C4E05"
+				"download" "5341A1D665C447CA65C29E812929BA33"
 			}
 		}
 	}
@@ -355,8 +367,8 @@
 	{
 		"public"
 		{
-			"buildid" "9165543"
-			"timeupdated" "1658435658"
+			"buildid" "16806240"
+			"timeupdated" "1734645831"
 		}
 		"beta"
 		{
@@ -366,9 +378,9 @@
 		}
 		"testing"
 		{
-			"buildid" "9186561"
+			"buildid" "16806240"
 			"pwdrequired" "1"
-			"timeupdated" "1658768824"
+			"timeupdated" "1734642994"
 		}
 	}
 }
@@ -413,3 +425,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26722640"
+"_sha" "da67d2002be5aff085a60ae429c2cbb18a1134bf"
+"_size" "8380"
