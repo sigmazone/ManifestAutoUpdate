@@ -1,0 +1,728 @@
+"appid" "1421290"
+"common"
+{
+	"name" "Battle Shapers"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "799361389d739a079f33b670291c6fc0552034e4"
+	"logo_small" "799361389d739a079f33b670291c6fc0552034e4_thumb"
+	"icon" "b0c1f29f6fa90116167d8f70797eb8482daa1b2d"
+	"clienticon" "9075ce99d173b470e2af93c625c7b8ad0e3f370e"
+	"clienttga" "1b48ec45a0e8dd297fc0d8328b4f8725e3a5978d"
+	"clienticns" "9d2c37f934ceba2691aaeee51a45ce21e4402b91"
+	"linuxclienticon" "3e0d1f008b9de08c7b032b3a99a3f8608a7ba56c"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1421290_eula_1"
+			"name" "Battle Shapers EULA"
+			"url" "https://store.steampowered.com//eula/1421290_eula_1"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "塑战核心"
+		"tchinese" "塑战核心"
+		"japanese" "バトルシェーパーズ"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1701388800"
+		"tested_build_id" "12791709"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "d5617e6872ae68f8ccabf25557b09c4c793a1d3d/capsule_231x87.jpg"
+		"japanese" "94a30d60195016d59ad726dc343f5adc184c3622/capsule_231x87_japanese.jpg"
+		"schinese" "c3cc6af9d6ec8da4f7f4812f0a4386cb3c9da0fd/capsule_231x87_schinese.jpg"
+		"tchinese" "c3cc6af9d6ec8da4f7f4812f0a4386cb3c9da0fd/capsule_231x87_tchinese.jpg"
+		"french" "8874d1b7f844b02ebce20c97e8ca9d76066e472c/capsule_231x87_french.jpg"
+		"german" "2cbedad1bde3d01265845af90e7b3d9449fbbd57/capsule_231x87_german.jpg"
+		"spanish" "f6c37f93555b86fc6ef8a39f7180277ebb40e3c8/capsule_231x87_spanish.jpg"
+		"italian" "6421f00a7c901ef25a56483ddbba9d6419bb749e/capsule_231x87_italian.jpg"
+		"brazilian" "802276d58408e5a972b653f287f65ce78eca7ee6/capsule_231x87_brazilian.jpg"
+		"russian" "be9b6d5823a4f8de17c56f067c7bd8292b85e961/capsule_231x87_russian.jpg"
+		"turkish" "a30fb0488f677c24a14d4d9bac5c92648ce0fb13/capsule_231x87_turkish.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"french" "header_french.jpg"
+		"spanish" "header_spanish.jpg"
+		"german" "header_german.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"italian" "header_italian.jpg"
+		"turkish" "header_turkish.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn,zh-tw,fr,de,es,ru,it,pt-br,tr"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,ja,zh-cn,zh-tw"
+		"library_header" "en,ja,zh-cn,zh-tw,fr,it,tr,es,pt-br,ru,de"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.370266212848996"
+			"height_pct" "96.91944378479643"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "5dd4260f7b367c495effc807b4883bb0dcae4866/library_600x900_2x.jpg"
+				"japanese" "9186d68df8a9ff2533526b0293a5331dd5927027/library_600x900_japanese_2x.jpg"
+				"schinese" "1cc64dff1c8a786c6788115a80b0670b9b3a6719/library_600x900_schinese_2x.jpg"
+				"tchinese" "1cc64dff1c8a786c6788115a80b0670b9b3a6719/library_600x900_tchinese_2x.jpg"
+				"french" "714666183fd546f6c648533d098e76fbc37b6465/library_600x900_french_2x.jpg"
+				"german" "8ac761cd91be82a3b9ef1bcb65cd81f3b703a887/library_600x900_german_2x.jpg"
+				"spanish" "9d92409e87a8eecd6da911a1da6a99723ccaef4a/library_600x900_spanish_2x.jpg"
+				"russian" "8cae42f3f8c4f0715370b3b4d03495d9ce4f4053/library_600x900_russian_2x.jpg"
+				"italian" "85eb46d6c3185b1bc4cb1fda1a602cd5f090edd3/library_600x900_italian_2x.jpg"
+				"brazilian" "756b21c6c8a34cc687c0bb8f0a912eaafb90a5d6/library_600x900_brazilian_2x.jpg"
+				"turkish" "e03df0216c8c23c0980e58a73e48bb7644fae51e/library_600x900_turkish_2x.jpg"
+			}
+			"image"
+			{
+				"english" "5dd4260f7b367c495effc807b4883bb0dcae4866/library_600x900.jpg"
+				"japanese" "9186d68df8a9ff2533526b0293a5331dd5927027/library_600x900_japanese.jpg"
+				"schinese" "1cc64dff1c8a786c6788115a80b0670b9b3a6719/library_600x900_schinese.jpg"
+				"tchinese" "1cc64dff1c8a786c6788115a80b0670b9b3a6719/library_600x900_tchinese.jpg"
+				"french" "714666183fd546f6c648533d098e76fbc37b6465/library_600x900_french.jpg"
+				"german" "8ac761cd91be82a3b9ef1bcb65cd81f3b703a887/library_600x900_german.jpg"
+				"spanish" "9d92409e87a8eecd6da911a1da6a99723ccaef4a/library_600x900_spanish.jpg"
+				"russian" "8cae42f3f8c4f0715370b3b4d03495d9ce4f4053/library_600x900_russian.jpg"
+				"italian" "85eb46d6c3185b1bc4cb1fda1a602cd5f090edd3/library_600x900_italian.jpg"
+				"brazilian" "756b21c6c8a34cc687c0bb8f0a912eaafb90a5d6/library_600x900_brazilian.jpg"
+				"turkish" "e03df0216c8c23c0980e58a73e48bb7644fae51e/library_600x900_turkish.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "d9186dbf69b842c8ad5f52c41820a0f1dd2a0959/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "d9186dbf69b842c8ad5f52c41820a0f1dd2a0959/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d9186dbf69b842c8ad5f52c41820a0f1dd2a0959/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.370266212848996"
+				"height_pct" "96.91944378479643"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"japanese" "logo_japanese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "467d42a80a9c68a03f094e3e5c383882f76cb071/library_header.jpg"
+				"japanese" "95b99f05c71f28437bc008ae58522369fb44bd68/library_header_japanese.jpg"
+				"schinese" "9f841b4ff18186185be002fcf33f6481767b153b/library_header_schinese.jpg"
+				"tchinese" "9f841b4ff18186185be002fcf33f6481767b153b/library_header_tchinese.jpg"
+				"french" "57119c8d2a7b2bd5d718106f9f44a9ec178633e2/library_header_french.jpg"
+				"italian" "1daa7c52f846652585918ae916392bede06af384/library_header_italian.jpg"
+				"turkish" "873af3030ff6ea96628577ace42239013758a12d/library_header_turkish.jpg"
+				"spanish" "3fc3feedd41169066625bbf61a14c8e8e41f83b7/library_header_spanish.jpg"
+				"brazilian" "ccd082ed5cf17682315dbcd3f7618ea0b255a1f1/library_header_brazilian.jpg"
+				"russian" "eb3505aa901bf422adc36c68efccf17a43775455/library_header_russian.jpg"
+				"german" "a4d064a87dc3bf010c4f4e6ae60fe5b631d679cc/library_header_german.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "9f841b4ff18186185be002fcf33f6481767b153b/library_header_schinese_2x.jpg"
+				"english" "467d42a80a9c68a03f094e3e5c383882f76cb071/library_header_2x.jpg"
+				"french" "57119c8d2a7b2bd5d718106f9f44a9ec178633e2/library_header_french_2x.jpg"
+				"japanese" "95b99f05c71f28437bc008ae58522369fb44bd68/library_header_japanese_2x.jpg"
+				"tchinese" "9f841b4ff18186185be002fcf33f6481767b153b/library_header_tchinese_2x.jpg"
+				"italian" "1daa7c52f846652585918ae916392bede06af384/library_header_italian_2x.jpg"
+				"turkish" "873af3030ff6ea96628577ace42239013758a12d/library_header_turkish_2x.jpg"
+				"spanish" "3fc3feedd41169066625bbf61a14c8e8e41f83b7/library_header_spanish_2x.jpg"
+				"brazilian" "ccd082ed5cf17682315dbcd3f7618ea0b255a1f1/library_header_brazilian_2x.jpg"
+				"russian" "eb3505aa901bf422adc36c68efccf17a43775455/library_header_russian_2x.jpg"
+				"german" "a4d064a87dc3bf010c4f4e6ae60fe5b631d679cc/library_header_german_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733267574"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Metric Empire"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Metric Empire"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Kepler Ghost"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Battle Shapers"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733347558"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1421290"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "42804"
+		"2" "1716"
+		"3" "3959"
+		"4" "1663"
+		"5" "493"
+		"6" "353880"
+		"7" "4252"
+		"8" "19"
+		"9" "492"
+		"10" "4182"
+		"11" "4305"
+		"12" "3993"
+		"13" "3839"
+		"14" "4885"
+		"15" "922563"
+		"16" "5752"
+		"17" "7481"
+		"18" "3942"
+		"19" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Metric Empire"
+	"publisher" "Metric Empire"
+	"homepage" "https://www.battleshapers.com"
+}
+"config"
+{
+	"installdir" "BattleShapers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BattleShapers.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1421291"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4125179186275504506"
+				"size" "13027915246"
+				"download" "10632847328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "F39C0240AE57BE694587E6C6D2C98424"
+				"size" "F79E957838A66E63142F39495688F926"
+				"download" "F92DBA2A814AF5CAEEB927CB650477AA"
+			}
+			"communityplaytest"
+			{
+				"gid" "50967B4A1791C7370B727F508D5901DB"
+				"size" "43FEDBA01AAE6B074947F98127A893A7"
+				"download" "40D18DB591D140148D4CAD5DA07F22F2"
+			}
+			"custombranchantoine"
+			{
+				"gid" "517BE45159DDD3569F3E7EE5AA837CE0"
+				"size" "8B6F4E4378F6CEEC8104EEC48045C197"
+				"download" "604E77B23C4ADDC30F132120B1443361"
+			}
+			"custombranchbastien"
+			{
+				"gid" "F043A392D050993553800D2514DB7757"
+				"size" "84F508DCACFCF2B01E09B3C349552348"
+				"download" "294D07DCE9CB784DB973E0472C2B3C3F"
+			}
+			"custombranchbrandon"
+			{
+				"gid" "FA748BEBA8EB8B2301DDB1740FAFE8CF"
+				"size" "5B1A3DED5DC662EFA7BC01D80AA04B3B"
+				"download" "20AEDA1B5B1DC6F014D9D5048694CA16"
+			}
+			"custombranchdesign"
+			{
+				"gid" "591729C63309F10C419FDE3D8696DD0C"
+				"size" "DE880FD51400EB85B63952E3F6F374F3"
+				"download" "B1E5B0D63935828B1FC6A590FD78DF81"
+			}
+			"custombranchjoao"
+			{
+				"gid" "EBBF400EAA51864533C17732F14B5EF0"
+				"size" "B7640E1963615532B17A79BF201AB638"
+				"download" "650FC11BF8330520232E8C8E41C11C4B"
+			}
+			"custombranchvictor"
+			{
+				"gid" "2C5AB4DECE977BACC0809B92AF1AA39A"
+				"size" "306FEAEB08B4ABEFD3FA61E5F27B1A90"
+				"download" "F4C399773E359F78AAB42C0386DFAE13"
+			}
+			"customtest"
+			{
+				"gid" "EAF131BCB25E5143A0A6094796D98750"
+				"size" "A18FFC88DD02EDFA91A6F9B76A57B5DD"
+				"download" "7A06C0B7FFF0EBEBF88D1242F6EC26F2"
+			}
+			"develop"
+			{
+				"gid" "E5D09E47603500BDE90E36F5E3457A57"
+				"size" "B80486B3ACC2262DAD2ED0774B6AEA64"
+				"download" "71C04E4D76FC8DF0C1DAA0266538A596"
+			}
+			"developmaster"
+			{
+				"gid" "AA607CA669D770A3433B942E8C057246"
+				"size" "B20EE0416085929D8CCE3CC06939E26F"
+				"download" "BB14DEAEC2EB48F7440FB449C3C6E644"
+			}
+			"livecandidatedev"
+			{
+				"gid" "E0F5D876F3D2A2259A8DB07EA28EA34D"
+				"size" "B5D29B3F27056EC42AF60085274FE320"
+				"download" "BA3A5A73AB07846E6596D6BB862E8ED9"
+			}
+			"livecandidatemaster"
+			{
+				"gid" "F815485A52298D2522B3DD596CF4E72C"
+				"size" "FDDC871B13F3D7F4D11BFA62B28DD82D"
+				"download" "32260178893728A58D12F3810218F52A"
+			}
+			"livecandidatemastercheats"
+			{
+				"gid" "AB6446331852A0956519C666FEDD0637"
+				"size" "A7247FD55553DD4E6D4D2BFBD8E7A355"
+				"download" "B7B465AA56DCE2F387843E5962F21160"
+			}
+			"livedemodev"
+			{
+				"gid" "6E4FC1E4BF7E5D00769F8224941ABA97"
+				"size" "8F5B010DA8FEC73CFBE996395B0B818E"
+				"download" "847B8B5E5DA379D2A875DF19114D331A"
+			}
+			"livedemomaster"
+			{
+				"gid" "B3398CAAF30221645CA0D05C282720E8"
+				"size" "75B9D9CBB680EFF168E249C327F3436F"
+				"download" "11541FC4CEE9BC8149E6A4BA790C3C96"
+			}
+			"livedemomastercheats"
+			{
+				"gid" "EE8B738D7A12159DE29EED9C2DEB9C8F"
+				"size" "8BB233F6029DB9DF088A3792553109ED"
+				"download" "B433DAEB6E2A5BC81459B5C78B4E3848"
+			}
+			"livedev"
+			{
+				"gid" "6CE8B783B9D0F8E2BFA21221ECC00C80"
+				"size" "D828EDF3FCE14163E41C9262634E270D"
+				"download" "28D48312955374FF7DDED3452A3481C9"
+			}
+			"mktingcapture"
+			{
+				"gid" "EEB2A027101E768682B10C6A5989E49E"
+				"size" "C3F86B0B77991FB10E57D11581DFA211"
+				"download" "86434C6CD8098FDD26DA295BB6CF5EDB"
+			}
+			"playsession"
+			{
+				"gid" "2CD515213D45D94A117F9159D516778C"
+				"size" "2A3F701244ECC0B31F6AD40659A6AB58"
+				"download" "EB8311F74B8D008B31D34ABF1ABD0472"
+			}
+			"preview"
+			{
+				"gid" "06B9479C4D25614843900E7C3511F537"
+				"size" "2E63EDD66DD44234B11C62439E7A30E0"
+				"download" "718261E66CE4BF8FCD77224CCBF29E04"
+			}
+			"release"
+			{
+				"gid" "02209D78150DBED145A70CFCC1F903BB"
+				"size" "8E023F2E99E8DBD8637025CF09555A1C"
+				"download" "68FAE2A977E91DC262F472B2E68E0337"
+			}
+			"releasemaster"
+			{
+				"gid" "9C0AC9EF815003E34A2F193B08A0F41D"
+				"size" "5FBBFB769DEED107980B72FF3AC8AC9A"
+				"download" "0DF9D5B479F1ABB3BCF2E4F5EF9BB84D"
+			}
+			"staging"
+			{
+				"gid" "4340C3E6E4E20B03AF7E60DEF338C7B9"
+				"size" "0537B19FA7CBA69BB0892A77D7CDFF73"
+				"download" "3439D0AAED144FB8944B34C17DB0580A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16803694"
+			"timeupdated" "1734641256"
+		}
+		"community"
+		{
+			"buildid" "15747809"
+			"pwdrequired" "1"
+			"timeupdated" "1727201748"
+		}
+		"communityplaytest"
+		{
+			"buildid" "16541729"
+			"pwdrequired" "1"
+			"timeupdated" "1732656945"
+		}
+		"custombranchantoine"
+		{
+			"buildid" "16805604"
+			"pwdrequired" "1"
+			"timeupdated" "1734639469"
+		}
+		"custombranchbastien"
+		{
+			"buildid" "16777668"
+			"pwdrequired" "1"
+			"timeupdated" "1734464323"
+		}
+		"custombranchbrandon"
+		{
+			"buildid" "16761485"
+			"pwdrequired" "1"
+			"timeupdated" "1734367386"
+		}
+		"custombranchdesign"
+		{
+			"buildid" "16619293"
+			"pwdrequired" "1"
+			"timeupdated" "1733253867"
+		}
+		"custombranchjoao"
+		{
+			"buildid" "16802945"
+			"pwdrequired" "1"
+			"timeupdated" "1734629792"
+		}
+		"custombranchvictor"
+		{
+			"buildid" "16572445"
+			"pwdrequired" "1"
+			"timeupdated" "1732837026"
+		}
+		"customtest"
+		{
+			"buildid" "13960062"
+			"pwdrequired" "1"
+			"timeupdated" "1717111632"
+		}
+		"develop"
+		{
+			"buildid" "16812383"
+			"pwdrequired" "1"
+			"timeupdated" "1734688587"
+		}
+		"developmaster"
+		{
+			"buildid" "16811342"
+			"pwdrequired" "1"
+			"timeupdated" "1734682224"
+		}
+		"livecandidatedev"
+		{
+			"buildid" "16811829"
+			"pwdrequired" "1"
+			"timeupdated" "1734685777"
+		}
+		"livecandidatemaster"
+		{
+			"buildid" "16811833"
+			"pwdrequired" "1"
+			"timeupdated" "1734685848"
+		}
+		"livecandidatemastercheats"
+		{
+			"buildid" "16812340"
+			"pwdrequired" "1"
+			"timeupdated" "1734688302"
+		}
+		"livedemodev"
+		{
+			"buildid" "16423404"
+			"pwdrequired" "1"
+			"timeupdated" "1731951666"
+		}
+		"livedemomaster"
+		{
+			"buildid" "16648713"
+			"pwdrequired" "1"
+			"timeupdated" "1733432406"
+		}
+		"livedemomastercheats"
+		{
+			"buildid" "16423063"
+			"pwdrequired" "1"
+			"timeupdated" "1731951682"
+		}
+		"livedev"
+		{
+			"buildid" "15124179"
+			"pwdrequired" "1"
+			"timeupdated" "1721757377"
+		}
+		"mktingcapture"
+		{
+			"buildid" "16151967"
+			"pwdrequired" "1"
+			"timeupdated" "1729692356"
+		}
+		"playsession"
+		{
+			"buildid" "16483449"
+			"pwdrequired" "1"
+			"timeupdated" "1732219226"
+		}
+		"preview"
+		{
+			"buildid" "16557154"
+			"pwdrequired" "1"
+			"timeupdated" "1732757242"
+		}
+		"release"
+		{
+			"buildid" "16253761"
+			"pwdrequired" "1"
+			"timeupdated" "1730389507"
+		}
+		"releasemaster"
+		{
+			"buildid" "16249616"
+			"pwdrequired" "1"
+			"timeupdated" "1730368554"
+		}
+		"staging"
+		{
+			"buildid" "16803694"
+			"pwdrequired" "1"
+			"timeupdated" "1734640188"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "15000000"
+	"maxnumfiles" "50"
+}
+"_missing_token" "False"
+"_change_number" "26730568"
+"_sha" "ace06366d82b17e73fbc8ca94f4d70de39de3b20"
+"_size" "18869"
