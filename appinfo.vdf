@@ -1,0 +1,518 @@
+"appid" "1849790"
+"common"
+{
+	"name" "Uncle Chop\'s Rocket Shop"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "a41ec0558b4b52298f18980082a73b88663b01bd"
+	"clienttga" "4d489fd9f4f1584eef223ae396e19b23716e559d"
+	"clienticon" "8e1fcacdfaf2651207304e172e381dcb57ed0f7f"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1732752000"
+		"tested_build_id" "16535456"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "c8466688da09ea00f574d364ca66b629bcdc331f/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"german" "header_german.jpg"
+		"spanish" "header_spanish.jpg"
+		"french" "header_french.jpg"
+		"italian" "header_italian.jpg"
+		"japanese" "header_japanese.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,de,es,fr,it,ja,ru,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.04915147999779"
+			"height_pct" "93.75"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"german" "library_600x900_german.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"french" "library_600x900_french.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.04915147999779"
+				"height_pct" "93.75"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733739360"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Beard Envy"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kasedo Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Kasedo Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733417996"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1849790"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "12472"
+		"2" "599"
+		"3" "1664"
+		"4" "3959"
+		"5" "1742"
+		"6" "4136"
+		"7" "3871"
+		"8" "1651"
+		"9" "4166"
+		"10" "1702"
+		"11" "5923"
+		"12" "5030"
+		"13" "6971"
+		"14" "6426"
+		"15" "4291"
+		"16" "1716"
+		"17" "1673"
+		"18" "3854"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Beard Envy"
+	"publisher" "Kasedo Games"
+	"homepage" "https://www.unclechops.com/"
+	"listofdlc" "3335150"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Space Garage"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SpaceGarage.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1849791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9211244853201457892"
+				"size" "1276131457"
+				"download" "1126594608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"indiecade"
+			{
+				"gid" "53D323237FF49774ECE914D0B8B05D7A"
+				"size" "8830EB28D77D4DFF03D497D0045BDE9E"
+				"download" "EEF20073F9337238A3C8B33ACF02BBBB"
+			}
+			"development"
+			{
+				"gid" "A1D528A4104D8799BD833DFFEAF19DD8"
+				"size" "944AEFD47345B22EFFE9A13EA81EBFD8"
+				"download" "44219762E657B7BB424863F104F0A9DB"
+			}
+			"development_preview"
+			{
+				"gid" "5EA46B5573F2B5CF1A06A9906B527C70"
+				"size" "CFA6DD4DB1FAA9114CD6E69308C80217"
+				"download" "6F9474921D93FF1D69F3EE4C1081D4FC"
+			}
+			"external"
+			{
+				"gid" "1A98A8141ACE1760B7A2359FF11CCE4B"
+				"size" "3A229BB264E0F7164F521C2665DFB444"
+				"download" "73FE667155B25F39542DB59ABDDABFE9"
+			}
+			"gotestify"
+			{
+				"gid" "A1CA91DEF66891DB265E0AE22CD4A737"
+				"size" "43261235840B29C8410CD970B8A7B70D"
+				"download" "30F947F1F83184E777D5BD6CB1A1E458"
+			}
+			"influencer"
+			{
+				"gid" "9E46B4CB4EB6D70A521D368EA71FCD33"
+				"size" "708C1B4B5F6F30AC74DA78BD169CE637"
+				"download" "CC275BB5428A9D4F6714A46B495F67A0"
+			}
+			"old_build_for_footage"
+			{
+				"gid" "150353DDC68F1D39E298FB8EC6A3A9A9"
+				"size" "3DD2F49C56FE87BCA0531232708B4376"
+				"download" "BB9791646E672E87B9AFB8C0213E22BE"
+			}
+			"playtest"
+			{
+				"gid" "91DE493CDC27D2986EF841A59F93CB15"
+				"size" "61D1C1074432CD790E82B64236657E53"
+				"download" "CB547C5186C373E2C062E9AA888840CA"
+			}
+			"press"
+			{
+				"gid" "2690A1F6D201A9B1285633C80FFEA312"
+				"size" "AFAEDAF3D08572A5E1538C5F2F761E78"
+				"download" "84EBE75076868D2852E93E9317AB304B"
+			}
+		}
+	}
+	"3335150"
+	{
+		"dlcappid" "3335150"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "538115294491419527"
+				"size" "107265615"
+				"download" "96386720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "2B574F2069A1FACCAC3A97187706F2F0"
+				"size" "EE8B6D3183989C8873D824A37659F3E3"
+				"download" "9A022894C6C522BE9D030CE47D472FDC"
+			}
+			"press"
+			{
+				"gid" "D2E9550B5013FC24EDFD1CDFBA2DA6EA"
+				"size" "D5A54D3ACEDFA928F9181AE7BDA8B3DE"
+				"download" "3DB016429063123DA3139126E7EA9ACA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16804889"
+			"timeupdated" "1734641701"
+		}
+		"indiecade"
+		{
+			"buildid" "14031939"
+			"pwdrequired" "1"
+			"timeupdated" "1713187389"
+		}
+		"development"
+		{
+			"buildid" "16804889"
+			"pwdrequired" "1"
+			"timeupdated" "1734634950"
+		}
+		"development_preview"
+		{
+			"buildid" "16360266"
+			"pwdrequired" "1"
+			"timeupdated" "1731334543"
+		}
+		"external"
+		{
+			"buildid" "14170142"
+			"pwdrequired" "1"
+			"timeupdated" "1714387554"
+		}
+		"gotestify"
+		{
+			"buildid" "14255844"
+			"pwdrequired" "1"
+			"timeupdated" "1714742510"
+		}
+		"influencer"
+		{
+			"buildid" "14728775"
+			"pwdrequired" "1"
+			"timeupdated" "1718459722"
+		}
+		"old_build_for_footage"
+		{
+			"buildid" "15872124"
+			"pwdrequired" "1"
+			"timeupdated" "1731322053"
+		}
+		"playtest"
+		{
+			"buildid" "14728775"
+			"pwdrequired" "1"
+			"timeupdated" "1718459733"
+		}
+		"press"
+		{
+			"buildid" "16804889"
+			"pwdrequired" "1"
+			"timeupdated" "1734641581"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SpaceGarage/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SpaceGarage/Saved/Config/WindowsNoEditor"
+			"pattern" "*.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26721341"
+"_sha" "4e53b2a018ab664c2e0bb8abca9a88351a6c3089"
+"_size" "10117"
