@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733755591"
+	"store_asset_mtime" "1734613737"
 	"associations"
 	{
 		"0"
@@ -310,9 +310,42 @@
 		{
 			"public"
 			{
-				"gid" "3944700509642687431"
-				"size" "46094567234"
-				"download" "12135237680"
+				"gid" "8750193473309456124"
+				"size" "46094566702"
+				"download" "12135236912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio"
+			{
+				"gid" "754C6EA1653B5419168F9BDBC5982989"
+				"size" "9CB9DCB1B47C2A22E7254B6E8BAB709D"
+				"download" "CF4A818C840C8B8A006FBE4F9EE5DD6C"
+			}
+			"default_test"
+			{
+				"gid" "5CD6EB46D22E31170860A1EBBC178A1F"
+				"size" "E4C759D09C3F099D546585AF1A6E4472"
+				"download" "16049C6FEA89D1CCD7662C24D9D07194"
+			}
+			"beta"
+			{
+				"gid" "966C7537206478794525A707E9043DF9"
+				"size" "F3B3190E27824B8CF07E12845E5B0575"
+				"download" "DE0534AADECD6763CE5BA1BB903DF52C"
+			}
+			"private"
+			{
+				"gid" "74C00449B5FD705730BDBC031D14F21A"
+				"size" "F945FD7AF74306CDDFC23E809248399C"
+				"download" "848596D0979DB4B545EA50814C247615"
+			}
+			"shiro"
+			{
+				"gid" "1FAD29969B7DE4C11DF3919A01AAFC2E"
+				"size" "7BA9763841CA157D5B2CDD0B4E3A7333"
+				"download" "90B709D2DC452D4D4D0906EF30FC696E"
 			}
 		}
 	}
@@ -321,11 +354,40 @@
 	{
 		"public"
 		{
-			"buildid" "16787858"
-			"timeupdated" "1734604131"
+			"buildid" "16813659"
+			"timeupdated" "1734700832"
+		}
+		"audio"
+		{
+			"buildid" "13587066"
+			"pwdrequired" "1"
+			"timeupdated" "1709117650"
+		}
+		"default_test"
+		{
+			"buildid" "14095377"
+			"pwdrequired" "1"
+			"timeupdated" "1713439964"
+		}
+		"beta"
+		{
+			"buildid" "16646224"
+			"pwdrequired" "1"
+			"timeupdated" "1733417915"
+		}
+		"private"
+		{
+			"buildid" "15302581"
+			"pwdrequired" "1"
+			"timeupdated" "1723111576"
+		}
+		"shiro"
+		{
+			"buildid" "16813659"
+			"pwdrequired" "1"
+			"timeupdated" "1734695855"
 		}
 	}
-	"privatebranches" "1"
 }
 "ufs"
 {
@@ -349,6 +411,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26711478"
-"_sha" "1d5f67fb5be084f9f68a608ccd745c0e734b470f"
-"_size" "6071"
+"_change_number" "26733495"
+"_sha" "f6278d3c6ae1e9c5663e06b3c55fe94346606607"
+"_size" "7461"
