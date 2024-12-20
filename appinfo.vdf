@@ -21,11 +21,23 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "3f006d8a1db8804bc801dfbbf12c1fedf6f7613a/capsule_231x87.jpg"
+		"spanish" "cf9706601cf617df7a58d8bb206ceb518edfc930/capsule_231x87_spanish.jpg"
+		"latam" "cf9706601cf617df7a58d8bb206ceb518edfc930/capsule_231x87_latam.jpg"
+		"french" "4fee64f32134bbb20dcb03e020e68bf54f4cbeed/capsule_231x87_french.jpg"
+		"german" "ca10ee05d3263bba90b3a9fe6e9b1cc3a2e7f9cc/capsule_231x87_german.jpg"
+		"italian" "3f412c684573841b8e5d40fd8c51d3aa5abdbb58/capsule_231x87_italian.jpg"
+		"brazilian" "7de40031f36b40395a566e507019727707a64035/capsule_231x87_brazilian.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"italian" "header_italian.jpg"
+		"spanish" "header_spanish.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"latam" "header_latam.jpg"
+		"brazilian" "header_brazilian.jpg"
 	}
 	"library_assets"
 	{
@@ -89,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723545411"
+	"store_asset_mtime" "1734623877"
 	"associations"
 	{
 		"0"
@@ -102,14 +114,20 @@
 			"type" "publisher"
 			"name" "Marmalade Game Studio Ltd"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Marmalade Game Studio Ltd"
+		}
 	}
-	"primary_genre" "28"
+	"primary_genre" "4"
 	"genres"
 	{
-		"0" "4"
-		"1" "23"
-		"2" "28"
-		"3" "2"
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "2"
 	}
 	"category"
 	{
@@ -154,36 +172,36 @@
 	"gameid" "2999030"
 	"store_tags"
 	{
-		"0" "1666"
-		"1" "5923"
-		"2" "597"
+		"0" "3859"
+		"1" "1666"
+		"2" "17389"
 		"3" "1770"
-		"4" "17894"
-		"5" "599"
-		"6" "9"
-		"7" "4195"
-		"8" "1775"
-		"9" "4136"
-		"10" "5350"
-		"11" "14139"
-		"12" "4191"
-		"13" "3871"
-		"14" "4305"
-		"15" "4726"
-		"16" "1741"
-		"17" "1719"
-		"18" "1714"
-		"19" "17389"
+		"4" "597"
+		"5" "5350"
+		"6" "4136"
+		"7" "9"
+		"8" "7178"
+		"9" "4182"
+		"10" "1685"
+		"11" "3843"
+		"12" "3878"
+		"13" "19"
+		"14" "7368"
+		"15" "4711"
+		"16" "17894"
+		"17" "7108"
+		"18" "791774"
+		"19" "1775"
 	}
-	"review_score" "5"
-	"review_percentage" "59"
+	"review_score" "6"
+	"review_percentage" "73"
 }
 "extended"
 {
 	"developer" "Marmalade Game Studio Ltd"
 	"publisher" "Marmalade Game Studio Ltd"
 	"homepage" "https://www.marmaladegamestudio.com"
-	"listofdlc" "3140300,3140310,3140320"
+	"listofdlc" "3140300,3140310,3140320,3276090,3377260"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -209,30 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "7752845989753363660"
-				"size" "565325144"
-				"download" "263605856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "9999A69414E99A9B27A8515EEF261148"
-				"size" "A13D9B38491167E2868C0A8FB6E2C66D"
-				"download" "AC0661CB6CC6E39E7724079AD048C39B"
-			}
-			"external"
-			{
-				"gid" "3DB56D3B152F682699021D6A8C127F44"
-				"size" "6AE969B1C98B3A59CA257D21B9EE8B40"
-				"download" "8ECFDB13249BC3460A549DAB62CC7A30"
-			}
-			"submission"
-			{
-				"gid" "E3E11225839C910CD6FFD71D7FE1CCA1"
-				"size" "2BBEC3FF9A1CB02C65C36C9BE2CF34BC"
-				"download" "8F3D311017FDF3CFAA0821420FA77F10"
+				"gid" "6882070743325084093"
+				"size" "668111587"
+				"download" "323765312"
 			}
 		}
 	}
@@ -240,28 +237,11 @@
 	{
 		"public"
 		{
-			"buildid" "15901717"
-			"timeupdated" "1727947071"
-		}
-		"development"
-		{
-			"buildid" "15933568"
-			"pwdrequired" "1"
-			"timeupdated" "1728066407"
-		}
-		"external"
-		{
-			"buildid" "15294799"
-			"pwdrequired" "1"
-			"timeupdated" "1723059495"
-		}
-		"submission"
-		{
-			"buildid" "15901717"
-			"pwdrequired" "1"
-			"timeupdated" "1727869271"
+			"buildid" "16787951"
+			"timeupdated" "1734602791"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -280,3 +260,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26731968"
+"_sha" "338e13295f8240c6031789211cfa06f4b39784d9"
+"_size" "4804"
