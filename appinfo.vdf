@@ -1,0 +1,380 @@
+"appid" "1722870"
+"common"
+{
+	"name" "Clank!"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"clienttga" "0a669c765520775b9769fb2bf9e2b5bea23e3d33"
+	"clienticon" "859671f9e6677c3fc28d9e3c88d5ca8ec8e7674d"
+	"clienticns" "9b77af705fae5072990497534f91fe5304db4e3d"
+	"icon" "fcc4e94b4e03cd771bc512d5d8bef3848f826290"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1722870_eula_0"
+			"name" "Clank! EULA"
+			"url" "https://store.steampowered.com//eula/1722870_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1722643200"
+		"tested_build_id" "15139301"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "56.82613768961494"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "56.82613768961494"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727804325"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dire Wolf"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dire Wolf"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_32" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1729530857"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1722870"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1770"
+		"2" "32322"
+		"3" "1666"
+		"4" "17389"
+		"5" "1720"
+		"6" "1684"
+		"7" "4046"
+		"8" "1741"
+		"9" "4195"
+		"10" "4305"
+		"11" "4791"
+		"12" "4166"
+		"13" "5350"
+		"14" "1680"
+		"15" "4057"
+		"16" "4172"
+		"17" "4878"
+		"18" "1775"
+		"19" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Dire Wolf"
+	"publisher" "Dire Wolf"
+	"homepage" "https://direwolfdigital.com/clank/"
+}
+"config"
+{
+	"installdir" "Clank"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Clank.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Clank.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "4"
+}
+"depots"
+{
+	"1722871"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "635987927203522782"
+				"size" "335694339"
+				"download" "169894800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"env_prod"
+			{
+				"gid" "CCD49BA1F7C0A0C996938C08D1393D2D"
+				"size" "F14C10590C383C73B3F7256ACFB97E14"
+				"download" "686C3A870E43C01A68907F96DD716051"
+			}
+			"env_qa"
+			{
+				"gid" "DEA57422AE407D7E1DE6389E5BE635A6"
+				"size" "E1AE14404F635DF171A81F9908726D40"
+				"download" "66EC9A131163EC247126ABFB894C8443"
+			}
+			"env_stage"
+			{
+				"gid" "B2FDEEA253842F5D90441C88CF022B78"
+				"size" "4F6251C3E835EBF5F93E37119C413FCC"
+				"download" "4CB5F1EFF94AD7A48D52C3D282E6BA6E"
+			}
+		}
+	}
+	"1722872"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4434343573555363072"
+				"size" "504396966"
+				"download" "183086512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"env_prod"
+			{
+				"gid" "22E6E6643A087C78DB0751A4F1BC9F4A"
+				"size" "ED46D98FEE28601B04A511778A762C51"
+				"download" "32F9C55AF0E522C3B3D0831AACD8433D"
+			}
+			"env_qa"
+			{
+				"gid" "4F83ED5BDB8038E4C1F5A9E2E326781D"
+				"size" "85AD1B4D549A5BCE4821793EAA004EDB"
+				"download" "064C1FCBA942105BE4AAEF6656737C11"
+			}
+			"env_stage"
+			{
+				"gid" "55B993439CDFFE9A9BA6A2837C937C85"
+				"size" "F62EB5F5207A513B8E286BCC7AD8DB09"
+				"download" "35387929C785C8BB74F4638DB967C1E9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16807533"
+			"timeupdated" "1734713243"
+		}
+		"env_prod"
+		{
+			"buildid" "16807533"
+			"pwdrequired" "1"
+			"timeupdated" "1734651638"
+		}
+		"env_qa"
+		{
+			"buildid" "16817547"
+			"pwdrequired" "1"
+			"timeupdated" "1734718483"
+		}
+		"env_stage"
+		{
+			"buildid" "16807514"
+			"pwdrequired" "1"
+			"timeupdated" "1734651539"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26737918"
+"_sha" "8c45a942316f9e054c775d87d758f3803a8236f8"
+"_size" "6669"
