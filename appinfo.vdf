@@ -1,0 +1,290 @@
+"appid" "2300230"
+"common"
+{
+	"name" "Feather Party"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "738b35352732d47c6cf08f3e5f3e7934cc3eda71"
+	"clienttga" "f4c73f3bcf48d240255d2dd9fac30e46c936190c"
+	"clienticon" "c583fb74efa8311f6d66fd1bd4587830dfa1f5dd"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"timeline_marker_updated" "1731923417"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.65171630238434"
+			"height_pct" "54.62141151481568"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.65171630238434"
+				"height_pct" "54.62141151481568"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729901504"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "threeW"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Teneke Kafalar Spotlight"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_25" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1714741042"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2300230"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "4136"
+		"2" "3843"
+		"3" "7178"
+		"4" "597"
+		"5" "1685"
+		"6" "8093"
+		"7" "7108"
+		"8" "492"
+		"9" "19"
+		"10" "1719"
+		"11" "4305"
+		"12" "5395"
+		"13" "4191"
+		"14" "4195"
+		"15" "5350"
+		"16" "1775"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "threeW"
+	"publisher" "Teneke Kafalar Spotlight"
+}
+"config"
+{
+	"installdir" "Feather Party"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Feather Party.exe"
+			"description_loc"
+			{
+				"english" "Windows"
+			}
+			"description" "Windows"
+		}
+		"1"
+		{
+			"executable" "FeatherParty.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "macOS"
+			}
+			"description" "macOS"
+		}
+	}
+}
+"depots"
+{
+	"2300231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5600655274835655492"
+				"size" "5150667575"
+				"download" "946551744"
+			}
+		}
+	}
+	"2300232"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7952110531585124028"
+				"size" "5086326841"
+				"download" "938137216"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16804694"
+			"timeupdated" "1734635122"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FeatherPartySave"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26720353"
+"_sha" "4d00cd8fba95cd18eaa2ffabcb4fc39d6171a7fc"
+"_size" "4304"
