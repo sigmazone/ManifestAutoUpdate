@@ -1,0 +1,725 @@
+"appid" "1422440"
+"common"
+{
+	"name" "Cataclismo"
+	"type" "Game"
+	"icon" "9da05eda6ab1949b2f96c9b106325826daf9b3dd"
+	"clienttga" "60349aaebb7eebdf392efa5f51a9d9caba3e6e7c"
+	"clienticon" "e46e3c74ffc1b53fa72b1d811fd18ce84bdc112c"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "灾厄堡垒 Cataclismo"
+		"tchinese" "災厄堡壘 Cataclismo"
+		"japanese" "Cataclismo カタクリズモ"
+		"koreana" "Cataclismo 카타클리스모"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1722988800"
+		"tested_build_id" "15162848"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,ko,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en,ja,ko,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.64980545578762"
+			"height_pct" "73.57134370916003"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "b32da40f346ffa9a6d8f5fd75cfc084960800b0c/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "b32da40f346ffa9a6d8f5fd75cfc084960800b0c/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b32da40f346ffa9a6d8f5fd75cfc084960800b0c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.64980545578762"
+				"height_pct" "73.57134370916003"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"koreana" "library_header_koreana.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734625766"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Digital Sun"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_51" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1721652929"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1422440"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "1676"
+		"3" "7332"
+		"4" "12472"
+		"5" "4328"
+		"6" "4364"
+		"7" "7107"
+		"8" "1669"
+		"9" "1643"
+		"10" "3810"
+		"11" "3987"
+		"12" "1695"
+		"13" "4182"
+		"14" "8945"
+		"15" "1670"
+		"16" "4695"
+		"17" "220585"
+		"18" "493"
+		"19" "4711"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Digital Sun"
+	"publisher" "Hooded Horse"
+}
+"config"
+{
+	"installdir" "Cataclismo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cataclismo.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Castle.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "stable_testing ,steamnextfest, v0.10.2midalpha, v0.10alpha, v0.11prebeta, v0.12prebeta2, v0.13beta, v0.14gold, v0.7prealpha1, v0.8prealpha2, v0.9prealpha3, demo_gamescom "
+			}
+			"description_loc"
+			{
+				"english" "Cataclismo builds previous to 24nov23"
+			}
+			"description" "Cataclismo builds previous to 24nov23"
+		}
+		"2"
+		{
+			"executable" "Cataclismo.exe"
+			"arguments" "-force-d3d12"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "DirectX 12 version - fix for AMD graphical issue"
+				"german" "DX12-Version - Fix für AMD-Darstellungsfehler"
+				"french" "Version DX12 - correctif pour le problème visuel AMD"
+				"koreana" "DX12 버전 - AMD 시각적 결함 수정"
+				"spanish" "Versión DX12 - solución para el fallo visual en AMD"
+				"schinese" "DX12 版本 - 修复 AMD 图形故障"
+				"tchinese" "DX12 版本 - 修復 AMD 視覺故障"
+				"russian" "Версия DX12 — исправление графического сбоя на AMD"
+				"japanese" "DX12 バージョン - AMD ビジュアルグリッチの修正"
+				"polish" "Wersja DX12 – naprawa usterki wizualnej AMD"
+				"brazilian" "Versão DX12 - correção para falha visual da AMD"
+			}
+			"description" "DirectX 12 version - fix for AMD graphical issue"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1422441"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6998028484835566578"
+				"size" "6535819002"
+				"download" "2020258240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"auto_builds"
+			{
+				"gid" "CBF15BC961E8638232AA1EBEAD20ACF8"
+				"size" "7729C47463F6C7134E7CCDEF12513B8F"
+				"download" "069645364DCC650E9DDE641FBF5B29CF"
+			}
+			"development"
+			{
+				"gid" "A72621BEDEBE1B0BBB39A9479F06383F"
+				"size" "795BC72D129C3F5EFA6446A362910C7A"
+				"download" "A51FEAB79C710D7EE2DDCE48A2710654"
+			}
+			"dsnews_test_environment"
+			{
+				"gid" "60DD1A8B1253F74494FA83BB23810D95"
+				"size" "C16C45AC0B2692A3ADC64844E072FF37"
+				"download" "433B25A7D1DB0586D1F53465088EE326"
+			}
+			"endless_beta"
+			{
+				"gid" "B26EEEE0F346CB841FE84C22E8EE655C"
+				"size" "FE244981893A76CDAE6CC7696DE0F495"
+				"download" "E4F1E8AA39509D89F0FF479E3B99DB0B"
+			}
+			"mono_backend"
+			{
+				"gid" "50C78B7C92AADD3C15B602ED5C6A272B"
+				"size" "02B2DED734DE1D818E12E9C6849A7A50"
+				"download" "3F5D7E09467C2D6DFE417C38F8B3ABB2"
+			}
+			"public_previous_beta_compilation"
+			{
+				"gid" "9826B629561F41843208FEDF69F8AC38"
+				"size" "8EB50E66884C0935D9E46954938BED5D"
+				"download" "BB12EF443FD1A219724B2A013866DD18"
+			}
+			"public_previous_compilation"
+			{
+				"gid" "A44D867951A8A03EB82FD54925F0CCDC"
+				"size" "4CB9AB57618F9EF1398D8FC1F63F779B"
+				"download" "FBEFF65FD222D7B93466D3601AE0F6E1"
+			}
+			"ea_backup"
+			{
+				"gid" "F871EFE83B3BFC3E74BE5EBDC11ADF6B"
+				"size" "51C502872E5EAE149A03B77607CAC949"
+				"download" "CCC65C9B57E64F7F81CF1AE26E5E0653"
+			}
+			"review_process"
+			{
+				"gid" "178DCA550C283F11A335475E92D5B960"
+				"size" "D0B44DB3E0E44D1AE790B3C781C6CCF4"
+				"download" "6B7F28A429148B25081960B106561DAB"
+			}
+			"stable_testing"
+			{
+				"gid" "9338978211100A8C60C2D634126F0B24"
+				"size" "6E5933E8015C3271CE5C075991BCAE19"
+				"download" "A0A1E214B2552958D9016288C08A9BF1"
+			}
+			"qa_build1"
+			{
+				"gid" "9BABFF23D13865B2F6FF217125C25205"
+				"size" "26C6051269EF326863EE98BD84DAC20B"
+				"download" "8B874B53FAE9C3D4B52A77A08A4C3DAA"
+			}
+			"qa_build2"
+			{
+				"gid" "0C72B3A4F618D868DA46323B5A37FD55"
+				"size" "EAE9CFC28A3E19295C6FAEA66BB2A1A0"
+				"download" "69316E73CBA0925C42A36C6E66882D72"
+			}
+			"qa_build3"
+			{
+				"gid" "5DF38AE96FF7AE00FF1260D26D05A7A6"
+				"size" "5D17503C207C1EC1456AA2DBE8A33812"
+				"download" "9EE0CD44FBCDEAE1B08AFE9DBB87F9A2"
+			}
+			"qa_build4"
+			{
+				"gid" "CFD05CAB21FBA299AF46141B0574D603"
+				"size" "543AA44ABC4E38F77CA4456A9932380F"
+				"download" "49688F6BF9E20C1AA7844C98FD5304EF"
+			}
+			"backer_preview"
+			{
+				"gid" "6248DDDFC7BB36259E8A6F773C18D8D3"
+				"size" "0358A2115E6443E81822EA761673FEF4"
+				"download" "2B194F21EDB01A49C99C453BA1D8CA30"
+			}
+			"demo_gamescom"
+			{
+				"gid" "247CCECBD5A4A8F1E6B9ACE55C106B3C"
+				"size" "DA1DA2F6D788864F5CBD49480370E969"
+				"download" "570162CD5CD50AF013929155FDEAE183"
+			}
+			"development_internal"
+			{
+				"gid" "3E50F487E32FDB20218A0B2F76246CCE"
+				"size" "9C8497E3C34268368AF6F9C386E9EB76"
+				"download" "AC076D94154371102E04A9931C0549CD"
+			}
+			"marketing"
+			{
+				"gid" "A68EED118510F7B99FEB94EEE78809FB"
+				"size" "965E667F0DE7416E23CF81276763D5DB"
+				"download" "38BCF144BDBBB13D3FBD09E48CC6871D"
+			}
+			"demo"
+			{
+				"gid" "055E37B65B8DC58A133C9B7B85713C88"
+				"size" "A104B1EB56E4C48E07B3E82A9CA5E9E8"
+				"download" "161891C53A891E7A04E45A0FCC52D3C3"
+			}
+			"v0.18eagold"
+			{
+				"gid" "29A3FEA38FAE53D3CAAC2B6552451AF8"
+				"size" "1D42EADD17118B6A9E1BD507FCF90ECD"
+				"download" "BAF0810B22404D86BD64FC4BD952AC8A"
+			}
+		}
+	}
+	"workshopdepot" "1422440"
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16815305"
+			"timeupdated" "1734708526"
+		}
+		"auto_builds"
+		{
+			"buildid" "16808049"
+			"pwdrequired" "1"
+			"timeupdated" "1734655436"
+		}
+		"development"
+		{
+			"buildid" "16815305"
+			"pwdrequired" "1"
+			"timeupdated" "1734705331"
+		}
+		"dsnews_test_environment"
+		{
+			"buildid" "16642377"
+			"pwdrequired" "1"
+			"timeupdated" "1733398545"
+		}
+		"endless_beta"
+		{
+			"buildid" "16812624"
+			"pwdrequired" "1"
+			"timeupdated" "1734694594"
+		}
+		"mono_backend"
+		{
+			"buildid" "16390162"
+			"pwdrequired" "1"
+			"timeupdated" "1731492213"
+		}
+		"public_previous_beta_compilation"
+		{
+			"buildid" "16798336"
+			"pwdrequired" "1"
+			"timeupdated" "1734688100"
+		}
+		"public_previous_compilation"
+		{
+			"buildid" "16343840"
+			"pwdrequired" "1"
+			"timeupdated" "1734707000"
+		}
+		"ea_backup"
+		{
+			"buildid" "15820645"
+			"pwdrequired" "1"
+			"timeupdated" "1727719545"
+		}
+		"review_process"
+		{
+			"buildid" "14911761"
+			"pwdrequired" "1"
+			"timeupdated" "1720424335"
+		}
+		"stable_testing"
+		{
+			"buildid" "15818715"
+			"pwdrequired" "1"
+			"timeupdated" "1727248892"
+		}
+		"qa_build1"
+		{
+			"buildid" "16815305"
+			"pwdrequired" "1"
+			"timeupdated" "1734711933"
+		}
+		"qa_build2"
+		{
+			"buildid" "16801718"
+			"pwdrequired" "1"
+			"timeupdated" "1734619730"
+		}
+		"qa_build3"
+		{
+			"buildid" "16812624"
+			"pwdrequired" "1"
+			"timeupdated" "1734690381"
+		}
+		"qa_build4"
+		{
+			"buildid" "16788943"
+			"pwdrequired" "1"
+			"timeupdated" "1734537302"
+		}
+		"backer_preview"
+		{
+			"buildid" "13843659"
+			"pwdrequired" "1"
+			"timeupdated" "1711382143"
+		}
+		"demo_gamescom"
+		{
+			"buildid" "11809370"
+			"pwdrequired" "1"
+			"timeupdated" "1690809663"
+		}
+		"development_internal"
+		{
+			"buildid" "16812624"
+			"pwdrequired" "1"
+			"timeupdated" "1734690228"
+		}
+		"marketing"
+		{
+			"buildid" "14895183"
+			"pwdrequired" "1"
+			"timeupdated" "1719841377"
+		}
+		"demo"
+		{
+			"buildid" "14364176"
+			"pwdrequired" "1"
+			"timeupdated" "1715700642"
+		}
+		"v0.18eagold"
+		{
+			"buildid" "15087285"
+			"pwdrequired" "1"
+			"timeupdated" "1721386674"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "7000000000"
+	"maxnumfiles" "3000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/Campaign/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/Creative/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/Skirmish/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/Stats/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/Blueprints/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/Survival/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Digital Sun/Cataclismo/SavesMP/LevelEditor/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"addpath" "unity3d/"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"addpath" "/Library/Application Support/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26736331"
+"_sha" "6e24912472958136392162d1caa4a9951f5d50ad"
+"_size" "15767"
