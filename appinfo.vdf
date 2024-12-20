@@ -225,8 +225,8 @@
 		"1" "3834"
 		"2" "4231"
 		"3" "4747"
-		"4" "4474"
-		"5" "3871"
+		"4" "3871"
+		"5" "4474"
 		"6" "29482"
 		"7" "6426"
 		"8" "1695"
@@ -286,6 +286,14 @@
 			}
 		}
 	}
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+		}
+	}
 }
 "depots"
 {
@@ -301,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "7860827169301079906"
-				"size" "3900063130"
-				"download" "1106906048"
+				"gid" "7368447786428669834"
+				"size" "3424623268"
+				"download" "1069557296"
 			}
 		}
 		"encryptedmanifests"
@@ -314,6 +322,12 @@
 				"size" "5C046472AA2DA3D35E097CD0B724808A"
 				"download" "672732081B71A3E091C468DDCFF1AB50"
 			}
+			"closed_testing"
+			{
+				"gid" "D8A22757598120AF8D15ED1DD203554E"
+				"size" "D0DEAD6FDEC9BCCEC83C216954ECDF35"
+				"download" "04CA620D18460932923DC35F40D5E1D9"
+			}
 			"custom"
 			{
 				"gid" "0B50553445DE8E8340BE5FFE0CB8042E"
@@ -322,9 +336,9 @@
 			}
 			"deck13qa"
 			{
-				"gid" "5339B11CF644DB01CA02905A1DC5ED38"
-				"size" "6BB779E8EB8F1E94667B33D3D243CCEB"
-				"download" "4EA99A85BD391D4A1D08F46D9BC4BA15"
+				"gid" "8D6B7D147D1A68BC9C4EC262835D961E"
+				"size" "53686A45548892E3E50EE5257630589B"
+				"download" "023FBEE76DBEA59246272A6DA599D53A"
 			}
 			"demo"
 			{
@@ -334,15 +348,15 @@
 			}
 			"j2d_test_intern"
 			{
-				"gid" "F23C022055363FE2CAD20A606A7A224E"
-				"size" "88511410170619FDD930B1CF39469463"
-				"download" "291A2380DE503EE5104F5FEA17E90D14"
+				"gid" "71B6692749EF7AAA68A30EAEE9E26939"
+				"size" "359B8E126F7E267ABE8E54182FE5E479"
+				"download" "F8AA844B34480CB75F99732D443E9E0A"
 			}
 			"nightly"
 			{
-				"gid" "0C7BDF645FF98139499EC3FC8CA5E3EA"
+				"gid" "9EB27755BE604823527C7AA256E4111F"
 				"size" "B6C9653F87546A360B5B12BF7D5F81A8"
-				"download" "47E2A20D2548CC3A3CB35BFB8217FFC0"
+				"download" "F15F901E07BE7DB3FBDF2B6B1A385CB4"
 			}
 			"stable"
 			{
@@ -350,11 +364,17 @@
 				"size" "B555EF8FE6543BB5F41CA7274B06397B"
 				"download" "6B88EA85AAC73CC140C8CEB742F7EE02"
 			}
+			"steamdeck-verification"
+			{
+				"gid" "1714E2EB9CB9C3B1CB75966A61285C4A"
+				"size" "BE571B815ECE840291E12FF162B1DF8F"
+				"download" "47ECE574BCF473BA4023F7C69E51CFD2"
+			}
 			"trailer"
 			{
-				"gid" "C856630ED7BF8AF7A65D179D7491B733"
-				"size" "0FF5743B32D98BF16E9EDBF5828FEA2C"
-				"download" "7B8F0654F15FF837969B972A82670B33"
+				"gid" "699A18C5501178E5756DE64182CC4058"
+				"size" "8BB46857BCAAC6E5A4E537677B052C25"
+				"download" "C2C573EE71AF1AA764FF8B87BC0A02A0"
 			}
 			"usksubmission"
 			{
@@ -374,9 +394,9 @@
 		{
 			"public"
 			{
-				"gid" "3589038370250478255"
-				"size" "3797388225"
-				"download" "1090084976"
+				"gid" "5415631055718299203"
+				"size" "3321340943"
+				"download" "1052463808"
 			}
 		}
 		"encryptedmanifests"
@@ -387,17 +407,35 @@
 				"size" "0B1C86131C21BC2016348BA632ADB436"
 				"download" "8F96EAEBA9C51CAC2CF1BF1E357ACF85"
 			}
+			"closed_testing"
+			{
+				"gid" "3536DE4ECBD3C5A0B21CD5EF88C83124"
+				"size" "31B7F9C534F8171E4CE1D20F355AD8B0"
+				"download" "D8C862DA6C6D27DE4E10ED0226D0178E"
+			}
 			"deck13qa"
 			{
-				"gid" "B3E606C6A05DC2E326B6C4562C8AFA65"
-				"size" "106A804FF5A5E04CBA13C5F898E59A3C"
-				"download" "BD0037A494B1E8C240DC2618AB02FDA5"
+				"gid" "0B464734331CABA1ECC2651D52FE4227"
+				"size" "A4238E0F6AF23B3DC8FE1D2E319A528C"
+				"download" "1FD7F2EDA1D77235FB1A469592F11060"
+			}
+			"j2d_test_intern"
+			{
+				"gid" "B201CF24847CE46D2ACE6A677A786B25"
+				"size" "4449F6146FD8E03D9D80AA2D41041EB2"
+				"download" "C7E6BC1E30DBB28375ACE6E3F25D040E"
 			}
 			"stable"
 			{
 				"gid" "835107DB644E61AF2914945C1CE3232E"
 				"size" "E8C6078B752055EF8D09369E2506FF2D"
 				"download" "53318FFE11BBBBF2087E37799066DDA9"
+			}
+			"steamdeck-verification"
+			{
+				"gid" "97C4D476344BBA5D41C12B08E619D157"
+				"size" "8BE48644E2197B7BE772DF218D874882"
+				"download" "D5D5D9056D9D73581418CC550E1D599F"
 			}
 			"usksubmission"
 			{
@@ -417,24 +455,36 @@
 		{
 			"public"
 			{
-				"gid" "613648057226951220"
-				"size" "3873318031"
-				"download" "1098249632"
+				"gid" "6476014190872693966"
+				"size" "3396133056"
+				"download" "1061337360"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"closed_testing"
+			{
+				"gid" "9693C3219911A5A42F9334AF3A13AE10"
+				"size" "262713BF48E4FB9EED95CD57A54CC377"
+				"download" "274B1251E1BE07FDB548AFC411175DE1"
+			}
 			"deck13qa"
 			{
-				"gid" "75A99BEA6F026760FE2E42E08E24793A"
-				"size" "37D61BAAD83E23E009EA46DC2B5EDF16"
-				"download" "0503B9F008AFB3C24788AF3B73D85750"
+				"gid" "2CE3C193735B95C8116F31FDB6BD3A7B"
+				"size" "7F7B11FA55B7AD13FDF47D6AFD587A60"
+				"download" "7F59C6ECA8E091616D26522F4DE2FF6C"
 			}
 			"stable"
 			{
 				"gid" "C7311B2B647B5992EA2B104E06226E68"
 				"size" "20738D5C237B2646E352240512695374"
 				"download" "85EC5C20670B4DAC00982D60535EB300"
+			}
+			"steamdeck-verification"
+			{
+				"gid" "C8FBE0B28AB45E971AB6AF8D855FC16D"
+				"size" "435CDCBD36AA3E459DF2B59B2051FC44"
+				"download" "AC617C4C121CC8733712D51337135681"
 			}
 			"usksubmission"
 			{
@@ -448,8 +498,8 @@
 	{
 		"public"
 		{
-			"buildid" "16631984"
-			"timeupdated" "1733331715"
+			"buildid" "16805316"
+			"timeupdated" "1734637639"
 		}
 		"internal"
 		{
@@ -463,6 +513,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1699260078"
 		}
+		"closed_testing"
+		{
+			"buildid" "16771490"
+			"pwdrequired" "1"
+			"timeupdated" "1734430603"
+		}
 		"custom"
 		{
 			"buildid" "16008006"
@@ -471,9 +527,9 @@
 		}
 		"deck13qa"
 		{
-			"buildid" "16631984"
+			"buildid" "16805316"
 			"pwdrequired" "1"
-			"timeupdated" "1733330684"
+			"timeupdated" "1734637419"
 		}
 		"demo"
 		{
@@ -483,15 +539,15 @@
 		}
 		"j2d_test_intern"
 		{
-			"buildid" "16631245"
+			"buildid" "16805115"
 			"pwdrequired" "1"
-			"timeupdated" "1733326830"
+			"timeupdated" "1734636194"
 		}
 		"nightly"
 		{
-			"buildid" "16637861"
+			"buildid" "16809195"
 			"pwdrequired" "1"
-			"timeupdated" "1733367674"
+			"timeupdated" "1734663709"
 		}
 		"stable"
 		{
@@ -499,11 +555,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1728907310"
 		}
+		"steamdeck-verification"
+		{
+			"buildid" "16708340"
+			"pwdrequired" "1"
+			"timeupdated" "1733925545"
+		}
 		"trailer"
 		{
-			"buildid" "16540964"
+			"buildid" "16757700"
 			"pwdrequired" "1"
-			"timeupdated" "1732640053"
+			"timeupdated" "1734345220"
 		}
 		"usksubmission"
 		{
@@ -562,6 +624,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26500292"
-"_sha" "212e2fe04a96f237e5242f4e8f24526204aadd66"
-"_size" "10947"
+"_change_number" "26726240"
+"_sha" "07e7f757651add87003655a3c5daa5d3fc10fdad"
+"_size" "12568"
