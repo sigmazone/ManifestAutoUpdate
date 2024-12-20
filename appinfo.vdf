@@ -1,0 +1,360 @@
+"appid" "1748390"
+"common"
+{
+	"name" "Rocket Bot Royale"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"logo" "503761390ddf2826cc3eb9ae4b968e5a2f0b1a86"
+	"logo_small" "503761390ddf2826cc3eb9ae4b968e5a2f0b1a86_thumb"
+	"icon" "805d4aaeec6a9b9e451d44279ec10bd4f85173f3"
+	"clienticon" "40ab229a63e1c22a1e609afcbee574721ae84dd9"
+	"clienttga" "10266bd3042ff8c9bce4b268898c4fe5036baa89"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1654819200"
+		"tested_build_id" "8800557"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "53.76308996411666"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "53.76308996411666"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1705085968"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Winterpixel Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Winterpixel Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "29"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1650489960"
+	"community_hub_visible" "1"
+	"gameid" "1748390"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "176981"
+		"2" "1775"
+		"3" "5379"
+		"4" "128"
+		"5" "1773"
+		"6" "11104"
+		"7" "9"
+		"8" "4004"
+		"9" "4094"
+		"10" "13276"
+		"11" "1708"
+		"12" "4305"
+		"13" "19"
+		"14" "5752"
+		"15" "4747"
+		"16" "3993"
+		"17" "3871"
+		"18" "7481"
+		"19" "3968"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Winterpixel Games"
+	"publisher" "Winterpixel Games"
+	"homepage" "https://rocketbotroyale.winterpixel.io/"
+}
+"config"
+{
+	"installdir" "Rocket Bot Royale"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "rocketbotroyale.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "RocketBotRoyale.app\\Contents\\MacOS\\RocketBotRoyale"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "steam_launcher.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1748391"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8835268404542250565"
+				"size" "60"
+				"download" "112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "E0218A9A3DA10449235BC8103E09ED88"
+				"size" "BAE2D6E3367C42D5A967741E6DBC2354"
+				"download" "35FA3EE26D6B662277A17C85C1076439"
+			}
+		}
+	}
+	"1748392"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "840044042812930531"
+				"size" "69581144"
+				"download" "30879408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C9B0F040380D7FF395A576509C704A93"
+				"size" "D2C454A1C82689215D6EEA00AA5F9479"
+				"download" "AE4D58A5388CCC74DCF1189FC87100CB"
+			}
+		}
+	}
+	"1748393"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8923376270155039389"
+				"size" "78587220"
+				"download" "32953184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "10435A0972E119D6B658902D2A17CAD9"
+				"size" "FBDFF0F85E7849DDE596B51E63B6BC03"
+				"download" "B888530EBF8E53BEDB761FFFC0D83925"
+			}
+		}
+	}
+	"1748394"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6881510878720537905"
+				"size" "76888280"
+				"download" "32927056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "E4472B075C949943D414F32E42208607"
+				"size" "6BCA66D89DF27FBE8744FCBAB70EBEE4"
+				"download" "C2021515D698B3213255CB0BEA3A26B6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16792578"
+			"timeupdated" "1734558625"
+		}
+		"beta"
+		{
+			"buildid" "16792578"
+			"pwdrequired" "1"
+			"timeupdated" "1734558637"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26702870"
+"_sha" "ccd21f2fe7c89f35c9c5d27178bdb1fcb6c18af2"
+"_size" "6305"
