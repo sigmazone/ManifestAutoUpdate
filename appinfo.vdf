@@ -306,6 +306,16 @@
 			}
 			"description" "Default Launcher"
 		}
+		"1"
+		{
+			"executable" "LoopstructorLauncher.exe"
+			"description_loc"
+			{
+				"english" " Launcher With Mod（Alpha Test Only）"
+				"schinese" "以Mod方式运行（仅限Alpha测试分支）"
+			}
+			"description" " Launcher With Mod（Alpha Test Only）"
+		}
 	}
 }
 "depots"
@@ -317,24 +327,15 @@
 		{
 			"public"
 			{
-				"gid" "9200380114728926568"
-				"size" "1606836927"
-				"download" "518148704"
+				"gid" "7032868741972375379"
+				"size" "1848374240"
+				"download" "534312416"
 			}
 			"alpha"
 			{
-				"gid" "3334071883365787997"
-				"size" "1846671608"
-				"download" "533142848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"workshop"
-			{
-				"gid" "DD74F92BD41874573DD9AE23FC3DC7F9"
-				"size" "7312D02BD5A3E8BC93D9B059D5FD085B"
-				"download" "8F4B40919F27C7373D987823ED2AF9B9"
+				"gid" "7032868741972375379"
+				"size" "1848374240"
+				"download" "534312416"
 			}
 		}
 	}
@@ -346,22 +347,17 @@
 	{
 		"public"
 		{
-			"buildid" "16574998"
-			"timeupdated" "1732862950"
+			"buildid" "16822188"
+			"timeupdated" "1734764231"
 		}
 		"alpha"
 		{
-			"buildid" "16552717"
+			"buildid" "16822188"
 			"description" "alpha test branch"
-			"timeupdated" "1732766714"
-		}
-		"workshop"
-		{
-			"buildid" "16298322"
-			"pwdrequired" "1"
-			"timeupdated" "1730798203"
+			"timeupdated" "1734760913"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -384,6 +380,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26417489"
-"_sha" "a4d9e9535c7c48585653bde8dc6d5722122c1e3e"
-"_size" "6814"
+"_change_number" "26744035"
+"_sha" "ba7eaa934fc8ddf871934efc4eadbe62510f7159"
+"_size" "6808"
