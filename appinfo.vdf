@@ -83,7 +83,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725367340"
+	"store_asset_mtime" "1734711224"
 	"associations"
 	{
 		"0"
@@ -98,20 +98,15 @@
 		}
 		"2"
 		{
-			"type" "developer"
-			"name" "SJGZS"
+			"type" "publisher"
+			"name" "TuJi Game"
 		}
 		"3"
 		{
 			"type" "publisher"
-			"name" "TuJi Game"
-		}
-		"4"
-		{
-			"type" "publisher"
 			"name" "MuMei Game design"
 		}
-		"5"
+		"4"
 		{
 			"type" "franchise"
 			"name" "Backroom Lost"
@@ -150,7 +145,21 @@
 		"schinese"
 		{
 			"supported" "true"
-			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
 			"subtitles" "true"
 		}
 	}
@@ -173,8 +182,8 @@
 		"10" "1720"
 		"11" "4175"
 		"12" "3839"
-		"13" "1721"
-		"14" "1667"
+		"13" "1667"
+		"14" "1721"
 		"15" "4064"
 		"16" "3859"
 		"17" "4166"
@@ -182,7 +191,7 @@
 		"19" "10695"
 	}
 	"review_score" "5"
-	"review_percentage" "54"
+	"review_percentage" "52"
 }
 "extended"
 {
@@ -208,7 +217,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,tchinese"
+	"baselanguages" "english,french,schinese,tchinese,russian,japanese"
 	"hasdepotsindlc" "0"
 	"228989"
 	{
@@ -228,15 +237,20 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"2924301"
+	"2924302"
 	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6501489608736485606"
-				"size" "11403053097"
-				"download" "11062756496"
+				"gid" "6712063237961834135"
+				"size" "14241785714"
+				"download" "13500835376"
 			}
 		}
 	}
@@ -244,12 +258,12 @@
 	{
 		"public"
 		{
-			"buildid" "15704989"
-			"timeupdated" "1726369026"
+			"buildid" "16818796"
+			"timeupdated" "1734727346"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25244569"
-"_sha" "7d67049e4cf739a7bd797c10b27881945596bb09"
-"_size" "4051"
+"_change_number" "26739550"
+"_sha" "ae830eb4f0026e5310a37caa2b3736507aae3fac"
+"_size" "4267"
