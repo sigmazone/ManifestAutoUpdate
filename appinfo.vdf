@@ -203,26 +203,26 @@
 	"exfgls" "3"
 	"store_tags"
 	{
-		"0" "113"
-		"1" "1676"
-		"2" "9"
-		"3" "1723"
-		"4" "3843"
-		"5" "19"
-		"6" "1685"
-		"7" "4821"
-		"8" "3859"
-		"9" "493"
-		"10" "4182"
-		"11" "3813"
-		"12" "7332"
-		"13" "1775"
-		"14" "4684"
-		"15" "8945"
-		"16" "5055"
-		"17" "6730"
-		"18" "4191"
-		"19" "5851"
+		"0" "5055"
+		"1" "1678"
+		"2" "1643"
+		"3" "1684"
+		"4" "1669"
+		"5" "113"
+		"6" "1676"
+		"7" "9"
+		"8" "1723"
+		"9" "3843"
+		"10" "1685"
+		"11" "4821"
+		"12" "3859"
+		"13" "4182"
+		"14" "493"
+		"15" "3813"
+		"16" "7332"
+		"17" "1775"
+		"18" "4684"
+		"19" "8945"
 	}
 	"review_score" "5"
 	"review_percentage" "49"
@@ -275,8 +275,8 @@
 		}
 		"5"
 		{
-			"executable" "Stormgate.exe"
-			"arguments" "-noEOS -env stage -dx11 -login steam"
+			"executable" "start_protected_game.exe"
+			"arguments" "-env stage -dx11 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -290,8 +290,8 @@
 		}
 		"6"
 		{
-			"executable" "Stormgate.exe"
-			"arguments" "-noEOS -env stage -dx12 -login steam"
+			"executable" "start_protected_game.exe"
+			"arguments" "-env stage -dx12 -login steam"
 			"type" "option1"
 			"config"
 			{
@@ -390,9 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "2161720575124530288"
-				"size" "10377888575"
-				"download" "8861073936"
+				"gid" "3152215069758372681"
+				"size" "10378938262"
+				"download" "8862817472"
 			}
 		}
 	}
@@ -400,13 +400,13 @@
 	{
 		"public"
 		{
-			"buildid" "16743609"
-			"timeupdated" "1734467730"
+			"buildid" "16817851"
+			"timeupdated" "1734732571"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26684237"
-"_sha" "8de39d379b9404294dc179ac9886fb97c2fa6d44"
-"_size" "7170"
+"_change_number" "26740478"
+"_sha" "559a108ca3a266080b0219f800b7c8649cc3be5c"
+"_size" "7180"
