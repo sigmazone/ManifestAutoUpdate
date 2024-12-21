@@ -22,6 +22,11 @@
 		}
 	}
 	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -139,7 +144,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1714643697"
+	"store_asset_mtime" "1730114757"
 	"associations"
 	{
 		"0"
@@ -184,6 +189,7 @@
 		"category_55" "1"
 		"category_57" "1"
 		"category_59" "1"
+		"category_35" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -369,12 +375,6 @@
 				"size" "0"
 				"download" "0"
 			}
-			"insomnia68-event"
-			{
-				"gid" "4896115814617911016"
-				"size" "8535356395"
-				"download" "6671519456"
-			}
 			"experimental"
 			{
 				"gid" "9147263525803475405"
@@ -415,21 +415,15 @@
 		{
 			"public"
 			{
-				"gid" "5216489553892159087"
-				"size" "11496601093"
-				"download" "4284448544"
-			}
-			"insomnia68-event"
-			{
-				"gid" "7860231754773236546"
-				"size" "8472625525"
-				"download" "6642061296"
+				"gid" "7752006688990434844"
+				"size" "13350466335"
+				"download" "4792753360"
 			}
 			"experimental"
 			{
-				"gid" "5216489553892159087"
-				"size" "11496601093"
-				"download" "4284448544"
+				"gid" "7752006688990434844"
+				"size" "13350466335"
+				"download" "4792753360"
 			}
 		}
 		"encryptedmanifests"
@@ -448,9 +442,9 @@
 			}
 			"pre-experimental"
 			{
-				"gid" "1C7A3FCD732B28C16113C9C01EF98E85"
-				"size" "331ABF43289365EF4F0349857868163C"
-				"download" "3063C10B112AD3B2857ABF8F54688052"
+				"gid" "7D542EE0A6C101CABB6104B4192F33D9"
+				"size" "59E5F2B390F2411B0087CC36F0BB7D92"
+				"download" "BBD20F7E0A35F46D18DFA2EE8DBFD898"
 			}
 		}
 	}
@@ -467,14 +461,8 @@
 	{
 		"public"
 		{
-			"buildid" "15616041"
-			"timeupdated" "1725657782"
-		}
-		"insomnia68-event"
-		{
-			"buildid" "8570134"
-			"description" "i68 farm event"
-			"timeupdated" "1652257492"
+			"buildid" "16814328"
+			"timeupdated" "1734709506"
 		}
 		"pre-master"
 		{
@@ -490,15 +478,15 @@
 		}
 		"experimental"
 		{
-			"buildid" "15616041"
+			"buildid" "16814328"
 			"description" "Most up to date testing branch. In here things will be more broken than in the public branch. Expect more DB resets and a lot more bugs. Be in here if you\'re hunting for the newest issues."
-			"timeupdated" "1725657728"
+			"timeupdated" "1734709480"
 		}
 		"pre-experimental"
 		{
-			"buildid" "15616041"
+			"buildid" "16814328"
 			"pwdrequired" "1"
-			"timeupdated" "1725625111"
+			"timeupdated" "1734699723"
 		}
 	}
 }
@@ -507,45 +495,7 @@
 	"quota" "100000000"
 	"maxnumfiles" "1000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_outofgame" "{#State_%gameState%}"
-				"#status_ingame" "{#State_%gameState%} {#Char_Body}{#Status_%charState%} {#Nights_Body} %nightsScore%"
-				"#status_solo" "{#State_%gameState%} {#Char_Body}{#Status_%charState%} {#Nights_Body} %nightsScore%"
-				"#state_menu" "In the menu"
-				"#state_solo" "Solo"
-				"#state_public" "Public"
-				"#state_private" "Private"
-				"#nights_body" " | Nights survived"
-				"#char_body" " | "
-				"#password_body" " | Pass: "
-				"#status_eat" "Eating"
-				"#status_idle" "Exploring"
-				"#status_heal" "Healing"
-				"#status_weak" "Feeling weak"
-				"#status_strong" "Feeling strong"
-				"#status_fortifying" "Fortifying!"
-				"#status_driving" "Driving!"
-				"#status_passenger" "Riding shotgun!"
-				"#status_chop" "Felling a tree"
-				"#status_zomb" "Killing zombies"
-				"#status_hunting" "Hunting"
-				"#status_looting" "Looting"
-				"#status_fire" "Starting a fire"
-				"#status_gen" "Starting a generator"
-				"#status_trap" "Setting a trap"
-				"#status_clean" "Cleaing weapon"
-				"#status_sharp" "Sharpering tool"
-				"#status_lock" "Locking a door"
-				"#status_craft" "Crafting an item"
-				"#status_harvest" "Scanvenging"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26735710"
+"_sha" "2b572b9e5bc717b619feae9ad228e44ee32ede24"
+"_size" "9329"
