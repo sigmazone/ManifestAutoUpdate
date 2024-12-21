@@ -17,6 +17,60 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727913600"
+		"tested_build_id" "15648616"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -144,14 +198,14 @@
 		"14" "5125"
 	}
 	"review_score" "5"
-	"review_percentage" "47"
+	"review_percentage" "46"
 }
 "extended"
 {
 	"developer" "Polygon Art"
 	"publisher" "Polygon Art Publishing"
 	"homepage" "http://unitedassault.com/"
-	"listofdlc" "3140140,3140150"
+	"listofdlc" "3140140,3140150,3202680"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -207,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "8662090009852871834"
-				"size" "6258310277"
-				"download" "5991395456"
+				"gid" "3014221675564723132"
+				"size" "6370876416"
+				"download" "6102338736"
 			}
 			"debug_build"
 			{
@@ -225,18 +279,24 @@
 			}
 			"development_preview"
 			{
-				"gid" "8662090009852871834"
-				"size" "6258310277"
-				"download" "5991395456"
+				"gid" "3014221675564723132"
+				"size" "6370876416"
+				"download" "6102338736"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"console_legacy"
+			{
+				"gid" "1999FF96F5BFCC978194EE35F9F75A2A"
+				"size" "7FE3F5246037DEEF18689FC3D76AC556"
+				"download" "4447FFDD438613EB0DE9E10D91E10FFC"
+			}
 			"development"
 			{
-				"gid" "B44FC99D8D746BE94742AF109363B465"
-				"size" "B4F985E01358742ADBED3498D6A10742"
-				"download" "263A66057DAF5CF3C1734478E8CC1091"
+				"gid" "7CCB75E9EC86688246B4954C36A7E3C2"
+				"size" "131F16012EB0E1CAE0BE3656D03E6B93"
+				"download" "88DBB93F1519B7AB743D42B5BA2EA77C"
 			}
 		}
 	}
@@ -276,6 +336,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"console_legacy"
+			{
+				"gid" "F2F66631599612C2CC0F23E504D79DF1"
+				"size" "CFF66B19CE8362C3A679B4FF8C6D740C"
+				"download" "596EB08B1B0F548554E6686924F5197D"
+			}
 			"development"
 			{
 				"gid" "F818E4C6E9DDF136E127B81E6BDCF085"
@@ -288,8 +354,8 @@
 	{
 		"public"
 		{
-			"buildid" "15648616"
-			"timeupdated" "1726217657"
+			"buildid" "16797686"
+			"timeupdated" "1734597265"
 		}
 		"debug_build"
 		{
@@ -303,17 +369,23 @@
 			"description" "legacy"
 			"timeupdated" "1668253348"
 		}
+		"console_legacy"
+		{
+			"buildid" "16498468"
+			"pwdrequired" "1"
+			"timeupdated" "1732270117"
+		}
 		"development"
 		{
-			"buildid" "15648616"
+			"buildid" "16797686"
 			"pwdrequired" "1"
-			"timeupdated" "1725957813"
+			"timeupdated" "1734597226"
 		}
 		"development_preview"
 		{
-			"buildid" "15648616"
+			"buildid" "16797686"
 			"description" "Public Development Preview"
-			"timeupdated" "1726217608"
+			"timeupdated" "1734597236"
 		}
 	}
 }
@@ -322,3 +394,7 @@
 	"quota" "100000000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "26709759"
+"_sha" "421c138823fffd679ab210de99280e5184fa2746"
+"_size" "7325"
