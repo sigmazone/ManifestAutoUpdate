@@ -96,7 +96,45 @@
 			"height_pct" "89.01021135122295"
 		}
 	}
-	"store_asset_mtime" "1636684967"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "89.01021135122295"
+			}
+		}
+	}
+	"store_asset_mtime" "1734708969"
 	"associations"
 	{
 		"0"
@@ -138,7 +176,61 @@
 		"english"
 		{
 			"supported" "true"
-			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
 			"subtitles" "true"
 		}
 	}
@@ -170,7 +262,7 @@
 		"19" "12095"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -208,24 +300,24 @@
 		{
 			"public"
 			{
-				"gid" "3118868706215112038"
-				"size" "9783124493"
-				"download" "3271955296"
-			}
-			"test"
-			{
-				"gid" "2375668172225625724"
-				"size" "9781805899"
-				"download" "3271509168"
+				"gid" "5453560202278053564"
+				"size" "9518585832"
+				"download" "3206042448"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"legacy"
+			{
+				"gid" "8967B85EE6C7F3EBB7D86ED93E03A00B"
+				"size" "E8118C18D496A8558B31977F42376E73"
+				"download" "212B6ECEE412E08D0436529640E03DE6"
+			}
 			"private"
 			{
-				"gid" "CEC9D86C902A2AB3B75C37AC55BAE022"
-				"size" "4ED96CBDC61332AA77D8C9B431D39AC3"
-				"download" "E3953140743A8C6538D6A15A9139961C"
+				"gid" "18680DEFC00C3496DF2FAA64491D46EF"
+				"size" "98128EC9BC67EBD80996D15C8F2531B1"
+				"download" "F5F0161EAB02B22B08E0DB9B4396B4BD"
 			}
 		}
 	}
@@ -233,20 +325,20 @@
 	{
 		"public"
 		{
-			"buildid" "8065578"
-			"timeupdated" "1642818696"
+			"buildid" "16815711"
+			"timeupdated" "1734707976"
+		}
+		"legacy"
+		{
+			"buildid" "7488828"
+			"pwdrequired" "1"
+			"timeupdated" "1734719881"
 		}
 		"private"
 		{
-			"buildid" "8065578"
+			"buildid" "16815711"
 			"pwdrequired" "1"
-			"timeupdated" "1642818504"
-		}
-		"test"
-		{
-			"buildid" "7751209"
-			"description" "Testing branch"
-			"timeupdated" "1637502335"
+			"timeupdated" "1734707766"
 		}
 	}
 }
@@ -268,3 +360,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26738298"
+"_sha" "f2c9aa89916482160ba00b09bd6b709373cc98c6"
+"_size" "6423"
