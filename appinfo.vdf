@@ -1,0 +1,258 @@
+"appid" "2435090"
+"common"
+{
+	"name" "Talented"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "b98aa24c3e852370530b0770241415504d8d3f23"
+	"clienttga" "8548cb8afcb0ac69569f295aca9e569a435ac213"
+	"icon" "61a7a2452086e5ddbea4787e6f3106a18924cc6a"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1702425600"
+		"tested_build_id" "12614401"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.568842921784096"
+			"height_pct" "88.19444444444446"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.568842921784096"
+				"height_pct" "88.19444444444446"
+			}
+		}
+	}
+	"store_asset_mtime" "1734369816"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TurtleFox Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TurtleFox Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1734682944"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2435090"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4885"
+		"2" "3964"
+		"3" "3959"
+		"4" "4255"
+		"5" "1645"
+		"6" "4004"
+		"7" "492"
+		"8" "1773"
+		"9" "3871"
+		"10" "4791"
+		"11" "19"
+		"12" "1716"
+		"13" "4726"
+		"14" "4182"
+		"15" "493"
+		"16" "1756"
+		"17" "3993"
+		"18" "3810"
+		"19" "1084988"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "TurtleFox Games"
+	"publisher" "TurtleFox Games"
+}
+"config"
+{
+	"installdir" "Talented"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Talented.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2435091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6231644092810019875"
+				"size" "227273361"
+				"download" "61952752"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16818530"
+			"timeupdated" "1734725252"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "TurtleFox Games/Talented"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26739211"
+"_sha" "c32d36b2ae913949499bb14623ffc90a1fc7d6b3"
+"_size" "4371"
