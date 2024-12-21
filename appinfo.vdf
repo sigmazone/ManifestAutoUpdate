@@ -1,0 +1,410 @@
+"appid" "1933820"
+"common"
+{
+	"name" "SGS Korean War"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"clienticon" "b3357a82fab696ebfbf675a24911a1dd95dd9fe8"
+	"clienttga" "472bdecea17355e8981a1b0ea77d691b4658714d"
+	"icon" "3ccd4bbc813088fe952cfa13c58283ecc7a08ea1"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1672876800"
+		"tested_build_id" "10163273"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "92.00700116686113"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "92.00700116686113"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1674142488"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Strategy Game Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Avalon Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "SGS"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1666885407"
+	"community_hub_visible" "1"
+	"gameid" "1933820"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1741"
+		"2" "4684"
+		"3" "26921"
+		"4" "3871"
+		"5" "1678"
+		"6" "5179"
+		"7" "3987"
+		"8" "4168"
+		"9" "1775"
+		"10" "599"
+		"11" "4182"
+		"12" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Strategy Game Studio"
+	"publisher" "Avalon Digital"
+	"homepage" "https://strategygamestudio.com/"
+}
+"config"
+{
+	"installdir" "SGS Korean War"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "32Bits/KoreanWar.exe"
+			"workingdir" "32Bits"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "64Bits/KoreanWar.exe"
+			"workingdir" "64Bits"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "KoreanWar.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1933821"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2481578978619857635"
+				"size" "1091592975"
+				"download" "894902304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "A3EB88E59833CCBD10EED422C88C3F2B"
+				"size" "50CC656DE44AC310F20ED22BE1460F49"
+				"download" "42B5D2B5F8BBF91D49BC68A1C7854E39"
+			}
+			"prerelease"
+			{
+				"gid" "7232A9E11DD2815ABD0D51217B9E1515"
+				"size" "D383A84000723DE71A3DFFBF1D685F2D"
+				"download" "23297D72952422E48FB03D079B230D39"
+			}
+		}
+	}
+	"1933822"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1947858043958905161"
+				"size" "604066963"
+				"download" "210401904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "D8F2654CF296C15D0C035DD07E566104"
+				"size" "4F5D2FDCF59DDC2F4005E4F8B2AF030B"
+				"download" "81A3EB7B68323FA347CC133F9EA3B51C"
+			}
+			"prerelease"
+			{
+				"gid" "1C7B96DC27D907A2BCF72D79DACCEF01"
+				"size" "E683E91303E252621242D636B5DCD666"
+				"download" "0A6491D425C81426CB259AA56DA16ADD"
+			}
+		}
+	}
+	"1933823"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1321364806174670885"
+				"size" "617729253"
+				"download" "214470112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "5357B0256E26BE84A69586F9A5CAC3C8"
+				"size" "94BB10B34F4D70EFF1FF4F47A8FBBB61"
+				"download" "E3214882D9038C02308F43C95CF69BD1"
+			}
+			"prerelease"
+			{
+				"gid" "596C2272A330D66F75D6D2D78074D17C"
+				"size" "A50612CA0CB8FC2B3F5DC846EA6DBAFF"
+				"download" "DA51EF0F3F29AB41ED2A108217E6695F"
+			}
+		}
+	}
+	"1933824"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8381386280867435449"
+				"size" "612460596"
+				"download" "214409776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "423ADA3B6C0DEB72A41B7B702B58D860"
+				"size" "67FA9FD8DE0CABBC097AD632734B5CF0"
+				"download" "E5D6022506EECA230307F193BB514A3E"
+			}
+			"prerelease"
+			{
+				"gid" "9A07C47543C569C2412CC9D93BBF26C9"
+				"size" "59D9414ADE182723CCC4BF1DF3A3D156"
+				"download" "5E834260729829DDE41B999D9BC3DE60"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16550660"
+			"timeupdated" "1732703849"
+		}
+		"development"
+		{
+			"buildid" "16472183"
+			"pwdrequired" "1"
+			"timeupdated" "1732105443"
+		}
+		"prerelease"
+		{
+			"buildid" "16550660"
+			"pwdrequired" "1"
+			"timeupdated" "1732703239"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26383551"
+"_sha" "2e8c2e0070047bbaee2b93ea78c361e0a325d101"
+"_size" "7140"
