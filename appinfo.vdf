@@ -147,18 +147,18 @@
 		"3" "4345"
 		"4" "1662"
 		"5" "1695"
-		"6" "122"
-		"7" "4747"
-		"8" "3810"
-		"9" "9130"
+		"6" "9130"
+		"7" "122"
+		"8" "4747"
+		"9" "3810"
 		"10" "1702"
 		"11" "19"
 		"12" "4085"
 		"13" "3834"
 		"14" "3871"
 		"15" "7332"
-		"16" "12472"
-		"17" "1100689"
+		"16" "1100689"
+		"17" "12472"
 		"18" "4182"
 		"19" "493"
 	}
@@ -202,30 +202,27 @@
 		{
 			"public"
 			{
+				"gid" "8486749005970208828"
+				"size" "1639187388"
+				"download" "1344511952"
+			}
+			"v0.0.12"
+			{
+				"gid" "2411165380119333150"
+				"size" "1376008838"
+				"download" "1130157008"
+			}
+			"v0.1.8"
+			{
 				"gid" "8926473353500416241"
 				"size" "1541848500"
 				"download" "1259755136"
 			}
 			"beta_open"
 			{
-				"gid" "8926473353500416241"
-				"size" "1541848500"
-				"download" "1259755136"
-			}
-			"oldver"
-			{
-				"gid" "2411165380119333150"
-				"size" "1376008838"
-				"download" "1130157008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_close"
-			{
-				"gid" "07C63827BCF954416F65EB736DA31A00"
-				"size" "7B3ADF515BEDB9A8ABBC2D4F26E9E778"
-				"download" "8C3E35F3CC745DCB37D4CD124D04FCEF"
+				"gid" "8486749005970208828"
+				"size" "1639187388"
+				"download" "1344511952"
 			}
 		}
 	}
@@ -234,28 +231,29 @@
 	{
 		"public"
 		{
-			"buildid" "15631358"
-			"timeupdated" "1725814905"
+			"buildid" "16822965"
+			"timeupdated" "1734774132"
 		}
-		"beta_close"
-		{
-			"buildid" "15631358"
-			"pwdrequired" "1"
-			"timeupdated" "1725814579"
-		}
-		"beta_open"
-		{
-			"buildid" "15631358"
-			"description" "Open test"
-			"timeupdated" "1725814883"
-		}
-		"oldver"
+		"v0.0.12"
 		{
 			"buildid" "14873604"
 			"description" "ver 0.0.12"
-			"timeupdated" "1724200198"
+			"timeupdated" "1734086785"
+		}
+		"v0.1.8"
+		{
+			"buildid" "15631358"
+			"description" "ver 0.1.8"
+			"timeupdated" "1734086667"
+		}
+		"beta_open"
+		{
+			"buildid" "16822965"
+			"description" "Open test"
+			"timeupdated" "1734773985"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -271,3 +269,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26744881"
+"_sha" "4a230ae30ecda09f9f2ca4f08eb800ad2f3f2846"
+"_size" "4298"
