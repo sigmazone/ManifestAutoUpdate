@@ -1,0 +1,381 @@
+"appid" "1044720"
+"common"
+{
+	"name" "Farthest Frontier"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"swedish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"logo" "d4a8ac1135e49a3d9b9cd2033450c1942f138f81"
+	"logo_small" "d4a8ac1135e49a3d9b9cd2033450c1942f138f81_thumb"
+	"icon" "cf1ae1413c4bb9ce725bd000fd452809f147453e"
+	"clienticon" "57959cf303ae1d11c1e8d8b467fd016ebf2abbe5"
+	"clienttga" "ffe1d898ad313bb4cdb5310e45a4a7a97cb76cf5"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664582400"
+		"tested_build_id" "9300608"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Farthest Frontier"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1732311333"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crate Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crate Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1660053741"
+	"community_hub_visible" "1"
+	"gameid" "1044720"
+	"store_tags"
+	{
+		"0" "3987"
+		"1" "22602"
+		"2" "1670"
+		"3" "9204"
+		"4" "4172"
+		"5" "4328"
+		"6" "4791"
+		"7" "8945"
+		"8" "1676"
+		"9" "9"
+		"10" "12472"
+		"11" "1643"
+		"12" "599"
+		"13" "7332"
+		"14" "4695"
+		"15" "1662"
+		"16" "1723"
+		"17" "4520"
+		"18" "1678"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Crate Entertainment"
+	"publisher" "Crate Entertainment"
+	"homepage" "https://www.farthestfrontier.com"
+}
+"config"
+{
+	"installdir" "Farthest Frontier"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Farthest Frontier.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1044721"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3689479288242196551"
+				"size" "5163387753"
+				"download" "2283095120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"contractor"
+			{
+				"gid" "642BCBA888F2721F22FE2074B2380E33"
+				"size" "415C462D52D9C88E197CD7137AEAC55C"
+				"download" "135DB3DA559B84F25B3856022B5168F8"
+			}
+			"internal"
+			{
+				"gid" "17ABED77F91870FB1389612C8FAB2B8F"
+				"size" "83AD6B398148F87EBB8687D8637AE3C4"
+				"download" "A7B4D6293A99105E8ACE23D82B917ED3"
+			}
+			"sandbox"
+			{
+				"gid" "276BCFBC3B144B3F9A0FE7AE590A78D2"
+				"size" "7FADE3DE5F8822F7FAB268BDA35510BB"
+				"download" "C48110DEA2A67F9D8DEEEAB28304A8CB"
+			}
+		}
+	}
+	"workshopdepot" "1044720"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16819382"
+			"timeupdated" "1734733132"
+		}
+		"contractor"
+		{
+			"buildid" "16329715"
+			"pwdrequired" "1"
+			"timeupdated" "1730994520"
+		}
+		"internal"
+		{
+			"buildid" "16819044"
+			"pwdrequired" "1"
+			"timeupdated" "1734728945"
+		}
+		"sandbox"
+		{
+			"buildid" "15151412"
+			"pwdrequired" "1"
+			"timeupdated" "1721917170"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Farthest Frontier/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Farthest Frontier/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Farthest Frontier/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26740590"
+"_sha" "cfcb2277dafef63cc956715623b03160cfdbc9fd"
+"_size" "6458"
