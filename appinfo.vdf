@@ -1,0 +1,271 @@
+"appid" "1836200"
+"common"
+{
+	"name" "Fallout 76 Public Test Server"
+	"type" "Beta"
+	"parent" "1151340"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "371ddde278809ff35f9ea406c921fc66d0510f47"
+	"clienticon" "e70e202c276d3e49163d30f320c778ac8648ec79"
+	"icon" "e153521098b536cc1ca5a79e03031533c44a6b05"
+	"logo" "6fadf075d478c811dff8de8900c662e84704a01f"
+	"logo_small" "6fadf075d478c811dff8de8900c662e84704a01f_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1663286400"
+		"tested_build_id" "8750170"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.953488372093034"
+			"height_pct" "77.35692234623605"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "58.953488372093034"
+				"height_pct" "77.35692234623605"
+			}
+		}
+	}
+	"store_asset_mtime" "1641218655"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1643658448"
+	"community_hub_visible" "1"
+	"gameid" "1836200"
+	"exfgls" "9"
+	"review_score" "5"
+	"review_percentage" "63"
+}
+"extended"
+{
+	"betaforappid" "1151340"
+}
+"config"
+{
+	"installdir" "Fallout 76 Playtest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fallout76.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1836201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "18716366384833085"
+				"size" "110004170"
+				"download" "54452192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "83BA8A7DA2BBA95B90536FE4F5B5B9C7"
+				"size" "05783BCCF580A9C3422D5FE52D79DFBD"
+				"download" "713AC6520011F8D1749F583FA5EB85DD"
+			}
+		}
+	}
+	"1836202"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8715197044460004405"
+				"size" "113158567206"
+				"download" "103438390896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "AC13A2FA0C2F6144BF7A2D3EA3378F14"
+				"size" "4D6A1FB7A547603DEB16086AE9C84067"
+				"download" "F87F8EF4C5C088B51E98F9BD242D6434"
+			}
+		}
+	}
+	"1836203"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4721230686039146882"
+				"size" "3579031757"
+				"download" "3020311296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "0AD012A5F1D0B3E7D9EC9561905944D7"
+				"size" "F81DF1DA15121D5B476A005C502F1C31"
+				"download" "DADB70E37B4CFF839C364A20F09F12F6"
+			}
+		}
+	}
+	"1836204"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8405359075855083219"
+				"size" "13533071"
+				"download" "2800432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "63D7E300EC7E239D9719D2A6EF4D5D8F"
+				"size" "3DFC618E8483DF4573EF46852CEFDBA5"
+				"download" "D80B20D52826128DE2D24A54B18A000C"
+			}
+		}
+	}
+	"1836205"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8600821800727138113"
+				"size" "4566"
+				"download" "1456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "82B36A80F83ADF6C06720F09F774B94E"
+				"size" "E77175897F39FCBD707E54A86C9EC082"
+				"download" "EC74A0272B69A03662324191800FDCAB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16823905"
+			"timeupdated" "1734791712"
+		}
+		"qavalidation"
+		{
+			"buildid" "16823905"
+			"pwdrequired" "1"
+			"timeupdated" "1734786976"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26746522"
+"_sha" "f500dbcce6f53368bce50abb8d9384a012805db7"
+"_size" "4844"
