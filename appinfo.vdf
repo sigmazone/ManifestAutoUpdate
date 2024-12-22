@@ -34,6 +34,44 @@
 			"height_pct" "48.70577060080739"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.640606767794615"
+				"height_pct" "48.70577060080739"
+			}
+		}
+	}
 	"store_asset_mtime" "1690969850"
 	"associations"
 	{
@@ -72,6 +110,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -98,26 +137,10 @@
 	"gameid" "1621210"
 	"store_tags"
 	{
-		"0" "3834"
-		"1" "10695"
-		"2" "4231"
-		"3" "4434"
-		"4" "122"
-		"5" "3871"
-		"6" "4726"
-		"7" "7481"
-		"8" "4325"
-		"9" "6426"
-		"10" "6971"
-		"11" "19"
-		"12" "3964"
-		"13" "4604"
-		"14" "1684"
-		"15" "4057"
-		"16" "1702"
-		"17" "3916"
-		"18" "3993"
-		"19" "4182"
+		"0" "19"
+		"1" "122"
+		"2" "492"
+		"3" "493"
 	}
 }
 "extended"
@@ -198,15 +221,24 @@
 		{
 			"public"
 			{
-				"gid" "3773579671764364314"
-				"size" "1540805733"
-				"download" "121478896"
+				"gid" "4292250088053535186"
+				"size" "1478358684"
+				"download" "121315808"
 			}
 			"public-beta"
 			{
-				"gid" "2827812106411071762"
-				"size" "1395272931"
-				"download" "116215024"
+				"gid" "4292250088053535186"
+				"size" "1478358684"
+				"download" "121315808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "0498114C74713957C486632AC792C6C7"
+				"size" "4C1B0CEC01090389CE971FC891CF0EDE"
+				"download" "20D6DF94F729DD215AB1DDDDD6D80224"
 			}
 		}
 	}
@@ -221,15 +253,24 @@
 		{
 			"public"
 			{
-				"gid" "512315652990569849"
-				"size" "1573875791"
-				"download" "118880048"
+				"gid" "4735620179763053485"
+				"size" "1510481375"
+				"download" "118326000"
 			}
 			"public-beta"
 			{
-				"gid" "9102691889792407251"
-				"size" "1428162301"
-				"download" "113749296"
+				"gid" "4735620179763053485"
+				"size" "1510481375"
+				"download" "118326000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "848473AD65A2406DCBD27F1FA8FE2237"
+				"size" "63AB4FA1E8D3D8667C017E92BABBF882"
+				"download" "7CB3106B51C721E873CBECE2B49B212A"
 			}
 		}
 	}
@@ -237,14 +278,20 @@
 	{
 		"public"
 		{
-			"buildid" "9972641"
-			"timeupdated" "1668821280"
+			"buildid" "16826135"
+			"timeupdated" "1734822319"
+		}
+		"development"
+		{
+			"buildid" "16826135"
+			"pwdrequired" "1"
+			"timeupdated" "1734822258"
 		}
 		"public-beta"
 		{
-			"buildid" "11871157"
+			"buildid" "16826135"
 			"description" "Public Beta Branch"
-			"timeupdated" "1691184591"
+			"timeupdated" "1734822269"
 		}
 	}
 }
@@ -301,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20445399"
-"_sha" "4aeb8b5f49d7a1b4513dc3933f01df40541e0a52"
-"_size" "5090"
+"_change_number" "26749516"
+"_sha" "4a0c3dedbf5557f256b556eccf13a4745ece1972"
+"_size" "5952"
