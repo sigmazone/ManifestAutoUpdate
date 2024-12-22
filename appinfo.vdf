@@ -1,0 +1,428 @@
+"appid" "1691320"
+"common"
+{
+	"name" "Hellbreach: Vegas"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+	}
+	"icon" "1598bc367de38f8ed0c07a62b45e986f4b725611"
+	"clienticon" "f860ccfce37af965f8e286696920e2f76580c32f"
+	"clienttga" "fe8e2e49d7b8fcef2db0adf6b706e50f05323afa"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "67.18045795930718"
+			"height_pct" "93.69378728961976"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "67.18045795930718"
+				"height_pct" "93.69378728961976"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730131216"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Infinity Ape Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Iceberg Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1723654534"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1691320"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "492"
+		"2" "1663"
+		"3" "1659"
+		"4" "6730"
+		"5" "19"
+		"6" "1774"
+		"7" "1685"
+		"8" "1662"
+		"9" "9541"
+		"10" "3859"
+		"11" "1667"
+		"12" "3839"
+		"13" "5711"
+		"14" "5547"
+		"15" "4182"
+		"16" "6052"
+		"17" "3835"
+		"18" "1773"
+		"19" "4191"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Infinity Ape Studios"
+	"publisher" "Iceberg Interactive"
+}
+"config"
+{
+	"installdir" "Hellbreach Vegas"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "game.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"1691321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4836326926593727280"
+				"size" "3416559234"
+				"download" "3096579824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"4.27-nvidia"
+			{
+				"gid" "7BB542D9E0B2146ADAEAB55EAEEE8FDF"
+				"size" "F938F21A91A7243549DD441112FC5A40"
+				"download" "6105503B0C2F691DAA41CFAD6CCE90D9"
+			}
+			"ashtesting"
+			{
+				"gid" "909DAE183287E607AE75D11A340A0496"
+				"size" "524E08F091107C6ACC511B53F0BB65E9"
+				"download" "C0FF28216768D2E57E90CC337EE7B134"
+			}
+			"demo"
+			{
+				"gid" "62EB67FA9B19C3F17708D269D7670512"
+				"size" "22CF609C5A8DD939D1E15683C833542F"
+				"download" "4F17B98ADC6F696C5CB032A5145AB0AF"
+			}
+			"development"
+			{
+				"gid" "3BE98D7B2BE1083BC15BA013CA585512"
+				"size" "71E318D3F0CF720C3576731E49614DC0"
+				"download" "7ABA5C970495D4AD718739CFB3ECB460"
+			}
+			"iceberg"
+			{
+				"gid" "62AEAEA16C51FB7FBC4585D4A9F9712E"
+				"size" "3A426898F130D8945B26121A8084EAD1"
+				"download" "7BCD52404FD4C0AD1CDBC7EEB364AC4C"
+			}
+			"marketing"
+			{
+				"gid" "DBF53B478B0B25C3D9F03F1394D67111"
+				"size" "8894D34453590E40490528BC5F9B044E"
+				"download" "1A2E7F00AAA8F3642E958E68B34E23C9"
+			}
+			"press"
+			{
+				"gid" "969C93F72CF8E52DFC84F4092EFA0BC6"
+				"size" "298DE10DE9E92D40A8B3C5986227037A"
+				"download" "47A83C809D470134D4CE6A7AABB4EF71"
+			}
+		}
+	}
+	"1691323"
+	{
+		"config"
+		{
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "325757975176486450"
+				"size" "4229771678"
+				"download" "4021155184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"4.27-nvidia"
+			{
+				"gid" "CEC9D53E4833897D5748E4E0713362B2"
+				"size" "EEC21452BCE9D8BB92E9AE9429116FA8"
+				"download" "C6CACC9231C6746D6491B8D3EDE5001E"
+			}
+			"ashtesting"
+			{
+				"gid" "0EE8E5C39F4BD8877F57885BBCEB81E6"
+				"size" "41814E41E44E26F73D8F10158B0E262B"
+				"download" "79EF856E4DA2DCBA71FF485A32929333"
+			}
+			"demo"
+			{
+				"gid" "F198CDDEFF4A22D74631C60F80E85E36"
+				"size" "8EBECFAC9C2E83CB572F19482A70E296"
+				"download" "10D882EF1FE47540959EEB292FA2A9D6"
+			}
+			"development"
+			{
+				"gid" "ADDE8A0F3228B4963F90E6E8101609BE"
+				"size" "74918EDC58F88DE67E9E0B92752A849C"
+				"download" "65EE6694425EFDD5BA9CCB1D2082F877"
+			}
+			"iceberg"
+			{
+				"gid" "44E2B90594FCA04E1B4297A59C2D9CAB"
+				"size" "5FB87B4B520DE594EFAE847777F7FF70"
+				"download" "C2531E0FC7B3CB89BFD93FA236F82F25"
+			}
+			"marketing"
+			{
+				"gid" "D5D51522D2D786CEAF39F2721E58A502"
+				"size" "4ED6D31C9E605161B6E745CF80240562"
+				"download" "4B0E8DC96B94914376759AE8B3D1B652"
+			}
+			"press"
+			{
+				"gid" "FBA9E7F66D0C45905B7AEBA339D3A17E"
+				"size" "AAE9835408E6EA8D296A8108CEC51CAB"
+				"download" "C0948941E8ACCBF5499087F64745D45C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16813365"
+			"timeupdated" "1734708785"
+		}
+		"4.27-nvidia"
+		{
+			"buildid" "16813365"
+			"pwdrequired" "1"
+			"timeupdated" "1734708814"
+		}
+		"ashtesting"
+		{
+			"buildid" "13708315"
+			"pwdrequired" "1"
+			"timeupdated" "1723617958"
+		}
+		"demo"
+		{
+			"buildid" "16813365"
+			"pwdrequired" "1"
+			"timeupdated" "1734708827"
+		}
+		"development"
+		{
+			"buildid" "16813365"
+			"pwdrequired" "1"
+			"timeupdated" "1734694122"
+		}
+		"iceberg"
+		{
+			"buildid" "16813365"
+			"pwdrequired" "1"
+			"timeupdated" "1734702193"
+		}
+		"marketing"
+		{
+			"buildid" "16205463"
+			"pwdrequired" "1"
+			"timeupdated" "1730116797"
+		}
+		"press"
+		{
+			"buildid" "16813365"
+			"pwdrequired" "1"
+			"timeupdated" "1734708801"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26735510"
+"_sha" "7ffcf254b3cff6c4ea2772d8ca25d5c57b2df468"
+"_size" "7569"
