@@ -1,0 +1,506 @@
+"appid" "638510"
+"common"
+{
+	"name" "dotAGE"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"clienticon" "63cb347889a2b8dd866f5ec31aabb351fc28c741"
+	"clienttga" "5014b2013ec6cd91b91a7e85710faf70feab68cb"
+	"icon" "9e62ac45c2d5acf407ed85c7780fc07d1dd17b05"
+	"logo" "86cb91dc846dc0a37362fc8a456bfdc4efc927b0"
+	"logo_small" "86cb91dc846dc0a37362fc8a456bfdc4efc927b0_thumb"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "点老救世记 - dotAGE"
+		"tchinese" "點老救世記 - dotAGE"
+	}
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1704240000"
+		"tested_build_id" "12972787"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "217fe5ad0d6aef64256b0634328802fba1655b88/capsule_231x87.jpg"
+		"schinese" "468f014ddcac3720eb7de876e0b992b1deda1cbf/capsule_231x87_schinese.jpg"
+		"sc_schinese" "468f014ddcac3720eb7de876e0b992b1deda1cbf/capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en"
+		"library_logo" "zh-xc,zh-cn,en"
+		"library_header" "en,zh-xc,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"sc_schinese" "logo_sc_schinese.png"
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_header_schinese_2x.jpg"
+				"english" "library_header_2x.jpg"
+				"sc_schinese" "library_header_sc_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727690831"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Michele Pirovano"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Michele Pirovano"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_59" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1696421100"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/638510/discussions/0/3816292540679146813/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "638510"
+	"store_tags"
+	{
+		"0" "8945"
+		"1" "1677"
+		"2" "1770"
+		"3" "3959"
+		"4" "17389"
+		"5" "1741"
+		"6" "4328"
+		"7" "3964"
+		"8" "220585"
+		"9" "4136"
+		"10" "1662"
+		"11" "5923"
+		"12" "1643"
+		"13" "4026"
+		"14" "4726"
+		"15" "1716"
+		"16" "3871"
+		"17" "6426"
+		"18" "4172"
+		"19" "599"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Michele Pirovano"
+	"publisher" "Michele Pirovano"
+	"homepage" "http://www.michelepirovano.com/dotage/"
+	"listofdlc" "3384630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "dotAge"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dotAge.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "dotAge.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "dotAge.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollerconfigdetails"
+	{
+		"3262203138"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,controller-test,demo,experimental,private"
+			"use_action_block" "false"
+		}
+		"3262208724"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,controller-test"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,italian"
+	"638511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5697477726811207356"
+				"size" "416698566"
+				"download" "144188576"
+			}
+			"experimental"
+			{
+				"gid" "6845278691521079059"
+				"size" "416698298"
+				"download" "144187952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "9323B5BF84F4D47AED31632C36F1680F"
+				"size" "AB1B0C4ABD01C46749A79A5DCB69B4F5"
+				"download" "AE72D9CE8AE0732FCB76637078C777E2"
+			}
+			"friends"
+			{
+				"gid" "6745207C36ED6E1855762F5E16F0E17F"
+				"size" "530861DBC355074980100A4246B76D22"
+				"download" "9415794C0D505E9FF3C985081040686E"
+			}
+			"private"
+			{
+				"gid" "3C90ADBA99DC8A6886CB39188FDCE2D8"
+				"size" "0C33AB14ECB5A2789E70494F6F5200BE"
+				"download" "E18F0A70860F23EA4BD93AAB5F57BF29"
+			}
+		}
+	}
+	"638512"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6244653641169373479"
+				"size" "493164738"
+				"download" "161331328"
+			}
+			"experimental"
+			{
+				"gid" "7556939543635589855"
+				"size" "493164468"
+				"download" "161330560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "438D98C3DD7EF29A24DC776EB02E426A"
+				"size" "9D33FAEE5C4AEEFC159A7D62E8DA80BF"
+				"download" "5AC0A6C2B8DE1E8B10F33DCD77FC116A"
+			}
+			"friends"
+			{
+				"gid" "71622AE9EFE208414ACE79221C1473CC"
+				"size" "17B7EC5D3FD76E1BB9AE829831435648"
+				"download" "75BA116D01828CA9560ECFE8E8CBEC56"
+			}
+			"private"
+			{
+				"gid" "929759F22A02365238B6B41C3B5D61BE"
+				"size" "449645D5C87C4BFF5FEE601225EECCE3"
+				"download" "3FDA5A30A106B4648B5EA66FC937FB64"
+			}
+		}
+	}
+	"638513"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7898517878271588455"
+				"size" "482535327"
+				"download" "151115776"
+			}
+			"experimental"
+			{
+				"gid" "3659312002052960088"
+				"size" "482535058"
+				"download" "151117376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "6792456FE1F5DAB20A60024399FC49D7"
+				"size" "35AB1B3DEE14AE1C3A29A9785B231E24"
+				"download" "6BF034D74AD62F6A25ED2A2C5AE2D965"
+			}
+			"friends"
+			{
+				"gid" "F69B9B4FF15149DC4091EE37887A2387"
+				"size" "33B6C48A1636DE6983DF1CCC230ABEC0"
+				"download" "E319C67FBCD2D8BA7A2E56C8F9685679"
+			}
+			"private"
+			{
+				"gid" "AF295F1BB7DFA140400BE05BE2B3E77B"
+				"size" "969D655CE607D7A982118A7524144EDF"
+				"download" "C8AAC9EF5144F30E1C58E31ED51138F2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16824691"
+			"timeupdated" "1734799886"
+		}
+		"beta"
+		{
+			"buildid" "12240573"
+			"pwdrequired" "1"
+			"timeupdated" "1695277504"
+		}
+		"experimental"
+		{
+			"buildid" "16759137"
+			"description" "Updated faster, but may be more unstable"
+			"timeupdated" "1734354070"
+		}
+		"friends"
+		{
+			"buildid" "14256033"
+			"pwdrequired" "1"
+			"timeupdated" "1714743403"
+		}
+		"private"
+		{
+			"buildid" "16824691"
+			"pwdrequired" "1"
+			"timeupdated" "1734799291"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "26747377"
+"_sha" "c32df451a1034066d4ea8b0cff59d422cbc5a033"
+"_size" "10013"
