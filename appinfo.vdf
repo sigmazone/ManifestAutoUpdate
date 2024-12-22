@@ -15,6 +15,7 @@
 		"koreana" "카론의 방주 (Ark of Charon)"
 		"schinese" "卡戎方舟 (Ark of Charon)"
 		"tchinese" "卡戎方舟 (Ark of Charon)"
+		"russian" "Ковчег Харона (Ark of Charon)"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -149,6 +150,31 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1730945260"
 	"community_hub_visible" "1"
@@ -210,18 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "5743596129351467719"
-				"size" "1278153488"
-				"download" "912861072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fortesting"
-			{
-				"gid" "0A62CCDC21114B3056998B45175A6566"
-				"size" "CB3440836AFD163CAE055B9109BCD98E"
-				"download" "D5E41DCC00095B71CAEAE523A453DA06"
+				"gid" "1300632873307863862"
+				"size" "1260922203"
+				"download" "893253312"
 			}
 		}
 	}
@@ -240,30 +257,16 @@
 				"download" "40130320"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"fortesting"
-			{
-				"gid" "C461BB92AF1365DD7716B55531DD98E4"
-				"size" "8221FBE940B5BC7C6111A3488FD528C2"
-				"download" "7378FF94729E96DB95C7BE79D5049DB8"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16597488"
-			"timeupdated" "1733190171"
-		}
-		"fortesting"
-		{
-			"buildid" "16597488"
-			"pwdrequired" "1"
-			"timeupdated" "1733121025"
+			"buildid" "16808151"
+			"timeupdated" "1734656299"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -280,6 +283,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26462368"
-"_sha" "7a37ab45f1a072b4215107f49e885afe6f764e71"
-"_size" "4469"
+"_change_number" "26724862"
+"_sha" "20ccf1460e41c275a62693cd39665788674c4d0b"
+"_size" "4378"
