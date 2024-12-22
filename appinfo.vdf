@@ -21,31 +21,26 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1732579200"
-		"tested_build_id" "16101833"
+		"test_timestamp" "1734652800"
+		"tested_build_id" "16708340"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"2"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-			}
-			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
-			"4"
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -54,7 +49,7 @@
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "1"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
@@ -227,8 +222,8 @@
 		"3" "4747"
 		"4" "3871"
 		"5" "4474"
-		"6" "29482"
-		"7" "6426"
+		"6" "6426"
+		"7" "29482"
 		"8" "1695"
 		"9" "3964"
 		"10" "19"
@@ -309,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "7368447786428669834"
-				"size" "3424623268"
-				"download" "1069557296"
+				"gid" "5423810846851658579"
+				"size" "3424631572"
+				"download" "1069553920"
 			}
 		}
 		"encryptedmanifests"
@@ -336,9 +331,9 @@
 			}
 			"deck13qa"
 			{
-				"gid" "8D6B7D147D1A68BC9C4EC262835D961E"
-				"size" "53686A45548892E3E50EE5257630589B"
-				"download" "023FBEE76DBEA59246272A6DA599D53A"
+				"gid" "D8F9F9D75AD17348DB3E2F0B9FD45FB1"
+				"size" "A4D8C2B524C2E470A4872CB7ACA219B2"
+				"download" "AD2AFA73CECE5E988C148F01D7055047"
 			}
 			"demo"
 			{
@@ -348,15 +343,15 @@
 			}
 			"j2d_test_intern"
 			{
-				"gid" "71B6692749EF7AAA68A30EAEE9E26939"
-				"size" "359B8E126F7E267ABE8E54182FE5E479"
-				"download" "F8AA844B34480CB75F99732D443E9E0A"
+				"gid" "E1214A5C6300C08A77F76A68FCD1F162"
+				"size" "DC3341A45C4ACDF5D6279DE99E7228C0"
+				"download" "348F92E7D2A5BD5CF09FB408322E17AB"
 			}
 			"nightly"
 			{
-				"gid" "9EB27755BE604823527C7AA256E4111F"
+				"gid" "E9D67CB0C224C4596CD31B86A8BE17F5"
 				"size" "B6C9653F87546A360B5B12BF7D5F81A8"
-				"download" "F15F901E07BE7DB3FBDF2B6B1A385CB4"
+				"download" "7F8835726B529A7C1575377FE860CE12"
 			}
 			"stable"
 			{
@@ -394,9 +389,9 @@
 		{
 			"public"
 			{
-				"gid" "5415631055718299203"
-				"size" "3321340943"
-				"download" "1052463808"
+				"gid" "3311020638128817371"
+				"size" "3320739507"
+				"download" "1052365136"
 			}
 		}
 		"encryptedmanifests"
@@ -415,9 +410,9 @@
 			}
 			"deck13qa"
 			{
-				"gid" "0B464734331CABA1ECC2651D52FE4227"
-				"size" "A4238E0F6AF23B3DC8FE1D2E319A528C"
-				"download" "1FD7F2EDA1D77235FB1A469592F11060"
+				"gid" "1A4E8522A34F18C1CD537B0F044E6A45"
+				"size" "B9AB094C1F5DBC8809767E6FF7E36E22"
+				"download" "B2B2085DE76116228344A4AC3B360182"
 			}
 			"j2d_test_intern"
 			{
@@ -455,9 +450,9 @@
 		{
 			"public"
 			{
-				"gid" "6476014190872693966"
-				"size" "3396133056"
-				"download" "1061337360"
+				"gid" "3286574714551951372"
+				"size" "3396135714"
+				"download" "1061333728"
 			}
 		}
 		"encryptedmanifests"
@@ -470,9 +465,9 @@
 			}
 			"deck13qa"
 			{
-				"gid" "2CE3C193735B95C8116F31FDB6BD3A7B"
-				"size" "7F7B11FA55B7AD13FDF47D6AFD587A60"
-				"download" "7F59C6ECA8E091616D26522F4DE2FF6C"
+				"gid" "D66EB6D34AA334C9ACC537906A32E74E"
+				"size" "0344BDE1EF76911353EE87D25EC61A91"
+				"download" "A445B80DFC6BD24611713EBAD75A94D9"
 			}
 			"stable"
 			{
@@ -498,8 +493,8 @@
 	{
 		"public"
 		{
-			"buildid" "16805316"
-			"timeupdated" "1734637639"
+			"buildid" "16825473"
+			"timeupdated" "1734814465"
 		}
 		"internal"
 		{
@@ -527,9 +522,9 @@
 		}
 		"deck13qa"
 		{
-			"buildid" "16805316"
+			"buildid" "16825473"
 			"pwdrequired" "1"
-			"timeupdated" "1734637419"
+			"timeupdated" "1734811810"
 		}
 		"demo"
 		{
@@ -539,15 +534,15 @@
 		}
 		"j2d_test_intern"
 		{
-			"buildid" "16805115"
+			"buildid" "16819744"
 			"pwdrequired" "1"
-			"timeupdated" "1734636194"
+			"timeupdated" "1734734117"
 		}
 		"nightly"
 		{
-			"buildid" "16809195"
+			"buildid" "16826902"
 			"pwdrequired" "1"
-			"timeupdated" "1734663709"
+			"timeupdated" "1734836492"
 		}
 		"stable"
 		{
@@ -624,6 +619,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26726240"
-"_sha" "07e7f757651add87003655a3c5daa5d3fc10fdad"
-"_size" "12568"
+"_change_number" "26750593"
+"_sha" "d6c9455a259541cc6fcb3f0b42cf26d926a13b46"
+"_size" "12434"
