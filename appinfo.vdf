@@ -1,0 +1,551 @@
+"appid" "1999520"
+"common"
+{
+	"name" "CATO: Buttered Cat"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "346bf4d7fd316d320801476c91b646d0196eb1ca"
+	"clienttga" "c2cb458bfb2a5480a9ea8a34b3dbbe4bd22b9b0b"
+	"clienticon" "bd945c0671e518195367096ca59b53ad36e13490"
+	"linuxclienticon" "724cf5bdbf82b3953413a6cfd0ea0181d0e86035"
+	"name_localized"
+	{
+		"schinese" "CATO 黄油猫"
+	}
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1727222400"
+		"tested_build_id" "15700849"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "a020f372a55ec9e2584001b2aa78e49e67b0b590/capsule_231x87.jpg"
+		"schinese" "5d71cf2666fff244c0d30fa4e3f480d36aa41cd9/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.20209058690061"
+			"height_pct" "97.21677441074432"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.20209058690061"
+				"height_pct" "97.21677441074432"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732261622"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team Woll"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GCORES PUBLISHING"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "GCORES PUBLISHING"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_28" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_63" "1"
+		"category_59" "1"
+		"category_29" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1725588020"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1999520/discussions/0/4839770900416053548/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1999520"
+	"store_tags"
+	{
+		"0" "5537"
+		"1" "17894"
+		"2" "21"
+		"3" "4726"
+		"4" "1664"
+		"5" "492"
+		"6" "3964"
+		"7" "1625"
+		"8" "4182"
+		"9" "3859"
+		"10" "3841"
+		"11" "4136"
+		"12" "7368"
+		"13" "5379"
+		"14" "4562"
+		"15" "3968"
+		"16" "7481"
+		"17" "5794"
+		"18" "1684"
+		"19" "1738"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,closedbeta,expriment,qatest"
+	"developer" "Team Woll"
+	"publisher" "GCORES PUBLISHING"
+	"homepage" "https://www.gcores.com/games/81350"
+}
+"config"
+{
+	"installdir" "Cato"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CATO Steam Win/CATO.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CATO Steam Mac/CATO.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "CATO Steam Linux/CATO.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"1999521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5360924387465468950"
+				"size" "687736091"
+				"download" "279192656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "CD7999235073881FE3D3F8CD59A8EBF5"
+				"size" "B926CB02401F410D70D9B1E2123F7E6D"
+				"download" "3D9D3C5F507D031FE26034A9F68C6615"
+			}
+			"expriment"
+			{
+				"gid" "391686A4DB20BA26D0A8A022D6FE1CD7"
+				"size" "484E1661638A7104135184D0529BD07A"
+				"download" "8AA43122F6BCAB3A7821EBE9B072729F"
+			}
+			"qatest"
+			{
+				"gid" "5280AC4D76DD01CCD8411DC00704DC4A"
+				"size" "4F098C1638AD2830554EFD7088D70ED4"
+				"download" "4CB664C12461DE216A2FB660ED9F1BF6"
+			}
+		}
+	}
+	"1999522"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4155786930750078342"
+				"size" "689752092"
+				"download" "279130064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "3F374A1B9853FFCE38D386CC99F05C61"
+				"size" "AA1DBF5ACA5FAF8EE1ECE847CF0AD989"
+				"download" "D7A9529AB9BB4EB8F958D2238FB3EF4C"
+			}
+			"expriment"
+			{
+				"gid" "3B9377048931121ED428C7E47280EBDA"
+				"size" "BF076587C988DF8EB92AAE6765621134"
+				"download" "94C72554419A1BD639AF739D2484AFA3"
+			}
+			"qatest"
+			{
+				"gid" "02297BD6881509B1BC73C1D836F1CC6A"
+				"size" "218B125772D2196CAC66DD08271F1230"
+				"download" "AEF0C0934EDD3CF6102A4779471CDA5E"
+			}
+		}
+	}
+	"1999523"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5779786038251938591"
+				"size" "850450116"
+				"download" "280592256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "CC6E292E099DB5107D0179CD56BF4FA6"
+				"size" "77841F69D4AEE9A7A0529FB4F17584BC"
+				"download" "7A992FAD54435406CBF00AF072BEA352"
+			}
+			"expriment"
+			{
+				"gid" "61CDFC36F006656B256BC2D780E30A00"
+				"size" "64DF8ACD41C1CC8AFF1F6F4F9862D76A"
+				"download" "E2C560B5828F20EAB1C191933E1A1D95"
+			}
+			"qatest"
+			{
+				"gid" "570FEF223684A7844AD08475960210FA"
+				"size" "DD558ECD3CC384D721EC0A62361BC6BB"
+				"download" "D364ECBC7B4FA11591B37F36DB083302"
+			}
+		}
+	}
+	"1999524"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16832642"
+			"timeupdated" "1734931745"
+		}
+		"closedbeta"
+		{
+			"buildid" "16832642"
+			"pwdrequired" "1"
+			"timeupdated" "1734931404"
+		}
+		"expriment"
+		{
+			"buildid" "15966445"
+			"pwdrequired" "1"
+			"timeupdated" "1728388122"
+		}
+		"qatest"
+		{
+			"buildid" "16690781"
+			"pwdrequired" "1"
+			"timeupdated" "1733819186"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "GameProgress*.es3"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Team Woll/CATO/Save V2/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" ".config/unity3d/Team Woll/CATO/Save V2/"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Team Woll/CATO/Save V2/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26759165"
+"_sha" "15f84b0851af031c336a6b6620eedfe06bcfa78c"
+"_size" "10036"
