@@ -4,7 +4,7 @@
 	"name" "Empires of the Undergrowth"
 	"type" "Game"
 	"oslist" "windows,macos"
-	"osarch" ""
+	"osarch" "64"
 	"clienticon" "a5e04175aaf071b644e394e2a068cc783f042452"
 	"clienttga" "526e303fe2db316ab7e4b292fa2dab7505d3feac"
 	"icon" "ba6ae8dac9333776689f4603da09346e41c5cef6"
@@ -83,15 +83,14 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
-	"metacritic_name" "Empires of the Undergrowth"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
-		"koreana" "capsule_231x87_koreana.jpg"
+		"english" "f8c76fdca0bdd4d135895b686bd26e50e3bd98bd/capsule_231x87.jpg"
+		"schinese" "3320ce629e49bfb9e3b03af9d2ec6f986d62161d/capsule_231x87_schinese.jpg"
+		"tchinese" "f3f9f35eb3ba61534437e5ba414ca1e50034c032/capsule_231x87_tchinese.jpg"
+		"japanese" "0bce741a8f6afbf80ad0357917ae05222f11624c/capsule_231x87_japanese.jpg"
+		"koreana" "39ddc0c0a3d704e65fb32f9d68573061d6617907/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
@@ -114,7 +113,68 @@
 			"height_pct" "79.10334443421783"
 		}
 	}
-	"store_asset_mtime" "1719906675"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.34772462077012"
+				"height_pct" "79.10334443421783"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"koreana" "library_header_koreana.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726589268"
 	"associations"
 	{
 		"0"
@@ -250,25 +310,25 @@
 	"store_tags"
 	{
 		"0" "9"
-		"1" "7332"
-		"2" "599"
-		"3" "4328"
-		"4" "8945"
-		"5" "3810"
-		"6" "1643"
-		"7" "12472"
+		"1" "599"
+		"2" "4328"
+		"3" "7332"
+		"4" "12472"
+		"5" "1643"
+		"6" "8945"
+		"7" "4364"
 		"8" "220585"
-		"9" "1676"
+		"9" "1669"
 		"10" "1662"
-		"11" "1695"
-		"12" "3942"
-		"13" "1669"
+		"11" "3810"
+		"12" "1695"
+		"13" "3942"
 		"14" "4182"
-		"15" "4711"
-		"16" "3871"
-		"17" "255534"
-		"18" "4695"
-		"19" "1702"
+		"15" "1676"
+		"16" "3987"
+		"17" "4711"
+		"18" "7107"
+		"19" "4695"
 	}
 	"review_score" "8"
 	"review_percentage" "94"
@@ -277,7 +337,7 @@
 {
 	"developer" "Slug Disco"
 	"publisher" "Hooded Horse"
-	"homepage" "http://www.eotugame.com/"
+	"homepage" "http://www.eotugame.com"
 }
 "config"
 {
@@ -398,9 +458,9 @@
 		{
 			"public"
 			{
-				"gid" "908720218515924809"
-				"size" "5999720673"
-				"download" "5814229456"
+				"gid" "1406841710592888681"
+				"size" "5540744550"
+				"download" "5335103856"
 			}
 		}
 		"encryptedmanifests"
@@ -419,9 +479,15 @@
 			}
 			"alpha"
 			{
-				"gid" "38F2DB7FFB1FD1B567AF9CAED07BAABF"
-				"size" "382E9E7EAF92C9C89CC8A4B0454945AE"
-				"download" "7F66F32978E8145F42674E0DCC942934"
+				"gid" "4F602072B93B4518E0A7EC53145D747E"
+				"size" "31AF696AE164DC292E26C3D3EA1061D6"
+				"download" "6E8C208323199012F271EEE2591F4F30"
+			}
+			"artpreview"
+			{
+				"gid" "64206AE7EF9EAF7531EDC7C960B7F7C7"
+				"size" "548B871204ACB6CB449A871829CDA8F8"
+				"download" "E04D07BCB076DCAB9460FA48705F03E4"
 			}
 			"debug"
 			{
@@ -431,15 +497,21 @@
 			}
 			"expandedalpha"
 			{
-				"gid" "090596EA3AC22218490E134497EBF7F7"
-				"size" "FBDFABF77203B1911CF493A4B6B0BCEE"
-				"download" "19A9991217756B04D23C92AE95FBFC35"
+				"gid" "D3B9CF5985B0B284B3829C023F4E20AD"
+				"size" "9A18E09E5BC70074701198925053B162"
+				"download" "B9D20FBF72EE0D4897DAE07DCC5532CF"
 			}
 			"localisation"
 			{
-				"gid" "BE8F26F2795D60BB9C844A9687201797"
-				"size" "FF253B0C548B2BC11C3A6C6185C3D826"
-				"download" "DDD2491982232F3E363604555994332B"
+				"gid" "C8081D8EE7CAB2C8A4C21578C98E8EC8"
+				"size" "F99E4EF50FF92B939BFDBB9613426FD0"
+				"download" "EB2CE7967390A8A52B8ED3A2573EE890"
+			}
+			"openbeta"
+			{
+				"gid" "91B98DE8CA51F0CC781BCBE829B706E7"
+				"size" "4284D77A5DDD107C2C0A1F321F9B2856"
+				"download" "1F9387652D14F35865C8796807F88FDD"
 			}
 			"presspreview"
 			{
@@ -491,6 +563,12 @@
 				"size" "FF7925CF8650342AEB6A594F5CA9866B"
 				"download" "4C305313E610CDB85019CED5495DB4C9"
 			}
+			"artpreview"
+			{
+				"gid" "36866069832A373394D23BB9F8CD79C9"
+				"size" "5BD6E524B1BED04E3D0607AAD5DC9C41"
+				"download" "65171CC00500DA9324EB917B44236036"
+			}
 			"debug"
 			{
 				"gid" "D19DFED75C50DBBF169C58488BA34183"
@@ -508,6 +586,12 @@
 				"gid" "0FDAEFB2AEC126605FE2B56EC5AC2BA6"
 				"size" "8689102BDECDE6086720C6C873BE3C70"
 				"download" "7FB64691B92125CF64D68AE20C51C282"
+			}
+			"openbeta"
+			{
+				"gid" "2BD407440E510FFA9CC6BA7DD0B91B4B"
+				"size" "927260D866858B579328574CEE038E33"
+				"download" "867178D221A036CA962C27D4C21525ED"
 			}
 			"presspreview"
 			{
@@ -534,9 +618,9 @@
 		{
 			"public"
 			{
-				"gid" "1428721301934384713"
-				"size" "6135921923"
-				"download" "5720860416"
+				"gid" "5863906363843821727"
+				"size" "5847954340"
+				"download" "5522143584"
 			}
 		}
 		"encryptedmanifests"
@@ -555,9 +639,15 @@
 			}
 			"alpha"
 			{
-				"gid" "9BC033B525346E355EBBFDB5A6784748"
-				"size" "DDFA9FC051A7E69ABB52C698602011AC"
-				"download" "23710BEF74B5F1CDB1B0ACF61693F979"
+				"gid" "24984086D8017A29696E93CA26B4394E"
+				"size" "B2539EEF8A4F0A9E1CBE40EEE6ECD3C8"
+				"download" "39E4F0C5CDE1D8B6FC9C87A0DD6AB6D6"
+			}
+			"artpreview"
+			{
+				"gid" "7A55EC3D7FD5B6F78A06CEEC6FD2AE3A"
+				"size" "6B9EE369C97ED7E4B70C1BFAB1227066"
+				"download" "98E18C0D764DC281F685116E06BE3A0D"
 			}
 			"debug"
 			{
@@ -567,15 +657,21 @@
 			}
 			"expandedalpha"
 			{
-				"gid" "97E5FB1F6B6B0EC57CDF9E47B3242173"
-				"size" "6DC1BCA9678FAFFB165A4FA669183A45"
-				"download" "1287D2726C8847BC0505093E5ED03675"
+				"gid" "B90344980CA74D28AA8E8196BCDAF0B0"
+				"size" "5E5D02079869AB6CD69A4DAA995DDCC8"
+				"download" "831250C3E9EFB3F41D92DBF9B3C0D3F1"
 			}
 			"localisation"
 			{
-				"gid" "ED599CAE698DACFA2E445E9309AD03BD"
-				"size" "B9385AFF53AFA7EB9370F52144E03284"
-				"download" "8842ED0E18EE5F673D07DA6D3AC9274F"
+				"gid" "EE82C83929BE4CAD665E65B35BA6149F"
+				"size" "082238FBCEEA00009DB952B5C1F53A75"
+				"download" "0C8B09FD24BB82B2DADA5BD08FCF4B99"
+			}
+			"openbeta"
+			{
+				"gid" "FC8D1AB413330A496BAC8BD1F448FAE8"
+				"size" "E4BEA69EEF95B8898AB7BF851F64BF67"
+				"download" "56E1F5718E01EB71F7A6B14FC7BB3482"
 			}
 			"presspreview"
 			{
@@ -627,6 +723,12 @@
 				"size" "385CBEE10E440B30D9D10F2B3C76C06C"
 				"download" "5048369A5874DE60CB26BEC0D3CCAA62"
 			}
+			"artpreview"
+			{
+				"gid" "5013CBEC3612523D67B7B477CB222A22"
+				"size" "037C0C7DBEEF52BE150769DD1FA08676"
+				"download" "64C22AD376BB6192AE0AD41A9E196878"
+			}
 			"debug"
 			{
 				"gid" "97B2AB11D960CED8CD10EF8C1DFC34D7"
@@ -645,6 +747,12 @@
 				"size" "8BEC31886D5A52C6D45D060DD03E5CE7"
 				"download" "2E9BB6A24021657644860C02DA6B2BDB"
 			}
+			"openbeta"
+			{
+				"gid" "C31E5AEA946F10E050B3FB5F303C6339"
+				"size" "3768CA83DD7745E17EFD817CEAAF0D84"
+				"download" "72C44CB62B8F39F93158A39C20660B67"
+			}
 			"presspreview"
 			{
 				"gid" "37FF8DD97D77C939EB4FC086C87B411E"
@@ -659,12 +767,13 @@
 			}
 		}
 	}
+	"baselanguages" "english"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14907923"
-			"timeupdated" "1720104491"
+			"buildid" "16828767"
+			"timeupdated" "1734957762"
 		}
 		"eotu2020"
 		{
@@ -680,9 +789,15 @@
 		}
 		"alpha"
 		{
-			"buildid" "14907923"
+			"buildid" "16828767"
 			"pwdrequired" "1"
-			"timeupdated" "1720103656"
+			"timeupdated" "1734951434"
+		}
+		"artpreview"
+		{
+			"buildid" "14588900"
+			"pwdrequired" "1"
+			"timeupdated" "1723809916"
 		}
 		"debug"
 		{
@@ -692,15 +807,21 @@
 		}
 		"expandedalpha"
 		{
-			"buildid" "14907923"
+			"buildid" "16828767"
 			"pwdrequired" "1"
-			"timeupdated" "1720103675"
+			"timeupdated" "1734871006"
 		}
 		"localisation"
 		{
-			"buildid" "14907923"
+			"buildid" "16828767"
 			"pwdrequired" "1"
-			"timeupdated" "1720104460"
+			"timeupdated" "1734951825"
+		}
+		"openbeta"
+		{
+			"buildid" "16828767"
+			"pwdrequired" "1"
+			"timeupdated" "1734882753"
 		}
 		"presspreview"
 		{
@@ -764,6 +885,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24238406"
-"_sha" "febde2d7a5a8dcd36cb88abb7e7f6b17e6dcd600"
-"_size" "15831"
+"_change_number" "26762642"
+"_sha" "bf6db8a11261689dd05b248742cc6c9aa7b04cee"
+"_size" "18920"
