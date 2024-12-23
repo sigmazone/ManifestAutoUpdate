@@ -1,0 +1,297 @@
+"appid" "992310"
+"common"
+{
+	"name" "Tails Noir: Prologue"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "78999c73c72fac4feca7c0b9b36dd0326eea4010"
+	"logo_small" "78999c73c72fac4feca7c0b9b36dd0326eea4010_thumb"
+	"icon" "90286133868464ca12db24bc86dfc8e67a6f7c4d"
+	"clienttga" "a1504999c7008ab7966473d23af6933425d2c064"
+	"clienticon" "5b9fc21ada1f16087b246d21b836338ca6141bd3"
+	"clienticns" "52b3d42ae1022bc7de9b0b12d45d0726340e86b3"
+	"linuxclienticon" "e183cd80ea2f640c3e6d3656257d8378097f85eb"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1677801600"
+		"tested_build_id" "6829772"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.023213933422824"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.023213933422824"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1693300845"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EggNut"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Raw Fury"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Tails Noir"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1556125200"
+	"community_hub_visible" "1"
+	"gameid" "992310"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "21"
+		"2" "492"
+		"3" "122"
+		"4" "3964"
+		"5" "6052"
+		"6" "5613"
+		"7" "1742"
+		"8" "4182"
+		"9" "1698"
+		"10" "4166"
+		"11" "1756"
+		"12" "5030"
+		"13" "4145"
+		"14" "4975"
+		"15" "5716"
+		"16" "4342"
+		"17" "4004"
+		"18" "3871"
+		"19" "1664"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "EggNut"
+	"publisher" "Raw Fury"
+	"homepage" "https://eggnut.net/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Backbone Prologue"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Detective.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"992311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7613756432957015401"
+				"size" "1510965745"
+				"download" "1368093712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "973786807B64BA1D9B3A96F351E66E2B"
+				"size" "274747122199FDB78D060EB37D4E5300"
+				"download" "6D403B529E2080F9E2FFE4F16129F2CF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11884353"
+			"timeupdated" "1691415761"
+		}
+		"beta"
+		{
+			"buildid" "6829772"
+			"pwdrequired" "1"
+			"timeupdated" "1623136081"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24975772"
+"_sha" "52a02d2e5be2778405a761d443fc0edc16c065fc"
+"_size" "5212"
