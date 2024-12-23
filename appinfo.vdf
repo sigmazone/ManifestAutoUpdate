@@ -1,0 +1,622 @@
+"appid" "493520"
+"common"
+{
+	"name" "GTFO"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "493520_eula_0"
+			"name" "GTFO EULA"
+			"url" "http://store.steampowered.com//eula/493520_eula_0"
+			"version" "2"
+		}
+	}
+	"logo" "cf27e047086fa402d120fc1762f27414ed1c57d7"
+	"logo_small" "cf27e047086fa402d120fc1762f27414ed1c57d7_thumb"
+	"icon" "c211299ef6127057dfe0271626bb044e79c28f78"
+	"clienticon" "43f4c38e6344e0b177f64ee4dd50c7ca100c1453"
+	"clienttga" "761e8f1966c41b9003b2c4ba6d4938c51d9e025a"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1646438400"
+		"tested_build_id" "8105028"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "GTFO"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "68.87690282223687"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1702229058"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "10 Chambers"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "10 Chambers"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "10 Chambers"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1639107079"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/gtfo\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "493520"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1667"
+		"2" "1685"
+		"3" "1663"
+		"4" "4026"
+		"5" "3859"
+		"6" "1774"
+		"7" "3978"
+		"8" "19"
+		"9" "1687"
+		"10" "1708"
+		"11" "5711"
+		"12" "4345"
+		"13" "3839"
+		"14" "1659"
+		"15" "6730"
+		"16" "4747"
+		"17" "4166"
+		"18" "4667"
+		"19" "4711"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "10 Chambers"
+	"publisher" "10 Chambers"
+	"homepage" "http://www.GTFOtheGame.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "GTFO"
+	"steamcontrollertemplateindex" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GTFO.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"2762728051"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,bhthree,bhtwo,bug-hunt,bug-hunt-staging,cicd_testing,data-analytics,default-dev,default-staging,dev-branch,development,game-day,press,press-bh,preview,qa-testing,random-builds,record,release-staging,release-staging-branch"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65527"
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"493521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1184755768333898245"
+				"size" "15414274262"
+				"download" "7206160384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bug-hunt"
+			{
+				"gid" "ED86D6DBFA9AF5116D4D23749183A6C4"
+				"size" "C86E883B095167952B73180D851BFB9C"
+				"download" "6C46AC169C585FD5275FF940C6734678"
+			}
+			"bug-hunt-staging"
+			{
+				"gid" "B1F1A54DCC286F64689C5DC8D4C29EEE"
+				"size" "E0BC15EFB34765280526C9FCB5C39045"
+				"download" "25B5D119671EEF88E3712372C79E4439"
+			}
+			"dev-branch"
+			{
+				"gid" "9AC81E51D49A57AF1E6A46CD651AAF3D"
+				"size" "BD0B22E5EA13DC6B6DD89DCE4E9E516E"
+				"download" "B9FF3EE7A1C3CE947EFCB01E5EA28917"
+			}
+			"development"
+			{
+				"gid" "4083B704ACEFCFACA73C39A50CA99759"
+				"size" "1D0C5E5D2E830204849FF3E46EF56CD7"
+				"download" "DE0969D19F382BB514BFE77B8925967C"
+			}
+			"game-day"
+			{
+				"gid" "2123229F08A58187D4987435F0C07732"
+				"size" "D86F6B592BA54643C24B5AFA4EFC533B"
+				"download" "A702013E3339CCCAA52D90C52DB08E44"
+			}
+			"qa-testing"
+			{
+				"gid" "267BD2F5C310D80722D5459E9F01C0F6"
+				"size" "3F2A956A73581D469798617D5D4FBDB7"
+				"download" "0F669ED59490A6BA98823A0B4681A68B"
+			}
+			"record"
+			{
+				"gid" "7EE3F321918258E758053A40EEFCF0EF"
+				"size" "12C34518F62318F91AB07FBF1417DFB2"
+				"download" "4CA6D969042851AAEB6BCB55C8E94ED0"
+			}
+			"release-staging"
+			{
+				"gid" "10F1DEED8106F1B6DBC9E2924F38D0C7"
+				"size" "7425F83E4F8301356F06700C175D2F5A"
+				"download" "6B921C8BF0EF435711FF124BA24982A7"
+			}
+			"release-staging-branch"
+			{
+				"gid" "BCAE087C120FA3AC2713447CED32495D"
+				"size" "E029C2907659317150D21F4024B69B3B"
+				"download" "6349B167CD9809BE6ED97BFBB2C0634C"
+			}
+			"default-dev"
+			{
+				"gid" "506E1A7AFE7F27630E55F541C0E57B8C"
+				"size" "104A1F8BD5F8376D3A32F63AABF251F8"
+				"download" "C0C953034861110E4BC520FBFF126268"
+			}
+			"default-staging"
+			{
+				"gid" "909F8F1906C245D7BD6871E821F9ABB7"
+				"size" "CBF6ECAE7DD2BC938C23CC2500B4E7F2"
+				"download" "2B14A8C8F710B509E32636AEEE3CD1D5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14562266"
+			"timeupdated" "1717487945"
+		}
+		"bug-hunt"
+		{
+			"buildid" "14562764"
+			"pwdrequired" "1"
+			"timeupdated" "1717414224"
+		}
+		"bug-hunt-staging"
+		{
+			"buildid" "14562764"
+			"pwdrequired" "1"
+			"timeupdated" "1717169100"
+		}
+		"dev-branch"
+		{
+			"buildid" "12952178"
+			"pwdrequired" "1"
+			"timeupdated" "1702481317"
+		}
+		"development"
+		{
+			"buildid" "14581111"
+			"pwdrequired" "1"
+			"timeupdated" "1717393179"
+		}
+		"game-day"
+		{
+			"buildid" "12405680"
+			"pwdrequired" "1"
+			"timeupdated" "1697007254"
+		}
+		"qa-testing"
+		{
+			"buildid" "12882941"
+			"pwdrequired" "1"
+			"timeupdated" "1702008993"
+		}
+		"record"
+		{
+			"buildid" "12541491"
+			"pwdrequired" "1"
+			"timeupdated" "1698318192"
+		}
+		"release-staging"
+		{
+			"buildid" "14562266"
+			"pwdrequired" "1"
+			"timeupdated" "1717166778"
+		}
+		"release-staging-branch"
+		{
+			"buildid" "12952347"
+			"pwdrequired" "1"
+			"timeupdated" "1702482313"
+		}
+		"default-dev"
+		{
+			"buildid" "13584260"
+			"pwdrequired" "1"
+			"timeupdated" "1709129385"
+		}
+		"default-staging"
+		{
+			"buildid" "13578732"
+			"pwdrequired" "1"
+			"timeupdated" "1709129368"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Deciding what to do.."
+				"#status_lobby" "At surface, waiting for drop"
+				"#status_generating" "Descending into the complex"
+				"#status_inlevel" "Somewhere in the darkness"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "正在決定怎麼做.."
+				"#status_lobby" "在表面，等待降下"
+				"#status_generating" "下降到綜合設施"
+				"#status_inlevel" "在黑暗的某處"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Decidiendo qué hacer..."
+				"#status_lobby" "Decidiendo qué hacer..."
+				"#status_generating" "Descendiendo al complejo..."
+				"#status_inlevel" "En algún lugar a oscuras"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "正在决定要做什么.."
+				"#status_lobby" "正在地面等待下降"
+				"#status_generating" "正在下降到建筑中"
+				"#status_inlevel" "处于黑暗之中"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Думает, что делать..."
+				"#status_lobby" "Думает, что делать..."
+				"#status_generating" "Спускается в комплекс"
+				"#status_inlevel" "Где-то в темноте"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Decidindo o que fazer..."
+				"#status_lobby" "Na superfície, esperando a descida"
+				"#status_generating" "Descendo para o complexo"
+				"#status_inlevel" "Em algum lugar na escuridão"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Zastanawia się, co robić.."
+				"#status_lobby" "Na powierzchni, czeka na zrzut"
+				"#status_generating" "Zmierza w głąb kompleksu"
+				"#status_inlevel" "Gdzieś w ciemnościach"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "할 일 결정 중..."
+				"#status_lobby" "지상에서 강하 준비 중"
+				"#status_generating" "단지로 내려가는 중"
+				"#status_inlevel" "어둠 속 어딘가"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "なすべきことを判断中..."
+				"#status_lobby" "地表でドロップ待機中"
+				"#status_generating" "複合施設への降下中"
+				"#status_inlevel" "暗闇のどこか"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Sta decidendo cosa fare.."
+				"#status_lobby" "In superficie, in attesa della discesa"
+				"#status_generating" "In discesa nel complesso"
+				"#status_inlevel" "Da qualche parte nell\'oscurità"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Entscheide, was ich tun soll.."
+				"#status_lobby" "An der Oberfläche, warte auf Abwurf"
+				"#status_generating" "Steige in den Komplex hinab"
+				"#status_inlevel" "Bin irgendwo im dunkeln"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "{#Status_%gamestatus%}: %score%"
+				"#statuswithexpedition" "{#Status_%gamestatus%}: %expedition%"
+				"#status_nolobby" "Attend de prendre une décision..."
+				"#status_lobby" "À la surface, en attente de largage"
+				"#status_generating" "Descend dans le complexe"
+				"#status_inlevel" "Quelque part dans l\'obscurité"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23816994"
+"_sha" "ffaa9e0eb6cd663964979ee36c9321f77af179ce"
+"_size" "14464"
