@@ -1,0 +1,949 @@
+"appid" "337150"
+"common"
+{
+	"name" "Sentinels of the Multiverse"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "46fd1c367dc58d4fb7670f34aeeda0eed33bd65a"
+	"logo_small" "46fd1c367dc58d4fb7670f34aeeda0eed33bd65a_thumb"
+	"clienticon" "8f3b6a602b79c4675b2000760ff8633699843c4e"
+	"clienttga" "54b894f22fa6095020c82aca69649b07400f6abb"
+	"icon" "1e0e53b45708c76a5b6a025c068767fa40dbaa22"
+	"clienticns" "d659864bb5b6989c8d4cafe6c1657a22bb72757c"
+	"linuxclienticon" "ab38e6d828ca0f32ce33c715a11d225a5190b63f"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"metacritic_name" "Sentinels of the Multiverse"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "43"
+			"height_pct" "65"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "43"
+				"height_pct" "65"
+			}
+		}
+	}
+	"store_asset_mtime" "1668526894"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Handelabra Games Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Handelabra Games Inc."
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_24" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_44" "1"
+		"category_30" "1"
+		"category_63" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1419235200"
+	"steam_release_date" "1419267540"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "337150"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "1666"
+		"2" "9"
+		"3" "492"
+		"4" "1671"
+		"5" "1770"
+		"6" "17389"
+		"7" "1685"
+		"8" "3859"
+		"9" "3841"
+		"10" "4182"
+		"11" "3843"
+		"12" "1756"
+		"13" "1751"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Handelabra Games Inc."
+	"publisher" "Handelabra Games Inc."
+	"homepage" "http://sentinelsdigital.com"
+	"listofdlc" "344050,351390,369050,410480,429110,451710,467510,467511,467512,467513,467514,467515,532620,532621"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Sentinels of the Multiverse"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sentinels.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Sentinels.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Sentinels.x86"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Sentinels.x86_64"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"337151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "839361807827737619"
+				"size" "452493478"
+				"download" "380574912"
+			}
+			"2.5.10"
+			{
+				"gid" "286533463789705197"
+				"size" "755224254"
+				"download" "436268288"
+			}
+			"3.2.8"
+			{
+				"gid" "768735305936744908"
+				"size" "342199476"
+				"download" "304661728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "DD847EF61EC3A474B0FA37E5935412A4"
+				"size" "5360661195280EB8BE5D8C66A2635AE9"
+				"download" "C5C64E85A2E6309F0A4F22F86DA2B9D6"
+			}
+			"internal"
+			{
+				"gid" "105154CC13A60C3A3CBDEA82EF204B83"
+				"size" "A405B291E1A998CFD91C18BFC8EE811F"
+				"download" "3AFBEE641494C472E8C0105C38D58903"
+			}
+			"mods-preview"
+			{
+				"gid" "74E9D7C6BE90E3DF9BC795AC6BDEC4A0"
+				"size" "D279D17F7D1A133D8BC34565D2EDD4D3"
+				"download" "2FBBEE33ABF833F1F69978E810B7683B"
+			}
+		}
+	}
+	"337152"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7878642254289511779"
+				"size" "477616460"
+				"download" "388335904"
+			}
+			"2.5.10"
+			{
+				"gid" "8773336850773739743"
+				"size" "809762436"
+				"download" "451089424"
+			}
+			"3.2.8"
+			{
+				"gid" "4597028074697468126"
+				"size" "364251057"
+				"download" "309668912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "92AFE74682BAC57AAEA0B8917B98F6A7"
+				"size" "1FE377BB57AB94ABD04CE317FC3E8F41"
+				"download" "C5C58B241A2ED06260878955C00B43D3"
+			}
+			"internal"
+			{
+				"gid" "08661C97B2D6BC145F1DF613C8DFC41C"
+				"size" "22673C0674DC8A2BF060A66DFDF7FCF3"
+				"download" "3309875C9B503D3C7BA6BB6E5D328F16"
+			}
+			"mods-preview"
+			{
+				"gid" "367B6A77A06809D454E7E55E5B486DEC"
+				"size" "145A38A48FACE029D1A00E502653E8B0"
+				"download" "5D5AC4A7D8F18FAC91656CC03C7C7771"
+			}
+		}
+	}
+	"337153"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1959010027027399702"
+				"size" "455205807"
+				"download" "379257904"
+			}
+			"2.5.10"
+			{
+				"gid" "1337145131797538807"
+				"size" "806591571"
+				"download" "451852848"
+			}
+			"3.2.8"
+			{
+				"gid" "4697575853889866789"
+				"size" "395109781"
+				"download" "320954672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "DB14BD55D03F4535AF852748B7132F75"
+				"size" "6A88ED811D0D85A2CE1960BD91C32FA8"
+				"download" "C10F723774DF3D719847176DEAA010CB"
+			}
+			"internal"
+			{
+				"gid" "37324ADCC3577C0150BED182A634CFA0"
+				"size" "A1E93E7B06250DB1A0483E54EF7BCA16"
+				"download" "9CB8F0E38B16B693B8805C7A43FC6242"
+			}
+			"mods-preview"
+			{
+				"gid" "68E8428D7B54F76969EF4418548A0353"
+				"size" "F68C4DD79117E270538A67CD3B926EED"
+				"download" "6D12E42B241960087754D9538318E702"
+			}
+		}
+	}
+	"344050"
+	{
+		"dlcappid" "344050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1384951366138174369"
+				"size" "35333170"
+				"download" "35256128"
+			}
+			"2.5.10"
+			{
+				"gid" "3110890072743627805"
+				"size" "59735537"
+				"download" "52083024"
+			}
+			"3.2.8"
+			{
+				"gid" "765289513831706072"
+				"size" "35249834"
+				"download" "35176384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C9A7E15B7B3D8A9BC7F6101517002DE4"
+				"size" "C6491FDCCC8A6453837F8D8805D3F2B5"
+				"download" "82E89334739C7A6D7054B53AB089D292"
+			}
+			"internal"
+			{
+				"gid" "051AB5CA561AE9C708C3CABF9D430F2A"
+				"size" "00E40D11BB18B3672FF394433934160F"
+				"download" "17204AAAC25059976E6E4BBF7498F282"
+			}
+			"mods-preview"
+			{
+				"gid" "1F89834D63B43C8A07D358B5E8028D90"
+				"size" "FC16E000EB0DDE33D489D2ADF540CCE3"
+				"download" "98D61BEE8FCD440DAFDC0142D63DAC23"
+			}
+		}
+	}
+	"351390"
+	{
+		"dlcappid" "351390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1221672390911319655"
+				"size" "69770028"
+				"download" "69333824"
+			}
+			"2.5.10"
+			{
+				"gid" "7646601880536700120"
+				"size" "109145230"
+				"download" "95141280"
+			}
+			"3.2.8"
+			{
+				"gid" "1677054686005493845"
+				"size" "69687892"
+				"download" "69262768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "F570CCFCEB62B17EB034EE332AA44B83"
+				"size" "A768A330B082F087418B2DEF9F14AD85"
+				"download" "ED9B23D91938EE305FDD75AB5DDCE1DE"
+			}
+			"internal"
+			{
+				"gid" "0285F373A080F4613B2CD353BD113625"
+				"size" "67135A1FCF3D7DBB66017E47FE8A670E"
+				"download" "58C6AF2235B2D12B7C59E37870A95DE8"
+			}
+			"mods-preview"
+			{
+				"gid" "A97089A7CEA0F0ED5A092E6729380FC2"
+				"size" "1995B5CCB38D7A0BDBDC84B659179AE8"
+				"download" "A01494B5BCC1108AFEBA7E8F6B538817"
+			}
+		}
+	}
+	"369050"
+	{
+		"dlcappid" "369050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "873944664465546911"
+				"size" "100676322"
+				"download" "99962256"
+			}
+			"2.5.10"
+			{
+				"gid" "7167282327831548691"
+				"size" "182071533"
+				"download" "155847888"
+			}
+			"3.2.8"
+			{
+				"gid" "8495142272205629310"
+				"size" "100626570"
+				"download" "99916096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "976499BC17F4F2803E59767ED54BA09D"
+				"size" "767379E131D1345D86E8376E792ACEB0"
+				"download" "34F7D034581DF4BFAEC1BB59BCBB008A"
+			}
+			"internal"
+			{
+				"gid" "0E3C7EC8BDFE253270DD15072289979E"
+				"size" "309E2B8BB6A1ABEDFCD86CE4CEBD902F"
+				"download" "4BE5934AFE56F7FC3E9B6713EFFBA2EA"
+			}
+			"mods-preview"
+			{
+				"gid" "408F4971338B334EA775281B889935B1"
+				"size" "47FD169A65122FB102257FF48A26A492"
+				"download" "A7957D171ACBFB4674DA0F56ACDD5B12"
+			}
+		}
+	}
+	"410480"
+	{
+		"dlcappid" "410480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2952672455753347425"
+				"size" "28949406"
+				"download" "28861056"
+			}
+			"2.5.10"
+			{
+				"gid" "3975067490126603295"
+				"size" "51315941"
+				"download" "44293904"
+			}
+			"3.2.8"
+			{
+				"gid" "1877261866908813655"
+				"size" "28897093"
+				"download" "28808752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "2228C56BC8392A06FE1BB1EAB3572B97"
+				"size" "59BFF06ED714CD60F614D47759233EA1"
+				"download" "12F44599110138D32C97E46EA5B855FE"
+			}
+			"internal"
+			{
+				"gid" "26C92733F6E7D1939901CC89BC6464A5"
+				"size" "6CF351CF7D74BCB9EE20DA67BD3FD247"
+				"download" "444E445C89CF72E093050CE338480A36"
+			}
+			"mods-preview"
+			{
+				"gid" "C78EBCD8914C1D6D691CAE3C59856FDF"
+				"size" "5974F209C7C0A6F2C492AF49ABEEE399"
+				"download" "B074F2EB9BDBCA17BDEE4182F5046F54"
+			}
+		}
+	}
+	"429110"
+	{
+		"dlcappid" "429110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1760600115348061429"
+				"size" "91136380"
+				"download" "90892912"
+			}
+			"2.5.10"
+			{
+				"gid" "6525028069828419476"
+				"size" "145571969"
+				"download" "128053168"
+			}
+			"3.2.8"
+			{
+				"gid" "1146271255899702553"
+				"size" "91166397"
+				"download" "90922832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "B8165F7BE4F22E0C2FA73B8B21AF67D3"
+				"size" "914C61B64E30CBBDA9F3907AA35B8F3E"
+				"download" "2E4DF94B0990AE57176751998DB90880"
+			}
+			"internal"
+			{
+				"gid" "3FEA33B1F709F8DB36A19DA0C9F8313E"
+				"size" "1936ABDCD2155529E3298E907F5692BB"
+				"download" "8A2F3882CA4C1F453BE92FB58288FFF9"
+			}
+			"mods-preview"
+			{
+				"gid" "CA24C92D32BBB38FD0902C8128F09D65"
+				"size" "832C5EC415190248F27548BFCD00670F"
+				"download" "73143FEE6A1A316F343F65099656570C"
+			}
+		}
+	}
+	"451710"
+	{
+		"dlcappid" "451710"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7662674352242485402"
+				"size" "96738816"
+				"download" "94336208"
+			}
+			"2.5.10"
+			{
+				"gid" "5793200750839882892"
+				"size" "155981874"
+				"download" "132975280"
+			}
+			"3.2.8"
+			{
+				"gid" "2390126314131831486"
+				"size" "96784586"
+				"download" "94380592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "FA8C578BD6C631B992974C70B64ADD73"
+				"size" "A75BF92B8E67F24FB90BECF057C90128"
+				"download" "64945E62FED4C55AA2C4825B0289F870"
+			}
+			"internal"
+			{
+				"gid" "1E3613C0F41A1D040EDC3E8539C81190"
+				"size" "CCAE103AEB0259A9CF2A4A9498E22B19"
+				"download" "95ACF4EE52027F30EC9553AF68326B97"
+			}
+			"mods-preview"
+			{
+				"gid" "3AC9A2FE09476306BAD1C96A3E6A64FB"
+				"size" "6B2AB65873A92D6D2787CE3C1EA467F2"
+				"download" "79C68AC84B8615DD9E06B383C02E59DF"
+			}
+		}
+	}
+	"467510"
+	{
+		"dlcappid" "467510"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7322384376972978657"
+				"size" "44120087"
+				"download" "38686528"
+			}
+			"2.5.10"
+			{
+				"gid" "4197459795600660759"
+				"size" "52423119"
+				"download" "42374208"
+			}
+			"3.2.8"
+			{
+				"gid" "8969133416760145979"
+				"size" "44109902"
+				"download" "38685920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "86A3725DE96CA24F7FBA2C4ABF79DDBB"
+				"size" "AAA5745158C5583C98E0BF85666C6F7C"
+				"download" "793D66135B1FA105C46C198A2C8E6588"
+			}
+			"internal"
+			{
+				"gid" "9829BF68CDCAD89491074D4FFB0A970F"
+				"size" "5B140CBCFBDB9E4FEC056C8A4C1B9C05"
+				"download" "DC1A8C2FEBF0EC783D967AEEC3884908"
+			}
+			"mods-preview"
+			{
+				"gid" "72B0881344FA1A58A9E8D410B22FB68E"
+				"size" "8BBEAEA3340D21B4C1BD7A14F0F31E82"
+				"download" "3CC0D2C98F5208C8388C3C621464A532"
+			}
+		}
+	}
+	"467511"
+	{
+		"dlcappid" "467511"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5478612167607808183"
+				"size" "107770505"
+				"download" "106865552"
+			}
+			"2.5.10"
+			{
+				"gid" "4046547751329080124"
+				"size" "174917090"
+				"download" "151058816"
+			}
+			"3.2.8"
+			{
+				"gid" "4040542817389338524"
+				"size" "107501658"
+				"download" "106668864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "CEEB32AF5BC8258812070ECD5AF08952"
+				"size" "E29BABFA1B4E81B1B2DCE11A7F4DC9EF"
+				"download" "B05395A2C1F6D8A6C9A79285DEB17400"
+			}
+			"internal"
+			{
+				"gid" "B6F03D8A403CD2BED934465933F2D5C0"
+				"size" "75FCD974A5234AC62353F5683F475FB6"
+				"download" "053EA432ECDA69DC9D66DC4E18D71C3C"
+			}
+			"mods-preview"
+			{
+				"gid" "2C96A9E87F7D016FF70AB42FD57BAD3D"
+				"size" "D1FE3DB5C01BDE01F4B545CE0FC9E595"
+				"download" "C32975D952B9C026264151728CFC62C7"
+			}
+		}
+	}
+	"467512"
+	{
+		"dlcappid" "467512"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1390619081750114912"
+				"size" "119960868"
+				"download" "119518368"
+			}
+			"2.5.10"
+			{
+				"gid" "900488077239096374"
+				"size" "170226528"
+				"download" "152759520"
+			}
+			"3.2.8"
+			{
+				"gid" "4497201930025311283"
+				"size" "119946820"
+				"download" "119512560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "91F088CD9F1CFC30C67ED926CE8A2945"
+				"size" "CB96EB8C6D20C6E794E4CE4122A6882F"
+				"download" "A1568AB8F46791E85B87236DABC01FFF"
+			}
+			"internal"
+			{
+				"gid" "4ABF1502FE027D6721855CDAFE644EB9"
+				"size" "F79788D1830A796A93F2F886B9279B45"
+				"download" "A442BA9DCFB06CABD062A59FE8022D1B"
+			}
+			"mods-preview"
+			{
+				"gid" "ED2B86860EAE2D9B0AA95923B26E7CF9"
+				"size" "4B3B140C40D0B50744DB378B9288874B"
+				"download" "6945BD41190869071B86CAA40CE8A210"
+			}
+		}
+	}
+	"467513"
+	{
+		"dlcappid" "467513"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "818748802119084395"
+				"size" "38884096"
+				"download" "38645632"
+			}
+			"2.5.10"
+			{
+				"gid" "2173603207556314295"
+				"size" "9817601"
+				"download" "8391648"
+			}
+			"3.2.8"
+			{
+				"gid" "3290710944517845047"
+				"size" "38764885"
+				"download" "38528352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "6F16DD5B7D4A9042597C48EF19FB792F"
+				"size" "E397B981214F59A1D64703C8F0D43D57"
+				"download" "C9EBFDBCFC8DE8BB253888E45DE7A640"
+			}
+			"internal"
+			{
+				"gid" "09DC45C225E00C36AE7EC4C44F952B7F"
+				"size" "C681069FA16EB3A7ACC8DCD1F82030F3"
+				"download" "8E5BDFF65C0A58274762C6BEC49E0BC6"
+			}
+			"mods-preview"
+			{
+				"gid" "2F52E1B8F134813F49BE2898DDC5E216"
+				"size" "1375C7BA3A856A15112A5B9F2C09AD88"
+				"download" "E905DF0DE2BAE1F4CB6C7CE76A33304A"
+			}
+		}
+	}
+	"532620"
+	{
+		"dlcappid" "532620"
+	}
+	"532621"
+	{
+		"dlcappid" "532621"
+	}
+	"467514"
+	{
+		"dlcappid" "467514"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8110453271029667243"
+				"size" "33737712"
+				"download" "33501664"
+			}
+			"3.2.8"
+			{
+				"gid" "1234476797666673561"
+				"size" "33781053"
+				"download" "33543488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C174D36A32C37859BD33D9869A51B0BE"
+				"size" "B1D3274E1C8420946E486742ABAF1222"
+				"download" "B042AB4F5A82EEAC3B501CEA0B242D38"
+			}
+			"internal"
+			{
+				"gid" "C4FDDFD8885BD9523436A88E6E9D421B"
+				"size" "6C80EC2549CBCD102B7526F1F5640E32"
+				"download" "287D9EA373F741821ACD3468730AB243"
+			}
+			"mods-preview"
+			{
+				"gid" "91C902059036DCB6FB7089D49A1ECD4A"
+				"size" "5A8CBCC1C2DB0DE2C4142F1690D6EBDD"
+				"download" "379D79C157C2B7A17DCD7252B0B46141"
+			}
+		}
+	}
+	"467515"
+	{
+		"dlcappid" "467515"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8952447354059602503"
+				"size" "187908564"
+				"download" "187206160"
+			}
+			"3.2.8"
+			{
+				"gid" "1252681140469541925"
+				"size" "188004319"
+				"download" "187299328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "D2B8A9B0FC14AB8681E54818923B1297"
+				"size" "42BF43FA58965CDE4AFE4A4DB3902F19"
+				"download" "9F8AF1055EC284664E4020ED86371418"
+			}
+			"internal"
+			{
+				"gid" "08917A2D179F57B5D69A43F4A09F72E5"
+				"size" "6A975B6E1AFE2D16ECFF0D8D03D9A4B1"
+				"download" "B08D8134F599F2CCF8B62F1C6530B75D"
+			}
+			"mods-preview"
+			{
+				"gid" "2B60315089F2D1EEEF726D61A887D16A"
+				"size" "23EBB53C8582DE6FBE80E7B58CD05B1C"
+				"download" "536B1A44F77CBB3A77DDAD338AEC276B"
+			}
+		}
+	}
+	"workshopdepot" "337150"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16605264"
+			"timeupdated" "1733769411"
+		}
+		"2.5.10"
+		{
+			"buildid" "2384685"
+			"description" "Old version for Windows XP and DirectX 9."
+			"timeupdated" "1525182948"
+		}
+		"3.2.8"
+		{
+			"buildid" "8419297"
+			"description" "Old version for Windows Vista and 32-bit CPUs."
+			"timeupdated" "1680796967"
+		}
+		"beta"
+		{
+			"buildid" "16575248"
+			"pwdrequired" "1"
+			"timeupdated" "1732916665"
+		}
+		"internal"
+		{
+			"buildid" "16605264"
+			"pwdrequired" "1"
+			"timeupdated" "1733168489"
+		}
+		"mods-preview"
+		{
+			"buildid" "16605264"
+			"pwdrequired" "1"
+			"timeupdated" "1733344509"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26562779"
+"_sha" "91433dedeeda1e9e7286d26b038216cb71cbdd5b"
+"_size" "18825"
