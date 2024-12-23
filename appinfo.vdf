@@ -1,0 +1,203 @@
+"appid" "808040"
+"common"
+{
+	"name" "Smalland: Survive the Wilds - Dedicated Server"
+	"type" "Tool"
+	"parent" "768200"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"icon" "8e1cf834c8502da531466d037088a077d0355ee9"
+	"clienttga" "bf55c0014114fd7bd2eb8b6dbe77e7bdef83be71"
+	"clienticon" "5e83fc4e0af27ea6098686c3d4548bc5766c373a"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "808040"
+}
+"extended"
+{
+	"gamedir" "SMALLAND"
+}
+"config"
+{
+	"installdir" "SMALLANDSurviveTheWildsDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start-server.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch game server - Windows"
+			}
+			"description" "Launch game server - Windows"
+		}
+		"1"
+		{
+			"executable" "start-server.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch game server - Linux"
+			}
+			"description" "Launch game server - Linux"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"808042"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "951960064384362242"
+				"size" "2361841852"
+				"download" "1038955360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "903FE83B1131CFD51B50C55C42EF8958"
+				"size" "F7463E3323902A41F28579664445932B"
+				"download" "629FC68B06EEA74E6B005E7E38F7584B"
+			}
+			"prospero"
+			{
+				"gid" "ABB7EBB5C2B1E068CCB6EE42A2DB9160"
+				"size" "6D1887591ACF831338AE05AF47809AFA"
+				"download" "CF2ECC0A898C705B718C63789C12FE21"
+			}
+			"prospero-dev"
+			{
+				"gid" "60EE32BA1C6BA443CF3E4BC770C400EA"
+				"size" "5FCC465BEEEB5F85CA40283161510E8D"
+				"download" "4EEF2D99BBCF60B25936EB5CDE7F902A"
+			}
+			"scarlett"
+			{
+				"gid" "6EE87BF89A16D65DA5330AC1CAB4B611"
+				"size" "0E44FCBB38BC029B7E71D6CA95E5668B"
+				"download" "C13535DA14B45299195705F30FE1BDEC"
+			}
+			"scarlett-dev"
+			{
+				"gid" "A808B3CB639BB57EEBB97303D1F8BDAA"
+				"size" "2D70BA2F9CCC613FCADAB3CC9B4DE054"
+				"download" "D4709E8A35EE4BDB29DFBFBF40F19C60"
+			}
+		}
+	}
+	"808044"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1859558207825561580"
+				"size" "1835223123"
+				"download" "524484848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "8B83AC812B265542C8A8CD5D8AF25845"
+				"size" "006A526263A1924EB7EEBE2C6A4C721D"
+				"download" "DF2C4D50ED7E0FC88F28C86C644DACCD"
+			}
+			"prospero"
+			{
+				"gid" "2AB95570C79FEDB70063887E91590B0D"
+				"size" "B146CB8DB877885247D5EF11D12B60E4"
+				"download" "94A0D5C77F1958B7778268795F9D7640"
+			}
+			"prospero-dev"
+			{
+				"gid" "E2F87AFA490189D37C6B67524B24B0C1"
+				"size" "757658A9E05A5B1EFA3015A2539E0BA9"
+				"download" "4F735BC88F73F253BD51280D2772FA22"
+			}
+			"scarlett"
+			{
+				"gid" "1AE0BE82320B8AEC280B83C062B81AD4"
+				"size" "84DBE32CEDF8B0472425D91EBC839F5D"
+				"download" "DDF1FA66C67C6CA0E05BD9B4D0F90318"
+			}
+			"scarlett-dev"
+			{
+				"gid" "66A94506585B3408584B6C66684F7EE8"
+				"size" "495CE813EB6EE0214EA3CD91D39B1225"
+				"download" "649D18567BF050DD14CABD26323FE2B9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16539122"
+			"timeupdated" "1732727994"
+		}
+		"development"
+		{
+			"buildid" "16539122"
+			"pwdrequired" "1"
+			"timeupdated" "1732631318"
+		}
+		"prospero"
+		{
+			"buildid" "16225801"
+			"pwdrequired" "1"
+			"timeupdated" "1730467805"
+		}
+		"prospero-dev"
+		{
+			"buildid" "16683297"
+			"pwdrequired" "1"
+			"timeupdated" "1733764714"
+		}
+		"scarlett"
+		{
+			"buildid" "16216491"
+			"pwdrequired" "1"
+			"timeupdated" "1730319523"
+		}
+		"scarlett-dev"
+		{
+			"buildid" "16825049"
+			"pwdrequired" "1"
+			"timeupdated" "1734805422"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26747910"
+"_sha" "dc6ca40f82aad7f648b0321c42256c180768ffca"
+"_size" "4058"
