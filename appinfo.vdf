@@ -1,0 +1,276 @@
+"appid" "1684010"
+"common"
+{
+	"name" "Sail"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "948f26e6484b31d51e1f06a4b2bc018969ed4cb8"
+	"clienttga" "248a852a963b63e5cf209edf31ade3106d738195"
+	"clienticns" "2a8fd21d548ea6282632ecce1278139da782085b"
+	"linuxclienticon" "2a8fd21d548ea6282632ecce1278139da782085b"
+	"clienticon" "446a8d105a036a73d78ee8c317051659b74b5868"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+	}
+	"openvrsupport" "1"
+	"openxrsupport" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1704403550"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Team Interactive Inc."
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Continuum XR"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Garett cook "
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_52" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1660154424"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1684010"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "599"
+		"3" "4106"
+		"4" "1774"
+		"5" "1663"
+		"6" "9204"
+		"7" "353880"
+		"8" "4191"
+		"9" "21978"
+		"10" "3839"
+		"11" "1681"
+		"12" "13577"
+		"13" "4608"
+		"14" "1775"
+		"15" "4835"
+		"16" "3993"
+		"17" "4994"
+		"18" "1695"
+		"19" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Red Team Interactive Inc."
+	"publisher" "Garett cook "
+	"homepage" "https://www.sail-vr.com"
+}
+"config"
+{
+	"installdir" "Sail"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sail.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Sail.exe"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1684011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3040436560599655359"
+				"size" "7840227457"
+				"download" "3425751744"
+			}
+			"public_test_builds"
+			{
+				"gid" "3040436560599655359"
+				"size" "7840227457"
+				"download" "3425751744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"patreonbuilds"
+			{
+				"gid" "46F1CA9E135E81846C6894BCDA1570E5"
+				"size" "99A4FE653D33BFDB5186740088372917"
+				"download" "209051AC0108EA24E9692895FD75998F"
+			}
+			"redteamdevs"
+			{
+				"gid" "CC259A769724C39780F6A922671BA79D"
+				"size" "FBE98CCF79CC9A8D02246690AC73821C"
+				"download" "A0501F7B78714D4931A10B21B8A5C303"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16825820"
+			"timeupdated" "1734905243"
+		}
+		"patreonbuilds"
+		{
+			"buildid" "16825820"
+			"pwdrequired" "1"
+			"timeupdated" "1734817062"
+		}
+		"public_test_builds"
+		{
+			"buildid" "16825820"
+			"description" "test builds for Sail VR Multiplayer"
+			"timeupdated" "1734817069"
+		}
+		"redteamdevs"
+		{
+			"buildid" "16825820"
+			"pwdrequired" "1"
+			"timeupdated" "1734905263"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26756609"
+"_sha" "74930a266b1a982feb7ea5d244e35c32ea1d4fa7"
+"_size" "4534"
