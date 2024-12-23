@@ -32,15 +32,45 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1723680000"
-		"tested_build_id" "15262021"
+		"category" "2"
+		"test_timestamp" "1733875200"
+		"tested_build_id" "16656568"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -48,12 +78,12 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "0"
+			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
-			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -123,7 +153,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721040389"
+	"store_asset_mtime" "1734699621"
 	"associations"
 	{
 		"0"
@@ -160,6 +190,7 @@
 		"category_38" "1"
 		"category_22" "1"
 		"category_18" "1"
+		"category_61" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -264,7 +295,7 @@
 		"19" "21"
 	}
 	"review_score" "5"
-	"review_percentage" "53"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -325,9 +356,9 @@
 		{
 			"public"
 			{
-				"gid" "6402403781193350092"
-				"size" "8991842835"
-				"download" "8411984560"
+				"gid" "3771709762244213725"
+				"size" "9564055638"
+				"download" "8539569440"
 			}
 		}
 	}
@@ -335,8 +366,8 @@
 	{
 		"public"
 		{
-			"buildid" "16656568"
-			"timeupdated" "1733489036"
+			"buildid" "16828025"
+			"timeupdated" "1734858852"
 		}
 	}
 }
@@ -346,6 +377,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26525832"
-"_sha" "4e5572b876cc9cbb04e83f24fbfde32e499b5b1a"
-"_size" "5572"
+"_change_number" "26752062"
+"_sha" "7be6d2514e72145a4e68842b3bfaf9b600453e6d"
+"_size" "6364"
