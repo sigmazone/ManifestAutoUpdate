@@ -1,0 +1,405 @@
+"appid" "960170"
+"common"
+{
+	"name" "DJMAX RESPECT V"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"latam" "1"
+	}
+	"osextended" ""
+	"logo" "c471f0f41058dc402ee1f57959ade1bfffc609c0"
+	"logo_small" "c471f0f41058dc402ee1f57959ade1bfffc609c0_thumb"
+	"icon" "52d095b3a62f3add88003a24b53083e1444fe8e8"
+	"clienticon" "1c6d247fc5ec4c4ab5cfe2a74990139a1f469ddd"
+	"clienttga" "4143f6751f2d69f89e72d3c36e290309ba2240c6"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "960170_eula_0"
+			"name" "DJMAX RESPECT V EULA"
+			"url" "https://store.steampowered.com//eula/960170_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1710979200"
+		"tested_build_id" "13488927"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"metacritic_name" "DJMAX RESPECT V"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "f00db0558f4b4bd8965fd2e72aae3802ea46234b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724065596"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NEOWIZ"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NEOWIZ"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "NEOWIZ"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_35" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1583974560"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "960170"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "597"
+		"3" "19"
+		"4" "4085"
+		"5" "3859"
+		"6" "4182"
+		"7" "1773"
+		"8" "3878"
+		"9" "3871"
+		"10" "4726"
+		"11" "493"
+		"12" "4026"
+		"13" "3964"
+		"14" "4191"
+		"15" "1684"
+		"16" "1775"
+		"17" "6730"
+		"18" "701"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"anti_cheat_support_url" ""
+	"developer" "NEOWIZ"
+	"publisher" "NEOWIZ"
+	"listofdlc" "1080550,1117550,1214810,1238760,1271670,1271671,1281330,1300210,1300211,1316550,1356220,1356221,1356222,1386610,1386611,1386612,1386616,1472190,1472191,1472192,1516850,1568680,1616010,1664550,1710370,1710371,1782170,1823440,1823441,1843020,1918760,1918761,1958170,1958171,1958173,1965710,2125660,2125661,2164540,2271910,2271911,2307470,2307471,2391270,2391271,2522600,2522610,2530380,2677420,2677430,2681820,2829200,2947560,2947570,3038800,3155240,3155250,3222500,3319810,3319820,3371120"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DJMAX RESPECT V"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DJMAX RESPECT V.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" ""
+	"960171"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "201065709017526196"
+				"size" "73970051798"
+				"download" "73203419104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "8AEE47BB35FEDDDACF6D79A08B23805B"
+				"size" "34704EE7931931C017B0512A98BC5786"
+				"download" "48BAF0A4145050D69610DFD18387C884"
+			}
+		}
+	}
+	"960172"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1804365296576201455"
+				"size" "24193325655"
+				"download" "23255433744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "3B37BAE50F22AB5AE205E829829ED0DC"
+				"size" "5D43532382E4226560DDB7583D7AC12E"
+				"download" "29CECFFA0FEBA18DB1D2ED52309656B2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16809660"
+			"timeupdated" "1734937521"
+		}
+		"test"
+		{
+			"buildid" "16809660"
+			"pwdrequired" "1"
+			"timeupdated" "1734936664"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "101"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Neowiz/DJMAX RESPECT V/{64BitSteamID}"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26759774"
+"_sha" "b243166a4b4092e2c268be5b64c44f13584a4391"
+"_size" "7275"
