@@ -1,0 +1,311 @@
+"appid" "1181640"
+"common"
+{
+	"name" "Project Exhibited"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "1b35575133bbd8ca0bce18194be16c16e87ab5fa"
+	"logo_small" "1b35575133bbd8ca0bce18194be16c16e87ab5fa_thumb"
+	"icon" "863c0e4ca61bb89d0eb9d06ebfb972a468ec1b54"
+	"clienticon" "fcfaa6454c532efcf87bf2cb67d7b5d161e0d15d"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.51601801805659"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.51601801805659"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1595250224"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team Thieves"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Breda University of Applied Sciences"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "37"
+		"3" "23"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1592337565"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1181640"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "113"
+		"3" "492"
+		"4" "1687"
+		"5" "122"
+		"6" "3839"
+		"7" "4182"
+		"8" "7208"
+		"9" "4175"
+		"10" "4191"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Team Thieves"
+	"publisher" "Breda University of Applied Sciences"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Project Exhibited"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Project_Exhibited.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1181641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8638981145871056818"
+				"size" "5188979964"
+				"download" "2027796432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "ACF11845C45F1E25F9B35FFD6F6DF615"
+				"size" "18ECF9ACB2EC00DC4AC2365313D54760"
+				"download" "4C0C8962CDA46DFF9F3B4B91492152D4"
+			}
+			"beta"
+			{
+				"gid" "B2CF399B851AA44A039FC8E5E9CFC868"
+				"size" "CE6E0CC33254EA26689CEB4E0C72CD56"
+				"download" "59BC7471F05ED40B8D81262860719E1E"
+			}
+			"development"
+			{
+				"gid" "9DC7F3809B81DA60B4FD09B7E686D559"
+				"size" "66BE1DE117F2A4B3B8104ED4BCBB8054"
+				"download" "A26B9B4BA9976555A5B2AF40074CF80E"
+			}
+			"development-debug"
+			{
+				"gid" "88C09F550A64748BE1E4408EA75AD628"
+				"size" "C5BFDD42F9B745E0DD8FDC103FB1F66E"
+				"download" "BECF33F592126435A4D80F84B4EF9FF7"
+			}
+			"early-access"
+			{
+				"gid" "91BE87857C07FA4137E36D2D7AC7B783"
+				"size" "DFFC10B72C1B520DAEAEAEA6C9B97CA6"
+				"download" "65CA5705CEA7E8B7D1F72905F8959E59"
+			}
+			"release"
+			{
+				"gid" "D26C92888CA131A118ACA7FC6B8F1201"
+				"size" "6D8855D9E23AECD542B6644421D0F4D8"
+				"download" "53801C1F5F6E84472F38E46105D0EC6A"
+			}
+			"release-debug"
+			{
+				"gid" "8C205ACE3F6E120108B2A7851D6BC7D9"
+				"size" "304296935EFB30475D78DB54720180A8"
+				"download" "3D744A9522DDE1A9D40F9EE7399BDBA2"
+			}
+			"stable"
+			{
+				"gid" "1C78C58416D0D6168FB460B2EF4DF0B9"
+				"size" "D0039E4F3D06457029E18D779678CBB9"
+				"download" "FCEF2941AC8939982AC78EF43F876326"
+			}
+			"stable-temp"
+			{
+				"gid" "C1693EDCDC0D11F24E837C6E8F3C28A9"
+				"size" "B0EE1FDD4355FC088698D22D5FCD4E3F"
+				"download" "1FCFD6B0A77F01B69C164D84CE504EFC"
+			}
+			"staging"
+			{
+				"gid" "D4077EB01234273E4D46CBD79E66D646"
+				"size" "BFAA4DFC7F00F8A159A88EC7AA846ED2"
+				"download" "78E2D22D350B3F5934B2441E9F49F4C4"
+			}
+			"testing"
+			{
+				"gid" "8AFF34326094865ED65A4308148BDCB5"
+				"size" "F014D19BF8C17D209A0217008733327E"
+				"download" "0295222F908C50EB4F825EABC3BBD073"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5533668"
+			"timeupdated" "1600271155"
+		}
+		"alpha"
+		{
+			"buildid" "4878996"
+			"pwdrequired" "1"
+			"timeupdated" "1586444478"
+		}
+		"beta"
+		{
+			"buildid" "5034996"
+			"pwdrequired" "1"
+			"timeupdated" "1591090862"
+		}
+		"development"
+		{
+			"buildid" "5532511"
+			"pwdrequired" "1"
+			"timeupdated" "1599840627"
+		}
+		"development-debug"
+		{
+			"buildid" "5533592"
+			"pwdrequired" "1"
+			"timeupdated" "1599858779"
+		}
+		"early-access"
+		{
+			"buildid" "5114030"
+			"pwdrequired" "1"
+			"timeupdated" "1591614985"
+		}
+		"release"
+		{
+			"buildid" "5533668"
+			"pwdrequired" "1"
+			"timeupdated" "1599860050"
+		}
+		"release-debug"
+		{
+			"buildid" "5533592"
+			"pwdrequired" "1"
+			"timeupdated" "1600270833"
+		}
+		"stable"
+		{
+			"buildid" "5174149"
+			"pwdrequired" "1"
+			"timeupdated" "1592330874"
+		}
+		"stable-temp"
+		{
+			"buildid" "5174149"
+			"pwdrequired" "1"
+			"timeupdated" "1599770980"
+		}
+		"staging"
+		{
+			"buildid" "5170416"
+			"pwdrequired" "1"
+			"timeupdated" "1592330857"
+		}
+		"testing"
+		{
+			"buildid" "4878562"
+			"pwdrequired" "1"
+			"timeupdated" "1586827404"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26250821"
+"_sha" "046a9434347800d34c7cef8cdc4c2f50e6f314e7"
+"_size" "5867"
