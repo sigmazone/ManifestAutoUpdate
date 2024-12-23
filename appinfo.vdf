@@ -1,0 +1,745 @@
+"appid" "1026420"
+"common"
+{
+	"name" "WARSAW"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "9e46ebdf21cee8495bc85d969eb152a14e8d222a"
+	"clienticon" "e6ea902b83ca901f9320fdb194bc8f6f3f9af5d5"
+	"icon" "70ad55891ec292140e7180744d3427555bc2bced"
+	"logo" "eaa9796b36881c22a8803b01627d78d00ed0b581"
+	"logo_small" "eaa9796b36881c22a8803b01627d78d00ed0b581_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"name_localized"
+	{
+		"english" "WARSAW RISING: City of Heroes"
+		"polish" "WARSAW RISING: Miasto Bohaterów"
+		"german" "WARSAW RISING: Stadt der Helden"
+		"french" "WARSAW RISING: Cité des Héros"
+		"russian" "WARSAW RISING: City of Heroes"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "4685113"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "13b7224f92e1989e314d84094db1af8930eeedd8/capsule_231x87.jpg"
+		"polish" "bd7fae2186c527409414d74acb2bd5b8e014d3d4/capsule_231x87_polish.jpg"
+		"german" "f313fc281213ac3c140e53eb32c1b846e2dcd342/capsule_231x87_german.jpg"
+		"french" "026bf8ad1f664cdc389abe6bd3431f8dcaf6f7c0/capsule_231x87_french.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,pl,de,fr,ru"
+		"library_hero" "en"
+		"library_logo" "en,pl,de,fr,ru"
+		"library_header" "en,de,fr,pl"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.650775798265357"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "6525be708b7ee87250f23571bd933fcd65bee066/library_600x900.jpg"
+				"polish" "60aee226a9bc1998d5acbc1b881c80427dc8b4f1/library_600x900_polish.jpg"
+				"german" "e5b4910844b1b4caf98402b3d9165aa1b8e71c8f/library_600x900_german.jpg"
+				"french" "1605ff11b3f9e5abbf1893c88354dc2c986fbdea/library_600x900_french.jpg"
+				"russian" "library_600x900_russian.jpg"
+			}
+			"image2x"
+			{
+				"english" "6525be708b7ee87250f23571bd933fcd65bee066/library_600x900_2x.jpg"
+				"polish" "60aee226a9bc1998d5acbc1b881c80427dc8b4f1/library_600x900_polish_2x.jpg"
+				"german" "e5b4910844b1b4caf98402b3d9165aa1b8e71c8f/library_600x900_german_2x.jpg"
+				"french" "1605ff11b3f9e5abbf1893c88354dc2c986fbdea/library_600x900_french_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.650775798265357"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"polish" "logo_polish.png"
+				"german" "logo_german.png"
+				"french" "logo_french.png"
+				"russian" "logo_russian.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"polish" "logo_polish_2x.png"
+				"german" "logo_german_2x.png"
+				"french" "logo_french_2x.png"
+				"russian" "logo_russian_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e55b1e6091eb0d22d6f1bdbbb53047a44a338bcc/library_header.jpg"
+				"german" "22d82d58df1fbe3ee6af2f35f9cb70a8043b21d9/library_header_german.jpg"
+				"french" "5bed4e7eb88b51813c234044b18b1afc63d46353/library_header_french.jpg"
+				"polish" "4bda45842cb9f635ecb1759fe35182e50d5efeb3/library_header_polish.jpg"
+			}
+			"image2x"
+			{
+				"english" "e55b1e6091eb0d22d6f1bdbbb53047a44a338bcc/library_header_2x.jpg"
+				"german" "22d82d58df1fbe3ee6af2f35f9cb70a8043b21d9/library_header_german_2x.jpg"
+				"french" "5bed4e7eb88b51813c234044b18b1afc63d46353/library_header_french_2x.jpg"
+				"polish" "4bda45842cb9f635ecb1759fe35182e50d5efeb3/library_header_polish_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727707202"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pixelated Milk"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Retrovibe Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Instytut Pamięci Narodowej"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Instytut Pamięci Narodowej"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_42" "1"
+		"category_23" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1570028160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1026420"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "21725"
+		"1" "4684"
+		"2" "1741"
+		"3" "3987"
+		"4" "17305"
+		"5" "1759"
+		"6" "122"
+		"7" "4026"
+		"8" "4325"
+		"9" "3871"
+		"10" "3959"
+		"11" "10695"
+		"12" "9"
+		"13" "1751"
+		"14" "5711"
+		"15" "7208"
+		"16" "14139"
+		"17" "6815"
+		"18" "4252"
+		"19" "4150"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"developer" "Pixelated Milk"
+	"publisher" "Instytut Pamięci Narodowej"
+	"homepage" "http://warsawthegame.com"
+	"isfreeapp" "1"
+	"listofdlc" "2940140"
+}
+"config"
+{
+	"installdir" "WARSAW"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Warsaw.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "WarsawLegacy_105\\Warsaw.exe"
+			"workingdir" "WarsawLegacy_105"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2940140"
+			}
+			"description_loc"
+			{
+				"english" "Play WARSAW - Legacy Edition"
+				"german" "WARSAW - Legacy Edition spielen"
+				"french" "Jouer à WARSAW - Legacy Edition"
+				"russian" "Играть в WARSAW - Legacy Edition"
+				"polish" "Graj w WARSAW - Legacy Edition"
+			}
+			"description" "Play WARSAW - Legacy Edition"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1868284428"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1026421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7178146382852588481"
+				"size" "7998326776"
+				"download" "1559570272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"allunlocktest"
+			{
+				"gid" "F88B43230D90BAC80BC99FF70302FA6F"
+				"size" "4D14EE7491988B18ECFF13410B3154DC"
+				"download" "468BDBAD4880D095038061D129789AA4"
+			}
+			"beta"
+			{
+				"gid" "C01F547CBB60E1D0D8D12E1EE91FA50A"
+				"size" "D0700239B8CB70276F721F57512B9EB0"
+				"download" "27ED8027ACC1B2C40522CC3FB5492E4F"
+			}
+			"developer"
+			{
+				"gid" "1C5BFEED964A7FE977526223000D4417"
+				"size" "4A6D923CAC387120B78F2D081E306290"
+				"download" "01CC70F881C9875B42B01F5BC6E26A40"
+			}
+			"footnotestest"
+			{
+				"gid" "CD9FC508622911F3C62CA765D424390D"
+				"size" "57A5518C04ABD8F3B987BADD21EF200B"
+				"download" "8DF6E1347A7AF7E29F56C52BEC0A4D45"
+			}
+			"gamescom"
+			{
+				"gid" "EA509F7C4948A70798E2C239EC0755E8"
+				"size" "9B2DCD0AA3B28C790DE6A85359459B0D"
+				"download" "790C8092038656569EA1A59873D3A71C"
+			}
+			"pre-zmija"
+			{
+				"gid" "A6DFE666EAB66E64494DCBED6A1EA12E"
+				"size" "69286DEBA0B6C0127B4C3E8FB759D47F"
+				"download" "267F8720378273301D0D2ADF9A67EDA0"
+			}
+			"warsaw2023"
+			{
+				"gid" "1D82331F9CA26D24A0AAFB2FCA348905"
+				"size" "BD2B975105F93DDE0D7B8EF319F0A3DE"
+				"download" "6000E8A08B2E5ED8A3976B9707371BFF"
+			}
+			"rework"
+			{
+				"gid" "AE966F4BF81904FFC3F8D8A61A1EFB91"
+				"size" "B94ED521DE12A6222B17AF5D344187E5"
+				"download" "9A397E5E246E42A77CB27A9F8E71C0AB"
+			}
+			"warsaw2024"
+			{
+				"gid" "E2821E1B85F4D8B55712BC5E1D6788D0"
+				"size" "9D48A2696BD2DE0563CF0AA146CB715E"
+				"download" "29F4295BBACE6F80CFEE73D10EA6DA41"
+			}
+		}
+	}
+	"1026422"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2098185919695936181"
+				"size" "8029808672"
+				"download" "1561956800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"allunlocktest"
+			{
+				"gid" "D7765AFFF8FB3FC7C446E9C2F6C92E54"
+				"size" "F64E6CEFBC44C4B7F6727EB356B82536"
+				"download" "EF4D78A7CF2CED944B70AFEF784312A9"
+			}
+			"beta"
+			{
+				"gid" "FF696D27519D952C9F4F66B540E22742"
+				"size" "D7718BC30A36C2EAFCD6CA5B4CEBA61D"
+				"download" "A6B7643D37D11E2E87E3A7D8F5EFD4CB"
+			}
+			"developer"
+			{
+				"gid" "83F8F60E5419E02199496BF9F84C8A84"
+				"size" "DD122644592E9DC92BCC97C8449E9064"
+				"download" "87E9026BD1AC68C8A62AB4BB752C2945"
+			}
+			"footnotestest"
+			{
+				"gid" "0D5E04713001716FFFC3B80AE5FD546C"
+				"size" "27A68E9F3FA47B3BC46378FE774EC46D"
+				"download" "E842C9F3630FBF617399F8091E4A6E3A"
+			}
+			"gamescom"
+			{
+				"gid" "B35A99947411E7A495AB5A4A7D4688C8"
+				"size" "93CF27ECC39CB501DB9852611BEA126F"
+				"download" "7408424EA53BBE324F5D62A91B92A0A0"
+			}
+			"pre-zmija"
+			{
+				"gid" "A2E5A0D5BA1871C327983533033E76D2"
+				"size" "CF25D4383882B2296E14BA9C095B84A3"
+				"download" "D5DFFF47B2344B0B3785DE0CE7CB9BDC"
+			}
+			"warsaw2023"
+			{
+				"gid" "979EE65F0A63AC829A7B732D0BDD5EC4"
+				"size" "764266D681262FEC6356E689BCF2DA76"
+				"download" "0C09326D2900E14CCE9586E9A6E1DF15"
+			}
+			"rework"
+			{
+				"gid" "AB01331CF367FB7A5748707FEB3000DA"
+				"size" "5EFB82E21DFD7573817461CDF0E0B2ED"
+				"download" "05287D6D1161FB5419B9A7676472AEB5"
+			}
+			"warsaw2024"
+			{
+				"gid" "FE632C28028DD9EA0CF1636CC8961CA7"
+				"size" "735EF73B4D640A9A092ED90B4A1742D1"
+				"download" "B137EA6F6E5DA378DBFEDFBD7883C7EE"
+			}
+		}
+	}
+	"1026428"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7287243387803979905"
+				"size" "8029808672"
+				"download" "1562483040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"allunlocktest"
+			{
+				"gid" "0D7C3E949EDCE3DD51CCD1194A14E8F7"
+				"size" "4D14EE7491988B18ECFF13410B3154DC"
+				"download" "44FA075F0D66D7241BCB70A3000F46AE"
+			}
+			"beta"
+			{
+				"gid" "899282A9BFCE47C35E4E1C06CBDC82FC"
+				"size" "8EE3831D1F0E3FD162D7B47A429F33BE"
+				"download" "2AF09DF9F31CE3169B052A78ADE35CBF"
+			}
+			"footnotestest"
+			{
+				"gid" "B4446782C96FC5C4EECBC6CE9A102CC3"
+				"size" "57A5518C04ABD8F3B987BADD21EF200B"
+				"download" "79619F1A7030564C9C2F62A5C116A063"
+			}
+			"pre-zmija"
+			{
+				"gid" "4668083E897F8C862A4799776C73A754"
+				"size" "69286DEBA0B6C0127B4C3E8FB759D47F"
+				"download" "0C03308D6B412155E3511F62D2353657"
+			}
+			"warsaw2023"
+			{
+				"gid" "8DA5336E5F71474F44452C39AEABD88C"
+				"size" "2680E6698F74A4F413D9124206F42C49"
+				"download" "A2340450242BBC80264E4B8C4333EC43"
+			}
+			"rework"
+			{
+				"gid" "F5161E1E1C3773C6D3188A0D8C35D7ED"
+				"size" "321617784BB8383D654E126E41654CFF"
+				"download" "22A2337F9807EA302CC0D1D83E75FABA"
+			}
+			"warsaw2024"
+			{
+				"gid" "C667340164598D43105C99EAB0160E04"
+				"size" "735EF73B4D640A9A092ED90B4A1742D1"
+				"download" "88053458D56432358C2F11EAF2D4C466"
+			}
+		}
+	}
+	"1026429"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4507251471144747686"
+				"size" "8029808672"
+				"download" "1562293232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"allunlocktest"
+			{
+				"gid" "00F85F05652B4B6AA2680F465AA6937A"
+				"size" "6394892B3E65274A7F3BEA3CAB007FC9"
+				"download" "1CC3BF615967A1816285D6CDC4B6EBBE"
+			}
+			"beta"
+			{
+				"gid" "56CE80FF9CABD6CD58511261800B874C"
+				"size" "7D56501DAE6FCEC258475D6ED9EBEC29"
+				"download" "F71F6C2EDC0B07EDF45EC403B7AC9A40"
+			}
+			"footnotestest"
+			{
+				"gid" "9C0BA126051A2D79964550A86FCE1C0D"
+				"size" "C13492B71CC27C851521EE2F1E50C522"
+				"download" "39DF7E9D02E87B9B8DE6183CB6755099"
+			}
+			"pre-zmija"
+			{
+				"gid" "1917FCDB5C3228516A6155DBDB2B1A23"
+				"size" "3D9F2BF8E22DF7CD156515CE5987DA0C"
+				"download" "0B4F7534E74F1FAD291ADDD41AEA45E7"
+			}
+			"warsaw2023"
+			{
+				"gid" "D1F8155A34799ADA6DAFFB56B1D2D4D9"
+				"size" "38166022203D7A7378076EB48502D120"
+				"download" "4D583266F4A8538CA1958BA53CFB47C5"
+			}
+			"rework"
+			{
+				"gid" "3BFA6874C211DA01A5C74449BC76BF95"
+				"size" "5EFB82E21DFD7573817461CDF0E0B2ED"
+				"download" "C4DA8D7536ED7D0B50D5E50F4EC7E59E"
+			}
+			"warsaw2024"
+			{
+				"gid" "FB060FF80BF98813E575325E591D68B4"
+				"size" "735EF73B4D640A9A092ED90B4A1742D1"
+				"download" "836B3F1F11AB22C7238CC8BCB0B81DCC"
+			}
+		}
+	}
+	"2940140"
+	{
+		"dlcappid" "2940140"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6629811495584544571"
+				"size" "2026960369"
+				"download" "722068368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"warsaw2024"
+			{
+				"gid" "4846B4D5BAE23193F72EABDA6C0B2C7D"
+				"size" "A41E9BC125C10A8B3950A1B7D6CDE512"
+				"download" "1B0463113FC195C6E082E510360A06E5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16081393"
+			"timeupdated" "1729170008"
+		}
+		"allunlocktest"
+		{
+			"buildid" "12177390"
+			"pwdrequired" "1"
+			"timeupdated" "1694602662"
+		}
+		"beta"
+		{
+			"buildid" "5612437"
+			"pwdrequired" "1"
+			"timeupdated" "1601400868"
+		}
+		"developer"
+		{
+			"buildid" "11380733"
+			"pwdrequired" "1"
+			"timeupdated" "1685715176"
+		}
+		"footnotestest"
+		{
+			"buildid" "11803183"
+			"pwdrequired" "1"
+			"timeupdated" "1690472119"
+		}
+		"gamescom"
+		{
+			"buildid" "12012142"
+			"pwdrequired" "1"
+			"timeupdated" "1692788739"
+		}
+		"pre-zmija"
+		{
+			"buildid" "4640702"
+			"pwdrequired" "1"
+			"timeupdated" "1583164888"
+		}
+		"warsaw2023"
+		{
+			"buildid" "11598852"
+			"pwdrequired" "1"
+			"timeupdated" "1688133947"
+		}
+		"rework"
+		{
+			"buildid" "15757744"
+			"pwdrequired" "1"
+			"timeupdated" "1726755243"
+		}
+		"warsaw2024"
+		{
+			"buildid" "15828210"
+			"pwdrequired" "1"
+			"timeupdated" "1727298883"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "64000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pixelated Milk/Warsaw/{64BitSteamID}/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pixelated Milk/Warsaw/WarsawCityOfHeroes{64BitSteamID}/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pixelated Milk/Warsaw/"
+			"pattern" "settingsCityOfHeroes"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pixelated Milk/Warsaw/"
+			"pattern" "settings"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25767121"
+"_sha" "dde2040c1d63dd948ec37e481d488182e974308d"
+"_size" "16685"
