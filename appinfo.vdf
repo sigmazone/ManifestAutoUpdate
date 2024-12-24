@@ -1,0 +1,880 @@
+"appid" "1905510"
+"common"
+{
+	"name" "DanceXR"
+	"type" "Application"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "9998fb8072cc13b0a8c7faa0373fb2a5d5bcb736"
+	"clienttga" "b9fbfc64cbc21115f1d668df137d14fb0d9eeb02"
+	"clienticon" "437bc6c7da33b291c62d7eb160ed4625b20518a2"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "2"
+			"360_required" "0"
+		}
+	}
+	"releasestate" "released"
+	"openxrsupport" "1"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.83720930232559"
+			"height_pct" "62.918546663500365"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.83720930232559"
+				"height_pct" "62.918546663500365"
+			}
+		}
+	}
+	"store_asset_mtime" "1653833146"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "VR Storm Lab"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "VR Storm Lab"
+		}
+	}
+	"primary_genre" "51"
+	"genres"
+	{
+		"0" "51"
+		"1" "58"
+	}
+	"category"
+	{
+		"category_52" "1"
+		"category_61" "1"
+		"category_53" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1654078312"
+	"community_hub_visible" "1"
+	"gameid" "1905510"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "872"
+		"3" "784"
+		"4" "21978"
+		"5" "4085"
+	}
+	"review_score" "7"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "VR Storm Lab"
+	"publisher" "VR Storm Lab"
+	"homepage" "https://vrstormlab.com/"
+	"listofdlc" "2063770,2819100"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DanceXR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DanceXR HD Pro_win64/DanceXR.exe"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "VR"
+				"koreana" "VR 모드"
+				"schinese" "VR模式"
+				"tchinese" "VR模式"
+				"japanese" "vrモード"
+			}
+			"description" "VR"
+		}
+		"1"
+		{
+			"executable" "DanceXR HD Pro_win64/DanceXR.exe"
+			"arguments" "-desktop"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Desktop Mode"
+				"koreana" "데스크탑 모드"
+				"schinese" "桌面模式"
+				"tchinese" "桌面模式"
+				"japanese" "デスクトップモード"
+			}
+			"description" "Desktop Mode"
+		}
+		"2"
+		{
+			"executable" "DanceXR RT Pro_win64/DanceXR.exe"
+			"arguments" "-desktop"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2063770"
+			}
+			"description_loc"
+			{
+				"english" "Raytraced"
+				"koreana" "레이트레이싱 데스크탑 모드"
+				"schinese" "光线追踪桌面模式"
+				"tchinese" "光線追踪桌面模式"
+				"japanese" "レイトレーシングデスクトップモード"
+			}
+			"description" "Raytraced"
+		}
+		"3"
+		{
+			"executable" "DanceXR RT Pro_win64/DanceXR.exe"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2063770"
+			}
+			"description_loc"
+			{
+				"english" "Raytraced VR (Experimental)"
+				"koreana" "레이트레이싱 VR 모드(실험적)"
+				"schinese" "光线追踪 VR 模式（实验性）"
+				"tchinese" "光線追踪 VR 模式（實驗性）"
+				"japanese" "レイトレーシングVRモード（実験的）"
+			}
+			"description" "Raytraced VR (Experimental)"
+		}
+		"4"
+		{
+			"executable" "DanceXR.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "DanceXR LW Pro_win64/DanceXR.exe"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2819100"
+			}
+			"description_loc"
+			{
+				"english" "LW VR"
+			}
+			"description" "LW VR"
+		}
+		"6"
+		{
+			"executable" "DanceXR LW Pro_win64/DanceXR.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2819100"
+			}
+			"description_loc"
+			{
+				"english" "LW Desktop"
+			}
+			"description" "LW Desktop"
+		}
+	}
+}
+"depots"
+{
+	"1905511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8023378370599305692"
+				"size" "722807671"
+				"download" "446555920"
+			}
+			"1.4.6"
+			{
+				"gid" "8912213914434752446"
+				"size" "356527214"
+				"download" "155054336"
+			}
+			"1.4.7"
+			{
+				"gid" "7643314278851742802"
+				"size" "484862818"
+				"download" "279774512"
+			}
+			"1.4.8"
+			{
+				"gid" "8194399943066253288"
+				"size" "500755115"
+				"download" "284358192"
+			}
+			"1.4.9"
+			{
+				"gid" "8158721612365808272"
+				"size" "723158472"
+				"download" "447264000"
+			}
+			"1.5.0"
+			{
+				"gid" "6060908918224826256"
+				"size" "733209000"
+				"download" "451442112"
+			}
+			"1.5.1"
+			{
+				"gid" "2863527502375277494"
+				"size" "733863082"
+				"download" "453786784"
+			}
+			"2024.1"
+			{
+				"gid" "1123262305566690885"
+				"size" "709934358"
+				"download" "444619296"
+			}
+			"2024.2"
+			{
+				"gid" "6811729011845239989"
+				"size" "724866884"
+				"download" "447862448"
+			}
+			"2024.3"
+			{
+				"gid" "8238416007737584484"
+				"size" "723616351"
+				"download" "446930416"
+			}
+			"stable"
+			{
+				"gid" "1661282683060497935"
+				"size" "291059411"
+				"download" "119244080"
+			}
+			"2024.10"
+			{
+				"gid" "5981895603409581008"
+				"size" "719930191"
+				"download" "446285152"
+			}
+			"2024.4"
+			{
+				"gid" "3344137872179002405"
+				"size" "723672471"
+				"download" "446884496"
+			}
+			"2024.5"
+			{
+				"gid" "3587330888402336288"
+				"size" "724055925"
+				"download" "447064704"
+			}
+			"2024.6"
+			{
+				"gid" "7459708744640572510"
+				"size" "722887762"
+				"download" "446870768"
+			}
+			"2024.8"
+			{
+				"gid" "218306776543968096"
+				"size" "728177052"
+				"download" "447925008"
+			}
+			"2024.9"
+			{
+				"gid" "5800741970705108038"
+				"size" "722507275"
+				"download" "447206400"
+			}
+			"beta"
+			{
+				"gid" "6371265101763724782"
+				"size" "722932558"
+				"download" "446647424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "5B413AEF3E3E21273E0B836B8883FEF3"
+				"size" "CA1FF7A108CF0FEC2F24D05252B2DE07"
+				"download" "B6BCCD500E4C8C93831A176818FEFB07"
+			}
+		}
+	}
+	"2063770"
+	{
+		"dlcappid" "2063770"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "747681389455228055"
+				"size" "994339475"
+				"download" "546142288"
+			}
+			"1.4.6"
+			{
+				"gid" "4444650826109245539"
+				"size" "767873566"
+				"download" "292951840"
+			}
+			"1.4.7"
+			{
+				"gid" "2358206312880719730"
+				"size" "824730594"
+				"download" "402738736"
+			}
+			"1.4.8"
+			{
+				"gid" "7754014995156614587"
+				"size" "809096679"
+				"download" "394307296"
+			}
+			"1.4.9"
+			{
+				"gid" "3913065876005381498"
+				"size" "1032471702"
+				"download" "557459952"
+			}
+			"1.5.0"
+			{
+				"gid" "3897469504066833746"
+				"size" "1122290413"
+				"download" "578096896"
+			}
+			"1.5.1"
+			{
+				"gid" "6171853665868598526"
+				"size" "1026418721"
+				"download" "560740192"
+			}
+			"2024.1"
+			{
+				"gid" "7362911873893472014"
+				"size" "879870702"
+				"download" "519057488"
+			}
+			"2024.2"
+			{
+				"gid" "3447263459763550042"
+				"size" "866252671"
+				"download" "515604304"
+			}
+			"2024.3"
+			{
+				"gid" "7560584307050235560"
+				"size" "864716447"
+				"download" "515541792"
+			}
+			"stable"
+			{
+				"gid" "8449940280556280906"
+				"size" "358206072"
+				"download" "137088384"
+			}
+			"2024.10"
+			{
+				"gid" "841052003110926848"
+				"size" "1001697405"
+				"download" "542367232"
+			}
+			"2024.4"
+			{
+				"gid" "6400573452679536617"
+				"size" "854599120"
+				"download" "512938944"
+			}
+			"2024.5"
+			{
+				"gid" "5673898393649062795"
+				"size" "855644639"
+				"download" "513496928"
+			}
+			"2024.6"
+			{
+				"gid" "5409867435239761903"
+				"size" "856142472"
+				"download" "513656576"
+			}
+			"2024.8"
+			{
+				"gid" "3257127184030817356"
+				"size" "996199899"
+				"download" "543243344"
+			}
+			"2024.9"
+			{
+				"gid" "6880936013410413245"
+				"size" "1005225133"
+				"download" "543906528"
+			}
+			"beta"
+			{
+				"gid" "301510272063389713"
+				"size" "1002714303"
+				"download" "549097360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "1F90F24CA6BE1BFB8792A9E2133048BF"
+				"size" "31A4B63891993DAC2224EFF790474124"
+				"download" "B1D959CE61BE49BB719EE636E40C6ABF"
+			}
+		}
+	}
+	"1905512"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "926830130575617161"
+				"size" "482448940"
+				"download" "214542992"
+			}
+			"1.4.6"
+			{
+				"gid" "5100058848039091027"
+				"size" "388197463"
+				"download" "140310544"
+			}
+			"1.4.7"
+			{
+				"gid" "8622128043401299684"
+				"size" "529159493"
+				"download" "270128496"
+			}
+			"1.4.8"
+			{
+				"gid" "8622128043401299684"
+				"size" "529159493"
+				"download" "270128496"
+			}
+			"1.4.9"
+			{
+				"gid" "4768508574565469343"
+				"size" "750686388"
+				"download" "365967904"
+			}
+			"1.5.0"
+			{
+				"gid" "4768508574565469343"
+				"size" "750686388"
+				"download" "365967904"
+			}
+			"1.5.1"
+			{
+				"gid" "4768508574565469343"
+				"size" "750686388"
+				"download" "365967904"
+			}
+			"2024.1"
+			{
+				"gid" "4768508574565469343"
+				"size" "750686388"
+				"download" "365967904"
+			}
+			"2024.2"
+			{
+				"gid" "4768508574565469343"
+				"size" "750686388"
+				"download" "365967904"
+			}
+			"2024.3"
+			{
+				"gid" "7209055374018037076"
+				"size" "655851630"
+				"download" "291479616"
+			}
+			"stable"
+			{
+				"gid" "5767092406605476048"
+				"size" "356849886"
+				"download" "128391760"
+			}
+			"2024.10"
+			{
+				"gid" "4644095624330740952"
+				"size" "590360559"
+				"download" "235840768"
+			}
+			"2024.4"
+			{
+				"gid" "7209055374018037076"
+				"size" "655851630"
+				"download" "291479616"
+			}
+			"2024.5"
+			{
+				"gid" "4644095624330740952"
+				"size" "590360559"
+				"download" "235840768"
+			}
+			"2024.6"
+			{
+				"gid" "4644095624330740952"
+				"size" "590360559"
+				"download" "235840768"
+			}
+			"2024.8"
+			{
+				"gid" "4644095624330740952"
+				"size" "590360559"
+				"download" "235840768"
+			}
+			"2024.9"
+			{
+				"gid" "4644095624330740952"
+				"size" "590360559"
+				"download" "235840768"
+			}
+			"beta"
+			{
+				"gid" "926830130575617161"
+				"size" "482448940"
+				"download" "214542992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "1D58C31540D9D332C4637024A121447A"
+				"size" "5EF17D1F1BAD25CC4990EB99FB4A7624"
+				"download" "C3A3CDBE377C5822954B3AD9897DFD20"
+			}
+		}
+	}
+	"2819100"
+	{
+		"dlcappid" "2819100"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5708232540486626799"
+				"size" "505705621"
+				"download" "283095408"
+			}
+			"2024.2"
+			{
+				"gid" "2781008745934560168"
+				"size" "500211194"
+				"download" "281930448"
+			}
+			"2024.3"
+			{
+				"gid" "7406507467755214201"
+				"size" "500581963"
+				"download" "281987808"
+			}
+			"2024.10"
+			{
+				"gid" "8477795346583801726"
+				"size" "503063399"
+				"download" "282792288"
+			}
+			"2024.4"
+			{
+				"gid" "8870736344454492363"
+				"size" "501188815"
+				"download" "282158304"
+			}
+			"2024.5"
+			{
+				"gid" "2426706770460980251"
+				"size" "501226633"
+				"download" "282091408"
+			}
+			"2024.6"
+			{
+				"gid" "559727916852618176"
+				"size" "501309573"
+				"download" "282087744"
+			}
+			"2024.8"
+			{
+				"gid" "4659673645213484890"
+				"size" "510084512"
+				"download" "284281952"
+			}
+			"2024.9"
+			{
+				"gid" "691120918226390936"
+				"size" "505510051"
+				"download" "283639696"
+			}
+			"beta"
+			{
+				"gid" "5758914307262168516"
+				"size" "505342109"
+				"download" "283048720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "3E2B0672705A76B400369A5263980E18"
+				"size" "505FEA87F5F6E57D3B84880309BFA646"
+				"download" "76BA532B07ED49C333C5CF418447728E"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16414742"
+			"timeupdated" "1734233876"
+		}
+		"1.4.6"
+		{
+			"buildid" "11713906"
+			"description" "1.4.6"
+			"timeupdated" "1692449192"
+		}
+		"1.4.7"
+		{
+			"buildid" "11954850"
+			"description" "1.4.7"
+			"timeupdated" "1695912903"
+		}
+		"1.4.8"
+		{
+			"buildid" "12189319"
+			"description" "1.4.8"
+			"timeupdated" "1698724064"
+		}
+		"1.4.9"
+		{
+			"buildid" "12448840"
+			"description" "1.4.9"
+			"timeupdated" "1700732959"
+		}
+		"1.5.0"
+		{
+			"buildid" "12727391"
+			"description" "1.5.0"
+			"timeupdated" "1703840929"
+		}
+		"1.5.1"
+		{
+			"buildid" "12960837"
+			"description" "1.5.1"
+			"timeupdated" "1706091800"
+		}
+		"2024.1"
+		{
+			"buildid" "13169093"
+			"description" "2024.1"
+			"timeupdated" "1707914060"
+		}
+		"2024.2"
+		{
+			"buildid" "13454222"
+			"description" "2024.2"
+			"timeupdated" "1711965627"
+		}
+		"2024.3"
+		{
+			"buildid" "13689513"
+			"description" "2024.3"
+			"timeupdated" "1713330184"
+		}
+		"internal"
+		{
+			"buildid" "14078450"
+			"pwdrequired" "1"
+			"timeupdated" "1713329976"
+		}
+		"stable"
+		{
+			"buildid" "10150019"
+			"description" "Stable version"
+			"timeupdated" "1674125480"
+		}
+		"2024.10"
+		{
+			"buildid" "16045861"
+			"description" "2024.10"
+			"timeupdated" "1734233850"
+		}
+		"2024.4"
+		{
+			"buildid" "14078450"
+			"description" "2024.4"
+			"timeupdated" "1716900939"
+		}
+		"2024.5"
+		{
+			"buildid" "14372617"
+			"description" "2024.5"
+			"timeupdated" "1719485627"
+		}
+		"2024.6"
+		{
+			"buildid" "14734135"
+			"description" "2024.6"
+			"timeupdated" "1724932804"
+		}
+		"2024.8"
+		{
+			"buildid" "15381832"
+			"description" "2024.8"
+			"timeupdated" "1727758048"
+		}
+		"2024.9"
+		{
+			"buildid" "15707257"
+			"description" "2024.9"
+			"timeupdated" "1729906288"
+		}
+		"beta"
+		{
+			"buildid" "16748904"
+			"description" "Public beta release"
+			"timeupdated" "1734233906"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26656336"
+"_sha" "de473e0289052d985e04d7ebdff78200672aa966"
+"_size" "15815"
