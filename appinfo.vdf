@@ -1,0 +1,486 @@
+"appid" "1270580"
+"common"
+{
+	"name" "Mind Over Magic"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "5d6942ecc126b6715e5c8acafd552e4aef971023"
+	"clienttga" "45637a13938d13dea9734d0890d9c8754af50b61"
+	"clienticon" "d50d96951e81dec6de20fddc64379f997fb298e1"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "超灵秘法社"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704240000"
+		"tested_build_id" "12975912"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.9089293377796"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "07caddbd2c312a6db6b6a4253d17b9088cca7005/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "07caddbd2c312a6db6b6a4253d17b9088cca7005/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "07caddbd2c312a6db6b6a4253d17b9088cca7005/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.9089293377796"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734629017"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sparkypants"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Klei Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Klei Publishing"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1702575296"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1270580"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1643"
+		"2" "220585"
+		"3" "12472"
+		"4" "6869"
+		"5" "599"
+		"6" "1702"
+		"7" "4046"
+		"8" "7332"
+		"9" "21725"
+		"10" "4695"
+		"11" "4252"
+		"12" "4182"
+		"13" "1684"
+		"14" "17305"
+		"15" "5125"
+		"16" "6426"
+		"17" "8945"
+		"18" "6129"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Sparkypants"
+	"publisher" "Klei Publishing"
+}
+"config"
+{
+	"installdir" "MindOverMagic"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "mindovermagic.exe"
+			"arguments" "-steambranch=default"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+			"description_loc"
+			{
+				"english" "default"
+			}
+			"description" "default"
+		}
+		"7"
+		{
+			"executable" "mindovermagic.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1270581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "727176614512479738"
+				"size" "6008178318"
+				"download" "3134678672"
+			}
+			"prerelease"
+			{
+				"gid" "727176614512479738"
+				"size" "6008178318"
+				"download" "3134678672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "EED54136F01D36B8FCDDE15DF084293E"
+				"size" "64D1A8ED1FDC45810E1198CE803A105F"
+				"download" "F2279B2F2A82A2A8B108B3CED0B77523"
+			}
+			"hotfixstaging"
+			{
+				"gid" "AD8E5EC26D892DCF0035B9DD67775E94"
+				"size" "015BB0429F16FAFFA8CB22322CFBD654"
+				"download" "30FDE79E02E09E59FD8021CB82007D44"
+			}
+			"previous"
+			{
+				"gid" "E092F5B60F1DEF31E1E98346DEFA9160"
+				"size" "69517B79895813429F354B4F0C876CCE"
+				"download" "07B46003306C097B98C0AF1018933645"
+			}
+			"trailer"
+			{
+				"gid" "FE8F4ECA2EA8911933744A7EBAA85FE2"
+				"size" "D31EFB8EC44799E564DB4E86924B165E"
+				"download" "D3D9A6A5659262A80F8FEB8517B7F54E"
+			}
+			"adhoc_beta"
+			{
+				"gid" "0A24EAF4CF476609649AC23FAA409F72"
+				"size" "6ECEE86527AF1F33720BA75DBA165C4C"
+				"download" "F6F6BF5875E0EA9EBFA69204C9B82BC9"
+			}
+			"adhoc_beta2"
+			{
+				"gid" "1B6DBAE7E6AAF249E75F1626355177DC"
+				"size" "23F1DA69B3BEFF4EF44990720879CE8C"
+				"download" "70CB2F4993597CD1E677B7B512A24BD6"
+			}
+			"debugging"
+			{
+				"gid" "7739C9EF4FE0943D19C968541B404600"
+				"size" "D10AD1021EBCBD64E63AEA9F7A2B763F"
+				"download" "3E9CC9ECFF7B2C57FD4FBE9FE9EEF8DE"
+			}
+			"internal_test"
+			{
+				"gid" "83A7A65A309C2C1328071800EA0112CE"
+				"size" "2BEF73AC060352A6A96F08AC21E41BF3"
+				"download" "9B7E007B6628A40CCCB4E97E2E9257BF"
+			}
+			"macfogtest"
+			{
+				"gid" "8B6B86863315418BAF75FB2CAF233E53"
+				"size" "23E590BFC9816BBEC6C1211936AB20FD"
+				"download" "037C83F1EEFAEF5B5D8C88C5F6559650"
+			}
+			"openbeta"
+			{
+				"gid" "E8F580F2D9540810EE41009EB1D9A78D"
+				"size" "543A7D38FE55BAD22BCCCF14FB95B536"
+				"download" "B4497AF186D70CFDF056A6F57F7FD6C5"
+			}
+			"streamer_test"
+			{
+				"gid" "59A92F1566E230E5805E8A4F853C4718"
+				"size" "20FFB9522769D5AB8088E86883F47E67"
+				"download" "9286C81824B45CDA8F7FA20606826E37"
+			}
+		}
+	}
+	"workshopdepot" "1270580"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16837657"
+			"timeupdated" "1734987772"
+		}
+		"beta"
+		{
+			"buildid" "12764949"
+			"pwdrequired" "1"
+			"timeupdated" "1700606266"
+		}
+		"hotfixstaging"
+		{
+			"buildid" "13408676"
+			"pwdrequired" "1"
+			"timeupdated" "1707430791"
+		}
+		"previous"
+		{
+			"buildid" "13022894"
+			"pwdrequired" "1"
+			"timeupdated" "1703182395"
+		}
+		"trailer"
+		{
+			"buildid" "12883419"
+			"pwdrequired" "1"
+			"timeupdated" "1701810122"
+		}
+		"adhoc_beta"
+		{
+			"buildid" "15478600"
+			"pwdrequired" "1"
+			"timeupdated" "1724515763"
+		}
+		"adhoc_beta2"
+		{
+			"buildid" "14910203"
+			"pwdrequired" "1"
+			"timeupdated" "1720018894"
+		}
+		"debugging"
+		{
+			"buildid" "14617485"
+			"pwdrequired" "1"
+			"timeupdated" "1717619940"
+		}
+		"internal_test"
+		{
+			"buildid" "16837657"
+			"pwdrequired" "1"
+			"timeupdated" "1734985256"
+		}
+		"macfogtest"
+		{
+			"buildid" "16458952"
+			"pwdrequired" "1"
+			"timeupdated" "1733157541"
+		}
+		"openbeta"
+		{
+			"buildid" "16837657"
+			"pwdrequired" "1"
+			"timeupdated" "1734987720"
+		}
+		"prerelease"
+		{
+			"buildid" "16837657"
+			"description" "Pre-release of updates for preview testing"
+			"timeupdated" "1734987732"
+		}
+		"streamer_test"
+		{
+			"buildid" "16238014"
+			"pwdrequired" "1"
+			"timeupdated" "1730297936"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Sparkypants/Mind Over Magic/saves/{Steam3AccountID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Sparkypants/Mind Over Magic/saves/{Steam3AccountID}"
+					"replace" "Library/Application Support/Sparkypants/Mind Over Magic/saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Sparkypants/Mind Over Magic/saves/{Steam3AccountID}"
+					"replace" "unity3d/Sparkypants/Mind Over Magic/saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26766513"
+"_sha" "1ff48fc03f0abe152d945550feb3cba073285f93"
+"_size" "9527"
