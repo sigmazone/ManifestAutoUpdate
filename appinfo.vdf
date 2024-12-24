@@ -204,7 +204,6 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1707990"
-	"onlyvrsupport" "1"
 	"store_tags"
 	{
 		"0" "19"
@@ -215,11 +214,11 @@
 		"5" "3993"
 		"6" "1742"
 		"7" "4667"
-		"8" "4345"
-		"9" "4182"
+		"8" "4182"
+		"9" "4345"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -248,46 +247,6 @@
 				"english" "Demo Launch"
 			}
 			"description" "Demo Launch"
-		}
-		"2"
-		{
-			"executable" "BHM.exe"
-			"arguments" "-steam -hmd=OpenXR"
-			"type" "vr"
-			"config"
-			{
-				"betakey" "ue5_test"
-			}
-		}
-		"3"
-		{
-			"executable" "BHM.exe"
-			"arguments" "-steam -hmd=OpenXR"
-			"type" "vr"
-			"config"
-			{
-				"betakey" "ue5-stage-new_test"
-			}
-		}
-		"4"
-		{
-			"executable" "BHM.exe"
-			"arguments" "-steam -hmd=OpenXR"
-			"type" "vr"
-			"config"
-			{
-				"betakey" "ue5_shipping"
-			}
-		}
-		"5"
-		{
-			"executable" "BHM.exe"
-			"arguments" "-steam -hmd=OpenXR"
-			"type" "vr"
-			"config"
-			{
-				"betakey" "ue5-stage-new_shipping"
-			}
 		}
 		"6"
 		{
@@ -342,7 +301,12 @@
 		{
 			"executable" "BHM.exe"
 			"arguments" "-steam -hmd=OpenXR"
-			"type" "vr"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Steam OpenXR Mode (Steam Link Compatible)"
+			}
+			"description" "Steam OpenXR Mode (Steam Link Compatible)"
 		}
 		"12"
 		{
@@ -374,6 +338,167 @@
 				"betakey" "pressreview"
 			}
 		}
+		"15"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "ue5-stage-new_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Meta XR Mode"
+			}
+			"description" "Meta XR Mode"
+		}
+		"16"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OpenXR"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "ue5-stage-new_test"
+			}
+			"description_loc"
+			{
+				"english" "Steam OpenXR Mode"
+			}
+			"description" "Steam OpenXR Mode"
+		}
+		"17"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "ue5_test"
+			}
+			"description_loc"
+			{
+				"english" "Meta / Oculus Open XR Mode"
+			}
+			"description" "Meta / Oculus Open XR Mode"
+		}
+		"18"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "ue5-stage-new_test"
+			}
+			"description_loc"
+			{
+				"english" "Meta / Oculus Open XR Mode"
+			}
+			"description" "Meta / Oculus Open XR Mode"
+		}
+		"19"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OpenXR"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "ue5-stage-new_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Steam OpenXR Mode (Steam Link Compatible)"
+			}
+			"description" "Steam OpenXR Mode (Steam Link Compatible)"
+		}
+		"20"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OpenXR"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "ue5_test"
+			}
+			"description_loc"
+			{
+				"english" "Steam OpenXR Mode"
+			}
+			"description" "Steam OpenXR Mode"
+		}
+		"21"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "ue5_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Meta XR Mode"
+			}
+			"description" "Meta XR Mode"
+		}
+		"22"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OpenXR"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "ue5_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Steam OpenXR Mode (Steam Link Compatible)"
+			}
+			"description" "Steam OpenXR Mode (Steam Link Compatible)"
+		}
+		"23"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "option2"
+			"description_loc"
+			{
+				"english" "Meta XR Mode"
+			}
+			"description" "Meta XR Mode"
+		}
+		"24"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "public_unsupportedhmd_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Meta XR Mode"
+			}
+			"description" "Meta XR Mode"
+		}
+		"25"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OpenXR"
+			"type" "vr"
+			"config"
+			{
+				"betakey" "public_unsupportedhmd_shipping"
+			}
+			"description_loc"
+			{
+				"english" "Steam OpenXR Mode (Steam Link Compatible)"
+			}
+			"description" "Steam OpenXR Mode (Steam Link Compatible)"
+		}
 	}
 	"uselaunchcommandline" "1"
 }
@@ -403,9 +528,9 @@
 		{
 			"public"
 			{
-				"gid" "4899723946992705906"
-				"size" "48461111572"
-				"download" "45768718272"
+				"gid" "7966165927197543695"
+				"size" "48562134776"
+				"download" "45836867936"
 			}
 		}
 		"encryptedmanifests"
@@ -451,12 +576,6 @@
 				"gid" "A3D55E451A255D9104696932A777EFEA"
 				"size" "6D538DA969F534A3E188E2D9F001EA0F"
 				"download" "4AC77F6A5E3D3FB94AD9CE68B864BAF4"
-			}
-			"liv_test"
-			{
-				"gid" "A7B61151291B7C89A3D1D454157E1647"
-				"size" "DF8D5914A61CA8EEAC60BB65A258401E"
-				"download" "1451140E9664E3206B8DF5CC59199CA1"
 			}
 			"live_test"
 			{
@@ -514,33 +633,33 @@
 			}
 			"ue5-stage-new_shipping"
 			{
-				"gid" "6A6B4AA213068E6B6CEA0DB016B27D8F"
-				"size" "2058352242DF91A26E72DB8E75E10715"
-				"download" "0E9AFD5E0D626F8E96B165073E9E9DC4"
+				"gid" "49A5BA7E4BAAE69993F7BE715302F773"
+				"size" "04F717E6270A93C81EB047EED27E86F8"
+				"download" "408F6ED0DA5C2ADD7D2E7045E3A2FCB9"
 			}
 			"ue5-stage-new_test"
 			{
-				"gid" "9941D7052A6A60F33CCE1B6C1CD49B1F"
-				"size" "D1C25E69C757F16BF03F85FF8CC61DAA"
-				"download" "4A22E7CFB53746C6F56662E5B8287C5F"
+				"gid" "1879BD03ED8790146596E1DC7B8D3C04"
+				"size" "A3CF973B02EEF5F89CD46DDF280C62FA"
+				"download" "F34124E826A707B4B54778C1D2CE7285"
 			}
 			"ue5_development"
 			{
-				"gid" "AADD650EF927B23259B63022F89E12F2"
-				"size" "0C6621AAD720DA269238DB753B0D0B51"
-				"download" "42E9CBD61D7F9DDDF481B4AD2CE3C099"
+				"gid" "CD6895C8C177C53C90DE6C04E10D6F4A"
+				"size" "911C0B5F4783BA2A83C3F0718A9C858C"
+				"download" "23E88AEB81E6ADDBF15C748C6C993ECA"
 			}
 			"ue5_shipping"
 			{
-				"gid" "F0A5D698E7C9624EB96573312BCEBC4B"
-				"size" "30A3B289F1CDBC87A64BB34C4CD72F36"
-				"download" "AFAB7727B79C5611FC70216A9F055F15"
+				"gid" "8ED95F0DCAFEA1920166E50C4BF1D101"
+				"size" "254ECAF389F86CF04FD1AE889D1A2077"
+				"download" "882D55A969049A5DCAACA658F504EA26"
 			}
 			"ue5_test"
 			{
-				"gid" "B42DDEC2DEB305EDD0AF21988E572392"
-				"size" "0FC26CE2327E17AF89140AF1A2EAD48F"
-				"download" "1AE8E9CFC0E148CA0498B54FF206FD36"
+				"gid" "CAC0C1307A6BD8AD27962362F3946EA6"
+				"size" "471F2496D9D45EDC6181D80A0543491C"
+				"download" "0CE9790C6BFCDEEEFB43F27DC2B226B5"
 			}
 		}
 	}
@@ -549,8 +668,8 @@
 	{
 		"public"
 		{
-			"buildid" "16662925"
-			"timeupdated" "1733603560"
+			"buildid" "16753732"
+			"timeupdated" "1734312547"
 		}
 		"alpha_shipping"
 		{
@@ -593,12 +712,6 @@
 			"buildid" "16491982"
 			"pwdrequired" "1"
 			"timeupdated" "1732236620"
-		}
-		"liv_test"
-		{
-			"buildid" "16491982"
-			"pwdrequired" "1"
-			"timeupdated" "1732234005"
 		}
 		"live_test"
 		{
@@ -656,33 +769,33 @@
 		}
 		"ue5-stage-new_shipping"
 		{
-			"buildid" "16662925"
+			"buildid" "16753732"
 			"pwdrequired" "1"
-			"timeupdated" "1733528186"
+			"timeupdated" "1734308388"
 		}
 		"ue5-stage-new_test"
 		{
-			"buildid" "16663244"
+			"buildid" "16753973"
 			"pwdrequired" "1"
-			"timeupdated" "1733530932"
+			"timeupdated" "1734311394"
 		}
 		"ue5_development"
 		{
-			"buildid" "16584098"
+			"buildid" "16711159"
 			"pwdrequired" "1"
-			"timeupdated" "1732919204"
+			"timeupdated" "1733940871"
 		}
 		"ue5_shipping"
 		{
-			"buildid" "16668906"
+			"buildid" "16753741"
 			"pwdrequired" "1"
-			"timeupdated" "1733605567"
+			"timeupdated" "1734308464"
 		}
 		"ue5_test"
 		{
-			"buildid" "16669070"
+			"buildid" "16753937"
 			"pwdrequired" "1"
-			"timeupdated" "1733608170"
+			"timeupdated" "1734311003"
 		}
 	}
 }
@@ -709,6 +822,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26546055"
-"_sha" "cf0f58970a4fe8d0373259d8537206053e66f9b2"
-"_size" "13749"
+"_change_number" "26768820"
+"_sha" "d5a3439ff68e720c8d08dfb5dd2b81d614f46a1b"
+"_size" "16088"
