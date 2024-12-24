@@ -17,6 +17,7 @@
 		"russian" "1"
 	}
 	"osextended" ""
+	"restricted_countries" "DE"
 	"metacritic_name" "keyg"
 	"small_capsule"
 	{
@@ -36,6 +37,44 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "58.71648568675184"
 			"height_pct" "81.25"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "58.71648568675184"
+				"height_pct" "81.25"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1685478531"
@@ -62,6 +101,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -81,6 +121,11 @@
 			"subtitles" "true"
 		}
 		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -109,7 +154,7 @@
 		"14" "4400"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -163,9 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "6780416956581447351"
-				"size" "40202108"
-				"download" "29339024"
+				"gid" "2578877645396850983"
+				"size" "42429855"
+				"download" "30121824"
 			}
 		}
 	}
@@ -205,8 +250,8 @@
 	{
 		"public"
 		{
-			"buildid" "11353583"
-			"timeupdated" "1685478711"
+			"buildid" "15966126"
+			"timeupdated" "1728386129"
 		}
 	}
 }
@@ -249,6 +294,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21469645"
-"_sha" "5e4fbc15ad45ea11d24001e1bb067f2b5da5326c"
-"_size" "3697"
+"_change_number" "26253459"
+"_sha" "1eaef9f0008e4fb7f4dda685b9f9c2a4fbfbb5b2"
+"_size" "4371"
