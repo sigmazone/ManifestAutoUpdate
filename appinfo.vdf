@@ -19,7 +19,7 @@
 		"polish" "1"
 	}
 	"clienticns" "a00682da07aa42c4bc1e1ace3b359b7181e7ee44"
-	"oslist" "windows,macos"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"osextended" "macos64"
 	"steam_deck_compatibility"
@@ -66,6 +66,8 @@
 		}
 	}
 	"metacritic_name" "The Dark Eye: Chains of Satinav"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"german" "capsule_231x87_german.jpg"
@@ -88,6 +90,56 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "100"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"french" "library_600x900_french.jpg"
+				"german" "library_600x900_german.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"french" "logo_french.png"
+				"german" "logo_german.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"french" "logo_french_2x.png"
+				"german" "logo_german_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1562683855"
@@ -115,6 +167,15 @@
 		"category_2" "1"
 		"category_29" "1"
 		"category_22" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -150,6 +211,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"metacritic_score" "75"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-dark-eye-chains-of-satinav\?ftag=MCD-06-10aaa1f"
@@ -160,9 +226,9 @@
 	{
 		"0" "21"
 		"1" "1698"
-		"2" "1684"
-		"3" "4182"
-		"4" "1664"
+		"2" "4182"
+		"3" "1664"
+		"4" "1684"
 		"5" "1742"
 		"6" "492"
 		"7" "1756"
@@ -192,6 +258,8 @@
 	"serverbrowsername" ""
 	"state" "eStateAvailable"
 	"validoslist" "windows,macos"
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,testing"
 	"publisher" "Daedalic Entertainment"
 }
 "config"
@@ -211,26 +279,94 @@
 		}
 		"1"
 		{
-			"executable" "VisionaireConfigurationTool.exe"
-			"description" "Visionaire Configuration Tool"
-			"config"
-			{
-				"oslist" "windows"
-			}
-		}
-		"2"
-		{
 			"executable" "Satinav.app"
-			"description" "Launch"
 			"workingdir" "./"
 			"config"
 			{
 				"oslist" "macos"
 			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"2"
+		{
+			"executable" "start"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"3"
+		{
+			"executable" "satinav_64.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "The Dark Eye: Chains of Satinav (64 Bit)"
+			}
+			"description" "The Dark Eye: Chains of Satinav (64 Bit)"
+		}
+		"4"
+		{
+			"executable" "VisionaireConfigurationTool.bat"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Visionaire Configuration Tool"
+			}
+			"description" "Visionaire Configuration Tool"
+		}
+		"5"
+		{
+			"executable" "Satinav.app/Contents/Applications/visconfig.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Visionaire Configuration Tool"
+			}
+			"description" "Visionaire Configuration Tool"
+		}
+		"6"
+		{
+			"executable" "configure"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Visionaire Configuration Tool"
+			}
+			"description" "Visionaire Configuration Tool"
 		}
 	}
 	"contenttype" "3"
 	"installdir" "TheDarkEye Cos"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamdecktouchscreen" "4"
+	"steamcontrollertouchconfigdetails" ""
+	"steamconfigurator3rdpartynative" "65520"
 }
 "install"
 {
@@ -249,30 +385,57 @@
 {
 	"overridescddb" "1"
 	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,spanish,russian,polish"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"203837"
 	{
 		"systemdefined" "1"
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "114423345322938475"
-				"size" "17379735"
-				"download" "0"
+				"gid" "1130792872954220958"
+				"size" "179599304"
+				"download" "56274784"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "7246D0A662425EA2A49FC74A2FC6C721"
-				"size" "8A638C41F298841537DBE05FDF708F28"
-				"download" "245898ACF9B806794C50799824F976A8"
+				"gid" "A031BD97BA2875015D64FD2C240894DB"
+				"size" "8A454D01F7D6A045000186486173463F"
+				"download" "BE4822FC0C690CC265D3D8B81BB37DBA"
 			}
 		}
 	}
@@ -282,206 +445,23 @@
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7407491748335381020"
-				"size" "5862587358"
-				"download" "0"
+				"gid" "4621656891414536283"
+				"size" "2408032869"
+				"download" "2335669280"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "BE9812EFDC3121EA7BE835701F8194F9"
-				"size" "BC8CE833CAF3B6627F26DF0BC8A1D5D9"
-				"download" "54647DFAE266A266F417394E74B2447D"
-			}
-		}
-	}
-	"203832"
-	{
-		"config"
-		{
-			"language" "german"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "111000653305995611"
-				"size" "98254588"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "F38A2029F95A49BE928D9C53FEDCBC55"
-				"size" "4128F29C2CC76A37331C7A4F75724AD6"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203833"
-	{
-		"config"
-		{
-			"language" "english"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "3910402227468490401"
-				"size" "91090041"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "C4D8CCDBCF9D5487E6FBB80B5EC879E4"
-				"size" "4128F29C2CC76A37331C7A4F75724AD6"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203834"
-	{
-		"config"
-		{
-			"language" "french"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "4402625312547038483"
-				"size" "98344597"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "D0E52AC5CCD6BFA84144F96DC7ABB9EE"
-				"size" "E1C7755BEBBFEFBF621CEDCAA29016E9"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203835"
-	{
-		"config"
-		{
-			"language" "italian"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "3243986032141039758"
-				"size" "98351557"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "C450FCD2C75495D6D9FEC7C6B883E923"
-				"size" "A0481B0E34CED145363433000CC6F32A"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203836"
-	{
-		"config"
-		{
-			"language" "spanish"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "1610615447534838937"
-				"size" "98351588"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "1D4E4FBE65E25A50DA92BCA13F6E4B50"
-				"size" "2EDB56A9F537262A0C5D8624B449BE63"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203838"
-	{
-		"config"
-		{
-			"language" "russian"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "4122990804720344324"
-				"size" "877065447"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "F88F389FE195C0BABD3D570FF311846F"
-				"size" "F8461EC9F20F8A27A181D08383C78AB2"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203839"
-	{
-		"config"
-		{
-			"language" "polish"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "2940831480375270387"
-				"size" "890674132"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "9A91113D2F11D77E46D44B1680BFF1F2"
-				"size" "D69FB13A2C3382C21CDFAF049AC2712A"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
+				"gid" "A291927704B3B9BF8986A62F8E2C60EB"
+				"size" "FAE4AFB4732BDA1041F0EC76AD5C8F4C"
+				"download" "5A6355BB615C0C90B32600A890C964D8"
 			}
 		}
 	}
@@ -490,17 +470,15 @@
 		"config"
 		{
 			"oslist" "macos"
-			"osarch" "64"
-			"language" ""
 		}
 		"systemdefined" "1"
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "9200526973433819950"
-				"size" "30621117"
-				"download" "0"
+				"gid" "4135122878789713142"
+				"size" "42506074"
+				"download" "14394240"
 			}
 		}
 		"encryptedmanifests"
@@ -518,17 +496,15 @@
 		"config"
 		{
 			"oslist" "macos"
-			"osarch" "64"
-			"language" ""
 		}
 		"systemdefined" "1"
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7698616636472561550"
-				"size" "5812137902"
-				"download" "0"
+				"gid" "3799676719014687269"
+				"size" "2443594152"
+				"download" "2376146768"
 			}
 		}
 		"encryptedmanifests"
@@ -541,217 +517,77 @@
 			}
 		}
 	}
-	"203842"
-	{
-		"config"
-		{
-			"language" "german"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "956711760424428175"
-				"size" "98248054"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "B0ACEC99C68DCCFBB521460C74DD0543"
-				"size" "4128F29C2CC76A37331C7A4F75724AD6"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203843"
-	{
-		"config"
-		{
-			"language" "english"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "1063021705967118070"
-				"size" "91076958"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "034D97F99940AE37E01D39EC2224B230"
-				"size" "4128F29C2CC76A37331C7A4F75724AD6"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203844"
-	{
-		"config"
-		{
-			"language" "french"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "850135914329766899"
-				"size" "98338301"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "32745AAB2E264174EBCA532380114BD7"
-				"size" "845AA33AC11DD7925D50BF367A8A1636"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203845"
-	{
-		"config"
-		{
-			"language" "italian"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "7684298212626851895"
-				"size" "98338301"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "8C08DA8BD4DAC73AED90E5376C180ADF"
-				"size" "845AA33AC11DD7925D50BF367A8A1636"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203846"
-	{
-		"config"
-		{
-			"language" "spanish"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "4496207913595190753"
-				"size" "98338302"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "B6D5DD2A0229261B9D2EEDEA31F8FB61"
-				"size" "02B2B208E4337D21F1B3C759612B99A1"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203847"
-	{
-		"config"
-		{
-			"language" "russian"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "7786254153357432434"
-				"size" "877051410"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "96172206E8E5135F6B88A528DC11C0A2"
-				"size" "81EB16C73F72D4D4CAC8679841D8756A"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
-	"203848"
-	{
-		"config"
-		{
-			"language" "polish"
-			"oslist" "macos"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "5622590765352327266"
-				"size" "890682324"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "626F25B448B5425557266FADBE284EEF"
-				"size" "2F966078B03F15BFD86C63AA4C418AC3"
-				"download" "4128F29C2CC76A37331C7A4F75724AD6"
-			}
-		}
-	}
 	"203849"
 	{
 		"config"
 		{
 			"oslist" "linux"
-			"language" ""
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1225783445715944959"
+				"size" "97687724"
+				"download" "30207472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "A347E96DB8BA8BC3CC879545DB6F4068"
+				"size" "290A25CF3C7DBE4CF121CECC2BD02A15"
+				"download" "E2737D4C46955DE1B41E69BBE8B2C352"
+			}
+		}
+	}
+	"203832"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4079830775528572697"
+				"size" "2408032869"
+				"download" "2339143280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "C6F8D851AE5DFA35A2ECA4DC6C16918D"
+				"size" "FAE4AFB4732BDA1041F0EC76AD5C8F4C"
+				"download" "E1E4D4E4F0D20A3120D92F61FB2BE5AF"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "1456975"
-			"timeupdated" "1479117605"
+			"buildid" "16838765"
+			"timeupdated" "1734997539"
 		}
 		"testing"
 		{
-			"buildid" "1456976"
+			"buildid" "16838765"
 			"pwdrequired" "1"
-			"timeupdated" "1479117724"
+			"timeupdated" "1734997509"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "500000000"
+	"quota" "1000000000"
 	"maxnumfiles" "350"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 	"savefiles"
 	{
 		"0"
@@ -759,24 +595,29 @@
 			"root" "WinAppDataLocal"
 			"path" "Daedalic Entertainment/Satinav/Savegames/"
 			"pattern" "*.dat"
-			"platforms"
-			{
-				"1" "Windows"
-			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
 		}
 		"1"
 		{
-			"root" "MacAppSupport"
-			"path" "Daedalic Entertainment/Satinav/Savemgames/"
-			"pattern" "*.dat"
-			"platforms"
-			{
-				"1" "MacOS"
-			}
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "21915432"
-"_sha" "2765444cd181d92f7d17fe0b1c93781a300cb143"
-"_size" "13990"
+"_change_number" "26767678"
+"_sha" "f531504ca751b7f1e1042b05f7bf374c191f3cdf"
+"_size" "11859"
