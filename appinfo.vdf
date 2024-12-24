@@ -175,6 +175,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -243,6 +244,7 @@
 	}
 	"steam_release_date" "1647536886"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1374930"
 	"store_tags"
@@ -309,6 +311,31 @@
 				"oslist" "macos"
 			}
 		}
+		"3"
+		{
+			"executable" "BlackGeyser.exe"
+			"arguments" "-nolauncher"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Black Geyser: Couriers of Darkness (skip launcher)"
+				"german" "Black Geyser: Couriers of Darkness spielen (Launcher überspringen)"
+				"french" "Jouer à Black Geyser: Couriers of Darkness (passer le lanceur)"
+				"italian" "Gioca a Black Geyser: Couriers of Darkness (ignora programma di avvio)"
+				"spanish" "Jugar a Black Geyser: Couriers of Darkness (saltar launcher)"
+				"schinese" "玩 Black Geyser: Couriers of Darkness（跳过启动器）"
+				"russian" "Играть в Black Geyser: Couriers of Darkness (без лаунчера)"
+				"polish" "Graj w Black Geyser: Couriers of Darkness (pomiń program uruchamiający)"
+				"hungarian" "Black Geyser: Couriers of Darkness indítása (launcher nélkül)"
+				"turkish" "Black Geyser: Couriers of Darkness oyna (başlatıcıyı atla)"
+				"brazilian" "Jogar Black Geyser: Couriers of Darkness (pular inicializador)"
+				"latam" "Jugar Black Geyser: Couriers of Darkness (saltar launcher)"
+			}
+			"description" "Play Black Geyser: Couriers of Darkness (skip launcher)"
+		}
 	}
 }
 "depots"
@@ -323,9 +350,9 @@
 		{
 			"public"
 			{
-				"gid" "1599524122189052634"
-				"size" "38406327320"
-				"download" "18269128864"
+				"gid" "250275492243285700"
+				"size" "38540416423"
+				"download" "18321404048"
 			}
 		}
 		"encryptedmanifests"
@@ -386,9 +413,9 @@
 			}
 			"testing"
 			{
-				"gid" "8A9DF8D66674A56EA99DF70223F48648"
-				"size" "5923F80E6BF08069FB1A3967E21D9B47"
-				"download" "7B11EA9392DBCD47C19E8FA3B8667FDE"
+				"gid" "88D1BADD76712ED9F518ED9BB63DE783"
+				"size" "58997BF258FAF60AC247680B070B44CC"
+				"download" "116A97690FEEF191C9E43D36A972E244"
 			}
 		}
 	}
@@ -402,9 +429,9 @@
 		{
 			"public"
 			{
-				"gid" "6491540181677858290"
-				"size" "38455891934"
-				"download" "18287377968"
+				"gid" "4019835945299880077"
+				"size" "37631517219"
+				"download" "18217609952"
 			}
 		}
 		"encryptedmanifests"
@@ -555,8 +582,8 @@
 	{
 		"public"
 		{
-			"buildid" "16140590"
-			"timeupdated" "1729622364"
+			"buildid" "16838779"
+			"timeupdated" "1735001653"
 		}
 		"press_branch"
 		{
@@ -614,9 +641,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16099179"
+			"buildid" "16838779"
 			"pwdrequired" "1"
-			"timeupdated" "1729270743"
+			"timeupdated" "1734997653"
 		}
 	}
 }
@@ -661,6 +688,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25844281"
-"_sha" "ba328acf422852dd9a47cf0b6284fb9eab273560"
-"_size" "13526"
+"_change_number" "26768254"
+"_sha" "f3b269e202f77db806197169d2f6753a221e55ae"
+"_size" "14816"
