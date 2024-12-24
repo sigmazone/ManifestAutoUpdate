@@ -238,7 +238,7 @@
 		}
 	}
 	"steam_release_date" "1725292215"
-	"metacritic_score" "80"
+	"metacritic_score" "81"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sumerian-six\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -253,21 +253,21 @@
 		"5" "9541"
 		"6" "1678"
 		"7" "7208"
-		"8" "7250"
-		"9" "3813"
-		"10" "1687"
+		"8" "3813"
+		"9" "1687"
+		"10" "7250"
 		"11" "9"
-		"12" "1741"
-		"13" "14139"
-		"14" "5851"
-		"15" "1708"
-		"16" "1742"
-		"17" "4150"
+		"12" "14139"
+		"13" "1708"
+		"14" "1741"
+		"15" "5851"
+		"16" "4150"
+		"17" "1742"
 		"18" "4598"
 		"19" "21"
 	}
-	"review_score" "8"
-	"review_percentage" "96"
+	"review_score" "9"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "1279620315884915252"
-				"size" "29883848237"
-				"download" "13524941088"
+				"gid" "166212621230849822"
+				"size" "29886367293"
+				"download" "13537230544"
 			}
 		}
 		"encryptedmanifests"
@@ -346,9 +346,9 @@
 			}
 			"development_branch1_tests"
 			{
-				"gid" "8D1265052514226B4CE4ABAD468794F7"
-				"size" "A018BAB29B83D0BB3B84E0D80A213895"
-				"download" "3094FEA2772331FE9FFE24F86231F278"
+				"gid" "5A3F3ACFCB82541319CC7F89135A9F79"
+				"size" "3771C37596A3C29DA2E4426777C1C8CF"
+				"download" "7F8BE462858323434605DF2068598066"
 			}
 			"development_branch11_demo"
 			{
@@ -382,15 +382,21 @@
 			}
 			"development_branch7_production"
 			{
-				"gid" "B33B3F3A03E8F2CAA1B764B2BA0DE484"
-				"size" "7063105E7DA02DA3510683B70386A0D5"
-				"download" "61D03C6ECCE7615E80FCF3ADA6A2E1B2"
+				"gid" "3A4A11AD86B9E6D32E1CC1FDCDD92D6C"
+				"size" "7F3EDFD083966A5EF202F164C32567AC"
+				"download" "304F64A1142CBA9D01CC0045EA938486"
 			}
 			"development_branch8_programming"
 			{
-				"gid" "8A0835471658FE2736F64A0B5299DA54"
-				"size" "E4B91D1E12B168A136566C043528F251"
-				"download" "33B73FAC461657A5270F1C5BD39DEF85"
+				"gid" "0D3276C02DC30ED5CBC30F789016D5DA"
+				"size" "B18B0E19BE3E38C9FBD74A2C50646231"
+				"download" "0F4A2AACC3E9F8EC0C77738A5D9B067A"
+			}
+			"public_test_branch"
+			{
+				"gid" "AEFC6942995A92A71E2E86D392EE5B34"
+				"size" "73A9581F10E8581147C32EC5D5C327FD"
+				"download" "4C7190AB72B775DD9A8184C0CCFF1D87"
 			}
 		}
 	}
@@ -401,8 +407,8 @@
 	{
 		"public"
 		{
-			"buildid" "15614790"
-			"timeupdated" "1725623295"
+			"buildid" "16760434"
+			"timeupdated" "1734958020"
 		}
 		"development_branch10_audio"
 		{
@@ -430,9 +436,9 @@
 		}
 		"development_branch1_tests"
 		{
-			"buildid" "15723345"
+			"buildid" "16767866"
 			"pwdrequired" "1"
-			"timeupdated" "1726539029"
+			"timeupdated" "1734404089"
 		}
 		"development_branch11_demo"
 		{
@@ -466,21 +472,27 @@
 		}
 		"development_branch7_production"
 		{
-			"buildid" "15515260"
+			"buildid" "15614790"
 			"pwdrequired" "1"
-			"timeupdated" "1724829817"
+			"timeupdated" "1734957298"
 		}
 		"development_branch8_programming"
 		{
-			"buildid" "15505486"
+			"buildid" "16704901"
 			"pwdrequired" "1"
-			"timeupdated" "1724762528"
+			"timeupdated" "1733907464"
+		}
+		"public_test_branch"
+		{
+			"buildid" "16760434"
+			"pwdrequired" "1"
+			"timeupdated" "1734361748"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "100000000"
+	"quota" "1000000000"
 	"maxnumfiles" "1000"
 	"savefiles"
 	{
@@ -497,3 +509,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26762689"
+"_sha" "12af4e593d36390f9b7753d5162423041241abfd"
+"_size" "10229"
