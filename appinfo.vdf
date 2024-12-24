@@ -1,0 +1,291 @@
+"appid" "2492330"
+"common"
+{
+	"name" "Bronana"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "14b5dd21610c211d477400748fa0579d574b7e82"
+	"clienttga" "3a8a558a9714a2c2fa20e1aba64f520a2bb59bce"
+	"icon" "6fd4247d891d43ce348c6000b825c01c07a21675"
+	"name_localized"
+	{
+		"schinese" "香蕉兄弟"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "46.18055555555556"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "46.18055555555556"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735033123"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "busy bear"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "busy bear"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "busy bear"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733968832"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2492330"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "42804"
+		"2" "1773"
+		"3" "1662"
+		"4" "4885"
+		"5" "1759"
+		"6" "454187"
+		"7" "3959"
+		"8" "1716"
+		"9" "4195"
+		"10" "4231"
+		"11" "4747"
+		"12" "4562"
+		"13" "9"
+		"14" "122"
+		"15" "17305"
+		"16" "3871"
+		"17" "4726"
+		"18" "1751"
+		"19" "1654"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "busy bear"
+	"publisher" "busy bear"
+}
+"config"
+{
+	"installdir" "Bronana"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bronana.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Bronana.exe"
+			"arguments" " --rendering-method forward_plus"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "vulkan(High Performance )"
+				"schinese" "vulkan(高性能 推荐)"
+			}
+			"description" "vulkan(High Performance )"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"2492331"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1391115072150068696"
+				"size" "224320472"
+				"download" "167765808"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16839688"
+			"timeupdated" "1735008015"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "3145728"
+	"maxnumfiles" "10"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "data"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Bronana/user"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "LinuxHome"
+			"path" ".local/share/godot/app_userdata/Bronana/user"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26771844"
+"_sha" "d69e3139cac018a8257ae3acc31004cad5a2376b"
+"_size" "4696"
