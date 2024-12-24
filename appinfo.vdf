@@ -1,0 +1,326 @@
+"appid" "1083880"
+"common"
+{
+	"name" "Princess & Conquest"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "2c55e3ef32d50888ab78c003c4dbdc09a4331560"
+	"clienttga" "bbfc3131d7e60883486075b65e37d8144331da05"
+	"icon" "58e648eac35b5035f3395a68f4c772f5f8d674e7"
+	"logo" "3231a69325f79d0818a4768e09ae6dfd5b648cdc"
+	"logo_small" "3231a69325f79d0818a4768e09ae6dfd5b648cdc_thumb"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1691020800"
+		"tested_build_id" "11810968"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "88.97316219369895"
+			"height_pct" "54.02517216813108"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "88.97316219369895"
+				"height_pct" "54.02517216813108"
+			}
+		}
+	}
+	"store_asset_mtime" "1698476464"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Towerfag"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Critical Bliss"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Twisted Bliss"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681492320"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1083880"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "24904"
+		"3" "9130"
+		"4" "122"
+		"5" "5611"
+		"6" "3964"
+		"7" "21"
+		"8" "492"
+		"9" "19"
+		"10" "4726"
+		"11" "5577"
+		"12" "1684"
+		"13" "4085"
+		"14" "44868"
+		"15" "6971"
+		"16" "1719"
+		"17" "4136"
+		"18" "10397"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Towerfag"
+	"publisher" "Critical Bliss"
+	"listofdlc" "2380680,2888460"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Princess & Conquest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"1083881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8946951143618366796"
+				"size" "1368816958"
+				"download" "1361273248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devonly"
+			{
+				"gid" "77DAC3F67E2EE67C58C1A1939780E47B"
+				"size" "8C756DD7054DFE0E063224B4B366797A"
+				"download" "0CAE58107C62806E7787CAB6AD89C638"
+			}
+		}
+	}
+	"2380681"
+	{
+		"dlcappid" "2380680"
+	}
+	"2888461"
+	{
+		"dlcappid" "2888460"
+	}
+	"1083882"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2938786933912300257"
+				"size" "1366907817"
+				"download" "1359226032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devonly"
+			{
+				"gid" "FA0125E4B50C266E4F15D0F1F54BFD97"
+				"size" "D815925F29CAA14F7F08D3452538FE22"
+				"download" "D14C9D4F379C6EF92CBA229236F48163"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16835243"
+			"timeupdated" "1734958112"
+		}
+		"devonly"
+		{
+			"buildid" "16801644"
+			"pwdrequired" "1"
+			"timeupdated" "1734617112"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "16"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Saves"
+			"pattern" "*.rvdata2"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "*"
+			"pattern" "*.rvdata2"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26762705"
+"_sha" "f8b2a02b3e60a4cc1dfbe4fd843fbdbc15fb91bf"
+"_size" "5569"
