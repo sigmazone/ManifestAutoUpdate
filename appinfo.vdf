@@ -1,0 +1,619 @@
+"appid" "1433140"
+"common"
+{
+	"name" "The Texas Chain Saw Massacre"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "46f4bf56f33ba2ed6c3bdfdedcbd7e1696d43b3f"
+	"clienttga" "dc7d987889c902b5719d557979e3fecfd6ba7fe9"
+	"clienticon" "b1c2dfb8f3fd320d116bc77079cf957823d18c50"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1705708800"
+		"tested_build_id" "12910751"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "75.52251567547026"
+			"height_pct" "68.75"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "75.52251567547026"
+				"height_pct" "68.75"
+			}
+		}
+	}
+	"store_asset_mtime" "1692304806"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sumo Digital"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gun Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692365438"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1433140"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3859"
+		"2" "3978"
+		"3" "4345"
+		"4" "5711"
+		"5" "1697"
+		"6" "1775"
+		"7" "1662"
+		"8" "19"
+		"9" "1687"
+		"10" "4667"
+		"11" "5228"
+		"12" "17770"
+		"13" "4145"
+		"14" "4191"
+		"15" "4166"
+		"16" "492"
+		"17" "1721"
+		"18" "6650"
+		"19" "9"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=1433140"
+	"developer" "Sumo Digital"
+	"publisher" "Gun Interactive"
+	"homepage" "https://www.txchainsawgame.com/"
+	"listofdlc" "2394720,2512180,2521700,2627220,2628320,2628330,2628340,2628350,2628360,2665270,2665280,2665290,2665340,2843740,2894080,2902450,2946830,2975770,2975780,2995360,2995370,3026790,3026800,3026810,3053640,3056080,3087840,3124350,3130770,3131330,3197420,3197430,3197440,3212770,3266360,3266370,3266380,3266390,3266400,3326200,3326210,3328030,3375020,3375030,3375040,3375050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "TCSM"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BBQClient.exe"
+			"arguments" "-EnablePlatformOSS -ExecCmds=\"stat fps\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sumo_dev sumo_staging sumo_custom sumo_custom2 sumo_main dev_morning dev_afternoon sumo_qa3 mercury_mode museum_mode custom_private_match"
+			}
+			"description_loc"
+			{
+				"english" "Developer Build"
+			}
+			"description" "Developer Build"
+		}
+		"1"
+		{
+			"executable" "start_protected_game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1433141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4398882783385924588"
+				"size" "70855110897"
+				"download" "31946679568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_evening"
+			{
+				"gid" "1D1162B19314F3A02ECE493FFDA78E2F"
+				"size" "AFDDE3CD0B6CE4087CB15741A95C8167"
+				"download" "E83F8A42A134B9DF73094BF9E9CB3229"
+			}
+			"external_qa"
+			{
+				"gid" "502564D4936610300767CF9ECB370E44"
+				"size" "E3A882DD88A51C8340840239D1EF0993"
+				"download" "338D4BE2B9C0343680031A9D61C30B8A"
+			}
+			"main_evening"
+			{
+				"gid" "E83945851B5BF5686D34A377FFC91C1D"
+				"size" "474F3C6DBA22A47BE06FF150DBA297A5"
+				"download" "31FD5D120E492BAD3567A4DEF1D091B5"
+			}
+			"releasecandidate_rp11"
+			{
+				"gid" "3E7E92C9D1702184A6E04B5BD5F41AA5"
+				"size" "D10138A75D16DF7875F25F175182A567"
+				"download" "0D73BC758AD980F2400492362AE89AB6"
+			}
+			"sumo_custom2"
+			{
+				"gid" "87E344D98D597F83A567644354605C7D"
+				"size" "76A876F9BAB6BF1F6E7C5EB5920CCE9A"
+				"download" "B1CCC96B8D6111A1E3B18BFCF5DC2009"
+			}
+			"sumo_qa"
+			{
+				"gid" "109320486FA599E6D00DCDA709EBFF4F"
+				"size" "D44B761DD8A44AB96B9D86F7D5132778"
+				"download" "AF84CF5150B7C2606B6120154A3897A1"
+			}
+			"sumo_qa1"
+			{
+				"gid" "B6E9176EE6EC2415D4F66554DF2476BD"
+				"size" "4DBFB64303C0C68E4016E0F74D52DF73"
+				"download" "05776B29D93A9DFA26C179BF352E0616"
+			}
+			"sumo_staging"
+			{
+				"gid" "A6155A2554B9704D4A000A868FDE36AE"
+				"size" "7B8A2FD74DAA6C69F78000E9980A31D6"
+				"download" "3E5E01C80208879922CC795C5EB46A00"
+			}
+			"bt_custom"
+			{
+				"gid" "6662320B9B29E38DE64C4165A7043D48"
+				"size" "A271497D363B375D6755A2340880A432"
+				"download" "9EE27A2868F4187892582D9AB8BCD099"
+			}
+			"custom_private_match"
+			{
+				"gid" "70DC8C54E5EB278B87D2CFFB20E63896"
+				"size" "47431561211EA85A8E1965468DA28C53"
+				"download" "DC56D7576033737144CE8008BDA574F3"
+			}
+			"dev_afternoon"
+			{
+				"gid" "630593368F95234C84C185B0A8C82B60"
+				"size" "7D6A67F35EA0E780B64726A095B0BC09"
+				"download" "85E1F065E55985AC8D9A218096A74FB0"
+			}
+			"dev_morning"
+			{
+				"gid" "3555F109E9A761BB4B7B592047E2FF21"
+				"size" "6DEF0A7F427D132886F313E89F1B683A"
+				"download" "74DD625CEFC124A9D47FF7DC78BFF4F1"
+			}
+			"golf"
+			{
+				"gid" "A3A248AD7EDAD32D17EF2C97C5F8D19F"
+				"size" "04D9691AB812A220FC6B8B404EA188C7"
+				"download" "8E7AE34870FF383E5C72FF0E6F764FE7"
+			}
+			"mercury_mode"
+			{
+				"gid" "90FCBA22562E58B8D8649AB348769657"
+				"size" "B8D91FBF0BF598A6F101729BDA327BED"
+				"download" "EE778C02BDF0A325C625D8BACD2537D6"
+			}
+			"previous_live"
+			{
+				"gid" "4A7362CB5F4A2FEFFABEF518778B27BD"
+				"size" "707C6F826BA2D91D52D48C9FF14D6FB3"
+				"download" "B11664F91232B622CABDAB4DE798055A"
+			}
+			"releasecandidate"
+			{
+				"gid" "DD510604FC64A1CA5E36E1295A13B13A"
+				"size" "F6D59AD07BDFB28F6C6C72989B3DB6D3"
+				"download" "72C0ACCBED5E5590E95F12CB3BF5BA2B"
+			}
+			"stable"
+			{
+				"gid" "8267A439F9A294FD2F99B5E02B8CACBF"
+				"size" "29E8FD4C369632CB37249EFA019D7816"
+				"download" "AE14ED97C965302C086E61D9E62BAAA4"
+			}
+			"sumo_custom"
+			{
+				"gid" "A0A2B64A166C3183BC5577ED68AA3076"
+				"size" "3A110BBFF96C9FDFB351EF16F2414340"
+				"download" "1AF1D6BFE77D2B2BDFB3F7B582069D9C"
+			}
+			"sumo_dev"
+			{
+				"gid" "04C2DCC71561E2BA30910B5E143A15D4"
+				"size" "C66A9E6D01DB7A59A7E5A8C892CE1191"
+				"download" "1ECE5DF64371BB77206BF7A444C24A65"
+			}
+			"sumo_main"
+			{
+				"gid" "71D73D2063215279297036A3099DFF2F"
+				"size" "186EC1FFE1BA74B1A1E0DE51C7616380"
+				"download" "977245F28F2051C713E0BCB59E8E906B"
+			}
+			"sumo_sumo"
+			{
+				"gid" "F53B48D071507536FD400FE81DBC3FDE"
+				"size" "794AC9E514827D6823DEBD9A19C89FF6"
+				"download" "8E6006E24CB340C2A9E1DB584EFD38F8"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16656527"
+			"timeupdated" "1734007972"
+		}
+		"dev_evening"
+		{
+			"buildid" "12034332"
+			"pwdrequired" "1"
+			"timeupdated" "1692982228"
+		}
+		"external_qa"
+		{
+			"buildid" "12896360"
+			"pwdrequired" "1"
+			"timeupdated" "1701942029"
+		}
+		"main_evening"
+		{
+			"buildid" "11668195"
+			"pwdrequired" "1"
+			"timeupdated" "1689015389"
+		}
+		"releasecandidate_rp11"
+		{
+			"buildid" "13530753"
+			"pwdrequired" "1"
+			"timeupdated" "1708614298"
+		}
+		"sumo_custom2"
+		{
+			"buildid" "12641834"
+			"pwdrequired" "1"
+			"timeupdated" "1699373612"
+		}
+		"sumo_qa"
+		{
+			"buildid" "11414490"
+			"pwdrequired" "1"
+			"timeupdated" "1686145281"
+		}
+		"sumo_qa1"
+		{
+			"buildid" "13949714"
+			"pwdrequired" "1"
+			"timeupdated" "1712237223"
+		}
+		"sumo_staging"
+		{
+			"buildid" "12555210"
+			"pwdrequired" "1"
+			"timeupdated" "1698421198"
+		}
+		"bt_custom"
+		{
+			"buildid" "16393490"
+			"pwdrequired" "1"
+			"timeupdated" "1731508606"
+		}
+		"custom_private_match"
+		{
+			"buildid" "15274057"
+			"pwdrequired" "1"
+			"timeupdated" "1722932602"
+		}
+		"dev_afternoon"
+		{
+			"buildid" "14185512"
+			"pwdrequired" "1"
+			"timeupdated" "1714134620"
+		}
+		"dev_morning"
+		{
+			"buildid" "16711978"
+			"pwdrequired" "1"
+			"timeupdated" "1733946107"
+		}
+		"golf"
+		{
+			"buildid" "16711444"
+			"pwdrequired" "1"
+			"timeupdated" "1733942656"
+		}
+		"mercury_mode"
+		{
+			"buildid" "16695832"
+			"pwdrequired" "1"
+			"timeupdated" "1733844628"
+		}
+		"previous_live"
+		{
+			"buildid" "16454756"
+			"pwdrequired" "1"
+			"timeupdated" "1734007924"
+		}
+		"releasecandidate"
+		{
+			"buildid" "15781089"
+			"pwdrequired" "1"
+			"timeupdated" "1727274397"
+		}
+		"stable"
+		{
+			"buildid" "16656527"
+			"pwdrequired" "1"
+			"timeupdated" "1733488705"
+		}
+		"sumo_custom"
+		{
+			"buildid" "15899026"
+			"pwdrequired" "1"
+			"timeupdated" "1729180514"
+		}
+		"sumo_dev"
+		{
+			"buildid" "16711751"
+			"pwdrequired" "1"
+			"timeupdated" "1733944850"
+		}
+		"sumo_main"
+		{
+			"buildid" "16643134"
+			"pwdrequired" "1"
+			"timeupdated" "1733402429"
+		}
+		"sumo_sumo"
+		{
+			"buildid" "14584687"
+			"pwdrequired" "1"
+			"timeupdated" "1717416370"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "16384"
+	"maxnumfiles" "3"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BBQGame/Saved/SaveGames/"
+			"pattern" "AudioSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BBQGame/Saved/SaveGames/"
+			"pattern" "Client.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BBQGame/Saved/SaveGames/"
+			"pattern" "GameSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26611037"
+"_sha" "26bf53b62649e025b791f93005068719364b3a7e"
+"_size" "12805"
