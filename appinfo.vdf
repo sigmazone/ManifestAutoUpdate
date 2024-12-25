@@ -1,0 +1,302 @@
+"appid" "1852940"
+"common"
+{
+	"name" "Highline Volleyball VR"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "0cd972e39612b8452995a8d199b0026225300c27"
+	"clienttga" "0ecb23f6952334eeaf9ecf9537aed07853791913"
+	"icon" "2928a73fa5070db9aceda8695d80a3f042da39e9"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"openvr_action_manifest_path" "data\\actions.json"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1852940_eula_1"
+			"name" "Highline Volleyball VR EULA"
+			"url" "https://store.steampowered.com//eula/1852940_eula_1"
+			"version" "2"
+		}
+	}
+	"logo" "60783cf2784cd30f5e325bc9f3d76e1441e0c8f5"
+	"logo_small" "60783cf2784cd30f5e325bc9f3d76e1441e0c8f5_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+	}
+	"openvrsupport" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.19785048304702"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.19785048304702"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1733126576"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Palladium Super Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Palladium Super Interactive"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "18"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_52" "1"
+		"category_25" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1655916283"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1852940"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "701"
+		"1" "847164"
+		"2" "3859"
+		"3" "4182"
+		"4" "21978"
+		"5" "1775"
+		"6" "3968"
+		"7" "9204"
+		"8" "12057"
+		"9" "1773"
+		"10" "4191"
+		"11" "7481"
+		"12" "19"
+		"13" "4175"
+		"14" "4305"
+		"15" "5154"
+		"16" "4166"
+		"17" "3839"
+		"18" "599"
+		"19" "6730"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"vrheadsetstreaming" "1"
+	"developer" "Palladium Super Interactive"
+	"publisher" "Palladium Super Interactive"
+	"homepage" "http://www.highlinevolleyballgame.com"
+}
+"config"
+{
+	"installdir" "Highline Volleyball VR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HighlineVolleyballVR.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,french"
+	"1852941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4754297007035256586"
+				"size" "7874924602"
+				"download" "2183620640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "92A8EB485B9E1D81BE3C017287C74454"
+				"size" "14A8A392B906A01FD8CA0D127882E0D6"
+				"download" "A0CA0CFFF72C03FE2D556AF42F091DB4"
+			}
+			"reviewer"
+			{
+				"gid" "95A3A55DECB7170C8AFF6EC1DD4EC199"
+				"size" "11D6BD7D40D060E167D2E085DB5D7842"
+				"download" "35F745EFDDB36227CF5474222F4D3C81"
+			}
+			"test"
+			{
+				"gid" "EF842A40DBC4B59022C4CCB8C672BAF4"
+				"size" "16946838A8B4208D85A81B6160C6768D"
+				"download" "4DB650C342F5DF1E65E2F849CA784DAB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16838619"
+			"timeupdated" "1734996483"
+		}
+		"beta"
+		{
+			"buildid" "15894692"
+			"pwdrequired" "1"
+			"timeupdated" "1727819820"
+		}
+		"reviewer"
+		{
+			"buildid" "15894692"
+			"pwdrequired" "1"
+			"timeupdated" "1727819828"
+		}
+		"test"
+		{
+			"buildid" "16838619"
+			"pwdrequired" "1"
+			"timeupdated" "1734995893"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "32768"
+	"maxnumfiles" "5"
+}
+"_missing_token" "False"
+"_change_number" "26767576"
+"_sha" "bbb1f40d58950a1e99c3b7c64254134b50bf863d"
+"_size" "5119"
