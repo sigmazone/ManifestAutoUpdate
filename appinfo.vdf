@@ -1,0 +1,517 @@
+"appid" "211500"
+"common"
+{
+	"name" "RaceRoom Racing Experience "
+	"type" "Game"
+	"clienticon" "da340c1f72ac289df39798033ee3253a7d5d469f"
+	"clienttga" "e464a62d2b0670c54d8cf1b298fc1135dfed8c7d"
+	"icon" "1a0cf3ab26336c2cfec795f02b02802ddc200f48"
+	"logo" "5a9c89c56ea9ac16f4ecd45693a9fe532e3225cb"
+	"logo_small" "5a9c89c56ea9ac16f4ecd45693a9fe532e3225cb_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"exfgls" "1"
+	"oslist" "windows"
+	"controllervr"
+	{
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7376598"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "RaceRoom Racing Experience"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "ef5df5c07a5ed5485519eedb93634e2bb86d62bb/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33"
+			"height_pct" "25"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33"
+				"height_pct" "25"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725622392"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KW Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KW Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "RaceRoom Entertainment AG"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_29" "1"
+		"category_35" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_53" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1360657380"
+	"community_hub_visible" "1"
+	"gameid" "211500"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "699"
+		"2" "1100687"
+		"3" "4175"
+		"4" "3859"
+		"5" "1644"
+		"6" "599"
+		"7" "3878"
+		"8" "3968"
+		"9" "1775"
+		"10" "4026"
+		"11" "701"
+		"12" "7481"
+		"13" "21978"
+		"14" "4182"
+		"15" "3839"
+		"16" "128"
+		"17" "5055"
+		"18" "1685"
+		"19" "7926"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "KW Studios"
+	"gamedir" "ValveTestApp211500"
+	"homepage" "http://game.raceroom.com"
+	"icon" ""
+	"isfreeapp" "1"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"vrheadsetstreaming" "1"
+	"publisher" "KW Studios"
+	"listofdlc" "272770,331800,332120,336270,376360,408220,422670,455270,455280"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "raceroom racing experience"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Game/x64/RRRE64.exe"
+			"workingdir" "Game/x64"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "RaceRoom"
+			}
+			"description" "RaceRoom"
+		}
+		"3"
+		{
+			"executable" "Game/x64/RRRE64.exe"
+			"arguments" "-vr"
+			"workingdir" "Game/x64"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "RaceRoom (VR)"
+			}
+			"description" "RaceRoom (VR)"
+		}
+		"4"
+		{
+			"executable" "Game/x64dxvk/RRRE64.exe"
+			"workingdir" "Game/x64dxvk"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "RaceRoom with DXVK"
+				"german" "RaceRoom mit DXVK"
+				"french" "RaceRoom avec DXVK"
+				"italian" "RaceRoom con DXVK"
+				"spanish" "RaceRoom con DXVK"
+				"swedish" "RaceRoom med DXVK"
+				"latam" "RaceRoom con DXVK"
+			}
+			"description" "RaceRoom with DXVK"
+		}
+		"5"
+		{
+			"executable" "Game/RRRE.exe"
+			"workingdir" "Game"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "RaceRoom (32 bit)"
+			}
+			"description" "RaceRoom (32 bit)"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"211501"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2941139657342765837"
+				"size" "70501180268"
+				"download" "62645451200"
+			}
+			"preview"
+			{
+				"gid" "2941139657342765837"
+				"size" "70501180268"
+				"download" "62645451200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"kws-external-ser"
+			{
+				"gid" "B41ACA7B3BFA94BAC84C16F577DF1DF4"
+				"size" "BFB607D6CAD5F61E99A08CAECB73E810"
+				"download" "2091B9474190658E9741126FDD5B3E4E"
+			}
+			"kws-external-sim"
+			{
+				"gid" "EA31E1AA554E0A12B322663BB1F707DB"
+				"size" "E55AF71BF251ED36BE093901378A6D01"
+				"download" "CB939C84613FED23EF335ECACEEBEEFB"
+			}
+			"kws-internal-ser"
+			{
+				"gid" "0459B58922152EDD6A6333BD873028F2"
+				"size" "1141C4758641CACDE4465EFA1061F7E8"
+				"download" "4488807B86A9B5FA5913F9D0E4C7F0F9"
+			}
+			"kws-internal-sim"
+			{
+				"gid" "B7FB6B275242B0B463104289DBCCF6FE"
+				"size" "F6A3001DB2FB5F4B4FA52D6594FD4C10"
+				"download" "196D26111A866CEB96782EF0728B426D"
+			}
+			"kws-preview-ser"
+			{
+				"gid" "FA6F51823D15870BC63176CD2B242821"
+				"size" "F9658D279CDE98C55A0D54504A215B4C"
+				"download" "7E1D0F14618C765EA2E5403CE7385632"
+			}
+			"kws-preview-sim"
+			{
+				"gid" "162E97518672D24C4634001324C16174"
+				"size" "51904F1AF0296F92375025C91883FE81"
+				"download" "BBC9B9E296621B05205B0A358EA3FF19"
+			}
+			"livepreview"
+			{
+				"gid" "ED1A9CFB79FF49B9BD1374BA9134B3D3"
+				"size" "9D10DF170092798E8DF70B694F366F31"
+				"download" "9E1D653C58518391CCA1AA878B0E661A"
+			}
+			"staging"
+			{
+				"gid" "78358A369CF41B9D113A1EBE11A458ED"
+				"size" "8DAE794893465B87B6D8A11EACA0DFD3"
+				"download" "85FAE325394504E15CDD609109B7FED9"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16825390"
+			"timeupdated" "1735123408"
+		}
+		"kws-external-ser"
+		{
+			"buildid" "13710936"
+			"pwdrequired" "1"
+			"timeupdated" "1712146506"
+		}
+		"kws-external-sim"
+		{
+			"buildid" "13711153"
+			"pwdrequired" "1"
+			"timeupdated" "1712146485"
+		}
+		"kws-internal-ser"
+		{
+			"buildid" "15635093"
+			"pwdrequired" "1"
+			"timeupdated" "1725865279"
+		}
+		"kws-internal-sim"
+		{
+			"buildid" "15637028"
+			"pwdrequired" "1"
+			"timeupdated" "1725876855"
+		}
+		"kws-preview-ser"
+		{
+			"buildid" "15635093"
+			"pwdrequired" "1"
+			"timeupdated" "1725876422"
+		}
+		"kws-preview-sim"
+		{
+			"buildid" "15637028"
+			"pwdrequired" "1"
+			"timeupdated" "1725876906"
+		}
+		"livepreview"
+		{
+			"buildid" "16825390"
+			"pwdrequired" "1"
+			"timeupdated" "1734849759"
+		}
+		"preview"
+		{
+			"buildid" "16825390"
+			"description" "early access"
+			"timeupdated" "1734849776"
+		}
+		"staging"
+		{
+			"buildid" "16825390"
+			"pwdrequired" "1"
+			"timeupdated" "1734810611"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26780368"
+"_sha" "3b5e3849af7324feca9b293d7c1a245b6cd0e6b7"
+"_size" "9858"
