@@ -1,0 +1,1370 @@
+"appid" "613100"
+"common"
+{
+	"name" "House Flipper"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "e7feebda23ff7a1fae32d6b7641ca910c83797c0"
+	"logo_small" "e7feebda23ff7a1fae32d6b7641ca910c83797c0_thumb"
+	"icon" "4ab6e7c49f3f0c063dfe08ab85038c979301f6dd"
+	"clienticon" "05d22bd63dd376453d3abdb4f7b8c6acf9240627"
+	"clienttga" "7b69e27604df88ff0a45084c81080bc0bcdb0f07"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"japanese" "ハウスフリッパー"
+		"schinese" "房产达人"
+		"russian" "Хаус Флиппер"
+		"koreana" "하우스 플리퍼"
+		"tchinese" "房產達人"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "613100_eula_0"
+			"name" "House Flipper EULA"
+			"url" "https://store.steampowered.com//eula/613100_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "7559884"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "House Flipper"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-tw,ja,ko,ru,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "48.59976662777129"
+			"height_pct" "52.65970078366185"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"russian" "logo_russian.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.59976662777129"
+				"height_pct" "52.65970078366185"
+			}
+		}
+	}
+	"store_asset_mtime" "1732641071"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Empyrean"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frozen District"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "House Flipper"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1526540400"
+	"steam_release_date" "1526569080"
+	"metacritic_score" "67"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/house-flipper\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "613100"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "84"
+		"2" "1643"
+		"3" "4182"
+		"4" "1654"
+		"5" "3810"
+		"6" "597"
+		"7" "9204"
+		"8" "1036"
+		"9" "12472"
+		"10" "3839"
+		"11" "4695"
+		"12" "5350"
+		"13" "7332"
+		"14" "4711"
+		"15" "4191"
+		"16" "4175"
+		"17" "3859"
+		"18" "492"
+		"19" "1669"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Empyrean"
+	"publisher" "Frozen District"
+	"homepage" "http://houseflippergame.com/"
+	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960,2819590,2910200,3363170"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "House Flipper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HouseFlipper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "HouseFlipper.exe"
+			"arguments" "-force-feature-level-10-0"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "HF (use if first option doesn\'t work, old Dx10)"
+			}
+			"description" "HF (use if first option doesn\'t work, old Dx10)"
+		}
+		"2"
+		{
+			"executable" "HouseFlipper.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "HouseFlipper.app"
+			"arguments" "-force-glcore"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "House Flipper (OpenGL)"
+			}
+			"description" "House Flipper (OpenGL)"
+		}
+		"5"
+		{
+			"executable" "HouseFlipper.exe"
+			"arguments" "--disable-reflection-probes"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "HF (use when experiencing black glitches)"
+			}
+			"description" "HF (use when experiencing black glitches)"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1593598194"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,beta,develop,testing"
+			"use_action_block" "false"
+		}
+		"1593727327"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,beta,develop,testing"
+			"use_action_block" "false"
+		}
+		"1593728482"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,beta,develop,testing"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "15"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2176407486"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "613100"
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"613101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8211585874452206396"
+				"size" "11362499589"
+				"download" "5665946128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "F5958F97EF3772E6C79EBEAFBEBAECE0"
+				"size" "535624418A0A91665A2D89EE014588DE"
+				"download" "26A0C8C5FD8D89141E9B1A3BECF5642D"
+			}
+			"testing"
+			{
+				"gid" "87C6E0F487956F7DC14B2388E5999789"
+				"size" "2CE4B89B03739C2545658E09896FE0A5"
+				"download" "E2857ACE2E56060FB1B8FF94A7AB23EF"
+			}
+			"testing2"
+			{
+				"gid" "6749C46B1CE49486AC4AD69AA6EA9539"
+				"size" "A7F5634D0BB40587F60E2DCB9CBE5004"
+				"download" "7492DA50B7CD753369964395820D8DE8"
+			}
+		}
+	}
+	"613102"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4313381187150001495"
+				"size" "11543368540"
+				"download" "5710974592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "36EC57DB5CDEA2379067078C30E5DE96"
+				"size" "5B7E849FE64EB39443F71A8C07575782"
+				"download" "CCF308E7591A9C968F475D4743EB5854"
+			}
+			"testing"
+			{
+				"gid" "C3EDDE7FA4E1EA60FF48CF6CA38A30D6"
+				"size" "B389E9CB469CCA1F12DE532C2357A86E"
+				"download" "96166B49D2872C8095ED822EF1E49E74"
+			}
+			"testing2"
+			{
+				"gid" "6C5C17A34771ABEFAFEAD9F68990D4E3"
+				"size" "0F570D19C55532116A30913D2AC20212"
+				"download" "45DCE9E1E4E0CB2C894CFE57B06B2776"
+			}
+		}
+	}
+	"613103"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "825570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "467202805004919355"
+				"size" "280515731"
+				"download" "88265216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "57216C7722E60A177A6304C6CFABA4E1"
+				"size" "E638E42693F6F020E1F76236CDEC6D0E"
+				"download" "199B049557ED247CFA84DD9EEECE48D5"
+			}
+			"testing"
+			{
+				"gid" "837AC0E279D7A7F3340EA6AF59938DD7"
+				"size" "7A9793DCC175B9175BF1CF5D96EDB40B"
+				"download" "6802F8FC62C3196F86E5F6AE94E44FFD"
+			}
+			"testing2"
+			{
+				"gid" "174E2CC370F1CFDA1D49880FB88BFB35"
+				"size" "6A6906D14AC73DAFDFDC033A0F6C0323"
+				"download" "DBE897F5D2B96EB50F824C1F3A81EF85"
+			}
+		}
+	}
+	"613104"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "825570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1797323151591766070"
+				"size" "285300692"
+				"download" "89327968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "299DE1EB30977B01647D45F152057119"
+				"size" "2ABF1FA278F7584E56EF0C1844D38E45"
+				"download" "CFD586538BFCC6B21BFFA6AC687AC2A8"
+			}
+			"testing"
+			{
+				"gid" "B7D863C6AE2EBE36714F4566E9ECC213"
+				"size" "F2DC3E30B44306A4011D09B283E6F565"
+				"download" "D7BDC9B1BC9E15C38078CBD0BD6A0898"
+			}
+			"testing2"
+			{
+				"gid" "4479551677194B2D46C221C4B63E166C"
+				"size" "346311D9EA2D1C42A3708BE5673C3ADA"
+				"download" "F31952549CC5625B3F4BF69391CBB93D"
+			}
+		}
+	}
+	"613105"
+	{
+		"dlcappid" "942290"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "491972787450637378"
+				"size" "866298655"
+				"download" "255568048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "2946EA42377CADC4EACBC65EB3647956"
+				"size" "1E85AD8FB360304FAF6BE40913FD481B"
+				"download" "D9DFDAD1969C569F38448669111A0BEA"
+			}
+			"testing"
+			{
+				"gid" "4934761C5D979413E514CB5BC9DDB182"
+				"size" "7ACD7091486FF40D0175B32E0E2A8544"
+				"download" "DF1B6234120FBB3D18E0627005101FF9"
+			}
+			"testing2"
+			{
+				"gid" "5BF445EF7817270477BF2415003A4433"
+				"size" "8D9AA74F59228910EE85B39FB8A58C9A"
+				"download" "1025E8C2071B65C75EDAAAE9B946F899"
+			}
+		}
+	}
+	"613106"
+	{
+		"dlcappid" "942290"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7054601950870896157"
+				"size" "871362031"
+				"download" "256717232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "4FE437A54B23A12E462CF7497B447344"
+				"size" "5E908B63F28827F27B9C39915B14DF7A"
+				"download" "A619EC954A0B00B432B9DA4A734DE28A"
+			}
+			"testing"
+			{
+				"gid" "A8EBE694E99B2E8CD9458371CD7AE086"
+				"size" "0E6D417840607D3DA17D67909A32F6E8"
+				"download" "95F3F368E611E9047F39FB35E09B185A"
+			}
+			"testing2"
+			{
+				"gid" "1685133A39B77DAD597AF5B848622C48"
+				"size" "5440F93CCA985A28EB20316F6FF4657F"
+				"download" "946BABC15A7AC6500AC6A73F725EB812"
+			}
+		}
+	}
+	"613107"
+	{
+		"dlcappid" "1126050"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4288989551254988152"
+				"size" "546728250"
+				"download" "99577024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "4B4119186B4062E52EFBA2EDE0FB07B6"
+				"size" "D7C694009123EEDFC5C16F7475862E9F"
+				"download" "5A6D5002A01D9A717CACE7F894A6C400"
+			}
+			"testing"
+			{
+				"gid" "C6F329177E4C1BEC88FE4C7CE539726B"
+				"size" "E24B83B5C68D5090D6B8C06D3FA4A4A2"
+				"download" "56B30509411FB5B2E1E08DCB59D91E33"
+			}
+			"testing2"
+			{
+				"gid" "10D77F7A43A8DDB0AB06D06257056485"
+				"size" "9FA3D5037E998B276DC1B553575CA5D3"
+				"download" "77326E0D265EEA0187F9179978B9AD80"
+			}
+		}
+	}
+	"613108"
+	{
+		"dlcappid" "1126050"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6966361143580042277"
+				"size" "551450252"
+				"download" "100592864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "A2F79DF1EEB912CC3BD9325700E846C3"
+				"size" "8D808158282EBBFF1F1EF49E3F7FB6CE"
+				"download" "AE99FF8080616AB39D148927045FFA84"
+			}
+			"testing"
+			{
+				"gid" "DF795B6C1E5ED4F82F7FA25875256B96"
+				"size" "DFDF38572D9BC1A4CD5E298019DE7DE8"
+				"download" "042D657790E34539C335321A4C7366C1"
+			}
+			"testing2"
+			{
+				"gid" "AF1A0C59259AB062E220340E173D3A29"
+				"size" "34177A1219B4459721F4016123028B18"
+				"download" "8AC6EB065E18C962B4C205EE3A3913BB"
+			}
+		}
+	}
+	"613109"
+	{
+		"dlcappid" "1460920"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4628030800708969449"
+				"size" "464254091"
+				"download" "135496144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "5B3B406F60C6275D846C325D4F5B5B05"
+				"size" "26818824E999528534EC794EE9DE9C33"
+				"download" "ADD2024E0D266D873E2AE5AA2BEA8FAC"
+			}
+			"testing"
+			{
+				"gid" "2620C647272A4ADC95E920CA7504954E"
+				"size" "CA8E63E9687C8A4BFB53403AC1536F76"
+				"download" "A036A3D60FE0B4539E3AF6FE9D14706C"
+			}
+			"testing2"
+			{
+				"gid" "6B96FAD5CB70365DC0287DD7A65CF6F3"
+				"size" "E0E6F78A58969FB08A7AAD4E690750B0"
+				"download" "3C22E342DAC1BF029F6E9D1DC65C3B28"
+			}
+		}
+	}
+	"613110"
+	{
+		"dlcappid" "1460920"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "750244533290045218"
+				"size" "466015450"
+				"download" "135919488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "18846F57BFAE03D0D832C80157E2FF95"
+				"size" "1B7931E71BF42E2BDCBF66F1035D66EC"
+				"download" "124159AA28012EE782A94DD84CE97EA9"
+			}
+			"testing"
+			{
+				"gid" "C07A30570E73D6BCCE2F13A4F6D3CE94"
+				"size" "D71F1E49AAC1F4DF0C168AA453C655F3"
+				"download" "7B40F679E7CF739F5C68CDEDF165A335"
+			}
+			"testing2"
+			{
+				"gid" "BFAF1C386DC9CB99350FBBD1F570009A"
+				"size" "695FED79DCA601C1219319F5BEDAD2BE"
+				"download" "C83E3577B6FF312CD89317CF359DEBA1"
+			}
+		}
+	}
+	"1471281"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3756830420174509357"
+				"size" "2944262"
+				"download" "882224"
+			}
+		}
+		"depotfromapp" "1471280"
+	}
+	"613111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1021110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2047395798852160027"
+				"size" "3507316776"
+				"download" "1032037120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "80ADD465F7EE0F3EFA3CB191F7DB6094"
+				"size" "F1B8775003C30C6CC61471386D95B6EE"
+				"download" "7FBBA6D9E09DF1342BD347943C0161C1"
+			}
+			"testing"
+			{
+				"gid" "54A45A1CFECF4703A4B0A190C1C822A5"
+				"size" "7EE60AF7A0B0D1F2BC2E2905122812CF"
+				"download" "C38F01E0F97D422B1E12B9D25C98D0DA"
+			}
+			"testing2"
+			{
+				"gid" "C22AD6E7FFA24B11E81A971C9440EA63"
+				"size" "5267FADA98AFB0D54D14F3461CB35369"
+				"download" "8FDF06CC719F2FA4358D0299B266C67D"
+			}
+		}
+	}
+	"613112"
+	{
+		"dlcappid" "1021110"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3501796631868095497"
+				"size" "3521286771"
+				"download" "1034953552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "E587C23AFAFCA660E852004C57191774"
+				"size" "283BB1E44E6653AA5761E97F4C85855A"
+				"download" "938E64EB405FD4FCFA010764EE7410BE"
+			}
+			"testing"
+			{
+				"gid" "77828F8C29EDD9D68EA64CB4106454EE"
+				"size" "6E27921B9B98B5D25BD6B9071C5CAFF6"
+				"download" "52F4AE015D56A6A1FC14FD4D3689B0AF"
+			}
+			"testing2"
+			{
+				"gid" "8112BA1EC91D429B24F9971CA57A20D7"
+				"size" "698B1C275DE45254885CF14C2C293B14"
+				"download" "51AD9C66354762B777D93CEB0F47E10B"
+			}
+		}
+	}
+	"613113"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1569190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3500824643130026719"
+				"size" "2577608010"
+				"download" "869619296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "BE958819207C0B31ED8DDAE1387C8DE9"
+				"size" "A59611BB93F4B11B71F595B007658233"
+				"download" "31071E32FD0D3A1930D3AC6E8C102DCE"
+			}
+			"testing"
+			{
+				"gid" "946E0552B85D4BA6FFD09FFE6993DDAD"
+				"size" "E27E707E7207558137CD846D3403F30E"
+				"download" "C943823BF53F3A721E8A7D5A617383DC"
+			}
+			"testing2"
+			{
+				"gid" "A61A7DE672C293B3EB2F372F78DDFB60"
+				"size" "9984F0F212A11435AA6798CE4A7A4E93"
+				"download" "DC721883D623FAF9629DEB554E7521FB"
+			}
+		}
+	}
+	"613114"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "1569190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7955050096743667654"
+				"size" "2564555160"
+				"download" "858140032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "5A0410C0D6C0A9D5E2FDE3F064FC7649"
+				"size" "53ECBCCF3CF5E4114B4AEB50DC85C7E4"
+				"download" "E6E58E9D79E1885DEA0B1C02773229F6"
+			}
+			"testing"
+			{
+				"gid" "2CE0A63060E232E5A1CF06C8E19BFB35"
+				"size" "9D4010A0709319DC8C34B2BE1C050E70"
+				"download" "E7A00D3BBFCD33B6184D03AE0C672BD2"
+			}
+			"testing2"
+			{
+				"gid" "4634248FC28EC2E193322DB2AE716E97"
+				"size" "C8CE1616D9B58BB3AE8474320E0FA357"
+				"download" "81B71A9F08D9C9E11061431D0926F0C7"
+			}
+		}
+	}
+	"613115"
+	{
+		"dlcappid" "1832960"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2642487543746128704"
+				"size" "2764549700"
+				"download" "907677664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "47446856A529717B9AAC266F3B5D1E55"
+				"size" "DF41E72F652B1395E384CEFFF7431889"
+				"download" "AB408AF6B778579AD26416C0AB95400C"
+			}
+			"testing"
+			{
+				"gid" "43F2A014AA6C49F0A4D2E8805CF03F26"
+				"size" "653D920ECFC66C4693E05F533D0D1366"
+				"download" "E375AD262EDC830B56E5146B3123497D"
+			}
+			"testing2"
+			{
+				"gid" "6D452F31F731AB847C7208DA83B04138"
+				"size" "416174E4A144384E835C80379505D5FA"
+				"download" "E05E34583AB81FAFA012D3D4D36A8C2B"
+			}
+		}
+	}
+	"613116"
+	{
+		"dlcappid" "1832960"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "843540048918775648"
+				"size" "2783005907"
+				"download" "911741472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "24DA4B0571082739E69778F2CE4CB392"
+				"size" "A1328A80A4C0325D06BCF580C63B20C2"
+				"download" "4E9364965781BC17F0BF9D1869F72DD9"
+			}
+			"testing"
+			{
+				"gid" "2C008D9F28B89DF1C75EA15B0B976C5B"
+				"size" "0E24D799C592B24253F57E53F0700DA0"
+				"download" "447AC893B7C20D31CC2FEEACAC58DEF6"
+			}
+			"testing2"
+			{
+				"gid" "4EFC8EF046EC4F7C37E1CB417F3CFFAA"
+				"size" "37FF3970ED692D2447D2A0B6A673CE9F"
+				"download" "345A3A39297FE3A518ACA7825D410022"
+			}
+		}
+	}
+	"613117"
+	{
+		"dlcappid" "2910200"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3610127838985082406"
+				"size" "260059912"
+				"download" "75959888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "66C05F077E9018222F47A2B49A5BA1D3"
+				"size" "47354C8027DCD200C099823DEA3A5C6A"
+				"download" "FC763C88428A8312E0E37C54D68E1692"
+			}
+			"testing"
+			{
+				"gid" "AE11F9421E7E68FF8EBAE9152AFC4985"
+				"size" "E185CB86EF893F9D6228570CB82CA03D"
+				"download" "C4D51DAB1850C94F1CDCE29E20FC0D58"
+			}
+			"testing2"
+			{
+				"gid" "D5AF5DF3B104D26C38ED4F60650D8CD3"
+				"size" "49E42CE7FD1F02919C54C5E629CC8B8A"
+				"download" "0F50074785FB4F09B93FAA7E6F55B563"
+			}
+		}
+	}
+	"613118"
+	{
+		"dlcappid" "2910200"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7409346092024175997"
+				"size" "261568232"
+				"download" "76286064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "1A8E91CF67342C87980E95C115774844"
+				"size" "F40A1A2DB86785ED19A17494E6B1608D"
+				"download" "3078290BC73451D1B323FB9C10A0961F"
+			}
+			"testing"
+			{
+				"gid" "C7997AFE9A2620C5F70FA60F63BAE865"
+				"size" "D0C2072CE425C13DB3E4738D25CF35CE"
+				"download" "83DD265D7B9D44DB60DAE78D10D88AE0"
+			}
+			"testing2"
+			{
+				"gid" "21A5689A9DE9BF414706C34F3A5DE2B7"
+				"size" "CBD2B26323ECDFC7D1068BD72074BFF8"
+				"download" "12C55138EF9484D994BFC8670B90CC08"
+			}
+		}
+	}
+	"613119"
+	{
+		"dlcappid" "2819590"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2231098062217058349"
+				"size" "4487362931"
+				"download" "1451369776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "52C3EC023FE7776B2231EDDDDF55786F"
+				"size" "E825A835620466FE62D111C35C455307"
+				"download" "B4EAABF3C7BE4B9510C1575D4F9E83DD"
+			}
+			"testing"
+			{
+				"gid" "DADE731D37A5641A1783A00BE5C8101D"
+				"size" "1C63882F4BE5F7EE0BE8806D3D74102B"
+				"download" "604377ED99A18C201DFDCF99E0356057"
+			}
+			"testing2"
+			{
+				"gid" "8DBAD3FEBAE9C4D32643CDC04D98FF01"
+				"size" "710C5EC3D0DC28E5DEA0042E19F78DE0"
+				"download" "62546775EA500C1FBE667A857DEFFCA2"
+			}
+		}
+	}
+	"825571"
+	{
+		"dlcappid" "2819590"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1235560845004548369"
+				"size" "4509258741"
+				"download" "1455222576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streamer"
+			{
+				"gid" "D957C6B406AD93048DC0830671D90589"
+				"size" "066D33185BA0DCC65038A0B607689D4D"
+				"download" "1A201E11A308669C1B9EB0BAB79BD0DA"
+			}
+			"testing"
+			{
+				"gid" "ACAC173B8F38BB423CEB80FEB006D6AE"
+				"size" "30FA0E1DF0E7C99470B770BEEFB1DB3F"
+				"download" "6D4CC74430EF293C558FB4B432C072E3"
+			}
+			"testing2"
+			{
+				"gid" "183C16409FE5D2A4C9B094F03B8E6954"
+				"size" "680BEED8C7208F34EE27A46585CD7133"
+				"download" "9720A428E4480FD1502ABFBA09723197"
+			}
+		}
+	}
+	"825572"
+	{
+		"dlcappid" "3363170"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "ED4DB32E2021D432E785B0224CAC1D52"
+				"size" "9FCB43D36387C1649EA3E1E669E43D00"
+				"download" "3E06374FAA6FA5287555B03A04A52C15"
+			}
+		}
+	}
+	"825573"
+	{
+		"dlcappid" "3363170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "E9B357EA896090129F27FA8C3CC72838"
+				"size" "5441F4C72B57BF28968C72061667E269"
+				"download" "5441F4C72B57BF28968C72061667E269"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16810420"
+			"timeupdated" "1734684862"
+		}
+		"streamer"
+		{
+			"buildid" "16665620"
+			"pwdrequired" "1"
+			"timeupdated" "1733562628"
+		}
+		"testing"
+		{
+			"buildid" "16834975"
+			"pwdrequired" "1"
+			"timeupdated" "1734955527"
+		}
+		"testing2"
+		{
+			"buildid" "16205473"
+			"pwdrequired" "1"
+			"timeupdated" "1730982675"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "22000111000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Empyrean/House Flipper Game/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Empyrean/House Flipper Game"
+			"pattern" "CatchedTextures.dat"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Empyrean/House Flipper Game/Profiles"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26762332"
+"_sha" "b75008d1ab9ee805af35f853ee8876893b3537b3"
+"_size" "26924"
