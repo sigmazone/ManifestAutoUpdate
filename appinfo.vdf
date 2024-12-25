@@ -76,6 +76,48 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
 	"store_asset_mtime" "1689759264"
 	"associations"
 	{
@@ -87,7 +129,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Doot"
+			"name" "Doot Tiny Games"
 		}
 	}
 	"primary_genre" "1"
@@ -127,8 +169,8 @@
 		"5" "3871"
 		"6" "1654"
 		"7" "4726"
-		"8" "4136"
-		"9" "19"
+		"8" "19"
+		"9" "4136"
 		"10" "7481"
 		"11" "597"
 		"12" "4305"
@@ -146,7 +188,7 @@
 "extended"
 {
 	"developer" "Doot"
-	"publisher" "Doot"
+	"publisher" "Doot Tiny Games"
 }
 "config"
 {
@@ -190,15 +232,6 @@
 				"download" "55862384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "16A829F1357C6F28EBDB0F4A440AFF44"
-				"size" "983960A091785D9C2AFC71DE04210C9C"
-				"download" "8707B6162F7824E1122F4401680F3116"
-			}
-		}
 	}
 	"2424652"
 	{
@@ -215,15 +248,6 @@
 				"download" "54173952"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "73981D5880C6CD352A85916107F59940"
-				"size" "A9FDAF4EBD92683A389D2D3E9258C6D6"
-				"download" "D49BF06A21078FE94AF3A8EA550ECE5D"
-			}
-		}
 	}
 	"branches"
 	{
@@ -232,13 +256,8 @@
 			"buildid" "11900697"
 			"timeupdated" "1691573587"
 		}
-		"testing"
-		{
-			"buildid" "11900697"
-			"pwdrequired" "1"
-			"timeupdated" "1691573437"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -272,3 +291,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26672560"
+"_sha" "04d65f37c2b4a7307884236fcd3aed8eb84e8697"
+"_size" "4920"
