@@ -1,0 +1,551 @@
+"appid" "1849900"
+"common"
+{
+	"name" "Among Us VR"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"openvr_action_manifest_path" "AmongUsVR_Data\\StreamingAssets\\SteamVR\\actions.json"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"icon" "9c1924a9546e5d5ffca0c4ba3ff5663b92b1799b"
+	"clienticon" "cc25bcd05f4b3f716f2538e82cb2698912311925"
+	"clienttga" "8994ec19fa3e216f18b376a69875b7a79e21e084"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1668124800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Among Us VR"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1732133991"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Schell Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Innersloth"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Robot Teddy"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Innersloth"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Innersloth"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1668103080"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/among-us-vr\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1849900"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "3859"
+		"2" "1667"
+		"3" "745697"
+		"4" "5186"
+		"5" "7178"
+		"6" "597"
+		"7" "4191"
+		"8" "4136"
+		"9" "7108"
+		"10" "4305"
+		"11" "1755"
+		"12" "3942"
+		"13" "9"
+		"14" "1662"
+		"15" "4195"
+		"16" "8093"
+		"17" "3839"
+		"18" "1775"
+		"19" "15172"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Schell Games"
+	"publisher" "Innersloth"
+	"homepage" "http://amongusvr.com"
+	"listofdlc" "2025070,2194830,2287630,2430940,2623440,2744910,2849420,2971540,2971550,3049590,3049600,3166000,3166010,3297980,3297990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Among Us VR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AmongUsVR.exe"
+			"arguments" "-xrmode openvr"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "AmongUsVR.exe"
+			"arguments" "-xrmode oculus"
+			"type" "othervr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1849901"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "229176475216894061"
+				"size" "1848545441"
+				"download" "358728576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"milestone"
+			{
+				"gid" "530630F3E8FAE83D5244B04D3D23619C"
+				"size" "0B46578446D834E9FD42B126CE3A6539"
+				"download" "7B75ACE2B3D01CC5651DCBEB6F3DF57C"
+			}
+			"playtest"
+			{
+				"gid" "E5991237724467DDEAB2312DF81D8336"
+				"size" "45F3880504A7A4CBAC97553D26B43B27"
+				"download" "100DD37EE0E86A17E8168CE65E7AABAC"
+			}
+			"shared01"
+			{
+				"gid" "49CFF4E8EC1E16174976D95FB6154C41"
+				"size" "02E135908D28F5BFBF57FCD549F7D0D0"
+				"download" "AE7A84D3E7AAF9BA877C1029772D89D9"
+			}
+			"shared02"
+			{
+				"gid" "36426FFEB149B13ADDDAFAAE038C1D05"
+				"size" "4290B0A8E1B00D2EC7F4B7CE26315375"
+				"download" "92F491F2CED6A5BE601999454435E841"
+			}
+			"shared03"
+			{
+				"gid" "49877CB61460E0E8E3C1E2D089A06527"
+				"size" "ABDF09296A8F6E783D52F95281D52B62"
+				"download" "8C2B0B3B83C9BEF15F79D4DCE9EE460A"
+			}
+			"shared04"
+			{
+				"gid" "C515DE329303B6D39F9619A36840BC85"
+				"size" "585B861BBBF7F365327338205ACCCD25"
+				"download" "68FF34CBE3FD11DCA2DD57EFA514720C"
+			}
+			"shared05"
+			{
+				"gid" "69242FC5A769B964941E52C5534426D5"
+				"size" "BC61BF2568C5122D1DBBDDFFC369AF18"
+				"download" "A1B101D67C0BF0E5E25950940DAE803D"
+			}
+			"shared06"
+			{
+				"gid" "4D3D157CCF1473F339B5FAAD0AF717F6"
+				"size" "A2DDC22267DC275A52A9A1B79696EEBA"
+				"download" "BACD601A2624516CF17ADCA3461D8221"
+			}
+			"shared07"
+			{
+				"gid" "87730E0F225CFA516E2DB7DDBD7028F8"
+				"size" "F9D992794E914C9BFE5E8E2AD68AC738"
+				"download" "3D7B22B65B5F7E72404FF768F4FFBE60"
+			}
+			"shared08"
+			{
+				"gid" "4BA424D954407B9737B323454F0264CA"
+				"size" "6DF90842C09F2026D257C07D1B3841C3"
+				"download" "ABE9700CEA9348F8A4C73A083B3643F9"
+			}
+			"shared09"
+			{
+				"gid" "58D13AF2739DA0B38628B7977FF31971"
+				"size" "A6CCF487835BB5487DB86294DC42421D"
+				"download" "B49647064B676DCC826FBB98D2C4D593"
+			}
+			"shared10"
+			{
+				"gid" "4F89356CB7A16C385A3A05CCF3E27D63"
+				"size" "4104591E978D7E0DC9EB6DB840F701C2"
+				"download" "48AD1A110C2B3D49B62F883540F74982"
+			}
+			"shared11"
+			{
+				"gid" "BCE945D4EA442DD7C97C0F3E3A88FED2"
+				"size" "E381332425B5C49E6100610261CB0824"
+				"download" "6995FB7B8A42FC804D7E4064C3B50F48"
+			}
+			"shared12"
+			{
+				"gid" "C983C54203DABDCB518995A79D1BFA65"
+				"size" "D7E4F21C37F2552FC7329765AA9CE550"
+				"download" "0130A4324485288F3C9861371E7B7B58"
+			}
+			"shared13"
+			{
+				"gid" "8AE6E6DA5AB528E0F1CDF8E869788A00"
+				"size" "E8CC931BABD79D32A79D51BB45CA6BC9"
+				"download" "BA1480CF8548C22377B652557982387B"
+			}
+			"shared14"
+			{
+				"gid" "1DDFE2D2EBD49A17DB0B56AD0E7A0D35"
+				"size" "EBB4D05A41CB1036FB8FCB733EAD4D2C"
+				"download" "96AE0088F5AA354535E4E7C75E6FD3D6"
+			}
+			"shared15"
+			{
+				"gid" "F592B04D453292D94F863AB700F62B0F"
+				"size" "D8C40D518E39289392B4C4A7B44C2E10"
+				"download" "19FBDFED76A7D30B20623C11E99A4D37"
+			}
+			"shared16"
+			{
+				"gid" "A5EE37303F7AD3998383A69B02C319D8"
+				"size" "B06A4C5380B142220AE738D1D8CF520E"
+				"download" "87C3E3219D91DD715A1F023DF128E99A"
+			}
+			"shared17"
+			{
+				"gid" "C7809B82513D08CF0574E96B572F7C82"
+				"size" "9F0F1DA78CB19619BE641B25EB327413"
+				"download" "C2D8639A4C8CFAA579373DF4F8C919FB"
+			}
+			"shared18"
+			{
+				"gid" "501D0F1105EE49C5D40C45AC9649563B"
+				"size" "A97316411214C7D5FE54E1EE50D97362"
+				"download" "0D6ED24512F46451FBB50539ECC74D14"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16457201"
+			"timeupdated" "1733421660"
+		}
+		"milestone"
+		{
+			"buildid" "16242773"
+			"pwdrequired" "1"
+			"timeupdated" "1730474762"
+		}
+		"playtest"
+		{
+			"buildid" "16413028"
+			"pwdrequired" "1"
+			"timeupdated" "1731692115"
+		}
+		"shared01"
+		{
+			"buildid" "16620775"
+			"pwdrequired" "1"
+			"timeupdated" "1733263138"
+		}
+		"shared02"
+		{
+			"buildid" "16476657"
+			"pwdrequired" "1"
+			"timeupdated" "1732130075"
+		}
+		"shared03"
+		{
+			"buildid" "15997893"
+			"pwdrequired" "1"
+			"timeupdated" "1728662312"
+		}
+		"shared04"
+		{
+			"buildid" "16211433"
+			"pwdrequired" "1"
+			"timeupdated" "1730148548"
+		}
+		"shared05"
+		{
+			"buildid" "16432099"
+			"pwdrequired" "1"
+			"timeupdated" "1731781701"
+		}
+		"shared06"
+		{
+			"buildid" "15880866"
+			"pwdrequired" "1"
+			"timeupdated" "1727731441"
+		}
+		"shared07"
+		{
+			"buildid" "16070386"
+			"pwdrequired" "1"
+			"timeupdated" "1729104371"
+		}
+		"shared08"
+		{
+			"buildid" "16653348"
+			"pwdrequired" "1"
+			"timeupdated" "1733471323"
+		}
+		"shared09"
+		{
+			"buildid" "16247998"
+			"pwdrequired" "1"
+			"timeupdated" "1730359210"
+		}
+		"shared10"
+		{
+			"buildid" "16083577"
+			"pwdrequired" "1"
+			"timeupdated" "1729179938"
+		}
+		"shared11"
+		{
+			"buildid" "16454734"
+			"pwdrequired" "1"
+			"timeupdated" "1731999244"
+		}
+		"shared12"
+		{
+			"buildid" "16457201"
+			"pwdrequired" "1"
+			"timeupdated" "1732013536"
+		}
+		"shared13"
+		{
+			"buildid" "15875389"
+			"pwdrequired" "1"
+			"timeupdated" "1727700516"
+		}
+		"shared14"
+		{
+			"buildid" "16556702"
+			"pwdrequired" "1"
+			"timeupdated" "1732733529"
+		}
+		"shared15"
+		{
+			"buildid" "15691728"
+			"pwdrequired" "1"
+			"timeupdated" "1726235750"
+		}
+		"shared16"
+		{
+			"buildid" "15691883"
+			"pwdrequired" "1"
+			"timeupdated" "1726236699"
+		}
+		"shared17"
+		{
+			"buildid" "16383339"
+			"pwdrequired" "1"
+			"timeupdated" "1731442347"
+		}
+		"shared18"
+		{
+			"buildid" "16000775"
+			"pwdrequired" "1"
+			"timeupdated" "1728597968"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26521817"
+"_sha" "e1cedcc5a331d2eec0d00463c81e4f8b23f95179"
+"_size" "10801"
