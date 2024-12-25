@@ -1,0 +1,405 @@
+"appid" "2109270"
+"common"
+{
+	"name" "Preserve"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "313181a994dac39b3c3f7e356ba2c9e63e90c831"
+	"clienttga" "f612a4be0bac81ff3bdbc20355ad8b1d4900ac84"
+	"clienticon" "c8e0407a2b2b9d312f464f927c9344d9f91c4d1b"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734048000"
+		"tested_build_id" "16705864"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "25798b8965a2e1999087ee32f71d82f4fcda65f0/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "116.0300910982462"
+			"height_pct" "123.26297189653761"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "116.0300910982462"
+				"height_pct" "123.26297189653761"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735022002"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bitmap Galaxy"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Grindstone"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1723110345"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2109270"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "4328"
+		"2" "1741"
+		"3" "14139"
+		"4" "3810"
+		"5" "30358"
+		"6" "1643"
+		"7" "5125"
+		"8" "12472"
+		"9" "7332"
+		"10" "1654"
+		"11" "1770"
+		"12" "4726"
+		"13" "9"
+		"14" "597"
+		"15" "599"
+		"16" "5300"
+		"17" "4252"
+		"18" "4182"
+		"19" "97376"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Bitmap Galaxy"
+	"publisher" "Grindstone"
+	"homepage" "https://preserve-game.com/"
+	"listofdlc" "3114870"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Preserve"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Preserve.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Preserve.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Preserve.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2109271"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2982834393223108958"
+				"size" "1016113272"
+				"download" "629072416"
+			}
+		}
+	}
+	"2109272"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5502669633121886456"
+				"size" "837169700"
+				"download" "654416656"
+			}
+		}
+	}
+	"2109273"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1282172653681126294"
+				"size" "1093935882"
+				"download" "678004640"
+			}
+		}
+	}
+	"3114870"
+	{
+		"dlcappid" "3114870"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5978852950305735066"
+				"size" "72554167"
+				"download" "68198256"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16721500"
+			"timeupdated" "1734008403"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SaveData"
+			"pattern" "*.*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "BitmapGalaxy/Preserve/"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" "BitmapGalaxy/Preserve/"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/BitmapGalaxy/Preserve/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26770465"
+"_sha" "4eab1cb4a8f093c5ddcf172e32982ab21f66b93d"
+"_size" "6631"
