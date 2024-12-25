@@ -133,7 +133,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "PlayWay S.A."
+			"name" "▲ Pyramid Games"
 		}
 		"2"
 		{
@@ -248,25 +248,25 @@
 	"store_tags"
 	{
 		"0" "1100689"
-		"1" "1755"
-		"2" "1662"
-		"3" "8945"
-		"4" "1695"
+		"1" "1695"
+		"2" "8945"
+		"3" "3810"
+		"4" "1702"
 		"5" "7332"
 		"6" "599"
-		"7" "6702"
-		"8" "1643"
-		"9" "1702"
-		"10" "3942"
-		"11" "1697"
-		"12" "3810"
-		"13" "3834"
+		"7" "1755"
+		"8" "1662"
+		"9" "3834"
+		"10" "1643"
+		"11" "492"
+		"12" "6702"
+		"13" "220585"
 		"14" "3839"
-		"15" "220585"
+		"15" "3843"
 		"16" "4182"
-		"17" "1685"
-		"18" "4328"
-		"19" "492"
+		"17" "4328"
+		"18" "1697"
+		"19" "3942"
 	}
 	"review_score" "6"
 	"review_percentage" "73"
@@ -275,7 +275,7 @@
 {
 	"vrheadsetstreaming" "1"
 	"developer" "▲ Pyramid Games"
-	"publisher" "PlayWay S.A."
+	"publisher" "▲ Pyramid Games"
 	"homepage" "http://occupymarsgame.com/"
 	"listofdlc" "1187390"
 	"dlcavailableonstore" "1"
@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "7936118978264162117"
-				"size" "13837567000"
-				"download" "6901373632"
+				"gid" "1875474131117737827"
+				"size" "12722993228"
+				"download" "6581138480"
 			}
 			"previous"
 			{
@@ -350,9 +350,9 @@
 			}
 			"public_testing"
 			{
-				"gid" "7936118978264162117"
-				"size" "13837567000"
-				"download" "6901373632"
+				"gid" "1875474131117737827"
+				"size" "12722993228"
+				"download" "6581138480"
 			}
 			"v0.137.1"
 			{
@@ -384,15 +384,21 @@
 				"size" "13814465636"
 				"download" "6894826944"
 			}
+			"v0.185.4"
+			{
+				"gid" "7936118978264162117"
+				"size" "13837567000"
+				"download" "6901373632"
+			}
+			"v0.199.1"
+			{
+				"gid" "1875474131117737827"
+				"size" "12722993228"
+				"download" "6581138480"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"coop_testing"
-			{
-				"gid" "1879437320575AB58594678372D2F9F1"
-				"size" "252EA87B56A4A03CC2CB588DF750C5AC"
-				"download" "4BAD7086E2E120721D6CE28A4722CEB3"
-			}
 			"intro_testing"
 			{
 				"gid" "B303036C77C94BAFB6EF3D604A88CDD0"
@@ -425,9 +431,21 @@
 			}
 			"alpha_master"
 			{
-				"gid" "23134A33B1A4BD0E9A5CEF59184A2300"
-				"size" "5992D08CBE2EBCCBF073DAAAE2CE0C73"
-				"download" "56FE5D19373A5958B66BADF76EE51C84"
+				"gid" "6FAA86024EB21C2E35C99AA55EF15032"
+				"size" "470030EB75D732A6962C3E55D442E935"
+				"download" "8BF326D338CEA52F5E35CB4E4FE62144"
+			}
+			"coop_testing"
+			{
+				"gid" "3F6F15BFADCCA46C0872233D7308BC92"
+				"size" "C14D7DD4FAD7FBF8526A33A5BFD607F8"
+				"download" "11DAD251B0F564FE7409EA8B6249653D"
+			}
+			"deep_profiler_testing"
+			{
+				"gid" "7B8BA0A9E631744CA6FAC2DA1EBB7782"
+				"size" "85086A7AC449B26F71BA2D05027C27A4"
+				"download" "535584772D4F25AB2051DCB604CC4FC6"
 			}
 			"external_testing"
 			{
@@ -437,15 +455,15 @@
 			}
 			"internal_testing"
 			{
-				"gid" "B8CBB9BFB1F0AF6463C78891EA8573C5"
-				"size" "722B0773487E8EB2501CC49A546C2087"
-				"download" "2B688D262517D0624C63789BA6BC7FBC"
+				"gid" "CD07FFC58F66620BAA6E657DEA40E203"
+				"size" "9D1DCED47FB86BBD2AE501EAFBBFDCE4"
+				"download" "BD7ACD7FBE67AD68C95C07510DB38EAA"
 			}
 			"profiler_testing"
 			{
-				"gid" "661F46E4BD79E8A0F6120E27F896AA79"
-				"size" "163D89E0AD493411AA65E3012B99B5C9"
-				"download" "EE99D97BBCBFE5E1885DBCB933168BA5"
+				"gid" "B42D6C004FE51CD8BE298459CF88FCE9"
+				"size" "511209168CABA9EDBB8BCC815B7C5AE5"
+				"download" "6C43F150A25E1D7A104BBBE003730E68"
 			}
 			"rc_testing"
 			{
@@ -455,15 +473,15 @@
 			}
 			"vehicle_testing"
 			{
-				"gid" "4C97741FF7BBF902E3F7E2F0DEB857A9"
-				"size" "76F2BB6446A38C3D3522F207FC838994"
-				"download" "CBEFACC8873FEC31CE50D81C3378886A"
+				"gid" "5006E77EFECECDE6B49A8FE7EC5B836C"
+				"size" "B23643D2D88441C484CD60463F37AAE6"
+				"download" "1B4C3CA6107E2407560DF8CA27886B16"
 			}
 			"vip_testing"
 			{
-				"gid" "9055AE5E27C6A653DC409B2F23C5031F"
-				"size" "A92F0F10E93B7ECDD243F73F8DDDDD9E"
-				"download" "01BA6727EF6EE3CB78BA4CBDCBDC3F68"
+				"gid" "7DBA2C4F3BF7796ADFF389213BC84751"
+				"size" "CD373B33EC5A81B47DF73AC4AFAF3449"
+				"download" "23F1AC2FFF5D6B892B9652AE12377CC7"
 			}
 		}
 	}
@@ -494,14 +512,8 @@
 	{
 		"public"
 		{
-			"buildid" "16205652"
-			"timeupdated" "1730387570"
-		}
-		"coop_testing"
-		{
-			"buildid" "13578169"
-			"pwdrequired" "1"
-			"timeupdated" "1709051924"
+			"buildid" "16806023"
+			"timeupdated" "1735045304"
 		}
 		"intro_testing"
 		{
@@ -535,9 +547,21 @@
 		}
 		"alpha_master"
 		{
-			"buildid" "16251165"
+			"buildid" "16806023"
 			"pwdrequired" "1"
-			"timeupdated" "1730376505"
+			"timeupdated" "1734641698"
+		}
+		"coop_testing"
+		{
+			"buildid" "16846063"
+			"pwdrequired" "1"
+			"timeupdated" "1735087012"
+		}
+		"deep_profiler_testing"
+		{
+			"buildid" "16462706"
+			"pwdrequired" "1"
+			"timeupdated" "1732051151"
 		}
 		"external_testing"
 		{
@@ -547,9 +571,9 @@
 		}
 		"internal_testing"
 		{
-			"buildid" "16099906"
+			"buildid" "16786856"
 			"pwdrequired" "1"
-			"timeupdated" "1729275013"
+			"timeupdated" "1734525902"
 		}
 		"previous"
 		{
@@ -559,15 +583,15 @@
 		}
 		"profiler_testing"
 		{
-			"buildid" "14252152"
+			"buildid" "16464123"
 			"pwdrequired" "1"
-			"timeupdated" "1717387355"
+			"timeupdated" "1732051286"
 		}
 		"public_testing"
 		{
-			"buildid" "16205652"
-			"description" "Newest Public Test version"
-			"timeupdated" "1730387368"
+			"buildid" "16806023"
+			"description" "Public Test Version"
+			"timeupdated" "1734724792"
 		}
 		"rc_testing"
 		{
@@ -578,44 +602,56 @@
 		"v0.137.1"
 		{
 			"buildid" "12288144"
-			"description" "Exploration Update (#1) Initial"
+			"description" "#1 Exploration Update - Initial"
 			"timeupdated" "1716478381"
 		}
 		"v0.142.8"
 		{
 			"buildid" "12702081"
-			"description" "Exploration Update (#1) Final"
+			"description" "#1 Exploration Update - Final"
 			"timeupdated" "1716478291"
 		}
 		"v0.154.4"
 		{
 			"buildid" "13385703"
-			"description" "Nuclear Update (#2) Previous"
+			"description" "#2 Nuclear Update - Initial"
 			"timeupdated" "1716479227"
 		}
 		"v0.160.2"
 		{
 			"buildid" "14032071"
-			"description" "Nuclear Update (#2) Final"
+			"description" "#2 Nuclear Update - Final"
 			"timeupdated" "1716478527"
 		}
 		"v0.185.1"
 		{
 			"buildid" "15886545"
-			"description" "Anniversary - September 2024"
+			"description" "#3 Anniversary Update - September 2024"
 			"timeupdated" "1730387472"
+		}
+		"v0.185.4"
+		{
+			"buildid" "16205652"
+			"description" "#3 Anniversary Update - October 2024"
+			"timeupdated" "1735044997"
+		}
+		"v0.199.1"
+		{
+			"buildid" "16806023"
+			"description" "#4 Winter Update - Christmas 2024"
+			"timeupdated" "1735045076"
 		}
 		"vehicle_testing"
 		{
-			"buildid" "15500284"
+			"buildid" "16774223"
 			"pwdrequired" "1"
-			"timeupdated" "1725269782"
+			"timeupdated" "1734445113"
 		}
 		"vip_testing"
 		{
-			"buildid" "16205652"
+			"buildid" "16806023"
 			"pwdrequired" "1"
-			"timeupdated" "1730387541"
+			"timeupdated" "1734644334"
 		}
 	}
 }
@@ -669,6 +705,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25991595"
-"_sha" "4d3750a7ce4679afeb9b09c07863580ab92a9152"
-"_size" "13001"
+"_change_number" "26777135"
+"_sha" "f530084cbd5cd71b0fbc6467caec932562612d6f"
+"_size" "13831"
