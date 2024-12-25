@@ -4,13 +4,12 @@
 	"name" "Maestro"
 	"type" "Game"
 	"icon" "3281e96e3843beb9f743a662eef18b3a75380253"
-	"clienttga" "0fab31af408d13cbac225548a47f933f075c3a2a"
-	"clienticon" "26c28b5313215efb31027c67300caecb8487834b"
+	"clienttga" "db4f07aaa0754064c8d1111befd355d96d2e65fb"
+	"clienticon" "55749c2bff33a15725f3a2e7ae2a8f6bfb8c191f"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
-	"openvrsupport" "1"
 	"languages"
 	{
 		"english" "1"
@@ -24,6 +23,7 @@
 		"russian" "1"
 		"japanese" "1"
 	}
+	"openvrsupport" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -253,6 +253,8 @@
 	"developer" "Double Jack"
 	"publisher" "Double Jack"
 	"homepage" "https://maestro-game.com/"
+	"listofdlc" "3352570"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -298,24 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "8420999745221924679"
-				"size" "1917560022"
-				"download" "1765240528"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_influencer"
-			{
-				"gid" "759E52286856BB7D231A69A0DD6B3835"
-				"size" "A1C401DDA83493DEBE49F68101EFACB6"
-				"download" "54A8D147A88079CD9E0651FFFBFB724A"
-			}
-			"developement_dlc"
-			{
-				"gid" "5D652BE2F2E085C71917008F4DFE4BD2"
-				"size" "E6ED9B06871EBCEF25EEEF5434F78C0C"
-				"download" "3F66D51EC99E88EE6DD4787C16E49909"
+				"gid" "2355408277249628286"
+				"size" "1897548267"
+				"download" "1747189776"
 			}
 		}
 	}
@@ -324,21 +311,16 @@
 		"dlcappid" "3252040"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "4718282142266129872"
+				"size" "0"
+				"download" "0"
+			}
 		}
-		"encryptedmanifests"
+		"config"
 		{
-			"developement_dlc"
-			{
-				"gid" "42D8D3049097026B1D02A67E0C1132B5"
-				"size" "6F64CB231CBA894A30D14F56D8BD48F2"
-				"download" "6F64CB231CBA894A30D14F56D8BD48F2"
-			}
-			"development"
-			{
-				"gid" "250D1A2949685D6C3AB76F3C82272E48"
-				"size" "6F42C5818D89DF80AAB11B2F1465E97C"
-				"download" "DA94C36037D968B2FB4ACA611F15B837"
-			}
+			"optionaldlc" "3252040"
 		}
 	}
 	"2701702"
@@ -352,30 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "5036342786512978868"
-				"size" "2008704405"
-				"download" "1788502560"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_influencer"
-			{
-				"gid" "988F8DEB5DE301B56946DA5E525530C3"
-				"size" "5D574FBC486241DF16D11D8063D5A2E2"
-				"download" "60230D509FC6B9F3775E7E6846A11729"
-			}
-			"developement_dlc"
-			{
-				"gid" "66ADD0B80E4ACBF5F6A6DEE305B8D8CE"
-				"size" "B88AF635ED324F987F4FCA5E5279C100"
-				"download" "22E6F309C77FFF89BEDEA822320DE521"
-			}
-			"development"
-			{
-				"gid" "DAB7D03A7B34AB50DBE6616871805C71"
-				"size" "1DE7D7808E60E0E3E05FCA71F98DCC62"
-				"download" "E62E73B839A992D0F4490360544533AC"
+				"gid" "8672752882350577829"
+				"size" "1897548267"
+				"download" "1746229024"
 			}
 		}
 	}
@@ -389,15 +350,6 @@
 		"manifests"
 		{
 		}
-		"encryptedmanifests"
-		{
-			"beta_influencer"
-			{
-				"gid" "409B95F92ED3906F2CA2F1D69BBAA787"
-				"size" "2F1B1EDEE81A1DFD24750EE42735AB46"
-				"download" "9234875F2A791285E44AF74B14F3A0B4"
-			}
-		}
 	}
 	"3352570"
 	{
@@ -409,14 +361,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"development"
+			"public"
 			{
-				"gid" "22853734255A370CF4D9E049D092F6F2"
-				"size" "C12A8CEDCD54D185620BC7F0FDD88542"
-				"download" "5BA38055E200A6A108BD61176094D707"
+				"gid" "7454553755958453010"
+				"size" "246146548"
+				"download" "241027872"
 			}
 		}
 	}
@@ -424,28 +373,12 @@
 	{
 		"public"
 		{
-			"buildid" "16138059"
-			"timeupdated" "1729608970"
-		}
-		"beta_influencer"
-		{
-			"buildid" "16138062"
-			"pwdrequired" "1"
-			"timeupdated" "1729608990"
-		}
-		"developement_dlc"
-		{
-			"buildid" "15918799"
-			"pwdrequired" "1"
-			"timeupdated" "1727973098"
-		}
-		"development"
-		{
-			"buildid" "16489767"
-			"pwdrequired" "1"
-			"timeupdated" "1732210386"
+			"buildid" "16824473"
+			"timeupdated" "1734796406"
 		}
 	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
 }
 "ufs"
 {
@@ -465,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26302710"
-"_sha" "6837f604c73f932320e177c92a72748503fb7d9c"
-"_size" "8420"
+"_change_number" "26746992"
+"_sha" "1ce558fb719ec6d2e141726a6b1e12b2efcd8644"
+"_size" "6660"
