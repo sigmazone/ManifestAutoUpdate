@@ -1,0 +1,269 @@
+"appid" "1161830"
+"common"
+{
+	"name" "Age of Reforging:The Freelands"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "b9760ffceee13c1a857f12a8d51d98222fd303b7"
+	"logo_small" "b9760ffceee13c1a857f12a8d51d98222fd303b7_thumb"
+	"icon" "343ec681a8d9fee28b0a691c04b6bf3ffbf446cb"
+	"clienticon" "b4afed39f21acdfdf64dda7502d6b41391ac172b"
+	"clienttga" "b8f510d98e442635a639cad945da5b9f364f5bd8"
+	"name_localized"
+	{
+		"schinese" "重铸纪元：自由地"
+		"tchinese" "重鑄紀元：自由地"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.2467949608518"
+			"height_pct" "81.38297958684859"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.2467949608518"
+				"height_pct" "81.38297958684859"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1693201130"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PersonaeGame Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " KUNPAN GAMES"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1693235221"
+	"community_hub_visible" "1"
+	"gameid" "1161830"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1695"
+		"2" "3834"
+		"3" "9"
+		"4" "3810"
+		"5" "122"
+		"6" "10695"
+		"7" "1676"
+		"8" "1684"
+		"9" "4172"
+		"10" "4057"
+		"11" "17305"
+		"12" "1720"
+		"13" "4747"
+		"14" "3813"
+		"15" "21725"
+		"16" "4175"
+		"17" "1708"
+		"18" "6426"
+		"19" "4182"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "PersonaeGame Studio"
+	"publisher" " KUNPAN GAMES"
+}
+"config"
+{
+	"installdir" "Age of Reforging The Freelands"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Age of Reforging The Freelands.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"1161831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6455087308741846997"
+				"size" "54880470638"
+				"download" "46694157872"
+			}
+			"developmentbuild"
+			{
+				"gid" "3638662571481489335"
+				"size" "31823514150"
+				"download" "26249133792"
+			}
+			"1.0xversion"
+			{
+				"gid" "3380613042826746266"
+				"size" "35256083184"
+				"download" "29515293376"
+			}
+			"beta"
+			{
+				"gid" "6455087308741846997"
+				"size" "54880470638"
+				"download" "46694157872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"privatetest"
+			{
+				"gid" "3E43FB700E4573BE82B25C28E20ED678"
+				"size" "C8623E5D0467C319B7335E8257691C79"
+				"download" "965DB323C5260D33F88A89BFD748D960"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16836844"
+			"timeupdated" "1734975948"
+		}
+		"developmentbuild"
+		{
+			"buildid" "12670645"
+			"description" "for developing test"
+			"timeupdated" "1699616501"
+		}
+		"1.0xversion"
+		{
+			"buildid" "13830940"
+			"description" "For 1.0X old version"
+			"timeupdated" "1734890519"
+		}
+		"beta"
+		{
+			"buildid" "16836844"
+			"description" "For pre release test"
+			"timeupdated" "1734975957"
+		}
+		"privatetest"
+		{
+			"buildid" "16836844"
+			"pwdrequired" "1"
+			"timeupdated" "1734975966"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "5000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+}
+"_missing_token" "False"
+"_change_number" "26765096"
+"_sha" "dc042d3ee15b2de678eee8f6b0c3179bd4ff1fa4"
+"_size" "4564"
