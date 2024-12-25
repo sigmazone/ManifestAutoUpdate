@@ -1,0 +1,367 @@
+"appid" "1931010"
+"common"
+{
+	"name" "Spirittea"
+	"type" "Game"
+	"clienticon" "98eeea990306271812ffdeead61dbff6151e2ee7"
+	"clienttga" "44ca06e4a58964ee0b550a521f9e25f62eec8bd3"
+	"icon" "5e885628c2d10054792c3a2250eea4b641d31705"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697587200"
+		"tested_build_id" "12419920"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "63.953488372093034"
+			"height_pct" "68.61790548563286"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "63.953488372093034"
+				"height_pct" "68.61790548563286"
+			}
+		}
+	}
+	"store_asset_mtime" "1724926872"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cheesemaster Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "No More Robots"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "No More Robots"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_60" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1699889450"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1931010"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "599"
+		"2" "10235"
+		"3" "1684"
+		"4" "1654"
+		"5" "3964"
+		"6" "21"
+		"7" "1643"
+		"8" "4305"
+		"9" "4182"
+		"10" "3834"
+		"11" "12472"
+		"12" "1742"
+		"13" "8945"
+		"14" "3871"
+		"15" "4726"
+		"16" "916648"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Cheesemaster Games"
+	"publisher" "No More Robots"
+	"homepage" "https://spiritteagame.com/"
+}
+"config"
+{
+	"installdir" "Spirittea"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Spirittea.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1931011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6930280375838976791"
+				"size" "479143014"
+				"download" "316910144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "6EE91174B69E4C35E0CF932CEB23427C"
+				"size" "3C1DB937F54F3545C50912A5BB58D1F3"
+				"download" "7BB505AEC3C87811FE09B9719DD5C329"
+			}
+			"marketing"
+			{
+				"gid" "4E98274F15C56FB5F91EABD0760462BE"
+				"size" "4849751110B0EDCAD21C0D585601A9B9"
+				"download" "E0E5C462F70A8AB5C16D4530E8386880"
+			}
+			"internaltest"
+			{
+				"gid" "EBD7E40CBAF6917C54BE60FD0DDFF82D"
+				"size" "E9A46824696B01BE3B702D25C00738BB"
+				"download" "F28821739AADA8CB13EA69290B047F07"
+			}
+			"multiplayer"
+			{
+				"gid" "72BEF2942FADE5715958D5AA12E6E1BD"
+				"size" "83773452D5322477EDB87AC50E09BA08"
+				"download" "1F390DCE8E3C476FB15C49F107634A61"
+			}
+			"wonyansearlyaccessclub"
+			{
+				"gid" "AA7B6227305E761F1EFC66C086EB52A0"
+				"size" "3E0F80C22C8D2A738510BA136E8246DB"
+				"download" "92FDC1290A36B8B48211F22850D47305"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16743047"
+			"timeupdated" "1734338993"
+		}
+		"alpha"
+		{
+			"buildid" "11680102"
+			"pwdrequired" "1"
+			"timeupdated" "1689147667"
+		}
+		"marketing"
+		{
+			"buildid" "12489420"
+			"pwdrequired" "1"
+			"timeupdated" "1698226807"
+		}
+		"internaltest"
+		{
+			"buildid" "16743047"
+			"pwdrequired" "1"
+			"timeupdated" "1734146460"
+		}
+		"multiplayer"
+		{
+			"buildid" "15274716"
+			"pwdrequired" "1"
+			"timeupdated" "1722936221"
+		}
+		"wonyansearlyaccessclub"
+		{
+			"buildid" "16743047"
+			"pwdrequired" "1"
+			"timeupdated" "1734146486"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Spirittea"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "Spirittea"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26657678"
+"_sha" "90d24fbec72b067f45eaa8b0d833acca78662bf5"
+"_size" "6612"
