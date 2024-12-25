@@ -1,0 +1,160 @@
+"appid" "1118810"
+"common"
+{
+	"name" "Midnight Ghost Hunt Dedicated Server"
+	"type" "Tool"
+	"parent" "915810"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "901d46899a88152c15d3983665ddb6317d499d5c"
+	"clienttga" "172512975d81dbda77a8080b1e20e260b08c5268"
+	"clienticon" "f623f7d2c8f3dff00c2748ca2f12b1f25316280f"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1118810"
+}
+"config"
+{
+	"installdir" "Midnight Ghost Hunt Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_server.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1118811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5504759491793148705"
+				"size" "1878884744"
+				"download" "1438889184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "5124E551EF693959517BB780ACF4CF9E"
+				"size" "1D32AFCD53D15855B3C80466739284BA"
+				"download" "2E52685D21A7A17B68E5EA920559194C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16781655"
+			"timeupdated" "1734631402"
+		}
+		"internal"
+		{
+			"buildid" "16781655"
+			"pwdrequired" "1"
+			"timeupdated" "1734630540"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26719164"
+"_sha" "15b3d89f8a96307e0e272abf4fc1bdfc7b440f16"
+"_size" "2345"
