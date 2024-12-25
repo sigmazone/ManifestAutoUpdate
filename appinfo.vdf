@@ -1,0 +1,130 @@
+"appid" "1890880"
+"common"
+{
+	"name" "Arma Reforger Experimental Tools"
+	"type" "Tool"
+	"parent" "1890860"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "1507c8e111d5b98cab433465abc946ff212c6819"
+	"clienticon" "ab4bd631d130436ca3c9ea9a33c5fe44daf42c4c"
+	"icon" "0de311f3ef216db08badc6a9ef7c5fd8712ac334"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1890880_eula_0"
+			"name" "Arma Reforger Experimental Tools EULA"
+			"url" "https://store.steampowered.com//eula/1890880_eula_0"
+			"version" "1"
+		}
+	}
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1890880"
+}
+"config"
+{
+	"installdir" "Arma Reforger Experimental Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Workbench\\ArmaReforgerWorkbenchSteamDiag.exe"
+			"workingdir" "Workbench\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch Workbench"
+			}
+			"description" "Launch Workbench"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1890881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2764496725744132821"
+				"size" "272606891"
+				"download" "124924832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "A6643BADC513289D2817FF0F7C9F15C1"
+				"size" "4EB92626F82DAABF8CC7B5581980FC7C"
+				"download" "0F017BD285DF00DD818EA0ADAB003F69"
+			}
+			"internal"
+			{
+				"gid" "9121883C2F9C1E1A0DFB0B65992BC09E"
+				"size" "1A4C111227CB38A0F3A8EDF49F7104BE"
+				"download" "BC274D40ADFA73DF017BC48FC423A0E3"
+			}
+			"stable"
+			{
+				"gid" "7DF7F3A9A69EAFF81A1347A039602A9F"
+				"size" "8FAEB2D3A17ECC63A842C3506CB2B2CB"
+				"download" "2EAE0241DC3C9CF1374CA05023DF1282"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16779338"
+			"timeupdated" "1734609568"
+		}
+		"experimental"
+		{
+			"buildid" "16796307"
+			"pwdrequired" "1"
+			"timeupdated" "1734586463"
+		}
+		"internal"
+		{
+			"buildid" "16845638"
+			"pwdrequired" "1"
+			"timeupdated" "1735079872"
+		}
+		"stable"
+		{
+			"buildid" "16779338"
+			"pwdrequired" "1"
+			"timeupdated" "1734508346"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26776613"
+"_sha" "34a09a894622d4e71fc2878161a54640ebdc72dd"
+"_size" "2347"
