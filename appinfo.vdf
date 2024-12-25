@@ -1,0 +1,479 @@
+"appid" "1022980"
+"common"
+{
+	"name" "Ostranauts"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "3f6859211f82129e45924ccb38d3857e7305f593"
+	"logo_small" "3f6859211f82129e45924ccb38d3857e7305f593_thumb"
+	"icon" "910b87612243700252c8cbdf39b1be3015d59872"
+	"clienticon" "635b0a83bf1701b09c469f7df0854f703046efa9"
+	"clienttga" "eef3df6a50cd771e7dfc66716818add72b333368"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669766400"
+		"tested_build_id" "9398480"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ostranauts"
+	"small_capsule"
+	{
+		"english" "5172210d58c2350964c7355f24a46a9bb518a237/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.978996499416553"
+			"height_pct" "69.37781999525058"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "23.978996499416553"
+				"height_pct" "69.37781999525058"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1725468663"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blue Bottle Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kitfox Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Blue Bottle Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1599753663"
+	"community_hub_visible" "1"
+	"gameid" "1022980"
+	"store_tags"
+	{
+		"0" "4791"
+		"1" "4115"
+		"2" "1695"
+		"3" "599"
+		"4" "1100689"
+		"5" "5125"
+		"6" "1755"
+		"7" "3810"
+		"8" "122"
+		"9" "4291"
+		"10" "9204"
+		"11" "16598"
+		"12" "3942"
+		"13" "4202"
+		"14" "10235"
+		"15" "3834"
+		"16" "6426"
+		"17" "4026"
+		"18" "1662"
+		"19" "4182"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Blue Bottle Games"
+	"publisher" "Kitfox Games"
+	"homepage" "https://bluebottlegames.com/games/ostranauts"
+}
+"config"
+{
+	"installdir" "Ostranauts"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ostranauts.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1022981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4641008582909214403"
+				"size" "1122456749"
+				"download" "590889056"
+			}
+			"legacy_08"
+			{
+				"gid" "5612901336894896219"
+				"size" "460322505"
+				"download" "208727744"
+			}
+			"legacy_09"
+			{
+				"gid" "6643732715705022336"
+				"size" "476577079"
+				"download" "221808896"
+			}
+			"legacy_10"
+			{
+				"gid" "4221090764904577859"
+				"size" "511750758"
+				"download" "234787360"
+			}
+			"legacy_11"
+			{
+				"gid" "3433093945970682304"
+				"size" "523229141"
+				"download" "243017776"
+			}
+			"legacy_12"
+			{
+				"gid" "2879181377697244487"
+				"size" "646386848"
+				"download" "342481024"
+			}
+			"legacy_13"
+			{
+				"gid" "4774893844628932459"
+				"size" "686836636"
+				"download" "376196304"
+			}
+			"public_test"
+			{
+				"gid" "4641008582909214403"
+				"size" "1122456749"
+				"download" "590889056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qa_external"
+			{
+				"gid" "4F3A560ACC00952A275CF6D21B99F439"
+				"size" "706D78D866AA130B92D3217889D37D20"
+				"download" "09AC8B11151616B3EB202CC753A0C11C"
+			}
+			"closed_test"
+			{
+				"gid" "6B8E142907BBF14E93313BEB358BA4AA"
+				"size" "AED0A29540D6337230BCEB2DB411C39C"
+				"download" "A825E834D58C333AD59EFB118C8C5F27"
+			}
+			"internal"
+			{
+				"gid" "694F37F77323C0ECC60ED07B7BB8C300"
+				"size" "A1CD7934D0069C1CBB0804B5F65F108D"
+				"download" "E239E31BCF88B2BAB27E34C5B4EC62C6"
+			}
+			"stream"
+			{
+				"gid" "D6FB83A261673BCDF9812DDF90B1DECD"
+				"size" "6F4F4E4F5FFF59B6C51C9FBE59F97C26"
+				"download" "CC335F0E72C39CCFEDF3C08858120E6A"
+			}
+		}
+	}
+	"1022982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7035982949761501026"
+				"size" "1127614661"
+				"download" "592249056"
+			}
+			"legacy_09"
+			{
+				"gid" "8678957602337891004"
+				"size" "481734967"
+				"download" "223361792"
+			}
+			"legacy_10"
+			{
+				"gid" "2000907129772124887"
+				"size" "516908646"
+				"download" "236326512"
+			}
+			"legacy_11"
+			{
+				"gid" "7003491173777284498"
+				"size" "528387037"
+				"download" "244560896"
+			}
+			"legacy_12"
+			{
+				"gid" "1633373760672006696"
+				"size" "651544752"
+				"download" "344009312"
+			}
+			"legacy_13"
+			{
+				"gid" "4228380105737530488"
+				"size" "691994524"
+				"download" "377432992"
+			}
+			"public_test"
+			{
+				"gid" "7035982949761501026"
+				"size" "1127614661"
+				"download" "592249056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qa_external"
+			{
+				"gid" "CABF132513CEBA9413BADDB925C93E2E"
+				"size" "9D5CEDC26A006004617AE9164FEBDBFF"
+				"download" "523939A54256639AA219816D18709C22"
+			}
+			"closed_test"
+			{
+				"gid" "0646013519DF41169A76030389FBB42A"
+				"size" "FE30D1841C3494A6897976CA2E5EAA99"
+				"download" "6D3C7E6E55D3544418DCA66D72ED0D32"
+			}
+			"internal"
+			{
+				"gid" "CF795CA1470FD04E704E9E5F400686C5"
+				"size" "EF84B4BD1ACF0FF734898E35B1F010DF"
+				"download" "6690D4BB7082714E6935A12E0764FFAE"
+			}
+			"stream"
+			{
+				"gid" "D53017BBA47C5B1988DE06FABBE22763"
+				"size" "237B590EC88AA2A35D7A9FBFADC788F8"
+				"download" "12A55705CF7F689DAD2DA3443EBF7AA5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16804185"
+			"timeupdated" "1734630279"
+		}
+		"legacy_08"
+		{
+			"buildid" "8509981"
+			"description" "Legacy Compatibility Build for 0.8.x Saves"
+			"timeupdated" "1652119971"
+		}
+		"legacy_09"
+		{
+			"buildid" "10402220"
+			"description" "Legacy Compatibility Build for 0.9.x Saves"
+			"timeupdated" "1674671259"
+		}
+		"legacy_10"
+		{
+			"buildid" "10479645"
+			"description" "Legacy Compatibility Build for 0.10.x Saves"
+			"timeupdated" "1680805939"
+		}
+		"legacy_11"
+		{
+			"buildid" "11132786"
+			"description" "Legacy Compatibility Build for 0.11.x Saves"
+			"timeupdated" "1687983259"
+		}
+		"legacy_12"
+		{
+			"buildid" "12368217"
+			"description" "Legacy Compatibility Build for 0.12.x Saves"
+			"timeupdated" "1702077257"
+		}
+		"qa_external"
+		{
+			"buildid" "13674833"
+			"pwdrequired" "1"
+			"timeupdated" "1709852185"
+		}
+		"closed_test"
+		{
+			"buildid" "16804185"
+			"pwdrequired" "1"
+			"timeupdated" "1734630225"
+		}
+		"internal"
+		{
+			"buildid" "16804185"
+			"pwdrequired" "1"
+			"timeupdated" "1734630234"
+		}
+		"legacy_13"
+		{
+			"buildid" "13674833"
+			"description" "Legacy Compatibility Build for 0.13.x Saves"
+			"timeupdated" "1723666219"
+		}
+		"public_test"
+		{
+			"buildid" "16804185"
+			"description" "Public beta/testing"
+			"timeupdated" "1734630245"
+		}
+		"stream"
+		{
+			"buildid" "16804185"
+			"pwdrequired" "1"
+			"timeupdated" "1734630254"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26739041"
+"_sha" "1226922a9662bd332e803113be70d06f039f6b79"
+"_size" "9286"
