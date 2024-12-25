@@ -140,7 +140,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1720088127"
+	"store_asset_mtime" "1734021184"
 	"associations"
 	{
 		"0"
@@ -155,10 +155,15 @@
 		}
 		"2"
 		{
-			"type" "publisher"
-			"name" "Doot"
+			"type" "developer"
+			"name" "Zakku"
 		}
 		"3"
+		{
+			"type" "publisher"
+			"name" "Doot Tiny Games"
+		}
+		"4"
 		{
 			"type" "publisher"
 			"name" "Wholesome Games Presents"
@@ -232,21 +237,21 @@
 		"2" "10235"
 		"3" "1654"
 		"4" "4305"
-		"5" "599"
-		"6" "12472"
+		"5" "12472"
+		"6" "599"
 		"7" "492"
 		"8" "97376"
 		"9" "9"
 		"10" "4328"
 		"11" "8945"
 		"12" "5851"
-		"13" "6815"
-		"14" "4252"
+		"13" "4252"
+		"14" "6815"
 		"15" "4182"
 		"16" "17894"
 		"17" "1643"
-		"18" "1738"
-		"19" "3871"
+		"18" "3871"
+		"19" "1738"
 	}
 	"review_score" "9"
 	"review_percentage" "98"
@@ -254,7 +259,7 @@
 "extended"
 {
 	"developer" "Doot"
-	"publisher" "Doot"
+	"publisher" "Doot Tiny Games"
 	"homepage" "https://minamilane.carrd.co/"
 }
 "config"
@@ -321,21 +326,6 @@
 				"download" "171416848"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"locatesting"
-			{
-				"gid" "89288D872A0AE6D7F3D58A1BDC491D75"
-				"size" "B42918488CC31D78A885B99C10BBBC55"
-				"download" "6EAFB2F674E38F37C83CA2FCF6DF0F21"
-			}
-			"testing"
-			{
-				"gid" "2A7A7788D800839EB2F4BFCC0F0A2F6E"
-				"size" "E951264615BCC4D59177CF7FE9C59400"
-				"download" "F5189A92EEBBF54FDB622E0986B924E4"
-			}
-		}
 	}
 	"2678992"
 	{
@@ -350,21 +340,6 @@
 				"gid" "4677290147179337682"
 				"size" "263235098"
 				"download" "169797808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"locatesting"
-			{
-				"gid" "E1A5B8497325500EF94D1331F21EBAF1"
-				"size" "660D4CCFBA829D018749911BE8C83932"
-				"download" "8D477CA5C472C311F5D03852A0539C67"
-			}
-			"testing"
-			{
-				"gid" "B7ED9CB12BA9580D58BDAE3A8AA3840D"
-				"size" "4090D8FAF66EBCAB50222380D2891DE6"
-				"download" "3E6EDC214CAB52625D1BF9B39D84B6EB"
 			}
 		}
 	}
@@ -383,21 +358,6 @@
 				"download" "169660800"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"locatesting"
-			{
-				"gid" "0B4C190EF8F549A23500D7FBFB8BE6C0"
-				"size" "0562116517C53CC4C232A65424049A24"
-				"download" "AA7A7DCF937F32A620B1B1F71E4609F5"
-			}
-			"testing"
-			{
-				"gid" "C85238CE5A86A6139D0F08D9F0C3C8CA"
-				"size" "C2296A235F950811E86F1A56069BD5A0"
-				"download" "A84D7F3381F6EB683369A808E3D9711F"
-			}
-		}
 	}
 	"branches"
 	{
@@ -406,19 +366,8 @@
 			"buildid" "14921882"
 			"timeupdated" "1720088216"
 		}
-		"locatesting"
-		{
-			"buildid" "14921882"
-			"pwdrequired" "1"
-			"timeupdated" "1720026873"
-		}
-		"testing"
-		{
-			"buildid" "14921882"
-			"pwdrequired" "1"
-			"timeupdated" "1720026890"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -467,3 +416,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26658216"
+"_sha" "4750fba9257abff73e90579e4b6f672ab469f043"
+"_size" "7014"
