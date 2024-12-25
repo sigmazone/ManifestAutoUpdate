@@ -1,0 +1,560 @@
+"appid" "1419850"
+"common"
+{
+	"name" "Saleblazers"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"clienttga" "73c51a26f05d71a5d094fda9beeff8a5fb00eb54"
+	"icon" "4c4d78df725fe1c368442f8947c110d821941996"
+	"logo" "483a8a44309c04aeaea5b99433c65cc1a3d49566"
+	"logo_small" "483a8a44309c04aeaea5b99433c65cc1a3d49566_thumb"
+	"clienticon" "5c6a8bc9f7d4577c7bf5d47989a2146a5599df8c"
+	"releasestate" "released"
+	"clienticns" "7179e6bcc18b32b8774317a22deab7c980b10458"
+	"languages"
+	{
+		"english" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1701388800"
+		"tested_build_id" "12386095"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "5f0c29d7ee7bc298e398059048d00642120c9769/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.67220588866487"
+			"height_pct" "33.65281373266865"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "042c9e236c6c3158bb2b6111fca46701955d6066/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "042c9e236c6c3158bb2b6111fca46701955d6066/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.67220588866487"
+				"height_pct" "33.65281373266865"
+			}
+			"image"
+			{
+				"english" "0d489bb4b2b69e82c4deb30fe2363995ad920b1c/logo.png"
+			}
+			"image2x"
+			{
+				"english" "0d489bb4b2b69e82c4deb30fe2363995ad920b1c/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3a893ceb1cea9a867a5dd4001ecf065202aa26e3/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734752368"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Airstrafe Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Airstrafe Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "28"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1696005401"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1419850"
+	"store_tags"
+	{
+		"0" "9204"
+		"1" "4845"
+		"2" "599"
+		"3" "1695"
+		"4" "1100689"
+		"5" "7332"
+		"6" "1662"
+		"7" "21"
+		"8" "3843"
+		"9" "3834"
+		"10" "3993"
+		"11" "6276"
+		"12" "4695"
+		"13" "1702"
+		"14" "4191"
+		"15" "4231"
+		"16" "4166"
+		"17" "4252"
+		"18" "4508"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=1419850"
+	"gamedir" "Saleblazers"
+	"serverbrowsername" "Saleblazers"
+	"developer" "Airstrafe Interactive"
+	"publisher" "Airstrafe Interactive"
+	"homepage" "https://saleblazers.com"
+	"listofdlc" "2012410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Saleblazers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Default/Saleblazers.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Default/Saleblazers.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1419851"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6458891511637800497"
+				"size" "6887504650"
+				"download" "2230292688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dedicatedservertest"
+			{
+				"gid" "A58F1415BB74AFAAF94BAADFD1422631"
+				"size" "0AF69185FCE027B962131224575822C3"
+				"download" "7EFDBD1130249AF58ADA4887F9DC855A"
+			}
+			"designbranch"
+			{
+				"gid" "5FE1B8A6AE374C0D7788EFB6224B652A"
+				"size" "A95C074BDADF6DF74E9EE79B9FC1D737"
+				"download" "A962533C5A39CE3DE10CFE825BDA543E"
+			}
+			"developer"
+			{
+				"gid" "EA7899D6320DDA2550DD1AC35B660B23"
+				"size" "69AF5107D2157A46E01D76BEA65691A2"
+				"download" "B7A017F5BDCE1E23D9E64732ECEA4B75"
+			}
+			"laststable"
+			{
+				"gid" "E9152FFBA13488EFD5A4B18F68999000"
+				"size" "12CCA40B97EEFA1ED363A622DC25BDFB"
+				"download" "6E6B656673F93EA265E02A6CCF939C69"
+			}
+			"performance1"
+			{
+				"gid" "D8E25A0672B7CAB00BA2B6A55C006118"
+				"size" "835021EAC52F67318276274BD0CAC99C"
+				"download" "139D583479857DC70F7A6117DDB1CD7C"
+			}
+			"testbuild"
+			{
+				"gid" "38DCD5CACA1ACB0D3857B1AE49708A79"
+				"size" "472683EC83D3CFA66B7A4DE5728A587C"
+				"download" "EE87001D38A1FC83D6DAC3D554934DE2"
+			}
+		}
+	}
+	"1419852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4705433407864056668"
+				"size" "7051792662"
+				"download" "2244962944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dedicatedservertest"
+			{
+				"gid" "DD88BA6CC100A472A71F36C0996325D8"
+				"size" "5BD2C91CBCB1708B1F9C7209FC177E4C"
+				"download" "2DDAA3DFAFBEC3A4AB69D835E081307E"
+			}
+			"designbranch"
+			{
+				"gid" "D8DA260862DBC975CDFE485D9EBB596F"
+				"size" "84D08AB74480D8048E39FF3056484D3E"
+				"download" "77C825361B24AE02DA937B3063653D2D"
+			}
+			"developer"
+			{
+				"gid" "5AA2382426EE9F5E9708D1FA1CD5B53F"
+				"size" "6A14FE4F2A64650100685FAD10F43691"
+				"download" "CA8F9109EF97508F5A1EB4BF919A8DE7"
+			}
+			"laststable"
+			{
+				"gid" "9C1D10FD4ED842182450824E3151E229"
+				"size" "799A84642704C0E4F387D359D688836A"
+				"download" "CC404DCD990DF73B1E69C5816AD4A708"
+			}
+			"performance1"
+			{
+				"gid" "C43F48118892D642F7F31B81376E28F9"
+				"size" "3BDE12CA1C50EDCD7507C8C4B2BFC1C2"
+				"download" "9C5C815771D112E19D1B16A92D15DF55"
+			}
+			"testbuild"
+			{
+				"gid" "03CBA14520BFF0E0D6866159E9E05192"
+				"size" "1F52BCA2AC0CC0A98613D3026E8C7A59"
+				"download" "A043320759A88F16012EC3B51D8D96BB"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,turkish,brazilian,greek,vietnamese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16840968"
+			"timeupdated" "1735023280"
+		}
+		"dedicatedservertest"
+		{
+			"buildid" "16623845"
+			"pwdrequired" "1"
+			"timeupdated" "1734561051"
+		}
+		"designbranch"
+		{
+			"buildid" "16607558"
+			"pwdrequired" "1"
+			"timeupdated" "1733184876"
+		}
+		"developer"
+		{
+			"buildid" "16840968"
+			"pwdrequired" "1"
+			"timeupdated" "1735022555"
+		}
+		"laststable"
+		{
+			"buildid" "16832835"
+			"pwdrequired" "1"
+			"timeupdated" "1735023244"
+		}
+		"performance1"
+		{
+			"buildid" "15929787"
+			"pwdrequired" "1"
+			"timeupdated" "1728084362"
+		}
+		"testbuild"
+		{
+			"buildid" "16297713"
+			"pwdrequired" "1"
+			"timeupdated" "1734846911"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "300"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Airstrafe Interactive/Saleblazers/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Airstrafe Interactive/Saleblazers/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26770590"
+"_sha" "b8838b4cd8494adb294dddea87a7a48c1eb61fad"
+"_size" "10827"
