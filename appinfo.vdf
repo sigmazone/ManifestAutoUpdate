@@ -68,6 +68,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1722091295"
 	"associations"
 	{
@@ -100,6 +142,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_52" "1"
+		"category_30" "1"
 		"category_54" "1"
 		"category_62" "1"
 	}
@@ -170,6 +213,7 @@
 	"metacritic_score" "81"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/tentacular\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1220100"
 	"onlyvrsupport" "1"
@@ -197,7 +241,7 @@
 		"19" "1684"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -237,30 +281,30 @@
 		{
 			"public"
 			{
-				"gid" "8429985989082398725"
-				"size" "3339305356"
-				"download" "543835984"
+				"gid" "6421749732687542258"
+				"size" "3422854551"
+				"download" "616780512"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"progressioncheat"
+			{
+				"gid" "6989D1FF0A7D55061BCB5286665E3B08"
+				"size" "9A7AD00AD3ADE5D8B3508DD0347FEC62"
+				"download" "6348215F63105143CF5448CF380AB80B"
+			}
 			"debugger"
 			{
-				"gid" "EC36B68CE522A37E002E3F077D727F11"
-				"size" "A1044AD4DA9123C4D83B374FBAD9C39A"
-				"download" "D6BE476365A6BF74B300C967685F9150"
+				"gid" "AB5B6244C332626641D4A10309BC5E11"
+				"size" "CFF2CD2C9044FD96E80E58651596D289"
+				"download" "5E88AF6C419EA2865013D02D77623D30"
 			}
 			"indexfix"
 			{
 				"gid" "A2DAFF5358F851F4A86388DFD114F0A5"
 				"size" "B4BB0C726833E9BAEC0B47B5CA4E42E1"
 				"download" "D7BE2B8A4801D10A4690F1799F8ACE36"
-			}
-			"progressioncheat"
-			{
-				"gid" "6989D1FF0A7D55061BCB5286665E3B08"
-				"size" "9A7AD00AD3ADE5D8B3508DD0347FEC62"
-				"download" "6348215F63105143CF5448CF380AB80B"
 			}
 			"islandcreatorpreview"
 			{
@@ -288,30 +332,31 @@
 			}
 		}
 	}
+	"workshopdepot" "1220100"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15103783"
-			"timeupdated" "1722241823"
-		}
-		"debugger"
-		{
-			"buildid" "11253338"
-			"pwdrequired" "1"
-			"timeupdated" "1684325619"
-		}
-		"indexfix"
-		{
-			"buildid" "10243576"
-			"pwdrequired" "1"
-			"timeupdated" "1672673211"
+			"buildid" "16848665"
+			"timeupdated" "1735125276"
 		}
 		"progressioncheat"
 		{
 			"buildid" "10631175"
 			"pwdrequired" "1"
 			"timeupdated" "1677256334"
+		}
+		"debugger"
+		{
+			"buildid" "16815830"
+			"pwdrequired" "1"
+			"timeupdated" "1734709689"
+		}
+		"indexfix"
+		{
+			"buildid" "10243576"
+			"pwdrequired" "1"
+			"timeupdated" "1734881107"
 		}
 		"islandcreatorpreview"
 		{
@@ -341,7 +386,7 @@
 }
 "ufs"
 {
-	"quota" "100000000000"
+	"quota" "10000000000"
 	"maxnumfiles" "10000"
 	"savefiles"
 	{
@@ -357,5 +402,15 @@
 			"path" "Firepunchd Games UG/Tentacular"
 			"pattern" "*.dat"
 		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Firepunchd Games UG/Tentacular"
+			"pattern" "*.local"
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26780533"
+"_sha" "62226ed49783cdce63263558cbab1417478702e1"
+"_size" "7480"
