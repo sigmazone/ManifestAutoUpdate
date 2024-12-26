@@ -219,6 +219,11 @@
 			"type" "publisher"
 			"name" "Cygames, Inc."
 		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Umamusume: Pretty Derby"
+		}
 	}
 	"primary_genre" "1"
 	"genres"
@@ -297,8 +302,8 @@
 	"store_tags"
 	{
 		"0" "19"
-		"1" "3964"
-		"2" "597"
+		"1" "597"
+		"2" "3964"
 		"3" "7108"
 		"4" "7178"
 		"5" "4726"
@@ -318,14 +323,14 @@
 		"19" "3798"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "65"
 }
 "extended"
 {
 	"developer" "Cygames, Inc."
 	"publisher" "Cygames, Inc."
 	"homepage" "https://hachamecha-umamusume.jp/"
-	"listofdlc" "3050720,3050730,3050740"
+	"listofdlc" "3050720,3050730,3050740,3050750"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -373,54 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "6180278043237426475"
-				"size" "5449265471"
-				"download" "3947537568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test001"
-			{
-				"gid" "9132ADE835D6B0E87AB0884AE1C0B342"
-				"size" "8ECD4FA3FE22717F0AD4123A9BFB13D4"
-				"download" "ABE352F094D39646E4629887BC17C26A"
-			}
-			"test002"
-			{
-				"gid" "F2444BB5157E69CD94631EC8DCD1275B"
-				"size" "E7F20B3C80F964C7C6993F33B0326838"
-				"download" "D2F0134932BF32206635A8C4A9A7C3BE"
-			}
-			"test003"
-			{
-				"gid" "738FA3A622FE1294943435471CB28B80"
-				"size" "9D075FCDD05BE2A128951C32110A1183"
-				"download" "4D4EC092B0392B92049940648567A588"
-			}
-			"development"
-			{
-				"gid" "8AD02069962035BBF35C8EAF6EDC8631"
-				"size" "349AAC28CA3A817E40F1641ECD93A188"
-				"download" "D08ED08B64AD912E69E108619D33A859"
-			}
-			"development_"
-			{
-				"gid" "2FA3911A489EEE502D22768FF8459E62"
-				"size" "9214EE27395FC151521B13D9787FFC7F"
-				"download" "BF3F7F0AE7ABAA1E6B3F1F95043F83B0"
-			}
-			"development_weekly"
-			{
-				"gid" "CE89E39A0D65091E702B712BAE4C0AD0"
-				"size" "CF7A7C4B486A68806B777C9E1E630310"
-				"download" "BD4402BDBD711CCC395912CC0F3A4FDB"
-			}
-			"lqa_test"
-			{
-				"gid" "4D479CB76AD56A564D4E30E871148DAD"
-				"size" "10ED927E88208D3B07C8B6F90D1FBA95"
-				"download" "9EA072314A15E92FE342E5665A32ECA1"
+				"gid" "6962548807466478867"
+				"size" "5747916824"
+				"download" "4225582528"
 			}
 		}
 	}
@@ -428,52 +388,11 @@
 	{
 		"public"
 		{
-			"buildid" "15977208"
-			"timeupdated" "1730905216"
-		}
-		"test001"
-		{
-			"buildid" "16295587"
-			"pwdrequired" "1"
-			"timeupdated" "1730775878"
-		}
-		"test002"
-		{
 			"buildid" "16260841"
-			"pwdrequired" "1"
-			"timeupdated" "1730437193"
-		}
-		"test003"
-		{
-			"buildid" "16260833"
-			"pwdrequired" "1"
-			"timeupdated" "1730437184"
-		}
-		"development"
-		{
-			"buildid" "15977208"
-			"pwdrequired" "1"
-			"timeupdated" "1728459281"
-		}
-		"development_"
-		{
-			"buildid" "16260841"
-			"pwdrequired" "1"
-			"timeupdated" "1730437031"
-		}
-		"development_weekly"
-		{
-			"buildid" "15977201"
-			"pwdrequired" "1"
-			"timeupdated" "1728459254"
-		}
-		"lqa_test"
-		{
-			"buildid" "15949504"
-			"pwdrequired" "1"
-			"timeupdated" "1728279988"
+			"timeupdated" "1735138843"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -495,6 +414,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26073550"
-"_sha" "7824a9ed2053fa9d0df81b86abfb6da113cc9f5f"
-"_size" "10695"
+"_change_number" "26781929"
+"_sha" "76ba6f3e177d4b58466aa784b112b7eb4c69ce8a"
+"_size" "8792"
