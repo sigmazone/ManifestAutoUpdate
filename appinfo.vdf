@@ -12,28 +12,48 @@
 	"osextended" "macos64"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1706832000"
-		"tested_build_id" "13293115"
+		"category" "2"
+		"test_timestamp" "1734566400"
+		"tested_build_id" "16438003"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
 		"configuration"
 		{
-			"supported_input" "other"
-			"requires_manual_keyboard_invoke" "0"
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "0"
-			"small_text" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -42,7 +62,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "4c624f26f6f62cf7c6a9aab94164a6a6ae09c162/capsule_231x87.jpg"
+		"english" "1d392855ef946f84ff9366c78406f26cfc9751a8/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -110,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727653960"
+	"store_asset_mtime" "1734629098"
 	"associations"
 	{
 		"0"
@@ -150,29 +170,29 @@
 	"gameid" "2720010"
 	"store_tags"
 	{
-		"0" "122"
-		"1" "9"
-		"2" "1716"
-		"3" "454187"
-		"4" "21"
-		"5" "3959"
+		"0" "1716"
+		"1" "454187"
+		"2" "3871"
+		"3" "1720"
+		"4" "4026"
+		"5" "14139"
 		"6" "21725"
-		"7" "1741"
-		"8" "14139"
+		"7" "4325"
+		"8" "1759"
 		"9" "17305"
-		"10" "1720"
-		"11" "3871"
-		"12" "4325"
-		"13" "5125"
-		"14" "1759"
-		"15" "4182"
-		"16" "3964"
-		"17" "1708"
+		"10" "1741"
+		"11" "4747"
+		"12" "122"
+		"13" "9"
+		"14" "4791"
+		"15" "5125"
+		"16" "4305"
+		"17" "3964"
 		"18" "1684"
-		"19" "4004"
+		"19" "1708"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -216,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "321668781047834108"
-				"size" "451635145"
-				"download" "83020400"
+				"gid" "149761121496710614"
+				"size" "453350036"
+				"download" "83168160"
 			}
 		}
 	}
@@ -233,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "859968624362260338"
-				"size" "595663973"
-				"download" "127271376"
+				"gid" "5285965247412444582"
+				"size" "597378054"
+				"download" "127419088"
 			}
 		}
 	}
@@ -243,12 +263,12 @@
 	{
 		"public"
 		{
-			"buildid" "16438003"
-			"timeupdated" "1731879537"
+			"buildid" "16846827"
+			"timeupdated" "1735099777"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26236289"
-"_sha" "533a242abd5f35b0a2f1d8c09cbfbded7b853c39"
-"_size" "4083"
+"_change_number" "26778229"
+"_sha" "1f69aa5e5d213b57610e8e6ac47a2287e2452eb4"
+"_size" "4594"
