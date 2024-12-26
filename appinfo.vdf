@@ -1,0 +1,417 @@
+"appid" "890550"
+"common"
+{
+	"name" "RUMBLE"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"logo" "1ed90659782ad7807b5cd10a30971ef6c9cefe64"
+	"logo_small" "1ed90659782ad7807b5cd10a30971ef6c9cefe64_thumb"
+	"icon" "808687aa0c8abf633e0697fb56e5dfae81ca569c"
+	"clienticns" "5d91ac25a30687af97a2db27aa8b68fcb68bb1e1"
+	"clienticon" "54f6d067d4589bccd4de4727d0c70056c5f1d799"
+	"clienttga" "61a0e3c975546ab32a43e4a4f51e443eb076611d"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "890550_eula_0"
+			"name" "RUMBLE EULA"
+			"url" "https://store.steampowered.com//eula/890550_eula_0"
+			"version" "8"
+		}
+	}
+	"openvrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1702425600"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "4256bd2c1318813666d10a03aa49cdb16fd60412/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "59.07928090858459"
+			"height_pct" "96.52777777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "59.07928090858459"
+				"height_pct" "96.52777777777777"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734706654"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Buckethead Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Buckethead Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "18"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1663927411"
+	"community_hub_visible" "1"
+	"gameid" "890550"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "21978"
+		"2" "493"
+		"3" "19"
+		"4" "701"
+		"5" "3859"
+		"6" "1775"
+		"7" "3878"
+		"8" "4182"
+		"9" "6506"
+		"10" "3993"
+		"11" "4191"
+		"12" "3839"
+		"13" "4057"
+		"14" "1684"
+		"15" "1708"
+		"16" "6915"
+		"17" "3968"
+		"18" "4026"
+		"19" "8093"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Buckethead Entertainment"
+	"publisher" "Buckethead Entertainment"
+	"homepage" "https://www.bucketheadentertainment.com/"
+}
+"config"
+{
+	"installdir" "RUMBLE"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RUMBLE.exe"
+			"arguments" "-steam"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "CommandArgsTest.exe"
+			"arguments" "-steam"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "troubleshooting"
+			}
+			"description_loc"
+			{
+				"english" "Troubleshooting"
+			}
+			"description" "Troubleshooting"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"890551"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7258476852433067237"
+				"size" "1153135755"
+				"download" "301294320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio-testing"
+			{
+				"gid" "A476FF3F7C0BD32DCCABBE88598F6719"
+				"size" "69332543BB07F8B0A17A93693047F072"
+				"download" "9E9BADBAF38771F144F99CD9248F3A93"
+			}
+			"troubleshooting"
+			{
+				"gid" "33001FD23F94360CCC957DB4C11896E9"
+				"size" "D14621F26233326D1546FC658324B90F"
+				"download" "5DB8F50B49E5CFF0E04D7ADA660728B8"
+			}
+			"legacy"
+			{
+				"gid" "F85C36064EBDCBAF958B85D973481306"
+				"size" "1A4313AF2BFC401FD8E50ABA35156042"
+				"download" "0A37CAA48E52574A8879AA944CA80E6E"
+			}
+		}
+	}
+	"890553"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2548343869253895320"
+				"size" "1153135755"
+				"download" "301329952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio-testing"
+			{
+				"gid" "F2B6BD6337411A7117F1A1D41EB5165A"
+				"size" "69332543BB07F8B0A17A93693047F072"
+				"download" "645FE5C44E5395C03EEC9AD809A21F3C"
+			}
+			"troubleshooting"
+			{
+				"gid" "84F93EA26DCC227FD7C19C026127EDC6"
+				"size" "D14621F26233326D1546FC658324B90F"
+				"download" "5DB8F50B49E5CFF0E04D7ADA660728B8"
+			}
+			"legacy"
+			{
+				"gid" "F4E56B146F0A5FA6D32A2E2F6F7D1C01"
+				"size" "2593CF26CE6A59879497857870FF9D1F"
+				"download" "ACD5D0152B6713D2034C518B01941863"
+			}
+		}
+	}
+	"890552"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2561733150509226260"
+				"size" "1153135755"
+				"download" "301294320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio-testing"
+			{
+				"gid" "60AABD26F6BCA0105CF384E36E480E55"
+				"size" "69332543BB07F8B0A17A93693047F072"
+				"download" "9E9BADBAF38771F144F99CD9248F3A93"
+			}
+			"troubleshooting"
+			{
+				"gid" "3EA047E0C95A958D20F856D0134E798B"
+				"size" "D14621F26233326D1546FC658324B90F"
+				"download" "5DB8F50B49E5CFF0E04D7ADA660728B8"
+			}
+			"legacy"
+			{
+				"gid" "60A2E4690E680DEF7886C6BF33231158"
+				"size" "2593CF26CE6A59879497857870FF9D1F"
+				"download" "2EAA62C2AD43D95C3123C4FC87715C6F"
+			}
+		}
+	}
+	"890554"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3636820125560054885"
+				"size" "1153135755"
+				"download" "301296816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio-testing"
+			{
+				"gid" "BFB86475F159CE1AB296800B63D995FA"
+				"size" "69332543BB07F8B0A17A93693047F072"
+				"download" "ADA36978EBFD38CF8A46E3585FE76A76"
+			}
+			"troubleshooting"
+			{
+				"gid" "F26E97E796CFC192844B7468F407328F"
+				"size" "D14621F26233326D1546FC658324B90F"
+				"download" "5DB8F50B49E5CFF0E04D7ADA660728B8"
+			}
+			"legacy"
+			{
+				"gid" "784EAB092E07CABD177B6F92BA1C46FE"
+				"size" "2593CF26CE6A59879497857870FF9D1F"
+				"download" "45960158A5D76BBBDDF0F3185A4C90C6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16849606"
+			"timeupdated" "1735138444"
+		}
+		"audio-testing"
+		{
+			"buildid" "12941137"
+			"pwdrequired" "1"
+			"timeupdated" "1702392744"
+		}
+		"troubleshooting"
+		{
+			"buildid" "13754755"
+			"pwdrequired" "1"
+			"timeupdated" "1710519781"
+		}
+		"legacy"
+		{
+			"buildid" "16831153"
+			"pwdrequired" "1"
+			"timeupdated" "1734909287"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26781852"
+"_sha" "cdceddffa0d60ca666e00ed970efe53f947fe4c8"
+"_size" "7895"
