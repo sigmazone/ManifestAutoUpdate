@@ -1,0 +1,551 @@
+"appid" "1683380"
+"common"
+{
+	"name" "噗噗的冒险乐园"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "c585319b97b88f3beb4af756239c894354b5b651"
+	"clienttga" "040dca31654c932632d26e05337270f9d787fe3b"
+	"icon" "7478062842c24ee374e3d182b9a5d9479743b3c5"
+	"logo" "feaf89b29f2cf03cd398554bbfa65735db79191a"
+	"logo_small" "feaf89b29f2cf03cd398554bbfa65735db79191a_thumb"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"english" "PuPu\'s Adventure Park"
+		"tchinese" "噗噗的冒險樂園"
+		"japanese" "ププの不思議なアドベンチャーパーク"
+		"koreana" "푸푸의 파크 어드벤처"
+		"sc_schinese" "噗噗的冒险乐园"
+		"latam" "KuKu\'s Adventure Park"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1691452800"
+		"tested_build_id" "11812095"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.27906976744187"
+			"height_pct" "72.03752077891235"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.27906976744187"
+				"height_pct" "72.03752077891235"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734711673"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "西梅树工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "西梅树工作室"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Anotherindie"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689732064"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1683380"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "599"
+		"2" "9"
+		"3" "492"
+		"4" "1643"
+		"5" "4726"
+		"6" "3871"
+		"7" "4434"
+		"8" "4474"
+		"9" "1684"
+		"10" "8945"
+		"11" "4695"
+		"12" "198631"
+		"13" "4182"
+		"14" "4328"
+		"15" "4085"
+		"16" "5984"
+		"17" "4136"
+		"18" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "西梅树工作室"
+	"publisher" "西梅树工作室"
+}
+"config"
+{
+	"installdir" "pupu‘s park"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "pupu.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1683381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6383426789951954541"
+				"size" "477978865"
+				"download" "310949488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"playtest"
+			{
+				"gid" "D7213A26D853A3512FDF227B8AB8A63D"
+				"size" "A3DC79465CCA6AAE387D8A8CEA6A9556"
+				"download" "2506CB29A8E3F2C6BAFB7224E6525162"
+			}
+			"qatest"
+			{
+				"gid" "2BC884417620C50355137A735F391D45"
+				"size" "D5F1C3BF233B8D71A4C1082084213E03"
+				"download" "5C5D9CE0780A8D92411347CABAB0E3AE"
+			}
+			"steam_china_only"
+			{
+				"gid" "3F6DEA008A0049DA2AA6FAF23DD2ADD1"
+				"size" "AED25124B65A6C0C7D6DF56BEE3F5894"
+				"download" "72C324A5347C956B78A066D9CB1E5263"
+			}
+			"steam_china_qatest"
+			{
+				"gid" "7F5FD7C24E17D4A1926822AF2821B748"
+				"size" "CB0CD9306D6045763EB3CE0FF7459022"
+				"download" "BABCF3960C099EB9309727866B7B1B0F"
+			}
+			"ver.0.8.4"
+			{
+				"gid" "FC779828EE962AE3B6459CC1AD941FD9"
+				"size" "536F59700CFFD03378E7D4084C8C5FF0"
+				"download" "A8D736BB17100BEA4DA1B3082C7F543F"
+			}
+		}
+	}
+	"1683382"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4399751476521438220"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"playtest"
+			{
+				"gid" "DCAC36E3D367202A68FF00B85E9DC233"
+				"size" "558EE6C1B6F51AAC44F8572EBE2A466E"
+				"download" "558EE6C1B6F51AAC44F8572EBE2A466E"
+			}
+			"qatest"
+			{
+				"gid" "E8951014DF1B4862268F39DF647F8576"
+				"size" "1C25B42C892541E965CC3D22A0CBB1A3"
+				"download" "1C25B42C892541E965CC3D22A0CBB1A3"
+			}
+			"steam_china_only"
+			{
+				"gid" "85F5878D7A0E7F75F0AA19B56E761ACA"
+				"size" "6AF0C3B4CF5B77C32020A784589D801B"
+				"download" "6AF0C3B4CF5B77C32020A784589D801B"
+			}
+			"steam_china_qatest"
+			{
+				"gid" "FA8BF15CD69B31BFF52F9BF8D85B7360"
+				"size" "4CB166ABCC7AF501AC681DC950735109"
+				"download" "4CB166ABCC7AF501AC681DC950735109"
+			}
+			"ver.0.8.4"
+			{
+				"gid" "7E84F29EF0E7971688E4DE18CDD79B1D"
+				"size" "98DC7732352DC953E3532DDEC05E1C92"
+				"download" "98DC7732352DC953E3532DDEC05E1C92"
+			}
+		}
+	}
+	"1683383"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1565480500102406166"
+				"size" "477955267"
+				"download" "310973888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"playtest"
+			{
+				"gid" "57B7FED828C95B97B8207B0A83847CE7"
+				"size" "03F9597C757E03E22FBAADE8501889D4"
+				"download" "05396B98F277108B2B12A3427D8C663F"
+			}
+			"qatest"
+			{
+				"gid" "4C36C886A432BB856C4A2368BB2C7BCD"
+				"size" "F41C986CBD3766D26ED3DEAEB9AE01AE"
+				"download" "2B36939C6B89F0151E1AA072E143F0E4"
+			}
+			"steam_china_only"
+			{
+				"gid" "2F1F3B19BDC0F2DC0E077E9F711CB691"
+				"size" "C98781E7C93FE994692E080B856F6B46"
+				"download" "5FFBC6E5185062D54F38CFC5FF6DBA32"
+			}
+			"steam_china_qatest"
+			{
+				"gid" "F0F9CB79245FDE3E1FFA4EB04AF767E3"
+				"size" "9F05A167E23FC2D2B2DA20292575C4BF"
+				"download" "58355F5887E452D493E3B37CF383A613"
+			}
+			"ver.0.8.4"
+			{
+				"gid" "EDC928F008DE70F86454485C4831A904"
+				"size" "52A50B0A9CB29C6AFB8BCCE25CC720D8"
+				"download" "07B33EB1F6FEE66F919A71CDFA0ED924"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16860531"
+			"timeupdated" "1735307674"
+		}
+		"playtest"
+		{
+			"buildid" "16860531"
+			"pwdrequired" "1"
+			"timeupdated" "1735308115"
+		}
+		"qatest"
+		{
+			"buildid" "16860531"
+			"pwdrequired" "1"
+			"timeupdated" "1735302850"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "16860531"
+			"pwdrequired" "1"
+			"timeupdated" "1735307626"
+		}
+		"steam_china_qatest"
+		{
+			"sc_schinese" "蒸汽测试"
+			"buildid" "16860531"
+			"pwdrequired" "1"
+			"timeupdated" "1735302860"
+		}
+		"ver.0.8.4"
+		{
+			"buildid" "15288477"
+			"pwdrequired" "1"
+			"timeupdated" "1734623009"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "pupu_Data/StreamingAssets/JSON/save/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Contents/Resources/Data/StreamingAssets/JSON/save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26797404"
+"_sha" "77fbd4079019ae21e1518ad026c0dcdfdce0aa64"
+"_size" "10683"
