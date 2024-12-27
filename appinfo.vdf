@@ -1,0 +1,574 @@
+"appid" "677340"
+"common"
+{
+	"name" "The Colonists"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "410fa6c485eaedb30e55d87b58b373cf9b1f3a25"
+	"logo_small" "410fa6c485eaedb30e55d87b58b373cf9b1f3a25_thumb"
+	"icon" "836553870096ea9de97ca3527f619401ae090e0b"
+	"clienticon" "0a03542993caa751b3c781db794903cb50c793f3"
+	"clienttga" "ea07d59c06ea4129d4ee945e55ac640d0df6f84f"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1715299200"
+		"tested_build_id" "14277336"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "The Colonists"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "81.38856476079349"
+			"height_pct" "73.17739254333887"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "81.38856476079349"
+				"height_pct" "73.17739254333887"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1719501442"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Codebyfire"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mode 7"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1540396800"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "677340"
+	"store_tags"
+	{
+		"0" "220585"
+		"1" "9"
+		"2" "4328"
+		"3" "492"
+		"4" "1643"
+		"5" "4726"
+		"6" "5752"
+		"7" "8945"
+		"8" "599"
+		"9" "1654"
+		"10" "12472"
+		"11" "255534"
+		"12" "4695"
+		"13" "5300"
+		"14" "4711"
+		"15" "5350"
+		"16" "7332"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Codebyfire"
+	"publisher" "Mode 7"
+	"homepage" "http://thecolonistsgame.com"
+	"listofdlc" "2784480"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Colonists"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheColonists.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TheColonists.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "TheColonists.x86"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "677340"
+	"677341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3011515992069571487"
+				"size" "889261297"
+				"download" "327618032"
+			}
+			"development"
+			{
+				"gid" "2811262122527829223"
+				"size" "917632460"
+				"download" "334718096"
+			}
+			"review"
+			{
+				"gid" "3011515992069571487"
+				"size" "889261297"
+				"download" "327618032"
+			}
+			"v1.6.14"
+			{
+				"gid" "8632081931032329320"
+				"size" "759678616"
+				"download" "291661872"
+			}
+			"v1.9.5.1"
+			{
+				"gid" "6400471271403888185"
+				"size" "888073831"
+				"download" "327364256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"production"
+			{
+				"gid" "996D4C117843B83215470998C9F39F61"
+				"size" "A0BB1FFE5B8B2E76E2D1CAEE668BC417"
+				"download" "549C60B0FD4585F04F507134BE586C18"
+			}
+			"upload"
+			{
+				"gid" "CB3FCA13C86D8AB10211BBE7B5C598C0"
+				"size" "01C537E9CC577131F45379A0AEBC4CDD"
+				"download" "FAD2004D91A58C60BA4285E9B25E865C"
+			}
+		}
+	}
+	"677342"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "549033627688570955"
+				"size" "925204992"
+				"download" "340247712"
+			}
+			"development"
+			{
+				"gid" "549033627688570955"
+				"size" "925204992"
+				"download" "340247712"
+			}
+			"review"
+			{
+				"gid" "549033627688570955"
+				"size" "925204992"
+				"download" "340247712"
+			}
+			"v1.6.14"
+			{
+				"gid" "4647520566175148666"
+				"size" "781623067"
+				"download" "298016976"
+			}
+			"v1.9.5.1"
+			{
+				"gid" "2348107677790031076"
+				"size" "924017689"
+				"download" "339932592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"production"
+			{
+				"gid" "5319E9836166137DBB8C447979A1E265"
+				"size" "3503AF7BEB12D7165EE325F0C43459CA"
+				"download" "757A5F736727A013E732A26BC4ADB1F9"
+			}
+			"upload"
+			{
+				"gid" "8A9B960BF1B2A2C4C06A74D56DBDC474"
+				"size" "C68FE75DC6BDA6847362FA04BABECD22"
+				"download" "44E4A8337EB0DF4ABDA0E6194288AD54"
+			}
+		}
+	}
+	"677343"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3528914791835689297"
+				"size" "908980886"
+				"download" "325967648"
+			}
+			"development"
+			{
+				"gid" "3528914791835689297"
+				"size" "908980886"
+				"download" "325967648"
+			}
+			"review"
+			{
+				"gid" "3528914791835689297"
+				"size" "908980886"
+				"download" "325967648"
+			}
+			"v1.6.14"
+			{
+				"gid" "5375393842313911543"
+				"size" "804838597"
+				"download" "293784656"
+			}
+			"v1.9.5.1"
+			{
+				"gid" "4767899199894361550"
+				"size" "909259255"
+				"download" "326247984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"production"
+			{
+				"gid" "58DAADBA46A3273CBA3CAAEF17168336"
+				"size" "A17186202D9663869DBB13FA0FB02030"
+				"download" "5BD0C1E3EF4D12BCC4CF21C76145CAD2"
+			}
+			"upload"
+			{
+				"gid" "D30DA0D01FF6775AF1017AD3781AC73D"
+				"size" "3AE37E892E2333E3EDA2C5FAD0B5800A"
+				"download" "7EF7B0B7A235498F339E764D45B7265E"
+			}
+		}
+	}
+	"2784480"
+	{
+		"dlcappid" "2784480"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16849152"
+			"timeupdated" "1735133471"
+		}
+		"development"
+		{
+			"buildid" "16849421"
+			"timeupdated" "1735135476"
+		}
+		"production"
+		{
+			"buildid" "16849152"
+			"pwdrequired" "1"
+			"timeupdated" "1735133480"
+		}
+		"review"
+		{
+			"buildid" "16849152"
+			"timeupdated" "1735133492"
+		}
+		"upload"
+		{
+			"buildid" "16849421"
+			"pwdrequired" "1"
+			"timeupdated" "1735135465"
+		}
+		"v1.6.14"
+		{
+			"buildid" "13607331"
+			"description" "v1.6.14"
+			"timeupdated" "1718061946"
+		}
+		"v1.9.5.1"
+		{
+			"buildid" "15893156"
+			"description" "v1.9.5.1"
+			"timeupdated" "1731339709"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "8589934592"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Codebyfire Ltd\\The Colonists\\SaveGames"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Codebyfire Ltd\\The Colonists\\MyScenarios"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/Codebyfire Ltd/The Colonists/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26781568"
+"_sha" "bdf69fb8b8d757c5bcf1317c11b9cc0cfd5359b0"
+"_size" "10268"
