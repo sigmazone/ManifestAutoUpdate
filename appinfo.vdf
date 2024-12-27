@@ -12,6 +12,19 @@
 	"osarch" ""
 	"releasestate" "released"
 	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -180,6 +193,60 @@
 	"supported_languages"
 	{
 		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
 		{
 			"supported" "true"
 			"full_audio" "true"
@@ -418,6 +485,12 @@
 				"size" "140685636"
 				"download" "56488480"
 			}
+			"0.12.1"
+			{
+				"gid" "920602526144983264"
+				"size" "140685636"
+				"download" "56488480"
+			}
 			"debug"
 			{
 				"gid" "2983609866033713754"
@@ -437,9 +510,9 @@
 		{
 			"public"
 			{
-				"gid" "863457676588211492"
-				"size" "169176980"
-				"download" "71084992"
+				"gid" "3964555362877082639"
+				"size" "168971983"
+				"download" "71030976"
 			}
 			"0.2.4"
 			{
@@ -561,11 +634,17 @@
 				"size" "169176980"
 				"download" "71084992"
 			}
+			"0.12.1"
+			{
+				"gid" "3964555362877082639"
+				"size" "168971983"
+				"download" "71030976"
+			}
 			"debug"
 			{
-				"gid" "2833043089602400792"
-				"size" "264917973"
-				"download" "88638752"
+				"gid" "1437363669185555861"
+				"size" "264712920"
+				"download" "88587584"
 			}
 		}
 	}
@@ -704,6 +783,12 @@
 				"size" "172404548"
 				"download" "69046720"
 			}
+			"0.12.1"
+			{
+				"gid" "7380931212246383400"
+				"size" "172404548"
+				"download" "69046720"
+			}
 			"debug"
 			{
 				"gid" "7380931212246383400"
@@ -723,9 +808,9 @@
 		{
 			"public"
 			{
-				"gid" "7606739969782868041"
-				"size" "173385057"
-				"download" "67637776"
+				"gid" "2626566092719001663"
+				"size" "173180542"
+				"download" "67585616"
 			}
 			"0.2.4"
 			{
@@ -847,11 +932,17 @@
 				"size" "173385057"
 				"download" "67637776"
 			}
+			"0.12.1"
+			{
+				"gid" "2626566092719001663"
+				"size" "173180542"
+				"download" "67585616"
+			}
 			"debug"
 			{
-				"gid" "654373776314918025"
-				"size" "280260098"
-				"download" "77735840"
+				"gid" "3788658286106427306"
+				"size" "280058562"
+				"download" "77692320"
 			}
 		}
 	}
@@ -865,9 +956,9 @@
 		{
 			"public"
 			{
-				"gid" "4855123083379646687"
-				"size" "194595711"
-				"download" "67142112"
+				"gid" "1910488686750181455"
+				"size" "194400345"
+				"download" "67088544"
 			}
 			"0.2.4"
 			{
@@ -965,11 +1056,17 @@
 				"size" "194595711"
 				"download" "67142112"
 			}
+			"0.12.1"
+			{
+				"gid" "1910488686750181455"
+				"size" "194400345"
+				"download" "67088544"
+			}
 			"debug"
 			{
-				"gid" "5983218673543978439"
-				"size" "334535299"
-				"download" "78829744"
+				"gid" "8226374147517753597"
+				"size" "334341601"
+				"download" "78779664"
 			}
 		}
 	}
@@ -978,8 +1075,8 @@
 	{
 		"public"
 		{
-			"buildid" "16657679"
-			"timeupdated" "1733494838"
+			"buildid" "16856514"
+			"timeupdated" "1735249837"
 		}
 		"0.2.4"
 		{
@@ -1093,11 +1190,17 @@
 			"description" "Mill, dynamic textures"
 			"timeupdated" "1733494777"
 		}
+		"0.12.1"
+		{
+			"buildid" "16856514"
+			"description" "Localization Update"
+			"timeupdated" "1735249410"
+		}
 		"debug"
 		{
-			"buildid" "16657718"
+			"buildid" "16856546"
 			"description" "Branch for debugging"
-			"timeupdated" "1733494937"
+			"timeupdated" "1735249819"
 		}
 	}
 }
@@ -1117,6 +1220,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26527270"
-"_sha" "ee64ae18ad759dcd20e0fca000a9cc519cfea11d"
-"_size" "20059"
+"_change_number" "26791743"
+"_sha" "6626a7960258a21ab2726bc1adb3a128d3e8fb1b"
+"_size" "21801"
