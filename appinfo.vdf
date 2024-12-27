@@ -1,0 +1,526 @@
+"appid" "835570"
+"common"
+{
+	"name" "Conqueror\'s Blade"
+	"type" "Game"
+	"icon" "146c4d41ab8c557a2a9ff1818d438e74de55942a"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "89f7c728f4ce70e927ea55ade6fd6e1858c2d60a"
+	"clienttga" "1794ea058673dcc3a69c72e49586e7463818f378"
+	"logo" "574977d17b0900309dd832d0de0a4771e4e55076"
+	"logo_small" "574977d17b0900309dd832d0de0a4771e4e55076_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "战意"
+		"japanese" "コンカラーズ・ブレード"
+		"koreana" "컨커러스 블레이드"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "835570_eula_0"
+			"name" "Conqueror\'s Blade EULA"
+			"url" "https://store.steampowered.com//eula/835570_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667347200"
+		"tested_build_id" "9760528"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Conqueror\'s Blade: Frontier"
+	"small_capsule"
+	{
+		"english" "f402e6e838049411357ac04dbb7c91c0e443bb47/capsule_231x87.jpg"
+		"schinese" "128d27ddf379292febb0d362ba547fb6394970eb/capsule_231x87_schinese.jpg"
+		"tchinese" "8604961baafdefbc8cc588ab6bf96e3010c4e30a/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"polish" "header_polish.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"spanish" "header_spanish.jpg"
+		"turkish" "header_turkish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "zh-cn,en,zh-tw,ru,tr,es,ja,ko,pl,fr,de"
+		"library_header" "zh-tw,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.10917063099862"
+			"height_pct" "45.4864372941934"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "f6561eb8c904e70045a725ba624bf8278287a9e9/library_600x900.jpg"
+				"schinese" "7ce93daf5025cedc2bbdc7126163e321ac6e2de0/library_600x900_schinese.jpg"
+				"tchinese" "d78275c53ebadd63fc251c4c5ff29c88c51c6ccd/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "f6561eb8c904e70045a725ba624bf8278287a9e9/library_600x900_2x.jpg"
+				"schinese" "7ce93daf5025cedc2bbdc7126163e321ac6e2de0/library_600x900_schinese_2x.jpg"
+				"tchinese" "d78275c53ebadd63fc251c4c5ff29c88c51c6ccd/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "ecb94b60cae036fc66fcf404b2cebc90309ff229/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "ecb94b60cae036fc66fcf404b2cebc90309ff229/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ecb94b60cae036fc66fcf404b2cebc90309ff229/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "06c31da52ccabfd4a678553c2c10055d29b42765/logo_schinese.png"
+				"english" "2b542b1e0ad0a2a95f98a783602d96ea6a3b611b/logo.png"
+				"tchinese" "d984a101faa00071843328d162ac906968237ed5/logo_tchinese.png"
+				"russian" "d6c79dea248e00bf24097f66b1fc7153717bcb14/logo_russian.png"
+				"turkish" "9b0254eb44d4c389fa75840ee9b3a55d23a7dee5/logo_turkish.png"
+				"spanish" "737184ae6b6dc25633d640962b605d73f0ebe81b/logo_spanish.png"
+				"japanese" "aee89ffd5e13129d4a403ffea7c0260a8019e626/logo_japanese.png"
+				"koreana" "fb9cfe71aa06680cb2641381fc9e91738a06a171/logo_koreana.png"
+				"polish" "5885c17f17eb4cbdf59558f673a403fc0ff7bbd3/logo_polish.png"
+				"french" "caeb69610fb04e2b8263f417a7c728525ca04a4b/logo_french.png"
+				"german" "caeb69610fb04e2b8263f417a7c728525ca04a4b/logo_german.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.10917063099862"
+				"height_pct" "45.4864372941934"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"tchinese" "2b9fc47a9df0e98bd5177cb5ed86c268f03a042e/library_header_tchinese.jpg"
+				"schinese" "4f411ec9ab7d30c14d077f01a9e5762cf3981dd2/library_header_schinese.jpg"
+				"english" "9bd1f9c95a77ddb4bc63bbe3b0d2bd2b15800692/library_header.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "2b9fc47a9df0e98bd5177cb5ed86c268f03a042e/library_header_tchinese_2x.jpg"
+				"schinese" "4f411ec9ab7d30c14d077f01a9e5762cf3981dd2/library_header_schinese_2x.jpg"
+				"english" "9bd1f9c95a77ddb4bc63bbe3b0d2bd2b15800692/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734614186"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Booming Tech"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Poros Interactive"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "1"
+		"1" "29"
+		"2" "3"
+		"3" "2"
+		"4" "37"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1586145240"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "835570"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "4608"
+		"1" "1775"
+		"2" "113"
+		"3" "128"
+		"4" "4684"
+		"5" "4172"
+		"6" "19"
+		"7" "9"
+		"8" "3810"
+		"9" "4747"
+		"10" "1754"
+		"11" "4598"
+		"12" "1678"
+		"13" "1695"
+		"14" "1708"
+		"15" "122"
+		"16" "1697"
+		"17" "4231"
+		"18" "5711"
+		"19" "1723"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "Booming Tech"
+	"publisher" "Poros Interactive"
+	"homepage" "https://www.conquerorsblade.com/"
+	"isfreeapp" "1"
+	"listofdlc" "1747380,1777450,1809460,1809461,1809462,1809463,1835880,1835881,1872480,1872481,2654310,2654320,2654330,2654340,3063160,3065510,3065520,3065530,3065540,3065550,3065560,3360640,3379970,3379980,3379990,3380000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Conqueror\'s Blade Frontier"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "/game/x64/Ship/client/proven_ground_client.exe"
+			"arguments" "-steam_poros"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "/game/x64/Ship/client/proven_ground_client.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "cb_beta"
+			}
+			"description_loc"
+			{
+				"english" "cb_beta"
+			}
+			"description" "cb_beta"
+		}
+		"2"
+		{
+			"executable" "/game/x64/Ship/client/proven_ground_client.exe"
+			"arguments" "-steam_mailru"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "mg_steam_beta"
+			}
+			"description_loc"
+			{
+				"english" "mg_beta"
+			}
+			"description" "mg_beta"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam,vietnamese"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"835571"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3601856988550996928"
+				"size" "63747685562"
+				"download" "46788489552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cb_beta"
+			{
+				"gid" "84D0F86CCDC47067F7ECAC0D14F5894F"
+				"size" "24DB7A884566628E3402BC43DD37CE3F"
+				"download" "F9A8CC4C7288729A37F165A7471CF7D5"
+			}
+			"cbs_test"
+			{
+				"gid" "7AC3BACDE4CCACDBCD64A9554C02B742"
+				"size" "F83D203E50440F4741C01C48F7ED69DE"
+				"download" "1AFA5DB9424242E28096636699AF9A2E"
+			}
+			"mg_steam_beta"
+			{
+				"gid" "E55B468B064DC294BC33C320F45A329E"
+				"size" "1B45A3998124DDE02CCBC3B20601DDE7"
+				"download" "11976ACAEA1DA6D01C8088C92C588DD9"
+			}
+		}
+	}
+	"835572"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"cbs_test"
+			{
+				"gid" "0DEEFDC4720C5C44FCC78F9CB62AAAF8"
+				"size" "57ACF950FC1E3262889D99352E1B3AF8"
+				"download" "0FF38D90AE19AD36BC47B4CE2DD0115D"
+			}
+		}
+	}
+	"835573"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"cbs_test"
+			{
+				"gid" "B362EBB201FD6B4E1671FEFB34D81E4A"
+				"size" "6868820E134EA46D950F27D4690079A6"
+				"download" "4D2B80DA40D39B887B0ED9A84013A0DE"
+			}
+		}
+	}
+	"835574"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16859290"
+			"timeupdated" "1735289070"
+		}
+		"cb_beta"
+		{
+			"buildid" "16859391"
+			"pwdrequired" "1"
+			"timeupdated" "1735290087"
+		}
+		"cbs_test"
+		{
+			"buildid" "14350715"
+			"pwdrequired" "1"
+			"timeupdated" "1715611583"
+		}
+		"mg_steam_beta"
+		{
+			"buildid" "15737287"
+			"pwdrequired" "1"
+			"timeupdated" "1726631081"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26795403"
+"_sha" "c50f51daacd205e98aa966126fabe336c0604790"
+"_size" "11399"
