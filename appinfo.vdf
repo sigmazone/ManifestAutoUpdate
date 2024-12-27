@@ -1,0 +1,551 @@
+"appid" "1232580"
+"common"
+{
+	"name" "Knock on the Coffin Lid"
+	"type" "Game"
+	"clienticon" "8b356795a0dc448f32de8f888654bbf3a56cc9cc"
+	"clienttga" "ccb9b14a7baffecebf488660f0a468be7fb765b3"
+	"icon" "0b54a30578a19ef2baf028d58bb16157bb5a0b18"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "08a676f2222e61c11c589d6acf34873099b0097a"
+	"logo_small" "08a676f2222e61c11c589d6acf34873099b0097a_thumb"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"releasestate" "released"
+	"clienticns" "e7066bbc14cbd88a1d77242775c7f9ed1e89461f"
+	"linuxclienticon" "f54c0fc35e941073467ef88a2491b9590941fea0"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.410225921522"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.410225921522"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731575225"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RedBoon"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RedBoon"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1723114832"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1232580"
+	"store_tags"
+	{
+		"0" "1684"
+		"1" "4604"
+		"2" "791774"
+		"3" "1720"
+		"4" "3959"
+		"5" "4026"
+		"6" "1677"
+		"7" "4325"
+		"8" "1666"
+		"9" "1716"
+		"10" "9"
+		"11" "3871"
+		"12" "32322"
+		"13" "1742"
+		"14" "6815"
+		"15" "4166"
+		"16" "4182"
+		"17" "492"
+		"18" "4711"
+		"19" "1091588"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "RedBoon"
+	"publisher" "RedBoon"
+	"homepage" "https://redboon.net/"
+	"listofdlc" "1608610,2891150"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Knock on the Coffin Lid"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Knock.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Knock.app\\Contents\\MacOS\\Knock"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,russian"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1232581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5462010229928690241"
+				"size" "19916817698"
+				"download" "5511775888"
+			}
+			"1.0973"
+			{
+				"gid" "3075907164274466468"
+				"size" "19771346948"
+				"download" "5467068944"
+			}
+			"1.0985"
+			{
+				"gid" "7012602818211818314"
+				"size" "19776162324"
+				"download" "5466824624"
+			}
+			"public_beta"
+			{
+				"gid" "8148500901077844176"
+				"size" "19767966753"
+				"download" "5463504432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"prototype_test"
+			{
+				"gid" "261FEB4EDA31F585CFBB248897226756"
+				"size" "2E775B735BCBD75E8BD370C104A3BFA3"
+				"download" "8E790E9D638FED275A10A75AB1E1E169"
+			}
+			"dev_test"
+			{
+				"gid" "9E0EFCBC61337F64ABBCD1EDC846F11A"
+				"size" "1225B4C7D96939CB6DF41D7B4DCB61E7"
+				"download" "44885D9F2E3E3EEEB6A441F3543C7B97"
+			}
+			"develop_new"
+			{
+				"gid" "80CFB7FEECF28A09C691B455059DFFA5"
+				"size" "72CD1A50D6FC1F35587728289F1451BE"
+				"download" "FBD639C55DC608DD541B575A783D564B"
+			}
+			"feature_battle_log"
+			{
+				"gid" "EC3420B4A68FC7583CAFBD6E328ECBDC"
+				"size" "B05B67DB42CD42921C22779C6E347A0F"
+				"download" "E4521987B44A5C682088462ABFAB1256"
+			}
+			"general_testing"
+			{
+				"gid" "FCD8E1823E0FB7158AA2D26F7CFCE0AC"
+				"size" "DD0845176ABEE4984F3ABB1A31081E15"
+				"download" "6C28FCA83F105794F9FE78AC61451A2B"
+			}
+			"global_events_rework"
+			{
+				"gid" "2C6C1088DDE7F780FE2FAD57FFF7B1EB"
+				"size" "90B9B8926169608DB94210F127D8E208"
+				"download" "285A34812F2C7FC43372971041258112"
+			}
+			"input_system_rework"
+			{
+				"gid" "BB65F1492506C483B2FAC83995E2D3B0"
+				"size" "C374D12AB26C25AF504F65F75280B3D7"
+				"download" "DB09E13DC2AA044213E7C4248AD44407"
+			}
+			"localization_test"
+			{
+				"gid" "CF330C6A65576CA6A637D416691492AE"
+				"size" "9A4C1CDCADA91D58AB6A64622EF9DD93"
+				"download" "F0C3D9390DA370FA6608564B705033EC"
+			}
+			"private_beta"
+			{
+				"gid" "BCDFFEAC34938A690036CD9572FE6BE7"
+				"size" "06B3FA808FC8FA5CA793AF0ED307ABCA"
+				"download" "4FE80CB96DE4AE38F84E67505DBBE5F8"
+			}
+		}
+	}
+	"1232582"
+	{
+		"dlcappid" "1608610"
+	}
+	"1232583"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3715131210996360108"
+				"size" "19915289024"
+				"download" "5508702752"
+			}
+			"1.0973"
+			{
+				"gid" "6896800154665352501"
+				"size" "19770790379"
+				"download" "5464056816"
+			}
+			"1.0985"
+			{
+				"gid" "8633151382330360812"
+				"size" "19775530507"
+				"download" "5463786448"
+			}
+			"public_beta"
+			{
+				"gid" "7453595315401190071"
+				"size" "19768024729"
+				"download" "5460479392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "99C413BD38733D850D1FDCDCBCA821D2"
+				"size" "50A0E66B0F3E6E958BB586B3B7D08C4F"
+				"download" "9089C396DD62E777DFD2AF58E807A671"
+			}
+			"develop_new"
+			{
+				"gid" "1F41737B2BDC4A2D93563E8043BE7D1D"
+				"size" "2DEA01767465D9F19B6D47A555519A9A"
+				"download" "0F78C310498192D6A2478D4DDABC80FC"
+			}
+			"feature_battle_log"
+			{
+				"gid" "5E1DABCC8094A5CE0CE25517B8C733BF"
+				"size" "D4A6167E181EB9509BEABB961E676D07"
+				"download" "2E5D2054290CC02DFD87C1A426F71BB6"
+			}
+			"general_testing"
+			{
+				"gid" "539A38583FEA4A57FBE4E2E414CFA249"
+				"size" "4F73C00C3D3BC3061AEC4B6F01F8138D"
+				"download" "BFCF9DC02571EA117A68B88FA232DD90"
+			}
+			"global_events_rework"
+			{
+				"gid" "EF57C8B3E70E3F2E705321276C058FBA"
+				"size" "DF0768C0CC758B0C51667B588D2DB049"
+				"download" "A61F4F04416E27A489A425F27C2F2F79"
+			}
+			"input_system_rework"
+			{
+				"gid" "F557A152F968E6518148E54BE2151536"
+				"size" "54EB54CE49B530524DA476BA091FBE78"
+				"download" "DB2D41CE319E18B1A4BB71ED72100FDD"
+			}
+			"localization_test"
+			{
+				"gid" "BAA1BFA1799EFAAEABFB3E4B3D208C82"
+				"size" "7E722E6B125543168E5F34E9F72C5340"
+				"download" "E526818A51703FEC4A727B658D84D7EB"
+			}
+			"private_beta"
+			{
+				"gid" "5542A2130838249956CE6F4BCBF59ACA"
+				"size" "0A1A05F92E5A9E986E027FF8DE5FC5F6"
+				"download" "591E7A9B8B52991C5B7AD8CDAC5A9639"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16849063"
+			"timeupdated" "1735130451"
+		}
+		"prototype_test"
+		{
+			"buildid" "8565217"
+			"pwdrequired" "1"
+			"timeupdated" "1650032257"
+		}
+		"1.0973"
+		{
+			"buildid" "15916003"
+			"description" "previous version"
+			"timeupdated" "1729084022"
+		}
+		"1.0985"
+		{
+			"buildid" "16150000"
+			"description" " previous version"
+			"timeupdated" "1730287110"
+		}
+		"dev_test"
+		{
+			"buildid" "16235669"
+			"pwdrequired" "1"
+			"timeupdated" "1730287031"
+		}
+		"develop_new"
+		{
+			"buildid" "16812772"
+			"pwdrequired" "1"
+			"timeupdated" "1734690821"
+		}
+		"feature_battle_log"
+		{
+			"buildid" "16474845"
+			"pwdrequired" "1"
+			"timeupdated" "1732119302"
+		}
+		"general_testing"
+		{
+			"buildid" "16852686"
+			"pwdrequired" "1"
+			"timeupdated" "1735195312"
+		}
+		"global_events_rework"
+		{
+			"buildid" "16854961"
+			"pwdrequired" "1"
+			"timeupdated" "1735225594"
+		}
+		"input_system_rework"
+		{
+			"buildid" "16849515"
+			"pwdrequired" "1"
+			"timeupdated" "1735137048"
+		}
+		"localization_test"
+		{
+			"buildid" "16854961"
+			"pwdrequired" "1"
+			"timeupdated" "1735225605"
+		}
+		"private_beta"
+		{
+			"buildid" "15399155"
+			"pwdrequired" "1"
+			"timeupdated" "1723837233"
+		}
+		"public_beta"
+		{
+			"buildid" "16313689"
+			"description" "public beta branch"
+			"timeupdated" "1730893561"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedBoon/Knock"
+			"pattern" "SavesData.dt"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedBoon/Knock"
+			"pattern" "Achievements.dt"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedBoon/Knock/Save0"
+			"pattern" "*"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedBoon/Knock/Save1"
+			"pattern" "*"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedBoon/Knock/Save2"
+			"pattern" "*"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "RedBoon/Knock"
+			"pattern" "DefaultSettings.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26789380"
+"_sha" "c5c3d8d1fa8b1b81f7c445feed04b4543de73dc3"
+"_size" "10479"
