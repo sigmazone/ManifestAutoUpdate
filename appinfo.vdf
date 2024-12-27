@@ -100,6 +100,52 @@
 			"height_pct" "87.46141059130848"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "88.09801633605602"
+				"height_pct" "87.46141059130848"
+			}
+		}
+	}
 	"store_asset_mtime" "1699357715"
 	"associations"
 	{
@@ -212,24 +258,21 @@
 		{
 			"public"
 			{
+				"gid" "6674935113215343073"
+				"size" "13016533874"
+				"download" "12181457488"
+			}
+			"ver2.01"
+			{
+				"gid" "6309917388576409491"
+				"size" "9582950158"
+				"download" "8853385504"
+			}
+			"ver2.1"
+			{
 				"gid" "6342889491000316020"
 				"size" "9572115833"
 				"download" "8844844864"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"afo_1.0"
-			{
-				"gid" "0898A0CE6A87A56DE8F59B6076E70A21"
-				"size" "F8817E7D146B63C0DC0B9F874AA9228A"
-				"download" "0745CDF6D211EED130ACB5B2C0FE4A7D"
-			}
-			"test"
-			{
-				"gid" "8884F4CE3FA9CB5107BA3CC98CA6A91D"
-				"size" "65203B6FE788F1288B7852B1CF8B4A10"
-				"download" "01F1694A32B06C62D432D86093461A94"
 			}
 		}
 	}
@@ -237,22 +280,23 @@
 	{
 		"public"
 		{
-			"buildid" "13021781"
-			"timeupdated" "1703231647"
+			"buildid" "16804587"
+			"timeupdated" "1734926288"
 		}
-		"afo_1.0"
+		"ver2.01"
 		{
-			"buildid" "12672490"
-			"pwdrequired" "1"
-			"timeupdated" "1701226493"
+			"buildid" "12901056"
+			"description" "2.01版本的标记"
+			"timeupdated" "1734633126"
 		}
-		"test"
+		"ver2.1"
 		{
 			"buildid" "13021781"
-			"pwdrequired" "1"
-			"timeupdated" "1703173893"
+			"description" "2.1版本的标记"
+			"timeupdated" "1734633102"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -274,3 +318,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26758616"
+"_sha" "fcbff20ee00e356372f1cf986e47b24fe7d19b63"
+"_size" "5800"
