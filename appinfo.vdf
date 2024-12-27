@@ -1,0 +1,345 @@
+"appid" "2957700"
+"common"
+{
+	"name" "Sensei! I Like You So Much!"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"tchinese" "太太！我喜歡你！"
+		"schinese" "太太！我喜欢你！"
+		"japanese" "先生、新刊三冊くださいッ！"
+		"koreana" "존잘님! 좋아해요!"
+	}
+	"icon" "16737931564e8be52fe59de5aca8a03912a9a2ee"
+	"clienttga" "2daaa425a6bc882cd9bb10d3a879cb5a05d2cffd"
+	"clienticns" "1c53f6efa872f612a173f66c31a48f1f1f13f81d"
+	"linuxclienticon" "7370e42563d951da468c5ba3c0276a5fd031d56e"
+	"clienticon" "e2213537a0705ae648053d2c4c4f2fcfbc15f879"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734393600"
+		"tested_build_id" "16679625"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "cd55f2dedba226904a6f77c461145e80eb02ff61/capsule_231x87.jpg"
+		"schinese" "87b211c77dda83fbb92aec6ea6876aad850039f8/capsule_231x87_schinese.jpg"
+		"japanese" "c19f7523058d7f84114db18fc3ebf5a82d8be72f/capsule_231x87_japanese.jpg"
+		"koreana" "92de7144311749252b220939d52e2eedde85ca5b/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,ja,ko"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,ko,zh-cn,ja"
+		"library_header" "zh-cn,en,ko,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.319327731092436"
+			"height_pct" "57.638888888888886"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "29b3bb292780e12724feed1d4f0c5637c0eac015/library_600x900_schinese.jpg"
+				"english" "50e74a5cb6eb42448ef3b56d3afe24999fe4e679/library_600x900.jpg"
+				"japanese" "cf683c772d8eb24b36b55d33cb1563402fd84e85/library_600x900_japanese.jpg"
+				"koreana" "01bacfd8142f85b8e19eafa7c91055f2ed1e36ac/library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "29b3bb292780e12724feed1d4f0c5637c0eac015/library_600x900_schinese_2x.jpg"
+				"english" "50e74a5cb6eb42448ef3b56d3afe24999fe4e679/library_600x900_2x.jpg"
+				"japanese" "cf683c772d8eb24b36b55d33cb1563402fd84e85/library_600x900_japanese_2x.jpg"
+				"koreana" "01bacfd8142f85b8e19eafa7c91055f2ed1e36ac/library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "4983b57436035b5ee4e09f2b6fa932442775060a/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "4983b57436035b5ee4e09f2b6fa932442775060a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "4983b57436035b5ee4e09f2b6fa932442775060a/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.319327731092436"
+				"height_pct" "57.638888888888886"
+			}
+			"image"
+			{
+				"english" "85e7438e0601d941db58e764dc9d1b4b07e68c28/logo.png"
+				"koreana" "c6884b2d32b028f015cc9403895956cfdae59156/logo_koreana.png"
+				"schinese" "6349f602815b551fe9aba5726eb323669c45a027/logo_schinese.png"
+				"japanese" "b931bd9260cc95f9ea002e74ac354683dbc2df8e/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "85e7438e0601d941db58e764dc9d1b4b07e68c28/logo_2x.png"
+				"koreana" "c6884b2d32b028f015cc9403895956cfdae59156/logo_koreana_2x.png"
+				"schinese" "6349f602815b551fe9aba5726eb323669c45a027/logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "b81066a8a09c66832627def0873031237f26fe6e/library_header_schinese.jpg"
+				"english" "0cdf534c5e84124e7f3d93d9ce38d907cfc73cc3/library_header.jpg"
+				"koreana" "3fa89713a5b9a5f7cf8c49954fdd1b5efa70e3be/library_header_koreana.jpg"
+				"japanese" "2d760678da97941894c8466870bcb319629acd31/library_header_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "0cdf534c5e84124e7f3d93d9ce38d907cfc73cc3/library_header_2x.jpg"
+				"koreana" "3fa89713a5b9a5f7cf8c49954fdd1b5efa70e3be/library_header_koreana_2x.jpg"
+				"japanese" "2d760678da97941894c8466870bcb319629acd31/library_header_japanese_2x.jpg"
+				"schinese" "b81066a8a09c66832627def0873031237f26fe6e/library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732938474"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LaoO Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LaoO Studio"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Erabit"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732852222"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2957700"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "599"
+		"2" "122"
+		"3" "7208"
+		"4" "4195"
+		"5" "10235"
+		"6" "5984"
+		"7" "1742"
+		"8" "4747"
+		"9" "1654"
+		"10" "3871"
+		"11" "492"
+		"12" "4434"
+		"13" "4085"
+		"14" "4726"
+		"15" "1719"
+		"16" "3854"
+		"17" "5608"
+		"18" "4182"
+		"19" "31579"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "LaoO Studio"
+	"publisher" "LaoO Studio"
+}
+"config"
+{
+	"installdir" "Sensuki"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SenSuki.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,japanese"
+	"workshopdepot" "2957700"
+	"2957701"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8792727121167171644"
+				"size" "4274652042"
+				"download" "425354512"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16853875"
+			"timeupdated" "1735209754"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LaoOStudios\\SenSuki"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26787824"
+"_sha" "747c9c918734cc0a695d40b3600e5fa7cf25c6d7"
+"_size" "7868"
