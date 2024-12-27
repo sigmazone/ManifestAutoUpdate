@@ -362,6 +362,23 @@
 			}
 			"description" "Stormgate - Reduced Violence Staging"
 		}
+		"12"
+		{
+			"executable" "Stormgate.exe"
+			"arguments" "-noEOS -env stage -login steam"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "tournament_replay"
+			}
+			"description_loc"
+			{
+				"english" "Stormgate - Tournament Replay"
+			}
+			"description" "Stormgate - Tournament Replay"
+		}
 	}
 }
 "depots"
@@ -390,9 +407,9 @@
 		{
 			"public"
 			{
-				"gid" "3152215069758372681"
-				"size" "10378938262"
-				"download" "8862817472"
+				"gid" "4235715641455709308"
+				"size" "10378974287"
+				"download" "8862880480"
 			}
 		}
 	}
@@ -400,13 +417,13 @@
 	{
 		"public"
 		{
-			"buildid" "16817851"
-			"timeupdated" "1734732571"
+			"buildid" "16844351"
+			"timeupdated" "1735236685"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26740478"
-"_sha" "559a108ca3a266080b0219f800b7c8649cc3be5c"
-"_size" "7180"
+"_change_number" "26790917"
+"_sha" "f9987ee124a7d9a1ff8fa633e46ed826dfa29aed"
+"_size" "7543"
