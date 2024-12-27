@@ -1,0 +1,600 @@
+"appid" "582660"
+"common"
+{
+	"name" "Black Desert"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "1681572fb6e069703c88143f93090b929f009b90"
+	"clienticon" "d5f6888a790262ebca639f6eb8fedcfc9f24f268"
+	"icon" "bf5ccace0a692720984827bf042143d0d4b28a42"
+	"logo" "a95a8cfd91272ca751aecf3274e8d2687f9d8dc7"
+	"logo_small" "a95a8cfd91272ca751aecf3274e8d2687f9d8dc7_thumb"
+	"exfgls" "1"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "582660_eula_0"
+			"name" "Black Desert Online EULA"
+			"url" "https://store.steampowered.com//eula/582660_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1721865600"
+		"tested_build_id" "14690850"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Black Desert Online: Land of the Morning Light Edition"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "68da135eec25cdc8348a163b1f068e0004528b77/capsule_231x87.jpg"
+		"japanese" "613869e376c7a72b4641b64500855c7f7724c991/capsule_231x87_japanese.jpg"
+		"tchinese" "9e34ba8b5f96cc86ff917beaa570bb8ea77d026f/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.11557965081412"
+			"height_pct" "96.20042745191166"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "38835588622cefa84992c2ab0906adba6be80786/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "38835588622cefa84992c2ab0906adba6be80786/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "81ecf591488196bf62ec73f46690d02abd5b2e28/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "81ecf591488196bf62ec73f46690d02abd5b2e28/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "81ecf591488196bf62ec73f46690d02abd5b2e28/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.11557965081412"
+				"height_pct" "96.20042745191166"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "ef7a27eff69c642561b37bc2fe206fcbdde89a3b/logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1735065792"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pearl Abyss"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pearl Abyss"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_20" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1495641600"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/black-desert-online-land-of-the-morning-light-edition\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "582660"
+	"store_tags"
+	{
+		"0" "1754"
+		"1" "128"
+		"2" "1695"
+		"3" "122"
+		"4" "4747"
+		"5" "21"
+		"6" "1684"
+		"7" "19"
+		"8" "9"
+		"9" "4191"
+		"10" "4172"
+		"11" "3859"
+		"12" "1702"
+		"13" "4166"
+		"14" "4057"
+		"15" "599"
+		"16" "1775"
+		"17" "3920"
+		"18" "3993"
+		"19" "1678"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Pearl Abyss"
+	"publisher" "Pearl Abyss"
+	"homepage" "https://steam.playblackdesert.com"
+	"listofdlc" "624370,624371,780770,836630,836631,836632,990270,1108580,1108860,1108870,1108900,1108910,1108920,1172550,1172551,1172552,1172553,1198360,1198361,1198362,1198363,1198364,1199530,1199531,1199532,1218720,1221780,1258690,1258700,1258701,1322500,1322510,1322511,1322512,1324140,1324160,1344150,1344151,1344152,1344153,1478940,1478950,1478951,1478952,1478953,1480310,1480311,1480312,1480313,1480314,1480315,1480460,1480461,1480462,1480580,1481190,1481200,1481850,1555740,1555741,1555760,1616530,1620550,1620551"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Black Desert Online"
+	"replaceinstalledappid" "706220"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "BlackDesertLauncher.exe"
+			"arguments" "--steam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Black Desert Online with Steam Launcher"
+			}
+			"description" "Black Desert Online with Steam Launcher"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2146343654"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"baselanguages" "english,german,french"
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"582661"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8883285165515030099"
+				"size" "80776811418"
+				"download" "77121622928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "2EFCBD9BA4B35D91960B68A898DFCB3B"
+				"size" "EE40C4DECD5E5D61C2B7709EE93A37ED"
+				"download" "9C05DE6EB7F9DF7A67AFA3BF2D816524"
+			}
+			"pa_beta"
+			{
+				"gid" "F013962EDF4430A088760BA5C8574EDF"
+				"size" "7C9BBA8F3F0F488B0E2C8703D1425D55"
+				"download" "E8609966B44DC0FABB4F02703B17F496"
+			}
+		}
+	}
+	"582662"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1804192179163854731"
+				"size" "74052923958"
+				"download" "71044770272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "A728F043081FB28B7027CE0236CCF4FF"
+				"size" "A394D1BCD3AD4A0B0377E184D4C14245"
+				"download" "6D2E1F752C439A027293D42EAEDE6757"
+			}
+			"pa_beta"
+			{
+				"gid" "F6BF701CB96FD55E709B58B976542859"
+				"size" "D20F3DEDE847F432F11623F2A0ABE169"
+				"download" "E970FDD8D7C8A2915086F05342AEBBF9"
+			}
+		}
+	}
+	"582663"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3713599349073397007"
+				"size" "62225602766"
+				"download" "59477829696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "CEED014291FF85E607A34D30C4AC84EF"
+				"size" "1B494286B17CC2342DCA1D187AC78B95"
+				"download" "DD0C24B33738953E8C8B5E0001125383"
+			}
+			"pa_beta"
+			{
+				"gid" "552812DD56A0766D1BF3CBA074A453DF"
+				"size" "A1615E86988433D055DD449E2C7E0D5D"
+				"download" "D430CB3BED41F02E15F9EDC96B43D8FD"
+			}
+		}
+	}
+	"582664"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7105219149815562736"
+				"size" "62189090016"
+				"download" "59399211968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "B6F7461D161722366FD5AD14DDF29E15"
+				"size" "A081723A35939CB801E75BBAFFA8F654"
+				"download" "C6B39C2C41EA645552A533439D2E3A92"
+			}
+			"pa_beta"
+			{
+				"gid" "8A7E32A1313470D2F088917DE7A1FED9"
+				"size" "87A60E94D3C1811612F736C0AFD93FD6"
+				"download" "D81653121F475D013FEFEA2FF165939D"
+			}
+		}
+	}
+	"582665"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8225245233537744434"
+				"size" "74985704153"
+				"download" "71831153648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "18A67E27908367B435090B94C773FB37"
+				"size" "6E8B9150C8F441A7577098986271116F"
+				"download" "190CD8893A6F6C5CA49BFD2E1FA9AC31"
+			}
+			"pa_beta"
+			{
+				"gid" "B91279CE13B2EEC7EF4A226B52681B8D"
+				"size" "59BCC9AAC31C177DB0349ACFF3A525BC"
+				"download" "17D89E71376758E9FB6C9402CAF8DA1E"
+			}
+		}
+	}
+	"582666"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8972865007462362500"
+				"size" "78780152364"
+				"download" "75490346512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "BDFC977A6518779A869A582DA2C41CE4"
+				"size" "E4A3C6554B1D9576BF066F9C55B538FB"
+				"download" "979E33C149118636E217A10CB2E509D6"
+			}
+			"pa_beta"
+			{
+				"gid" "EC79C1699494A659C1F3C285AA52E540"
+				"size" "39BAED4D57B8353F3B548ADA6659BFD6"
+				"download" "DDBF83F9664C5552147D08D3E8B7B79C"
+			}
+		}
+	}
+	"582667"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5956685002581826429"
+				"size" "80887087735"
+				"download" "77468791312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "0BE4235BE44A4F83DCC0C57D88AA0C0A"
+				"size" "8F45CDF64643DB80E581D506244D3C8F"
+				"download" "D1CF77885765B2617BC7FA08B4EF3554"
+			}
+			"pa_beta"
+			{
+				"gid" "D537DA6C96B38860E804A41538837BD6"
+				"size" "007491F606970C5D75D57C262E05DACE"
+				"download" "1629DD1350D7426D18F11086C998A9D9"
+			}
+		}
+	}
+	"582668"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2523210614492313278"
+				"size" "74782585583"
+				"download" "71628165840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"pa_beta"
+			{
+				"gid" "3C89D31C4EC1037180147D8D43B38527"
+				"size" "FBDBA380DD1717B1DC37AA270654AAA4"
+				"download" "A2CC3493D1A88CC277FC083F7F530553"
+			}
+		}
+	}
+	"582669"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8273962180825003728"
+				"size" "75503202421"
+				"download" "71960720656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eac_test"
+			{
+				"gid" "FD676428DA8BB12085D6A87143B1D612"
+				"size" "CAE4F7DEC9589A3C63D0165F88D10D39"
+				"download" "D5166B14ED379603AF7E24BD2E33656C"
+			}
+			"pa_beta"
+			{
+				"gid" "AFC95665FC17502C3B44340336F27BC8"
+				"size" "D4CF45B47591D473EFB6F11CA0912A95"
+				"download" "FCAEFD32AC61461E9AD6079BD2BD9562"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16858674"
+			"timeupdated" "1735281658"
+		}
+		"eac_test"
+		{
+			"buildid" "11961203"
+			"pwdrequired" "1"
+			"timeupdated" "1692243302"
+		}
+		"pa_beta"
+		{
+			"buildid" "16858674"
+			"pwdrequired" "1"
+			"timeupdated" "1735280989"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10247680"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "26794560"
+"_sha" "bc451df5af92f9c29398ee22353e51fd3bb188c7"
+"_size" "12085"
