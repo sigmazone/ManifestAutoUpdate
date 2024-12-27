@@ -4,9 +4,9 @@
 	"name" "DREDGE"
 	"type" "Game"
 	"releasestate" "released"
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
 	"logo" "20795f0039dc7442f660dfc9569550a5286bb911"
 	"logo_small" "20795f0039dc7442f660dfc9569550a5286bb911_thumb"
 	"icon" "c8b352e87c28aa9ffe3a4641b230beb5064a49e6"
@@ -270,15 +270,15 @@
 		"8" "122"
 		"9" "599"
 		"10" "1721"
-		"11" "4182"
-		"12" "1667"
+		"11" "1667"
+		"12" "4182"
 		"13" "4252"
 		"14" "3978"
 		"15" "5186"
 		"16" "1742"
 		"17" "13577"
-		"18" "4191"
-		"19" "492"
+		"18" "492"
+		"19" "4191"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -355,12 +355,6 @@
 				"size" "04108F31437C2830FA61C702D0619C47"
 				"download" "2E468DAE769B6D61D5FB0C40A147E572"
 			}
-			"compatibility"
-			{
-				"gid" "0BB6051A38131805443B4EE2122957AA"
-				"size" "C67F993777BFCF67EB33ACAA0D1BE0FB"
-				"download" "B5F1A040F7891B7D92005C0EB7F8FF1F"
-			}
 			"demo"
 			{
 				"gid" "42EA33E5575C62D7024DED2370401FE1"
@@ -391,12 +385,6 @@
 				"size" "FE844A7C1834984A799DEC09DEF6FB62"
 				"download" "5D50D9F45F021F16C571332147BCB9A0"
 			}
-			"stage"
-			{
-				"gid" "8AEBC11FFBC0B839BC60DD9F127A12D5"
-				"size" "0AAD7C230DC1EA108089DF5B5BB50C32"
-				"download" "3C0D1EF6EA405988E642BC08F505A164"
-			}
 			"steam_deck_review"
 			{
 				"gid" "F11567B56ABBDC0D7A01DC7EA6287463"
@@ -421,6 +409,12 @@
 				"size" "6D33986C24F4BE5D363B6D50233DF6AD"
 				"download" "78D4C8BDAF4CEDA28AED868D94426DA1"
 			}
+			"compatibility"
+			{
+				"gid" "0FE8C8E79B876427FC4F60D188D9C0B1"
+				"size" "3F7A6BC61954202553C5BB2250111C36"
+				"download" "DF349D3AB34095B470A6D836FB8B2086"
+			}
 			"iron_rig_press"
 			{
 				"gid" "8A408C513C73B183450DF497263849E8"
@@ -429,9 +423,9 @@
 			}
 			"localization-qa"
 			{
-				"gid" "0E6A02B1CA344C446B8878F5623EE6B7"
-				"size" "BAB2F99043070A810B01D3A100A21EBA"
-				"download" "3918448C35651B9B3BBB7F3057F72AB6"
+				"gid" "58819AEBAE4C707D657EF98050E52EAA"
+				"size" "85DA0D855836D4AF0B72C3CCA361FF76"
+				"download" "6F6017960D93A672B93EF4C05407692B"
 			}
 			"milestone"
 			{
@@ -445,11 +439,17 @@
 				"size" "40C46957B4854E2E19704BC9259DE09C"
 				"download" "3BD8D7916BC31544502CCE618D233991"
 			}
+			"stage"
+			{
+				"gid" "496B2F826B23A81C3445DDDA72D3EE9E"
+				"size" "457C8C9978EB4AF16A95D7E767594D73"
+				"download" "51A30EAD9447A74384439F24C76FE897"
+			}
 			"test"
 			{
-				"gid" "240C5ED99002CBAE6C96668B9790256C"
-				"size" "8C4F7A47234ECF245B0D0A5C7F56FFB9"
-				"download" "E0F2F3A94F136F51438AF038C6FA6D69"
+				"gid" "A72828B4383ECB5166B72BC4828F6EFD"
+				"size" "2E9BA2AF47562FD1500E09D4C019FE1F"
+				"download" "B89E08CA27B17FEF1EC982B085C7EA7B"
 			}
 		}
 	}
@@ -515,6 +515,12 @@
 				"size" "E8F0FE8730EA11AD7941617ED2F42E19"
 				"download" "053A41115EEB15CC5E9009DDE57C8B34"
 			}
+			"compatibility"
+			{
+				"gid" "8CF004D2C035A36486110E9698177AB6"
+				"size" "89037A6DB2EB30CC197307BD18F40A6A"
+				"download" "445D1FBE682CEBEC5BAB3B4AABB4797E"
+			}
 			"iron_rig_press"
 			{
 				"gid" "E313618BFABDA8BD48826E49176DB33F"
@@ -556,14 +562,38 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "6090156787824508500"
+				"size" "812806542"
+				"download" "589759200"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"compatibility"
+			{
+				"gid" "3636E1E6B185369040286815E7DA66F7"
+				"size" "C07A11AF653DEDD1E159DA8F47BD363A"
+				"download" "4DA06F3D6ADBCF238C29EEC3651B1544"
+			}
+			"milestone"
+			{
+				"gid" "A4F048CACEF7244385706F9D26CAFE00"
+				"size" "F931B955435740BD834BBDF13C7FC2BF"
+				"download" "7BEDF499A7DF6DE3D18DD2063ABFB282"
+			}
+			"milestone-debug"
+			{
+				"gid" "64331AA999BA24CB4D59AA55C13B2AC7"
+				"size" "E1064D44CDEA163144CC31F03915D590"
+				"download" "095A306C16F8BEE1B8B73B5CF722008B"
+			}
 			"test"
 			{
-				"gid" "A5B9CC29D5B392E26B5013AC57228183"
-				"size" "113C5351E731ABF34C9E1A846CBAF1F1"
-				"download" "57E9F2FFD43993041E4276864BFF9C5D"
+				"gid" "0D138CFDC7D46F73EF76742D1D1DF074"
+				"size" "17F7C2385D0FCB0A7432EEC62CB6A7EE"
+				"download" "1EB68378AD67630B268CD461E69DA74A"
 			}
 		}
 	}
@@ -571,8 +601,8 @@
 	{
 		"public"
 		{
-			"buildid" "15610477"
-			"timeupdated" "1726667875"
+			"buildid" "16372155"
+			"timeupdated" "1734523835"
 		}
 		"1.2.0"
 		{
@@ -591,12 +621,6 @@
 			"buildid" "12367897"
 			"pwdrequired" "1"
 			"timeupdated" "1696535513"
-		}
-		"compatibility"
-		{
-			"buildid" "10779169"
-			"pwdrequired" "1"
-			"timeupdated" "1680597020"
 		}
 		"demo"
 		{
@@ -628,12 +652,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1685426251"
 		}
-		"stage"
-		{
-			"buildid" "11283386"
-			"pwdrequired" "1"
-			"timeupdated" "1686260568"
-		}
 		"steam_deck_review"
 		{
 			"buildid" "10810530"
@@ -658,6 +676,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1725570534"
 		}
+		"compatibility"
+		{
+			"buildid" "16046511"
+			"pwdrequired" "1"
+			"timeupdated" "1729001661"
+		}
 		"iron_rig_press"
 		{
 			"buildid" "15009218"
@@ -666,27 +690,33 @@
 		}
 		"localization-qa"
 		{
-			"buildid" "14514615"
+			"buildid" "15610480"
 			"pwdrequired" "1"
-			"timeupdated" "1716868931"
+			"timeupdated" "1728626749"
 		}
 		"milestone"
 		{
-			"buildid" "15610477"
+			"buildid" "16372155"
 			"pwdrequired" "1"
-			"timeupdated" "1725587678"
+			"timeupdated" "1731373198"
 		}
 		"milestone-debug"
 		{
-			"buildid" "15610480"
+			"buildid" "16371875"
 			"pwdrequired" "1"
-			"timeupdated" "1725587693"
+			"timeupdated" "1731373231"
+		}
+		"stage"
+		{
+			"buildid" "15686125"
+			"pwdrequired" "1"
+			"timeupdated" "1727185699"
 		}
 		"test"
 		{
-			"buildid" "15686126"
+			"buildid" "16371875"
 			"pwdrequired" "1"
-			"timeupdated" "1726200789"
+			"timeupdated" "1731437610"
 		}
 	}
 }
@@ -701,11 +731,29 @@
 			"root" "WinAppDataLocalLow"
 			"path" "Black Salt Games/DREDGE/saves"
 			"pattern" "*.bin"
-			"platforms"
-			{
-				"1" "Windows"
-			}
 			"recursive" "1"
 		}
 	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Black Salt Games/DREDGE/saves"
+					"replace" "Black Salt Games/DREDGE/saves"
+				}
+			}
+		}
+	}
 }
+"_missing_token" "False"
+"_change_number" "26719627"
+"_sha" "f936c1b4d4930f163762fe5b0e88645f3671a103"
+"_size" "15697"
