@@ -282,20 +282,20 @@
 		"12" "3871"
 		"13" "4106"
 		"14" "4026"
-		"15" "1742"
-		"16" "4791"
+		"15" "4791"
+		"16" "1742"
 		"17" "9204"
 		"18" "599"
 		"19" "3964"
 	}
 	"review_score" "9"
-	"review_percentage" "95"
+	"review_percentage" "96"
 }
 "extended"
 {
 	"developer" "Explosive Squat Games"
 	"publisher" "HypeTrain Digital"
-	"listofdlc" "3116710"
+	"listofdlc" "3116710,3391540"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -341,24 +341,21 @@
 		{
 			"public"
 			{
-				"gid" "1305881525292575774"
-				"size" "1000961434"
-				"download" "1008260512"
+				"gid" "5235584480246330094"
+				"size" "996689414"
+				"download" "1003984336"
+			}
+			"mapeditor"
+			{
+				"gid" "6656641058925911692"
+				"size" "995935234"
+				"download" "1003213296"
 			}
 			"test"
 			{
-				"gid" "1305881525292575774"
-				"size" "1000961434"
-				"download" "1008260512"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "2784DA67733699D78A5B0BEED5648678"
-				"size" "8E57EF8F6DFC4369E8032E6447AEABA6"
-				"download" "B6DF0A5ED590C46EC46A6D1B6E89A8D2"
+				"gid" "5235584480246330094"
+				"size" "996689414"
+				"download" "1003984336"
 			}
 		}
 	}
@@ -377,6 +374,12 @@
 				"size" "3185595509"
 				"download" "3194926464"
 			}
+			"mapeditor"
+			{
+				"gid" "6715036962973726204"
+				"size" "3185595509"
+				"download" "3194926464"
+			}
 			"test"
 			{
 				"gid" "6715036962973726204"
@@ -384,36 +387,29 @@
 				"download" "3194926464"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "53A154B22D3C8567B99581E920560A9C"
-				"size" "E41957D32BBD28D399AAA61BFC2FB8A5"
-				"download" "C808F1676641DC84656765EDFBF72A53"
-			}
-		}
 	}
+	"workshopdepot" "2608270"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16198074"
-			"timeupdated" "1730044755"
+			"buildid" "16869881"
+			"timeupdated" "1735470967"
 		}
-		"staging"
+		"mapeditor"
 		{
-			"buildid" "16198074"
-			"pwdrequired" "1"
-			"timeupdated" "1730044717"
+			"buildid" "16869902"
+			"description" "version 1.2.0 voluntary beta testing"
+			"timeupdated" "1735470796"
 		}
 		"test"
 		{
-			"buildid" "16198074"
+			"buildid" "16869881"
 			"description" "upcoming update voluntary testing"
-			"timeupdated" "1730044563"
+			"timeupdated" "1735470197"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -444,7 +440,7 @@
 		"2"
 		{
 			"root" "WinAppDataRoaming"
-			"path" "intravenous2/savegames/"
+			"path" "intravenous2/"
 			"pattern" "gamedata.iv"
 			"platforms"
 			{
@@ -454,6 +450,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25920033"
-"_sha" "10de4045329303c210466c546fc298447314337b"
-"_size" "7882"
+"_change_number" "26809771"
+"_sha" "72a7279a124bc30dbe498f05dd11d731f9b9f813"
+"_size" "7790"
