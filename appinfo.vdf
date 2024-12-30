@@ -322,7 +322,7 @@
 		}
 		"1"
 		{
-			"executable" "BuilderSimulator.app"
+			"executable" "Builder Simulator.app"
 			"type" "default"
 			"config"
 			{
@@ -337,15 +337,20 @@
 "depots"
 {
 	"hasdepotsindlc" "0"
+	"workshopdepot" "1120320"
 	"1120321"
 	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "2474236963564159077"
-				"size" "11860336507"
-				"download" "8754837152"
+				"gid" "5344678245033577517"
+				"size" "9429843444"
+				"download" "6607734784"
 			}
 		}
 		"encryptedmanifests"
@@ -412,9 +417,9 @@
 			}
 			"internaltests"
 			{
-				"gid" "B1573CB97C77BFA1315745C80DD5D821"
-				"size" "E44006187DCCE257404B628ACEBE68D6"
-				"download" "0446E0268AA45F56FABED11B24089D5B"
+				"gid" "425AE5217F2CD179245E9267A1809D70"
+				"size" "CE26836AA4AA28FE03E44BE6A78F23BA"
+				"download" "55FB1C37DE6E644720E0AA74F842D911"
 			}
 		}
 	}
@@ -441,15 +446,20 @@
 				"size" "28C58A4162810DD0361D727A355F29F6"
 				"download" "EFA112AD2F08ED6AC0C2FEF2C51A8172"
 			}
+			"internaltests"
+			{
+				"gid" "6BFD5B9A74328A17D0C81C486845AC1F"
+				"size" "AED312D6CE414647C8B88E4544DFEA2E"
+				"download" "150C61B0C11476C87DE8A2F482588973"
+			}
 		}
 	}
-	"workshopdepot" "1120320"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16785111"
-			"timeupdated" "1734518186"
+			"buildid" "16874870"
+			"timeupdated" "1735558161"
 		}
 		"antivirustests"
 		{
@@ -513,9 +523,9 @@
 		}
 		"internaltests"
 		{
-			"buildid" "16785111"
+			"buildid" "16875153"
 			"pwdrequired" "1"
-			"timeupdated" "1734517327"
+			"timeupdated" "1735561417"
 		}
 	}
 }
@@ -567,9 +577,33 @@
 			"path" "Projects\\Planner\\30x30"
 			"pattern" "*.dat"
 		}
+		"7"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator\\Save"
+			"pattern" "*.save"
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator\\Save"
+			"pattern" "*.jpg"
+		}
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator"
+			"pattern" "*.cfg"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen Way\\Builder Simulator"
+			"pattern" "*.dat"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26693185"
-"_sha" "f8ecd9181333ce3281b8b1ddb3d65ed1e8fa5de5"
-"_size" "11104"
+"_change_number" "26816991"
+"_sha" "b87e050cb28a6f9dd30e01455adc3e4edb8a80a8"
+"_size" "11817"
