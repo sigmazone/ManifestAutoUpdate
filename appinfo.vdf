@@ -5,7 +5,7 @@
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows"
-	"osarch" ""
+	"osarch" "64"
 	"eulas"
 	{
 	}
@@ -14,11 +14,12 @@
 	"icon" "773ed1ac3843892dad568ceb1ec26f49f05f9e42"
 	"logo" "6890b9962eb54c5256c6a12ff72edd9b4537d92f"
 	"logo_small" "6890b9962eb54c5256c6a12ff72edd9b4537d92f_thumb"
+	"osextended" ""
 	"content_descriptors"
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -89,6 +90,44 @@
 			"height_pct" "69"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "69"
+			}
+		}
+	}
 	"store_asset_mtime" "1572341634"
 	"associations"
 	{
@@ -120,6 +159,7 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -145,20 +185,20 @@
 		"3" "1695"
 		"4" "1662"
 		"5" "4175"
-		"6" "1643"
-		"7" "3839"
+		"6" "3839"
+		"7" "1643"
 		"8" "699"
 		"9" "4182"
-		"10" "493"
-		"11" "4136"
+		"10" "4136"
+		"11" "493"
 		"12" "3810"
 		"13" "4026"
 		"14" "1759"
 		"15" "1719"
 		"16" "492"
 		"17" "21"
-		"18" "1664"
-		"19" "10397"
+		"18" "3859"
+		"19" "1664"
 	}
 	"review_score" "8"
 	"review_percentage" "94"
@@ -200,15 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "334631432900238181"
-				"size" "902004445"
-				"download" "338183024"
-			}
-			"default_dx9"
-			{
-				"gid" "3034074463905691877"
-				"size" "902004445"
-				"download" "338183344"
+				"gid" "6973416485067612899"
+				"size" "906011222"
+				"download" "340011360"
 			}
 		}
 	}
@@ -216,14 +250,8 @@
 	{
 		"public"
 		{
-			"buildid" "12922607"
-			"timeupdated" "1702203696"
-		}
-		"default_dx9"
-		{
-			"buildid" "12922609"
-			"description" "DirectX 9 version of the game"
-			"timeupdated" "1702203672"
+			"buildid" "16874134"
+			"timeupdated" "1735565754"
 		}
 	}
 }
@@ -246,6 +274,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21474663"
-"_sha" "50eeeff910ecb621723598c8281c32855a955b44"
-"_size" "4462"
+"_change_number" "26817510"
+"_sha" "66325801f264ed531b748e8038669fa940376a7d"
+"_size" "4777"
