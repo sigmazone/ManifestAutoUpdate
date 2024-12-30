@@ -34,8 +34,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1682553600"
-		"tested_build_id" "11020199"
+		"test_timestamp" "1731715200"
+		"tested_build_id" "16284245"
 		"tests"
 		{
 			"0"
@@ -63,6 +63,11 @@
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
 		}
 		"configuration"
 		{
@@ -74,9 +79,10 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-8.0-1"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -375,15 +381,15 @@
 		{
 			"public"
 			{
-				"gid" "8654324330376617608"
-				"size" "1065544699"
-				"download" "338037984"
+				"gid" "1645719931824198358"
+				"size" "1065413291"
+				"download" "338008912"
 			}
 			"beta"
 			{
-				"gid" "8654324330376617608"
-				"size" "1065544699"
-				"download" "338037984"
+				"gid" "1645719931824198358"
+				"size" "1065413291"
+				"download" "338008912"
 			}
 		}
 	}
@@ -397,15 +403,15 @@
 		{
 			"public"
 			{
-				"gid" "398969304311208319"
-				"size" "1089409156"
-				"download" "345208768"
+				"gid" "4155428817886336251"
+				"size" "1089277748"
+				"download" "345181008"
 			}
 			"beta"
 			{
-				"gid" "398969304311208319"
-				"size" "1089409156"
-				"download" "345208768"
+				"gid" "4155428817886336251"
+				"size" "1089277748"
+				"download" "345181008"
 			}
 		}
 	}
@@ -419,15 +425,15 @@
 		{
 			"public"
 			{
-				"gid" "4780612650910898522"
-				"size" "1064049629"
-				"download" "336432064"
+				"gid" "5296900157257830781"
+				"size" "1063918221"
+				"download" "336403776"
 			}
 			"beta"
 			{
-				"gid" "4780612650910898522"
-				"size" "1064049629"
-				"download" "336432064"
+				"gid" "5296900157257830781"
+				"size" "1063918221"
+				"download" "336403776"
 			}
 		}
 	}
@@ -435,14 +441,14 @@
 	{
 		"public"
 		{
-			"buildid" "16466817"
-			"timeupdated" "1732074391"
+			"buildid" "16873243"
+			"timeupdated" "1735544931"
 		}
 		"beta"
 		{
-			"buildid" "16466817"
+			"buildid" "16873243"
 			"description" "Staging branch of Cardboard Town, usually full of bugs"
-			"timeupdated" "1732074370"
+			"timeupdated" "1735544913"
 		}
 	}
 }
@@ -480,6 +486,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26273036"
-"_sha" "3b2f05648d10fad8da4abe345188c9ca0b512c48"
-"_size" "9304"
+"_change_number" "26815364"
+"_sha" "41b5a9fc8d670f154124d4b5436d8fcb2d313118"
+"_size" "9453"
