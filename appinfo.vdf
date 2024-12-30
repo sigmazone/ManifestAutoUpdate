@@ -64,7 +64,8 @@
 		}
 	}
 	"metacritic_name" "Takelings House Party"
-	"controller_support" "full"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -85,7 +86,49 @@
 			"height_pct" "62.91854666350034"
 		}
 	}
-	"store_asset_mtime" "1670989005"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "74.65116279069764"
+				"height_pct" "62.91854666350034"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1729664905"
 	"associations"
 	{
 		"0"
@@ -111,12 +154,17 @@
 		"category_37" "1"
 		"category_39" "1"
 		"category_24" "1"
-		"category_28" "1"
 		"category_9" "1"
 		"category_44" "1"
 		"category_1" "1"
 		"category_49" "1"
 		"category_52" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
 		"category_54" "1"
 		"category_62" "1"
 	}
@@ -156,7 +204,7 @@
 		"19" "3968"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -205,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "7486272022278391959"
-				"size" "2831312808"
-				"download" "839672752"
+				"gid" "979477833760716620"
+				"size" "3506420876"
+				"download" "1085378016"
 			}
 			"hpreverbtests"
 			{
@@ -230,8 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "10445784"
-			"timeupdated" "1698297122"
+			"buildid" "16211937"
+			"timeupdated" "1730151966"
 		}
 		"closedbeta"
 		{
@@ -247,3 +295,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26603598"
+"_sha" "4830fcc0e3b0eee23988dc8f50a2a4e7b107ad73"
+"_size" "5364"
