@@ -1,82 +1,127 @@
 "appid" "2311990"
-	"common"
+"common"
+{
+	"name" "Rack and Slay"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "914b23a2ca73f2d2a4c8381c1d567bb2b61138cc"
+	"clienttga" "c7826ca4d8d1e6605c610d1152f450893c93c81d"
+	"clienticon" "bbaa5e1cfc469a282be8bd5fce7cd653566522a1"
+	"linuxclienticon" "99b3f112c6b4b1cc339683d873e9f285865ee158"
+	"name_localized"
 	{
-		"name" "Rack and Slay"
-		"type" "Game"
-		"releasestate" "released"
-		"oslist" "windows,macos,linux"
-		"osarch" ""
-		"osextended" "macos64,macosapplesilicon"
-		"icon" "914b23a2ca73f2d2a4c8381c1d567bb2b61138cc"
-		"clienttga" "c7826ca4d8d1e6605c610d1152f450893c93c81d"
-		"clienticon" "bbaa5e1cfc469a282be8bd5fce7cd653566522a1"
-		"linuxclienticon" "99b3f112c6b4b1cc339683d873e9f285865ee158"
-		"name_localized"
+		"schinese" "杀戮台球"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1719014400"
+		"tested_build_id" "14683134"
+		"tests"
 		{
-			"schinese" "杀戮台球"
-		}
-		"steam_deck_compatibility"
-		{
-			"category" "3"
-			"test_timestamp" "1719014400"
-			"tested_build_id" "14683134"
-			"tests"
+			"0"
 			{
-				"0"
-				{
-					"display" "4"
-					"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-				}
-				"1"
-				{
-					"display" "4"
-					"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-				}
-				"2"
-				{
-					"display" "4"
-					"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
-				}
-				"3"
-				{
-					"display" "4"
-					"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-				}
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
-			"configuration"
+			"1"
 			{
-				"supported_input" "gamepad"
-				"requires_manual_keyboard_invoke" "0"
-				"requires_non_controller_launcher_nav" "0"
-				"primary_player_is_controller_slot_0" "0"
-				"non_deck_display_glyphs" "0"
-				"small_text" "0"
-				"requires_internet_for_setup" "0"
-				"requires_internet_for_singleplayer" "0"
-				"recommended_runtime" "native"
-				"requires_h264" "0"
-				"gamescope_frame_limiter_not_supported" "0"
-				"hdr_support" "0"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
-		"controllertagwizard" "1"
-		"controller_support" "full"
-		"small_capsule"
+		"configuration"
 		{
-			"english" "capsule_231x87.jpg"
-			"schinese" "f5e42eb64e5ef664fc7f3bf1763a14e75dbbda99/capsule_231x87_schinese.jpg"
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
-		"header_image"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "f5e42eb64e5ef664fc7f3bf1763a14e75dbbda99/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
 		{
-			"english" "header.jpg"
-			"schinese" "header_schinese.jpg"
+			"pinned_position" "CenterCenter"
+			"width_pct" "46.38273045507586"
+			"height_pct" "89.13559724530984"
 		}
-		"library_assets"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
 		{
-			"library_capsule" "en,zh-cn"
-			"library_hero" "en"
-			"library_logo" "en,zh-cn"
-			"library_header" "en,zh-cn"
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "6dfc4c1efe1da16a8e1977cf359d873d6b4c2f50/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "6dfc4c1efe1da16a8e1977cf359d873d6b4c2f50/library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "5454f288d10f1ebdf5811c57afc4f7149b0f697b/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "5454f288d10f1ebdf5811c57afc4f7149b0f697b/logo_schinese_2x.png"
+			}
 			"logo_position"
 			{
 				"pinned_position" "CenterCenter"
@@ -84,330 +129,256 @@
 				"height_pct" "89.13559724530984"
 			}
 		}
-		"library_assets_full"
+		"library_header"
 		{
-			"library_capsule"
+			"image"
 			{
-				"image"
-				{
-					"english" "library_600x900.jpg"
-					"schinese" "6dfc4c1efe1da16a8e1977cf359d873d6b4c2f50/library_600x900_schinese.jpg"
-				}
-				"image2x"
-				{
-					"english" "library_600x900_2x.jpg"
-					"schinese" "6dfc4c1efe1da16a8e1977cf359d873d6b4c2f50/library_600x900_schinese_2x.jpg"
-				}
+				"english" "library_header.jpg"
+				"schinese" "7c5db8fde3373f0300c61bcf69e811c9f5cd9701/library_header_schinese.jpg"
 			}
-			"library_hero"
+			"image2x"
 			{
-				"image"
-				{
-					"english" "library_hero.jpg"
-				}
-				"image2x"
-				{
-					"english" "library_hero_2x.jpg"
-				}
-			}
-			"library_logo"
-			{
-				"image"
-				{
-					"english" "logo.png"
-					"schinese" "5454f288d10f1ebdf5811c57afc4f7149b0f697b/logo_schinese.png"
-				}
-				"image2x"
-				{
-					"english" "logo_2x.png"
-					"schinese" "5454f288d10f1ebdf5811c57afc4f7149b0f697b/logo_schinese_2x.png"
-				}
-				"logo_position"
-				{
-					"pinned_position" "CenterCenter"
-					"width_pct" "46.38273045507586"
-					"height_pct" "89.13559724530984"
-				}
-			}
-			"library_header"
-			{
-				"image"
-				{
-					"english" "library_header.jpg"
-					"schinese" "7c5db8fde3373f0300c61bcf69e811c9f5cd9701/library_header_schinese.jpg"
-				}
-				"image2x"
-				{
-					"schinese" "7c5db8fde3373f0300c61bcf69e811c9f5cd9701/library_header_schinese_2x.jpg"
-				}
+				"schinese" "7c5db8fde3373f0300c61bcf69e811c9f5cd9701/library_header_schinese_2x.jpg"
 			}
 		}
-		"store_asset_mtime" "1729235689"
-		"associations"
-		{
-			"0"
-			{
-				"type" "developer"
-				"name" "Ludokultur"
-			}
-			"1"
-			{
-				"type" "publisher"
-				"name" "2 Left Thumbs"
-			}
-		}
-		"primary_genre" "23"
-		"genres"
-		{
-			"0" "23"
-			"1" "3"
-			"2" "2"
-		}
-		"category"
-		{
-			"category_2" "1"
-			"category_22" "1"
-			"category_23" "1"
-			"category_28" "1"
-			"category_62" "1"
-		}
-		"supported_languages"
-		{
-			"english"
-			{
-				"supported" "true"
-			}
-			"french"
-			{
-				"supported" "true"
-			}
-			"german"
-			{
-				"supported" "true"
-			}
-			"japanese"
-			{
-				"supported" "true"
-			}
-			"brazilian"
-			{
-				"supported" "true"
-			}
-			"schinese"
-			{
-				"supported" "true"
-			}
-			"italian"
-			{
-				"supported" "true"
-			}
-		}
-		"steam_release_date" "1716814696"
-		"community_visible_stats" "1"
-		"community_hub_visible" "1"
-		"gameid" "2311990"
-		"store_tags"
-		{
-			"0" "1716"
-			"1" "17927"
-			"2" "1720"
-			"3" "3959"
-			"4" "9"
-			"5" "3871"
-			"6" "4711"
-			"7" "1708"
-			"8" "1741"
-			"9" "14139"
-			"10" "5125"
-			"11" "4791"
-			"12" "1759"
-			"13" "4236"
-			"14" "42804"
-			"15" "1091588"
-			"16" "492"
-			"17" "32322"
-			"18" "122"
-			"19" "4182"
-		}
-		"review_score" "8"
-		"review_percentage" "92"
 	}
-	"extended"
+	"store_asset_mtime" "1729235689"
+	"associations"
 	{
-		"developer" "Ludokultur"
-		"publisher" "2 Left Thumbs"
-		"homepage" "https://www.fischergamedesign.com/games-portfolio/rack-and-slay"
-	}
-	"config"
-	{
-		"installdir" "Rack and Slay"
-		"launch"
+		"0"
 		{
-			"0"
-			{
-				"executable" "Rack and Slay.exe"
-				"config"
-				{
-					"oslist" "windows"
-				}
-			}
-			"1"
-			{
-				"executable" "RackAndSlay.x86_64"
-				"config"
-				{
-					"oslist" "linux"
-				}
-			}
-			"2"
-			{
-				"executable" "Contents\\MacOS\\Rack and Slay"
-				"config"
-				{
-					"oslist" "macos"
-				}
-			}
+			"type" "developer"
+			"name" "Ludokultur"
 		}
-		"steamdecktouchscreen" "1"
-		"steamcontrollertemplateindex" "4"
-		"steamconfigurator3rdpartynative" "65533"
-	}
-	"depots"
-	{
-		"2311991"
+		"1"
 		{
+			"type" "publisher"
+			"name" "2 Left Thumbs"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1716814696"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2311990"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "17927"
+		"2" "1720"
+		"3" "3959"
+		"4" "9"
+		"5" "3871"
+		"6" "4711"
+		"7" "1708"
+		"8" "1741"
+		"9" "14139"
+		"10" "5125"
+		"11" "4791"
+		"12" "1759"
+		"13" "4236"
+		"14" "42804"
+		"15" "1091588"
+		"16" "492"
+		"17" "32322"
+		"18" "122"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Ludokultur"
+	"publisher" "2 Left Thumbs"
+	"homepage" "https://www.fischergamedesign.com/games-portfolio/rack-and-slay"
+}
+"config"
+{
+	"installdir" "Rack and Slay"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rack and Slay.exe"
 			"config"
 			{
 				"oslist" "windows"
 			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid" "3349129702087557448"
-					"size" "695609110"
-					"download" "116965120"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"itbeta"
-				{
-					"gid" "1CF206A3A640A90CD5854054B604AD1B"
-					"size" "9919EFCB817D3A61F36280D45C854E5D"
-					"download" "6EACC6932BB97B1FEC64025BA961B4AB"
-				}
-			}
 		}
-		"2311992"
+		"1"
 		{
+			"executable" "RackAndSlay.x86_64"
 			"config"
 			{
 				"oslist" "linux"
 			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid" "8497115323834195014"
-					"size" "728365650"
-					"download" "121754256"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"itbeta"
-				{
-					"gid" "3D42F4177EC44C70CB394B4EC1D0D2DE"
-					"size" "6A428945A8AFCFABD631CC8EA355ADA6"
-					"download" "7FF019FF94A56C7916CE20D773834A28"
-				}
-			}
 		}
-		"2311993"
+		"2"
 		{
+			"executable" "Contents\\MacOS\\Rack and Slay"
 			"config"
 			{
 				"oslist" "macos"
 			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid" "8801325647867421259"
-					"size" "719615654"
-					"download" "124297376"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"itbeta"
-				{
-					"gid" "6B5935885360ABD705D26EC9142F406F"
-					"size" "CB1507269823B77CE96ABAE65133B7E7"
-					"download" "009533C2DDAE265B2F252B7B82F21046"
-				}
-			}
 		}
-		"branches"
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"2311991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
 		{
 			"public"
 			{
-				"buildid" "16457840"
-				"timeupdated" "1732017692"
-			}
-			"itbeta"
-			{
-				"buildid" "16457840"
-				"pwdrequired" "1"
-				"timeupdated" "1732017670"
+				"gid" "2129715138309222763"
+				"size" "737631574"
+				"download" "122138880"
 			}
 		}
 	}
-	"ufs"
+	"2311992"
 	{
-		"quota" "1000000"
-		"maxnumfiles" "10"
-		"savefiles"
+		"config"
 		{
-			"0"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"root" "WinAppDataLocalLow"
-				"path" "Ludokultur/Rack and Slay"
-				"pattern" "*.sav"
+				"gid" "866901153409540934"
+				"size" "770388114"
+				"download" "126933072"
 			}
 		}
-		"rootoverrides"
+	}
+	"2311993"
+	{
+		"config"
 		{
-			"0"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"root" "WinAppDataLocalLow"
-				"os" "MacOS"
-				"oscompare" "="
-				"useinstead" "MacAppSupport"
-				"pathtransforms"
+				"gid" "702394439604929201"
+				"size" "761638118"
+				"download" "129482048"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16787699"
+			"timeupdated" "1734616728"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Ludokultur/Rack and Slay"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
 				{
-					"0"
-					{
-						"find" "Ludokultur/Rack and Slay"
-						"replace" "Ludokultur/Rack and Slay"
-					}
+					"find" "Ludokultur/Rack and Slay"
+					"replace" "Ludokultur/Rack and Slay"
 				}
 			}
-			"1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
 			{
-				"root" "WinAppDataLocalLow"
-				"os" "Linux"
-				"oscompare" "="
-				"useinstead" "LinuxHome"
-				"pathtransforms"
+				"0"
 				{
-					"0"
-					{
-						"find" "Ludokultur/Rack and Slay"
-						"replace" ".config/unity3d/Ludokultur/Rack and Slay"
-					}
+					"find" "Ludokultur/Rack and Slay"
+					"replace" ".config/unity3d/Ludokultur/Rack and Slay"
 				}
 			}
 		}
 	}
+}
+"_missing_token" "False"
+"_change_number" "26714586"
+"_sha" "3384acd36855155d34e7b9946f54ca0d30cbe5d3"
+"_size" "6861"
