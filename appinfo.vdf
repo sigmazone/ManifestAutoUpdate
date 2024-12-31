@@ -103,6 +103,46 @@
 			"height_pct" "91.40124079791025"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "58.578483096273146"
+				"height_pct" "91.40124079791025"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1666064290"
 	"associations"
 	{
@@ -114,12 +154,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Thermite Games"
+			"name" "Gratesca"
 		}
 		"2"
 		{
 			"type" "franchise"
-			"name" "Thermite Games"
+			"name" "Gratesca Works"
 		}
 	}
 	"primary_genre" "25"
@@ -137,6 +177,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -145,6 +186,11 @@
 			"supported" "true"
 			"subtitles" "true"
 			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1629216051"
@@ -159,8 +205,8 @@
 		"3" "24003"
 		"4" "1742"
 		"5" "4486"
-		"6" "4085"
-		"7" "7208"
+		"6" "7208"
+		"7" "4085"
 		"8" "4726"
 		"9" "492"
 		"10" "21"
@@ -175,12 +221,12 @@
 		"19" "6378"
 	}
 	"review_score" "9"
-	"review_percentage" "98"
+	"review_percentage" "97"
 }
 "extended"
 {
 	"developer" "Gratesca"
-	"publisher" "Thermite Games"
+	"publisher" "Gratesca"
 	"homepage" "https://weibo.com/hongchagames"
 	"listofdlc" "1925870"
 	"dlcavailableonstore" "1"
@@ -217,45 +263,120 @@
 }
 "depots"
 {
-	"branches"
-	{
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-		}
-		"public"
-		{
-			"buildid" "10698944"
-			"timeupdated" "1678251396"
-		}
-		"develop"
-		{
-			"buildid" "10698944"
-			"pwdrequired" "1"
-			"timeupdated" "1678090029"
-		}
-	}
-	"baselanguages" "schinese"
+	"baselanguages" "english,schinese"
 	"hasdepotsindlc" "1"
 	"1250761"
 	{
+		"config"
+		{
+			"language" "schinese"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "2155160600375691047"
-				"size" "1592263484"
-				"download" "1480103904"
+				"gid" "4952909166252602253"
+				"size" "1633388490"
+				"download" "1506185296"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"develop"
 			{
-				"gid" "A6BC791394BF697D13E5BFED6326D20E"
-				"size" "6C10D984483EBE3C0FDA8DD4448D4F47"
-				"download" "342152C911B483E7A3BBC399EF3DFDBF"
+				"gid" "3237322C1D32831BD1F362D191AE1E3D"
+				"size" "A9E202EA7BF885D68819D4E04712C622"
+				"download" "9EF68806B0E768611B43754C4D3551A0"
 			}
+		}
+	}
+	"1250764"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4163575527883290584"
+				"size" "1633405868"
+				"download" "1506192464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "9E6B902A12B2246A6C473F4A2AA0582E"
+				"size" "D5F0F2ED94347BA1F6A1F1199A5F44D0"
+				"download" "33E545DD5252B85DD02E99D5EB1F25F6"
+			}
+		}
+	}
+	"1250763"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7051686744054178414"
+				"size" "1568218889"
+				"download" "1435078112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "A3A078C0B80DEC6B45191E59E2C87AED"
+				"size" "C71AD00018A76D3292D8D182219DC57E"
+				"download" "55EEBEF6F20236CD00F50A23D0BCB86A"
+			}
+		}
+	}
+	"1250762"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8366341737943207069"
+				"size" "1566652271"
+				"download" "1435395600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "42190308C27A43579506C9F5B15A3CF3"
+				"size" "96C3777969821BB318E808D5F9DCA5A1"
+				"download" "B718214A6F29D477A837A399DA8FE06E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16859081"
+			"timeupdated" "1735612388"
+		}
+		"develop"
+		{
+			"buildid" "16859081"
+			"pwdrequired" "1"
+			"timeupdated" "1735286384"
 		}
 	}
 }
@@ -280,6 +401,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21439735"
-"_sha" "85f5a8ff7edd2d8939484aaab90d0ac3f9d7d753"
-"_size" "5568"
+"_change_number" "26822628"
+"_sha" "7cf924b9ee9ad3221cd33aa8df423885b565aaf8"
+"_size" "7687"
