@@ -140,18 +140,6 @@
 		{
 			"supported" "true"
 		}
-		"japanese"
-		{
-			"supported" "true"
-		}
-		"schinese"
-		{
-			"supported" "true"
-		}
-		"tchinese"
-		{
-			"supported" "true"
-		}
 	}
 	"steam_release_date" "1624611601"
 	"community_hub_visible" "1"
@@ -187,7 +175,7 @@
 	{
 		"0"
 		{
-			"executable" "HmmsimClient.exe"
+			"executable" "HmmsimMetro.exe"
 			"type" "default"
 			"config"
 			{
@@ -230,15 +218,21 @@
 		{
 			"public"
 			{
-				"gid" "2092893200575157891"
-				"size" "4903432161"
-				"download" "1332996224"
+				"gid" "1885553382647487790"
+				"size" "2304837273"
+				"download" "2062463648"
 			}
 			"beta"
 			{
-				"gid" "2218901825257488547"
-				"size" "2306611539"
-				"download" "2073945232"
+				"gid" "1885553382647487790"
+				"size" "2304837273"
+				"download" "2062463648"
+			}
+			"legacy"
+			{
+				"gid" "2092893200575157891"
+				"size" "4903432161"
+				"download" "1332996224"
 			}
 		}
 	}
@@ -246,14 +240,24 @@
 	{
 		"public"
 		{
-			"buildid" "10900916"
-			"timeupdated" "1680256373"
+			"buildid" "16881155"
+			"timeupdated" "1735643556"
 		}
 		"beta"
 		{
-			"buildid" "15627015"
+			"buildid" "16881155"
 			"description" "Beta"
-			"timeupdated" "1725738454"
+			"timeupdated" "1735643464"
+		}
+		"legacy"
+		{
+			"buildid" "10900916"
+			"description" "Legacy"
+			"timeupdated" "1735656636"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26826509"
+"_sha" "012d65d2ea8591087e6301a8cb4ba9a90ec99849"
+"_size" "4488"
