@@ -22,6 +22,8 @@
 	{
 		"spanish" "Hipnotizando a mi Jefa Malvada"
 		"latam" "Hipnotizando a mi Jefa Malvada"
+		"schinese" "催眠！骚货女上司"
+		"tchinese" "催眠！骚货女上司"
 	}
 	"content_descriptors"
 	{
@@ -37,16 +39,20 @@
 		"english" "capsule_231x87.jpg"
 		"spanish" "capsule_231x87_spanish.jpg"
 		"latam" "capsule_231x87_latam.jpg"
+		"schinese" "f69be8d5f614589784ab75b684143f461430c60a/capsule_231x87_schinese.jpg"
+		"tchinese" "f69be8d5f614589784ab75b684143f461430c60a/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"spanish" "header_spanish.jpg"
 		"latam" "header_latam.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,es,es-419"
+		"library_capsule" "en,es,es-419,zh-tw,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en,es,es-419"
 		"logo_position"
@@ -65,12 +71,16 @@
 				"english" "library_600x900.jpg"
 				"spanish" "library_600x900_spanish.jpg"
 				"latam" "library_600x900_latam.jpg"
+				"tchinese" "8c29ef0031301c3c7ee2d70afc7e90b5b7d47716/library_600x900_tchinese.jpg"
+				"schinese" "8c29ef0031301c3c7ee2d70afc7e90b5b7d47716/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
 				"spanish" "library_600x900_spanish_2x.jpg"
 				"latam" "library_600x900_latam_2x.jpg"
+				"tchinese" "8c29ef0031301c3c7ee2d70afc7e90b5b7d47716/library_600x900_tchinese_2x.jpg"
+				"schinese" "8c29ef0031301c3c7ee2d70afc7e90b5b7d47716/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -96,7 +106,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1610651157"
+	"store_asset_mtime" "1730948743"
 	"associations"
 	{
 		"0"
@@ -152,6 +162,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1597439164"
 	"community_visible_stats" "1"
@@ -181,7 +201,7 @@
 		"19" "1663"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "60"
 }
 "extended"
 {
@@ -239,18 +259,18 @@
 		{
 			"public"
 			{
-				"gid" "2928104304180945499"
-				"size" "542420639"
-				"download" "452895168"
+				"gid" "6844391737939583467"
+				"size" "604592610"
+				"download" "497501632"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "F6F621DEABE197C5AAD6655060367B60"
-				"size" "1B72ABD3923FD05F0AB3625D58E376F7"
-				"download" "0485EDFEB071F4A8D9D75E36DD4D47DE"
+				"gid" "5D6E2EE8F1CCCD239D705AFBCBC9F872"
+				"size" "2A3F847660F9E52257E6FD60DA5F5220"
+				"download" "0DF6B58A3367BCF78511CD46B446B4EF"
 			}
 		}
 	}
@@ -284,14 +304,18 @@
 	{
 		"public"
 		{
-			"buildid" "6006106"
-			"timeupdated" "1609198646"
+			"buildid" "15985636"
+			"timeupdated" "1730917805"
 		}
 		"testing"
 		{
-			"buildid" "6006106"
+			"buildid" "15985636"
 			"pwdrequired" "1"
-			"timeupdated" "1608709199"
+			"timeupdated" "1728505816"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26755361"
+"_sha" "a35308a7efe3432a45350912f9d7acd8289977bc"
+"_size" "5980"
