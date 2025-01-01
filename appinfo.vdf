@@ -35,6 +35,47 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.19073569482288"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1707427516"
 	"associations"
 	{
@@ -81,6 +122,7 @@
 		"category_58" "1"
 		"category_59" "1"
 		"category_60" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -98,8 +140,8 @@
 	{
 		"0" "1695"
 		"1" "4840"
-		"2" "7368"
-		"3" "3810"
+		"2" "3810"
+		"3" "7368"
 		"4" "3814"
 		"5" "5652"
 		"6" "252854"
@@ -110,15 +152,15 @@
 		"11" "19"
 		"12" "1625"
 		"13" "3968"
-		"14" "10816"
-		"15" "1773"
+		"14" "1773"
+		"15" "10816"
 		"16" "1671"
 		"17" "3841"
 		"18" "21"
 		"19" "599"
 	}
-	"review_score" "8"
-	"review_percentage" "81"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -206,24 +248,24 @@
 		{
 			"public"
 			{
-				"gid" "8380547442226109673"
-				"size" "24994898615"
-				"download" "5942139872"
+				"gid" "4405900920565113191"
+				"size" "19362515445"
+				"download" "7214129104"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"fayju_closed_testing"
 			{
-				"gid" "F31EAB9D1063673F508A2C20765053C4"
-				"size" "2978DF3F02384D4B505D060D6D9BB2BC"
-				"download" "526FE4062CE068B7F1E2A6A2E6FB851F"
+				"gid" "12D1712C380A6F018562B81994C46A81"
+				"size" "32DEF1759B20F17B503611018CB91E28"
+				"download" "8AFF6F404D6EFC85C7C3DEEC7769B72F"
 			}
 			"fayju_secret_beta_branch"
 			{
-				"gid" "F10FB46D3193C67804F263302F3C4177"
-				"size" "C958784A056958DB1BAC485379C45FF9"
-				"download" "852B6C3ECC31B299F5F69972F4C37726"
+				"gid" "15F0754DBFF25394A3E500C6193CD041"
+				"size" "4B606B68E68893B14AB4BC8FE9B86684"
+				"download" "EAC7D469F9AB1AEF3B3ED9420067CA29"
 			}
 		}
 	}
@@ -325,20 +367,20 @@
 	{
 		"public"
 		{
-			"buildid" "13902004"
-			"timeupdated" "1711811817"
+			"buildid" "16883075"
+			"timeupdated" "1735670188"
 		}
 		"fayju_closed_testing"
 		{
-			"buildid" "13902004"
+			"buildid" "16883075"
 			"pwdrequired" "1"
-			"timeupdated" "1711799546"
+			"timeupdated" "1735669989"
 		}
 		"fayju_secret_beta_branch"
 		{
-			"buildid" "13902004"
+			"buildid" "16883075"
 			"pwdrequired" "1"
-			"timeupdated" "1711799633"
+			"timeupdated" "1735669998"
 		}
 	}
 }
@@ -348,6 +390,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22971875"
-"_sha" "9d378d04d380651076018d696a7bb52fac2f35e1"
-"_size" "6539"
+"_change_number" "26827795"
+"_sha" "49a39a8d60ddaa3be85337280bf8f4bbdf895ba1"
+"_size" "7142"
