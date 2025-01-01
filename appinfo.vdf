@@ -22,29 +22,34 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1723248000"
-		"tested_build_id" "15186646"
+		"test_timestamp" "1732924800"
+		"tested_build_id" "16534902"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 			}
 			"1"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"2"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -52,8 +57,8 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
@@ -204,8 +209,8 @@
 		"0" "597"
 		"1" "4726"
 		"2" "12095"
-		"3" "1664"
-		"4" "24904"
+		"3" "24904"
+		"4" "1664"
 		"5" "6815"
 		"6" "6650"
 		"7" "4085"
@@ -278,15 +283,15 @@
 		{
 			"public"
 			{
-				"gid" "4407467448827147745"
-				"size" "427144392"
-				"download" "372785840"
+				"gid" "3655431609125661805"
+				"size" "433705320"
+				"download" "379295152"
 			}
 			"beta"
 			{
-				"gid" "4407467448827147745"
-				"size" "427144392"
-				"download" "372785840"
+				"gid" "3655431609125661805"
+				"size" "433705320"
+				"download" "379295152"
 			}
 		}
 	}
@@ -300,15 +305,15 @@
 		{
 			"public"
 			{
-				"gid" "1341166096558089309"
-				"size" "433739184"
-				"download" "374507872"
+				"gid" "4803110366836346363"
+				"size" "440300112"
+				"download" "381017168"
 			}
 			"beta"
 			{
-				"gid" "1341166096558089309"
-				"size" "433739184"
-				"download" "374507872"
+				"gid" "4803110366836346363"
+				"size" "440300112"
+				"download" "381017168"
 			}
 		}
 	}
@@ -322,15 +327,15 @@
 		{
 			"public"
 			{
-				"gid" "4104063875246822807"
-				"size" "498692602"
-				"download" "387888288"
+				"gid" "4536038527159935696"
+				"size" "505253530"
+				"download" "394397632"
 			}
 			"beta"
 			{
-				"gid" "4104063875246822807"
-				"size" "498692602"
-				"download" "387888288"
+				"gid" "4536038527159935696"
+				"size" "505253530"
+				"download" "394397632"
 			}
 		}
 	}
@@ -338,14 +343,14 @@
 	{
 		"public"
 		{
-			"buildid" "16534902"
-			"timeupdated" "1732611055"
+			"buildid" "16880586"
+			"timeupdated" "1735636683"
 		}
 		"beta"
 		{
-			"buildid" "16534902"
+			"buildid" "16880586"
 			"description" "Live distribution staging branch"
-			"timeupdated" "1732610548"
+			"timeupdated" "1735636536"
 		}
 	}
 }
@@ -390,6 +395,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26365697"
-"_sha" "f67adc352d1c75395c02ce3e5fd0c51dceab3911"
-"_size" "6746"
+"_change_number" "26824501"
+"_sha" "70cc16404090f30c75fe9216c37a76d5886dbbe8"
+"_size" "6885"
