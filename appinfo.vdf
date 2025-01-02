@@ -19,9 +19,7 @@
 		"2" "5"
 		"3" "4"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"restricted_countries" "CN"
+	"restricted_countries" "CN,DE"
 	"metacritic_name" "Hentai Balloons"
 	"small_capsule"
 	{
@@ -43,7 +41,45 @@
 			"height_pct" "61.01876038945618"
 		}
 	}
-	"store_asset_mtime" "1607844034"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "92.67441860465117"
+				"height_pct" "61.01876038945618"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1622523849"
 	"associations"
 	{
 		"0"
@@ -66,6 +102,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -94,12 +131,14 @@
 		"11" "1664"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "78"
 }
 "extended"
 {
 	"developer" "Reddiamondgames"
 	"publisher" "Reddiamondgames"
+	"listofdlc" "3167380"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -119,15 +158,16 @@
 }
 "depots"
 {
+	"hasdepotsindlc" "1"
 	"1160411"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3643548910967124352"
-				"size" "182593888"
-				"download" "180693296"
+				"gid" "7897193683573886395"
+				"size" "183583911"
+				"download" "181167280"
 			}
 		}
 	}
@@ -135,12 +175,12 @@
 	{
 		"public"
 		{
-			"buildid" "5960953"
-			"timeupdated" "1607839843"
+			"buildid" "15496969"
+			"timeupdated" "1724699980"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "21680786"
-"_sha" "e21f0cd7f0b7ee4a636e9dfaa0574a992494f2c8"
-"_size" "2356"
+"_change_number" "26421122"
+"_sha" "4dcf3fcd4123d483e9e1549fd50fcde786b37f6a"
+"_size" "2962"
