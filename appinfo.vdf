@@ -171,11 +171,47 @@
 		"category_17" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_13" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
 	{
 		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
 		{
 			"supported" "true"
 			"full_audio" "true"
@@ -238,18 +274,18 @@
 		{
 			"public"
 			{
-				"gid" "5670219411800495355"
-				"size" "1648478987"
-				"download" "880095920"
+				"gid" "281646699138790620"
+				"size" "2787558868"
+				"download" "1428547056"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"private"
 			{
-				"gid" "550BE05CC7DB505689201DA4BCF84392"
-				"size" "FD15EFFFD3D49A0477996FC38142CE18"
-				"download" "4C38D6477F8828248C5820286ECD7218"
+				"gid" "4B4FA132AE080CE95AE3A96A174C5103"
+				"size" "D8DC75D3E073534CE27B319F4130FC7C"
+				"download" "F7535F5CD0C0E51359B37BA50B17A589"
 			}
 		}
 	}
@@ -259,14 +295,14 @@
 	{
 		"public"
 		{
-			"buildid" "15701691"
-			"timeupdated" "1726320117"
+			"buildid" "16888054"
+			"timeupdated" "1735770430"
 		}
 		"private"
 		{
-			"buildid" "15701691"
+			"buildid" "16888054"
 			"pwdrequired" "1"
-			"timeupdated" "1726320135"
+			"timeupdated" "1735770440"
 		}
 	}
 }
@@ -308,27 +344,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statusmainmenu" "Main Menu"
-				"#statussingleplayer" "Singleplayer"
-				"#statussingleplayer_endgame" "{#StatusSinglePlayer}: [Game %wonlost%]"
-				"#statussingleplayer_staging" "{#StatusSinglePlayer}: Setting up a match"
-				"#statussingleplayer_ingame_skirmish" "[{#StatusSinglePlayer} - %time%] %clan% | %XvY% | %map% | KDR: %KDR%"
-				"#statussingleplayer_ingame_story" "[%time%] %campaign_type%"
-				"#statussingleplayer_ingame_story_clan" "{#StatusSinglePlayer_InGame_Story} (%clan% Clan)"
-				"#statusmultiplayer" "Multiplayer"
-				"#statusmultiplayer_endgame" "{#StatusMultiplayer}: [Game %wonlost%]"
-				"#statusmultiplayer_browsing" "{#StatusMultiplayer}: Browsing lobbies..."
-				"#statusmultiplayer_staging" "{#StatusMultiplayer}: Lobby [%playercount%/%freeslots%] | %map%"
-				"#statusmultiplayer_ingame" "[{#StatusMultiplayer} - %time%] %clan% | %XvY% | %map% | KDR: %KDR%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26839993"
+"_sha" "8fea58d635eea0b58cf39cb5b775d44a52fb507b"
+"_size" "6234"
