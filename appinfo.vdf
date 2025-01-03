@@ -153,7 +153,7 @@
 		"19" "9"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -181,6 +181,17 @@
 			"description" "Launch"
 		}
 	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3387840716"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,testbranch,unstable"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -195,15 +206,15 @@
 		{
 			"public"
 			{
-				"gid" "2006896399020764767"
-				"size" "4414548694"
-				"download" "2248440960"
+				"gid" "6390259372180198944"
+				"size" "4642752010"
+				"download" "2341338656"
 			}
 			"unstable"
 			{
-				"gid" "2006896399020764767"
-				"size" "4414548694"
-				"download" "2248440960"
+				"gid" "6390259372180198944"
+				"size" "4642752010"
+				"download" "2341338656"
 			}
 		}
 		"encryptedmanifests"
@@ -216,9 +227,9 @@
 			}
 			"testbranch"
 			{
-				"gid" "2D2119E7F7A44FE23EAD9DA4633E7124"
-				"size" "5A5E35A466528D992C5E8DC4BC7FC544"
-				"download" "4538E87F42A6976C987C8FFD4AE4A0FC"
+				"gid" "AEE314F08EFE9CD601716D88DA015B7F"
+				"size" "F0D1D081FA1B9D0490D7581989D34DDC"
+				"download" "AB72029843563F74D68C9E5FFEEAB3CC"
 			}
 		}
 	}
@@ -226,8 +237,8 @@
 	{
 		"public"
 		{
-			"buildid" "16582822"
-			"timeupdated" "1732912027"
+			"buildid" "16876906"
+			"timeupdated" "1735585405"
 		}
 		"special"
 		{
@@ -237,15 +248,15 @@
 		}
 		"testbranch"
 		{
-			"buildid" "16582822"
+			"buildid" "16876906"
 			"pwdrequired" "1"
-			"timeupdated" "1732907179"
+			"timeupdated" "1735584987"
 		}
 		"unstable"
 		{
-			"buildid" "16582822"
+			"buildid" "16876906"
 			"description" "for community testing"
-			"timeupdated" "1732911988"
+			"timeupdated" "1735585069"
 		}
 	}
 }
@@ -297,6 +308,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26499082"
-"_sha" "105e2bac818d5bcbe1cc291e46cef1b9e9486894"
-"_size" "5063"
+"_change_number" "26819763"
+"_sha" "369a001db7be12f6e267fe834f01e1c8be4efc90"
+"_size" "5328"
