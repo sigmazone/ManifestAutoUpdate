@@ -1,11 +1,14 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-03 00:18:06
+## 更新时间：2025-01-03 09:07:31
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1169040 | 奈斯启示录 Necesse| Game |
-| 1169370 | Necesse Dedicated Server| Tool |
-| 320 | Half-Life 2: Deathmatch| game |
-| 2218400 | 贪婪大地| Game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 3358510 | 再刷一把2：金色传说| Game |
+| 1149460 | 翼星求生 ICARUS| Game |
+| 240 | Counter-Strike: Source| game |
+| 252490 | Rust| Game |
+| 1044720 | Farthest Frontier| Game |
+| 283640 | Salt and Sanctuary| Game |
+| 770810 | 可口的披萨，美味的披萨| Game |
+| 2719030 | 超级键盘侠| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 418030 | Subsistence| Game |
