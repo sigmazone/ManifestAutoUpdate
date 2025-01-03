@@ -208,19 +208,20 @@
 "depots"
 {
 	"baselanguages" "schinese"
+	"workshopdepot" "2361680"
 	"2361688"
 	{
 		"config"
 		{
-			"oslist" "windows"
+			"oslist" "windows,linux"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4392157225425861220"
-				"size" "10986829706"
-				"download" "4305282320"
+				"gid" "475233296456571910"
+				"size" "11174038755"
+				"download" "4373796080"
 			}
 		}
 	}
@@ -229,25 +230,24 @@
 		"config"
 		{
 			"language" "tchinese"
-			"oslist" "windows"
+			"oslist" "windows,linux"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "804528300283011783"
-				"size" "10986849101"
-				"download" "4305386432"
+				"gid" "2599230212162734567"
+				"size" "11174058108"
+				"download" "4373795856"
 			}
 		}
 	}
-	"workshopdepot" "2361680"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16841251"
-			"timeupdated" "1735025828"
+			"buildid" "16896289"
+			"timeupdated" "1735872664"
 		}
 	}
 	"privatebranches" "1"
@@ -267,6 +267,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26770880"
-"_sha" "c5436d2286111c9dc3a2af6b87a276c66fe155e2"
-"_size" "5806"
+"_change_number" "26846802"
+"_sha" "564905b9b57ac1cf0f266076bca8b4df3a4f52fe"
+"_size" "5818"
