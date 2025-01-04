@@ -62,7 +62,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "02f35ff84069faf462b1cb170d6adcf23cbb9675/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -72,7 +72,9 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -86,18 +88,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "55569ae202510227f9e29a415e12d09b4d265693/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "55569ae202510227f9e29a415e12d09b4d265693/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "7a5212e7e479008dc159dea6b8d05187d999221a/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "7a5212e7e479008dc159dea6b8d05187d999221a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "7a5212e7e479008dc159dea6b8d05187d999221a/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -113,8 +126,19 @@
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ec4f32450961e2a65fedeac3d399bcf71511957f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ec4f32450961e2a65fedeac3d399bcf71511957f/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1667974289"
+	"store_asset_mtime" "1731475932"
 	"associations"
 	{
 		"0"
@@ -141,14 +165,19 @@
 	}
 	"category"
 	{
-		"category_2" "1"
 		"category_1" "1"
 		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
 	{
 		"english"
+		{
+			"supported" "true"
+		}
+		"brazilian"
 		{
 			"supported" "true"
 		}
@@ -163,8 +192,8 @@
 		"2" "9564"
 		"3" "3834"
 		"4" "6730"
-		"5" "1775"
-		"6" "1695"
+		"5" "1695"
+		"6" "1775"
 		"7" "5900"
 		"8" "4106"
 		"9" "4191"
@@ -173,14 +202,14 @@
 		"12" "4175"
 		"13" "19"
 		"14" "4305"
-		"15" "4145"
-		"16" "1685"
-		"17" "3859"
+		"15" "3859"
+		"16" "4145"
+		"17" "1685"
 		"18" "3843"
 		"19" "128"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -426,36 +455,42 @@
 		{
 			"public"
 			{
-				"gid" "524212036492017418"
-				"size" "7201268153"
-				"download" "6268245008"
+				"gid" "5598107501623712803"
+				"size" "3077567275"
+				"download" "2605232800"
+			}
+			"oldversion"
+			{
+				"gid" "4661722553438607475"
+				"size" "7233416231"
+				"download" "6294338976"
 			}
 			"testpublic"
 			{
-				"gid" "5151477618832095157"
-				"size" "7197415268"
-				"download" "6277396864"
+				"gid" "5598107501623712803"
+				"size" "3077567275"
+				"download" "2605232800"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "CCAAA2D37142C46079D31D5ED2840FB5"
-				"size" "199BD54C47DE5BBF7FD3DB6DB64A16B9"
-				"download" "5F5C1F4C8ADDE7BA9FAD7772AC6B298C"
-			}
-			"testing"
-			{
-				"gid" "5AA2C457E0941247ADB3D906A60150F6"
-				"size" "9D6D51DA32CDC69A09F134524C5D93F6"
-				"download" "6F1DDE7305FA71FAE81337262D1E56C2"
+				"gid" "F950597BB7C88EAE67F3EDE7F37CEDC8"
+				"size" "B0904640BA9762D96567C720300701B3"
+				"download" "917D056D0525B6C767BBAC7122DB1EE3"
 			}
 			"kato"
 			{
 				"gid" "EC12FDC521936D65DF2C99EBD4410560"
 				"size" "7CA18CF92815697E2343B730B7932E0D"
 				"download" "F72361F244F5A0509D875D893F2D2021"
+			}
+			"testing"
+			{
+				"gid" "ADFB8A108B7F9231E5E026699559061F"
+				"size" "86881154913F6DA669A16999D99C0166"
+				"download" "77515F2AE96FDD8860D9A4DB40916E32"
 			}
 		}
 	}
@@ -472,20 +507,14 @@
 	{
 		"public"
 		{
-			"buildid" "14861389"
-			"timeupdated" "1719510947"
+			"buildid" "16851914"
+			"timeupdated" "1735931880"
 		}
 		"developer"
 		{
-			"buildid" "13530108"
+			"buildid" "16895166"
 			"pwdrequired" "1"
-			"timeupdated" "1712702473"
-		}
-		"testing"
-		{
-			"buildid" "10861581"
-			"pwdrequired" "1"
-			"timeupdated" "1679901570"
+			"timeupdated" "1735926249"
 		}
 		"kato"
 		{
@@ -493,11 +522,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1719855890"
 		}
+		"oldversion"
+		{
+			"buildid" "16895166"
+			"description" "Version Old 126.4"
+			"timeupdated" "1735931940"
+		}
+		"testing"
+		{
+			"buildid" "16400954"
+			"pwdrequired" "1"
+			"timeupdated" "1732259091"
+		}
 		"testpublic"
 		{
-			"buildid" "15319020"
+			"buildid" "16851914"
 			"description" "testpublic"
-			"timeupdated" "1723209989"
+			"timeupdated" "1735182671"
 		}
 	}
 }
@@ -508,3 +549,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "26855101"
+"_sha" "94c7557af6e76f1983f0a9a707dc7206642c625b"
+"_size" "9608"
