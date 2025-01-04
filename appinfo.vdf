@@ -12,6 +12,16 @@
 	"logo" "b5de868651e1fe73a54f6a407a5bbf2c106eb057"
 	"logo_small" "b5de868651e1fe73a54f6a407a5bbf2c106eb057_thumb"
 	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1807810_eula_1"
+			"name" "The Axis Unseen EULA"
+			"url" "https://store.steampowered.com//eula/1807810_eula_1"
+			"version" "1"
+		}
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -184,6 +194,7 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -339,9 +350,9 @@
 		{
 			"public"
 			{
-				"gid" "1566476490682707808"
-				"size" "26054060595"
-				"download" "24772571952"
+				"gid" "1839857105622763803"
+				"size" "26054061315"
+				"download" "24772730496"
 			}
 			"local"
 			{
@@ -350,28 +361,13 @@
 				"download" "88880"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "DDDDE9665AFBAA9A7FE5134ADBCA466B"
-				"size" "EB7CC66E61E412BB1AF76C6E223D316D"
-				"download" "953319558F6825C54B4E9B86BBFF5EDC"
-			}
-			"purkey"
-			{
-				"gid" "5862EFF371D7E144BE1F62035C5413D6"
-				"size" "7B2F336C2B1EADBF5EE43E8B3B235B26"
-				"download" "74A88E917AAE6F42355DCDBFB2A0AC02"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16763924"
-			"timeupdated" "1734449903"
+			"buildid" "16901001"
+			"timeupdated" "1735943355"
 		}
 		"local"
 		{
@@ -380,19 +376,8 @@
 			"lcsrequired" "1"
 			"timeupdated" "1695136345"
 		}
-		"beta"
-		{
-			"buildid" "16763924"
-			"pwdrequired" "1"
-			"timeupdated" "1734384642"
-		}
-		"purkey"
-		{
-			"buildid" "16618812"
-			"pwdrequired" "1"
-			"timeupdated" "1733251524"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -427,6 +412,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26680337"
-"_sha" "88542e05770fe02691cf9c90fe5064babc762f7d"
-"_size" "7588"
+"_change_number" "26856684"
+"_sha" "b88bbc564de4250ce65e4cf44f11aa296a07cd09"
+"_size" "7236"
