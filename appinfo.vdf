@@ -3,7 +3,7 @@
 {
 	"name" "Box Cats Puzzle"
 	"type" "Game"
-	"oslist" "windows,macos,linux"
+	"oslist" "windows,linux"
 	"osarch" "64"
 	"clienticon" "4c374bfada998c7fd5bef380cdfbedc7d7b7a7b0"
 	"clienttga" "068c23c22a4dd5544629375eb15d6326615168e4"
@@ -18,7 +18,7 @@
 		"japanese" "1"
 	}
 	"releasestate" "released"
-	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"osextended" ""
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -74,15 +74,77 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
-			"width_pct" "35.93023255813955"
-			"height_pct" "92.35995672709043"
+			"width_pct" "35.00172749082623"
+			"height_pct" "59.058159186882335"
 		}
 	}
-	"store_asset_mtime" "1640358390"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "5961cb3972a69ad6a84ae16b4fb319ef10c14bc8/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "5961cb3972a69ad6a84ae16b4fb319ef10c14bc8/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "f46fe5bd0c53993904dc496a750c995736a8303f/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f46fe5bd0c53993904dc496a750c995736a8303f/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "9f6599380f59f588230bad4cf26622cdc88312f0/logo.png"
+			}
+			"image2x"
+			{
+				"english" "9f6599380f59f588230bad4cf26622cdc88312f0/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "35.00172749082623"
+				"height_pct" "59.058159186882335"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f0e0567c9e2fb16d5dc362dce0a231c76695efad/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f0e0567c9e2fb16d5dc362dce0a231c76695efad/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735886951"
 	"associations"
 	{
 		"0"
@@ -230,18 +292,18 @@
 		{
 			"public"
 			{
-				"gid" "404842281285560086"
-				"size" "311664126"
-				"download" "69439712"
+				"gid" "643121385312564867"
+				"size" "640289156"
+				"download" "85269120"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "BE71D9A4BCD356FBE848420567CD6F48"
-				"size" "C9CDA0628C535F25B4EA7F976FF81293"
-				"download" "A736C760B31605211C08F8A7BC9D07B9"
+				"gid" "2263134B306A91131298EAC8E30B280E"
+				"size" "2849B31E01F230EDECBE970C8BD28ED7"
+				"download" "B735A5838C84D83FC0B4BA017FD05575"
 			}
 		}
 	}
@@ -280,18 +342,18 @@
 		{
 			"public"
 			{
-				"gid" "9195467987004575180"
-				"size" "324487613"
-				"download" "70210192"
+				"gid" "7501457420924356732"
+				"size" "686916036"
+				"download" "95348240"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "20CB6D01B923D4EA4120178453200A2E"
-				"size" "0CFF3EBCC762F3072A84EE3FF6729F49"
-				"download" "6B1387AA290FF01D02CC50E346CA6426"
+				"gid" "CB0432D5BF5C684033F18C002122551B"
+				"size" "3071A0A01AC6EBB6D41CFA8BF4C077EE"
+				"download" "66679C89B5E17951455E3C4D3C88DBAD"
 			}
 		}
 	}
@@ -299,14 +361,14 @@
 	{
 		"public"
 		{
-			"buildid" "9072132"
-			"timeupdated" "1657121218"
+			"buildid" "16905358"
+			"timeupdated" "1735993319"
 		}
 		"test"
 		{
-			"buildid" "9072132"
+			"buildid" "16905358"
 			"pwdrequired" "1"
-			"timeupdated" "1657120906"
+			"timeupdated" "1735981094"
 		}
 	}
 }
@@ -338,3 +400,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26860829"
+"_sha" "525295e70a249fdb8b12c9d9a459171b013792b9"
+"_size" "7103"
