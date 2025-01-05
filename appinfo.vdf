@@ -162,6 +162,8 @@
 }
 "extended"
 {
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "test"
 	"developer" "chi"
 	"publisher" "chi"
 	"gamemanualurl" "https://store.steampowered.com/manual/1169460/"
@@ -174,6 +176,7 @@
 		"0"
 		{
 			"executable" "Game.exe"
+			"arguments" "--in-process-gpu"
 			"type" "default"
 			"config"
 			{
@@ -204,6 +207,12 @@
 			"enabled_branches" "default"
 			"use_action_block" "false"
 		}
+		"3400937999"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
 	}
 }
 "depots"
@@ -220,18 +229,18 @@
 		{
 			"public"
 			{
-				"gid" "8187333121706344807"
-				"size" "1298417557"
-				"download" "1007859152"
+				"gid" "7431218116843996951"
+				"size" "1297623520"
+				"download" "1007707984"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "ECEF052AAF81BF9D0A4174BA7B0107C8"
-				"size" "B906C788E9EF6F600B14841A7A01EA03"
-				"download" "A078B175BEB610FE16ED28701BABC68F"
+				"gid" "C711D7011E45B07E22DD4AC5496A5B10"
+				"size" "60346D6BB18E325E449C8D4D6D6A16F3"
+				"download" "CBF7DA3EBF64B0366024DCC7CCF37870"
 			}
 		}
 	}
@@ -239,14 +248,14 @@
 	{
 		"public"
 		{
-			"buildid" "16866376"
-			"timeupdated" "1735399060"
+			"buildid" "16906116"
+			"timeupdated" "1735994669"
 		}
 		"test"
 		{
-			"buildid" "16866376"
+			"buildid" "16906116"
 			"pwdrequired" "1"
-			"timeupdated" "1735398495"
+			"timeupdated" "1735994648"
 		}
 	}
 }
@@ -270,6 +279,6 @@
 	"appidredirect" "1169460"
 }
 "_missing_token" "False"
-"_change_number" "26804986"
-"_sha" "39527c090964962fbfde044a1deaac27cc9f1b10"
-"_size" "4794"
+"_change_number" "26866179"
+"_sha" "309a58babae26c24f358fdc349049991a451214a"
+"_size" "5046"
