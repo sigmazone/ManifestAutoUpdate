@@ -98,6 +98,7 @@
 	{
 		"library_capsule" "en,ja,ko,zh-cn,zh-tw,de,es,it,fr"
 		"library_hero" "en,ja,ko,zh-cn,zh-tw,de,fr,it,es"
+		"library_hero_blur" "de,fr,it,es"
 		"library_logo" "ja,ko,zh-cn,zh-tw,en,de,es,it,fr"
 		"library_header" "zh-tw,en,ko,zh-cn,ja,de,es,fr,it"
 		"logo_position"
@@ -165,7 +166,7 @@
 		}
 		"library_hero_blur"
 		{
-			"images"
+			"image"
 			{
 				"german" "2b74b32b1305e84eeaac824e5a9256482415760c/library_hero_blur_german.jpg"
 				"french" "2b74b32b1305e84eeaac824e5a9256482415760c/library_hero_blur_french.jpg"
@@ -304,29 +305,29 @@
 	"gameid" "2514960"
 	"store_tags"
 	{
-		"0" "4486"
-		"1" "3834"
-		"2" "3799"
-		"3" "11014"
-		"4" "7208"
-		"5" "1773"
+		"0" "11014"
+		"1" "3799"
+		"2" "21"
+		"3" "7208"
+		"4" "1742"
+		"5" "3964"
 		"6" "3871"
-		"7" "6426"
-		"8" "4136"
-		"9" "44868"
-		"10" "19"
-		"11" "597"
-		"12" "599"
-		"13" "3964"
-		"14" "4085"
-		"15" "15277"
-		"16" "5608"
-		"17" "21"
-		"18" "4182"
-		"19" "492"
+		"7" "4085"
+		"8" "4486"
+		"9" "1773"
+		"10" "5608"
+		"11" "44868"
+		"12" "4726"
+		"13" "6426"
+		"14" "4136"
+		"15" "597"
+		"16" "3834"
+		"17" "15277"
+		"18" "599"
+		"19" "19"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -353,36 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "315092117112401204"
-				"size" "153168377"
-				"download" "90926880"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"with-dbg-mode"
-			{
-				"gid" "7B8F29061F4C0290C0FD9CD7672CEEAE"
-				"size" "B166AF1AA7FCF06D255824F28EF49CC4"
-				"download" "B208AA8363C53E696B077DDD2B3B4409"
-			}
-			"check"
-			{
-				"gid" "7EA0FD575E0C36A98C1A4FB9D86C7A74"
-				"size" "CC5AEE82BBF9A427AF2333791FB2586E"
-				"download" "699A86327E78B0BD07296B19D5B5C3B3"
-			}
-			"evt-demo"
-			{
-				"gid" "4AC2495AF25C3CF6F1DFA59A4BE61AE0"
-				"size" "A96F6F2D2D36300656E3F1108290CAC3"
-				"download" "70378AE1DA7F9CFBEF788310446C0939"
-			}
-			"int-dbg"
-			{
-				"gid" "5C6A7B3D89F28E634261E0A0C4C469D9"
-				"size" "89C490D52EAFDB022506489C90A3EB28"
-				"download" "811E99C95B8D064BCA7C44E87BF650D7"
+				"gid" "6891880086193535102"
+				"size" "153187823"
+				"download" "90946976"
 			}
 		}
 	}
@@ -390,34 +364,11 @@
 	{
 		"public"
 		{
-			"buildid" "16419651"
-			"timeupdated" "1731679596"
-		}
-		"with-dbg-mode"
-		{
-			"buildid" "13651579"
-			"pwdrequired" "1"
-			"timeupdated" "1709699881"
-		}
-		"check"
-		{
-			"buildid" "14698994"
-			"pwdrequired" "1"
-			"timeupdated" "1729573632"
-		}
-		"evt-demo"
-		{
-			"buildid" "12637690"
-			"pwdrequired" "1"
-			"timeupdated" "1729573501"
-		}
-		"int-dbg"
-		{
-			"buildid" "16419651"
-			"pwdrequired" "1"
-			"timeupdated" "1731677776"
+			"buildid" "16916742"
+			"timeupdated" "1736163216"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -427,6 +378,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26213289"
-"_sha" "cbcb41080a3b57a6ab354aa758a6c1161113ef2d"
-"_size" "11560"
+"_change_number" "26876699"
+"_sha" "23e1ba3e90f67dfdd04f393caa5b381f93a9461e"
+"_size" "10472"
