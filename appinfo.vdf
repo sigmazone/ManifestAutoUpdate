@@ -159,7 +159,7 @@
 		"12" "597"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -184,31 +184,65 @@
 			}
 			"description" "Launch"
 		}
+		"1"
+		{
+			"executable" "wywgame.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
 	}
 }
 "depots"
 {
 	"2443771"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3646722919936471140"
-				"size" "1551931089"
-				"download" "336725728"
+				"gid" "7877575972358088297"
+				"size" "1549339732"
+				"download" "335131504"
 			}
 			"beta"
 			{
-				"gid" "3646722919936471140"
-				"size" "1551931089"
-				"download" "336725728"
+				"gid" "7877575972358088297"
+				"size" "1549339732"
+				"download" "335131504"
 			}
-			"beta_0.23"
+		}
+	}
+	"2443772"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "3646722919936471140"
-				"size" "1551931089"
-				"download" "336725728"
+				"gid" "2858530172337705330"
+				"size" "1520624126"
+				"download" "301164128"
+			}
+			"beta"
+			{
+				"gid" "2858530172337705330"
+				"size" "1520624126"
+				"download" "301164128"
 			}
 		}
 	}
@@ -216,20 +250,14 @@
 	{
 		"public"
 		{
-			"buildid" "16856955"
-			"timeupdated" "1735512872"
+			"buildid" "16912453"
+			"timeupdated" "1736110892"
 		}
 		"beta"
 		{
-			"buildid" "16856955"
+			"buildid" "16912453"
 			"description" "this will be betas of updates"
-			"timeupdated" "1735256401"
-		}
-		"beta_0.23"
-		{
-			"buildid" "16856955"
-			"description" "update beta"
-			"timeupdated" "1735256410"
+			"timeupdated" "1736110879"
 		}
 	}
 }
@@ -256,6 +284,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26812859"
-"_sha" "d1aa8e7a40a15f3ac404b4e5463f8c21609e787a"
-"_size" "4373"
+"_change_number" "26870273"
+"_sha" "437b604766c6c4055c1527746ebfa3e32565040d"
+"_size" "4704"
